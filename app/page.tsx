@@ -1,64 +1,95 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { ChevronRight, Star, Shield, BookOpen } from 'lucide-react'
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-white">
+    <main className="min-h-screen bg-white flex flex-col">
       {/* Navigation */}
-      <nav className="fixed top-0 w-full bg-white shadow z-50">
-        <div className="container mx-auto px-6 py-4">
+      <nav className="w-full bg-white/80 backdrop-blur-sm sticky top-0 shadow-sm z-50">
+        <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold text-gray-900">Daily Chinese Idioms</div>
-            <div>
+            <div className="flex items-center space-x-2">
+              <span className="text-2xl font-helvetica text-[#FF3B30]">
+                Daily Chinese Idioms
+              </span>
+            </div>
+            <div className="flex items-center space-x-6">
               <Link href="/privacy" className="text-gray-600 hover:text-gray-900 transition-colors">
                 Privacy Policy
               </Link>
+              <a 
+                href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-[#FF3B30] text-white px-4 py-2 rounded-full flex items-center space-x-2 hover:bg-red-600 transition-colors"
+              >
+                <span>Download Now</span>
+                <ChevronRight className="w-4 h-4" />
+              </a>
             </div>
           </div>
         </div>
       </nav>
 
       {/* Hero Section */}
-      <section className="pt-32 pb-20 bg-gradient-to-b from-blue-50 to-white">
+      <section className="flex-1 bg-gradient-to-b from-red-50 via-white to-white py-16">
         <div className="container mx-auto px-6">
-          <div className="flex flex-col lg:flex-row items-center">
-            <div className="lg:w-1/2 mb-12 lg:mb-0">
-              <h1 className="text-5xl font-bold text-gray-900 mb-6">
-                Learn Chinese Idioms Daily
-              </h1>
-              <p className="text-xl text-gray-600 mb-8">
-                Discover the wisdom of Chinese culture through beautiful idioms, right on your home screen with our elegant widgets.
-              </p>
-              <div className="flex space-x-4">
-                <Link href="https://apps.apple.com/" className="flex items-center hover:opacity-80 transition-opacity">
-                  <Image 
-                    src="/app-store-badge.svg" 
-                    alt="Download on the App Store" 
-                    width={150} 
-                    height={50}
-                    priority
-                  />
-                </Link>
+          <div className="flex flex-col lg:flex-row items-center gap-12">
+            <div className="lg:w-1/2 lg:pr-8">
+              <div className="space-y-6">
+                <h1 className="text-4xl lg:text-5xl font-helvetica text-gray-900">
+                  Master Chinese Wisdom,{' '}
+                  <span className="text-[#FF3B30]">
+                    One Idiom at a Time
+                  </span>
+                </h1>
+                <p className="text-lg text-gray-600 leading-relaxed font-helvetica">
+                  Enhance your understanding of Chinese culture through carefully curated idioms, 
+                  delivered daily through elegant widgets on your home screen.
+                </p>
+                <a 
+                    href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324" 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    className="hover:opacity-80 transition-opacity"
+                  >
+                    <Image 
+                      src="/app-store-badge.svg" 
+                      alt="Download on the App Store" 
+                      width={140} 
+                      height={46}
+                      priority
+                      className="w-36"
+                    />
+                  </a>
               </div>
             </div>
             <div className="lg:w-1/2">
-              <div className="relative flex justify-center items-center gap-4">
-                <Image
-                  src="/app-screenshot.png"
-                  alt="App Screenshot"
-                  width={300}
-                  height={600}
-                  className="rounded-3xl shadow-xl"
-                  priority
-                />
-                <Image
-                  src="/widget-screenshot.png"
-                  alt="Widget Screenshot"
-                  width={250}
-                  height={500}
-                  className="rounded-3xl shadow-xl"
-                  priority
-                />
+              <div className="relative">
+                <div className="absolute inset-0 bg-gradient-to-r from-red-400/30 to-red-300/30 blur-3xl rounded-full" />
+                <div className="relative flex justify-center items-center gap-4">
+                  <div className="transform-gpu hover:scale-105 transition-transform">
+                    <Image
+                      src="/app-screenshot.jpeg"
+                      alt="App Screenshot"
+                      width={280}
+                      height={560}
+                      className="rounded-3xl shadow-xl"
+                      priority
+                    />
+                  </div>
+                  <div className="transform-gpu hover:scale-105 transition-transform">
+                    <Image
+                      src="/widget-screenshot.jpeg"
+                      alt="Widget Screenshot"
+                      width={280}
+                      height={560}
+                      className="rounded-3xl shadow-xl"
+                      priority
+                    />
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -66,14 +97,23 @@ export default function Home() {
       </section>
 
       {/* Features Section */}
-      <section className="py-20">
+      <section className="bg-white py-16">
         <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">Why Choose Our App?</h2>
+          <h2 className="text-3xl font-helvetica text-center mb-12 text-gray-900">
+            Why Choose Daily Chinese Idioms?
+          </h2>
           <div className="grid md:grid-cols-3 gap-8">
             {features.map((feature, index) => (
-              <div key={index} className="p-6 border rounded-lg hover:shadow-lg transition-shadow">
-                <h3 className="text-xl font-semibold text-gray-900 mb-4">{feature.title}</h3>
-                <p className="text-gray-600">{feature.description}</p>
+              <div key={index} className="p-6 rounded-xl bg-gradient-to-b from-gray-50 to-white border border-gray-100 hover:shadow-lg transition-all group">
+                <div className="mb-4">
+                  {feature.icon}
+                </div>
+                <h3 className="text-xl font-helvetica text-gray-900 mb-3 group-hover:text-[#FF3B30] transition-colors">
+                  {feature.title}
+                </h3>
+                <p className="text-gray-600 leading-relaxed font-helvetica">
+                  {feature.description}
+                </p>
               </div>
             ))}
           </div>
@@ -81,17 +121,17 @@ export default function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="bg-gray-50">
-        <div className="container mx-auto px-6 py-8">
+      <footer className="bg-gray-50 py-6 w-full">
+        <div className="container mx-auto px-4">
           <div className="text-center space-y-2">
-            <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms. All rights reserved.</p>
-            <p className="text-gray-600">
-              Made by{' '}
+            <p className="text-gray-600 font-helvetica">© {new Date().getFullYear()} Daily Chinese Idioms. All rights reserved.</p>
+            <p className="text-gray-600 font-helvetica">
+              Crafted with care by{' '}
               <a 
                 href="https://wilsonlimset.com" 
                 target="_blank" 
                 rel="noopener noreferrer" 
-                className="text-blue-600 hover:text-blue-800 transition-colors"
+                className="text-[#FF3B30] hover:text-red-600 transition-colors font-medium"
               >
                 Wilson
               </a>
@@ -106,14 +146,17 @@ export default function Home() {
 const features = [
   {
     title: "Beautiful Widgets",
-    description: "Elegant home screen widgets that seamlessly integrate Chinese idioms into your daily life."
+    description: "Transform your home screen with elegantly designed widgets that make learning Chinese idioms a seamless part of your daily routine.",
+    icon: <Star className="w-8 h-8 text-[#FF3B30]" />
   },
   {
     title: "Privacy Focused",
-    description: "No data collection, no tracking, and no internet required. Your privacy comes first."
+    description: "Your privacy is our priority. Enjoy a completely offline experience with no data collection or tracking whatsoever.",
+    icon: <Shield className="w-8 h-8 text-[#FF3B30]" />
   },
   {
     title: "Daily Learning",
-    description: "Learn new Chinese idioms every day with clear explanations and cultural context."
+    description: "Immerse yourself in Chinese culture through carefully selected idioms, complete with detailed explanations and cultural context.",
+    icon: <BookOpen className="w-8 h-8 text-[#FF3B30]" />
   }
 ]
