@@ -82,7 +82,7 @@ export default function Home() {
       <section className="bg-white py-16 relative">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">
-            What's Inside?
+            What&apos;s Inside?
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             {features.map((feature, index) => (
