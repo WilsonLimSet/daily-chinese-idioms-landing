@@ -1,31 +1,10 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { ChevronRight, Star, Shield, BookOpen } from 'lucide-react'
+import { Star, Shield, BookOpen } from 'lucide-react'
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-white flex flex-col">
-      {/* Enhanced Navigation */}
-      {/* <nav className="w-full bg-white sticky top-0 z-50 border-b border-gray-100" role="navigation">
-        <div className="container mx-auto px-4 py-4">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center space-x-2">
-              <Link href="/" className="focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 rounded-lg">
-                <span className="text-2xl font-medium text-[#FF3B30]" role="heading" aria-level={1}>
-                  Daily Chinese Idioms
-                </span>
-              </Link>
-            </div>
-            <Link 
-              href="/privacy" 
-              className="text-gray-600 hover:text-gray-900 transition-all duration-200 px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
-              aria-label="Privacy Policy"
-            >
-              Privacy Policy
-            </Link>
-          </div>
-        </div>
-      </nav> */}
 
       {/* Enhanced Hero Section */}
       <section className="flex-1 bg-gradient-to-b from-red-50 via-white to-white py-16 relative overflow-hidden">
