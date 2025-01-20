@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Daily Chinese Idioms - Home Screen Widget",
     description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
-    images: ['/og-image.pong'], 
+    images: ['/og-image.png'], 
   },
   twitter: {
     card: 'summary_large_image',
