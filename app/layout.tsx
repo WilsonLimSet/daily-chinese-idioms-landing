@@ -13,19 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daily Chinese Idioms - Learn Chinese Culture One Idiom at a Time",
-  description: "Enhance your understanding of Chinese culture through carefully curated idioms, delivered daily through elegant widgets on your home screen.",
+  title: "Daily Chinese Idioms - Home Screen Widget",
+  description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
   metadataBase: new URL('https://dailychineseidioms.com'),
   openGraph: {
-    title: 'Daily Chinese Idioms - Learn Chinese Culture One Idiom at a Time',
-    description: 'Enhance your understanding of Chinese culture through carefully curated idioms, delivered daily through elegant widgets on your home screen.',
-    images: ['/og-image.jpg'], // Make sure to add this image to your public folder
+    title: "Daily Chinese Idioms - Home Screen Widget",
+    description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
+    images: ['/og-image.jpg'], 
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Daily Chinese Idioms - Learn Chinese Culture One Idiom at a Time',
-    description: 'Enhance your understanding of Chinese culture through carefully curated idioms, delivered daily through elegant widgets on your home screen.',
-    images: ['/og-image.jpg'], // Same image as OG
+    title: "Daily Chinese Idioms - Home Screen Widget",
+  description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
+    images: ['/og-image.jpg'], 
   },
 };
 
