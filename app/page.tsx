@@ -123,6 +123,13 @@ export default function Home() {
               </a>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link 
+                href="/blog" 
+                className="text-gray-600 hover:text-[#FF3B30] transition-colors"
+              >
+                Blog
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link 
                 href="/privacy" 
                 className="text-gray-600 hover:text-[#FF3B30] transition-colors"
               >
