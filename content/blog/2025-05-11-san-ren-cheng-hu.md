@@ -23,4 +23,4 @@ This idiom originates from the Wei state minister Pang Cong's warning to his kin
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6670238264).*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

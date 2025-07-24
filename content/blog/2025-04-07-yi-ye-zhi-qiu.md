@@ -23,4 +23,4 @@ The profound observation that from one (一) leaf (叶) one can know (知) autum
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6670238264).*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

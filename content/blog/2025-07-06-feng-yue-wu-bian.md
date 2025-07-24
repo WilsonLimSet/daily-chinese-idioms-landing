@@ -23,4 +23,4 @@ This aesthetic idiom celebrates how the beauty of wind (风) and moon (月) exte
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6670238264).*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

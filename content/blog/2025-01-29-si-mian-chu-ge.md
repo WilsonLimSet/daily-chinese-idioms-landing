@@ -23,4 +23,4 @@ This poignant idiom originates from the final battle of Xiang Yu in 202 BCE. Sur
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6670238264).*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

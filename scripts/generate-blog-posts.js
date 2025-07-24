@@ -63,7 +63,7 @@ This idiom belongs to the category of **${idiom.theme}**.
 
 ---
 
-*Learn more Chinese idioms with our [Daily Chinese Idioms app](https://apps.apple.com/us/app/daily-chinese-idioms/id6670238264).*
+*Learn more Chinese idioms with our [Daily Chinese Idioms app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*
 `;
 
     await fs.writeFile(filepath, content);
