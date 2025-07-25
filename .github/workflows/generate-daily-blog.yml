@@ -2,8 +2,8 @@ name: Generate Daily Blog Post
 
 on:
   schedule:
-    # Run at 00:00 UTC every day
-    - cron: '0 0 * * *'
+    # Run at 00:00 Sydney time (14:00 UTC during AEST, 13:00 UTC during AEDT)
+    - cron: '0 14 * * *'
   workflow_dispatch: # Allow manual trigger
 
 permissions:
