@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   images: {
-    domains: ['dailychineseidioms.com'],
+    domains: ['chineseidioms.com', 'www.chineseidioms.com'],
   },
   poweredByHeader: false,
   compress: true,

@@ -14,16 +14,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daily Chinese Idioms - Home Screen Widget",
-  description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
+  title: "Chengyu: Daily Chinese Idioms - Home Screen Widget",
+  description: "Learn Chinese idioms (chengyu) through beautiful widgets on your home screen. New idioms daily with pinyin, translations and cultural stories.",
   metadataBase: new URL('https://www.chineseidioms.com'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://www.chineseidioms.com',
-    title: "Daily Chinese Idioms - Home Screen Widget",
-    description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
-    siteName: 'Daily Chinese Idioms',
+    title: "Chengyu: Daily Chinese Idioms - Home Screen Widget",
+    description: "Learn Chinese idioms (chengyu) through beautiful widgets on your home screen. New idioms daily with pinyin, translations and cultural stories.",
+    siteName: 'Chengyu: Daily Chinese Idioms',
     images: [{
       url: '/og-image.png',
       width: 1200,
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: "Daily Chinese Idioms - Home Screen Widget",
-    description: "Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, with translations and stories behind them.",
+    title: "Chengyu: Daily Chinese Idioms - Home Screen Widget",
+    description: "Learn Chinese idioms (chengyu) through beautiful widgets on your home screen. New idioms daily with pinyin, translations and cultural stories.",
     images: ['/og-image.png'],
   },
 };
