@@ -1,0 +1,6 @@
+# Robots.txt for www.chineseidioms.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.chineseidioms.com/sitemap.xml

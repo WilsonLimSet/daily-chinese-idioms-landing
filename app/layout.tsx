@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "Chengyu: Daily Chinese Idioms - Home Screen Widget",
   description: "Learn Chinese idioms (chengyu) through beautiful widgets on your home screen. New idioms daily with pinyin, translations and cultural stories.",
   metadataBase: new URL('https://www.chineseidioms.com'),
+  alternates: {
+    canonical: 'https://www.chineseidioms.com',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',

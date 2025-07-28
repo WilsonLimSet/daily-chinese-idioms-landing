@@ -1,0 +1,26 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "chineseidioms.com"
+        }
+      ],
+      "destination": "https://www.chineseidioms.com/$1",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "all"
+        }
+      ]
+    }
+  ]
+}
