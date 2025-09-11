@@ -23,14 +23,54 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
+  // Winning query-focused title format
+  const title = `${post.idiom.characters} (${post.idiom.pinyin}): meaning in English, origin & examples`;
+  
+  // Optimized meta description (150-160 chars)
+  const pinyinNoTones = post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
+    const map: { [key: string]: string } = {
+      'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
+      'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
+      'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
+      'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
+      'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
+      'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
+      'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
+    };
+    return map[match] || match;
+  });
+  
+  const description = `${post.idiom.characters} ${pinyinNoTones} — literally "${post.idiom.meaning.toLowerCase()}." Meaning in English, brief origin, usage notes, and example sentences.`;
+
   return {
-    title: post.title,
-    description: post.idiom.metaphoric_meaning,
+    title,
+    description,
+    keywords: [
+      post.idiom.characters,
+      post.idiom.pinyin,
+      `${post.idiom.pinyin} meaning`,
+      `${post.idiom.characters} meaning`,
+      `${post.idiom.characters} meaning in english`,
+      'chinese idiom',
+      'chengyu',
+      post.idiom.theme.toLowerCase()
+    ].join(', '),
     openGraph: {
-      title: post.title,
-      description: post.idiom.metaphoric_meaning,
+      title,
+      description,
       type: 'article',
       publishedTime: post.date,
+      modifiedTime: post.date,
+      authors: ['Daily Chinese Idioms'],
+      tags: ['Chinese idioms', 'Chengyu', post.idiom.theme, 'Learn Chinese'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+    },
+    alternates: {
+      canonical: `https://www.chineseidioms.com/blog/${slug}`,
     },
   };
 }
@@ -43,11 +83,52 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     notFound();
   }
 
-  // Get all posts for navigation
+  // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts();
   const currentIndex = allPosts.findIndex(p => p.slug === slug);
   const prevPost = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
   const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
+  
+  // Find semantically related posts (stronger topical relevance)
+  const relatedPosts = allPosts
+    .filter(p => {
+      // Same theme OR similar meaning patterns
+      const sameTheme = p.idiom.theme === post.idiom.theme;
+      const similarMeaning = p.idiom.metaphoric_meaning.toLowerCase().includes(
+        post.idiom.metaphoric_meaning.toLowerCase().split(' ')[0]
+      );
+      return (sameTheme || similarMeaning) && p.slug !== slug;
+    })
+    .slice(0, 4);
+    
+  // Generate pinyin variants
+  const pinyinVariants = {
+    withTones: post.idiom.pinyin,
+    noTones: post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
+      const map: { [key: string]: string } = {
+        'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
+        'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
+        'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
+        'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
+        'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
+        'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
+        'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
+      };
+      return map[match] || match;
+    }),
+    withSpaces: post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
+      const map: { [key: string]: string } = {
+        'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
+        'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
+        'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
+        'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
+        'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
+        'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
+        'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
+      };
+      return map[match] || match;
+    }).replace(/ /g, ' ')
+  };
 
   // Process markdown content
   const processedContent = await remark()
@@ -55,28 +136,108 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     .process(post.content);
   const contentHtml = processedContent.toString();
 
-  // Structured data for SEO
-  const structuredData = {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": post.title,
-    "datePublished": post.date,
-    "dateModified": post.date,
-    "author": {
-      "@type": "Organization",
-      "name": "Daily Chinese Idioms"
+  // Enhanced structured data with DefinedTerm and multiple schemas
+  const structuredData = [
+    {
+      "@context": "https://schema.org",
+      "@type": "DefinedTerm",
+      "name": post.idiom.characters,
+      "alternateName": [
+        pinyinVariants.withTones,
+        pinyinVariants.noTones,
+        pinyinVariants.withSpaces,
+        `${post.idiom.characters} meaning`,
+        `${post.idiom.characters} in english`
+      ],
+      "description": `${post.idiom.characters} literally means "${post.idiom.meaning}" and metaphorically means "${post.idiom.metaphoric_meaning}"`,
+      "inDefinedTermSet": "https://www.chineseidioms.com/blog",
+      "termCode": post.idiom.id || slug
     },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Daily Chinese Idioms",
-      "logo": {
-        "@type": "ImageObject",
-        "url": `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.title,
+      "alternativeHeadline": `${post.idiom.characters} - Chinese Idiom Meaning and Examples`,
+      "datePublished": post.date,
+      "dateModified": post.date,
+      "author": {
+        "@type": "Organization",
+        "name": "Daily Chinese Idioms",
+        "url": "https://www.chineseidioms.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Daily Chinese Idioms",
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
+        }
+      },
+      "description": post.idiom.metaphoric_meaning,
+      "articleBody": post.idiom.description,
+      "inLanguage": "en",
+      "keywords": `${post.idiom.characters}, ${pinyinVariants.withTones}, ${pinyinVariants.noTones}, chinese idiom, chengyu, ${post.idiom.theme}`,
+      "wordCount": post.content.split(' ').length,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://www.chineseidioms.com/blog/${slug}`
       }
     },
-    "description": post.idiom.metaphoric_meaning,
-    "articleBody": post.idiom.description
-  };
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": `What does ${post.idiom.characters} mean?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${post.idiom.characters} (${post.idiom.pinyin}) literally means "${post.idiom.meaning}" and metaphorically means "${post.idiom.metaphoric_meaning}". It belongs to the ${post.idiom.theme} category of Chinese idioms.`
+          }
+        },
+        {
+          "@type": "Question",
+          "name": `How do you pronounce ${post.idiom.characters}?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${post.idiom.characters} is pronounced as "${post.idiom.pinyin}" in Mandarin Chinese.`
+          }
+        },
+        {
+          "@type": "Question",
+          "name": `When is ${post.idiom.characters} used?`,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": `${post.idiom.characters} is used when ${post.idiom.example || `describing situations involving ${post.idiom.metaphoric_meaning.toLowerCase()}`}.`
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.chineseidioms.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.chineseidioms.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": post.idiom.characters,
+          "item": `https://www.chineseidioms.com/blog/${slug}`
+        }
+      ]
+    }
+  ];
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -99,6 +260,21 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           <h1 className="text-4xl font-bold text-black mt-2 mb-4">
             <span className="text-5xl text-black">{post.idiom.characters}</span>
           </h1>
+          
+          {/* Definition Box - Above the fold, 40-60 words */}
+          <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
+            <p className="text-lg font-medium text-gray-900 mb-2">
+              {post.idiom.characters} ({pinyinVariants.withTones}) literally means &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo; 
+              and expresses &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;. 
+              This idiom is used when describing situations involving {post.idiom.theme.toLowerCase().replace('&', 'and')}. 
+              It originates from ancient Chinese literature and remains commonly used in modern Mandarin.
+            </p>
+            <p className="text-sm text-gray-600 mt-2">
+              <strong>Also searched as:</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces}, 
+              {post.idiom.characters} meaning, {post.idiom.characters} in english
+            </p>
+          </div>
+          
           <p className="text-xl text-black font-medium">{post.idiom.metaphoric_meaning}</p>
         </header>
 
@@ -140,6 +316,61 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             <div />
           )}
         </nav>
+        
+        {/* Enhanced Related Posts Section with stronger topical relevance */}
+        {relatedPosts.length > 0 && (
+          <section className="mt-12 pt-8 border-t">
+            <h2 className="text-2xl font-bold mb-2 text-gray-900">Related Chinese Idioms</h2>
+            <p className="text-gray-800 mb-6">Similar idioms about {post.idiom.theme.toLowerCase()}</p>
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+              {relatedPosts.map((relatedPost) => (
+                <Link
+                  key={relatedPost.slug}
+                  href={`/blog/${relatedPost.slug}`}
+                  className="block p-4 bg-white rounded-lg shadow hover:shadow-md transition-shadow"
+                >
+                  <h3 className="text-lg font-bold text-gray-900 mb-1">
+                    {relatedPost.idiom.characters}
+                  </h3>
+                  <p className="text-xs text-gray-700 mb-1 font-medium">{relatedPost.idiom.pinyin}</p>
+                  <p className="text-sm text-gray-800 line-clamp-2">
+                    {relatedPost.idiom.metaphoric_meaning}
+                  </p>
+                  <p className="text-xs text-blue-600 mt-2">
+                    Learn more →
+                  </p>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+        
+        {/* FAQ Section for Featured Snippets */}
+        <section className="mt-12 pt-8 border-t">
+          <h2 className="text-2xl font-bold mb-6 text-gray-900">Frequently Asked Questions</h2>
+          <div className="space-y-6">
+            <div>
+              <h3 className="font-semibold text-lg mb-2 text-gray-900">What does {post.idiom.characters} mean in English?</h3>
+              <p className="text-gray-800">
+                {post.idiom.characters} ({post.idiom.pinyin}) literally translates to &ldquo;{post.idiom.meaning}&rdquo; 
+                and is used to express &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. This Chinese idiom belongs to 
+                the {post.idiom.theme} category.
+              </p>
+            </div>
+            <div>
+              <h3 className="font-semibold text-lg mb-2 text-gray-900">When is {post.idiom.characters} used?</h3>
+              <p className="text-gray-800">
+                <strong>Situation:</strong> {post.idiom.example || `This idiom applies when describing situations involving ${post.idiom.metaphoric_meaning.toLowerCase()}.`}
+              </p>
+            </div>
+            <div>
+              <h3 className="font-semibold text-lg mb-2 text-gray-900">What is the pinyin for {post.idiom.characters}?</h3>
+              <p className="text-gray-800">
+                The pinyin pronunciation for {post.idiom.characters} is &ldquo;{post.idiom.pinyin}&rdquo;.
+              </p>
+            </div>
+          </div>
+        </section>
       </article>
     </div>
   );

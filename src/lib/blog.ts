@@ -51,11 +51,10 @@ export function generateBlogPost(idiom: typeof idioms[0], date: Date): BlogPost 
 
 ${idiom.description}
 
-## Examples
+## When to Use
 
-**English:** "${idiom.example}"
+**Situation:** ${idiom.example}
 
-**Chinese:** ${idiom.chineseExample}
 
 ---
 

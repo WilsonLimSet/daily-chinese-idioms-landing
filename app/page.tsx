@@ -14,15 +14,15 @@ export default function Home() {
             <div className="lg:w-1/2 lg:pr-8">
               <div className="space-y-6">
                 <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 tracking-tight leading-tight">
-                  Daily Chinese Idioms{' '}
+                  Chinese Idioms (成语): Meanings in English{' '}
                   <span className="text-[#FF3B30] inline-block relative mt-2 lg:mt-3">
-                    On Your Home Screen
+                    with Pinyin & Examples
                     <div className="absolute -bottom-1 left-0 w-full h-[2px] bg-[#FF3B30]/20 rounded-full"></div>
                   </span>
                 </h1>
                 <p className="text-lg text-gray-600 leading-relaxed">
-                  Discover Chinese idioms through beautiful widgets on your home screen. New phrases daily, 
-                  with translations and stories behind them.
+                  Learn Chinese idioms (chengyu) through beautiful home screen widgets. Daily updates with 
+                  pinyin pronunciation, English meanings, origins, and practical examples.
                 </p>
                 <div className="pt-4">
                   <a 
@@ -78,11 +78,40 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Popular Idioms Section - Internal Linking */}
+      <section className="bg-gray-50 py-12">
+        <div className="container mx-auto px-6">
+          <h2 className="text-2xl font-bold mb-6 text-gray-900">
+            Most Searched Chinese Idioms
+          </h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+            <Link href="/blog/2025-01-07-ai-wu-ji-wu" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+              <p className="font-bold text-gray-900">爱屋及乌</p>
+              <p className="text-sm text-gray-600">ai wu ji wu</p>
+              <p className="text-xs text-blue-600 mt-1">Love me, love my dog</p>
+            </Link>
+            <Link href="/blog/2025-02-15-mo-ming-qi-miao" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+              <p className="font-bold text-gray-900">莫名其妙</p>
+              <p className="text-sm text-gray-600">mo ming qi miao</p>
+              <p className="text-xs text-blue-600 mt-1">Inexplicably wonderful</p>
+            </Link>
+            <Link href="/blog/2025-03-20-qi-shang-ba-xia" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+              <p className="font-bold text-gray-900">七上八下</p>
+              <p className="text-sm text-gray-600">qi shang ba xia</p>
+              <p className="text-xs text-blue-600 mt-1">Anxious and restless</p>
+            </Link>
+            <Link href="/blog" className="p-3 bg-blue-50 border-2 border-blue-200 rounded-lg hover:bg-blue-100 transition-colors flex items-center justify-center">
+              <p className="text-blue-700 font-semibold">Browse All 365+ Idioms →</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+      
       {/* Enhanced Features Section */}
       <section className="bg-white py-16 relative">
         <div className="container mx-auto px-6">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">
-            What&apos;s Inside?
+            Learn Chinese Idioms Daily
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             {features.map((feature, index) => (

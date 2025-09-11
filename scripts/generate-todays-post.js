@@ -69,11 +69,9 @@ theme: "${idiom.theme}"
 
 ${idiom.description}
 
-## Examples
+## When to Use
 
-**English:** "${idiom.example}"
-
-**Chinese:** ${idiom.chineseExample}
+**Situation:** ${idiom.example}
 
 ---
 
