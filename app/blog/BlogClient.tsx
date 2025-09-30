@@ -20,10 +20,22 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
   // Filter posts by theme and search
   const filteredPosts = posts.filter(post => {
     const matchesTheme = selectedTheme === 'all' || post.idiom.theme === selectedTheme;
-    const matchesSearch = searchQuery === '' || 
+
+    if (searchQuery === '') {
+      return matchesTheme;
+    }
+
+    const query = searchQuery.toLowerCase();
+    const matchesSearch =
       post.idiom.characters.includes(searchQuery) ||
-      post.idiom.pinyin.toLowerCase().includes(searchQuery.toLowerCase()) ||
-      post.idiom.metaphoric_meaning.toLowerCase().includes(searchQuery.toLowerCase());
+      post.idiom.pinyin.toLowerCase().includes(query) ||
+      post.idiom.metaphoric_meaning.toLowerCase().includes(query) ||
+      post.idiom.meaning.toLowerCase().includes(query) ||
+      post.idiom.description.toLowerCase().includes(query) ||
+      post.idiom.example.toLowerCase().includes(query) ||
+      post.idiom.chineseExample.includes(searchQuery) ||
+      post.idiom.theme.toLowerCase().includes(query);
+
     return matchesTheme && matchesSearch;
   });
 
@@ -63,7 +75,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
               placeholder="Search by Chinese characters, pinyin, or meaning..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 outline-none"
+              className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 outline-none text-gray-900 placeholder-gray-500"
             />
           </div>
         </div>

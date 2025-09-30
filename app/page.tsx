@@ -78,6 +78,75 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Language Selection Section */}
+      <section className="bg-white py-12 border-b">
+        <div className="container mx-auto px-6 text-center">
+          <h2 className="text-2xl font-bold mb-4 text-gray-900">
+            🌍 Choose Your Language / 选择语言
+          </h2>
+          <p className="text-gray-600 mb-6">
+            Read Chinese idioms in your preferred language
+          </p>
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-3 max-w-4xl mx-auto">
+            <a href="/blog" className="p-3 bg-red-50 border border-red-200 rounded-lg hover:bg-red-100 transition-all group">
+              <div className="text-2xl mb-1">🇺🇸</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">English</div>
+              <div className="text-xs text-gray-500">Default</div>
+            </a>
+            <a href="/es/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇪🇸</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">Español</div>
+              <div className="text-xs text-gray-500">Spanish</div>
+            </a>
+            <a href="/pt/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇧🇷</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">Português</div>
+              <div className="text-xs text-gray-500">Portuguese</div>
+            </a>
+            <a href="/id/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇮🇩</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">Indonesia</div>
+              <div className="text-xs text-gray-500">Indonesian</div>
+            </a>
+            <a href="/hi/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇮🇳</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">हिंदी</div>
+              <div className="text-xs text-gray-500">Hindi</div>
+            </a>
+            <a href="/ja/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇯🇵</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">日本語</div>
+              <div className="text-xs text-gray-500">Japanese</div>
+            </a>
+            <a href="/ko/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇰🇷</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">한국어</div>
+              <div className="text-xs text-gray-500">Korean</div>
+            </a>
+            <a href="/vi/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇻🇳</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">Tiếng Việt</div>
+              <div className="text-xs text-gray-500">Vietnamese</div>
+            </a>
+            <a href="/th/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇹🇭</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">ไทย</div>
+              <div className="text-xs text-gray-500">Thai</div>
+            </a>
+            <a href="/ar/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇸🇦</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">العربية</div>
+              <div className="text-xs text-gray-500">Arabic</div>
+            </a>
+            <a href="/fr/blog" className="p-3 bg-gray-50 border border-gray-200 rounded-lg hover:bg-gray-100 transition-all group">
+              <div className="text-2xl mb-1">🇫🇷</div>
+              <div className="font-semibold text-gray-900 group-hover:text-red-600">Français</div>
+              <div className="text-xs text-gray-500">French</div>
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* Popular Idioms Section - Internal Linking */}
       <section className="bg-gray-50 py-12">
         <div className="container mx-auto px-6">
