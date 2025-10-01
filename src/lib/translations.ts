@@ -1073,8 +1073,15 @@ export const translations = {
     feature2Desc: "Mas maunawaan ang panitikan, pelikula, at pag-uusap sa Tsino.",
     feature3Title: "Pang-araw-araw na Pag-aaral",
     feature3Desc: "Mamaster ang isang idyoma bawat araw gamit ang aming structured learning approach.",
+
+    // Homepage sections
     mostSearchedTitle: "Pinaka-hinanap na Mga Idyoma ng Tsino",
     browseAllIdioms: "Tingnan Lahat ng 365+ Idyoma →",
+
+    // Featured idioms
+    idiom1: "Mahalin ako, mahalin din ang aking aso",
+    idiom2: "Hindi maipaliwanag na kamangha-mangha",
+    idiom3: "Balisa at hindi mapakali",
     learnDailyTitle: "Matuto ng Mga Idyoma ng Tsino Araw-araw",
     widgetTitle: "Mga Home Screen Widget",
     widgetDesc: "Pumili mula sa maliliit, katamtaman, o malalaking widgets upang ipakita ang mga idyoma ng Tsino direkta sa iyong home screen. Bawat laki ay nagpapakita ng iba't ibang lebel ng detalye.",
@@ -1155,8 +1162,15 @@ export const translations = {
     feature2Desc: "Faham dengan lebih baik kesusasteraan, filem, dan perbualan Cina.",
     feature3Title: "Pembelajaran Harian",
     feature3Desc: "Kuasai satu simpulan sehari dengan pendekatan pembelajaran berstruktur kami.",
+
+    // Homepage sections
     mostSearchedTitle: "Simpulan Bahasa Cina Yang Paling Dicari",
     browseAllIdioms: "Lihat Semua 365+ Simpulan →",
+
+    // Featured idioms
+    idiom1: "Cintailah aku, cintailah juga anjingku",
+    idiom2: "Luar biasa tanpa penjelasan",
+    idiom3: "Cemas dan gelisah",
     learnDailyTitle: "Belajar Simpulan Bahasa Cina Setiap Hari",
     widgetTitle: "Widget Skrin Utama",
     widgetDesc: "Pilih daripada widget kecil, sederhana, atau besar untuk memaparkan simpulan bahasa Cina terus di skrin utama anda. Setiap saiz menunjukkan tahap perincian yang berbeza.",
@@ -1237,8 +1251,15 @@ export const translations = {
     feature2Desc: "Лучше понимайте китайскую литературу, фильмы и разговоры.",
     feature3Title: "Ежедневное обучение",
     feature3Desc: "Осваивайте одну идиому в день с нашим структурированным подходом к обучению.",
+
+    // Homepage sections
     mostSearchedTitle: "Самые популярные китайские идиомы",
     browseAllIdioms: "Просмотреть все 365+ идиом →",
+
+    // Featured idioms
+    idiom1: "Полюби меня, полюби и мою собаку",
+    idiom2: "Необъяснимо прекрасно",
+    idiom3: "Встревоженный и беспокойный",
     learnDailyTitle: "Изучайте китайские идиомы ежедневно",
     widgetTitle: "Виджеты для главного экрана",
     widgetDesc: "Выберите виджеты малого, среднего или большого размера для отображения китайских идиом прямо на главном экране. Каждый размер показывает разный уровень детализации.",
