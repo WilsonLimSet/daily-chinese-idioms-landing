@@ -3,13 +3,13 @@ title: "金戈铁马 - 壮大な軍事力と勇気"
 date: "2025-10-02"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
-meaning: "ゴールドスピアーズアイアンホース"
+meaning: "金の槍鉄の馬"
 metaphoric_meaning: "壮大な軍事力と勇気"
 theme: "戦略と行動"
 ---
 
 **{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** ゴールドスピアーズアイアンホース
+**{{literalMeaning}}:** 金の槍鉄の馬
 
 ## {{originUsage}}
 

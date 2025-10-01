@@ -3,13 +3,13 @@ title: "金戈铁马 - Magnifique puissance militaire et valeur"
 date: "2025-10-02"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
-meaning: "Gold Spears Iron Horses"
+meaning: "Lances d'or chevaux de fer"
 metaphoric_meaning: "Magnifique puissance militaire et valeur"
 theme: "Stratégie et Action"
 ---
 
 **{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** Gold Spears Iron Horses
+**{{literalMeaning}}:** Lances d'or chevaux de fer
 
 ## {{originUsage}}
 

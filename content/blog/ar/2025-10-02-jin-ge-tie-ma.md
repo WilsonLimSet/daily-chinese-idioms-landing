@@ -3,13 +3,13 @@ title: "金戈铁马 - القوة العسكرية الرائعة والشجاع
 date: "2025-10-02"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
-meaning: "جولد سبيرز الخيول الحديدية"
+meaning: "رماح ذهبية خيول حديدية"
 metaphoric_meaning: "القوة العسكرية الرائعة والشجاعة"
 theme: "الاستراتيجية والعمل"
 ---
 
 **{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** جولد سبيرز الخيول الحديدية
+**{{literalMeaning}}:** رماح ذهبية خيول حديدية
 
 ## {{originUsage}}
 

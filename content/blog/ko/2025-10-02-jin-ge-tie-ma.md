@@ -3,13 +3,13 @@ title: "金戈铁马 - 웅장한 군사력과 용기"
 date: "2025-10-02"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
-meaning: "골드 스피어스 아이언 말"
+meaning: "금창 철마"
 metaphoric_meaning: "웅장한 군사력과 용기"
 theme: "전략과 행동"
 ---
 
 **{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** 골드 스피어스 아이언 말
+**{{literalMeaning}}:** 금창 철마
 
 ## {{originUsage}}
 

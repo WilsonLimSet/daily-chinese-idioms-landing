@@ -1,15 +1,15 @@
 ---
-title: "金戈铁马 - Sức mạnh quân sự tuyệt vời và valor"
+title: "金戈铁马 - Sức mạnh quân sự tuyệt vời và lòng dũng cảm"
 date: "2025-10-02"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
-meaning: "Gold Spears Iron Horse"
-metaphoric_meaning: "Sức mạnh quân sự tuyệt vời và valor"
+meaning: "Qua vàng ngựa sắt"
+metaphoric_meaning: "Sức mạnh quân sự tuyệt vời và lòng dũng cảm"
 theme: "Chiến lược & Hành động"
 ---
 
 **{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** Gold Spears Iron Horse
+**{{literalMeaning}}:** Qua vàng ngựa sắt
 
 ## {{originUsage}}
 
