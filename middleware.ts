@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
 // Supported languages
-const SUPPORTED_LANGUAGES = ['es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'tl', 'ms'];
+const SUPPORTED_LANGUAGES = ['es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'tl', 'ms', 'ru'];
 
 // Language detection from Accept-Language header
 function detectLanguage(request: NextRequest): string | null {

@@ -19,6 +19,7 @@ export const LANGUAGES = {
   'fr': 'French',
   'tl': 'Tagalog',
   'ms': 'Malay',
+  'ru': 'Russian',
 } as const;
 
 /**
@@ -47,6 +48,7 @@ export const LOCALE_MAP = {
   'fr': 'fr-FR',
   'tl': 'tl-PH',
   'ms': 'ms-MY',
+  'ru': 'ru-RU',
   'en': 'en-US'
 } as const;
 
@@ -145,6 +147,13 @@ export const LANGUAGE_CONFIG = {
     nativeName: 'Bahasa Melayu',
     englishName: 'Malay',
     locale: 'ms-MY',
+  },
+  'ru': {
+    code: 'ru',
+    flag: '🇷🇺',
+    nativeName: 'Русский',
+    englishName: 'Russian',
+    locale: 'ru-RU',
   },
 } as const;
 
