@@ -81,7 +81,7 @@ export const LANGUAGE_CONFIG = {
   'id': {
     code: 'id',
     flag: '🇮🇩',
-    nativeName: 'Indonesia',
+    nativeName: 'Bahasa Indonesia',
     englishName: 'Indonesian',
     locale: 'id-ID',
   },

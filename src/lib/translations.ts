@@ -314,6 +314,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "最も検索された中国故事成語",
     browseAllIdioms: "365以上の故事成語をすべて見る →",
+
+    // Featured idioms
+    idiom1: "坊主憎けりゃ袈裟まで憎い",
+    idiom2: "言いようのない素晴らしさ",
+    idiom3: "不安で落ち着かない",
     learnDailyTitle: "中国故事成語を毎日学ぶ",
     widgetTitle: "ホーム画面ウィジェット",
     widgetDesc: "小、中、大のウィジェットから選んで、ホーム画面に中国故事成語を直接表示できます。サイズごとに異なるレベルの詳細が表示されます。",
@@ -410,6 +415,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "Provérbios Chineses Mais Pesquisados",
     browseAllIdioms: "Navegar por Todos os 365+ Provérbios →",
+
+    // Featured idioms
+    idiom1: "Ame-me, ame meu cachorro",
+    idiom2: "Inexplicavelmente maravilhoso",
+    idiom3: "Ansioso e inquieto",
     learnDailyTitle: "Aprenda Provérbios Chineses Diariamente",
     widgetTitle: "Widgets de Tela Inicial",
     widgetDesc: "Escolha entre widgets pequenos, médios ou grandes para exibir provérbios chineses diretamente na sua tela inicial. Cada tamanho mostra diferentes níveis de detalhes.",
@@ -447,6 +457,7 @@ export const translations = {
 
     // Common
     chinese: "Chinês",
+    english: "Inglês",
     pinyin: "Pinyin",
     meaning: "Significado",
     example: "Exemplo",
@@ -504,6 +515,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "Thành Ngữ Trung Hoa Được Tìm Kiếm Nhiều Nhất",
     browseAllIdioms: "Duyệt Tất Cả 365+ Thành Ngữ →",
+
+    // Featured idioms
+    idiom1: "Yêu tôi, yêu cả con chó của tôi",
+    idiom2: "Kỳ diệu không thể giải thích",
+    idiom3: "Lo lắng và bồn chồn",
     learnDailyTitle: "Học Thành Ngữ Trung Hoa Hàng Ngày",
     widgetTitle: "Widget Màn Hình Chính",
     widgetDesc: "Chọn từ các widget nhỏ, trung bình hoặc lớn để hiển thị thành ngữ Trung Hoa ngay trên màn hình chính của bạn. Mỗi kích thước hiển thị các mức độ chi tiết khác nhau.",
@@ -601,6 +617,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "Idiomes Chinois Les Plus Recherchés",
     browseAllIdioms: "Parcourir Tous les 365+ Idiomes →",
+
+    // Featured idioms
+    idiom1: "Aime-moi, aime mon chien",
+    idiom2: "Inexplicablement merveilleux",
+    idiom3: "Anxieux et agité",
     learnDailyTitle: "Apprendre les Idiomes Chinois Quotidiennement",
     widgetTitle: "Widgets d'Écran d'Accueil",
     widgetDesc: "Choisissez parmi des widgets petits, moyens ou grands pour afficher les idiomes chinois directement sur votre écran d'accueil. Chaque taille affiche différents niveaux de détails.",
@@ -697,6 +718,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "가장 많이 검색된 중국 고사성어",
     browseAllIdioms: "365개 이상의 모든 고사성어 보기 →",
+
+    // Featured idioms
+    idiom1: "나를 사랑한다면 내 개도 사랑해주세요",
+    idiom2: "형언할 수 없이 훌륭한",
+    idiom3: "불안하고 초조한",
     learnDailyTitle: "매일 중국 고사성어 배우기",
     widgetTitle: "홈 화면 위젯",
     widgetDesc: "작은, 중간, 큰 위젯 중에서 선택하여 홈 화면에 중국 고사성어를 바로 표시하세요. 각 크기마다 다른 수준의 세부 정보를 보여줍니다.",
@@ -793,6 +819,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "สุภาษิตจีนที่ถูกค้นหามากที่สุด",
     browseAllIdioms: "เรียกดูสุภาษิตทั้งหมด 365+ คำ →",
+
+    // Featured idioms
+    idiom1: "รักฉัน รักหมาของฉันด้วย",
+    idiom2: "มหัศจรรย์อย่างไม่อาจอธิบาย",
+    idiom3: "กังวลและไม่สงบ",
     learnDailyTitle: "เรียนรู้สุภาษิตจีนทุกวัน",
     widgetTitle: "วิดเจ็ตหน้าจอหลัก",
     widgetDesc: "เลือกจากวิดเจ็ตขนาดเล็ก กลาง หรือใหญ่ เพื่อแสดงสุภาษิตจีนตรงบนหน้าจอหลักของคุณ แต่ละขนาดแสดงรายละเอียดในระดับที่แตกต่างกัน",
@@ -889,6 +920,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "सबसे ज्यादा खोजे गए चीनी मुहावरे",
     browseAllIdioms: "सभी 365+ मुहावरे देखें →",
+
+    // Featured idioms
+    idiom1: "मुझसे प्यार करो, मेरे कुत्ते से भी प्यार करो",
+    idiom2: "अकथनीय रूप से अद्भुत",
+    idiom3: "चिंतित और बेचैन",
     learnDailyTitle: "रोज़ाना चीनी मुहावरे सीखें",
     widgetTitle: "होम स्क्रीन विजेट",
     widgetDesc: "छोटे, मध्यम या बड़े विजेट में से चुनें ताकि आपकी होम स्क्रीन पर सीधे चीनी मुहावरे दिखाई दें। हर आकार में विवरण के अलग स्तर दिखते हैं।",
@@ -981,6 +1017,11 @@ export const translations = {
     // Homepage sections
     mostSearchedTitle: "الأمثال الصينية الأكثر بحثاً",
     browseAllIdioms: "تصفح جميع الـ 365+ مثل →",
+
+    // Featured idioms
+    idiom1: "أحبني، أحب كلبي",
+    idiom2: "رائع بشكل لا يوصف",
+    idiom3: "قلق ومضطرب",
     learnDailyTitle: "تعلم الأمثال الصينية يومياً",
     widgetTitle: "عناصر واجهة الشاشة الرئيسية",
     widgetDesc: "اختر من عناصر الواجهة الصغيرة أو المتوسطة أو الكبيرة لعرض الأمثال الصينية مباشرة على شاشتك الرئيسية. كل حجم يعرض مستويات مختلفة من التفاصيل.",
