@@ -3,6 +3,7 @@ import { format } from 'date-fns';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { pinyinToSlug } from './utils/pinyin';
 
 export type BlogPost = {
   slug: string;
@@ -24,24 +25,8 @@ export function getIdiomForDate(date: Date): typeof idioms[0] | null {
   return idioms.find(idiom => idiom.id === idiomId) || null;
 }
 
-function removeToneMarks(pinyin: string): string {
-  const toneMap: { [key: string]: string } = {
-    'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-    'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-    'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-    'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-    'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-    'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
-    'ń': 'n', 'ň': 'n', 'ǹ': 'n',
-    'ḿ': 'm', 'm̀': 'm'
-  };
-  
-  return pinyin.split('').map(char => toneMap[char] || char).join('');
-}
-
 export function generateBlogPost(idiom: typeof idioms[0], date: Date): BlogPost {
-  const cleanPinyin = removeToneMarks(idiom.pinyin).replace(/\s+/g, '-');
-  const slug = format(date, 'yyyy-MM-dd') + '-' + cleanPinyin;
+  const slug = format(date, 'yyyy-MM-dd') + '-' + pinyinToSlug(idiom.pinyin);
   
   const content = `
 **Pronunciation:** *${idiom.pinyin}*  

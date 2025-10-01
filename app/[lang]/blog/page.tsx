@@ -1,18 +1,7 @@
 import { getAllBlogPosts } from '@/src/lib/blog-intl';
 import BlogClient from '@/app/blog/BlogClient';
-
-const LANGUAGES = {
-  'id': 'Indonesian',
-  'vi': 'Vietnamese',
-  'th': 'Thai',
-  'ja': 'Japanese',
-  'ko': 'Korean',
-  'es': 'Spanish',
-  'pt': 'Portuguese',
-  'hi': 'Hindi',
-  'ar': 'Arabic',
-  'fr': 'French',
-};
+import { LANGUAGES } from '@/src/lib/constants';
+// import { getTranslation } from '@/src/lib/translations';
 
 export function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({
@@ -20,8 +9,9 @@ export function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: { params: { lang: string } }) {
-  const langName = LANGUAGES[params.lang as keyof typeof LANGUAGES] || 'International';
+export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }) {
+  const { lang } = await params;
+  const langName = LANGUAGES[lang as keyof typeof LANGUAGES] || 'International';
 
   return {
     title: `Chinese Idioms Blog - ${langName} | 成语 Chengyu`,
@@ -37,12 +27,14 @@ export async function generateMetadata({ params }: { params: { lang: string } })
   };
 }
 
-export default async function InternationalBlogPage({ params }: { params: { lang: string } }) {
+export default async function InternationalBlogPage({ params }: { params: Promise<{ lang: string }> }) {
+  const { lang } = await params;
+
   // Fetch translated posts
-  const posts = await getAllBlogPosts(params.lang);
+  const posts = await getAllBlogPosts(lang);
 
   // Extract unique themes
   const themes = Array.from(new Set(posts.map(post => post.idiom.theme))).sort();
 
-  return <BlogClient posts={posts} themes={themes} />;
+  return <BlogClient posts={posts} themes={themes} lang={lang} />;
 }

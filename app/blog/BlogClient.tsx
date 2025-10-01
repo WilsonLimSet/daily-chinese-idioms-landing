@@ -4,15 +4,19 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Calendar, Filter, ChevronLeft, ChevronRight, Search } from 'lucide-react';
 import type { BlogPost } from '@/src/lib/blog';
+import { getTranslation } from '@/src/lib/translations';
+import { LOCALE_MAP } from '@/src/lib/constants';
+import LanguageSelector from '@/app/components/LanguageSelector';
 
 const POSTS_PER_PAGE = 24;
 
 interface BlogClientProps {
   posts: BlogPost[];
   themes: string[];
+  lang?: string;
 }
 
-export default function BlogClient({ posts, themes }: BlogClientProps) {
+export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientProps) {
   const [selectedTheme, setSelectedTheme] = useState<string>('all');
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState('');
@@ -55,11 +59,11 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex justify-between items-center">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">Daily Chinese Idioms Blog</h1>
-              <p className="mt-2 text-gray-600">One idiom a day, with stories and meanings</p>
+              <h1 className="text-3xl font-bold text-gray-900">{getTranslation(lang, 'blogTitle')}</h1>
+              <p className="mt-2 text-gray-600">{getTranslation(lang, 'blogSubtitle')}</p>
             </div>
             <Link href="/" className="text-blue-600 hover:text-blue-700">
-              ← Back to Home
+              {getTranslation(lang, 'backToHome')}
             </Link>
           </div>
         </div>
@@ -72,7 +76,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
             <input
               type="text"
-              placeholder="Search by Chinese characters, pinyin, or meaning..."
+              placeholder={getTranslation(lang, 'searchPlaceholder')}
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 outline-none text-gray-900 placeholder-gray-500"
@@ -87,7 +91,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
           <div className="flex items-center gap-4 overflow-x-auto">
             <div className="flex items-center gap-2 text-gray-700 flex-shrink-0">
               <Filter className="w-4 h-4" />
-              <span className="font-medium">Filter by theme:</span>
+              <span className="font-medium">{getTranslation(lang, 'filterByTheme')}</span>
             </div>
             <div className="flex gap-2">
               <button
@@ -98,7 +102,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
                     : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                 }`}
               >
-                All ({posts.length})
+{getTranslation(lang, 'all')} ({posts.length})
               </button>
               {themes.map(theme => (
                 <button
@@ -121,12 +125,12 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Results info */}
         <div className="mb-6 text-gray-600">
-          Showing {startIndex + 1}-{Math.min(startIndex + POSTS_PER_PAGE, filteredPosts.length)} of {filteredPosts.length} idioms
+{getTranslation(lang, 'showing')} {startIndex + 1}-{Math.min(startIndex + POSTS_PER_PAGE, filteredPosts.length)} {getTranslation(lang, 'of')} {filteredPosts.length} {getTranslation(lang, 'idioms')}
         </div>
 
         {paginatedPosts.length === 0 ? (
           <div className="text-center text-gray-600 py-12">
-            No idioms found matching your criteria.
+{getTranslation(lang, 'noResults')}
           </div>
         ) : (
           <>
@@ -135,7 +139,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
               {paginatedPosts.map((post) => (
                 <Link
                   key={post.slug}
-                  href={`/blog/${post.slug}`}
+                  href={lang === 'en' ? `/blog/${post.slug}` : `/${lang}/blog/${post.slug}`}
                   className="bg-white rounded-lg shadow-sm hover:shadow-md transition-all duration-200 p-5 group"
                 >
                   <div className="flex items-start justify-between mb-3">
@@ -144,7 +148,7 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
                     </span>
                     <div className="flex items-center text-gray-400 text-xs">
                       <Calendar className="w-3 h-3 mr-1" />
-                      {new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                      {new Date(post.date).toLocaleDateString(LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US', { month: 'short', day: 'numeric' })}
                     </div>
                   </div>
                   
@@ -218,6 +222,42 @@ export default function BlogClient({ posts, themes }: BlogClientProps) {
           </>
         )}
       </main>
+
+      {/* Footer */}
+      <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
+        <div className="container mx-auto px-4">
+          <div className="text-center space-y-4">
+            <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
+              <p className="text-gray-600">© {new Date().getFullYear()} {lang === 'en' ? 'Daily Chinese Idioms' : getTranslation(lang, 'footerCopyright')}</p>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <a
+                href="https://wilsonlimset.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                {lang === 'en' ? 'Built by Wilson' : getTranslation(lang, 'footerBuiltBy')}
+              </a>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href={lang === 'en' ? '/blog' : `/${lang}/blog`}
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                {lang === 'en' ? 'Blog' : getTranslation(lang, 'footerBlog')}
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href="/privacy"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                {lang === 'en' ? 'Privacy Policy' : getTranslation(lang, 'footerPrivacy')}
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <LanguageSelector currentLang={lang} />
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }

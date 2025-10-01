@@ -1,61 +1,73 @@
 import { format } from 'date-fns';
 import fs from 'fs';
 import path from 'path';
+import { getTranslation } from './translations';
+import { pinyinToSlug } from './utils/pinyin';
+
+interface Idiom {
+  id: string;
+  characters: string;
+  pinyin: string;
+  meaning: string;
+  example: string;
+  chineseExample: string;
+  theme: string;
+  description: string;
+  metaphoric_meaning: string;
+  traditionalCharacters: string;
+  description_tr: string;
+  chineseExample_tr: string;
+  original_meaning?: string;
+  original_metaphoric?: string;
+}
 
 export type BlogPost = {
   slug: string;
   title: string;
   date: string;
-  idiom: any;
+  idiom: Idiom;
   content: string;
 };
 
-function removeToneMarks(pinyin: string): string {
-  const toneMap: { [key: string]: string } = {
-    'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-    'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-    'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-    'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-    'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-    'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
-    'ń': 'n', 'ň': 'n', 'ǹ': 'n',
-    'ḿ': 'm', 'm̀': 'm'
-  };
-
-  return pinyin.split('').map(char => toneMap[char] || char).join('');
+function processContentTemplate(content: string, lang: string = 'en'): string {
+  return content.replace(/\{\{(\w+)\}\}/g, (match, key) => {
+    return getTranslation(lang, key as keyof typeof import('@/src/lib/translations').translations.en) || match;
+  });
 }
 
-export function generateBlogPost(idiom: any, date: Date, lang?: string): BlogPost {
-  const cleanPinyin = removeToneMarks(idiom.pinyin).replace(/\s+/g, '-');
-  const slug = format(date, 'yyyy-MM-dd') + '-' + cleanPinyin;
+export function generateBlogPost(idiom: Idiom, date: Date, lang?: string): BlogPost {
+  const slug = format(date, 'yyyy-MM-dd') + '-' + pinyinToSlug(idiom.pinyin);
 
   // Use translated content if available
   const meaning = idiom.meaning || idiom.original_meaning;
   const metaphoric = idiom.metaphoric_meaning || idiom.original_metaphoric;
 
   const content = `
-**发音 Pronunciation:** *${idiom.pinyin}*
-**字面意思 Literal meaning:** ${meaning}
+**{{pronunciation}}:** *${idiom.pinyin}*
+**{{literalMeaning}}:** ${meaning}
 
-## 起源与用法 Origin & Usage
+## {{originUsage}}
 
 ${idiom.description}
 
-## 使用场景 When to Use
+## {{whenToUse}}
 
-**Situation:** ${idiom.example}
+**{{situation}}:** ${idiom.example}
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*
+*{{discoverDaily}}*
 `;
+
+  // Process the content template with translations
+  const processedContent = processContentTemplate(content, lang || 'en');
 
   return {
     slug,
     title: `${idiom.characters} - ${metaphoric}`,
     date: format(date, 'yyyy-MM-dd'),
     idiom,
-    content
+    content: processedContent
   };
 }
 
@@ -80,15 +92,16 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
   const startDate = new Date('2025-01-01');
   const today = new Date();
 
-  for (let d = new Date(startDate); d <= today; d.setDate(d.getDate() + 1)) {
-    const dayOfYear = Math.floor((d.getTime() - startDate.getTime()) / (1000 * 60 * 60 * 24)) + 1;
-    const idiomId = `ID${dayOfYear.toString().padStart(3, '0')}`;
-    const idiom = idioms.find((i: any) => i.id === idiomId);
+  // Only generate posts for idioms that exist in the translation file
+  idioms.forEach((idiom: Idiom, index: number) => {
+    const postDate = new Date(startDate);
+    postDate.setDate(postDate.getDate() + index);
 
-    if (idiom) {
-      posts.push(generateBlogPost(idiom, new Date(d), lang));
+    // Only create posts for dates up to today
+    if (postDate <= today) {
+      posts.push(generateBlogPost(idiom, postDate, lang));
     }
-  }
+  });
 
   return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }

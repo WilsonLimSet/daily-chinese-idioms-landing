@@ -1,8 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
-
-const LANGUAGES = ['id', 'vi', 'th', 'ja', 'ko', 'es', 'pt', 'hi', 'ar', 'fr'];
+import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com';
@@ -20,9 +19,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Create multilingual blog entries
   const multilingualPosts = [];
-  for (const lang of LANGUAGES) {
+  for (const lang of LANGUAGE_CODES) {
     try {
       const intlPosts = await getAllIntlBlogPosts(lang);
+
+      // Language home pages
+      multilingualPosts.push({
+        url: `${baseUrl}/${lang}`,
+        lastModified: new Date(),
+        changeFrequency: 'daily' as const,
+        priority: 0.9, // High priority for language home pages
+      });
 
       // Language blog index pages
       multilingualPosts.push({
@@ -41,7 +48,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
           priority: 0.75, // Slightly lower than English for primary ranking
         });
       });
-    } catch (error) {
+    } catch {
       console.warn(`Could not generate sitemap entries for language: ${lang}`);
     }
   }
@@ -68,7 +75,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length} URLs across ${LANGUAGES.length + 1} languages`);
+  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
 
   return [...staticPages, ...blogPosts, ...multilingualPosts];
 }
