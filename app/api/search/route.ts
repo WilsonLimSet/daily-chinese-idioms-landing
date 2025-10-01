@@ -1,10 +1,25 @@
 import { NextResponse } from 'next/server';
 import { getAllBlogPosts } from '@/src/lib/blog';
+import { rateLimit, getRateLimitHeaders } from '@/src/lib/utils/rate-limit';
+import { removeToneMarks } from '@/src/lib/utils/pinyin';
 
 export async function GET(request: Request) {
+  // Apply rate limiting: 30 requests per minute
+  const rateLimitResult = rateLimit(request, { maxRequests: 30, windowMs: 60000 });
+
+  if (!rateLimitResult.success) {
+    return NextResponse.json(
+      { error: 'Too many requests. Please try again later.' },
+      {
+        status: 429,
+        headers: getRateLimitHeaders(rateLimitResult),
+      }
+    );
+  }
+
   const { searchParams } = new URL(request.url);
   const query = searchParams.get('q');
-  
+
   if (!query) {
     return NextResponse.json({ error: 'Query parameter "q" is required' }, { status: 400 });
   }
@@ -19,17 +34,7 @@ export async function GET(request: Request) {
       const searchableFields = {
         characters: post.idiom.characters,
         pinyin: post.idiom.pinyin,
-        pinyinNoTones: post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]/g, (match) => {
-          const toneMap: { [key: string]: string } = {
-            'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-            'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-            'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-            'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-            'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-            'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v'
-          };
-          return toneMap[match] || match;
-        }),
+        pinyinNoTones: removeToneMarks(post.idiom.pinyin).toLowerCase(),
         meaning: post.idiom.metaphoric_meaning,
         literal: post.idiom.meaning,
         theme: post.idiom.theme
@@ -55,11 +60,16 @@ export async function GET(request: Request) {
     .slice(0, 20)
     .map(({ ...post }) => post); // Remove score from final result
 
-    return NextResponse.json({
-      query,
-      results: scoredResults,
-      total: scoredResults.length
-    });
+    return NextResponse.json(
+      {
+        query,
+        results: scoredResults,
+        total: scoredResults.length
+      },
+      {
+        headers: getRateLimitHeaders(rateLimitResult),
+      }
+    );
   } catch (error) {
     console.error('Search error:', error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });

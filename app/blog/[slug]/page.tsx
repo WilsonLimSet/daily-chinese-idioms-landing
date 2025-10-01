@@ -4,6 +4,8 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
+import { removeToneMarks } from '@/src/lib/utils/pinyin';
+import LanguageSelector from '@/app/components/LanguageSelector';
 import '../blog.css';
 
 export async function generateStaticParams() {
@@ -101,33 +103,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     })
     .slice(0, 4);
     
-  // Generate pinyin variants
+  // Generate pinyin variants using centralized utility function
+  const noTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
   const pinyinVariants = {
     withTones: post.idiom.pinyin,
-    noTones: post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
-      const map: { [key: string]: string } = {
-        'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-        'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-        'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-        'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-        'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-        'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
-        'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
-      };
-      return map[match] || match;
-    }),
-    withSpaces: post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
-      const map: { [key: string]: string } = {
-        'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-        'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-        'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-        'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-        'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-        'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
-        'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
-      };
-      return map[match] || match;
-    }).replace(/ /g, ' ')
+    noTones,
+    withSpaces: noTones
   };
 
   // Process markdown content
@@ -372,6 +353,42 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </div>
         </section>
       </article>
+
+      {/* Footer */}
+      <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
+        <div className="container mx-auto px-4">
+          <div className="text-center space-y-4">
+            <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
+              <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <a
+                href="https://wilsonlimset.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                Built by Wilson
+              </a>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href="/blog"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                Blog
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href="/privacy"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                Privacy Policy
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <LanguageSelector currentLang="en" />
+            </div>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
