@@ -6,22 +6,39 @@ import "./globals.css";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
+  display: 'swap',
+  preload: true,
 });
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
+  display: 'swap',
+  preload: true,
 });
 
 export const metadata: Metadata = {
-  title: "Chinese Idioms (成语): Meanings in English with Pinyin & Examples",
-  description: "Learn Chinese idioms (chengyu) with English meanings, pinyin pronunciation, and cultural context. Daily updates, home screen widgets, and searchable blog.",
+  title: "Chinese Idioms (成语) Dictionary: 280+ Chengyu with English Meanings & Pinyin",
+  description: "Master Chinese idioms (chengyu) with our complete dictionary of 280+ expressions. Learn meanings, pinyin, origins, and usage examples. Daily updates, iOS widgets & searchable database.",
   metadataBase: new URL('https://www.chineseidioms.com'),
-  keywords: ['chinese idioms', 'chengyu', 'ai wu ji wu', 'mo ming qi miao', 'pinyin meanings', 'chinese proverbs', 'learn chinese'],
+  keywords: ['chinese idioms', 'chengyu', 'chinese proverbs', 'learn chinese idioms', 'chengyu dictionary', 'chinese idioms meanings', 'pinyin', 'mandarin idioms', 'chinese culture'],
   alternates: {
     canonical: 'https://www.chineseidioms.com',
     languages: {
       'en': 'https://www.chineseidioms.com',
+      'es': 'https://www.chineseidioms.com/es',
+      'pt': 'https://www.chineseidioms.com/pt',
+      'id': 'https://www.chineseidioms.com/id',
+      'vi': 'https://www.chineseidioms.com/vi',
+      'ja': 'https://www.chineseidioms.com/ja',
+      'ko': 'https://www.chineseidioms.com/ko',
+      'th': 'https://www.chineseidioms.com/th',
+      'hi': 'https://www.chineseidioms.com/hi',
+      'ar': 'https://www.chineseidioms.com/ar',
+      'fr': 'https://www.chineseidioms.com/fr',
+      'tl': 'https://www.chineseidioms.com/tl',
+      'ms': 'https://www.chineseidioms.com/ms',
+      'ru': 'https://www.chineseidioms.com/ru',
       'zh': 'https://www.chineseidioms.com'
     }
   },
@@ -29,8 +46,8 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://www.chineseidioms.com',
-    title: "Chinese Idioms (成语): Meanings in English with Pinyin & Examples",
-    description: "Learn Chinese idioms (chengyu) with English meanings, pinyin pronunciation, and cultural context. Daily updates and searchable blog.",
+    title: "Chinese Idioms Dictionary: 280+ Chengyu with English Meanings & Pinyin",
+    description: "Master 280+ Chinese idioms (chengyu) with English meanings, pinyin, origins, and examples. Daily updates, iOS widgets & complete searchable dictionary.",
     siteName: 'Daily Chinese Idioms',
     images: [{
       url: '/og-image.png',

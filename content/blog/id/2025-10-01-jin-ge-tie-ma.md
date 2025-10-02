@@ -1,6 +1,6 @@
 ---
 title: "金戈铁马 - Kekuatan militer yang luar biasa dan keberanian"
-date: "2025-10-02"
+date: "2025-10-01"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
 meaning: "Kuda Besi Tombak Emas"

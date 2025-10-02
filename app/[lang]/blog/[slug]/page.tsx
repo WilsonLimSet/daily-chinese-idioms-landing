@@ -2,7 +2,8 @@ import { notFound } from 'next/navigation';
 import { getAllBlogPosts, getBlogPost } from '@/src/lib/blog-intl';
 import Link from 'next/link';
 import { Calendar, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
-import ReactMarkdown from 'react-markdown';
+import { remark } from 'remark';
+import html from 'remark-html';
 import { getTranslation } from '@/src/lib/translations';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
@@ -100,6 +101,12 @@ export default async function InternationalBlogPostPage({
     withSpaces: noTones
   };
 
+  // Process markdown content
+  const processedContent = await remark()
+    .use(html)
+    .process(post.content);
+  const contentHtml = processedContent.toString();
+
   // const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
 
   return (
@@ -143,9 +150,7 @@ export default async function InternationalBlogPostPage({
           </div>
         </header>
 
-        <div className="prose prose-lg max-w-none">
-          <ReactMarkdown>{post.content}</ReactMarkdown>
-        </div>
+        <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: contentHtml }} />
 
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">

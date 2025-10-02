@@ -1,6 +1,6 @@
 ---
 title: "金戈铁马 - 壮大な軍事力と勇気"
-date: "2025-10-02"
+date: "2025-10-01"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
 meaning: "金の槍鉄の馬"

@@ -1,6 +1,6 @@
 ---
 title: "金戈铁马 - Sức mạnh quân sự tuyệt vời và lòng dũng cảm"
-date: "2025-10-02"
+date: "2025-10-01"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
 meaning: "Qua vàng ngựa sắt"

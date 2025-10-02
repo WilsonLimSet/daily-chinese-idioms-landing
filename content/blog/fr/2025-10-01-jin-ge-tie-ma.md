@@ -1,6 +1,6 @@
 ---
 title: "金戈铁马 - Magnifique puissance militaire et valeur"
-date: "2025-10-02"
+date: "2025-10-01"
 characters: "金戈铁马"
 pinyin: "jīn gē tiě mǎ"
 meaning: "Lances d'or chevaux de fer"
