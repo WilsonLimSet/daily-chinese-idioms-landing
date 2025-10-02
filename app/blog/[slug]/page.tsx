@@ -42,7 +42,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return map[match] || match;
   });
   
-  const description = `${post.idiom.characters} ${pinyinNoTones} — literally "${post.idiom.meaning.toLowerCase()}." Meaning in English, brief origin, usage notes, and example sentences.`;
+  // Optimized meta description with keyword-rich content (150-160 chars)
+  const description = `${post.idiom.characters} (${pinyinNoTones}): Learn the meaning, origin, and usage of this Chinese idiom about ${post.idiom.theme.toLowerCase()}. Includes examples & cultural context.`;
 
   return {
     title,

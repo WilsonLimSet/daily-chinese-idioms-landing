@@ -3,6 +3,14 @@ import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
+const THEME_SLUGS = [
+  'life-philosophy',
+  'relationships-character',
+  'strategy-action',
+  'success-perseverance',
+  'wisdom-learning'
+];
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com';
 
@@ -53,6 +61,35 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
+  // Theme pages (English)
+  const themePages = [
+    {
+      url: `${baseUrl}/themes`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    },
+    ...THEME_SLUGS.map(theme => ({
+      url: `${baseUrl}/themes/${theme}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.85,
+    }))
+  ];
+
+  // Multilingual theme pages
+  const multilingualThemePages = [];
+  for (const lang of LANGUAGE_CODES) {
+    for (const theme of THEME_SLUGS) {
+      multilingualThemePages.push({
+        url: `${baseUrl}/${lang}/themes/${theme}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+      });
+    }
+  }
+
   // Static pages
   const staticPages = [
     {
@@ -75,7 +112,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
+  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
 
-  return [...staticPages, ...blogPosts, ...multilingualPosts];
+  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages];
 }

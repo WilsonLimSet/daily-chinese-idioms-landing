@@ -8,17 +8,17 @@ metaphoric_meaning: "Magnificent military might and valor"
 theme: "Strategy & Action"
 ---
 
-**Pronunciation:** *jīn gē tiě mǎ*  
-**Literal meaning:** Gold spears iron horses
+**{{pronunciation}}:** *jīn gē tiě mǎ*
+**{{literalMeaning}}:** Gold spears iron horses
 
-## Origin & Usage
+## {{originUsage}}
 
 This martial idiom paints a scene of golden (金) spears (戈) and iron (铁) horses (马), first appearing in Li Bai's famous Tang Dynasty poetry describing frontier warfare. The phrase captured both the visual brilliance of bronze weapons and the thundering power of cavalry forces. During the Song Dynasty, as China faced nomadic invasions, it gained broader significance as a symbol of national defense and martial glory. The contrasting metals - precious gold and sturdy iron - created a perfect metaphor for military might combining elite weaponry with powerful mobility. Modern usage spans from historical epics to competitive business strategies, describing approaches that combine precision with overwhelming force.
 
-## When to Use
+## {{whenToUse}}
 
-**Situation:** The historical film vividly portrayed the grandeur and might of ancient military campaigns
+**{{situation}}:** The historical film vividly portrayed the grandeur and might of ancient military campaigns
 
 ---
 
-*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*
+*{{discoverDaily}}*

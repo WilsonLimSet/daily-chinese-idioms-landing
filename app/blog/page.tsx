@@ -2,9 +2,16 @@ import { getAllBlogPosts } from '@/src/lib/blog';
 import BlogClient from './BlogClient';
 
 export const metadata = {
-  title: 'Blog - Daily Chinese Idioms',
-  description: 'Learn a new Chinese idiom every day with historical context and practical examples.',
+  title: '280+ Chinese Idioms (Chengyu) - Complete Dictionary with Meanings & Examples',
+  description: 'Comprehensive Chinese idioms dictionary with 280+ chengyu. Learn meanings, pinyin pronunciation, origins, and usage examples. Updated daily with cultural context.',
+  keywords: ['chinese idioms dictionary', 'chengyu list', 'chinese proverbs', 'learn chengyu', 'chinese idioms with meanings', 'mandarin idioms'],
+  openGraph: {
+    title: '280+ Chinese Idioms Dictionary - Meanings, Origins & Examples',
+    description: 'Complete guide to Chinese idioms (chengyu) with English meanings, pinyin, and cultural context. Updated daily.',
+    type: 'website',
+  },
   alternates: {
+    canonical: 'https://www.chineseidioms.com/blog',
     types: {
       'application/rss+xml': '/api/rss',
     },
