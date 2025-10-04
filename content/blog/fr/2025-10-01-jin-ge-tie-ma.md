@@ -8,17 +8,17 @@ metaphoric_meaning: "Magnifique puissance militaire et valeur"
 theme: "Stratégie et Action"
 ---
 
-**{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** Lances d'or chevaux de fer
+**Pronunciation:** *jīn gē tiě mǎ*
+**Literal meaning:** Lances d'or chevaux de fer
 
-## {{originUsage}}
+## Origin & Usage
 
 Cette expression martiale dépeint une scène de lances d'or (金) et de chevaux de fer (铁) (马), apparaissant pour la première fois dans la célèbre poésie de Li Bai, datant de la dynastie Tang, qui décrivait la guerre frontalière. L'expression évoquait à la fois l'éclat visuel des armes de bronze et la puissance retentissante des forces de cavalerie. Pendant la dynastie Song, alors que la Chine faisait face aux invasions nomades, elle a acquis une portée plus vaste en tant que symbole de défense nationale et de gloire martiale. Les métaux contrastés – l'or précieux et le fer robuste – constituaient une métaphore parfaite de la puissance militaire combinant un armement d'élite à une mobilité puissante. L'usage moderne s'étend des épopées historiques aux stratégies commerciales concurrentielles, décrivant des approches qui combinent la précision à une force écrasante.
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** Le film historique dépeint de façon vivante la grandeur et la puissance des campagnes militaires anciennes
+**Situation:** Le film historique dépeint de façon vivante la grandeur et la puissance des campagnes militaires anciennes
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

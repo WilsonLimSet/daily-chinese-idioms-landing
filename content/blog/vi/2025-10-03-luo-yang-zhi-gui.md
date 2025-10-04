@@ -8,17 +8,17 @@ metaphoric_meaning: "Sự phổ biến phi thường của công việc trí tu�
 theme: "Thành công & Kiên trì"
 ---
 
-**{{pronunciation}}:** *luò yáng zhǐ guì*
-**{{literalMeaning}}:** Giấy Luoyang đắt tiền
+**Pronunciation:** *luò yáng zhǐ guì*
+**Literal meaning:** Giấy Luoyang đắt tiền
 
-## {{originUsage}}
+## Origin & Usage
 
 Thành ngữ này nói về việc giấy ở Lạc Dương (洛阳) trở nên đắt đỏ (纸贵) do nhu cầu khổng lồ đối với một tác phẩm duy nhất. Nó bắt nguồn từ thời nhà Tấn, khi tác phẩm 'Truyện Vệ Phu Nhân' của Tả Tư trở nên phổ biến đến mức giá giấy ở kinh đô được cho là tăng vọt vì mọi người đều lùng sục mua các bản sao. Chi tiết địa lý này rất quan trọng – Lạc Dương đại diện cho đỉnh cao của sự tinh hoa văn hóa với tư cách là một kinh đô cổ. Vào thời nhà Đường, nó trở thành phép ẩn dụ tối thượng cho thành công văn chương. Trong cách dùng hiện đại, nó miêu tả những tác phẩm hay ý tưởng tạo ra sự quan tâm đặc biệt của công chúng, đặc biệt là khi những đóng góp trí tuệ chuyển từ sự đánh giá của giới tinh hoa thành một hiện tượng đại chúng.
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** Ấn phẩm nghiên cứu đột phá của giáo sư đã tạo ra yêu cầu rằng chi phí in
+**Situation:** Ấn phẩm nghiên cứu đột phá của giáo sư đã tạo ra yêu cầu rằng chi phí in
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

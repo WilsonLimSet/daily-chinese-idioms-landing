@@ -8,17 +8,17 @@ metaphoric_meaning: "壮大な軍事力と勇気"
 theme: "戦略と行動"
 ---
 
-**{{pronunciation}}:** *jīn gē tiě mǎ*
-**{{literalMeaning}}:** 金の槍鉄の馬
+**Pronunciation:** *jīn gē tiě mǎ*
+**Literal meaning:** 金の槍鉄の馬
 
-## {{originUsage}}
+## Origin & Usage
 
 「金戈鉄馬（きんかてつば）」というこの武勇を示す成語は、金（きん）の戈（ほこ）と鉄（てつ）の馬（うま）が織りなす情景を描写しています。これは、唐代の詩人である李白の辺境での戦いを歌った有名な詩に初めて登場しました。この句は、金色の武器のきらめきと、騎兵隊の轟くような力強さの両方を捉えていました。宋代には、中国が遊牧民族の侵略に直面したことで、この言葉は国家防衛と武勇の栄光の象徴として、より広範な意味を持つようになりました。貴重な金と頑丈な鉄という対照的な金属は、精鋭の武器と強力な機動性を組み合わせた軍事力の完璧な比喩を生み出しました。現代では、この成語は歴史大作から競争の激しいビジネス戦略に至るまで幅広く用いられ、正確さと圧倒的な力を兼ね備えたアプローチを表現する際に使われています。
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** 歴史的な映画は、古代の軍事作戦の壮大さと力を鮮明に描いた
+**Situation:** 歴史的な映画は、古代の軍事作戦の壮大さと力を鮮明に描いた
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

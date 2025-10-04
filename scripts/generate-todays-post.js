@@ -50,20 +50,20 @@ metaphoric_meaning: "${idiom.metaphoric_meaning}"
 theme: "${idiom.theme}"
 ---
 
-**{{pronunciation}}:** *${idiom.pinyin}*
-**{{literalMeaning}}:** ${idiom.meaning}
+**Pronunciation:** *${idiom.pinyin}*
+**Literal meaning:** ${idiom.meaning}
 
-## {{originUsage}}
+## Origin & Usage
 
 ${idiom.description}
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** ${idiom.example}
+**Situation:** ${idiom.example}
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*
 `;
 
   await fs.writeFile(filepath, content);

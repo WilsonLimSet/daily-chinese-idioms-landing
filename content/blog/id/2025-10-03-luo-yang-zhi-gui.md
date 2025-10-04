@@ -8,17 +8,17 @@ metaphoric_meaning: "Popularitas kerja intelektual yang luar biasa"
 theme: "Sukses & Ketekunan"
 ---
 
-**{{pronunciation}}:** *luò yáng zhǐ guì*
-**{{literalMeaning}}:** Kertas Luoyang mahal
+**Pronunciation:** *luò yáng zhǐ guì*
+**Literal meaning:** Kertas Luoyang mahal
 
-## {{originUsage}}
+## Origin & Usage
 
 Idiom ini mengisahkan bagaimana kertas di Luoyang (洛阳) menjadi mahal (纸贵) karena permintaan yang luar biasa tinggi terhadap satu karya. Idiom ini bermula pada masa Dinasti Jin, ketika karya Zuo Si, 'Biografi Nyonya Wei', menjadi begitu populer hingga harga kertas di ibu kota dilaporkan melonjak drastis karena semua orang berbondong-bondong mencari salinannya. Referensi geografis ini sangatlah penting – Luoyang melambangkan puncak kejayaan dan kecanggihan budaya sebagai ibu kota kuno. Pada masa Dinasti Tang, idiom ini menjadi metafora utama bagi kesuksesan sastra. Dalam penggunaan modern, idiom ini menggambarkan karya atau gagasan yang membangkitkan minat publik luar biasa, terutama saat kontribusi intelektual bertransisi dari apresiasi kalangan elite menjadi fenomena arus utama.
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** Publikasi penelitian inovatif profesor menciptakan permintaan sedemikian rupa sehingga biaya pencetakan melonjak
+**Situation:** Publikasi penelitian inovatif profesor menciptakan permintaan sedemikian rupa sehingga biaya pencetakan melonjak
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*

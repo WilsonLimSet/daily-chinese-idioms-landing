@@ -8,17 +8,17 @@ metaphoric_meaning: "Popularidad extraordinaria del trabajo intelectual"
 theme: "Éxito y Perseverancia"
 ---
 
-**{{pronunciation}}:** *luò yáng zhǐ guì*
-**{{literalMeaning}}:** Luoyang Paper caro
+**Pronunciation:** *luò yáng zhǐ guì*
+**Literal meaning:** Luoyang Paper caro
 
-## {{originUsage}}
+## Origin & Usage
 
 Este modismo narra cómo el papel en Luoyang (洛阳) se encareció (纸贵) debido a la abrumadora demanda de una sola obra. Se originó en la dinastía Jin, cuando la 'Biografía de la Dama Wei' de Zuo Si se hizo tan popular que, según se dice, los precios del papel en la capital se dispararon mientras todos buscaban copias. La referencia geográfica era significativa: Luoyang representaba la cúspide de la sofisticación cultural como antigua capital. Durante el período Tang, se convirtió en la metáfora definitiva del éxito literario. El uso moderno describe obras o ideas que generan un interés público excepcional, particularmente cuando las contribuciones intelectuales transitan de la apreciación de élite a un fenómeno masivo.
 
-## {{whenToUse}}
+## When to Use
 
-**{{situation}}:** La innovadora publicación de investigación del profesor creó tal demanda de que los costos de impresión se dispararon
+**Situation:** La innovadora publicación de investigación del profesor creó tal demanda de que los costos de impresión se dispararon
 
 ---
 
-*{{discoverDaily}}*
+*Discover a new Chinese idiom every day with our [iOS app](https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324).*
