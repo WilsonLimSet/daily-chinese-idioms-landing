@@ -2,5 +2,24 @@
 User-agent: *
 Allow: /
 
+# AI Crawlers - Explicitly welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
 # Sitemap location
 Sitemap: https://www.chineseidioms.com/sitemap.xml
