@@ -109,8 +109,45 @@ export default async function InternationalBlogPostPage({
 
   // const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
 
+  // Generate FAQ schema for rich snippets
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    'mainEntity': [
+      {
+        '@type': 'Question',
+        'name': `${getTranslation(lang, 'faqMeaningQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'meaningInEnglish')}`,
+        'acceptedAnswer': {
+          '@type': 'Answer',
+          'text': `${post.idiom.characters} (${post.idiom.pinyin}) ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}" ${getTranslation(lang, 'faqMeaningAnswer2')} "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer3')} ${post.idiom.theme} ${getTranslation(lang, 'faqMeaningAnswer4')}.`
+        }
+      },
+      {
+        '@type': 'Question',
+        'name': `${getTranslation(lang, 'faqUsageQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'faqUsageAnswer1')}`,
+        'acceptedAnswer': {
+          '@type': 'Answer',
+          'text': `${getTranslation(lang, 'faqUsagePrefix')} ${post.idiom.example || `${getTranslation(lang, 'faqUsageDefault')} ${post.idiom.metaphoric_meaning.toLowerCase()}.`}`
+        }
+      },
+      {
+        '@type': 'Question',
+        'name': `${getTranslation(lang, 'faqPinyinQuestion')} ${post.idiom.characters}?`,
+        'acceptedAnswer': {
+          '@type': 'Answer',
+          'text': `${getTranslation(lang, 'faqPinyinAnswer')} ${post.idiom.characters} ${getTranslation(lang, 'faqPinyinAnswer2')} "${post.idiom.pinyin}".`
+        }
+      }
+    ]
+  };
+
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* FAQ Schema for Google Rich Snippets */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
 
       <article className="blog-content max-w-4xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
         <Link href={`/${lang}/blog`} className="inline-flex items-center text-gray-600 hover:text-gray-900 mb-6">
