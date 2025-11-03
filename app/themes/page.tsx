@@ -34,8 +34,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Browse Chinese Idioms by Theme',
     description: 'Explore 280+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
-    type: 'website',
     url: 'https://www.chineseidioms.com/themes',
+    siteName: 'Daily Chinese Idioms',
+    locale: 'en_US',
+    alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
+    type: 'website',
   },
   alternates: {
     canonical: 'https://www.chineseidioms.com/themes',
@@ -61,6 +64,7 @@ export default async function ThemesIndexPage() {
     "name": "Chinese Idiom Themes",
     "description": "Browse Chinese idioms organized by theme and category",
     "url": "https://www.chineseidioms.com/themes",
+    "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
       "name": "Daily Chinese Idioms",

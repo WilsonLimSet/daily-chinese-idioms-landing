@@ -45,6 +45,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
+    alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     url: 'https://www.chineseidioms.com',
     title: "Chinese Idioms Dictionary: 280+ Chengyu with English Meanings & Pinyin",
     description: "Master 280+ Chinese idioms (chengyu) with English meanings, pinyin, origins, and examples. Daily updates, iOS widgets & complete searchable dictionary.",

@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { getAllBlogPosts } from '@/src/lib/blog';
+import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 const THEME_MAP: { [key: string]: string } = {
@@ -53,11 +54,20 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     openGraph: {
       title: `Chinese Idioms About ${themeName}`,
       description,
-      type: 'website',
       url: `https://www.chineseidioms.com/themes/${theme}`,
+      siteName: 'Daily Chinese Idioms',
+      locale: 'en_US',
+      alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
+      type: 'website',
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/themes/${theme}`,
+      languages: {
+        'en': `/themes/${theme}`,
+        ...Object.fromEntries(
+          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/themes/${theme}`])
+        ),
+      },
     },
   };
 }
@@ -83,6 +93,7 @@ export default async function ThemePage({ params }: { params: Promise<{ theme: s
     "name": `${themeName} Chinese Idioms`,
     "description": THEME_DESCRIPTIONS[theme],
     "url": `https://www.chineseidioms.com/themes/${theme}`,
+    "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
       "name": "Daily Chinese Idioms",

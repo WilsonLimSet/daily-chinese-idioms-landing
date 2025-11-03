@@ -17,6 +17,28 @@ export async function generateMetadata({
   const { lang } = await params;
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES] || 'English';
 
+  // Map language codes to OpenGraph locale codes
+  const localeMap: { [key: string]: string } = {
+    'es': 'es_ES',
+    'pt': 'pt_BR',
+    'id': 'id_ID',
+    'vi': 'vi_VN',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'th': 'th_TH',
+    'hi': 'hi_IN',
+    'ar': 'ar_AR',
+    'fr': 'fr_FR',
+    'tl': 'tl_PH',
+    'ms': 'ms_MY',
+    'ru': 'ru_RU'
+  };
+
+  const ogLocale = localeMap[lang] || 'en_US';
+  const alternateLocales = Object.keys(LANGUAGES)
+    .filter(l => l !== lang)
+    .map(l => localeMap[l] || 'en_US');
+
   return {
     title: `${getTranslation(lang, 'heroTitle')} | Chinese Idioms (${langName})`,
     description: getTranslation(lang, 'heroDescription'),
@@ -28,7 +50,17 @@ export async function generateMetadata({
       langName,
       `chinese idioms ${langName.toLowerCase()}`,
     ],
+    openGraph: {
+      title: `${getTranslation(lang, 'heroTitle')} | Chinese Idioms`,
+      description: getTranslation(lang, 'heroDescription'),
+      url: `https://www.chineseidioms.com/${lang}`,
+      siteName: 'Daily Chinese Idioms',
+      locale: ogLocale,
+      alternateLocale: alternateLocales,
+      type: 'website',
+    },
     alternates: {
+      canonical: `https://www.chineseidioms.com/${lang}`,
       languages: {
         'en': '/',
         ...Object.fromEntries(
@@ -217,7 +249,7 @@ export default async function InternationalHomePage({
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link
-                href="/privacy"
+                href={`/${lang}/privacy`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 {getTranslation(lang, 'footerPrivacy')}

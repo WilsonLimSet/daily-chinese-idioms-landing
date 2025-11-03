@@ -37,6 +37,27 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     };
   }
 
+  const localeMap: { [key: string]: string } = {
+    'es': 'es_ES',
+    'pt': 'pt_BR',
+    'id': 'id_ID',
+    'vi': 'vi_VN',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'th': 'th_TH',
+    'hi': 'hi_IN',
+    'ar': 'ar_AR',
+    'fr': 'fr_FR',
+    'tl': 'tl_PH',
+    'ms': 'ms_MY',
+    'ru': 'ru_RU'
+  };
+
+  const ogLocale = localeMap[lang] || 'en_US';
+  const alternateLocales = Object.keys(LANGUAGES)
+    .filter(l => l !== lang)
+    .map(l => localeMap[l] || 'en_US');
+
   return {
     title: `${themeName} Chinese Idioms (${langName})`,
     description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}. Complete chengyu guide with translations and cultural context.`,
@@ -47,7 +68,17 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
       themeName,
       langName
     ],
+    openGraph: {
+      title: `${themeName} Chinese Idioms`,
+      description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}`,
+      url: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
+      siteName: 'Daily Chinese Idioms',
+      locale: ogLocale,
+      alternateLocale: alternateLocales,
+      type: 'website',
+    },
     alternates: {
+      canonical: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
       languages: {
         'en': `/themes/${theme}`,
         ...Object.fromEntries(
@@ -72,8 +103,58 @@ export default async function InternationalThemePage({ params }: { params: Promi
     return postTheme === theme;
   });
 
+  const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
+
+  // Structured data for language theme pages
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": `${themeName} Chinese Idioms - ${langName}`,
+    "description": `Chinese idioms about ${themeName.toLowerCase()} translated to ${langName}`,
+    "url": `https://www.chineseidioms.com/${lang}/themes/${theme}`,
+    "inLanguage": lang,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Daily Chinese Idioms",
+      "url": "https://www.chineseidioms.com"
+    },
+    "hasPart": themePosts.map(post => ({
+      "@type": "DefinedTerm",
+      "name": post.idiom.characters,
+      "description": post.idiom.metaphoric_meaning,
+      "url": `https://www.chineseidioms.com/${lang}/blog/${post.slug}`
+    })),
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": getTranslation(lang, 'home') || 'Home',
+          "item": `https://www.chineseidioms.com/${lang}`
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": getTranslation(lang, 'footerBlog') || 'Blog',
+          "item": `https://www.chineseidioms.com/${lang}/blog`
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": themeName,
+          "item": `https://www.chineseidioms.com/${lang}/themes/${theme}`
+        }
+      ]
+    }
+  };
+
   return (
     <div className="min-h-screen bg-gray-50">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
       <nav className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <Link href={`/${lang}/blog`} className="flex items-center gap-2 text-gray-600 hover:text-gray-900">

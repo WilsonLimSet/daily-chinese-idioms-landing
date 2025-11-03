@@ -39,6 +39,27 @@ export async function generateMetadata({
 
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
 
+  const localeMap: { [key: string]: string } = {
+    'es': 'es_ES',
+    'pt': 'pt_BR',
+    'id': 'id_ID',
+    'vi': 'vi_VN',
+    'ja': 'ja_JP',
+    'ko': 'ko_KR',
+    'th': 'th_TH',
+    'hi': 'hi_IN',
+    'ar': 'ar_AR',
+    'fr': 'fr_FR',
+    'tl': 'tl_PH',
+    'ms': 'ms_MY',
+    'ru': 'ru_RU'
+  };
+
+  const ogLocale = localeMap[lang] || 'en_US';
+  const alternateLocales = Object.keys(LANGUAGES)
+    .filter(l => l !== lang)
+    .map(l => localeMap[l] || 'en_US');
+
   return {
     title: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning} | Chinese Idioms (${langName})`,
     description: `${post.idiom.metaphoric_meaning}: ${post.idiom.description.substring(0, 160)}...`,
@@ -52,7 +73,18 @@ export async function generateMetadata({
       langName,
       `chinese idioms ${langName.toLowerCase()}`,
     ],
+    openGraph: {
+      title: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
+      description: post.idiom.metaphoric_meaning,
+      url: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
+      siteName: 'Daily Chinese Idioms',
+      locale: ogLocale,
+      alternateLocale: alternateLocales,
+      type: 'article',
+      publishedTime: post.date,
+    },
     alternates: {
+      canonical: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
       languages: {
         'en': `/blog/${slug}`,
         ...Object.fromEntries(
@@ -107,46 +139,98 @@ export default async function InternationalBlogPostPage({
     .process(post.content);
   const contentHtml = processedContent.toString();
 
-  // const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
-
-  // Generate FAQ schema for rich snippets
-  const faqSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'FAQPage',
-    'mainEntity': [
-      {
-        '@type': 'Question',
-        'name': `${getTranslation(lang, 'faqMeaningQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'meaningInEnglish')}`,
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': `${post.idiom.characters} (${post.idiom.pinyin}) ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}" ${getTranslation(lang, 'faqMeaningAnswer2')} "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer3')} ${post.idiom.theme} ${getTranslation(lang, 'faqMeaningAnswer4')}.`
+  // Generate comprehensive structured data with proper inLanguage
+  const structuredData = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BlogPosting',
+      headline: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
+      alternativeHeadline: `${post.idiom.characters} (${post.idiom.pinyin})`,
+      datePublished: post.date,
+      dateModified: post.date,
+      author: {
+        '@type': 'Organization',
+        name: 'Daily Chinese Idioms',
+        url: 'https://www.chineseidioms.com'
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: 'Daily Chinese Idioms',
+        logo: {
+          '@type': 'ImageObject',
+          url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
         }
       },
-      {
-        '@type': 'Question',
-        'name': `${getTranslation(lang, 'faqUsageQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'faqUsageAnswer1')}`,
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': `${getTranslation(lang, 'faqUsagePrefix')} ${post.idiom.example || `${getTranslation(lang, 'faqUsageDefault')} ${post.idiom.metaphoric_meaning.toLowerCase()}.`}`
-        }
-      },
-      {
-        '@type': 'Question',
-        'name': `${getTranslation(lang, 'faqPinyinQuestion')} ${post.idiom.characters}?`,
-        'acceptedAnswer': {
-          '@type': 'Answer',
-          'text': `${getTranslation(lang, 'faqPinyinAnswer')} ${post.idiom.characters} ${getTranslation(lang, 'faqPinyinAnswer2')} "${post.idiom.pinyin}".`
-        }
+      description: post.idiom.metaphoric_meaning,
+      inLanguage: lang,
+      mainEntityOfPage: {
+        '@type': 'WebPage',
+        '@id': `https://www.chineseidioms.com/${lang}/blog/${slug}`
       }
-    ]
-  };
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      inLanguage: lang,
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: `${getTranslation(lang, 'faqMeaningQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'meaningInEnglish')}`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `${post.idiom.characters} (${post.idiom.pinyin}) ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}" ${getTranslation(lang, 'faqMeaningAnswer2')} "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer3')} ${post.idiom.theme} ${getTranslation(lang, 'faqMeaningAnswer4')}.`
+          }
+        },
+        {
+          '@type': 'Question',
+          name: `${getTranslation(lang, 'faqUsageQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'faqUsageAnswer1')}`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `${getTranslation(lang, 'faqUsagePrefix')} ${post.idiom.example || `${getTranslation(lang, 'faqUsageDefault')} ${post.idiom.metaphoric_meaning.toLowerCase()}.`}`
+          }
+        },
+        {
+          '@type': 'Question',
+          name: `${getTranslation(lang, 'faqPinyinQuestion')} ${post.idiom.characters}?`,
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `${getTranslation(lang, 'faqPinyinAnswer')} ${post.idiom.characters} ${getTranslation(lang, 'faqPinyinAnswer2')} "${post.idiom.pinyin}".`
+          }
+        }
+      ]
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        {
+          '@type': 'ListItem',
+          position: 1,
+          name: getTranslation(lang, 'home') || 'Home',
+          item: `https://www.chineseidioms.com/${lang}`
+        },
+        {
+          '@type': 'ListItem',
+          position: 2,
+          name: getTranslation(lang, 'footerBlog') || 'Blog',
+          item: `https://www.chineseidioms.com/${lang}/blog`
+        },
+        {
+          '@type': 'ListItem',
+          position: 3,
+          name: post.idiom.characters,
+          item: `https://www.chineseidioms.com/${lang}/blog/${slug}`
+        }
+      ]
+    }
+  ];
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* FAQ Schema for Google Rich Snippets */}
+      {/* Structured Data for SEO */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
 
       <article className="blog-content max-w-4xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
@@ -305,7 +389,7 @@ export default async function InternationalBlogPostPage({
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link
-                href="/privacy"
+                href={`/${lang}/privacy`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 {getTranslation(lang, 'footerPrivacy')}

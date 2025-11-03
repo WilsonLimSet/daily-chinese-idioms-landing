@@ -247,7 +247,7 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link
-                href="/privacy"
+                href={lang === 'en' ? '/privacy' : `/${lang}/privacy`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 {lang === 'en' ? 'Privacy Policy' : getTranslation(lang, 'footerPrivacy')}

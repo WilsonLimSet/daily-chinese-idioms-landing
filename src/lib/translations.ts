@@ -41,6 +41,7 @@ export const translations = {
     // Blog page
     blogTitle: "Daily Chinese Idioms Blog",
     blogSubtitle: "One idiom a day, with stories and meanings",
+    home: "Home",
     backToHome: "← Back to Home",
     searchPlaceholder: "Search by Chinese characters, pinyin, or meaning...",
     filterByTheme: "Filter by theme:",
@@ -140,6 +141,7 @@ export const translations = {
     // Blog page
     blogTitle: "Blog de Modismos Chinos Diarios",
     blogSubtitle: "Un modismo al día, con historias y significados",
+    home: "Inicio",
     backToHome: "← Volver al Inicio",
     searchPlaceholder: "Buscar por caracteres chinos, pinyin o significado...",
     filterByTheme: "Filtrar por tema:",
@@ -238,6 +240,7 @@ export const translations = {
     // Blog page
     blogTitle: "Blog Peribahasa Tiongkok Harian",
     blogSubtitle: "Satu peribahasa sehari, dengan cerita dan makna",
+    home: "Beranda",
     backToHome: "← Kembali ke Beranda",
     searchPlaceholder: "Cari berdasarkan karakter Tiongkok, pinyin, atau makna...",
     filterByTheme: "Filter berdasarkan tema:",
@@ -336,6 +339,7 @@ export const translations = {
     // Blog page
     blogTitle: "日刊中国故事成語ブログ",
     blogSubtitle: "一日一つの故事成語、物語と意味とともに",
+    home: "ホーム",
     backToHome: "← ホームに戻る",
     searchPlaceholder: "漢字、ピンイン、意味で検索...",
     filterByTheme: "テーマでフィルター:",
@@ -437,6 +441,7 @@ export const translations = {
     // Blog page
     blogTitle: "Blog de Provérbios Chineses Diários",
     blogSubtitle: "Um provérbio por dia, com histórias e significados",
+    home: "Início",
     backToHome: "← Voltar ao Início",
     searchPlaceholder: "Buscar por caracteres chineses, pinyin ou significado...",
     filterByTheme: "Filtrar por tema:",
@@ -537,6 +542,7 @@ export const translations = {
     // Blog page
     blogTitle: "Blog Thành Ngữ Trung Hoa Hàng Ngày",
     blogSubtitle: "Mỗi ngày một thành ngữ, với câu chuyện và ý nghĩa",
+    home: "Trang chủ",
     backToHome: "← Quay lại Trang chủ",
     searchPlaceholder: "Tìm kiếm theo ký tự Trung Quốc, pinyin hoặc nghĩa...",
     filterByTheme: "Lọc theo chủ đề:",
@@ -639,6 +645,7 @@ export const translations = {
     // Blog page
     blogTitle: "Blog d'Idiomes Chinois Quotidiens",
     blogSubtitle: "Un idiome par jour, avec histoires et significations",
+    home: "Accueil",
     backToHome: "← Retour à l'Accueil",
     searchPlaceholder: "Rechercher par caractères chinois, pinyin ou signification...",
     filterByTheme: "Filtrer par thème:",
@@ -740,6 +747,7 @@ export const translations = {
     // Blog page
     blogTitle: "매일 중국 고사성어 블로그",
     blogSubtitle: "하루 한 고사성어, 이야기와 의미와 함께",
+    home: "홈",
     backToHome: "← 홈으로 돌아가기",
     searchPlaceholder: "한자, 병음, 의미로 검색...",
     filterByTheme: "주제별 필터:",
@@ -841,6 +849,7 @@ export const translations = {
     // Blog page
     blogTitle: "บล็อกสุภาษิตจีนรายวัน",
     blogSubtitle: "หนึ่งสุภาษิตต่อวัน พร้อมเรื่องราวและความหมาย",
+    home: "หน้าแรก",
     backToHome: "← กลับสู่หน้าแรก",
     searchPlaceholder: "ค้นหาด้วยอักษรจีน พินอิน หรือความหมาย...",
     filterByTheme: "กรองตามหัวข้อ:",
@@ -942,6 +951,7 @@ export const translations = {
     // Blog page
     blogTitle: "दैनिक चीनी मुहावरे ब्लॉग",
     blogSubtitle: "दिन में एक मुहावरा, कहानियों और अर्थों के साथ",
+    home: "होम",
     backToHome: "← होम पर वापस जाएं",
     searchPlaceholder: "चीनी अक्षरों, पिनयिन या अर्थ से खोजें...",
     filterByTheme: "विषय के अनुसार फ़िल्टर करें:",
@@ -1039,6 +1049,7 @@ export const translations = {
     // Blog page
     blogTitle: "مدونة الأمثال الصينية اليومية",
     blogSubtitle: "مثل واحد في اليوم، مع القصص والمعاني",
+    home: "الصفحة الرئيسية",
     backToHome: "← العودة إلى الصفحة الرئيسية",
     searchPlaceholder: "البحث بالأحرف الصينية أو البينيين أو المعنى...",
     filterByTheme: "تصفية حسب الموضوع:",
@@ -1136,6 +1147,7 @@ export const translations = {
     footerPrivacy: "Patakaran sa Privacy",
     blogTitle: "Blog ng Pang-araw-araw na Mga Idyoma ng Tsino",
     blogSubtitle: "Isang idyoma bawat araw, na may mga kuwento at kahulugan",
+    home: "Home",
     backToHome: "← Bumalik sa Home",
     searchPlaceholder: "Maghanap gamit ang Chinese characters, pinyin, o kahulugan...",
     filterByTheme: "I-filter ayon sa tema:",
@@ -1225,6 +1237,7 @@ export const translations = {
     footerPrivacy: "Dasar Privasi",
     blogTitle: "Blog Simpulan Bahasa Cina Harian",
     blogSubtitle: "Satu simpulan sehari, dengan cerita dan makna",
+    home: "Laman Utama",
     backToHome: "← Kembali ke Laman Utama",
     searchPlaceholder: "Cari mengikut aksara Cina, pinyin, atau makna...",
     filterByTheme: "Tapis mengikut tema:",
@@ -1314,6 +1327,7 @@ export const translations = {
     footerPrivacy: "Политика конфиденциальности",
     blogTitle: "Блог ежедневных китайских идиом",
     blogSubtitle: "Одна идиома в день с историями и значениями",
+    home: "Главная",
     backToHome: "← Вернуться на главную",
     searchPlaceholder: "Поиск по иероглифам, пиньинь или значению...",
     filterByTheme: "Фильтр по теме:",
