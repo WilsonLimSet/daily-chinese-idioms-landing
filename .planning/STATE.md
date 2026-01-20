@@ -3,8 +3,8 @@
 ## Current Position
 
 **Milestone:** 1.0 - SEO Foundation
-**Phase:** 1 of 3
-**Status:** Not started
+**Phase:** 2 of 3 complete
+**Status:** Phase 3 optional
 
 ## Recent Progress
 
@@ -12,6 +12,8 @@
 - 2026-01-21: Added 300 new idioms (381 → 681)
 - 2026-01-21: Updated marketing copy from 280+ to 365+
 - 2026-01-21: Cleaned up repo (removed 12 outdated files)
+- 2026-01-21: **Phase 1 complete** - Optimized page titles (metaphoric meaning + "Chinese Idiom"), expanded related idioms (4→8)
+- 2026-01-21: **Phase 2 complete** - Created Chengyu Dictionary hub page (/dictionary), added A-Z index, category browsing, multilingual support
 
 ## Key Decisions
 
@@ -37,4 +39,4 @@
 
 ---
 
-*Last updated: 2026-01-21*
+*Last updated: 2026-01-21 - Phase 2 complete*
