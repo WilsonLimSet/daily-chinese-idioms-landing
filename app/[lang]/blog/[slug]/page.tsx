@@ -123,7 +123,7 @@ export default async function InternationalBlogPostPage({
       );
       return (sameTheme || similarMeaning) && p.slug !== slug;
     })
-    .slice(0, 4);
+    .slice(0, 8);
 
   // Generate pinyin variants using centralized utility function
   const noTones = removeToneMarks(post.idiom.pinyin).toLowerCase();

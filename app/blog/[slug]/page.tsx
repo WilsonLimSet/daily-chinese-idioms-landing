@@ -26,8 +26,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  // Winning query-focused title format
-  const title = `${post.idiom.characters} (${post.idiom.pinyin}): meaning in English, origin & examples`;
+  // Value-first title format - shows meaning immediately for better CTR
+  const title = `${post.idiom.characters} (${post.idiom.pinyin}) - ${post.idiom.metaphoric_meaning} | Chinese Idiom`;
   
   // Optimized meta description (150-160 chars)
   const pinyinNoTones = post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
@@ -113,7 +113,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       );
       return (sameTheme || similarMeaning) && p.slug !== slug;
     })
-    .slice(0, 4);
+    .slice(0, 8);
     
   // Generate pinyin variants using centralized utility function
   const noTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
