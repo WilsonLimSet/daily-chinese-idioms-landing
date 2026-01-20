@@ -101,8 +101,8 @@ export default function Home() {
               <p className="text-sm text-gray-600">qi shang ba xia</p>
               <p className="text-xs text-blue-600 mt-1">Anxious and restless</p>
             </Link>
-            <Link href="/blog" className="p-3 bg-blue-50 border-2 border-blue-200 rounded-lg hover:bg-blue-100 transition-colors flex items-center justify-center">
-              <p className="text-blue-700 font-semibold">Browse All 365+ Idioms →</p>
+            <Link href="/dictionary" className="p-3 bg-red-50 border-2 border-red-200 rounded-lg hover:bg-red-100 transition-colors flex items-center justify-center">
+              <p className="text-red-700 font-semibold">Chengyu Dictionary →</p>
             </Link>
           </div>
         </div>
@@ -157,6 +157,13 @@ export default function Home() {
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 Blog
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href="/dictionary"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                Dictionary
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link

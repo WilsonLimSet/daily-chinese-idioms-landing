@@ -247,6 +247,13 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link
+                href={lang === 'en' ? '/dictionary' : `/${lang}/dictionary`}
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                Dictionary
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
                 href={lang === 'en' ? '/privacy' : `/${lang}/privacy`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
