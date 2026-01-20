@@ -3,11 +3,11 @@ import { LANGUAGES } from '@/src/lib/constants';
 import BlogClient from './BlogClient';
 
 export const metadata = {
-  title: '280+ Chinese Idioms (Chengyu) - Complete Dictionary with Meanings & Examples',
-  description: 'Comprehensive Chinese idioms dictionary with 280+ chengyu. Learn meanings, pinyin pronunciation, origins, and usage examples. Updated daily with cultural context.',
+  title: '365+ Chinese Idioms (Chengyu) - Complete Dictionary with Meanings & Examples',
+  description: 'Comprehensive Chinese idioms dictionary with 365+ chengyu. Learn meanings, pinyin pronunciation, origins, and usage examples. Updated daily with cultural context.',
   keywords: ['chinese idioms dictionary', 'chengyu list', 'chinese proverbs', 'learn chengyu', 'chinese idioms with meanings', 'mandarin idioms'],
   openGraph: {
-    title: '280+ Chinese Idioms Dictionary - Meanings, Origins & Examples',
+    title: '365+ Chinese Idioms Dictionary - Meanings, Origins & Examples',
     description: 'Complete guide to Chinese idioms (chengyu) with English meanings, pinyin, and cultural context. Updated daily.',
     url: 'https://www.chineseidioms.com/blog',
     siteName: 'Daily Chinese Idioms',

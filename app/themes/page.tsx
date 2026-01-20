@@ -22,7 +22,7 @@ const THEME_DESCRIPTIONS: { [key: string]: string } = {
 
 export const metadata: Metadata = {
   title: 'Chinese Idiom Themes - Browse Chengyu by Category',
-  description: 'Browse Chinese idioms (chengyu) organized by theme: wisdom, success, relationships, strategy, philosophy, and character. Explore 280+ idioms with meanings and examples.',
+  description: 'Browse Chinese idioms (chengyu) organized by theme: wisdom, success, relationships, strategy, philosophy, and character. Explore 365+ idioms with meanings and examples.',
   keywords: [
     'chinese idiom themes',
     'chengyu categories',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: 'Browse Chinese Idioms by Theme',
-    description: 'Explore 280+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
+    description: 'Explore 365+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
     url: 'https://www.chineseidioms.com/themes',
     siteName: 'Daily Chinese Idioms',
     locale: 'en_US',
@@ -111,7 +111,7 @@ export default async function ThemesIndexPage() {
             Browse Chinese Idioms by Theme
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl">
-            Explore our collection of 280+ Chinese idioms (chengyu) organized by theme.
+            Explore our collection of 365+ Chinese idioms (chengyu) organized by theme.
             Each category offers unique insights into Chinese culture, philosophy, and wisdom.
           </p>
         </header>

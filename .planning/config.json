@@ -1,0 +1,12 @@
+{
+  "workflow": {
+    "mode": "yolo",
+    "depth": "standard"
+  },
+  "parallelization": {
+    "enabled": true,
+    "max_concurrent_agents": 3,
+    "skip_checkpoints": true,
+    "min_plans_for_parallel": 2
+  }
+}
