@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
+import { getAllListicles } from '@/src/lib/listicles';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -90,6 +91,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
+  // Listicle pages (curated idiom lists)
+  const listicles = getAllListicles();
+  const listiclePages = listicles.map((listicle) => ({
+    url: `${baseUrl}/blog/lists/${listicle.slug}`,
+    lastModified: new Date(listicle.publishedDate),
+    changeFrequency: 'monthly' as const,
+    priority: 0.85,
+  }));
+
   // Static pages
   const staticPages = [
     {
@@ -105,6 +115,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.9,
     },
     {
+      url: `${baseUrl}/blog/lists`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.85,
+    },
+    {
       url: `${baseUrl}/privacy`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
@@ -112,7 +128,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
+  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length + listiclePages.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
 
-  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages];
+  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages, ...listiclePages];
 }
