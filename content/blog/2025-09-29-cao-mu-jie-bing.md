@@ -5,7 +5,7 @@ characters: "草木皆兵"
 pinyin: "cǎo mù jiē bīng"
 meaning: "Grass trees all soldiers"
 metaphoric_meaning: "Extreme paranoia sees threats everywhere"
-theme: "Mental States"
+theme: "Life Philosophy"
 ---
 
 **Pronunciation:** *cǎo mù jiē bīng*  

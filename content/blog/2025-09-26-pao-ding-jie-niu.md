@@ -5,7 +5,7 @@ characters: "庖丁解牛"
 pinyin: "páo dīng jiě niú"
 meaning: "Chef Ding butchers ox"
 metaphoric_meaning: "Effortless skill through perfect practice"
-theme: "Mastery & Skill"
+theme: "Wisdom & Learning"
 ---
 
 **Pronunciation:** *páo dīng jiě niú*  

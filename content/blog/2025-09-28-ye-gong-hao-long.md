@@ -5,7 +5,7 @@ characters: "叶公好龙"
 pinyin: "yè gōng hào lóng"
 meaning: "Lord Ye loves dragons"
 metaphoric_meaning: "Professed love hiding actual fear"
-theme: "Character & Behavior"
+theme: "Relationships & Character"
 ---
 
 **Pronunciation:** *yè gōng hào lóng*  

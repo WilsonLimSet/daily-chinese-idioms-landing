@@ -5,7 +5,7 @@ characters: "冰清玉洁"
 pinyin: "bīng qīng yù jié"
 meaning: "Ice clear jade pure"
 metaphoric_meaning: "Impeccable moral character and integrity"
-theme: "Character & Behavior"
+theme: "Relationships & Character"
 ---
 
 **Pronunciation:** *bīng qīng yù jié*

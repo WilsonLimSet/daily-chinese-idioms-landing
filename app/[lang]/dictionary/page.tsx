@@ -200,6 +200,13 @@ export default async function DictionaryPage({
           </h2>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {Object.entries(themeGroups)
+              .filter(([theme]) => [
+                'Life Philosophy',
+                'Wisdom & Learning',
+                'Success & Perseverance',
+                'Relationships & Character',
+                'Strategy & Action'
+              ].includes(theme))
               .sort((a, b) => b[1].length - a[1].length)
               .map(([theme, posts]) => {
                 const themeSlug = theme.toLowerCase().replace(/[&\s]+/g, '-');
@@ -215,7 +222,7 @@ export default async function DictionaryPage({
                     </p>
                     <div className="flex flex-wrap gap-2">
                       {posts.slice(0, 3).map(post => (
-                        <span key={post.slug} className="text-sm bg-gray-100 px-2 py-1 rounded">
+                        <span key={post.slug} className="text-sm bg-red-50 text-gray-900 px-2 py-1 rounded border border-red-100">
                           {post.idiom.characters}
                         </span>
                       ))}
