@@ -38,7 +38,7 @@
       flex-wrap: wrap;
     }
 
-    select, button, input[type="file"], input[type="text"] {
+    select, button, input[type="file"], input[type="text"], textarea {
       padding: 10px 14px;
       font-size: 13px;
       border: 1px solid #333;
@@ -340,6 +340,11 @@
     <div class="control-row">
       <button onclick="downloadCard()">Download PNG</button>
       <button onclick="copyGeminiPrompt()" class="secondary">Copy Prompt</button>
+      <button onclick="resetOrigin()" class="secondary">Reset Text</button>
+    </div>
+
+    <div class="control-row">
+      <textarea id="originEdit" rows="4" placeholder="Edit origin text..." style="flex:1; min-width:200px; resize:vertical;"></textarea>
     </div>
 
     <div id="statusBar" class="status-bar"></div>
@@ -450,7 +455,20 @@
 
       document.getElementById('metaphoricMeaning').textContent = idiom.metaphoric_meaning;
       document.getElementById('literalMeaning').textContent = idiom.meaning;
-      document.getElementById('originText').textContent = idiom.description || '';
+
+      // Smart truncate at sentence boundary if too long
+      let desc = idiom.description || '';
+      const maxLen = 480;
+      if (desc.length > maxLen) {
+        // Find last complete sentence within limit
+        let cut = desc.lastIndexOf('. ', maxLen);
+        if (cut < maxLen * 0.5) cut = desc.lastIndexOf(', ', maxLen);
+        if (cut < maxLen * 0.5) cut = desc.lastIndexOf(' ', maxLen);
+        desc = desc.substring(0, cut > 0 ? cut + 1 : maxLen).trim();
+        if (!desc.endsWith('.')) desc += '...';
+      }
+      document.getElementById('originText').textContent = desc;
+      document.getElementById('originEdit').value = desc;
 
       document.getElementById('placeholderText').textContent = '[Upload: ' + idiom.meaning + ']';
       updateGeminiPrompt(idiom);
@@ -545,6 +563,28 @@ SCENE: Illustrate "${idiom.meaning}" with traditional Chinese elements.`;
         status.textContent = 'Copied!';
         setTimeout(() => status.style.display = 'none', 1500);
       });
+    }
+
+    // Origin text editing
+    const originEdit = document.getElementById('originEdit');
+    originEdit.addEventListener('input', (e) => {
+      document.getElementById('originText').textContent = e.target.value;
+    });
+
+    function resetOrigin() {
+      const idiom = idioms[currentIndex];
+      if (!idiom) return;
+      let desc = idiom.description || '';
+      const maxLen = 480;
+      if (desc.length > maxLen) {
+        let cut = desc.lastIndexOf('. ', maxLen);
+        if (cut < maxLen * 0.5) cut = desc.lastIndexOf(', ', maxLen);
+        if (cut < maxLen * 0.5) cut = desc.lastIndexOf(' ', maxLen);
+        desc = desc.substring(0, cut > 0 ? cut + 1 : maxLen).trim();
+        if (!desc.endsWith('.')) desc += '...';
+      }
+      originEdit.value = desc;
+      document.getElementById('originText').textContent = desc;
     }
 
     // Search/filter functionality
