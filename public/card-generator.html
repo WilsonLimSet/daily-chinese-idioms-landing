@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Idiom Card Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500&family=Noto+Sans+SC:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', 'Noto Sans SC', sans-serif;
+      background: #111;
+      padding: 24px;
+      min-height: 100vh;
+    }
+
+    .controls {
+      max-width: 560px;
+      margin: 0 auto 24px;
+      padding: 20px;
+      background: #1a1a1a;
+      border-radius: 12px;
+      color: white;
+    }
+
+    .controls h1 {
+      margin-bottom: 16px;
+      font-size: 18px;
+      font-weight: 600;
+      color: #fff;
+    }
+
+    .control-row {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
+
+    select, button, input[type="file"], input[type="text"] {
+      padding: 10px 14px;
+      font-size: 13px;
+      border: 1px solid #333;
+      border-radius: 8px;
+      font-family: inherit;
+      background: #222;
+      color: white;
+    }
+
+    input[type="text"]::placeholder {
+      color: #666;
+    }
+
+    select { flex: 1; min-width: 200px; }
+
+    button {
+      background: #dc2626;
+      border: none;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.15s;
+    }
+
+    button:hover { background: #b91c1c; }
+    button.secondary { background: #333; }
+    button.secondary:hover { background: #444; }
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+
+    /* CARD - 1080x1440 at 50% scale for preview */
+    .card {
+      width: 540px;
+      height: 720px;
+      background: #FAFAFA;
+      border-radius: 20px;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+      padding: 16px 28px 24px;
+      display: flex;
+      flex-direction: column;
+      font-family: 'Noto Sans SC', 'Inter', sans-serif;
+    }
+
+    /* Header with logo and URL */
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 12px;
+    }
+
+    .card-header .brand-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .card-header .logo {
+      width: 32px;
+      height: 32px;
+      border-radius: 7px;
+    }
+
+    .card-header .brand-text {
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+      letter-spacing: -0.2px;
+    }
+
+    .card-header .brand-url {
+      font-size: 11px;
+      color: #999;
+      font-weight: 500;
+      letter-spacing: 0.3px;
+    }
+
+    /* Illustration - taller now */
+    .illustration-area {
+      flex: 0 0 265px;
+      background: linear-gradient(135deg, #f5f5f0 0%, #ebe8e0 100%);
+      border-radius: 12px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+
+    .illustration-area img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .illustration-area .placeholder {
+      color: #aaa;
+      font-size: 11px;
+      text-align: center;
+    }
+
+    /* Characters */
+    .character-row {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .character-block {
+      text-align: center;
+      vertical-align: top;
+    }
+
+    .character-block .pinyin {
+      font-family: 'Noto Sans', sans-serif;
+      font-size: 14px;
+      color: #888;
+      margin-bottom: 4px;
+      font-weight: 400;
+    }
+
+    .character-block .char {
+      font-size: 44px;
+      font-weight: 700;
+      color: #1a1a1a;
+      line-height: 1.1;
+    }
+
+    /* Meaning Section */
+    .meaning-section {
+      border-left: 3px solid #dc2626;
+      padding-left: 12px;
+      margin: 0 auto 14px;
+      width: fit-content;
+    }
+
+    .meaning-row {
+      margin-bottom: 4px;
+    }
+
+    .meaning-row:last-child { margin-bottom: 0; }
+
+    .meaning-label {
+      font-size: 9px;
+      font-weight: 600;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      margin-right: 8px;
+    }
+
+    .meaning-label.figurative {
+      color: #dc2626;
+    }
+
+    .meaning-text {
+      font-size: 13px;
+      color: #1a1a1a;
+      font-weight: 400;
+    }
+
+    /* Origin Section */
+    .origin-section {
+      flex: 1;
+    }
+
+    .origin-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: #dc2626;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    .origin-text {
+      font-size: 12px;
+      color: #555;
+      line-height: 1.6;
+    }
+
+    /* EXPORT SIZE (2x) */
+    .card.export-size {
+      width: 1080px;
+      height: 1440px;
+      padding: 32px 56px 48px;
+      border-radius: 40px;
+    }
+
+    .card.export-size .card-header {
+      margin-bottom: 32px;
+    }
+
+    .card.export-size .brand-left { gap: 20px; }
+
+    .card.export-size .logo {
+      width: 64px;
+      height: 64px;
+      border-radius: 14px;
+    }
+
+    .card.export-size .brand-text { font-size: 26px; }
+    .card.export-size .brand-url { font-size: 22px; }
+
+    .card.export-size .illustration-area {
+      flex: 0 0 530px;
+      margin-bottom: 32px;
+      border-radius: 24px;
+    }
+
+    .card.export-size .character-row {
+      gap: 24px;
+      margin-bottom: 32px;
+    }
+
+    .card.export-size .pinyin { font-size: 28px; margin-bottom: 8px; }
+    .card.export-size .char { font-size: 88px; }
+
+    .card.export-size .meaning-section {
+      border-left-width: 6px;
+      padding-left: 24px;
+      margin-bottom: 28px;
+    }
+
+    .card.export-size .meaning-row { margin-bottom: 8px; }
+    .card.export-size .meaning-label { font-size: 18px; margin-right: 16px; }
+    .card.export-size .meaning-text { font-size: 26px; }
+
+    .card.export-size .origin-label { font-size: 22px; margin-bottom: 12px; }
+    .card.export-size .origin-text { font-size: 24px; line-height: 1.65; }
+
+    .hidden { position: absolute; left: -9999px; }
+
+    /* Prompt section */
+    .prompt-section {
+      max-width: 560px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #1a1a1a;
+      border-radius: 12px;
+    }
+
+    .prompt-section h3 {
+      margin-bottom: 10px;
+      font-size: 12px;
+      font-weight: 600;
+      color: #666;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .gemini-prompt {
+      background: #0a0a0a;
+      color: #4ade80;
+      padding: 14px;
+      border-radius: 8px;
+      font-family: 'SF Mono', Monaco, 'Courier New', monospace;
+      font-size: 11px;
+      white-space: pre-wrap;
+      max-height: 160px;
+      overflow-y: auto;
+      line-height: 1.5;
+    }
+
+    .status-bar {
+      margin-top: 10px;
+      padding: 10px 14px;
+      background: #166534;
+      border-radius: 6px;
+      font-size: 12px;
+      color: white;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="controls">
+    <h1>Idiom Card Generator</h1>
+
+    <div class="control-row">
+      <input type="text" id="idiomSearch" placeholder="Search idioms (Ctrl+F)..." style="flex:1; min-width:200px;">
+    </div>
+    <div class="control-row">
+      <select id="idiomSelect" size="6" style="flex:1; min-width:200px; height:140px;"><option>Loading...</option></select>
+    </div>
+
+    <div class="control-row">
+      <button onclick="prevIdiom()">← Prev</button>
+      <button onclick="nextIdiom()">Next →</button>
+      <input type="file" id="imageUpload" accept="image/*" onchange="handleImageUpload(event)">
+      <button onclick="clearImage()" class="secondary">Clear</button>
+    </div>
+
+    <div class="control-row">
+      <button onclick="downloadCard()">Download PNG</button>
+      <button onclick="copyGeminiPrompt()" class="secondary">Copy Prompt</button>
+    </div>
+
+    <div id="statusBar" class="status-bar"></div>
+  </div>
+
+  <div class="card-container">
+    <div class="card" id="cardPreview">
+      <div class="card-header">
+        <div class="brand-left">
+          <img src="/chengyu-logo.png" alt="" class="logo">
+          <span class="brand-text">Daily Chinese Idioms</span>
+        </div>
+        <span class="brand-url">chineseidioms.com</span>
+      </div>
+
+      <div class="illustration-area">
+        <span class="placeholder" id="placeholderText">[Upload illustration]</span>
+        <img id="illustrationImg" style="display:none;">
+      </div>
+
+      <div class="character-row" id="characterRow"></div>
+
+      <div class="meaning-section">
+        <div class="meaning-row">
+          <span class="meaning-label">Literal</span>
+          <span class="meaning-text" id="literalMeaning">-</span>
+        </div>
+        <div class="meaning-row">
+          <span class="meaning-label figurative">Figurative</span>
+          <span class="meaning-text" id="metaphoricMeaning">-</span>
+        </div>
+      </div>
+
+      <div class="origin-section">
+        <div class="origin-label">Origin & Usage</div>
+        <div class="origin-text" id="originText">-</div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="hidden">
+    <div class="card export-size" id="cardExport"></div>
+  </div>
+
+  <div class="prompt-section">
+    <h3>Gemini Prompt</h3>
+    <div class="gemini-prompt" id="geminiPrompt">Select an idiom</div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script>
+    let idioms = [];
+    let currentIndex = 0;
+    let currentImage = null;
+
+    async function loadIdioms() {
+      try {
+        let response;
+        for (const path of ['/idioms.json', '../public/idioms.json']) {
+          try { response = await fetch(path); if (response.ok) break; } catch(e) {}
+        }
+        if (!response?.ok) throw new Error('Failed');
+        idioms = await response.json();
+        populateSelect();
+        updateCard();
+      } catch (e) {
+        document.getElementById('idiomSelect').textContent = 'Error loading idioms';
+      }
+    }
+
+    function populateSelect() {
+      const select = document.getElementById('idiomSelect');
+      select.textContent = '';
+      idioms.forEach((idiom, i) => {
+        const opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = idiom.id + ': ' + idiom.characters + ' — ' + idiom.metaphoric_meaning;
+        select.appendChild(opt);
+      });
+      select.onchange = (e) => { currentIndex = parseInt(e.target.value); updateCard(); };
+    }
+
+    function updateCard() {
+      const idiom = idioms[currentIndex];
+      if (!idiom) return;
+
+      document.getElementById('idiomSelect').value = currentIndex;
+
+      const chars = idiom.characters.split('');
+      const pinyin = idiom.pinyin.split(' ');
+      const charRow = document.getElementById('characterRow');
+      charRow.textContent = '';
+
+      chars.forEach((char, i) => {
+        const block = document.createElement('div');
+        block.className = 'character-block';
+        const py = document.createElement('div');
+        py.className = 'pinyin';
+        py.textContent = pinyin[i] || '';
+        const ch = document.createElement('div');
+        ch.className = 'char';
+        ch.textContent = char;
+        block.appendChild(py);
+        block.appendChild(ch);
+        charRow.appendChild(block);
+      });
+
+      document.getElementById('metaphoricMeaning').textContent = idiom.metaphoric_meaning;
+      document.getElementById('literalMeaning').textContent = idiom.meaning;
+      document.getElementById('originText').textContent = idiom.description || '';
+
+      document.getElementById('placeholderText').textContent = '[Upload: ' + idiom.meaning + ']';
+      updateGeminiPrompt(idiom);
+    }
+
+    function updateGeminiPrompt(idiom) {
+      const prompt = `Create a traditional Chinese ink wash painting (水墨画) for "${idiom.characters}" (${idiom.pinyin}).
+
+Literal meaning: "${idiom.meaning}"
+Figurative: "${idiom.metaphoric_meaning}"
+
+STYLE:
+- Traditional ink wash on aged paper texture
+- Muted earth tones: beige, brown, sage, soft red
+- NO text/characters/letters in image
+- Square format, high resolution
+
+SCENE: Illustrate "${idiom.meaning}" with traditional Chinese elements.`;
+
+      document.getElementById('geminiPrompt').textContent = prompt;
+    }
+
+    function prevIdiom() { if (currentIndex > 0) { currentIndex--; updateCard(); } }
+    function nextIdiom() { if (currentIndex < idioms.length - 1) { currentIndex++; updateCard(); } }
+
+    function handleImageUpload(e) {
+      const file = e.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = (ev) => {
+          currentImage = ev.target.result;
+          const img = document.getElementById('illustrationImg');
+          img.src = currentImage;
+          img.style.display = 'block';
+          document.getElementById('placeholderText').style.display = 'none';
+        };
+        reader.readAsDataURL(file);
+      }
+    }
+
+    function clearImage() {
+      currentImage = null;
+      document.getElementById('illustrationImg').style.display = 'none';
+      document.getElementById('placeholderText').style.display = 'block';
+      document.getElementById('imageUpload').value = '';
+    }
+
+    async function downloadCard() {
+      const idiom = idioms[currentIndex];
+      const status = document.getElementById('statusBar');
+      status.style.display = 'block';
+      status.textContent = 'Generating...';
+
+      const exportDiv = document.getElementById('cardExport');
+      const preview = document.getElementById('cardPreview');
+      exportDiv.textContent = '';
+
+      const clone = preview.cloneNode(true);
+      while (clone.firstChild) exportDiv.appendChild(clone.firstChild);
+
+      const logo = exportDiv.querySelector('.logo');
+      if (logo) logo.src = '/chengyu-logo.png';
+
+      if (currentImage) {
+        const img = exportDiv.querySelector('#illustrationImg');
+        if (img) { img.src = currentImage; img.style.display = 'block'; }
+        const ph = exportDiv.querySelector('#placeholderText');
+        if (ph) ph.style.display = 'none';
+      }
+
+      await new Promise(r => setTimeout(r, 50));
+
+      const canvas = await html2canvas(exportDiv, {
+        scale: 2,
+        useCORS: true,
+        backgroundColor: '#FAFAFA'
+      });
+
+      const link = document.createElement('a');
+      link.download = idiom.id + '-' + idiom.characters + '.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+
+      status.textContent = 'Downloaded: ' + idiom.characters;
+      setTimeout(() => status.style.display = 'none', 2000);
+    }
+
+    function copyGeminiPrompt() {
+      navigator.clipboard.writeText(document.getElementById('geminiPrompt').textContent).then(() => {
+        const status = document.getElementById('statusBar');
+        status.style.display = 'block';
+        status.textContent = 'Copied!';
+        setTimeout(() => status.style.display = 'none', 1500);
+      });
+    }
+
+    // Search/filter functionality
+    const searchInput = document.getElementById('idiomSearch');
+
+    function filterIdioms(query) {
+      const select = document.getElementById('idiomSelect');
+      select.textContent = '';
+
+      const q = query.toLowerCase().trim();
+      const filtered = q ? idioms.filter((idiom, i) => {
+        return idiom.characters.includes(q) ||
+               idiom.pinyin.toLowerCase().includes(q) ||
+               idiom.meaning.toLowerCase().includes(q) ||
+               idiom.metaphoric_meaning.toLowerCase().includes(q) ||
+               idiom.id.toLowerCase().includes(q);
+      }) : idioms;
+
+      filtered.forEach((idiom) => {
+        const originalIndex = idioms.indexOf(idiom);
+        const opt = document.createElement('option');
+        opt.value = originalIndex;
+        opt.textContent = idiom.id + ': ' + idiom.characters + ' — ' + idiom.metaphoric_meaning;
+        select.appendChild(opt);
+      });
+
+      // Select first match if filtering
+      if (filtered.length > 0 && q) {
+        select.value = idioms.indexOf(filtered[0]);
+      }
+    }
+
+    searchInput.addEventListener('input', (e) => {
+      filterIdioms(e.target.value);
+    });
+
+    // Focus search on Ctrl+F
+    document.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
+        e.preventDefault();
+        searchInput.focus();
+        searchInput.select();
+      }
+      if (e.key === 'ArrowLeft' && document.activeElement !== searchInput) prevIdiom();
+      if (e.key === 'ArrowRight' && document.activeElement !== searchInput) nextIdiom();
+    });
+
+    loadIdioms();
+  </script>
+</body>
+</html>

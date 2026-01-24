@@ -175,6 +175,117 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID005', 'ID017', 'ID029', 'ID026', 'ID032', 'ID001', 'ID009', 'ID014'],
     category: 'Courage',
     publishedDate: '2025-01-27'
+  },
+  // AI-native listicles targeting conversational queries
+  {
+    slug: 'chinese-idioms-for-beginners',
+    title: '10 Easy Chinese Idioms for Beginners to Learn First',
+    description: 'Start your Chinese idiom journey with these simple, commonly-used chengyu that every beginner should know.',
+    metaDescription: 'New to Chinese idioms? Start with these 10 easy chengyu for beginners. Simple to remember, commonly used, and perfect for starting your Mandarin learning journey.',
+    keywords: ['easy chinese idioms', 'chinese idioms for beginners', 'simple chengyu', 'first chinese idioms to learn', 'beginner mandarin idioms', 'hsk chinese idioms'],
+    intro: 'Learning Chinese idioms can seem daunting, but starting with these common, straightforward expressions will build your confidence. These idioms are frequently used in daily conversation and are easier to remember thanks to their vivid imagery.',
+    idiomIds: ['ID004', 'ID008', 'ID009', 'ID010', 'ID001', 'ID002', 'ID006', 'ID014', 'ID017', 'ID020'],
+    category: 'Learning',
+    publishedDate: '2025-01-28'
+  },
+  {
+    slug: 'chinese-idioms-for-tattoos',
+    title: '10 Meaningful Chinese Idioms Perfect for Tattoos',
+    description: 'Deep, beautiful Chinese idioms with powerful meanings that make meaningful tattoo choices.',
+    metaDescription: 'Looking for Chinese idiom tattoo ideas? These 10 meaningful chengyu have deep philosophical significance and look beautiful as body art. Includes meanings and proper characters.',
+    keywords: ['chinese idiom tattoo', 'chinese tattoo ideas', 'chengyu tattoo meaning', 'meaningful chinese characters tattoo', 'chinese phrase tattoo', 'chinese quote tattoo'],
+    intro: 'Chinese idioms make powerful tattoos because they pack profound meaning into just four characters. These carefully selected chengyu carry timeless wisdom about life, perseverance, and personal growth - perfect for permanent body art that tells your story.',
+    idiomIds: ['ID005', 'ID009', 'ID014', 'ID006', 'ID015', 'ID018', 'ID026', 'ID003', 'ID001', 'ID007'],
+    category: 'Inspiration',
+    publishedDate: '2025-01-29'
+  },
+  {
+    slug: 'funny-chinese-idioms',
+    title: '8 Funny Chinese Idioms with Hilarious Literal Meanings',
+    description: 'Discover amusing Chinese idioms whose literal translations are unexpectedly funny or absurd.',
+    metaDescription: 'Laugh while you learn with these 8 funny Chinese idioms. Their literal meanings are hilariously absurd, but their actual usage is surprisingly practical and common.',
+    keywords: ['funny chinese idioms', 'hilarious chengyu', 'weird chinese sayings', 'amusing chinese phrases', 'chinese idioms literal meaning', 'strange chinese expressions'],
+    intro: 'Chinese idioms often have wonderfully absurd literal meanings that make them memorable and fun to learn. These expressions sound bizarre when translated word-for-word but carry practical wisdom that Chinese speakers use every day.',
+    idiomIds: ['ID004', 'ID013', 'ID019', 'ID022', 'ID037', 'ID041', 'ID056', 'ID080'],
+    category: 'Entertainment',
+    publishedDate: '2025-01-30'
+  },
+  {
+    slug: 'chinese-new-year-idioms',
+    title: '10 Lucky Chinese Idioms for Chinese New Year Greetings',
+    description: 'Auspicious Chinese idioms perfect for Lunar New Year wishes, red envelopes, and celebrations.',
+    metaDescription: 'Celebrate Chinese New Year with these 10 auspicious chengyu. Perfect for greetings, red envelope messages, and bringing good luck for the year ahead.',
+    keywords: ['chinese new year idioms', 'lunar new year greetings chinese', 'cny chengyu', 'lucky chinese phrases', 'chinese new year wishes', 'auspicious chinese sayings'],
+    intro: 'During Chinese New Year, using the right idioms shows cultural knowledge and brings good fortune. These auspicious four-character expressions are perfect for greetings, decorations, and red envelope messages during the Spring Festival.',
+    idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID021', 'ID025', 'ID026', 'ID030', 'ID082', 'ID087'],
+    category: 'Celebrations',
+    publishedDate: '2025-01-31'
+  },
+  {
+    slug: 'chinese-idioms-for-graduation',
+    title: '8 Chinese Idioms Perfect for Graduation Speeches & Cards',
+    description: 'Congratulate graduates with these inspiring Chinese idioms about achievement, future success, and new beginnings.',
+    metaDescription: 'Find the perfect Chinese idiom for graduation. These 8 chengyu celebrate achievement, encourage future success, and make meaningful graduation card messages.',
+    keywords: ['chinese graduation idioms', 'graduation chinese phrases', 'chengyu for graduates', 'chinese congratulations sayings', 'graduation card chinese', 'commencement speech chinese'],
+    intro: 'Graduation marks a pivotal moment deserving of profound words. These Chinese idioms capture the essence of achievement, the excitement of new beginnings, and wishes for future success - perfect for speeches, cards, and celebrations.',
+    idiomIds: ['ID001', 'ID002', 'ID003', 'ID014', 'ID017', 'ID021', 'ID025', 'ID026'],
+    category: 'Celebrations',
+    publishedDate: '2025-02-01'
+  },
+  {
+    slug: 'chinese-idioms-about-family',
+    title: '10 Heartwarming Chinese Idioms About Family & Home',
+    description: 'Beautiful Chinese idioms celebrating family bonds, filial piety, and the warmth of home.',
+    metaDescription: 'Discover 10 touching Chinese idioms about family. These chengyu express love for parents, sibling bonds, family harmony, and the importance of home in Chinese culture.',
+    keywords: ['chinese family idioms', 'family chinese phrases', 'chengyu about parents', 'chinese filial piety sayings', 'home chinese expressions', 'chinese family values'],
+    intro: 'Family is the cornerstone of Chinese culture, and these idioms reflect centuries of wisdom about familial bonds. From filial piety to sibling love, these expressions capture the deep respect and affection that define Chinese family relationships.',
+    idiomIds: ['ID008', 'ID027', 'ID031', 'ID035', 'ID040', 'ID043', 'ID056', 'ID080', 'ID102', 'ID118'],
+    category: 'Family',
+    publishedDate: '2025-02-02'
+  },
+  {
+    slug: 'chinese-idioms-about-time',
+    title: '8 Chinese Idioms About Time, Age & Life Passing',
+    description: 'Philosophical Chinese idioms reflecting on time, aging, and making the most of life.',
+    metaDescription: 'Explore 8 profound Chinese idioms about time and life. These chengyu offer wisdom on aging gracefully, seizing the moment, and the fleeting nature of time.',
+    keywords: ['chinese time idioms', 'chinese sayings about age', 'chengyu about life', 'time flies chinese', 'carpe diem chinese', 'chinese philosophy time'],
+    intro: 'Chinese culture has long contemplated the nature of time and its passage. These idioms distill centuries of philosophical observation about aging, the value of each moment, and how we should approach our limited time on earth.',
+    idiomIds: ['ID007', 'ID015', 'ID018', 'ID023', 'ID024', 'ID029', 'ID033', 'ID036'],
+    category: 'Philosophy',
+    publishedDate: '2025-02-03'
+  },
+  {
+    slug: 'chinese-idioms-about-nature',
+    title: '10 Beautiful Chinese Idioms Inspired by Nature',
+    description: 'Poetic Chinese idioms drawing wisdom from mountains, water, plants, and the natural world.',
+    metaDescription: 'Discover 10 beautiful Chinese idioms inspired by nature. These chengyu use imagery from mountains, water, bamboo, and seasons to express profound life lessons.',
+    keywords: ['chinese nature idioms', 'nature chinese phrases', 'chengyu about water', 'chinese mountain sayings', 'bamboo chinese idiom', 'seasons chinese expressions'],
+    intro: 'Nature has always been central to Chinese philosophy and poetry. These idioms draw their wisdom from observations of the natural world - from the persistence of water to the resilience of bamboo - offering timeless lessons through beautiful imagery.',
+    idiomIds: ['ID005', 'ID009', 'ID015', 'ID018', 'ID007', 'ID024', 'ID032', 'ID033', 'ID036', 'ID029'],
+    category: 'Nature',
+    publishedDate: '2025-02-04'
+  },
+  {
+    slug: 'chinese-idioms-for-instagram',
+    title: '10 Short Chinese Idioms Perfect for Instagram Captions',
+    description: 'Concise, impactful Chinese idioms that make perfect social media captions and bios.',
+    metaDescription: 'Level up your Instagram with these 10 Chinese idioms. Short, meaningful, and visually striking - perfect for captions, bios, and showing off your cultural knowledge.',
+    keywords: ['chinese instagram captions', 'chinese captions for photos', 'short chinese quotes', 'aesthetic chinese phrases', 'chinese bio ideas', 'chengyu for social media'],
+    intro: 'Looking for meaningful captions that stand out? These Chinese idioms are short enough for social media but carry profound meaning. Each four-character phrase packs wisdom about life, success, and self-improvement into a visually striking format.',
+    idiomIds: ['ID001', 'ID005', 'ID006', 'ID009', 'ID014', 'ID017', 'ID018', 'ID020', 'ID021', 'ID026'],
+    category: 'Social Media',
+    publishedDate: '2025-02-05'
+  },
+  {
+    slug: 'chinese-idioms-about-money',
+    title: '8 Chinese Idioms About Money, Wealth & Prosperity',
+    description: 'Wise Chinese idioms about financial success, wealth attitudes, and the true value of money.',
+    metaDescription: 'Learn 8 Chinese idioms about money and wealth. These chengyu offer wisdom on earning, spending, and the role of prosperity in a meaningful life.',
+    keywords: ['chinese money idioms', 'wealth chinese phrases', 'chengyu about prosperity', 'chinese financial wisdom', 'rich chinese sayings', 'money chinese culture'],
+    intro: 'Chinese culture has nuanced views on wealth - valuing prosperity while warning against greed. These idioms reflect centuries of wisdom about earning, spending, and understanding money\'s proper role in a well-lived life.',
+    idiomIds: ['ID011', 'ID013', 'ID017', 'ID020', 'ID025', 'ID030', 'ID057', 'ID087'],
+    category: 'Wealth',
+    publishedDate: '2025-02-06'
   }
 ];
 

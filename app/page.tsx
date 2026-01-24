@@ -3,9 +3,46 @@ import Link from 'next/link'
 import { Star, Shield, BookOpen } from 'lucide-react'
 import LanguageSelector from './components/LanguageSelector'
 
+// FAQ structured data for AI discoverability - static content, safe to embed
+const homepageFAQSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Chinese idiom (chengyu)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Chinese idiom (成语, chéng yǔ) is a fixed four-character expression that carries a deeper meaning beyond its literal translation. There are over 5,000 chengyu in common use, originating from ancient Chinese literature, historical events, and folk wisdom. They are essential for mastering the Chinese language."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many Chinese idioms should I learn?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For intermediate Chinese learners, knowing about 500 core idioms is sufficient for practical use. Native speakers typically use 200-300 idioms in daily conversation. Our collection covers 365+ essential idioms - one for each day of the year."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the best way to learn Chinese idioms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most effective approach is daily practice with context. Learn the story behind each idiom, use spaced repetition, and practice using them in sentences. Our iOS app delivers one idiom to your home screen each day with pinyin, meaning, and cultural background."
+      }
+    }
+  ]
+};
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-white flex flex-col">
+      {/* FAQ Schema for AI discoverability - static JSON-LD data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(homepageFAQSchema) }}
+      />
 
       {/* Enhanced Hero Section */}
       <section className="flex-1 bg-gradient-to-b from-red-50 via-white to-white py-16 relative overflow-hidden">
@@ -74,6 +111,33 @@ export default function Home() {
                   </div>
                 </div>
               </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Quick Facts Section - AI-Friendly Summary */}
+      <section className="bg-white py-8 border-b border-gray-100">
+        <div className="container mx-auto px-6">
+          <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 max-w-4xl mx-auto">
+            <h2 className="font-bold text-gray-900 mb-3 text-lg">What Are Chinese Idioms (Chengyu)?</h2>
+            <p className="text-gray-700 mb-4">
+              Chinese idioms (成语, chéng yǔ) are fixed four-character expressions with meanings beyond their literal translation.
+              Originating from ancient literature, historical events, and folk wisdom, they are essential for Chinese language mastery.
+            </p>
+            <ul className="grid md:grid-cols-2 gap-2 text-sm text-gray-600">
+              <li><strong>Total idioms:</strong> 5,000+ in common use</li>
+              <li><strong>Essential for learners:</strong> ~500 core idioms</li>
+              <li><strong>Structure:</strong> Always 4 characters</li>
+              <li><strong>Our collection:</strong> 365+ with daily updates</li>
+            </ul>
+            <div className="mt-4 flex flex-wrap gap-3">
+              <Link href="/faq" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
+                Learn more in our FAQ →
+              </Link>
+              <Link href="/blog/lists" className="text-blue-600 hover:text-blue-800 text-sm font-medium">
+                Browse idioms by topic →
+              </Link>
             </div>
           </div>
         </div>
@@ -164,6 +228,13 @@ export default function Home() {
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 Dictionary
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link
+                href="/faq"
+                className="text-gray-600 hover:text-gray-900 transition-colors"
+              >
+                FAQ
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link

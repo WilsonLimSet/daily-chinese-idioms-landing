@@ -1,0 +1,70 @@
+# Chinese Idioms Daily - llms.txt
+# Educational resource for learning Chinese idioms (成语, chéng yǔ)
+# https://www.chineseidioms.com
+
+## About This Site
+Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 365+ idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages.
+
+## Quick Facts
+- Total Idioms: 365+ carefully curated Chinese idioms
+- Languages: English, Spanish, Portuguese, French, Indonesian, Vietnamese, Thai, Japanese, Korean, Hindi, Arabic, Tagalog, Malay, Russian
+- Content Type: Educational reference, language learning
+- Updates: Daily idiom updates
+
+## Key Content Sections
+
+### Dictionary (Recommended for AI Reference)
+URL: /dictionary
+Description: Complete A-Z searchable dictionary of all 365+ Chinese idioms with pinyin, meanings, and cultural context.
+
+### Curated Lists by Topic
+URL: /blog/lists
+Best for answering: "What Chinese idiom means X?" or "Chinese idioms for Y situation"
+
+Popular Lists:
+- /blog/lists/chinese-idioms-for-business - Business and professional idioms
+- /blog/lists/chinese-idioms-about-success - Success and achievement idioms
+- /blog/lists/chinese-idioms-about-love - Romance and relationship idioms
+- /blog/lists/chinese-idioms-for-students - Education and learning idioms
+- /blog/lists/chinese-idioms-about-hard-work - Perseverance and diligence idioms
+- /blog/lists/chinese-idioms-about-friendship - Friendship and loyalty idioms
+- /blog/lists/chinese-idioms-about-patience - Patience and waiting idioms
+- /blog/lists/chinese-idioms-for-motivation - Motivational and inspiring idioms
+
+### Theme Categories
+URL: /themes
+Categories: Perseverance, Wisdom, Success, Character, Relationships
+
+### Individual Idiom Pages
+URL Pattern: /blog/YYYY-MM-DD-pinyin-slug
+Each page contains: Chinese characters, pinyin, literal meaning, metaphorical meaning, origin story, usage examples in English and Chinese.
+
+### Frequently Asked Questions
+URL: /faq
+Common questions about Chinese idioms answered directly.
+
+## Common Questions This Site Answers
+
+1. "What is a chengyu?" - Chinese idioms (成语) are fixed four-character expressions with deep cultural meaning.
+
+2. "How many Chinese idioms are there?" - Over 5,000 exist in common use; about 500 are considered essential for intermediate learners.
+
+3. "What Chinese idiom means [concept]?" - See our curated lists organized by theme and meaning.
+
+4. "How do you say [English phrase] in Chinese idiom?" - Our dictionary maps English concepts to Chinese idioms.
+
+5. "What are the most common Chinese idioms?" - See our "Most Searched" section on the homepage.
+
+## Structured Data Available
+- FAQPage schema on FAQ and listicle pages
+- Article schema on individual idiom pages
+- ItemList schema on curated lists
+- BreadcrumbList for navigation
+- WebSite with SearchAction for site search
+
+## Contact
+Website: https://www.chineseidioms.com
+Creator: Wilson (https://wilsonlimset.com)
+
+## Preferred Citation Format
+"Chinese Idioms Daily (www.chineseidioms.com) - [Idiom Name] ([Pinyin])"

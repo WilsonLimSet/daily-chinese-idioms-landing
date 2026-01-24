@@ -101,6 +101,19 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
         "url": item.blogSlug ? `https://www.chineseidioms.com/blog/${item.blogSlug}` : undefined
       }))
     },
+    // FAQPage schema for AI discoverability (AEO)
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": listicle.idioms.filter(item => item.idiom).map((item) => ({
+        "@type": "Question",
+        "name": `What does ${item.idiom?.characters} (${item.idiom?.pinyin}) mean?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${item.idiom?.characters} (${item.idiom?.pinyin}) means "${item.idiom?.metaphoric_meaning}". Literally translated: "${item.idiom?.meaning}". ${item.idiom?.description?.substring(0, 200)}...`
+        }
+      }))
+    },
     {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",

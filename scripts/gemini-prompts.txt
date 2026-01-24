@@ -1,0 +1,67 @@
+GEMINI PROMPTS FOR CHINESE IDIOM ILLUSTRATIONS
+Generated: 2026-01-24T07:58:55.418Z
+Total: 3 idioms
+
+============================================================
+[1] ID001: 一鸣惊人
+Save image as: ID001.png
+============================================================
+Create a traditional Chinese ink wash painting (水墨画) style illustration for the idiom "一鸣惊人" (yī míng jīng rén).
+
+The idiom means: "Bird cry that startles all" (literally) and "Sudden, remarkable success" (figuratively).
+
+Style requirements:
+- Traditional Chinese ink wash painting aesthetic with aged paper texture
+- Soft, muted earth tones (beige, brown, sage green) with subtle color accents
+- Depict a scene that represents the LITERAL meaning: "Bird cry that startles all"
+- Include traditional Chinese elements (ancient clothing, architecture, nature)
+- Mountains, pine trees, or water elements in the background
+- NO text, NO Chinese characters, NO letters in the image
+- Square format (1:1 ratio), high resolution
+- Peaceful, contemplative, artistic mood
+- Style similar to classical Chinese scroll paintings
+
+Scene suggestion: A bird in natural setting, perhaps on a branch
+
+============================================================
+[2] ID002: 融会贯通
+Save image as: ID002.png
+============================================================
+Create a traditional Chinese ink wash painting (水墨画) style illustration for the idiom "融会贯通" (róng huì guàn tōng).
+
+The idiom means: "Merge and flow through completely" (literally) and "Master something completely" (figuratively).
+
+Style requirements:
+- Traditional Chinese ink wash painting aesthetic with aged paper texture
+- Soft, muted earth tones (beige, brown, sage green) with subtle color accents
+- Depict a scene that represents the LITERAL meaning: "Merge and flow through completely"
+- Include traditional Chinese elements (ancient clothing, architecture, nature)
+- Mountains, pine trees, or water elements in the background
+- NO text, NO Chinese characters, NO letters in the image
+- Square format (1:1 ratio), high resolution
+- Peaceful, contemplative, artistic mood
+- Style similar to classical Chinese scroll paintings
+
+Scene suggestion: A scene with a scholar or figure in traditional Chinese setting that represents Merge and flow through completely
+
+============================================================
+[3] ID003: 学海无涯
+Save image as: ID003.png
+============================================================
+Create a traditional Chinese ink wash painting (水墨画) style illustration for the idiom "学海无涯" (xué hǎi wú yá).
+
+The idiom means: "Ocean of learning has no shores" (literally) and "Learning is limitless" (figuratively).
+
+Style requirements:
+- Traditional Chinese ink wash painting aesthetic with aged paper texture
+- Soft, muted earth tones (beige, brown, sage green) with subtle color accents
+- Depict a scene that represents the LITERAL meaning: "Ocean of learning has no shores"
+- Include traditional Chinese elements (ancient clothing, architecture, nature)
+- Mountains, pine trees, or water elements in the background
+- NO text, NO Chinese characters, NO letters in the image
+- Square format (1:1 ratio), high resolution
+- Peaceful, contemplative, artistic mood
+- Style similar to classical Chinese scroll paintings
+
+Scene suggestion: A scene with a scholar or figure in traditional Chinese setting that represents Ocean of learning has no shores
+

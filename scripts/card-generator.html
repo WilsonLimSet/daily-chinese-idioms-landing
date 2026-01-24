@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Idiom Card Generator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Noto Sans SC', sans-serif;
+      background: #f0f0f0;
+      padding: 20px;
+    }
+
+    .controls {
+      max-width: 800px;
+      margin: 0 auto 20px;
+      padding: 20px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .controls h1 {
+      margin-bottom: 15px;
+      font-size: 24px;
+    }
+
+    .control-row {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+      flex-wrap: wrap;
+    }
+
+    select, button, input {
+      padding: 10px 15px;
+      font-size: 14px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-family: inherit;
+    }
+
+    button {
+      background: #2563eb;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #1d4ed8;
+    }
+
+    button.secondary {
+      background: #666;
+    }
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    /* The actual card - 1080x1350 for Instagram (4:5) */
+    .card {
+      width: 540px; /* Half size for display, will be 1080 when exported */
+      height: 675px;
+      background: #fefefe;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      padding: 25px 30px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #e5e5e5;
+      margin-bottom: 15px;
+    }
+
+    .card-header .brand {
+      font-size: 14px;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .card-header .tagline {
+      font-size: 12px;
+      color: #666;
+    }
+
+    .illustration-area {
+      height: 200px;
+      background: #f5f5f0;
+      border-radius: 8px;
+      border: 1px solid #e0e0e0;
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .illustration-area img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+
+    .illustration-area .placeholder {
+      color: #999;
+      font-size: 11px;
+      text-align: center;
+      padding: 10px;
+    }
+
+    .character-row {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 15px;
+    }
+
+    .character-block {
+      text-align: center;
+    }
+
+    .character-block .pinyin {
+      font-size: 13px;
+      color: #666;
+      margin-bottom: 2px;
+    }
+
+    .character-block .char {
+      font-size: 40px;
+      font-weight: 700;
+      color: #1a1a1a;
+      line-height: 1.1;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 700;
+      color: #2563eb;
+      margin-bottom: 5px;
+    }
+
+    .meaning-section {
+      margin-bottom: 12px;
+    }
+
+    .meaning-section .main-meaning {
+      font-size: 14px;
+      font-weight: 600;
+      color: #1a1a1a;
+      margin-bottom: 3px;
+    }
+
+    .meaning-section .literal {
+      font-size: 11px;
+      color: #666;
+    }
+
+    .origin-section {
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .origin-section .text {
+      font-size: 10px;
+      color: #444;
+      line-height: 1.5;
+    }
+
+    .card-footer {
+      border-top: 1px solid #e5e5e5;
+      padding-top: 10px;
+      margin-top: 10px;
+      text-align: center;
+    }
+
+    .card-footer span {
+      font-size: 10px;
+      color: #999;
+    }
+
+    /* Full size card for export */
+    .card.export-size {
+      width: 1080px;
+      height: 1350px;
+      padding: 50px 60px;
+    }
+
+    .card.export-size .card-header {
+      padding-bottom: 20px;
+      margin-bottom: 30px;
+    }
+
+    .card.export-size .brand {
+      font-size: 28px;
+    }
+
+    .card.export-size .tagline {
+      font-size: 24px;
+    }
+
+    .card.export-size .illustration-area {
+      height: 400px;
+      margin-bottom: 30px;
+      border-radius: 16px;
+    }
+
+    .card.export-size .character-row {
+      gap: 40px;
+      margin-bottom: 30px;
+    }
+
+    .card.export-size .pinyin {
+      font-size: 26px;
+    }
+
+    .card.export-size .char {
+      font-size: 80px;
+    }
+
+    .card.export-size .section-label {
+      font-size: 22px;
+      margin-bottom: 10px;
+    }
+
+    .card.export-size .main-meaning {
+      font-size: 28px;
+      margin-bottom: 6px;
+    }
+
+    .card.export-size .literal {
+      font-size: 22px;
+    }
+
+    .card.export-size .meaning-section {
+      margin-bottom: 24px;
+    }
+
+    .card.export-size .origin-section .text {
+      font-size: 20px;
+      line-height: 1.6;
+    }
+
+    .card.export-size .card-footer {
+      padding-top: 20px;
+      margin-top: 20px;
+    }
+
+    .card.export-size .card-footer span {
+      font-size: 20px;
+    }
+
+    .hidden {
+      position: absolute;
+      left: -9999px;
+    }
+
+    .gemini-prompt {
+      background: #1a1a1a;
+      color: #00ff00;
+      padding: 15px;
+      border-radius: 8px;
+      font-family: monospace;
+      font-size: 12px;
+      white-space: pre-wrap;
+      margin-top: 20px;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    .batch-status {
+      margin-top: 10px;
+      padding: 10px;
+      background: #e8f5e9;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="controls">
+    <h1>Chinese Idiom Card Generator</h1>
+
+    <div class="control-row">
+      <select id="idiomSelect">
+        <option value="">Loading idioms...</option>
+      </select>
+      <button onclick="prevIdiom()">Prev</button>
+      <button onclick="nextIdiom()">Next</button>
+    </div>
+
+    <div class="control-row">
+      <input type="file" id="imageUpload" accept="image/*" onchange="handleImageUpload(event)">
+      <button onclick="clearImage()" class="secondary">Clear Image</button>
+    </div>
+
+    <div class="control-row">
+      <button onclick="downloadCard()">Download Card (PNG)</button>
+      <button onclick="copyGeminiPrompt()" class="secondary">Copy Gemini Prompt</button>
+    </div>
+
+    <div class="control-row">
+      <button onclick="downloadBatch(10)" class="secondary">Batch: Download 10</button>
+      <button onclick="downloadBatch(50)" class="secondary">Batch: Download 50</button>
+    </div>
+
+    <div id="batchStatus" class="batch-status" style="display:none;"></div>
+  </div>
+
+  <div class="card-container">
+    <div class="card" id="cardPreview">
+      <div class="card-header">
+        <span class="brand">ChineseIdioms.com</span>
+        <span class="tagline">每日成语</span>
+      </div>
+
+      <div class="illustration-area" id="illustrationArea">
+        <span class="placeholder" id="placeholderText">[Upload illustration]</span>
+        <img id="illustrationImg" style="display:none;">
+      </div>
+
+      <div class="character-row" id="characterRow">
+        <!-- Filled by JS -->
+      </div>
+
+      <div class="meaning-section">
+        <div class="section-label">含义 / Meaning</div>
+        <div class="main-meaning" id="mainMeaning">-</div>
+        <div class="literal" id="literalMeaning">Literal: "-"</div>
+      </div>
+
+      <div class="origin-section">
+        <div class="section-label">由来 / Origin and Usage</div>
+        <div class="text" id="originText">-</div>
+      </div>
+
+      <div class="card-footer">
+        <span>chineseidioms.com</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hidden full-size card for export -->
+  <div class="hidden">
+    <div class="card export-size" id="cardExport"></div>
+  </div>
+
+  <div class="controls">
+    <h3>Gemini Prompt for Current Idiom:</h3>
+    <div class="gemini-prompt" id="geminiPrompt">Select an idiom to see the prompt</div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script>
+    // This tool processes local JSON data only, not user-supplied content
+    let idioms = [];
+    let currentIndex = 0;
+    let currentImage = null;
+
+    // Load idioms from local JSON file
+    async function loadIdioms() {
+      try {
+        // Try multiple paths depending on how the file is served
+        let response;
+        const paths = [
+          '/idioms.json',           // Next.js public folder (localhost:3001)
+          '../public/idioms.json',  // Direct file server
+          './idioms.json'           // Same directory
+        ];
+
+        for (const path of paths) {
+          try {
+            response = await fetch(path);
+            if (response.ok) break;
+          } catch (e) {
+            continue;
+          }
+        }
+
+        if (!response || !response.ok) {
+          throw new Error('Could not load idioms.json');
+        }
+        idioms = await response.json();
+        populateSelect();
+        updateCard();
+      } catch (e) {
+        console.error('Failed to load idioms:', e);
+        const select = document.getElementById('idiomSelect');
+        select.textContent = '';
+        const opt = document.createElement('option');
+        opt.textContent = 'Error loading idioms - run from project root';
+        select.appendChild(opt);
+      }
+    }
+
+    function populateSelect() {
+      const select = document.getElementById('idiomSelect');
+      select.textContent = '';
+      idioms.forEach((idiom, i) => {
+        const opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = idiom.id + ': ' + idiom.characters + ' - ' + idiom.metaphoric_meaning;
+        select.appendChild(opt);
+      });
+      select.onchange = (e) => {
+        currentIndex = parseInt(e.target.value);
+        updateCard();
+      };
+    }
+
+    function updateCard() {
+      const idiom = idioms[currentIndex];
+      if (!idiom) return;
+
+      document.getElementById('idiomSelect').value = currentIndex;
+
+      // Update characters using DOM methods
+      const chars = idiom.characters.split('');
+      const pinyin = idiom.pinyin.split(' ');
+      const charRow = document.getElementById('characterRow');
+      charRow.textContent = '';
+
+      chars.forEach((char, i) => {
+        const block = document.createElement('div');
+        block.className = 'character-block';
+
+        const pinyinDiv = document.createElement('div');
+        pinyinDiv.className = 'pinyin';
+        pinyinDiv.textContent = pinyin[i] || '';
+
+        const charDiv = document.createElement('div');
+        charDiv.className = 'char';
+        charDiv.textContent = char;
+
+        block.appendChild(pinyinDiv);
+        block.appendChild(charDiv);
+        charRow.appendChild(block);
+      });
+
+      document.getElementById('mainMeaning').textContent = idiom.metaphoric_meaning;
+      document.getElementById('literalMeaning').textContent = 'Literal: "' + idiom.meaning + '"';
+
+      let desc = idiom.description || '';
+      if (desc.length > 300) desc = desc.substring(0, 300) + '...';
+      document.getElementById('originText').textContent = desc;
+
+      document.getElementById('placeholderText').textContent = '[Add illustration for: ' + idiom.meaning + ']';
+
+      updateGeminiPrompt(idiom);
+    }
+
+    function updateGeminiPrompt(idiom) {
+      const prompt = 'Create a traditional Chinese ink wash painting style illustration for the idiom "' + idiom.characters + '" (' + idiom.pinyin + ').\n\n' +
+        'The idiom means: "' + idiom.meaning + '" (literally) and "' + idiom.metaphoric_meaning + '" (figuratively).\n\n' +
+        'Style requirements:\n' +
+        '- Traditional Chinese ink wash painting aesthetic\n' +
+        '- Soft, muted earth tones with subtle color accents\n' +
+        '- Include relevant imagery that represents the literal meaning\n' +
+        '- Aged paper/scroll texture background\n' +
+        '- Mountains or nature elements in the background\n' +
+        '- No text or characters in the image\n' +
+        '- Square format, suitable for social media\n' +
+        '- Peaceful, contemplative mood\n\n' +
+        'The scene should visually represent: ' + idiom.meaning;
+
+      document.getElementById('geminiPrompt').textContent = prompt;
+    }
+
+    function prevIdiom() {
+      if (currentIndex > 0) {
+        currentIndex--;
+        updateCard();
+      }
+    }
+
+    function nextIdiom() {
+      if (currentIndex < idioms.length - 1) {
+        currentIndex++;
+        updateCard();
+      }
+    }
+
+    function handleImageUpload(event) {
+      const file = event.target.files[0];
+      if (file) {
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          currentImage = e.target.result;
+          const img = document.getElementById('illustrationImg');
+          img.src = currentImage;
+          img.style.display = 'block';
+          document.getElementById('placeholderText').style.display = 'none';
+        };
+        reader.readAsDataURL(file);
+      }
+    }
+
+    function clearImage() {
+      currentImage = null;
+      document.getElementById('illustrationImg').style.display = 'none';
+      document.getElementById('placeholderText').style.display = 'block';
+      document.getElementById('imageUpload').value = '';
+    }
+
+    async function downloadCard() {
+      const idiom = idioms[currentIndex];
+
+      // Clone preview to export div
+      const exportDiv = document.getElementById('cardExport');
+      const previewDiv = document.getElementById('cardPreview');
+      exportDiv.textContent = '';
+
+      // Deep clone the preview
+      const clone = previewDiv.cloneNode(true);
+      while (clone.firstChild) {
+        exportDiv.appendChild(clone.firstChild);
+      }
+
+      // Update image in export if exists
+      if (currentImage) {
+        const exportImg = exportDiv.querySelector('#illustrationImg');
+        if (exportImg) {
+          exportImg.src = currentImage;
+          exportImg.style.display = 'block';
+        }
+        const placeholder = exportDiv.querySelector('#placeholderText');
+        if (placeholder) placeholder.style.display = 'none';
+      }
+
+      // Generate image
+      const canvas = await html2canvas(exportDiv, {
+        scale: 2,
+        useCORS: true,
+        backgroundColor: '#fefefe'
+      });
+
+      // Download
+      const link = document.createElement('a');
+      link.download = idiom.id + '-' + idiom.characters + '.png';
+      link.href = canvas.toDataURL('image/png');
+      link.click();
+    }
+
+    async function downloadBatch(count) {
+      const statusDiv = document.getElementById('batchStatus');
+      statusDiv.style.display = 'block';
+
+      for (let i = 0; i < Math.min(count, idioms.length); i++) {
+        currentIndex = i;
+        updateCard();
+        statusDiv.textContent = 'Generating ' + (i + 1) + '/' + count + ': ' + idioms[i].characters + '...';
+
+        await new Promise(r => setTimeout(r, 100));
+        await downloadCard();
+        await new Promise(r => setTimeout(r, 200));
+      }
+
+      statusDiv.textContent = 'Done! Generated ' + Math.min(count, idioms.length) + ' cards.';
+    }
+
+    function copyGeminiPrompt() {
+      const prompt = document.getElementById('geminiPrompt').textContent;
+      navigator.clipboard.writeText(prompt).then(() => {
+        alert('Prompt copied to clipboard!');
+      });
+    }
+
+    // Initialize
+    loadIdioms();
+  </script>
+</body>
+</html>

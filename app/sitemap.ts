@@ -121,6 +121,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.85,
     },
     {
+      url: `${baseUrl}/dictionary`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.95, // High priority - main reference page
+    },
+    {
+      url: `${baseUrl}/faq`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9, // High priority for AEO - FAQ pages are AI-friendly
+    },
+    {
       url: `${baseUrl}/privacy`,
       lastModified: new Date(),
       changeFrequency: 'monthly' as const,
