@@ -6,12 +6,14 @@ import { useEffect } from 'react'
 
 export function PHProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
-    posthog.init('phx_oLkG4aDRiFUsUPnhcnFkPujpZqD1uBgtgsdwgsMMgPLHWjC', {
-      api_host: 'https://us.i.posthog.com',
-      person_profiles: 'identified_only',
-      capture_pageview: true,
-      capture_pageleave: true,
-    })
+    if (process.env.NEXT_PUBLIC_POSTHOG_KEY) {
+      posthog.init(process.env.NEXT_PUBLIC_POSTHOG_KEY, {
+        api_host: 'https://us.i.posthog.com',
+        person_profiles: 'identified_only',
+        capture_pageview: true,
+        capture_pageleave: true,
+      })
+    }
   }, [])
 
   return <PostHogProvider client={posthog}>{children}</PostHogProvider>
