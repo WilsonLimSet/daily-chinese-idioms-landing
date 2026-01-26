@@ -1,0 +1,657 @@
+[
+  {
+    "slug": "idyoma-ng-tsino-para-sa-negosyo",
+    "originalSlug": "chinese-idioms-for-business",
+    "title": "10 Makapangyarihang Idyoma ng Tsino para sa Tagumpay sa Negosyo",
+    "description": "Kabisaduhin ang mahahalagang idyoma ng Tsino (chengyu) upang magpakita ng kahusayan sa mga pagpupulong, negosasyon, at propesyonal na sitwasyon sa negosyo.",
+    "metaDescription": "Matuto ng 10 makapangyarihang idyoma ng Tsino para sa negosyo. Saklaw ng mga chengyu na ito ang tagumpay, pagtitiyaga, estratehiya, at pamumuno - perpekto para sa propesyonal na komunikasyon sa Mandarin.",
+    "keywords": [
+      "idyoma ng tsino para sa negosyo",
+      "parirala ng tsino sa negosyo",
+      "chengyu para sa trabaho",
+      "propesyonal na idyoma ng tsino",
+      "ekspresyon ng mandarin sa negosyo"
+    ],
+    "intro": "Sa kultura ng negosyo sa Tsina, ang paggamit ng tamang idyoma (成语, chéng yǔ) ay maaaring magpakita ng pag-unawa sa kultura at sopistikasyon sa wika. Ang 10 idyoma na ito ay partikular na pinahahalagahan sa mga propesyonal na konteksto, mula sa mga presentasyon sa boardroom hanggang sa mga negosasyon sa kliyente.",
+    "idiomIds": [
+      "ID001",
+      "ID005",
+      "ID009",
+      "ID014",
+      "ID017",
+      "ID020",
+      "ID026",
+      "ID057",
+      "ID082",
+      "ID087"
+    ],
+    "category": "Negosyo",
+    "publishedDate": "2025-01-15"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-pag-ibig",
+    "originalSlug": "chinese-idioms-about-love",
+    "title": "8 Magagandang Idyoma ng Tsino Tungkol sa Pag-ibig at Romansa",
+    "description": "Tuklasin ang mga romantikong idyoma ng Tsino na nagpapahayag ng pag-ibig, debosyon, at relasyon sa mga poetikong paraan.",
+    "metaDescription": "Galugarin ang 8 magagandang idyoma ng Tsino tungkol sa pag-ibig at romansa. Alamin kung paano ipahayag ang pagmamahal, debosyon, at damdamin sa relasyon sa Mandarin gamit ang mga poetikong chengyu na ito.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa pag-ibig",
+      "romantikong parirala ng tsino",
+      "chengyu para sa pag-ibig",
+      "ekspresyon ng pag-ibig sa tsino",
+      "idyoma ng romansa sa mandarin"
+    ],
+    "intro": "Ang mga idyoma ng Tsino tungkol sa pag-ibig ay kabilang sa mga pinaka-poetiko sa wika. Ang mga ekspresyong ito ay ginamit sa loob ng maraming siglo upang ilarawan ang lalim ng pagmamahal ng tao, mula sa unang pagkikita hanggang sa panghabambuhay na debosyon.",
+    "idiomIds": [
+      "ID056",
+      "ID008",
+      "ID035",
+      "ID031",
+      "ID118",
+      "ID102",
+      "ID027",
+      "ID040"
+    ],
+    "category": "Pag-ibig at Relasyon",
+    "publishedDate": "2025-01-16"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-mga-estudyante",
+    "originalSlug": "chinese-idioms-for-students",
+    "title": "10 Idyoma ng Tsino na Dapat Malaman ng Bawat Estudyante",
+    "description": "Mahahalagang idyoma ng Tsino tungkol sa pag-aaral, edukasyon, at tagumpay sa akademya na magbibigay inspirasyon sa iyong pag-aaral.",
+    "metaDescription": "Kabisaduhin ang 10 idyoma ng Tsino para sa mga estudyante tungkol sa pag-aaral at edukasyon. Ang mga chengyu na ito ay nagbibigay inspirasyon sa tagumpay sa akademya, pagtitiyaga sa pag-aaral, at panghabambuhay na pag-aaral.",
+    "keywords": [
+      "idyoma ng tsino para sa mga estudyante",
+      "parirala ng tsino sa pag-aaral",
+      "chengyu para sa edukasyon",
+      "idyoma ng tsino sa akademya",
+      "motibasyon sa pag-aaral tsino"
+    ],
+    "intro": "Ang edukasyon ay palaging pinahahalagahan sa kulturang Tsino. Ang mga idyoma na ito tungkol sa pag-aaral at kaalaman ay nag-udyok sa mga estudyante sa loob ng maraming siglo at nananatiling may kaugnayan para sa sinumang naghahangad ng paglago sa akademya o personal.",
+    "idiomIds": [
+      "ID002",
+      "ID003",
+      "ID006",
+      "ID010",
+      "ID016",
+      "ID021",
+      "ID025",
+      "ID028",
+      "ID009",
+      "ID014"
+    ],
+    "category": "Edukasyon",
+    "publishedDate": "2025-01-17"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-pagkakaibigan",
+    "originalSlug": "chinese-idioms-about-friendship",
+    "title": "8 Makahulugang Idyoma ng Tsino Tungkol sa Pagkakaibigan",
+    "description": "Ipagdiwang ang mga ugnayan ng pagkakaibigan sa mga taos-pusong idyoma ng Tsino tungkol sa katapatan, tiwala, at pagsasama.",
+    "metaDescription": "Matuto ng 8 makahulugang idyoma ng Tsino tungkol sa pagkakaibigan. Ang mga chengyu na ito ay nagpapahayag ng katapatan, tiwala, suporta sa isa't isa, at ang halaga ng mga tunay na kasama sa kulturang Tsino.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa pagkakaibigan",
+      "parirala ng tsino sa pagkakaibigan",
+      "chengyu para sa mga kaibigan",
+      "idyoma ng tsino sa katapatan",
+      "ekspresyon ng pagkakaibigan sa mandarin"
+    ],
+    "intro": "Ang pagkakaibigan ay isang pundasyon ng mga pagpapahalagang panlipunan ng Tsino. Ang mga idyoma na ito ay kumukuha ng esensya ng tunay na pagsasama - mula sa pagbabahagi ng mga paghihirap hanggang sa pagdiriwang ng mga tagumpay nang magkasama.",
+    "idiomIds": [
+      "ID031",
+      "ID035",
+      "ID043",
+      "ID082",
+      "ID102",
+      "ID118",
+      "ID080",
+      "ID022"
+    ],
+    "category": "Pagkakaibigan",
+    "publishedDate": "2025-01-18"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-tagumpay",
+    "originalSlug": "chinese-idioms-about-success",
+    "title": "10 Nakasisiglang Idyoma ng Tsino Tungkol sa Tagumpay",
+    "description": "Mga motivational na idyoma ng Tsino tungkol sa pagkamit ng tagumpay, paglampas sa mga hadlang, at pag-abot sa iyong mga layunin.",
+    "metaDescription": "Tuklasin ang 10 nakasisiglang idyoma ng Tsino tungkol sa tagumpay at pagkamit. Alamin ang mga chengyu na nag-uudyok sa pagtitiyaga, pagsusumikap, at ang paglalakbay sa pagkamit ng iyong mga layunin.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa tagumpay",
+      "parirala ng tsino sa tagumpay",
+      "chengyu para sa pagkamit",
+      "motivational na idyoma ng tsino",
+      "ekspresyon ng tagumpay sa mandarin"
+    ],
+    "intro": "Ang kulturang Tsino ay may mayamang tradisyon ng mga idyoma na nagdiriwang ng tagumpay at ang mga katangiang kinakailangan upang makamit ito. Ang mga ekspresyong ito ay nag-aalok ng walang hanggang karunungan tungkol sa pagtitiyaga, estratehiya, at ang likas na katangian ng tagumpay.",
+    "idiomIds": [
+      "ID001",
+      "ID005",
+      "ID009",
+      "ID011",
+      "ID014",
+      "ID017",
+      "ID021",
+      "ID026",
+      "ID020",
+      "ID082"
+    ],
+    "category": "Tagumpay",
+    "publishedDate": "2025-01-19"
+  },
+  {
+    "slug": "mga-idyoma-ng-tsino-tungkol-sa-sipag",
+    "originalSlug": "chinese-idioms-about-hard-work",
+    "title": "8 Idyoma ng Tsino Tungkol sa Sipag at Tiyaga",
+    "description": "Makapangyarihang mga idyoma ng Tsino na nagdiriwang ng kasipagan, pagtitiyaga, at ang halaga ng pagsisikap.",
+    "metaDescription": "Matuto ng 8 makapangyarihang idyoma ng Tsino tungkol sa sipag at tiyaga. Ang mga chengyu na ito ay nagbibigay inspirasyon sa dedikasyon, pagtitiyaga, at mga gantimpala ng masigasig na pagsisikap.",
+    "keywords": [
+      "mga idyoma ng tsino tungkol sa sipag",
+      "mga parirala ng tsino tungkol sa tiyaga",
+      "chengyu para sa kasipagan",
+      "mga idyoma ng tsino tungkol sa etika sa trabaho",
+      "mga ekspresyon ng mandarin tungkol sa pagtitiyaga"
+    ],
+    "intro": "Ang etika sa trabaho ng mga Tsino ay maalamat, at ang mga idyoma na ito ay sumasalamin sa mga siglo ng karunungan tungkol sa halaga ng kasipagan at pagtitiyaga. Kung nahaharap ka man sa mga hamon sa trabaho o nagtataguyod ng mga personal na layunin, ang mga ekspresyong ito ay nag-aalok ng paghihikayat.",
+    "idiomIds": [
+      "ID009",
+      "ID014",
+      "ID005",
+      "ID026",
+      "ID017",
+      "ID020",
+      "ID006",
+      "ID003"
+    ],
+    "category": "Sipag",
+    "publishedDate": "2025-01-20"
+  },
+  {
+    "slug": "mga-idyoma-ng-tsino-tungkol-sa-buhay",
+    "originalSlug": "chinese-idioms-about-life",
+    "title": "10 Malalim na Idyoma ng Tsino Tungkol sa Buhay at Pilosopiya",
+    "description": "Malalim na pilosopikal na mga idyoma ng Tsino na nag-aalok ng karunungan tungkol sa buhay, pagbabago, at karanasan ng tao.",
+    "metaDescription": "Galugarin ang 10 malalim na idyoma ng Tsino tungkol sa buhay at pilosopiya. Ang mga chengyu na ito ay nag-aalok ng walang hanggang karunungan tungkol sa pagbabago, balanse, pananaw, at karanasan ng tao.",
+    "keywords": [
+      "mga idyoma ng tsino tungkol sa buhay",
+      "mga parirala ng tsino tungkol sa pilosopiya",
+      "chengyu para sa karunungan",
+      "mga aral sa buhay ng tsino",
+      "mga pilosopikal na idyoma ng mandarin"
+    ],
+    "intro": "Ang pilosopiya ng Tsino ay nakagawa ng ilan sa mga pinakamalalim na obserbasyon tungkol sa buhay at kalikasan ng tao. Ang mga idyoma na ito ay naglalaman ng mga siglo ng karunungan sa mga di-malilimutang apat na karakter na ekspresyon na nananatiling may kaugnayan ngayon.",
+    "idiomIds": [
+      "ID007",
+      "ID012",
+      "ID015",
+      "ID018",
+      "ID019",
+      "ID023",
+      "ID024",
+      "ID027",
+      "ID022",
+      "ID040"
+    ],
+    "category": "Pilosopiya ng Buhay",
+    "publishedDate": "2025-01-21"
+  },
+  {
+    "slug": "mga-idyoma-ng-tsino-para-sa-motibasyon",
+    "originalSlug": "chinese-idioms-for-motivation",
+    "title": "10 Nakapagpapasiglang Idyoma ng Tsino para Magbigay Inspirasyon sa Iyo",
+    "description": "Magkaroon ng inspirasyon sa mga makapangyarihang idyoma ng Tsino tungkol sa motibasyon, determinasyon, at paglampas sa mga hamon.",
+    "metaDescription": "Maghanap ng inspirasyon sa 10 nakapagpapasiglang idyoma ng Tsino. Ang mga makapangyarihang chengyu na ito ay naghihikayat ng determinasyon, katatagan, at lakas upang malampasan ang anumang hamon.",
+    "keywords": [
+      "mga nakapagpapasiglang idyoma ng tsino",
+      "mga nakapagbibigay inspirasyong parirala ng tsino",
+      "chengyu para sa motibasyon",
+      "mga idyoma ng tsino tungkol sa determinasyon",
+      "mga ekspresyon ng mandarin tungkol sa inspirasyon"
+    ],
+    "intro": "Kailangan mo ba ng dagdag na motibasyon? Ang mga idyoma ng Tsino na ito ay nagbigay inspirasyon sa mga henerasyon upang malampasan ang mga paghihirap at itaguyod ang kanilang mga pangarap. Ang bawat isa ay nagdadala ng mga siglo ng karunungan tungkol sa potensyal ng tao at pagtitiyaga.",
+    "idiomIds": [
+      "ID001",
+      "ID005",
+      "ID009",
+      "ID014",
+      "ID017",
+      "ID021",
+      "ID026",
+      "ID018",
+      "ID006",
+      "ID082"
+    ],
+    "category": "Motibasyon",
+    "publishedDate": "2025-01-22"
+  },
+  {
+    "slug": "mga-idyoma-ng-tsino-tungkol-sa-pasensya",
+    "originalSlug": "chinese-idioms-about-patience",
+    "title": "8 Idyoma ng Tsino Tungkol sa Pasensya at Tiyaga",
+    "description": "Sinaunang karunungan ng Tsino tungkol sa pasensya, pagtitiyaga, at ang kapangyarihan ng paghihintay para sa tamang sandali.",
+    "metaDescription": "Matuto ng 8 idyoma ng Tsino tungkol sa pasensya at tiyaga. Ang mga chengyu na ito ay nagtuturo ng halaga ng paghihintay, pagtitiyaga, at pagtitiwala sa proseso ng unti-unting pag-unlad.",
+    "keywords": [
+      "mga idyoma ng tsino tungkol sa pasensya",
+      "mga parirala ng tsino tungkol sa pasensya",
+      "chengyu para sa pasensya",
+      "mga idyoma ng tsino tungkol sa pagtitiyaga",
+      "mga ekspresyon ng mandarin tungkol sa paghihintay"
+    ],
+    "intro": "Lubos na pinahahalagahan ng kulturang Tsino ang pasensya bilang isang birtud. Ang mga idyoma na ito ay kumukuha ng mga siglo ng karunungan tungkol sa kapangyarihan ng pagtitiyaga, ang kahalagahan ng pag-timing, at kung bakit ang unti-unting pag-unlad ay madalas na humahantong sa pangmatagalang tagumpay.",
+    "idiomIds": [
+      "ID009",
+      "ID005",
+      "ID032",
+      "ID018",
+      "ID026",
+      "ID015",
+      "ID007",
+      "ID014"
+    ],
+    "category": "Pasensya",
+    "publishedDate": "2025-01-23"
+  },
+  {
+    "slug": "mga-idyoma-ng-tsino-tungkol-sa-pagtutulungan",
+    "originalSlug": "chinese-idioms-about-teamwork",
+    "title": "8 Idyoma ng Tsino Tungkol sa Pagtutulungan at Kooperasyon",
+    "description": "Makapangyarihang mga idyoma ng Tsino na nagdiriwang ng kolaborasyon, pagkakaisa, at pagtutulungan upang makamit ang mga karaniwang layunin.",
+    "metaDescription": "Tuklasin ang 8 idyoma ng Tsino tungkol sa pagtutulungan at kooperasyon. Ang mga chengyu na ito ay nagbibigay-diin sa pagkakaisa, kolaborasyon, at ang kapangyarihan ng pagtutulungan sa pamamagitan ng mga hamon.",
+    "keywords": [
+      "mga idyoma ng tsino tungkol sa pagtutulungan",
+      "mga parirala ng tsino tungkol sa pagtutulungan",
+      "chengyu para sa kooperasyon",
+      "mga idyoma ng tsino tungkol sa kolaborasyon",
+      "mga ekspresyon ng mandarin tungkol sa pagkakaisa"
+    ],
+    "intro": "Mula sa paglalayag sa mga mapanganib na ilog hanggang sa pagtatayo ng mga dakilang imperyo, ang kasaysayan ng Tsino ay puno ng mga kuwento ng matagumpay na kolaborasyon. Ang mga idyoma na ito ay kumukuha ng esensya ng pagtutulungan at ang lakas na matatagpuan sa pagkakaisa.",
+    "idiomIds": [
+      "ID031",
+      "ID035",
+      "ID022",
+      "ID027",
+      "ID008",
+      "ID030",
+      "ID033",
+      "ID034"
+    ],
+    "category": "Pagtutulungan",
+    "publishedDate": "2025-01-24"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-pagbabago",
+    "originalSlug": "chinese-idioms-about-change",
+    "title": "8 Malalim na Idyoma ng Tsino Tungkol sa Pagbabago at Transpormasyon",
+    "description": "Pilosopikal na idyoma ng Tsino tungkol sa pagtanggap sa pagbabago, pag-angkop sa mga sitwasyon, at personal na transpormasyon.",
+    "metaDescription": "Tuklasin ang 8 malalim na idyoma ng Tsino tungkol sa pagbabago at transpormasyon. Ang mga chengyu na ito ay nag-aalok ng karunungan sa pag-angkop sa mga sitwasyon, pagtanggap sa pagbabago, at personal na paglago.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa pagbabago",
+      "parirala ng tsino tungkol sa pagbabago",
+      "chengyu para sa transpormasyon",
+      "idyoma ng tsino tungkol sa pag-angkop",
+      "ekspresyon ng mandarin tungkol sa personal na paglago"
+    ],
+    "intro": "Ang pagbabago ang tanging permanente sa buhay, at matagal nang tinanggap ng pilosopiya ng Tsino ang katotohanang ito. Ang mga idyoma na ito ay nag-aalok ng malalim na pananaw sa kung paano natin maaaring i-navigate ang mga transisyon sa buhay at gawing oportunidad ang mga hamon.",
+    "idiomIds": [
+      "ID015",
+      "ID018",
+      "ID012",
+      "ID007",
+      "ID024",
+      "ID029",
+      "ID036",
+      "ID033"
+    ],
+    "category": "Pagbabago at Paglago",
+    "publishedDate": "2025-01-25"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-talumpati",
+    "originalSlug": "chinese-idioms-for-speeches",
+    "title": "10 Makapangyarihang Idyoma ng Tsino para sa mga Talumpati at Presentasyon",
+    "description": "Pahanga ang iyong madla sa mga matalinghagang idyoma ng Tsino na perpekto para sa mga talumpati, toast, at propesyonal na presentasyon.",
+    "metaDescription": "Kabisaduhin ang 10 makapangyarihang idyoma ng Tsino para sa mga talumpati at presentasyon. Ang mga chengyu na ito ay nagdaragdag ng elegansya at karunungan sa mga toast, presentasyon sa negosyo, at pormal na okasyon.",
+    "keywords": [
+      "idyoma ng tsino para sa talumpati",
+      "parirala ng tsino para sa talumpati",
+      "chengyu para sa presentasyon",
+      "idyoma ng tsino para sa toast",
+      "ekspresyon ng mandarin para sa pormal"
+    ],
+    "intro": "Kung nagbibigay ka man ng toast sa kasal, presentasyon sa negosyo, o talumpati sa pagtatapos, ang pagsasama ng tamang idyoma ng Tsino ay maaaring magpataas ng iyong mensahe at magpakita ng kultural na pagiging sopistikado. Ang mga idyoma na ito ay partikular na epektibo para sa pagbibigay inspirasyon at pagganyak sa madla.",
+    "idiomIds": [
+      "ID001",
+      "ID025",
+      "ID030",
+      "ID017",
+      "ID021",
+      "ID011",
+      "ID026",
+      "ID082",
+      "ID014",
+      "ID036"
+    ],
+    "category": "Komunikasyon",
+    "publishedDate": "2025-01-26"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-tapang",
+    "originalSlug": "chinese-idioms-about-courage",
+    "title": "8 Idyoma ng Tsino Tungkol sa Tapang at Kagitingan",
+    "description": "Nagbibigay-inspirasyong idyoma ng Tsino tungkol sa tapang, pagharap sa mga takot, at pagkakaroon ng lakas ng loob upang ituloy ang iyong mga pangarap.",
+    "metaDescription": "Maghanap ng inspirasyon sa 8 idyoma ng Tsino tungkol sa tapang at kagitingan. Ipinagdiriwang ng mga chengyu na ito ang kawalan ng takot, determinasyon, at ang lakas upang harapin ang mga hamon nang harapan.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa tapang",
+      "parirala ng tsino tungkol sa tapang",
+      "chengyu para sa kagitingan",
+      "idyoma ng tsino tungkol sa kawalan ng takot",
+      "ekspresyon ng mandarin tungkol sa katapangan"
+    ],
+    "intro": "Sa buong kasaysayan ng Tsino, ang tapang ay ipinagdiriwang bilang isang pangunahing birtud. Kinukuha ng mga idyoma na ito ang iba't ibang aspeto ng kagitingan - mula sa tapang na ganap na mangako sa isang layunin, hanggang sa lakas na kinakailangan upang magpatuloy laban sa napakalaking pagsubok.",
+    "idiomIds": [
+      "ID005",
+      "ID017",
+      "ID029",
+      "ID026",
+      "ID032",
+      "ID001",
+      "ID009",
+      "ID014"
+    ],
+    "category": "Tapang",
+    "publishedDate": "2025-01-27"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-mga-baguhan",
+    "originalSlug": "chinese-idioms-for-beginners",
+    "title": "10 Madaling Idyoma ng Tsino para sa mga Baguhan na Unang Matutunan",
+    "description": "Simulan ang iyong paglalakbay sa idyoma ng Tsino sa mga simpleng, karaniwang ginagamit na chengyu na dapat malaman ng bawat baguhan.",
+    "metaDescription": "Bago sa idyoma ng Tsino? Magsimula sa 10 madaling chengyu na ito para sa mga baguhan. Simpleng tandaan, karaniwang ginagamit, at perpekto para sa pagsisimula ng iyong paglalakbay sa pag-aaral ng Mandarin.",
+    "keywords": [
+      "madaling idyoma ng tsino",
+      "idyoma ng tsino para sa mga baguhan",
+      "simpleng chengyu",
+      "unang idyoma ng tsino na matutunan",
+      "idyoma ng mandarin para sa baguhan",
+      "idyoma ng tsino para sa hsk"
+    ],
+    "intro": "Ang pag-aaral ng idyoma ng Tsino ay maaaring mukhang nakakatakot, ngunit ang pagsisimula sa mga karaniwang, direktang ekspresyon na ito ay magpapalakas ng iyong kumpiyansa. Ang mga idyoma na ito ay madalas na ginagamit sa pang-araw-araw na pag-uusap at mas madaling tandaan salamat sa kanilang matingkad na imahe.",
+    "idiomIds": [
+      "ID004",
+      "ID008",
+      "ID009",
+      "ID010",
+      "ID001",
+      "ID002",
+      "ID006",
+      "ID014",
+      "ID017",
+      "ID020"
+    ],
+    "category": "Pag-aaral",
+    "publishedDate": "2025-01-28"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-mga-tattoo",
+    "originalSlug": "chinese-idioms-for-tattoos",
+    "title": "10 Makahulugang Idyoma ng Tsino na Perpekto para sa mga Tattoo",
+    "description": "Malalim, magagandang idyoma ng Tsino na may makapangyarihang kahulugan na gumagawa ng makabuluhang pagpipilian sa tattoo.",
+    "metaDescription": "Naghahanap ng mga ideya sa tattoo ng idyoma ng Tsino? Ang 10 makahulugang chengyu na ito ay may malalim na pilosopikal na kahalagahan at mukhang maganda bilang body art. Kasama ang mga kahulugan at tamang karakter.",
+    "keywords": [
+      "tattoo ng idyoma ng tsino",
+      "mga ideya sa tattoo ng tsino",
+      "kahulugan ng tattoo ng chengyu",
+      "makahulugang tattoo ng karakter ng tsino",
+      "tattoo ng parirala ng tsino",
+      "tattoo ng quote ng tsino"
+    ],
+    "intro": "Ang mga idyoma ng Tsino ay gumagawa ng makapangyarihang mga tattoo dahil naglalaman ang mga ito ng malalim na kahulugan sa loob lamang ng apat na karakter. Ang mga maingat na piniling chengyu na ito ay nagdadala ng walang hanggang karunungan tungkol sa buhay, pagtitiyaga, at personal na paglago - perpekto para sa permanenteng body art na nagsasabi ng iyong kuwento.",
+    "idiomIds": [
+      "ID005",
+      "ID009",
+      "ID014",
+      "ID006",
+      "ID015",
+      "ID018",
+      "ID026",
+      "ID003",
+      "ID001",
+      "ID007"
+    ],
+    "category": "Inspirasyon",
+    "publishedDate": "2025-01-29"
+  },
+  {
+    "slug": "nakakatawang-idyoma-ng-tsino",
+    "originalSlug": "funny-chinese-idioms",
+    "title": "8 Nakakatawang Idyoma ng Tsino na May Nakakatawang Literal na Kahulugan",
+    "description": "Tuklasin ang mga nakakatuwang idyoma ng Tsino na ang literal na pagsasalin ay hindi inaasahang nakakatawa o walang katuturan.",
+    "metaDescription": "Tumawa habang natututo sa 8 nakakatawang idyoma ng Tsino. Ang kanilang literal na kahulugan ay nakakatawang walang katuturan, ngunit ang kanilang aktwal na paggamit ay nakakagulat na praktikal at karaniwan.",
+    "keywords": [
+      "nakakatawang idyoma ng tsino",
+      "nakakatawang chengyu",
+      "kakaibang kasabihan ng tsino",
+      "nakakatuwang parirala ng tsino",
+      "idyoma ng tsino literal na kahulugan",
+      "kakaibang ekspresyon ng tsino"
+    ],
+    "intro": "Ang mga idyoma ng Tsino ay madalas na may kamangha-manghang walang katuturang literal na kahulugan na ginagawang di malilimutan at masaya silang matutunan. Ang mga ekspresyong ito ay kakaiba kapag isinalin nang literal ngunit nagdadala ng praktikal na karunungan na ginagamit ng mga nagsasalita ng Tsino araw-araw.",
+    "idiomIds": [
+      "ID004",
+      "ID013",
+      "ID019",
+      "ID022",
+      "ID037",
+      "ID041",
+      "ID056",
+      "ID080"
+    ],
+    "category": "Libangan",
+    "publishedDate": "2025-01-30"
+  },
+  {
+    "slug": "idyoma-ng-bagong-taon-ng-tsino",
+    "originalSlug": "chinese-new-year-idioms",
+    "title": "10 Masuwerteng Idyoma ng Tsino para sa Pagbati sa Bagong Taon ng Tsino",
+    "description": "Mapalad na idyoma ng Tsino na perpekto para sa mga pagbati sa Lunar New Year, mga pulang sobre, at mga pagdiriwang.",
+    "metaDescription": "Ipagdiwang ang Bagong Taon ng Tsino sa 10 mapalad na chengyu na ito. Perpekto para sa mga pagbati, mensahe sa pulang sobre, at pagdadala ng suwerte para sa darating na taon.",
+    "keywords": [
+      "idyoma ng bagong taon ng tsino",
+      "pagbati sa lunar new year tsino",
+      "cny chengyu",
+      "masuwerteng parirala ng tsino",
+      "pagbati sa bagong taon ng tsino",
+      "mapalad na kasabihan ng tsino"
+    ],
+    "intro": "Sa panahon ng Bagong Taon ng Tsino, ang paggamit ng tamang idyoma ay nagpapakita ng kaalaman sa kultura at nagdadala ng magandang kapalaran. Ang mga mapalad na apat na karakter na ekspresyon na ito ay perpekto para sa mga pagbati, dekorasyon, at mensahe sa pulang sobre sa panahon ng Spring Festival.",
+    "idiomIds": [
+      "ID001",
+      "ID011",
+      "ID017",
+      "ID020",
+      "ID021",
+      "ID025",
+      "ID026",
+      "ID030",
+      "ID082",
+      "ID087"
+    ],
+    "category": "Pagdiriwang",
+    "publishedDate": "2025-01-31"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-pagtatapos",
+    "originalSlug": "chinese-idioms-for-graduation",
+    "title": "8 Idyoma ng Tsino na Perpekto para sa mga Talumpati at Kard sa Pagtatapos",
+    "description": "Batiin ang mga nagtapos sa mga nagbibigay-inspirasyong idyoma ng Tsino tungkol sa tagumpay, tagumpay sa hinaharap, at mga bagong simula.",
+    "metaDescription": "Hanapin ang perpektong idyoma ng Tsino para sa pagtatapos. Ang 8 chengyu na ito ay nagdiriwang ng tagumpay, naghihikayat ng tagumpay sa hinaharap, at gumagawa ng makabuluhang mensahe sa kard ng pagtatapos.",
+    "keywords": [
+      "idyoma ng pagtatapos ng tsino",
+      "parirala ng tsino sa pagtatapos",
+      "chengyu para sa mga nagtapos",
+      "kasabihan ng pagbati ng tsino",
+      "kard ng pagtatapos tsino",
+      "talumpati sa pagtatapos tsino"
+    ],
+    "intro": "Ang pagtatapos ay nagmamarka ng isang mahalagang sandali na karapat-dapat sa malalim na salita. Ang mga idyoma ng Tsino na ito ay kumukuha ng kakanyahan ng tagumpay, ang kagalakan ng mga bagong simula, at mga hiling para sa tagumpay sa hinaharap - perpekto para sa mga talumpati, kard, at pagdiriwang.",
+    "idiomIds": [
+      "ID001",
+      "ID002",
+      "ID003",
+      "ID014",
+      "ID017",
+      "ID021",
+      "ID025",
+      "ID026"
+    ],
+    "category": "Pagdiriwang",
+    "publishedDate": "2025-02-01"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-pamilya",
+    "originalSlug": "chinese-idioms-about-family",
+    "title": "10 Nakakaantig na Idyoma ng Tsino Tungkol sa Pamilya at Tahanan",
+    "description": "Magagandang idyoma ng Tsino na nagdiriwang ng mga ugnayan ng pamilya, paggalang sa magulang, at ang init ng tahanan.",
+    "metaDescription": "Tuklasin ang 10 nakakaantig na idyoma ng Tsino tungkol sa pamilya. Ang mga chengyu na ito ay nagpapahayag ng pagmamahal sa mga magulang, ugnayan ng magkakapatid, pagkakaisa ng pamilya, at ang kahalagahan ng tahanan sa kulturang Tsino.",
+    "keywords": [
+      "idyoma ng pamilyang tsino",
+      "parirala ng pamilyang tsino",
+      "chengyu tungkol sa mga magulang",
+      "kasabihan ng paggalang sa magulang ng tsino",
+      "ekspresyon ng tahanan ng tsino",
+      "pagpapahalaga sa pamilya ng tsino"
+    ],
+    "intro": "Ang pamilya ay ang pundasyon ng kulturang Tsino, at ang mga idyoma na ito ay sumasalamin sa mga siglo ng karunungan tungkol sa mga ugnayan ng pamilya. Mula sa paggalang sa magulang hanggang sa pagmamahal ng magkakapatid, ang mga ekspresyong ito ay kumukuha ng malalim na paggalang at pagmamahal na tumutukoy sa mga relasyon ng pamilyang Tsino.",
+    "idiomIds": [
+      "ID008",
+      "ID027",
+      "ID031",
+      "ID035",
+      "ID040",
+      "ID043",
+      "ID056",
+      "ID080",
+      "ID102",
+      "ID118"
+    ],
+    "category": "Pamilya",
+    "publishedDate": "2025-02-02"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-oras",
+    "originalSlug": "chinese-idioms-about-time",
+    "title": "8 Idyoma ng Tsino Tungkol sa Oras, Edad at Paglipas ng Buhay",
+    "description": "Pilosopikal na idyoma ng Tsino na sumasalamin sa oras, pagtanda, at paggamit ng buhay nang lubusan.",
+    "metaDescription": "Galugarin ang 8 malalim na idyoma ng Tsino tungkol sa oras at buhay. Ang mga chengyu na ito ay nag-aalok ng karunungan sa pagtanda nang may biyaya, pagsamantalahan ang sandali, at ang panandaliang katangian ng oras.",
+    "keywords": [
+      "idyoma ng oras ng tsino",
+      "kasabihan ng tsino tungkol sa edad",
+      "chengyu tungkol sa buhay",
+      "mabilis lumipas ang oras tsino",
+      "carpe diem tsino",
+      "pilosopiya ng tsino oras"
+    ],
+    "intro": "Matagal nang pinag-isipan ng kulturang Tsino ang katangian ng oras at ang paglipas nito. Ang mga idyoma na ito ay naglalaman ng mga siglo ng pilosopikal na pagmamasid tungkol sa pagtanda, ang halaga ng bawat sandali, at kung paano natin dapat lapitan ang ating limitadong oras sa mundo.",
+    "idiomIds": [
+      "ID007",
+      "ID015",
+      "ID018",
+      "ID023",
+      "ID024",
+      "ID029",
+      "ID033",
+      "ID036"
+    ],
+    "category": "Pilosopiya",
+    "publishedDate": "2025-02-03"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-kalikasan",
+    "originalSlug": "chinese-idioms-about-nature",
+    "title": "10 Magagandang Idyoma ng Tsino na Inspirasyon ay Kalikasan",
+    "description": "Mga poetikong idyoma ng Tsino na humuhugot ng karunungan mula sa mga bundok, tubig, halaman, at likas na mundo.",
+    "metaDescription": "Tuklasin ang 10 magagandang idyoma ng Tsino na inspirasyon ay kalikasan. Ang mga chengyu na ito ay gumagamit ng imahe mula sa mga bundok, tubig, kawayan, at mga panahon upang ipahayag ang malalim na mga aral sa buhay.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa kalikasan",
+      "parirala ng tsino tungkol sa kalikasan",
+      "chengyu tungkol sa tubig",
+      "kasabihan ng tsino tungkol sa bundok",
+      "idyoma ng tsino tungkol sa kawayan",
+      "ekspresyon ng tsino tungkol sa panahon"
+    ],
+    "intro": "Ang kalikasan ay palaging sentro ng pilosopiya at panulaang Tsino. Ang mga idyoma na ito ay humuhugot ng kanilang karunungan mula sa mga obserbasyon ng likas na mundo - mula sa pagtitiyaga ng tubig hanggang sa katatagan ng kawayan - na nag-aalok ng walang hanggang mga aral sa pamamagitan ng magagandang imahe.",
+    "idiomIds": [
+      "ID005",
+      "ID009",
+      "ID015",
+      "ID018",
+      "ID007",
+      "ID024",
+      "ID032",
+      "ID033",
+      "ID036",
+      "ID029"
+    ],
+    "category": "Kalikasan",
+    "publishedDate": "2025-02-04"
+  },
+  {
+    "slug": "idyoma-ng-tsino-para-sa-instagram",
+    "originalSlug": "chinese-idioms-for-instagram",
+    "title": "10 Maikling Idyoma ng Tsino na Perpekto para sa mga Caption sa Instagram",
+    "description": "Maikli, makahulugan, at epektibong mga idyoma ng Tsino na perpekto para sa mga caption at bio sa social media.",
+    "metaDescription": "Pagandahin ang iyong Instagram gamit ang 10 idyoma ng Tsino na ito. Maikli, makahulugan, at biswal na nakakaakit - perpekto para sa mga caption, bio, at pagpapakita ng iyong kaalaman sa kultura.",
+    "keywords": [
+      "caption ng tsino sa instagram",
+      "caption ng tsino para sa mga litrato",
+      "maikling quote ng tsino",
+      "aesthetic na parirala ng tsino",
+      "ideya sa bio ng tsino",
+      "chengyu para sa social media"
+    ],
+    "intro": "Naghahanap ng makahulugang mga caption na namumukod-tangi? Ang mga idyoma ng Tsino na ito ay sapat na maikli para sa social media ngunit nagdadala ng malalim na kahulugan. Ang bawat parirala na may apat na karakter ay naglalaman ng karunungan tungkol sa buhay, tagumpay, at pagpapabuti ng sarili sa isang biswal na nakakaakit na format.",
+    "idiomIds": [
+      "ID001",
+      "ID005",
+      "ID006",
+      "ID009",
+      "ID014",
+      "ID017",
+      "ID018",
+      "ID020",
+      "ID021",
+      "ID026"
+    ],
+    "category": "Social Media",
+    "publishedDate": "2025-02-05"
+  },
+  {
+    "slug": "idyoma-ng-tsino-tungkol-sa-pera",
+    "originalSlug": "chinese-idioms-about-money",
+    "title": "8 Idyoma ng Tsino Tungkol sa Pera, Kayamanan at Kasaganaan",
+    "description": "Mga matalinong idyoma ng Tsino tungkol sa tagumpay sa pananalapi, mga pananaw sa kayamanan, at ang tunay na halaga ng pera.",
+    "metaDescription": "Matuto ng 8 idyoma ng Tsino tungkol sa pera at kayamanan. Ang mga chengyu na ito ay nag-aalok ng karunungan sa pagkamit, paggastos, at ang papel ng kasaganaan sa isang makabuluhang buhay.",
+    "keywords": [
+      "idyoma ng tsino tungkol sa pera",
+      "parirala ng tsino tungkol sa kayamanan",
+      "chengyu tungkol sa kasaganaan",
+      "karunungan sa pananalapi ng tsino",
+      "mayamang kasabihan ng tsino",
+      "kultura ng tsino tungkol sa pera"
+    ],
+    "intro": "Ang kulturang Tsino ay may mga nuanced na pananaw sa kayamanan - pinahahalagahan ang kasaganaan habang nagbabala laban sa kasakiman. Ang mga idyoma na ito ay sumasalamin sa mga siglo ng karunungan tungkol sa pagkamit, paggastos, at pag-unawa sa tamang papel ng pera sa isang maayos na buhay.",
+    "idiomIds": [
+      "ID011",
+      "ID013",
+      "ID017",
+      "ID020",
+      "ID025",
+      "ID030",
+      "ID057",
+      "ID087"
+    ],
+    "category": "Kayamanan",
+    "publishedDate": "2025-02-06"
+  }
+]

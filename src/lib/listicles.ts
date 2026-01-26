@@ -1,9 +1,12 @@
 import idioms from '../../public/idioms.json';
 import { format, addDays } from 'date-fns';
 import { pinyinToSlug } from './utils/pinyin';
+import fs from 'fs';
+import path from 'path';
 
 export type Listicle = {
   slug: string;
+  originalSlug?: string; // For translated listicles, maps to English slug
   title: string;
   description: string;
   metaDescription: string;
@@ -12,6 +15,10 @@ export type Listicle = {
   idiomIds: string[];
   category: string;
   publishedDate: string;
+};
+
+export type TranslatedListicle = Listicle & {
+  originalSlug: string;
 };
 
 // Helper to get blog slug for an idiom
@@ -303,6 +310,88 @@ export function getListicleWithIdioms(slug: string) {
 
   const idiomsWithSlugs = listicle.idiomIds.map(id => {
     const idiom = getIdiomById(id);
+    const blogSlug = getIdiomBlogSlug(id);
+    return { idiom, blogSlug };
+  }).filter(item => item.idiom !== undefined);
+
+  return {
+    ...listicle,
+    idioms: idiomsWithSlugs
+  };
+}
+
+// Translation-aware functions
+function loadTranslatedListicles(lang: string): TranslatedListicle[] {
+  const translatedPath = path.join(process.cwd(), `public/translations/${lang}/listicles.json`);
+  if (fs.existsSync(translatedPath)) {
+    return JSON.parse(fs.readFileSync(translatedPath, 'utf-8'));
+  }
+  // Fallback to English if translation doesn't exist - add originalSlug for compatibility
+  return listicles.map(l => ({ ...l, originalSlug: l.slug }));
+}
+
+function loadTranslatedIdioms(lang: string) {
+  const translatedPath = path.join(process.cwd(), `public/translations/${lang}/idioms.json`);
+  if (fs.existsSync(translatedPath)) {
+    return JSON.parse(fs.readFileSync(translatedPath, 'utf-8'));
+  }
+  return idioms;
+}
+
+export function getAllListiclesTranslated(lang?: string): (Listicle | TranslatedListicle)[] {
+  if (!lang || lang === 'en') {
+    return listicles;
+  }
+  return loadTranslatedListicles(lang);
+}
+
+// Get listicle by localized slug (for URL routing)
+export function getListicleBySlug(slug: string, lang?: string): (Listicle | TranslatedListicle) | null {
+  const allListicles = getAllListiclesTranslated(lang);
+  return allListicles.find(l => l.slug === slug) || null;
+}
+
+// Get listicle by original English slug (for cross-language linking)
+export function getListicleByOriginalSlug(originalSlug: string, lang?: string): (Listicle | TranslatedListicle) | null {
+  if (!lang || lang === 'en') {
+    return listicles.find(l => l.slug === originalSlug) || null;
+  }
+  const allListicles = loadTranslatedListicles(lang);
+  return allListicles.find(l => l.originalSlug === originalSlug) || null;
+}
+
+// Get the localized slug for an original English slug
+export function getLocalizedSlug(originalSlug: string, lang?: string): string {
+  if (!lang || lang === 'en') {
+    return originalSlug;
+  }
+  const listicle = getListicleByOriginalSlug(originalSlug, lang);
+  return listicle?.slug || originalSlug;
+}
+
+// Get the original English slug from a localized slug
+export function getOriginalSlug(localizedSlug: string, lang?: string): string {
+  if (!lang || lang === 'en') {
+    return localizedSlug;
+  }
+  const listicle = getListicleBySlug(localizedSlug, lang) as TranslatedListicle | null;
+  return listicle?.originalSlug || localizedSlug;
+}
+
+// Legacy function - kept for backward compatibility
+export function getListicleTranslated(slug: string, lang?: string): (Listicle | TranslatedListicle) | null {
+  return getListicleBySlug(slug, lang);
+}
+
+export function getListicleWithIdiomsTranslated(slug: string, lang?: string) {
+  const listicle = getListicleBySlug(slug, lang);
+  if (!listicle) return null;
+
+  // Load translated idioms if available
+  const translatedIdioms = lang && lang !== 'en' ? loadTranslatedIdioms(lang) : idioms;
+
+  const idiomsWithSlugs = listicle.idiomIds.map(id => {
+    const idiom = translatedIdioms.find((i: { id: string }) => i.id === id);
     const blogSlug = getIdiomBlogSlug(id);
     return { idiom, blogSlug };
   }).filter(item => item.idiom !== undefined);

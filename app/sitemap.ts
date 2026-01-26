@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
-import { getAllListicles } from '@/src/lib/listicles';
+import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -91,7 +91,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // Listicle pages (curated idiom lists)
+  // Listicle pages (curated idiom lists) - English
   const listicles = getAllListicles();
   const listiclePages = listicles.map((listicle) => ({
     url: `${baseUrl}/blog/lists/${listicle.slug}`,
@@ -99,6 +99,34 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     changeFrequency: 'monthly' as const,
     priority: 0.85,
   }));
+
+  // Multilingual listicle pages with localized slugs
+  const multilingualListiclePages = [];
+  for (const lang of LANGUAGE_CODES) {
+    try {
+      const translatedListicles = getAllListiclesTranslated(lang);
+
+      // Language listicle index page
+      multilingualListiclePages.push({
+        url: `${baseUrl}/${lang}/blog/lists`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+      });
+
+      // Individual listicle pages in each language (with localized slugs)
+      translatedListicles.forEach((listicle) => {
+        multilingualListiclePages.push({
+          url: `${baseUrl}/${lang}/blog/lists/${listicle.slug}`,
+          lastModified: new Date(listicle.publishedDate),
+          changeFrequency: 'monthly' as const,
+          priority: 0.8,
+        });
+      });
+    } catch {
+      console.warn(`Could not generate listicle sitemap entries for language: ${lang}`);
+    }
+  }
 
   // Static pages
   const staticPages = [
@@ -140,7 +168,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
-  console.log(`Generated sitemap with ${staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length + listiclePages.length} URLs across ${LANGUAGE_CODES.length + 1} languages`);
+  const totalUrls = staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length + listiclePages.length + multilingualListiclePages.length;
+  console.log(`Generated sitemap with ${totalUrls} URLs across ${LANGUAGE_CODES.length + 1} languages`);
 
-  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages, ...listiclePages];
+  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages, ...listiclePages, ...multilingualListiclePages];
 }
