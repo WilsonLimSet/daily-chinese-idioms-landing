@@ -41,6 +41,8 @@ export const translations = {
     // Blog page
     blogTitle: "Daily Chinese Idioms Blog",
     blogSubtitle: "One idiom a day, with stories and meanings",
+    curatedLists: "Curated Idiom Lists",
+    viewAllLists: "View all curated lists",
     home: "Home",
     backToHome: "← Back to Home",
     searchPlaceholder: "Search by Chinese characters, pinyin, or meaning...",

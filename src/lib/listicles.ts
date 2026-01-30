@@ -219,11 +219,11 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-new-year-idioms',
-    title: '10 Lucky Chinese Idioms for Chinese New Year Greetings',
-    description: 'Auspicious Chinese idioms perfect for Lunar New Year wishes, red envelopes, and celebrations.',
-    metaDescription: 'Celebrate Chinese New Year with these 10 auspicious chengyu. Perfect for greetings, red envelope messages, and bringing good luck for the year ahead.',
-    keywords: ['chinese new year idioms', 'lunar new year greetings chinese', 'cny chengyu', 'lucky chinese phrases', 'chinese new year wishes', 'auspicious chinese sayings'],
-    intro: 'During Chinese New Year, using the right idioms shows cultural knowledge and brings good fortune. These auspicious four-character expressions are perfect for greetings, decorations, and red envelope messages during the Spring Festival.',
+    title: '10 Lucky Chinese Idioms for Chinese New Year Greetings 2026',
+    description: 'What are the best Chinese New Year greetings? These auspicious idioms are perfect for CNY 2026 wishes, red envelopes, and celebrations.',
+    metaDescription: 'What are the most popular Chinese New Year greetings? These 10 auspicious chengyu (成语) are the best phrases for CNY 2026 wishes, red envelopes, and bringing good luck.',
+    keywords: ['chinese new year greetings 2026', 'what to say chinese new year', 'best cny wishes', 'popular lunar new year phrases', 'gong xi fa cai alternatives', '新年快乐 other greetings', 'auspicious chinese new year sayings', 'spring festival 2026 greetings', 'how to wish happy new year in chinese', 'traditional cny blessings'],
+    intro: 'What should you say during Chinese New Year? Using the right idioms (成语, chéng yǔ) shows cultural knowledge and brings good fortune. These auspicious four-character expressions are the most popular greetings for CNY 2026 - perfect for wishes, decorations, and red envelope messages.',
     idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID021', 'ID025', 'ID026', 'ID030', 'ID082', 'ID087'],
     category: 'Celebrations',
     publishedDate: '2025-01-31'
@@ -293,6 +293,194 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID011', 'ID013', 'ID017', 'ID020', 'ID025', 'ID030', 'ID057', 'ID087'],
     category: 'Wealth',
     publishedDate: '2025-02-06'
+  },
+  // Chinese New Year 2026 - Year of the Horse
+  {
+    slug: 'year-of-the-horse-idioms-2026',
+    title: '10 Auspicious Chinese Idioms for Year of the Horse 2026 (马年)',
+    description: 'Celebrate the Year of the Horse with these powerful horse-themed Chinese idioms perfect for CNY 2026 greetings, wishes, and red envelopes.',
+    metaDescription: 'What are the best Chinese idioms for Year of the Horse 2026? These 10 auspicious horse-themed chengyu (马年成语) are perfect for CNY greetings, red envelopes, and celebrating 马到成功.',
+    keywords: ['year of the horse idioms 2026', 'what to say year of the horse', 'horse chinese idioms ma nian', 'cny 2026 greetings horse', '马年成语 2026', 'chinese new year 2026 horse sayings', 'lunar new year horse zodiac phrases', 'ma dao cheng gong meaning', 'best wishes year of horse chinese', '2026 spring festival horse idioms'],
+    intro: 'The Year of the Horse (马年, mǎ nián) in 2026 brings energy, success, and vitality. Looking for the perfect horse-themed idiom for Chinese New Year? These 10 auspicious expressions capture the spirit of swift success (马到成功), wisdom, and unstoppable momentum that the horse symbolizes in Chinese culture.',
+    idiomIds: ['ID386', 'ID262', 'ID195', 'ID133', 'ID018', 'ID552', 'ID093', 'ID274', 'ID648', 'ID647'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-07'
+  },
+  {
+    slug: 'chinese-new-year-red-envelope-messages',
+    title: '10 Lucky Chinese Idioms to Write on Red Envelopes (红包祝福语)',
+    description: 'What to write on a red envelope? These short, auspicious Chinese idioms are perfect for hongbao messages during Chinese New Year 2026.',
+    metaDescription: 'What should I write on a red envelope for Chinese New Year? These 10 lucky chengyu are perfect hongbao messages (红包祝福语) for wishing wealth, success, and good fortune.',
+    keywords: ['what to write on red envelope chinese', 'hongbao message ideas', 'red envelope sayings chinese new year', '红包祝福语 2026', 'what to say on lai see', 'best red packet messages', 'chinese new year envelope wishes', 'short chinese idioms for hongbao', 'lucky phrases for red envelope', 'cny red packet greetings'],
+    intro: 'What should you write on a red envelope (红包, hóng bāo) for Chinese New Year? These short, powerful four-character idioms are perfect for hongbao messages, conveying wishes of prosperity, success, and good fortune. Each fits perfectly inside a red envelope and carries deep meaning.',
+    idiomIds: ['ID386', 'ID436', 'ID651', 'ID652', 'ID141', 'ID517', 'ID644', 'ID653', 'ID014', 'ID001'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-08'
+  },
+  {
+    slug: 'chinese-new-year-family-reunion-idioms',
+    title: '10 Heartwarming Chinese Idioms for Family Reunions (团圆)',
+    description: 'What to say at Chinese New Year family gatherings? Beautiful idioms about togetherness for 团圆 reunion dinners.',
+    metaDescription: 'Looking for Chinese idioms about family togetherness? These 10 heartwarming chengyu about 团圆 (reunion) are perfect for CNY family gatherings and reunion dinners.',
+    keywords: ['chinese family reunion idioms', 'what to say family gathering cny', '团圆成语有哪些', 'chinese new year togetherness phrases', 'family harmony idioms chinese', 'nian ye fan family sayings', 'spring festival reunion quotes', 'chinese phrases about family unity', 'coming home chinese new year', 'family bonds chinese expressions'],
+    intro: 'What should you say at Chinese New Year family gatherings? The reunion dinner (年夜饭) is the most important meal of the year, bringing families together for 团圆 (tuán yuán). These idioms capture the warmth of family bonds, the joy of togetherness, and the harmony that Chinese culture treasures.',
+    idiomIds: ['ID031', 'ID035', 'ID027', 'ID613', 'ID303', 'ID056', 'ID420', 'ID531', 'ID597', 'ID603'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-09'
+  },
+  {
+    slug: 'chinese-new-year-fresh-start-idioms',
+    title: '10 Chinese Idioms for New Beginnings in the New Year',
+    description: 'Inspiring Chinese idioms about fresh starts, renewal, and embracing new opportunities in the Lunar New Year.',
+    metaDescription: 'Start the Lunar New Year fresh with these 10 Chinese idioms about new beginnings, transformation, and seizing opportunities. Perfect for New Year resolutions.',
+    keywords: ['new year new beginnings chinese', 'fresh start idioms', 'chinese renewal sayings', '新年新气象', 'lunar new year resolutions', 'cny fresh start', 'transformation chinese idioms'],
+    intro: 'Chinese New Year is the perfect time for fresh starts and new beginnings. These idioms capture the spirit of renewal, transformation, and the optimism that comes with turning over a new leaf as we welcome a new year.',
+    idiomIds: ['ID085', 'ID395', 'ID525', 'ID060', 'ID644', 'ID391', 'ID154', 'ID267', 'ID514', 'ID001'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-10'
+  },
+  {
+    slug: 'chinese-new-year-prosperity-blessings',
+    title: '10 Chinese Idioms for Prosperity & Wealth - Beyond 恭喜发财',
+    description: 'How to wish prosperity in Chinese besides gong xi fa cai? These powerful idioms wish wealth, career success, and fortune for CNY.',
+    metaDescription: 'What are other ways to wish prosperity in Chinese besides 恭喜发财? These 10 powerful chengyu convey wishes for wealth, career success, and fortune - perfect alternatives for CNY.',
+    keywords: ['prosperity chinese idioms besides gong xi fa cai', 'how to wish wealth in chinese', '恭喜发财 alternatives', 'chinese new year money wishes', 'career success chinese phrases', 'wealth blessing chinese', 'fortune idioms mandarin', 'financial success chinese sayings', 'getting rich chinese expressions', 'business prosperity cny greetings'],
+    intro: 'How do you wish prosperity in Chinese besides saying 恭喜发财 (gōng xǐ fā cái)? These powerful idioms convey wishes for wealth, career success, and achievement - perfect alternatives for blessing friends, family, and colleagues with prosperity in the new year.',
+    idiomIds: ['ID651', 'ID652', 'ID647', 'ID648', 'ID653', 'ID482', 'ID260', 'ID167', 'ID636', 'ID619'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-11'
+  },
+  {
+    slug: 'chinese-new-year-peace-harmony-idioms',
+    title: '10 Chinese Idioms for Peace & Harmony in the New Year',
+    description: 'Serene Chinese idioms about peace, harmony, and tranquility perfect for Chinese New Year blessings.',
+    metaDescription: 'Wish peace and harmony with these 10 Chinese idioms. Perfect for Chinese New Year blessings about tranquility, national prosperity, and harmonious living.',
+    keywords: ['peace chinese idioms', 'harmony new year wishes', 'tranquility cny greetings', '国泰民安', 'chinese peace blessings', 'lunar new year harmony', 'peaceful chinese sayings'],
+    intro: 'Beyond wealth and success, Chinese New Year is also a time to wish for peace (平安) and harmony (和谐). These idioms convey blessings for a tranquil, harmonious year ahead - for families, communities, and the world.',
+    idiomIds: ['ID616', 'ID617', 'ID618', 'ID027', 'ID303', 'ID304', 'ID173', 'ID148', 'ID566', 'ID040'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-12'
+  },
+  {
+    slug: 'chinese-new-year-first-day-chu-yi-greetings',
+    title: '10 Chinese Idioms for Chu Yi 初一 - First Day of Chinese New Year',
+    description: 'What to say on Chu Yi (初一)? Special Chinese idioms for the first day of Chinese New Year, the most auspicious day for greetings.',
+    metaDescription: 'What should I say on Chu Yi (初一), the first day of Chinese New Year? These 10 auspicious chengyu are the perfect greetings when every word brings extra luck.',
+    keywords: ['what to say on chu yi', 'first day chinese new year greetings', '初一说什么吉祥话', 'chu yi auspicious words', 'cny day one what to say', 'spring festival first day phrases', 'lunar new year january 29 2025', 'most lucky chinese new year sayings', 'da nian chu yi greetings', 'what do chinese say on new years day'],
+    intro: 'What should you say on Chu Yi (初一, dà nián chū yī), the first day of Chinese New Year? This is the most auspicious day for exchanging greetings - every word spoken carries extra weight and brings maximum good fortune. These expressions are perfect for this special day.',
+    idiomIds: ['ID001', 'ID386', 'ID644', 'ID436', 'ID025', 'ID517', 'ID586', 'ID084', 'ID076', 'ID054'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-13'
+  },
+  {
+    slug: 'chinese-new-year-wishes-for-elders',
+    title: '10 Respectful Chinese Idioms for Wishing Elders Happy New Year',
+    description: 'How to respectfully wish elders Happy New Year in Chinese? Traditional idioms for blessing seniors with longevity and health.',
+    metaDescription: 'How do you wish elders Happy New Year in Chinese respectfully? These 10 traditional chengyu convey wishes for longevity (长寿), health, and happiness to seniors during CNY.',
+    keywords: ['how to wish elders happy new year chinese', 'respectful cny greetings for seniors', '给长辈拜年怎么说', 'longevity wishes chinese elders', 'chinese phrases for older relatives', 'bai nian to elders', 'traditional respect chinese new year', 'filial piety new year greetings', 'senior blessings mandarin', 'how to address elders cny'],
+    intro: 'How do you respectfully wish elders Happy New Year in Chinese? Paying respect to seniors is a cornerstone of Chinese New Year traditions (拜年, bài nián). These idioms convey wishes for longevity (长寿), health, and happiness - perfect for honoring grandparents and elders with the reverence they deserve.',
+    idiomIds: ['ID222', 'ID262', 'ID133', 'ID134', 'ID091', 'ID050', 'ID303', 'ID566', 'ID616', 'ID617'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-14'
+  },
+  {
+    slug: 'chinese-new-year-wishes-for-students',
+    title: '10 Chinese Idioms for Wishing Students Success in the New Year',
+    description: 'Encouraging Chinese idioms for students entering the new year, perfect for academic success and learning wishes.',
+    metaDescription: 'Wish students academic success with these 10 Chinese idioms. Perfect for Chinese New Year blessings about learning, exams, and achieving educational dreams.',
+    keywords: ['chinese new year student wishes', 'academic success idioms', 'exam blessing chinese', '学业有成', 'student cny greetings', 'school success chinese', 'study motivation new year'],
+    intro: 'Chinese New Year is an important time to encourage students in their academic pursuits. These idioms convey wishes for learning success, exam excellence, and intellectual growth - perfect for blessing students of all ages.',
+    idiomIds: ['ID002', 'ID003', 'ID021', 'ID010', 'ID016', 'ID154', 'ID167', 'ID025', 'ID674', 'ID585'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-15'
+  },
+  {
+    slug: 'chinese-new-year-idioms-for-in-laws',
+    title: '10 Chinese Idioms to Impress Your In-Laws at Chinese New Year',
+    description: 'What to say to Chinese in-laws during CNY? These sophisticated idioms help you make a great impression and show cultural respect.',
+    metaDescription: 'How do I impress my Chinese in-laws at Chinese New Year? Use these 10 elegant chengyu to show respect, cultural knowledge, and make a great impression during CNY gatherings.',
+    keywords: ['how to impress chinese in-laws', 'what to say to in-laws chinese new year', 'meeting chinese in-laws first time cny', '见公婆说什么', 'chinese phrases for in-laws', 'respectful things to say chinese family', 'impress chinese parents in law', 'cny greetings for in-laws', 'polite chinese idioms for elders', 'how to greet boyfriends parents chinese'],
+    intro: 'Meeting your in-laws during Chinese New Year and wondering what to say? These carefully selected idioms will help you make an excellent impression. They convey respect, wisdom, and cultural sophistication - showing your in-laws that you value their family and traditions.',
+    idiomIds: ['ID027', 'ID091', 'ID134', 'ID033', 'ID141', 'ID050', 'ID129', 'ID137', 'ID173', 'ID566'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-16'
+  },
+  {
+    slug: 'chinese-new-year-idioms-for-grandparents',
+    title: '10 Sweet Chinese Idioms to Say to Grandparents at Chinese New Year',
+    description: 'What to say to grandparents in Chinese at CNY? These heartfelt idioms wish health, longevity, and happiness to 爷爷奶奶 or 外公外婆.',
+    metaDescription: 'What should I say to my Chinese grandparents at New Year? These 10 loving chengyu express filial respect and wish 爷爷奶奶 health, longevity, and happiness during CNY.',
+    keywords: ['what to say to grandparents chinese new year', 'chinese new year wishes for grandma grandpa', 'how to wish grandparents in chinese', '给爷爷奶奶拜年说什么', 'longevity blessing chinese grandparents', 'chinese phrases for elderly relatives', 'cny greetings for 外公外婆', 'respectful chinese sayings for grandparents', 'filial piety phrases chinese', 'health wishes grandparents mandarin'],
+    intro: 'What should you say to grandparents (爷爷奶奶 or 外公外婆) at Chinese New Year? Grandparents hold a special place in Chinese family culture, and these heartfelt idioms express your love, respect, and wishes for their continued health and happiness - perfect for making their Chinese New Year extra special.',
+    idiomIds: ['ID222', 'ID262', 'ID134', 'ID133', 'ID303', 'ID616', 'ID617', 'ID566', 'ID050', 'ID040'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-17'
+  },
+  {
+    slug: 'chinese-new-year-idioms-for-aunties-uncles',
+    title: '10 Chinese Idioms for Greeting Aunties and Uncles at CNY (阿姨叔叔)',
+    description: 'What to say to aunties and uncles during Chinese New Year? Polite idioms for greeting 阿姨, 叔叔, 舅舅, 姑姑 during family visits.',
+    metaDescription: 'What should I say to aunties and uncles at Chinese New Year? These 10 respectful Chinese idioms are perfect for greeting 阿姨叔叔 during CNY family visits.',
+    keywords: ['what to say to auntie uncle chinese new year', 'chinese new year greetings for relatives', 'how to greet 阿姨叔叔 cny', '给长辈拜年说什么', 'polite chinese phrases for aunts uncles', 'cny wishes for 舅舅姑姑', 'chinese family visit greetings', 'respectful sayings for older relatives', 'extended family cny phrases', 'how to address relatives chinese new year'],
+    intro: 'What should you say when visiting aunties (阿姨) and uncles (叔叔) during Chinese New Year? These idioms help you greet 舅舅, 姑姑, and other relatives with proper respect and warmth, making a great impression while honoring the family bonds that Chinese culture treasures.',
+    idiomIds: ['ID027', 'ID303', 'ID617', 'ID436', 'ID651', 'ID517', 'ID134', 'ID033', 'ID141', 'ID050'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-18'
+  },
+  {
+    slug: 'chinese-new-year-idioms-for-children',
+    title: '10 Easy Chinese Idioms to Teach Kids at Chinese New Year',
+    description: 'What Chinese phrases should kids learn for CNY? Easy-to-remember idioms perfect for teaching children to participate in New Year greetings.',
+    metaDescription: 'What Chinese New Year phrases should I teach my kids? These 10 easy, fun chengyu are perfect for children to learn - helping them participate in CNY greetings and traditions.',
+    keywords: ['chinese new year phrases for kids', 'easy chinese idioms for children', 'what to teach kids chinese new year', '儿童成语简单', 'simple cny greetings for children', 'kids chinese vocabulary new year', 'teaching children chinese traditions', 'fun chinese phrases for kids', 'child friendly chinese idioms', 'how to teach kids bai nian'],
+    intro: 'What Chinese phrases should kids learn for Chinese New Year? These simple, memorable idioms are perfect for children to learn and use - helping them participate in family greetings (拜年) while building their Chinese vocabulary in a fun way.',
+    idiomIds: ['ID004', 'ID008', 'ID001', 'ID386', 'ID436', 'ID034', 'ID010', 'ID006', 'ID009', 'ID517'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-19'
+  },
+  {
+    slug: 'chinese-new-year-business-greetings',
+    title: '10 Professional Chinese Idioms for CNY Business Greetings',
+    description: 'Sophisticated Chinese idioms for professional Chinese New Year greetings to colleagues, bosses, and business partners.',
+    metaDescription: 'Send professional CNY greetings with these 10 business-appropriate Chinese idioms. Perfect for wishing colleagues, bosses, and partners success in the new year.',
+    keywords: ['business chinese new year', 'professional cny greetings', 'corporate chinese wishes', '商业新年祝福', 'boss new year message', 'colleague cny greeting', 'business partner chinese'],
+    intro: 'Chinese New Year is an important time for professional relationship-building in Chinese business culture. These idioms are perfect for sending sophisticated, appropriate greetings to colleagues, supervisors, and business partners.',
+    idiomIds: ['ID001', 'ID386', 'ID651', 'ID652', 'ID653', 'ID636', 'ID082', 'ID447', 'ID014', 'ID036'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-20'
+  },
+  {
+    slug: 'chinese-new-year-zodiac-blessings',
+    title: '12 Chinese Idioms for Each Zodiac Animal - Universal CNY Blessings',
+    description: 'Chinese idioms representing all 12 zodiac animals, perfect for personalized Chinese New Year blessings.',
+    metaDescription: 'Find the perfect Chinese idiom for each zodiac sign. These 12 chengyu feature all zodiac animals for personalized CNY greetings based on birth year.',
+    keywords: ['zodiac chinese idioms', 'chinese animal idioms', 'zodiac cny greetings', '生肖成语', 'chinese horoscope idioms', 'year of idioms', 'personalized cny wishes'],
+    intro: 'Each Chinese zodiac animal has its own symbolic meanings and associated idioms. Use these to give personalized Chinese New Year blessings based on someone\'s zodiac year - a thoughtful way to show you care.',
+    idiomIds: ['ID074', 'ID042', 'ID108', 'ID262', 'ID107', 'ID386', 'ID130', 'ID095', 'ID049', 'ID063', 'ID059', 'ID192'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-21'
+  },
+  {
+    slug: 'chinese-new-year-health-wishes',
+    title: '10 Chinese Idioms for Wishing Good Health in the New Year',
+    description: 'Heartfelt Chinese idioms about health and vitality, perfect for Chinese New Year health wishes.',
+    metaDescription: 'Wish good health with these 10 Chinese idioms. Perfect for CNY greetings about wellness, vitality, and wishing loved ones a healthy year ahead.',
+    keywords: ['health chinese idioms', 'wellness cny wishes', 'good health chinese', '身体健康成语', 'vitality new year', 'health blessings chinese', 'longevity health idioms'],
+    intro: 'Health is wealth (身体是革命的本钱)! These idioms focus on wishing good health, vitality, and wellness - the most sincere blessing you can give during Chinese New Year, especially to elders and loved ones.',
+    idiomIds: ['ID222', 'ID262', 'ID185', 'ID304', 'ID303', 'ID586', 'ID113', 'ID148', 'ID040', 'ID566'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-22'
+  },
+  {
+    slug: 'chinese-new-year-reunion-dinner-toasts',
+    title: '10 Chinese Idioms for Toasts at the CNY Reunion Dinner (年夜饭)',
+    description: 'What to say when toasting at Chinese New Year dinner? Perfect idioms for 年夜饭 toasts when raising a glass with family.',
+    metaDescription: 'What should I say when making a toast at Chinese New Year dinner? These 10 chengyu are perfect for 年夜饭 reunion dinner toasts - raising a glass to family, prosperity, and the year ahead.',
+    keywords: ['what to say chinese new year dinner toast', 'reunion dinner toast chinese', '年夜饭祝酒词说什么', 'cny family dinner speech', 'how to toast in chinese new year', 'raising glass chinese phrases', 'nian ye fan toast', 'chinese new year eve dinner sayings', 'family gathering toast mandarin', 'spring festival dinner cheers'],
+    intro: 'What should you say when making a toast at the reunion dinner (年夜饭, nián yè fàn)? This is the heart of Chinese New Year celebrations. These idioms are perfect for toasting - whether you\'re the host welcoming family or a guest expressing gratitude for togetherness.',
+    idiomIds: ['ID031', 'ID035', 'ID027', 'ID082', 'ID617', 'ID303', 'ID533', 'ID436', 'ID517', 'ID586'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-23'
   }
 ];
 

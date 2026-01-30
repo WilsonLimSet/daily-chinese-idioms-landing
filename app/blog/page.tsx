@@ -69,7 +69,7 @@ export default async function BlogPage() {
           {listicles.length > 4 && (
             <div className="mt-4 text-center">
               <Link
-                href="/blog/lists/chinese-idioms-for-business"
+                href="/blog/lists"
                 className="text-sm text-red-600 hover:text-red-700 font-medium"
               >
                 View all {listicles.length} curated lists →
