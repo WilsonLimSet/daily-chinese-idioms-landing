@@ -481,6 +481,73 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID031', 'ID035', 'ID027', 'ID082', 'ID617', 'ID303', 'ID533', 'ID436', 'ID517', 'ID586'],
     category: 'Chinese New Year',
     publishedDate: '2025-02-23'
+  },
+  // NEW LISTICLES - Based on Google Search Console gap analysis (Jan 2026)
+  {
+    slug: 'chinese-idioms-about-perseverance',
+    title: '10 Powerful Chinese Idioms About Perseverance & Never Giving Up',
+    description: 'Inspiring Chinese idioms about perseverance, persistence, and the strength to keep going. Learn how to say perseverance in Chinese.',
+    metaDescription: 'Looking for Chinese idioms about perseverance? These 10 powerful chengyu about persistence, determination, and never giving up will inspire you to keep going through any challenge.',
+    keywords: ['perseverance in chinese', 'chinese idioms about perseverance', 'persistence chinese phrases', 'never give up chinese', 'determination chengyu', 'chinese perseverance sayings', 'resilience chinese idiom', 'keep going chinese phrase'],
+    intro: 'How do you express perseverance in Chinese? These powerful idioms capture the spirit of persistence and determination that has inspired generations. From water wearing through stone to slow birds flying first, Chinese culture has profound wisdom about the power of never giving up.',
+    idiomIds: ['ID005', 'ID009', 'ID090', 'ID106', 'ID107', 'ID201', 'ID224', 'ID233', 'ID032', 'ID154'],
+    category: 'Perseverance',
+    publishedDate: '2025-02-24'
+  },
+  {
+    slug: 'chinese-beauty-idioms-four-beauties',
+    title: '8 Poetic Chinese Idioms About Beauty (闭月羞花 & The Four Beauties)',
+    description: 'Discover the most beautiful Chinese idioms describing beauty, including the famous 闭月羞花 and 沉鱼落雁 from the Four Beauties of ancient China.',
+    metaDescription: 'What does 闭月羞花 mean? Learn 8 beautiful Chinese idioms about beauty, including the famous Four Beauties expressions. Perfect for describing elegance and grace in Chinese.',
+    keywords: ['chinese beauty idioms', 'bi yue xiu hua meaning', 'chen yu luo yan meaning', 'four beauties chinese idiom', 'beautiful chinese phrases', 'chinese idioms about beauty', 'moon hides flowers shy'],
+    intro: 'What does 闭月羞花 (bì yuè xiū huā) mean? This iconic idiom describes beauty so stunning that the moon hides and flowers feel shy. Together with 沉鱼落雁, these phrases honor the legendary Four Beauties of ancient China whose grace became immortalized in language.',
+    idiomIds: ['ID114', 'ID341', 'ID056', 'ID040', 'ID118', 'ID196', 'ID084', 'ID248'],
+    category: 'Beauty & Nature',
+    publishedDate: '2025-02-25'
+  },
+  {
+    slug: 'chinese-idioms-english-translations',
+    title: '15 Most Searched Chinese Idioms with English Translations',
+    description: 'The most commonly searched Chinese idioms with their English translations. Perfect for learners looking for accurate chengyu meanings.',
+    metaDescription: 'Looking for Chinese idiom English translations? This guide covers the 15 most searched chengyu including their meanings, pinyin, and usage examples.',
+    keywords: ['chinese idiom english translation', 'chengyu in english', 'chinese idioms translated', 'chinese proverbs english meaning', 'mandarin idioms english'],
+    intro: 'Looking for Chinese idiom English translations? Whether you are a student, translator, or language enthusiast, this guide provides accurate English translations for the most commonly searched Chinese idioms, complete with pinyin pronunciation and usage examples.',
+    idiomIds: ['ID102', 'ID010', 'ID134', 'ID048', 'ID053', 'ID033', 'ID295', 'ID234', 'ID037', 'ID200', 'ID042', 'ID249', 'ID131', 'ID084', 'ID114'],
+    category: 'Learning',
+    publishedDate: '2025-02-26'
+  },
+  {
+    slug: 'classic-chinese-fable-idioms',
+    title: '10 Chinese Idioms from Famous Fables & Stories You Should Know',
+    description: 'Learn Chinese idioms from classic fables including the fox and tiger, the frog in the well, and waiting for rabbits by a tree stump.',
+    metaDescription: 'Discover 10 Chinese idioms from famous fables. Stories like the fox borrowing the tiger\'s power and the frog in the well teach timeless lessons through memorable tales.',
+    keywords: ['chinese fable idioms', 'shou zhu dai tu meaning', 'hu jia hu wei meaning', 'jing di zhi wa meaning', 'chinese idiom stories', 'ye gong hao long meaning', 'fox tiger chinese idiom', 'frog well chinese idiom'],
+    intro: 'The best Chinese idioms come from memorable fables and stories passed down for thousands of years. These tales contain profound wisdom wrapped in entertaining narratives that have captivated generations.',
+    idiomIds: ['ID074', 'ID042', 'ID234', 'ID271', 'ID200', 'ID079', 'ID135', 'ID225', 'ID249', 'ID233'],
+    category: 'Stories & Fables',
+    publishedDate: '2025-02-27'
+  },
+  {
+    slug: 'chinese-idioms-preparation-planning',
+    title: '8 Chinese Idioms About Preparation & Planning Ahead (未雨绸缪)',
+    description: 'Wise Chinese idioms about being prepared, planning ahead, and the importance of foresight. Learn wei yu chou mou and related planning chengyu.',
+    metaDescription: 'What does 未雨绸缪 mean? Learn 8 Chinese idioms about preparation and planning. These chengyu about foresight and being prepared offer timeless wisdom for success.',
+    keywords: ['wei yu chou mou meaning', 'chinese idioms about planning', 'preparation chinese phrases', 'be prepared chinese idiom', 'chinese foresight idioms', 'planning ahead chinese'],
+    intro: 'What does 未雨绸缪 (wèi yǔ chóu móu) mean? Literally "repair the roof before rain," this idiom captures the Chinese wisdom of preparation and foresight. These idioms about planning ahead offer timeless advice for anyone who wants to be ready for whatever comes.',
+    idiomIds: ['ID037', 'ID053', 'ID154', 'ID036', 'ID018', 'ID026', 'ID084', 'ID014'],
+    category: 'Strategy',
+    publishedDate: '2025-02-28'
+  },
+  {
+    slug: 'most-searched-chinese-idioms',
+    title: '12 Most Searched Chinese Idioms - Popular Chengyu Everyone Wants to Know',
+    description: 'The most popular and frequently searched Chinese idioms including wu ji bi fan, liu an hua ming, ren shan ren hai, and more.',
+    metaDescription: 'What are the most searched Chinese idioms? From extremes lead to reversal to people mountain people sea - learn the 12 most popular chengyu that learners search for worldwide.',
+    keywords: ['most popular chinese idioms', 'wu ji bi fan meaning', 'liu an hua ming meaning', 'people mountain people sea meaning', 'ren shan ren hai meaning', 'common chinese idioms', 'popular chengyu', 'famous chinese idioms'],
+    intro: 'What are the most searched Chinese idioms in the world? Based on search data, these 12 chengyu capture universal themes that resonate across cultures - from philosophical observations about balance to vivid imagery describing crowds.',
+    idiomIds: ['ID015', 'ID084', 'ID255', 'ID009', 'ID102', 'ID134', 'ID042', 'ID234', 'ID033', 'ID200', 'ID074', 'ID114'],
+    category: 'Popular',
+    publishedDate: '2025-03-01'
   }
 ];
 
