@@ -2118,5 +2118,270 @@
     ],
     "category": "Occasions",
     "publishedDate": "2025-03-04"
+  },
+  {
+    "slug": "expressions-chinoises-pour-fete-du-printemps",
+    "originalSlug": "chinese-idioms-for-spring-festival",
+    "title": "10 Expressions Chinoises Festives pour la Fête du Printemps (春节)",
+    "description": "Expressions chinoises essentielles pour célébrer la Fête du Printemps.",
+    "metaDescription": "Apprenez 10 expressions chinoises festives pour la Fête du Printemps.",
+    "keywords": [
+      "expressions fête du printemps"
+    ],
+    "intro": "La Fête du Printemps (春节) est la fête chinoise la plus importante.",
+    "idiomIds": [
+      "ID016",
+      "ID040",
+      "ID085",
+      "ID095",
+      "ID185",
+      "ID395",
+      "ID414",
+      "ID469",
+      "ID496",
+      "ID525"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-05"
+  },
+  {
+    "slug": "expressions-chinoises-pour-fete-des-lanternes",
+    "originalSlug": "chinese-idioms-for-lantern-festival",
+    "title": "8 Expressions Chinoises Lumineuses pour la Fête des Lanternes (元宵节)",
+    "description": "Belles expressions chinoises pour la Fête des Lanternes.",
+    "metaDescription": "Découvrez 8 expressions chinoises lumineuses pour la Fête des Lanternes.",
+    "keywords": [
+      "expressions fête des lanternes"
+    ],
+    "intro": "La Fête des Lanternes (元宵节) marque la fin des célébrations du Printemps.",
+    "idiomIds": [
+      "ID023",
+      "ID055",
+      "ID084",
+      "ID089",
+      "ID104",
+      "ID169",
+      "ID177",
+      "ID298"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-06"
+  },
+  {
+    "slug": "expressions-chinoises-pour-fete-qingming",
+    "originalSlug": "chinese-idioms-for-qingming-festival",
+    "title": "8 Expressions Chinoises Réflexives pour la Fête Qingming",
+    "description": "Expressions chinoises réflexives pour honorer les ancêtres.",
+    "metaDescription": "Apprenez 8 expressions chinoises réflexives pour la Fête Qingming.",
+    "keywords": [
+      "expressions fête qingming"
+    ],
+    "intro": "La Fête Qingming (清明节) est un moment pour honorer les ancêtres.",
+    "idiomIds": [
+      "ID016",
+      "ID032",
+      "ID039",
+      "ID045",
+      "ID055",
+      "ID084",
+      "ID089",
+      "ID091"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-07"
+  },
+  {
+    "slug": "expressions-chinoises-pour-saint-valentin-chinois",
+    "originalSlug": "chinese-idioms-for-chinese-valentines-day",
+    "title": "10 Expressions Chinoises Romantiques pour le Festival Qixi (七夕)",
+    "description": "Expressions chinoises romantiques pour célébrer l'amour.",
+    "metaDescription": "Découvrez 10 expressions chinoises romantiques pour le Festival Qixi.",
+    "keywords": [
+      "expressions festival qixi"
+    ],
+    "intro": "Le Festival Qixi (七夕) célèbre l'amour légendaire du Bouvier et de la Tisserande.",
+    "idiomIds": [
+      "ID008",
+      "ID056",
+      "ID136",
+      "ID151",
+      "ID166",
+      "ID183",
+      "ID208",
+      "ID256",
+      "ID286",
+      "ID299"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-08"
+  },
+  {
+    "slug": "expressions-chinoises-pour-fete-double-neuf",
+    "originalSlug": "chinese-idioms-for-double-ninth-festival",
+    "title": "8 Expressions Chinoises de Longévité pour la Fête du Double Neuf (重阳节)",
+    "description": "Expressions chinoises pour célébrer la longévité.",
+    "metaDescription": "Apprenez 8 expressions chinoises de longévité.",
+    "keywords": [
+      "expressions fête double neuf"
+    ],
+    "intro": "La Fête du Double Neuf (重阳节) honore les aînés.",
+    "idiomIds": [
+      "ID051",
+      "ID057",
+      "ID066",
+      "ID071",
+      "ID115",
+      "ID133",
+      "ID167",
+      "ID196"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-09"
+  },
+  {
+    "slug": "expressions-chinoises-pour-pendaison-de-cremaillere",
+    "originalSlug": "chinese-idioms-for-housewarming",
+    "title": "10 Expressions Chinoises Propices pour Pendaison de Crémaillère",
+    "description": "Expressions chinoises pour bénir une nouvelle maison.",
+    "metaDescription": "Découvrez 10 expressions chinoises propices pour pendaison de crémaillère.",
+    "keywords": [
+      "expressions nouvelle maison chinois"
+    ],
+    "intro": "Emménager dans une nouvelle maison est un événement important.",
+    "idiomIds": [
+      "ID011",
+      "ID117",
+      "ID121",
+      "ID142",
+      "ID160",
+      "ID198",
+      "ID231",
+      "ID249",
+      "ID301",
+      "ID303"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-10"
+  },
+  {
+    "slug": "expressions-chinoises-pour-succes-professionnel",
+    "originalSlug": "chinese-idioms-for-career-success",
+    "title": "12 Expressions Chinoises Ambitieuses pour le Succès Professionnel",
+    "description": "Expressions chinoises pour l'avancement professionnel.",
+    "metaDescription": "Apprenez 12 expressions chinoises ambitieuses pour le succès professionnel.",
+    "keywords": [
+      "expressions succès professionnel chinois"
+    ],
+    "intro": "Le succès professionnel est très valorisé dans la culture chinoise.",
+    "idiomIds": [
+      "ID036",
+      "ID052",
+      "ID053",
+      "ID076",
+      "ID082",
+      "ID106",
+      "ID109",
+      "ID119",
+      "ID122",
+      "ID129",
+      "ID131",
+      "ID156"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-11"
+  },
+  {
+    "slug": "expressions-chinoises-pour-nouveau-bebe",
+    "originalSlug": "chinese-idioms-for-new-baby",
+    "title": "8 Expressions Chinoises Joyeuses pour Félicitations de Naissance",
+    "description": "Expressions chinoises pour féliciter les nouveaux parents.",
+    "metaDescription": "Apprenez 8 expressions chinoises joyeuses pour félicitations de naissance.",
+    "keywords": [
+      "expressions nouveau bébé chinois"
+    ],
+    "intro": "La naissance d'un enfant est une grande bénédiction.",
+    "idiomIds": [
+      "ID079",
+      "ID242",
+      "ID415",
+      "ID489",
+      "ID550",
+      "ID568",
+      "ID569",
+      "ID571"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-12"
+  },
+  {
+    "slug": "expressions-chinoises-pour-retraite",
+    "originalSlug": "chinese-idioms-for-retirement",
+    "title": "8 Expressions Chinoises Paisibles pour Souhaits de Retraite",
+    "description": "Expressions chinoises pour souhaiter une bonne retraite.",
+    "metaDescription": "Découvrez 8 expressions chinoises paisibles pour souhaits de retraite.",
+    "keywords": [
+      "expressions retraite chinois"
+    ],
+    "intro": "La retraite marque le début d'une période méritée de repos.",
+    "idiomIds": [
+      "ID173",
+      "ID221",
+      "ID295",
+      "ID301",
+      "ID303",
+      "ID304",
+      "ID305",
+      "ID315"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-13"
+  },
+  {
+    "slug": "expressions-chinoises-pour-prompt-retablissement",
+    "originalSlug": "chinese-idioms-for-get-well-soon",
+    "title": "8 Expressions Chinoises de Guérison pour Prompt Rétablissement",
+    "description": "Expressions chinoises pour souhaiter un prompt rétablissement.",
+    "metaDescription": "Apprenez 8 expressions chinoises de guérison.",
+    "keywords": [
+      "expressions rétablissement chinois"
+    ],
+    "intro": "Quand quelqu'un est malade, les bons mots apportent du réconfort.",
+    "idiomIds": [
+      "ID242",
+      "ID301",
+      "ID303",
+      "ID304",
+      "ID305",
+      "ID418",
+      "ID524",
+      "ID536"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-14"
+  },
+  {
+    "slug": "expressions-chinoises-pour-encouragement",
+    "originalSlug": "chinese-idioms-for-encouragement",
+    "title": "10 Expressions Chinoises Motivantes pour Encouragement",
+    "description": "Expressions chinoises inspirantes pour encourager et motiver.",
+    "metaDescription": "Découvrez 10 expressions chinoises motivantes pour encouragement.",
+    "keywords": [
+      "expressions encouragement chinois"
+    ],
+    "intro": "Face aux défis, les bons mots font toute la différence.",
+    "idiomIds": [
+      "ID082",
+      "ID168",
+      "ID241",
+      "ID282",
+      "ID439",
+      "ID483",
+      "ID490",
+      "ID596",
+      "ID636",
+      "ID637"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-03-15"
   }
 ]

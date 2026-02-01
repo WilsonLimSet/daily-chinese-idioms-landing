@@ -2162,5 +2162,271 @@
     ],
     "category": "행사",
     "publishedDate": "2025-03-04"
+  },
+  {
+    "slug": "chun-jie-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-spring-festival",
+    "title": "춘절을 위한 축제 중국어 사자성어 10선 (春节)",
+    "description": "번영, 행운, 가족 재회를 기원하는 춘절을 위한 필수 중국어 사자성어.",
+    "metaDescription": "춘절을 위한 축제 중국어 사자성어 10선을 배워보세요.",
+    "keywords": [
+      "춘절 사자성어",
+      "중국 설날 표현"
+    ],
+    "intro": "춘절(春节)은 가장 중요한 중국 명절입니다. 이 축제 사자성어들은 재생, 번영, 가족 화합의 정신을 담고 있습니다.",
+    "idiomIds": [
+      "ID016",
+      "ID040",
+      "ID085",
+      "ID095",
+      "ID185",
+      "ID395",
+      "ID414",
+      "ID469",
+      "ID496",
+      "ID525"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-05"
+  },
+  {
+    "slug": "yuan-xiao-jie-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-lantern-festival",
+    "title": "원소절을 위한 빛나는 중국어 사자성어 8선 (元宵节)",
+    "description": "등불, 재회, 첫 보름달을 축하하는 원소절을 위한 아름다운 중국어 사자성어.",
+    "metaDescription": "원소절을 위한 빛나는 중국어 사자성어 8선을 발견하세요.",
+    "keywords": [
+      "원소절 사자성어"
+    ],
+    "intro": "원소절(元宵节)은 등불과 재회로 춘절 축하를 마무리합니다.",
+    "idiomIds": [
+      "ID023",
+      "ID055",
+      "ID084",
+      "ID089",
+      "ID104",
+      "ID169",
+      "ID177",
+      "ID298"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-06"
+  },
+  {
+    "slug": "qing-ming-jie-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-qingming-festival",
+    "title": "청명절을 위한 성찰적 중국어 사자성어 8선",
+    "description": "조상을 공경하고 삶을 되돌아보는 청명절을 위한 중국어 사자성어.",
+    "metaDescription": "청명절을 위한 성찰적 중국어 사자성어 8선을 배워보세요.",
+    "keywords": [
+      "청명절 사자성어"
+    ],
+    "intro": "청명절(清明节)은 조상을 공경하고 삶의 연속성을 되돌아보는 시간입니다.",
+    "idiomIds": [
+      "ID016",
+      "ID032",
+      "ID039",
+      "ID045",
+      "ID055",
+      "ID084",
+      "ID089",
+      "ID091"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-07"
+  },
+  {
+    "slug": "qi-xi-jie-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-chinese-valentines-day",
+    "title": "칠석을 위한 로맨틱한 중국어 사자성어 10선 (七夕)",
+    "description": "사랑과 헌신을 축하하는 칠석을 위한 로맨틱한 중국어 사자성어.",
+    "metaDescription": "칠석을 위한 로맨틱한 중국어 사자성어 10선을 발견하세요.",
+    "keywords": [
+      "칠석 사자성어"
+    ],
+    "intro": "칠석(七夕)은 견우와 직녀의 전설적인 사랑을 축하합니다.",
+    "idiomIds": [
+      "ID008",
+      "ID056",
+      "ID136",
+      "ID151",
+      "ID166",
+      "ID183",
+      "ID208",
+      "ID256",
+      "ID286",
+      "ID299"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-08"
+  },
+  {
+    "slug": "chong-yang-jie-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-double-ninth-festival",
+    "title": "중양절을 위한 장수 중국어 사자성어 8선 (重阳节)",
+    "description": "장수를 축하하고 어른을 공경하는 중양절을 위한 중국어 사자성어.",
+    "metaDescription": "중양절을 위한 장수 중국어 사자성어 8선을 배워보세요.",
+    "keywords": [
+      "중양절 사자성어"
+    ],
+    "intro": "중양절(重阳节)은 어른을 공경하고 장수를 축하합니다.",
+    "idiomIds": [
+      "ID051",
+      "ID057",
+      "ID066",
+      "ID071",
+      "ID115",
+      "ID133",
+      "ID167",
+      "ID196"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-09"
+  },
+  {
+    "slug": "jibdeuri-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-housewarming",
+    "title": "집들이를 위한 길조 중국어 사자성어 10선",
+    "description": "새 집에 번영과 평화를 기원하는 길조 중국어 사자성어.",
+    "metaDescription": "집들이를 위한 길조 중국어 사자성어 10선을 발견하세요.",
+    "keywords": [
+      "집들이 사자성어"
+    ],
+    "intro": "새 집으로 이사하는 것은 중국 문화에서 중요한 이정표입니다.",
+    "idiomIds": [
+      "ID011",
+      "ID117",
+      "ID121",
+      "ID142",
+      "ID160",
+      "ID198",
+      "ID231",
+      "ID249",
+      "ID301",
+      "ID303"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-10"
+  },
+  {
+    "slug": "jigeopseongong-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-career-success",
+    "title": "직업 성공을 위한 야심찬 중국어 사자성어 12선",
+    "description": "직업 발전과 전문적 성공을 위한 동기 부여 중국어 사자성어.",
+    "metaDescription": "직업 성공을 위한 야심찬 중국어 사자성어 12선을 배워보세요.",
+    "keywords": [
+      "직업 성공 사자성어"
+    ],
+    "intro": "직업 성공은 중국 문화에서 매우 중요하게 여겨집니다.",
+    "idiomIds": [
+      "ID036",
+      "ID052",
+      "ID053",
+      "ID076",
+      "ID082",
+      "ID106",
+      "ID109",
+      "ID119",
+      "ID122",
+      "ID129",
+      "ID131",
+      "ID156"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-11"
+  },
+  {
+    "slug": "sinsenga-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-new-baby",
+    "title": "신생아 축하를 위한 기쁜 중국어 사자성어 8선",
+    "description": "새 부모를 축하하고 신생아를 축복하는 중국어 사자성어.",
+    "metaDescription": "신생아 축하를 위한 기쁜 중국어 사자성어 8선을 배워보세요.",
+    "keywords": [
+      "신생아 축하 사자성어"
+    ],
+    "intro": "아이의 탄생은 중국 문화에서 가장 큰 축복 중 하나입니다.",
+    "idiomIds": [
+      "ID079",
+      "ID242",
+      "ID415",
+      "ID489",
+      "ID550",
+      "ID568",
+      "ID569",
+      "ID571"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-12"
+  },
+  {
+    "slug": "euntwi-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-retirement",
+    "title": "은퇴를 위한 평화로운 중국어 사자성어 8선",
+    "description": "행복과 여유, 그리고 마땅한 휴식을 기원하는 은퇴를 위한 중국어 사자성어.",
+    "metaDescription": "은퇴를 위한 평화로운 중국어 사자성어 8선을 발견하세요.",
+    "keywords": [
+      "은퇴 사자성어"
+    ],
+    "intro": "은퇴는 마땅한 휴식과 즐거움의 기간이 시작됨을 의미합니다.",
+    "idiomIds": [
+      "ID173",
+      "ID221",
+      "ID295",
+      "ID301",
+      "ID303",
+      "ID304",
+      "ID305",
+      "ID315"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-13"
+  },
+  {
+    "slug": "kwaeyu-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-get-well-soon",
+    "title": "쾌유를 위한 치유의 중국어 사자성어 8선",
+    "description": "빠른 회복과 건강을 기원하는 중국어 사자성어.",
+    "metaDescription": "쾌유를 위한 치유의 중국어 사자성어 8선을 배워보세요.",
+    "keywords": [
+      "쾌유 사자성어"
+    ],
+    "intro": "누군가 아플 때, 올바른 말은 위로와 희망을 가져다줍니다.",
+    "idiomIds": [
+      "ID242",
+      "ID301",
+      "ID303",
+      "ID304",
+      "ID305",
+      "ID418",
+      "ID524",
+      "ID536"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-14"
+  },
+  {
+    "slug": "gyeongnyeo-jungguk-sokdam",
+    "originalSlug": "chinese-idioms-for-encouragement",
+    "title": "격려를 위한 동기 부여 중국어 사자성어 10선",
+    "description": "도전에 직면한 사람을 격려하고 동기를 부여하는 중국어 사자성어.",
+    "metaDescription": "격려를 위한 동기 부여 중국어 사자성어 10선을 발견하세요.",
+    "keywords": [
+      "격려 사자성어"
+    ],
+    "intro": "도전에 직면했을 때, 올바른 말은 큰 차이를 만듭니다.",
+    "idiomIds": [
+      "ID082",
+      "ID168",
+      "ID241",
+      "ID282",
+      "ID439",
+      "ID483",
+      "ID490",
+      "ID596",
+      "ID636",
+      "ID637"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-15"
   }
 ]

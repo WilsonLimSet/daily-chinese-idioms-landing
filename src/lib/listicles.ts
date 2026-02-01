@@ -841,6 +841,128 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID017', 'ID025', 'ID026', 'ID031', 'ID035', 'ID225', 'ID262', 'ID271'],
     category: 'Occasions',
     publishedDate: '2025-03-04'
+  },
+  // === MORE OCCASION LISTICLES ===
+  {
+    slug: 'chinese-idioms-for-spring-festival',
+    title: '10 Festive Chinese Idioms for Spring Festival (春节)',
+    description: 'Essential Chinese idioms for celebrating Spring Festival with wishes of prosperity, luck, and family reunion.',
+    metaDescription: 'Learn 10 festive Chinese idioms for Spring Festival. These chengyu bring prosperity, luck, and joy to Chinese New Year celebrations.',
+    keywords: ['spring festival idioms', 'chun jie chengyu', 'chinese new year phrases', 'cny greetings', 'lunar new year wishes'],
+    intro: 'Spring Festival (春节, Chūn Jié) is the most important Chinese holiday. These festive idioms capture the spirit of renewal, prosperity, and family togetherness.',
+    idiomIds: ['ID016', 'ID040', 'ID085', 'ID095', 'ID185', 'ID395', 'ID414', 'ID469', 'ID496', 'ID525'],
+    category: 'Occasions',
+    publishedDate: '2025-03-05'
+  },
+  {
+    slug: 'chinese-idioms-for-lantern-festival',
+    title: '8 Luminous Chinese Idioms for Lantern Festival (元宵节)',
+    description: 'Beautiful Chinese idioms for the Lantern Festival, celebrating lights, reunion, and the first full moon.',
+    metaDescription: 'Discover 8 luminous Chinese idioms for Lantern Festival. These chengyu celebrate brightness, reunion, and new beginnings.',
+    keywords: ['lantern festival idioms', 'yuan xiao jie chengyu', 'chinese lantern sayings', 'first full moon idioms'],
+    intro: 'The Lantern Festival (元宵节) marks the end of Spring Festival celebrations with lanterns and reunion. These idioms capture its luminous spirit.',
+    idiomIds: ['ID023', 'ID055', 'ID084', 'ID089', 'ID104', 'ID169', 'ID177', 'ID298'],
+    category: 'Occasions',
+    publishedDate: '2025-03-06'
+  },
+  {
+    slug: 'chinese-idioms-for-qingming-festival',
+    title: '8 Reflective Chinese Idioms for Qingming Festival',
+    description: 'Thoughtful Chinese idioms for Qingming (Tomb Sweeping Day), honoring ancestors and reflecting on life.',
+    metaDescription: 'Learn 8 reflective Chinese idioms for Qingming Festival. These chengyu express respect for ancestors and contemplation of life.',
+    keywords: ['qingming festival idioms', 'tomb sweeping day chengyu', 'ancestor worship phrases', 'qing ming jie sayings'],
+    intro: 'Qingming Festival (清明节) is a time for honoring ancestors and reflecting on life\'s continuity. These idioms express remembrance and respect.',
+    idiomIds: ['ID016', 'ID032', 'ID039', 'ID045', 'ID055', 'ID084', 'ID089', 'ID091'],
+    category: 'Occasions',
+    publishedDate: '2025-03-07'
+  },
+  {
+    slug: 'chinese-idioms-for-chinese-valentines-day',
+    title: '10 Romantic Chinese Idioms for Qixi Festival (七夕)',
+    description: 'Romantic Chinese idioms for Qixi Festival (Chinese Valentine\'s Day), celebrating love and devotion.',
+    metaDescription: 'Discover 10 romantic Chinese idioms for Qixi Festival. Perfect chengyu for expressing love on Chinese Valentine\'s Day.',
+    keywords: ['qixi festival idioms', 'chinese valentines day phrases', 'qi xi jie chengyu', 'romantic chinese expressions', 'love idioms chinese'],
+    intro: 'Qixi Festival (七夕) celebrates the legendary love of the Cowherd and Weaver Girl. These romantic idioms express eternal devotion and love.',
+    idiomIds: ['ID008', 'ID056', 'ID136', 'ID151', 'ID166', 'ID183', 'ID208', 'ID256', 'ID286', 'ID299'],
+    category: 'Occasions',
+    publishedDate: '2025-03-08'
+  },
+  {
+    slug: 'chinese-idioms-for-double-ninth-festival',
+    title: '8 Longevity Chinese Idioms for Double Ninth Festival (重阳节)',
+    description: 'Auspicious Chinese idioms for the Double Ninth Festival, celebrating longevity and honoring elders.',
+    metaDescription: 'Learn 8 longevity Chinese idioms for Double Ninth Festival. These chengyu honor elders and wish for long, healthy lives.',
+    keywords: ['double ninth festival idioms', 'chongyang jie chengyu', 'elderly day phrases', 'longevity chinese expressions'],
+    intro: 'The Double Ninth Festival (重阳节) honors elders and celebrates longevity. These idioms express wishes for long life and respect for seniors.',
+    idiomIds: ['ID051', 'ID057', 'ID066', 'ID071', 'ID115', 'ID133', 'ID167', 'ID196'],
+    category: 'Occasions',
+    publishedDate: '2025-03-09'
+  },
+  {
+    slug: 'chinese-idioms-for-housewarming',
+    title: '10 Auspicious Chinese Idioms for Housewarming',
+    description: 'Lucky Chinese idioms for housewarming celebrations, wishing prosperity and peace in a new home.',
+    metaDescription: 'Discover 10 auspicious Chinese idioms for housewarming. Perfect chengyu for blessing a new home with prosperity and harmony.',
+    keywords: ['housewarming idioms chinese', 'new home wishes chinese', 'moving house chengyu', 'chinese home blessing phrases'],
+    intro: 'Moving into a new home is a significant milestone in Chinese culture. These auspicious idioms bring blessings of prosperity, harmony, and good fortune.',
+    idiomIds: ['ID011', 'ID117', 'ID121', 'ID142', 'ID160', 'ID198', 'ID231', 'ID249', 'ID301', 'ID303'],
+    category: 'Occasions',
+    publishedDate: '2025-03-10'
+  },
+  {
+    slug: 'chinese-idioms-for-career-success',
+    title: '12 Ambitious Chinese Idioms for Career Success',
+    description: 'Motivational Chinese idioms for career advancement, professional success, and achieving your goals.',
+    metaDescription: 'Learn 12 ambitious Chinese idioms for career success. These chengyu inspire professional growth and achievement.',
+    keywords: ['career success idioms chinese', 'job promotion chengyu', 'professional chinese phrases', 'work success expressions'],
+    intro: 'Career success is highly valued in Chinese culture. These ambitious idioms inspire professional excellence and the achievement of your goals.',
+    idiomIds: ['ID036', 'ID052', 'ID053', 'ID076', 'ID082', 'ID106', 'ID109', 'ID119', 'ID122', 'ID129', 'ID131', 'ID156'],
+    category: 'Occasions',
+    publishedDate: '2025-03-11'
+  },
+  {
+    slug: 'chinese-idioms-for-new-baby',
+    title: '8 Joyful Chinese Idioms for New Baby Congratulations',
+    description: 'Heartwarming Chinese idioms to congratulate new parents and bless newborn babies.',
+    metaDescription: 'Learn 8 joyful Chinese idioms for new baby congratulations. Perfect chengyu for blessing newborns and celebrating new parents.',
+    keywords: ['new baby idioms chinese', 'baby congratulations chengyu', 'newborn wishes chinese', 'birth celebration phrases'],
+    intro: 'The birth of a child is one of life\'s greatest blessings in Chinese culture. These joyful idioms celebrate new life and wish the baby health and happiness.',
+    idiomIds: ['ID079', 'ID242', 'ID415', 'ID489', 'ID550', 'ID568', 'ID569', 'ID571'],
+    category: 'Occasions',
+    publishedDate: '2025-03-12'
+  },
+  {
+    slug: 'chinese-idioms-for-retirement',
+    title: '8 Peaceful Chinese Idioms for Retirement Wishes',
+    description: 'Thoughtful Chinese idioms for retirement, wishing happiness, leisure, and well-deserved rest.',
+    metaDescription: 'Discover 8 peaceful Chinese idioms for retirement wishes. These chengyu celebrate a life well-lived and years of leisure ahead.',
+    keywords: ['retirement idioms chinese', 'retirement wishes chengyu', 'golden years phrases', 'senior blessing chinese'],
+    intro: 'Retirement marks the beginning of a well-deserved period of rest and enjoyment. These peaceful idioms wish retirees happiness and fulfillment.',
+    idiomIds: ['ID173', 'ID221', 'ID295', 'ID301', 'ID303', 'ID304', 'ID305', 'ID315'],
+    category: 'Occasions',
+    publishedDate: '2025-03-13'
+  },
+  {
+    slug: 'chinese-idioms-for-get-well-soon',
+    title: '8 Healing Chinese Idioms for Get Well Soon Wishes',
+    description: 'Caring Chinese idioms to wish someone a speedy recovery and good health.',
+    metaDescription: 'Learn 8 healing Chinese idioms for get well soon wishes. These chengyu express care and hope for a quick recovery.',
+    keywords: ['get well soon idioms chinese', 'recovery wishes chengyu', 'health blessing chinese', 'speedy recovery phrases'],
+    intro: 'When someone is ill, the right words can bring comfort and hope. These caring idioms express wishes for speedy recovery and good health.',
+    idiomIds: ['ID242', 'ID301', 'ID303', 'ID304', 'ID305', 'ID418', 'ID524', 'ID536'],
+    category: 'Occasions',
+    publishedDate: '2025-03-14'
+  },
+  {
+    slug: 'chinese-idioms-for-encouragement',
+    title: '10 Motivational Chinese Idioms for Encouragement',
+    description: 'Inspiring Chinese idioms to encourage and motivate someone facing challenges.',
+    metaDescription: 'Discover 10 motivational Chinese idioms for encouragement. These chengyu inspire courage, perseverance, and the will to succeed.',
+    keywords: ['encouragement idioms chinese', 'motivational chengyu', 'jia you phrases', 'chinese inspiration sayings'],
+    intro: 'When someone faces challenges, the right words can make all the difference. These motivational idioms inspire courage and perseverance.',
+    idiomIds: ['ID082', 'ID168', 'ID241', 'ID282', 'ID439', 'ID483', 'ID490', 'ID596', 'ID636', 'ID637'],
+    category: 'Occasions',
+    publishedDate: '2025-03-15'
   }
 ];
 
