@@ -9,9 +9,27 @@ import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import '../blog.css';
 
+// ISR: Revalidate pages every 24 hours
+export const revalidate = 86400;
+
+// Allow dynamic params for older posts not pre-generated
+export const dynamicParams = true;
+
+// Only pre-generate last 60 days of posts for faster builds
+// Older posts will be generated on-demand with ISR
+const DAYS_TO_PREGENERATE = 60;
+
 export async function generateStaticParams() {
   const posts = await getAllBlogPosts();
-  return posts.map((post: BlogPost) => ({
+  const cutoffDate = new Date();
+  cutoffDate.setDate(cutoffDate.getDate() - DAYS_TO_PREGENERATE);
+
+  // Only return recent posts for static generation
+  const recentPosts = posts.filter((post: BlogPost) =>
+    new Date(post.date) >= cutoffDate
+  );
+
+  return recentPosts.map((post: BlogPost) => ({
     slug: post.slug,
   }));
 }
