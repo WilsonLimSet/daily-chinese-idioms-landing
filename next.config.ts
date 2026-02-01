@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  trailingSlash: false,
   images: {
     domains: ['chineseidioms.com', 'www.chineseidioms.com'],
     formats: ['image/avif', 'image/webp'],
@@ -43,6 +44,7 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
+      // Redirect non-www to www
       {
         source: '/:path*',
         has: [
@@ -52,6 +54,12 @@ const nextConfig: NextConfig = {
           },
         ],
         destination: 'https://www.chineseidioms.com/:path*',
+        permanent: true,
+      },
+      // Fix malformed URLs with $ character
+      {
+        source: '/$',
+        destination: '/',
         permanent: true,
       },
     ];

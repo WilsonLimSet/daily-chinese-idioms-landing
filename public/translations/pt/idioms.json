@@ -260,17 +260,15 @@
     "chineseExample_tr": "她總是提前到達會議，尊重每個人的時間"
   },
   {
-    "id": "ID021",
+    "id": "ID674",
     "characters": "青出于蓝",
     "pinyin": "qīng chū yú lán",
-    "meaning": "Blue vem da planta índigo",
-    "example": "As inovações do jovem pesquisador construíram e, finalmente, superaram as teorias originais de seu mentor",
-    "chineseExample": "这位年轻研究员的创新建立在导师理论基础之上，最终超越了原有理论",
-    "theme": "Sucesso e Perseverança",
-    "description": "Este idioma deriva de uma afirmação de Xunzi, que notou que, embora o corante azul (青) venha (出于) da planta índigo (蓝), ele supera sua origem em profundidade de cor. A metáfora ganhou destaque durante a Dinastia Han em discussões sobre educação e progresso geracional. Ela celebra como os alunos podem superar seus professores, os filhos seus pais, ou os discípulos seus mestres — não como um desafio à autoridade, mas como o resultado natural de uma boa mentoria. Durante a Dinastia Tang, ela se tornou particularmente associada a linhagens artísticas, nas quais os alunos desenvolviam seus próprios estilos enquanto honravam os fundamentos de seus professores. O uso moderno incentiva tanto o desenvolvimento ambicioso quanto o reconhecimento grato das próprias bases.",
-    "metaphoric_meaning": "O aluno supera o mestre",
-    "traditionalCharacters": "青出於藍",
-    "chineseExample_tr": "這位年輕研究員的創新建立在導師理論基礎之上，最終超越了原有理論"
+    "meaning": "Azul emerge do anil",
+    "metaphoric_meaning": "Superar o professor; superar os predecessores",
+    "description": "Este idioma descreve o azul (青) emergindo (出) do (于) anil (蓝). O corante azul derivado de plantas de anil torna-se mais vívido do que a fonte. A frase celebra os alunos superando os professores. O uso moderno descreve sucessores excedendo seus predecessores, o resultado ideal do ensino onde os discípulos alcançam mais do que seus mestres.",
+    "example": "O aluno superou até mesmo seu brilhante professor.",
+    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID022",
@@ -676,17 +674,15 @@
     "chineseExample_tr": "慈善機構通過成千上萬的小額捐款達到了目標"
   },
   {
-    "id": "ID053",
+    "id": "ID665",
     "characters": "胸有成竹",
     "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Bambu pronto no coração",
-    "example": "O arquiteto teve uma visão completa do edifício antes de desenhar a primeira linha",
-    "chineseExample": "建筑师在画第一笔之前就已经对建筑有了完整的构想",
-    "theme": "Estratégia e Ação",
-    "description": "Este idiote teve origem na abordagem do pintor Wen Yuke, da Dinastia Song do Sul, à pintura de bambu. Antes de tocar o pincel no papel, ele visualizava completamente o bambu (竹) em sua mente (胸), garantindo que estivesse totalmente \"formado\" (成) em sua imaginação. Essa prática exemplificava o princípio artístico chinês da preparação mental antes da execução. O uso moderno estende-se muito além da arte para qualquer situação que exija uma preparação mental minuciosa — desde apresentações de negócios até performances atléticas. Ele enfatiza a importância de uma visualização clara e da prontidão mental antes de tomar qualquer ação.",
-    "metaphoric_meaning": "Tenha um plano claro de antemão",
-    "traditionalCharacters": "胸有成竹",
-    "chineseExample_tr": "建築師在畫第一筆之前就已經對建築有了完整的構想"
+    "meaning": "Peito contém bambu completo",
+    "metaphoric_meaning": "Ter um plano bem pensado; estar bem preparado",
+    "description": "Este idioma descreve ter (有) bambu (竹) completo (成) no peito (胸) de alguém. Vem da história do pintor Wen Tong, que visualizava o bambu completo em sua mente antes de pintar. A frase descreve preparação mental completa. O uso moderno descreve ter um plano claro ou preparação completa antes de realizar uma tarefa.",
+    "example": "Ela entrou no exame com total confiança em sua preparação.",
+    "chineseExample": "她胸有成竹地走进考场。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID054",
@@ -910,17 +906,15 @@
     "chineseExample_tr": "他們倉促的解決方案只是使現有問題更加複雜"
   },
   {
-    "id": "ID071",
+    "id": "ID673",
     "characters": "登堂入室",
     "pinyin": "dēng táng rù shì",
-    "meaning": "Entre no Hall Reach Inner Room",
-    "example": "Após anos de prática, ela progrediu de amador para status profissional",
-    "chineseExample": "经过多年练习，她从业余水平进步到专业水平",
-    "theme": "Sucesso e Perseverança",
-    "description": "Originalmente descrevendo a progressão física desde a entrada (登) no salão principal (堂) até o alcance (入) das câmaras interiores (室) das casas tradicionais chinesas, esta expressão idiomática emergiu de textos confucionistas antigos. A metáfora arquitetónica ilustrava a natureza estruturada da educação clássica, na qual os alunos progrediam por níveis de aprendizagem claramente definidos. A imagem ressoou profundamente na tradição pedagógica chinesa, onde o conhecimento era visto como uma série de espaços cada vez mais íntimos a serem acedidos através de estudo disciplinado. O uso moderno descreve qualquer progressão sistemática desde o conhecimento basilar até à maestria, particularmente nas artes tradicionais e nas disciplinas académicas.",
-    "metaphoric_meaning": "Progresso do básico ao avançado",
-    "traditionalCharacters": "登堂入室",
-    "chineseExample_tr": "經過多年練習，她從業餘水平進步到專業水平"
+    "meaning": "Subir ao salão, entrar na sala interna",
+    "metaphoric_meaning": "Alcançar proficiência; alcançar maestria",
+    "description": "Este idioma descreve subir (登) ao salão (堂) e entrar (入) na sala interna (室). Dos Analectos descrevendo os estágios de aprendizado - o salão é intermediário, a sala interna é maestria. A frase descreve a progressão para níveis avançados. O uso moderno descreve alcançar uma compreensão profunda, passando do conhecimento superficial para a verdadeira expertise.",
+    "example": "Sua compreensão do campo atingiu um nível avançado.",
+    "chineseExample": "她对这个领域的理解已经登堂入室。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID072",
@@ -2223,17 +2217,15 @@
     "chineseExample_tr": "公司主動減少市場份額以避免壟斷指控"
   },
   {
-    "id": "ID172",
+    "id": "ID661",
     "characters": "滴水不漏",
     "pinyin": "dī shuǐ bù lòu",
-    "meaning": "Sem vazamentos de desbotamento de água",
-    "example": "O contrato foi escrito com linguagem precisa que não deixou espaço para má interpretação",
-    "chineseExample": "合同用精确的语言撰写，滴水不漏",
-    "theme": "Sucesso e Perseverança",
-    "description": "Esta expressão meticulosa descreve arranjos tão perfeitos que nem mesmo uma gota (滴) de água (水) consegue vazar (不漏), com origem nos padrões arquitetónicos da Dinastia Song para telhados imperiais. Os construtores da corte usavam-na para descrever a qualidade de construção ideal para estruturas palacianas, onde até a menor infiltração poderia danificar interiores preciosos. A expressão ganhou um uso mais amplo durante a Dinastia Ming em contextos jurídicos, descrevendo argumentos ou documentação herméticos. A metáfora da água era particularmente significativa numa cultura onde documentos escritos a pincel poderiam ser arruinados pela menor humidade. O uso moderno descreve uma execução impecável em qualquer contexto que exija precisão absoluta, desde contratos jurídicos a sistemas de segurança.",
-    "metaphoric_meaning": "Absolutamente impecável e completo",
-    "traditionalCharacters": "滴水不漏",
-    "chineseExample_tr": "合同用精確的語言撰寫，滴水不漏"
+    "meaning": "Nem uma gota de água vaza",
+    "metaphoric_meaning": "À prova d'água; completamente planejado",
+    "description": "Este idioma descreve não (不) uma gota (滴) de água (水) vazando (漏). Descreve uma vedação tão completa que nada pode escapar. A frase era usada para contenção ou sigilo perfeitos. O uso moderno descreve execução impecável sem lacunas, planos tão completos que nada é esquecido ou segredos tão bem guardados que nada vaza.",
+    "example": "As medidas de segurança eram absolutamente à prova d'água.",
+    "chineseExample": "安保措施滴水不漏。",
+    "theme": "Strategy & Action"
   },
   {
     "id": "ID173",
@@ -2262,17 +2254,15 @@
     "chineseExample_tr": "偵探的分析使複雜的案件突然變得清晰明瞭"
   },
   {
-    "id": "ID175",
+    "id": "ID681",
     "characters": "巧夺天工",
     "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "A habilidade supera o trabalho da natureza",
-    "example": "A intrincada escultura de jade excedeu o que parecia humanamente possível",
-    "chineseExample": "这件精细的玉雕超越了人力所能及的极限",
-    "theme": "Sucesso e Perseverança",
-    "description": "Esta expressão elogia a perícia artesanal humana (巧) tão magistral que parece superar (夺) a obra (工) do céu/natureza (天), tendo surgido pela primeira vez na crítica de arte da Dinastia Han. Originou-se de avaliações de entalhes excepcionais em jade e vasos de bronze que atingiram um requinte aparentemente impossível. O conceito foi revolucionário na estética chinesa, sugerindo que a criatividade humana poderia potencialmente superar a beleza natural. Durante o renascimento da Dinastia Song, tornou-se associado a inovações técnicas sem precedentes. A tensão entre respeitar a natureza e transcender as suas limitações refletia debates filosóficos chineses sobre o potencial humano. O uso moderno celebra a excepcional perícia artesanal ou a realização técnica que expande os limites do que parece possível, desde as artes tradicionais até à tecnologia de ponta.",
-    "metaphoric_meaning": "Artesanato além dos limites naturais",
-    "traditionalCharacters": "巧奪天工",
-    "chineseExample_tr": "這件精細的玉雕超越了人力所能及的極限"
+    "meaning": "Habilidade supera o trabalho do céu",
+    "metaphoric_meaning": "Superar a natureza em habilidade; artesanato extraordinário",
+    "description": "Este idioma descreve a habilidade (巧) superando (夺) o trabalho (工) do céu (天). Descreve o artesanato humano tão perfeito que excede o que a natureza poderia produzir. A frase representa o auge da conquista artística. O uso moderno descreve artesanato ou arte extraordinários que parecem transcender a capacidade humana, trabalho que rivaliza com a criação divina.",
+    "example": "A intrincada escultura de jade parecia quase divinamente trabalhada.",
+    "chineseExample": "精致的玉雕巧夺天工。",
+    "theme": "Success & Perseverance"
   },
   {
     "id": "ID176",
@@ -2873,17 +2863,15 @@
     "chineseExample_tr": "這位作家在六十多歲時出版了他的代表作，此前已經花了幾十年磨練自己的技藝"
   },
   {
-    "id": "ID222",
+    "id": "ID427",
     "characters": "鹤发童颜",
     "pinyin": "hè fà tóng yán",
-    "meaning": "Cabelos de guindaste, rosto infantil",
-    "example": "O professor de 90 anos manteve energia juvenil, apesar de seus cabelos brancos",
-    "chineseExample": "这位90岁的教授尽管白发苍苍，却依然保持着年轻的活力",
-    "theme": "Filosofia de Vida",
-    "description": "Esta expressão idiomática elogiosa descreve alguém com cabelos brancos (鹤发) como os de uma garça, mas mantendo uma tez infantil (童颜), representando o ideal de envelhecer com graciosidade. Apareceu pela primeira vez em textos da Dinastia Tang, descrevendo mestres taoistas que supostamente preservavam a vitalidade juvenil através de meditação e práticas alquímicas. Durante a Dinastia Song, a expressão passou a ser associada a letrados que mantinham o vigor intelectual até a velhice. A imagem da garça era particularmente significativa, já que essas aves representavam tanto a longevidade quanto a sabedoria no simbolismo chinês. O uso moderno celebra indivíduos idosos que mantêm a saúde física, a acuidade mental e uma atitude jovial apesar da idade avançada, personificando o ideal chinês tradicional de que a sabedoria e a vitalidade não precisam declinar em conjunto.",
-    "metaphoric_meaning": "Jovem, apesar da velhice",
-    "traditionalCharacters": "鶴髮童顏",
-    "chineseExample_tr": "這位90歲的教授儘管白髮蒼蒼，卻依然保持着年輕的活力"
+    "meaning": "Cabelo de garça e tez de criança",
+    "metaphoric_meaning": "Cabelos brancos, mas com aparência jovem",
+    "description": "Este idioma combina cabelo de 'pena de garça' (鹤发) - branco como a plumagem de uma garça - com a tez (颜) de uma criança (童) para descrever pessoas idosas que permanecem jovens na aparência. A garça simboliza a longevidade na cultura chinesa, enquanto a tez rosada das crianças representa saúde e vitalidade. A frase se originou em descrições de imortais taoístas e sábios de longa vida que desafiaram o envelhecimento normal. Elogia aqueles que mantêm a saúde e a vitalidade apesar da idade avançada. O uso moderno elogia indivíduos idosos ativos e saudáveis.",
+    "example": "Apesar de sua idade, ele mantém o vigor e a tez da juventude.",
+    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
+    "theme": "Life Philosophy"
   },
   {
     "id": "ID223",
@@ -4303,17 +4291,15 @@
     "chineseExample_tr": "這位資深教授不屑一顧地否定了這個創新理論，沒有認真考慮"
   },
   {
-    "id": "ID332",
+    "id": "ID432",
     "characters": "不言而喻",
     "pinyin": "bù yán ér yù",
-    "meaning": "Não falar ainda entendido",
-    "example": "As implicações das descobertas da pesquisa ficaram tão claras que não exigiram explicação",
-    "chineseExample": "研究结果的含义非常明确，不需要解释",
-    "theme": "Relacionamentos e Caráter",
-    "description": "Os estudiosos confucianos da Dinastia Han celebravam este ideal de que, sem (不) serem ditas (言), certas coisas são, ainda assim, compreendidas (喻). Representava o auge da comunicação eficiente, onde o entendimento partilhado torna a explicação explícita desnecessária. Escritores da Dinastia Tang usavam-no frequentemente para reconhecer um terreno comum antes de introduzir novos argumentos. A expressão capta elegantemente como algumas verdades comunicam com mais força através do silêncio estratégico do que de uma declaração explícita.",
-    "metaphoric_meaning": "Evidente que não exige explicação",
-    "traditionalCharacters": "不言而喻",
-    "chineseExample_tr": "研究結果的含義非常明確，不需要解釋"
+    "meaning": "Without speaking yet understood",
+    "metaphoric_meaning": "Self-evident; goes without saying",
+    "description": "This idiom expresses that something is so obvious it doesn't need (不) words (言) yet (而) is understood (喻). It appears in the Confucian classic 'Mencius,' emphasizing truths so fundamental they require no explanation. The phrase reflects the Chinese philosophical tradition valuing implicit understanding over explicit statement. Confucius himself favored teaching through example rather than extensive explanation. Modern usage describes self-evident truths, obvious conclusions, or situations where the meaning is crystal clear without elaboration.",
+    "example": "The importance of education is self-evident in today's world.",
+    "chineseExample": "在当今世界，教育的重要性不言而喻。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID333",
@@ -4986,25 +4972,25 @@
     "theme": "Strategy & Action"
   },
   {
-    "id": "ID385",
+    "id": "ID607",
     "characters": "天长地久",
     "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "Heaven is long, earth is lasting",
-    "metaphoric_meaning": "Everlasting; eternal",
-    "description": "Essa expressão idiomática deriva do Capítulo 7 do clássico taoísta 'Tao Te Ching' (道德经) de Laozi: 'O céu e a terra são duradouros.' A frase usa a natureza eterna do céu (天) e da terra (地) como metáforas para permanência e durabilidade. Ganhou conotações românticas através da poesia da Dinastia Tang, particularmente 'Canção da Tristeza Eterna' de Bai Juyi, onde descreve o amor duradouro. A expressão é comumente usada em bênçãos de casamento e expressões de relacionamentos duradouros, embora possa se aplicar a qualquer vínculo ou compromisso destinado a perdurar ao longo do tempo.",
-    "example": "A amizade deles provou ser tão duradoura quanto o céu e a terra.",
-    "chineseExample": "他们的友谊天长地久，永不改变。",
+    "meaning": "Céu longo, terra duradoura",
+    "metaphoric_meaning": "Durar para sempre; ser eterno",
+    "description": "Este idioma descreve o céu (天) sendo longo (长) e a terra (地) sendo duradoura (久). Do Dao De Jing descrevendo a natureza eterna do céu e da terra. A frase representa permanência e eternidade. O uso moderno expressa desejos de relacionamentos duradouros, sejam românticos, amigáveis ou familiares - bênçãos para laços que perduram como o céu e a terra.",
+    "example": "Que sua amizade dure para sempre.",
+    "chineseExample": "愿你们的友谊天长地久。",
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID386",
+    "id": "ID645",
     "characters": "马到成功",
     "pinyin": "mǎ dào chéng gōng",
-    "meaning": "Success upon the horse's arrival",
-    "metaphoric_meaning": "Achieve immediate success",
-    "description": "Essa expressão idiomática se origina da antiga cultura militar chinesa, onde a cavalaria era crucial para a vitória. Quando os cavalos de guerra chegavam ao campo de batalha, esperava-se que o sucesso seguisse rapidamente. A frase apareceu pela primeira vez durante a Dinastia Yuan em obras dramáticas que descrevem campanhas militares. O cavalo (马) simboliza velocidade, poder e ímpeto, enquanto 'chegada' (到) e 'sucesso' (成功) enfatizam a conquista imediata. Hoje, serve como uma bênção popular para novos empreendimentos, exames e empreendimentos comerciais, expressando esperanças de sucesso rápido e completo.",
-    "example": "A equipe desejou sucesso a ela desde o momento em que ela começou.",
-    "chineseExample": "团队祝愿她马到成功。",
+    "meaning": "Horse arrives, success achieved",
+    "metaphoric_meaning": "Achieve instant success; swift victory",
+    "description": "This idiom describes when the horse (马) arrives (到), success (成功) is achieved. It depicts swift victory, success that comes as quickly as a galloping horse. The phrase is commonly used as a blessing for new endeavors. Modern usage wishes someone rapid success, expressing hope that their ventures will succeed quickly and easily.",
+    "example": "May all your endeavors succeed quickly!",
+    "chineseExample": "祝你马到成功！",
     "theme": "Success & Perseverance"
   },
   {
@@ -5041,25 +5027,25 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID390",
+    "id": "ID632",
     "characters": "循序渐进",
     "pinyin": "xún xù jiàn jìn",
-    "meaning": "Follow order and advance gradually",
-    "metaphoric_meaning": "Progress step by step",
-    "description": "Essa expressão idiomática aparece em 'Os Analectos de Confúcio' e foi elaborada por Zhu Xi, o grande estudioso neo-confucionista da Dinastia Song. Enfatiza seguir (循) uma sequência adequada (序) enquanto avança (进) gradualmente (渐). A frase reflete a filosofia educacional confucionista de que o aprendizado deve prosseguir sistematicamente, construindo sobre fundamentos antes de avançar para conceitos complexos. Contraria a tentação de pular etapas ou apressar o progresso. O uso moderno se estende a qualquer campo que exija avanço metódico, desde a educação até o desenvolvimento de carreira e a aquisição de habilidades.",
-    "example": "Aprender um idioma requer uma abordagem passo a passo.",
-    "chineseExample": "学习语言需要循序渐进的方法。",
+    "meaning": "Follow sequence, gradually advance",
+    "metaphoric_meaning": "Proceed step by step; progress gradually",
+    "description": "This idiom describes following (循) sequence (序) and gradually (渐) advancing (进). It advocates for systematic, step-by-step progress rather than jumping ahead. The phrase appeared in classical texts on education emphasizing proper ordering. Modern usage describes methodical approaches to learning or development, recognizing that solid foundations enable sustainable progress.",
+    "example": "Learning a language requires steady, gradual progress.",
+    "chineseExample": "学习语言需要循序渐进。",
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID391",
+    "id": "ID675",
     "characters": "后来居上",
     "pinyin": "hòu lái jū shàng",
-    "meaning": "Latecomers end up on top",
-    "metaphoric_meaning": "Latecomers surpass the early starters",
-    "description": "Essa expressão idiomática se origina de 'Registros do Grande Historiador' (史记), descrevendo como os funcionários posteriores (后来) muitas vezes ascendiam (居上) a posições mais altas do que seus predecessores. A frase foi usada pelo conselheiro do Imperador Wu de Han para explicar por que ministros recém-nomeados às vezes superavam os mais antigos. Sugere que o momento da entrada não determina o sucesso final. O uso moderno celebra os azarões e os retardatários que superam os primeiros líderes através de esforço ou estratégia superior, particularmente relevante em mercados competitivos e esportes.",
-    "example": "A startup que entrou no mercado por último se tornou a líder do setor.",
-    "chineseExample": "最后进入市场的那家初创公司后来居上，成为行业领袖。",
+    "meaning": "Recém-chegado ocupa o topo",
+    "metaphoric_meaning": "Recém-chegados superam os predecessores",
+    "description": "Este idioma descreve os recém-chegados (后来) ocupando (居) o topo (上). Descreve aqueles que começam mais tarde, mas acabam alcançando mais do que aqueles que começaram mais cedo. A frase encoraja aqueles que estão atrás. O uso moderno descreve vitórias de virada, situações em que os iniciantes tardios acabam superando os líderes iniciais por meio de maior esforço ou talento.",
+    "example": "Apesar de começar tarde, o recém-chegado ascendeu para liderar a equipe.",
+    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
     "theme": "Success & Perseverance"
   },
   {
@@ -5118,14 +5104,14 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID397",
+    "id": "ID634",
     "characters": "脚踏实地",
     "pinyin": "jiǎo tà shí dì",
-    "meaning": "Feet stepping on solid ground",
-    "metaphoric_meaning": "Being practical and down-to-earth",
-    "description": "Essa expressão idiomática se originou durante a Dinastia Song em relatos biográficos que elogiavam estudiosos que buscavam o conhecimento através de um esforço constante e prático, em vez de buscar atalhos. A imagem de pés (脚) pisando firmemente (踏) em solo (实) sólido (地) contrasta com aqueles que têm a cabeça nas nuvens. A frase incorpora o valor confucionista do esforço sincero e da abordagem realista para a conquista. Permanece particularmente popular em contextos educacionais e profissionais, incentivando o trabalho constante em vez de abordagens chamativas, mas insubstanciais.",
-    "example": "O sucesso vem de esforços práticos e fundamentados, em vez de sonhos vazios.",
-    "chineseExample": "成功来自脚踏实地的努力，而非空想。",
+    "meaning": "Feet step on solid ground",
+    "metaphoric_meaning": "Be down-to-earth; take practical steps",
+    "description": "This idiom describes feet (脚) stepping (踏) on solid (实) ground (地). It depicts practical, grounded action rather than flights of fancy. The phrase values realistic, down-to-earth approaches. Modern usage praises practical people who focus on concrete actions rather than empty dreams, building success through steady, realistic effort rather than speculation.",
+    "example": "His practical approach helped him build a successful career.",
+    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
     "theme": "Success & Perseverance"
   },
   {
@@ -5272,25 +5258,25 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID411",
+    "id": "ID659",
     "characters": "恰如其分",
     "pinyin": "qià rú qí fèn",
-    "meaning": "Assim como sua porção exige",
-    "metaphoric_meaning": "Na medida certa; perfeitamente apropriado",
-    "description": "Este idioma enfatiza fazer algo exatamente (恰) como (如) sua porção adequada (其分) exige - nem mais nem menos. O conceito de 'fen' (分) se relaciona com a ideia confucionista de que tudo tem sua medida e lugar adequados. A frase elogia a virtude da adequação e moderação, evitando tanto o excesso quanto a deficiência. Reflete a estética clássica chinesa de equilíbrio e propriedade. O uso moderno elogia ações, palavras ou respostas que são perfeitamente adequadas ao seu contexto e nem exageradas nem insuficientes.",
-    "example": "A resposta dela foi perfeitamente apropriada para a situação.",
-    "chineseExample": "她的回应恰如其分，非常得体。",
+    "meaning": "Exatamente como sua porção",
+    "metaphoric_meaning": "Perfeitamente apropriado; encaixando exatamente",
+    "description": "Este idioma descreve estar exatamente (恰) como (如) sua (其) porção (分) adequada. Descreve comportamento ou palavras que são perfeitamente calibradas para a situação - nem excessivas nem insuficientes. A frase valoriza a adequação e a medida. O uso moderno descreve respostas bem calibradas, ações que são perfeitamente adequadas ao seu contexto.",
+    "example": "Sua resposta foi perfeitamente medida e apropriada.",
+    "chineseExample": "他的回应恰如其分。",
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID412",
+    "id": "ID588",
     "characters": "光明磊落",
     "pinyin": "guāng míng lěi luò",
-    "meaning": "Brilhante e de coração aberto",
-    "metaphoric_meaning": "Reto e aberto; acima de qualquer suspeita",
-    "description": "Este idioma combina 'brilhante e luminoso' (光明) com 'aberto e reto' (磊落) para descrever alguém de caráter moral impecável. O caractere 磊 retrata pedras empilhadas abertamente, sugerindo nada escondido. A frase aparece em textos biográficos da Dinastia Song elogiando funcionários que se conduziram com total transparência e integridade. Incorpora o ideal confucionista do junzi (cavalheiro) que não tem nada a esconder e cujas ações podem resistir ao escrutínio. O uso moderno elogia indivíduos honestos e diretos em contextos pessoais e profissionais.",
-    "example": "Ele é conhecido por seu caráter reto e negócios transparentes.",
-    "chineseExample": "他以光明磊落的品格和透明的处事方式著称。",
+    "meaning": "Brilhante, claro e reto",
+    "metaphoric_meaning": "Ser aberto e transparente",
+    "description": "Este idioma descreve ser brilhante (光明) e reto (磊落). O caractere 磊 mostra três pedras empilhadas, representando solidez e abertura. A frase retrata alguém que não tem nada a esconder, cujo caráter é transparente e honrado. O uso moderno descreve pessoas de integridade cujas ações resistem ao escrutínio, que agem abertamente, sem agendas ocultas.",
+    "example": "Seu caráter direto lhe rendeu a confiança de todos.",
+    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
     "theme": "Relationships & Character"
   },
   {
@@ -5316,14 +5302,14 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID415",
+    "id": "ID568",
     "characters": "喜出望外",
     "pinyin": "xǐ chū wàng wài",
-    "meaning": "Alegria excedendo as expectativas",
-    "metaphoric_meaning": "Extremamente feliz; agradavelmente surpreso",
-    "description": "Este idioma descreve a alegria (喜) que vai além (出) das expectativas (望外) de alguém. Captura a qualidade especial de surpresas agradáveis que excedem o que se esperava ou antecipava. A frase apareceu na literatura da Dinastia Song descrevendo personagens recebendo notícias inesperadamente boas. A intensidade emocional que transmite vai além da simples felicidade para sugerir um espanto delicioso. O uso moderno descreve qualquer situação em que os resultados positivos superam as expectativas, desde conquistas pessoais até descobertas afortunadas.",
-    "example": "Ela ficou extremamente feliz quando recebeu a promoção inesperada.",
-    "chineseExample": "收到意外的晋升通知，她喜出望外。",
+    "meaning": "Alegria além da expectativa",
+    "metaphoric_meaning": "Ser agradavelmente surpreendido",
+    "description": "Este idioma descreve alegria (喜) que vai além (出) do que se esperava (望外). Captura o deleite de receber algo melhor do que o esperado. A frase apareceu em textos descrevendo momentos de boa sorte inesperada que excederam todas as esperanças. O uso moderno descreve surpresas agradáveis, ganhos inesperados e qualquer resultado positivo que supere a antecipação.",
+    "example": "Ela ficou agradavelmente surpresa com a promoção inesperada.",
+    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -5404,14 +5390,14 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID423",
+    "id": "ID564",
     "characters": "患得患失",
     "pinyin": "huàn dé huàn shī",
     "meaning": "Preocupar-se com o ganho, preocupar-se com a perda",
-    "metaphoric_meaning": "Constantemente ansioso com ganhos e perdas",
-    "description": "Este idioma vem de 'Os Analectos de Confúcio', onde descreve pessoas mesquinhas que se preocupam (患) em ganhar (得) antes de terem algo, então se preocupam em perder (失) depois de obtê-lo. Confúcio contrastou essa mentalidade ansiosa com a equanimidade da pessoa superior. A frase critica o apego a resultados que impede a paz de espírito. Reflete as influências budistas e taoístas na filosofia chinesa em relação ao não apego. O uso moderno descreve mentalidades ansiosas e calculistas que minam a felicidade e a eficácia.",
-    "example": "Sua constante ansiedade sobre o sucesso o impediu de aproveitar o presente.",
-    "chineseExample": "他患得患失的心态让他无法享受当下。",
+    "metaphoric_meaning": "Estar ansioso com ganhos e perdas",
+    "description": "Este idioma descreve preocupar-se (患) em ganhar (得) e preocupar-se (患) em perder (失). Vem dos Analectos de Confúcio, criticando pessoas mesquinhas que estão constantemente ansiosas com o que podem ganhar ou perder. Essa mentalidade cria ansiedade sem fim e impede a satisfação. O uso moderno descreve o apego excessivo aos resultados e a incapacidade de encontrar paz, independentemente das circunstâncias.",
+    "example": "Sua constante ansiedade com os resultados o impedia de aproveitar o processo.",
+    "chineseExample": "他患得患失的心态让他无法享受过程。",
     "theme": "Life Philosophy"
   },
   {
@@ -5503,6 +5489,281 @@
     "theme": "Wisdom & Learning"
   },
   {
+    "id": "ID432",
+    "characters": "不言而喻",
+    "pinyin": "bù yán ér yù",
+    "meaning": "Without speaking yet understood",
+    "metaphoric_meaning": "Self-evident; goes without saying",
+    "description": "This idiom expresses that something is so obvious it doesn't need (不) words (言) yet (而) is understood (喻). It appears in the Confucian classic 'Mencius,' emphasizing truths so fundamental they require no explanation. The phrase reflects the Chinese philosophical tradition valuing implicit understanding over explicit statement. Confucius himself favored teaching through example rather than extensive explanation. Modern usage describes self-evident truths, obvious conclusions, or situations where the meaning is crystal clear without elaboration.",
+    "example": "The importance of education is self-evident in today's world.",
+    "chineseExample": "在当今世界，教育的重要性不言而喻。",
+    "theme": "Wisdom & Learning"
+  },
+  {
+    "id": "ID433",
+    "characters": "理所当然",
+    "pinyin": "lǐ suǒ dāng rán",
+    "meaning": "What reason dictates as natural",
+    "metaphoric_meaning": "Naturally; as a matter of course",
+    "description": "This idiom combines 'according to reason' (理所) with 'naturally so' (当然) to express what logic and propriety dictate as obvious or appropriate. The concept of 'li' (理) in Neo-Confucian philosophy represents the rational principle underlying all things. The phrase suggests alignment between expectation and cosmic order. It appeared in Song Dynasty philosophical texts discussing moral imperatives. Modern usage can express either genuine natural logic or, sometimes critically, assumptions that may actually warrant questioning.",
+    "example": "It's only natural that hard work leads to success.",
+    "chineseExample": "努力工作会带来成功，这是理所当然的。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID434",
+    "characters": "垂头丧气",
+    "pinyin": "chuí tóu sàng qì",
+    "meaning": "Drooping head and dejected spirit",
+    "metaphoric_meaning": "Dejected; dispirited",
+    "description": "This idiom describes the physical posture of dejection - head (头) drooping (垂) and spirit (气) lost (丧). The phrase captures how emotional states manifest in body language, reflecting the traditional Chinese understanding of mind-body unity. It appears in Tang Dynasty literature describing defeated warriors and disappointed scholars. The vivid physical imagery makes the emotional state instantly recognizable. Modern usage describes anyone in a state of discouragement, disappointment, or demoralization after failure or bad news.",
+    "example": "After losing the championship, the team left the field dejected.",
+    "chineseExample": "输掉冠军赛后，队员们垂头丧气地离开了球场。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID435",
+    "characters": "意想不到",
+    "pinyin": "yì xiǎng bù dào",
+    "meaning": "Mind imagines not reaching",
+    "metaphoric_meaning": "Unexpected; unforeseen",
+    "description": "This idiom describes something that one's thoughts (意想) could not (不) reach or anticipate (到). The phrase emphasizes the limits of imagination when confronted with surprising reality. It emerged in vernacular literature during the Ming Dynasty to describe plot twists and unexpected events. The structure suggests that what occurred was beyond the boundaries of what could reasonably be imagined. Modern usage commonly describes surprises, unexpected developments, or outcomes that defied all predictions.",
+    "example": "The plot twist was completely unexpected.",
+    "chineseExample": "剧情的反转完全意想不到。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID436",
+    "characters": "一帆风顺",
+    "pinyin": "yī fān fēng shùn",
+    "meaning": "One sail with favorable wind",
+    "metaphoric_meaning": "Smooth sailing; everything going well",
+    "description": "This idiom depicts a sailing vessel with one (一) sail (帆) catching favorable (顺) wind (风), moving smoothly toward its destination. It emerged from China's rich maritime history, particularly during the Song Dynasty when seafaring commerce flourished. The image of effortless progress powered by natural forces became a popular blessing for journeys and ventures. While literally about sea travel, it metaphorically wishes success without obstacles. Modern usage serves as a common blessing for new endeavors, graduations, and life transitions.",
+    "example": "We wish you smooth sailing in your new career.",
+    "chineseExample": "祝你在新的职业生涯中一帆风顺。",
+    "theme": "Success & Perseverance"
+  },
+  {
+    "id": "ID437",
+    "characters": "左右为难",
+    "pinyin": "zuǒ yòu wéi nán",
+    "meaning": "Left and right both difficult",
+    "metaphoric_meaning": "In a dilemma; caught between difficulties",
+    "description": "This idiom describes being in difficulty (为难) whether going left (左) or right (右), trapped between two equally problematic choices. The spatial metaphor of being stuck between opposing directions vividly captures the experience of dilemmas. The phrase appeared in historical texts describing officials caught between conflicting loyalties or commanders facing impossible tactical situations. It embodies situations where every option carries significant costs. Modern usage describes any predicament where all available choices present serious difficulties.",
+    "example": "He was caught in a dilemma, unable to please either side.",
+    "chineseExample": "他左右为难，无法让双方都满意。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID438",
+    "characters": "百思不解",
+    "pinyin": "bǎi sī bù jiě",
+    "meaning": "Think a hundred times still not understand",
+    "metaphoric_meaning": "Unable to understand despite much thought",
+    "description": "This idiom describes thinking (思) a hundred times (百) yet still not (不) understanding (解), expressing puzzlement that persists despite extensive contemplation. The number 'hundred' suggests numerous attempts rather than a literal count. The phrase emerged in literary contexts describing mysteries and paradoxes that resist rational explanation. It captures the frustration of encountering something genuinely incomprehensible. Modern usage describes confusion about decisions, behaviors, or events that defy logical explanation.",
+    "example": "No matter how much she thought about it, she couldn't understand his decision.",
+    "chineseExample": "无论她怎么想，都对他的决定百思不解。",
+    "theme": "Wisdom & Learning"
+  },
+  {
+    "id": "ID439",
+    "characters": "自告奋勇",
+    "pinyin": "zì gào fèn yǒng",
+    "meaning": "Self-recommend with vigor and courage",
+    "metaphoric_meaning": "Volunteer bravely; step forward willingly",
+    "description": "This idiom describes volunteering (自告) with vigor (奋) and courage (勇), emphasizing initiative and bravery in stepping forward. The phrase combines self-nomination with the qualities needed to follow through. It appeared in historical texts describing brave soldiers or officials who volunteered for dangerous missions. The idiom values proactive contribution over passive waiting. Modern usage praises those who voluntarily take on challenges, especially difficult or risky ones that others avoid.",
+    "example": "She volunteered to lead the difficult project.",
+    "chineseExample": "她自告奋勇，主动承担这个困难的项目。",
+    "theme": "Relationships & Character"
+  },
+  {
+    "id": "ID440",
+    "characters": "势如破竹",
+    "pinyin": "shì rú pò zhú",
+    "meaning": "Momentum like splitting bamboo",
+    "metaphoric_meaning": "Irresistible momentum; sweeping advance",
+    "description": "This idiom comes from the Jin Dynasty general Du Yu, who compared his army's advance to splitting bamboo (破竹) - once the first section splits, the rest follows effortlessly. The phrase captures the physics of bamboo: initial resistance gives way to cascading momentum. It describes unstoppable progress where each success makes the next easier. Originally military, it evolved to describe any endeavor gaining irresistible momentum. Modern usage describes winning streaks, rapid business expansion, or any situation where success builds upon success.",
+    "example": "The army advanced rapidly, meeting little resistance.",
+    "chineseExample": "军队势如破竹，几乎没有遇到抵抗。",
+    "theme": "Strategy & Action"
+  },
+  {
+    "id": "ID441",
+    "characters": "弄巧成拙",
+    "pinyin": "nòng qiǎo chéng zhuō",
+    "meaning": "Playing clever becomes clumsy",
+    "metaphoric_meaning": "Outsmart oneself; cleverness backfiring",
+    "description": "This idiom describes how attempting (弄) to be clever (巧) results (成) in clumsiness (拙). It captures the irony of sophisticated plans that backfire, producing worse outcomes than simple approaches would have. The phrase appeared in Song Dynasty texts criticizing officials whose intricate schemes created problems. It warns against overcomplication and excessive cleverness. Modern usage describes situations where attempts to be smart or sophisticated produce counterproductive results, often through trying too hard or overthinking.",
+    "example": "His elaborate excuse backfired and made things worse.",
+    "chineseExample": "他精心编造的借口弄巧成拙，让事情变得更糟。",
+    "theme": "Wisdom & Learning"
+  },
+  {
+    "id": "ID442",
+    "characters": "明知故犯",
+    "pinyin": "míng zhī gù fàn",
+    "meaning": "Clearly know yet deliberately violate",
+    "metaphoric_meaning": "Knowingly commit a violation",
+    "description": "This idiom describes clearly knowing (明知) something is wrong yet deliberately (故) doing it anyway (犯). The phrase emphasizes the moral culpability that comes from conscious choice rather than ignorance. It appears in legal and ethical texts from the Tang Dynasty distinguishing intentional violations from innocent mistakes. The aggravating factor of awareness makes such transgressions more serious than errors from ignorance. Modern usage describes willful disregard of rules, advice, or moral standards when the person clearly knows better.",
+    "example": "He knowingly broke the rules despite understanding the consequences.",
+    "chineseExample": "尽管知道后果，他还是明知故犯。",
+    "theme": "Relationships & Character"
+  },
+  {
+    "id": "ID443",
+    "characters": "触景生情",
+    "pinyin": "chù jǐng shēng qíng",
+    "meaning": "Touching scenery produces feelings",
+    "metaphoric_meaning": "Moved by the sight of something familiar",
+    "description": "This idiom describes how encountering (触) a scene (景) can produce (生) emotions (情). It captures the powerful connection between places, objects, and emotional memory. The phrase appeared in Tang Dynasty poetry theory explaining how poets drew inspiration from their surroundings. Chinese aesthetics has long valued this responsiveness to environment as essential to artistic sensitivity. Modern usage describes being moved by revisiting meaningful places, encountering nostalgic objects, or any situation where external stimuli awaken deep feelings.",
+    "example": "Returning to his childhood home stirred deep emotions within him.",
+    "chineseExample": "回到儿时的家乡让他触景生情。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID444",
+    "characters": "一往无前",
+    "pinyin": "yī wǎng wú qián",
+    "meaning": "Once going, nothing ahead can stop",
+    "metaphoric_meaning": "Press forward courageously",
+    "description": "This idiom describes advancing (往) with single-minded determination, with nothing (无) able to block the way ahead (前). The character 一 emphasizes unwavering focus. The phrase emerged from military contexts describing troops whose morale made them unstoppable. It embodies the ideal of commitment so complete that obstacles become irrelevant. The phrase gained revolutionary significance in modern Chinese history. Modern usage celebrates courageous advancement toward goals despite difficulties, emphasizing determination over calculation of odds.",
+    "example": "With determination, they pushed forward regardless of obstacles.",
+    "chineseExample": "他们怀着坚定的决心一往无前。",
+    "theme": "Success & Perseverance"
+  },
+  {
+    "id": "ID445",
+    "characters": "恍如隔世",
+    "pinyin": "huǎng rú gé shì",
+    "meaning": "Dimly as if separated by lifetimes",
+    "metaphoric_meaning": "Feeling as if ages have passed",
+    "description": "This idiom describes the disorienting feeling of being dimly (恍) as if (如) separated (隔) by different lifetimes or eras (世). It captures the profound sense of discontinuity when change makes the past seem impossibly distant. The phrase appeared in literary texts describing characters awakening from long dreams or returning after extended absences. It draws on Buddhist concepts of multiple lifetimes and the impermanence of all things. Modern usage describes experiencing dramatic change that makes previous times feel like another existence entirely.",
+    "example": "Returning after twenty years, the changes made him feel as if ages had passed.",
+    "chineseExample": "二十年后归来，这些变化让他恍如隔世。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID446",
+    "characters": "滔滔不绝",
+    "pinyin": "tāo tāo bù jué",
+    "meaning": "Surging waves never ceasing",
+    "metaphoric_meaning": "Talk endlessly; speak at great length",
+    "description": "This idiom uses the image of surging (滔滔) waves that never (不) cease (绝) to describe continuous, flowing speech. The reduplicated 'taotao' evokes the sound and rhythm of rushing water. The phrase appeared in classical texts describing eloquent orators whose words flowed like rivers. While it can praise eloquence, it often carries connotations of excessive talkativeness or inability to stop speaking. Modern usage describes someone who talks at length, either admiringly for skilled speakers or critically for those who dominate conversations.",
+    "example": "Once he started talking about his hobby, he went on endlessly.",
+    "chineseExample": "一旦开始谈论他的爱好，他就滔滔不绝。",
+    "theme": "Relationships & Character"
+  },
+  {
+    "id": "ID447",
+    "characters": "相辅相成",
+    "pinyin": "xiāng fǔ xiāng chéng",
+    "meaning": "Mutually assist mutually complete",
+    "metaphoric_meaning": "Complement each other; mutually beneficial",
+    "description": "This idiom describes things that mutually (相) support (辅) and mutually (相) complete (成) each other. The phrase reflects the Chinese philosophical understanding of complementary opposites and dynamic balance. It emerged from discussions of governance in classical texts, describing how different elements work together for optimal results. Unlike Western notions of independence, this concept emphasizes productive interdependence. Modern usage describes synergistic relationships where elements strengthen each other through interaction.",
+    "example": "Theory and practice complement and enhance each other.",
+    "chineseExample": "理论与实践相辅相成。",
+    "theme": "Wisdom & Learning"
+  },
+  {
+    "id": "ID448",
+    "characters": "事与愿违",
+    "pinyin": "shì yǔ yuàn wéi",
+    "meaning": "Events contrary to wishes",
+    "metaphoric_meaning": "Things turn out contrary to expectations",
+    "description": "This idiom describes when events (事) go contrary (违) to one's wishes (愿). It captures the frustration when reality diverges from intentions despite best efforts. The phrase appears in Tang Dynasty poetry expressing disappointment and the gap between aspiration and outcome. It reflects the philosophical recognition that the world operates independently of human desires. Modern usage describes situations where results contradict plans or expectations, acknowledging the limits of human control over circumstances.",
+    "example": "Despite careful planning, things didn't turn out as hoped.",
+    "chineseExample": "尽管精心计划，结果却事与愿违。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID449",
+    "characters": "虚惊一场",
+    "pinyin": "xū jīng yī chǎng",
+    "meaning": "Empty fright for nothing",
+    "metaphoric_meaning": "False alarm; scare for nothing",
+    "description": "This idiom describes a false (虚) alarm or scare (惊) that amounts to nothing (一场). The character 场 suggests a theatrical event - the drama that turns out to have no substance. The phrase captures the relief mixed with embarrassment of unnecessary fear. It appeared in Ming Dynasty literature describing dramatic situations resolved harmlessly. Modern usage describes any situation where fear or worry proves unfounded, from medical scares to suspected dangers that turn out to be benign.",
+    "example": "The suspicious package turned out to be harmless - just a false alarm.",
+    "chineseExample": "可疑包裹原来是无害的——虚惊一场。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID450",
+    "characters": "息息相关",
+    "pinyin": "xī xī xiāng guān",
+    "meaning": "Breath to breath mutually connected",
+    "metaphoric_meaning": "Closely related; intimately connected",
+    "description": "This idiom describes being connected breath (息) to breath (息), mutually (相) related (关). The breathing metaphor suggests connection as intimate as shared respiration, where one cannot survive without the other. The phrase emphasizes interdependence so close that changes in one immediately affect the other. It reflects the Chinese philosophical view of universal interconnection. Modern usage commonly describes tightly linked phenomena, policies, or outcomes where impact flows bidirectionally.",
+    "example": "Environmental protection is closely linked to public health.",
+    "chineseExample": "环境保护与公众健康息息相关。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID451",
+    "characters": "千变万化",
+    "pinyin": "qiān biàn wàn huà",
+    "meaning": "Thousand changes ten thousand transformations",
+    "metaphoric_meaning": "Ever-changing; constantly varying",
+    "description": "This idiom uses the large numbers 'thousand' (千) and 'ten thousand' (万) with 'change' (变) and 'transform' (化) to describe constant flux. The hyperbolic numbers emphasize the endless variety of transformations. The phrase reflects Daoist philosophy regarding the ceaseless change underlying apparent stability. It appears in texts describing nature, military situations, and human affairs. Modern usage describes highly variable or unpredictable situations, from weather patterns to market conditions to rapidly evolving technologies.",
+    "example": "The stock market's constant fluctuations are hard to predict.",
+    "chineseExample": "股市千变万化，难以预测。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID452",
+    "characters": "轻而易举",
+    "pinyin": "qīng ér yì jǔ",
+    "meaning": "Light and easy to lift",
+    "metaphoric_meaning": "Easy; effortless",
+    "description": "This idiom describes something so light (轻) that it can be easily (易) lifted (举). The physical image of effortless lifting translates to any task accomplished without difficulty. The phrase appeared in classical texts praising skilled individuals for whom complex tasks seemed simple. It emphasizes the relationship between expertise and apparent ease. Modern usage describes tasks that are simple, either inherently or due to the skill of the person performing them, often used to express that something poses no challenge.",
+    "example": "For an expert, solving this problem was effortless.",
+    "chineseExample": "对于专家来说，解决这个问题轻而易举。",
+    "theme": "Success & Perseverance"
+  },
+  {
+    "id": "ID453",
+    "characters": "风靡一时",
+    "pinyin": "fēng mǐ yī shí",
+    "meaning": "Wind bending grass for a time",
+    "metaphoric_meaning": "Extremely popular for a time",
+    "description": "This idiom uses the image of wind (风) bending (靡) grass for a period (一时) to describe widespread popularity. The metaphor of grass uniformly bending before wind captures how trends sweep through populations. The phrase acknowledges that such popularity, while impressive, is typically temporary. It appeared in historical texts describing fashions and fads in different eras. Modern usage describes phenomena that achieve massive but often short-lived popularity, from songs to products to ideas.",
+    "example": "That song was hugely popular for a season.",
+    "chineseExample": "那首歌曾风靡一时。",
+    "theme": "Life Philosophy"
+  },
+  {
+    "id": "ID454",
+    "characters": "扬长避短",
+    "pinyin": "yáng cháng bì duǎn",
+    "meaning": "Promote strengths avoid weaknesses",
+    "metaphoric_meaning": "Play to one's strengths",
+    "description": "This idiom advises promoting (扬) one's strengths (长) while avoiding (避) weaknesses (短). The phrase embodies practical wisdom about focusing on advantages rather than obsessing over deficiencies. It appeared in texts on governance and military strategy, advising leaders to deploy resources strategically. The concept aligns with both competitive strategy and personal development. Modern usage emphasizes practical self-awareness in career planning, team management, and strategic positioning.",
+    "example": "Good management means leveraging everyone's strengths while minimizing weaknesses.",
+    "chineseExample": "好的管理意味着扬长避短，发挥每个人的优势。",
+    "theme": "Strategy & Action"
+  },
+  {
+    "id": "ID455",
+    "characters": "深入浅出",
+    "pinyin": "shēn rù qiǎn chū",
+    "meaning": "Enter deep come out shallow",
+    "metaphoric_meaning": "Explain profound ideas in simple terms",
+    "description": "This idiom describes entering (入) deeply (深) into a subject but coming out (出) with shallow/accessible (浅) explanations. It praises the ability to understand profound matters thoroughly yet communicate them simply. The phrase values the pedagogical skill of making the complex accessible without oversimplifying. It appears in texts evaluating scholars and teachers. Modern usage highly praises educators, writers, and communicators who can translate expertise into clear, understandable content.",
+    "example": "A great teacher explains complex concepts in simple terms.",
+    "chineseExample": "好老师能够深入浅出地讲解复杂概念。",
+    "theme": "Wisdom & Learning"
+  },
+  {
+    "id": "ID456",
+    "characters": "一览无余",
+    "pinyin": "yī lǎn wú yú",
+    "meaning": "One glance nothing remaining",
+    "metaphoric_meaning": "Take in everything at a glance",
+    "description": "This idiom describes being able to see everything in one (一) glance (览) with nothing (无) remaining hidden (余). The phrase appeared in classical landscape descriptions praising expansive vistas. It captures the clarity and completeness of unobstructed vision. Beyond physical scenery, it can describe situations where everything is transparent and easily understood. Modern usage describes panoramic views, comprehensive understanding, or situations where nothing is hidden from observation.",
+    "example": "From the mountaintop, the entire valley was visible at a glance.",
+    "chineseExample": "从山顶上，整个山谷一览无余。",
+    "theme": "Life Philosophy"
+  },
+  {
     "id": "ID457",
     "characters": "一针见血",
     "pinyin": "yī zhēn jiàn xiě",
@@ -5536,14 +5797,14 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID460",
+    "id": "ID671",
     "characters": "炉火纯青",
     "pinyin": "lú huǒ chún qīng",
     "meaning": "Fogo de fornalha azul puro",
-    "metaphoric_meaning": "Nível mais alto de maestria; habilidade consumada",
-    "description": "Este idioma deriva da alquimia taoísta, onde o fogo da fornalha (炉火) tornando-se azul puro (纯青) indicava a temperatura mais alta necessária para uma transmutação bem-sucedida. Essa mudança de cor significava o domínio do processo alquímico. A frase evoluiu para descrever habilidade suprema em qualquer campo - quando a técnica atinge tal perfeição que parece sem esforço. O uso moderno elogia o mais alto nível de especialização em qualquer disciplina, de artes marciais a caligrafia e habilidades profissionais.",
-    "example": "A caligrafia dela atingiu o mais alto nível de maestria.",
-    "chineseExample": "她的书法已经达到了炉火纯青的境界。",
+    "metaphoric_meaning": "Alcançar a perfeição; dominar completamente",
+    "description": "Este idioma descreve o fogo (火) da fornalha (炉) sendo azul (青) puro (纯). Na metalurgia tradicional, as chamas azuis indicam a temperatura mais alta e a combustão mais pura. A frase representa o auge do desenvolvimento de habilidades. O uso moderno descreve a maestria que atingiu o nível mais alto possível, expertise refinada à perfeição.",
+    "example": "Suas habilidades técnicas atingiram o nível mais alto.",
+    "chineseExample": "她的技术已经炉火纯青。",
     "theme": "Success & Perseverance"
   },
   {
@@ -5580,13 +5841,13 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID464",
+    "id": "ID658",
     "characters": "恰到好处",
     "pinyin": "qià dào hǎo chù",
-    "meaning": "Apenas chegando ao bom lugar",
+    "meaning": "Exatamente no lugar bom",
     "metaphoric_meaning": "Na medida certa; perfeitamente apropriado",
-    "description": "Este idioma descreve chegar (到) exatamente (恰) ao bom (好) ponto (处). Ele incorpora o ideal confucionista e taoísta de moderação e atingir o equilíbrio perfeito. A frase valoriza a precisão em vez do excesso ou da deficiência. Aparece em textos que discutem estética, culinária e cultivo moral, onde encontrar a medida certa exata é fundamental. O uso moderno elogia tudo executado com calibração perfeita - desde o tempo até as quantidades e as respostas emocionais - que atinge o equilíbrio ideal.",
-    "example": "O tempero estava na medida certa - nem muito nem pouco.",
+    "description": "Este idioma descreve estar exatamente (恰) no (到) lugar (处) bom (好). Descreve atingir o ponto perfeito - nem demais nem de menos. A frase valoriza a precisão e a adequação. O uso moderno descreve coisas feitas com perfeita calibração, ações ou quantidades que são exatamente certas para a situação.",
+    "example": "O tempero estava perfeito - nem muito, nem pouco.",
     "chineseExample": "调味恰到好处，不多不少。",
     "theme": "Wisdom & Learning"
   },
@@ -5767,15 +6028,15 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID481",
+    "id": "ID665",
     "characters": "胸有成竹",
     "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Ter um bambu completo no peito",
-    "metaphoric_meaning": "Ter um plano bem pensado",
-    "description": "Este idioma se origina do pintor da Dinastia Song, Wen Tong, famoso por suas pinturas de bambu. Antes de pintar, ele visualizava completamente (成) o bambu (竹) em seu peito (胸) - sua mente. Essa preparação mental permitia que ele pintasse com traços rápidos e confiantes. A frase descreve ter um plano ou visão totalmente formado antes de começar. O uso moderno descreve abordar tarefas com preparação completa e visão clara do resultado desejado.",
-    "example": "Ela abordou a negociação com total confiança.",
-    "chineseExample": "她胸有成竹地参与谈判。",
-    "theme": "Strategy & Action"
+    "meaning": "Peito contém bambu completo",
+    "metaphoric_meaning": "Ter um plano bem pensado; estar bem preparado",
+    "description": "Este idioma descreve ter (有) bambu (竹) completo (成) no peito (胸) de alguém. Vem da história do pintor Wen Tong, que visualizava o bambu completo em sua mente antes de pintar. A frase descreve preparação mental completa. O uso moderno descreve ter um plano claro ou preparação completa antes de realizar uma tarefa.",
+    "example": "Ela entrou no exame com total confiança em sua preparação.",
+    "chineseExample": "她胸有成竹地走进考场。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID482",
@@ -5800,15 +6061,15 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID484",
+    "id": "ID622",
     "characters": "鞠躬尽瘁",
     "pinyin": "jū gōng jìn cuì",
-    "meaning": "Curvar-se e exaurir-se completamente",
+    "meaning": "Curvar-se e exaurir-se",
     "metaphoric_meaning": "Dedicar-se completamente; trabalhar até a exaustão",
-    "description": "Este idioma descreve curvar-se (鞠躬) enquanto se exaure completamente (尽瘁). Vem do famoso memorial de Zhuge Liang 'Chu Shi Biao', onde ele prometeu servir seu senhor até que a morte o exaurisse. A frase representa a mais alta forma de devoção e serviço altruísta. O ditado completo adiciona '死而后已' (só parando na morte). O uso moderno descreve a dedicação total a uma causa, trabalho ou dever, particularmente elogiando aqueles que sacrificam o bem-estar pessoal pelos outros.",
-    "example": "Ele dedicou toda a sua vida ao serviço público até seu último suspiro.",
-    "chineseExample": "他鞠躬尽瘁，为公共服务奉献一生。",
-    "theme": "Relationships & Character"
+    "description": "Este idioma descreve curvar-se (鞠躬) e exaurir (尽) a si mesmo (瘁). Vem do famoso memorial de Zhuge Liang, descrevendo sua dedicação a servir Shu até a morte. A frase incorpora o máximo em serviço leal. O uso moderno descreve a dedicação completa a uma causa ou organização, dando tudo até que nada reste, a forma mais elevada de serviço dedicado.",
+    "example": "Ele serviu à organização até seu último suspiro.",
+    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
+    "theme": "Success & Perseverance"
   },
   {
     "id": "ID485",
@@ -5910,14 +6171,14 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID494",
+    "id": "ID609",
     "characters": "依依不舍",
     "pinyin": "yī yī bù shě",
-    "meaning": "Apegando-se e relutante em partir",
-    "metaphoric_meaning": "Relutante em partir; apego persistente",
-    "description": "Este idioma usa o 'yiyi' (依依) reduplicado, significando apegado ou ligado, combinado com relutante (不舍) em partir. Descreve a dificuldade emocional da separação de entes queridos ou lugares queridos. A frase apareceu na poesia clássica descrevendo despedidas. A imagem física de se agarrar sugere laços emocionais que resistem à quebra. O uso moderno descreve despedidas relutantes, apego a situações finais ou as emoções agridoce da partida.",
-    "example": "A família se despediu com grande relutância no aeroporto.",
-    "chineseExample": "一家人在机场依依不舍地告别。",
+    "meaning": "Demorando-se relutantemente, não querendo partir",
+    "metaphoric_meaning": "Estar relutante em se separar",
+    "description": "Este idioma descreve demorar-se (依依) e não querer (不舍) partir. O 依 duplicado enfatiza a qualidade apegada e relutante da partida. A frase captura a hesitação ao deixar algo amado. O uso moderno descreve partidas relutantes - crianças deixando lugares divertidos, amantes dizendo adeus ou deixando qualquer situação que se deseje que continue.",
+    "example": "As crianças deixaram o parque de diversões relutantemente.",
+    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -5976,14 +6237,14 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID500",
+    "id": "ID660",
     "characters": "无懈可击",
     "pinyin": "wú xiè kě jī",
-    "meaning": "Nenhuma lacuna pode ser atacada",
-    "metaphoric_meaning": "Impecável; além de críticas",
-    "description": "Este idioma descreve não ter (无) fraqueza ou lacuna (懈) que possa (可) ser atacada (击). Originalmente um termo militar descrevendo defesas impenetráveis, evoluiu para descrever qualquer coisa sem pontos vulneráveis. A frase apareceu em textos de estratégia elogiando a preparação perfeita. Representa o ideal de completude que não deixa abertura para críticas ou oposição. O uso moderno descreve argumentos impecáveis, planos herméticos ou performances sem pontos fracos.",
-    "example": "Seu argumento legal era impecável e impossível de contestar.",
-    "chineseExample": "她的法律论证无懈可击。",
+    "meaning": "Sem rachadura para atacar",
+    "metaphoric_meaning": "Impecável; invulnerável a críticas",
+    "description": "Este idioma descreve não ter (无) rachadura (懈) que possa (可) ser atacada (击). Descreve algo tão perfeito que nenhuma fraqueza pode ser encontrada para atacar. A frase era usada para defesas impenetráveis. O uso moderno descreve argumentos, planos ou performances impecáveis que não deixam abertura para críticas ou ataques.",
+    "example": "Seu argumento era logicamente impecável.",
+    "chineseExample": "她的论点无懈可击。",
     "theme": "Success & Perseverance"
   },
   {
@@ -6284,15 +6545,15 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID528",
+    "id": "ID633",
     "characters": "按部就班",
     "pinyin": "àn bù jiù bān",
-    "meaning": "Follow departments and classes",
-    "metaphoric_meaning": "Follow established procedures; step by step",
-    "description": "Este idioma descreve seguir (按就) os departamentos (部) e classes ou sequências (班) adequados. Enfatiza o procedimento metódico seguindo a ordem estabelecida. A frase originou-se em contextos burocráticos descrevendo o processo administrativo adequado. Valoriza a abordagem sistemática em vez da improvisação. O uso moderno descreve fazer as coisas passo a passo de acordo com os procedimentos estabelecidos, às vezes positivamente (completo) e às vezes negativamente (inflexível ou lento).",
-    "example": "O projeto prosseguiu metodicamente através de cada fase.",
-    "chineseExample": "项目按部就班地进行每个阶段。",
-    "theme": "Strategy & Action"
+    "meaning": "Follow departments, go to classes",
+    "metaphoric_meaning": "Follow established procedures; be methodical",
+    "description": "This idiom describes following (按) departments (部) and going to (就) classes (班). Originally describing bureaucratic procedures, it came to mean following established order. The phrase values systematic approaches over improvisation. Modern usage describes following proper procedures and sequences, working methodically rather than chaotically, though sometimes criticizes excessive rigidity.",
+    "example": "The project proceeded according to the established process.",
+    "chineseExample": "项目按部就班地推进。",
+    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID529",
@@ -6317,14 +6578,14 @@
     "theme": "Strategy & Action"
   },
   {
-    "id": "ID531",
+    "id": "ID604",
     "characters": "心心相印",
     "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Heart and heart mutually seal",
-    "metaphoric_meaning": "Perfect mutual understanding; hearts in harmony",
-    "description": "Este idioma descreve corações (心心) mutuamente (相) selando ou imprimindo (印) um no outro. Vem do budismo Chan (Zen) descrevendo a transmissão sem palavras de compreensão entre mestre e discípulo. A frase evoluiu para descrever a perfeita compreensão mútua em qualquer relacionamento próximo. O uso moderno descreve uma profunda afinidade onde a comunicação transcende as palavras, muitas vezes em parcerias românticas, amizades próximas ou relacionamentos de mentoria.",
-    "example": "O casal se entendia perfeitamente sem palavras.",
-    "chineseExample": "这对夫妻心心相印，无需言语。",
+    "meaning": "Corações se imprimem um no outro",
+    "metaphoric_meaning": "Estar perfeitamente sintonizado um com o outro",
+    "description": "Este idioma descreve corações (心心) imprimindo (印) um no outro (相). Originalmente um termo budista que descreve a transmissão do dharma entre mestre e discípulo sem palavras, agora descreve principalmente uma profunda conexão romântica. O uso moderno retrata a compreensão íntima entre amantes ou amigos íntimos, onde a comunicação transcende as palavras - mentes que pensam da mesma forma e corações que batem como um só.",
+    "example": "O casal se entendia sem palavras.",
+    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
     "theme": "Relationships & Character"
   },
   {
@@ -6405,25 +6666,25 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID539",
+    "id": "ID591",
     "characters": "言行一致",
     "pinyin": "yán xíng yī zhì",
     "meaning": "Palavras e ações consistentes",
-    "metaphoric_meaning": "Praticar o que se prega",
-    "description": "Este idioma descreve palavras (言) e ações (行) sendo consistentes (一致). Incorpora o ideal confucionista de integridade onde a fala corresponde ao comportamento. A frase apareceu em textos que elogiavam indivíduos cujos atos cumpriram suas promessas. Confúcio enfatizou que a pessoa superior é lenta para falar, mas rápida para agir, e suas palavras devem corresponder às suas ações. O uso moderno elogia aqueles que praticam o que pregam e mantêm a consistência entre os valores declarados e o comportamento real.",
-    "example": "Ela sempre pratica o que prega.",
-    "chineseExample": "她总是言行一致。",
+    "metaphoric_meaning": "Pratique o que você prega",
+    "description": "Este idioma descreve palavras (言) e ações (行) sendo consistentes (一致). Valoriza o alinhamento entre o que se diz e o que se faz. A frase adverte contra a hipocrisia, onde as promessas não correspondem ao comportamento. O uso moderno enfatiza a integridade e a confiabilidade, a confiabilidade que vem quando as ações de alguém correspondem consistentemente às suas palavras.",
+    "example": "Um bom líder pratica o que prega.",
+    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID540",
+    "id": "ID562",
     "characters": "妄自菲薄",
     "pinyin": "wàng zì fěi bó",
-    "meaning": "Auto-depreciar-se erroneamente",
+    "meaning": "Desmerecer-se irracionalmente",
     "metaphoric_meaning": "Subestimar-se; autodepreciação excessiva",
-    "description": "Este idioma descreve depreciar (菲薄) a si mesmo (自) erroneamente (妄). Adverte contra a autodepreciação excessiva que desvaloriza as próprias habilidades. A frase vem do famoso memorial de Zhuge Liang 'Chu Shi Biao', onde ele exortou o jovem imperador a não se subestimar. Distingue a autoconfiança prejudicial da humildade saudável. O uso moderno encoraja as pessoas a reconhecerem seu valor e capacidades, aconselhando contra a modéstia excessiva que mina a confiança e o potencial.",
-    "example": "Não se subestime - você tem um grande potencial.",
-    "chineseExample": "不要妄自菲薄，你有很大的潜力。",
+    "description": "Este idioma descreve irracionalmente (妄) auto (自) desmerecer-se (菲薄). Originou-se do famoso memorial de Zhuge Liang ao Imperador de Shu, aconselhando contra a autodepreciação excessiva que poderia prejudicar o estado. A frase adverte que a falsa modéstia pode ser tão prejudicial quanto a arrogância. O uso moderno incentiva a autoestima saudável e adverte contra o comportamento auto-sabotador que limita o potencial.",
+    "example": "Não subestime suas habilidades; você tem muito a contribuir.",
+    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
     "theme": "Relationships & Character"
   },
   {
@@ -6801,14 +7062,14 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID575",
+    "id": "ID434",
     "characters": "垂头丧气",
     "pinyin": "chuí tóu sàng qì",
-    "meaning": "Cabeça caída, espírito perdido",
-    "metaphoric_meaning": "Estar abatido e desanimado",
-    "description": "Este idioma descreve uma cabeça (头) caída (垂) e um espírito (气) perdido (丧). Retrata a linguagem corporal da derrota e do desânimo - a postura desleixada de alguém que perdeu a esperança. A frase captura como a decepção se manifesta fisicamente. O uso moderno descreve o abatimento, a perda visível de energia e esperança após o fracasso ou más notícias.",
-    "example": "O time perdedor saiu de campo abatido e desanimado.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
+    "meaning": "Drooping head and dejected spirit",
+    "metaphoric_meaning": "Dejected; dispirited",
+    "description": "This idiom describes the physical posture of dejection - head (头) drooping (垂) and spirit (气) lost (丧). The phrase captures how emotional states manifest in body language, reflecting the traditional Chinese understanding of mind-body unity. It appears in Tang Dynasty literature describing defeated warriors and disappointed scholars. The vivid physical imagery makes the emotional state instantly recognizable. Modern usage describes anyone in a state of discouragement, disappointment, or demoralization after failure or bad news.",
+    "example": "After losing the championship, the team left the field dejected.",
+    "chineseExample": "输掉冠军赛后，队员们垂头丧气地离开了球场。",
     "theme": "Life Philosophy"
   },
   {
@@ -7505,15 +7766,15 @@
     "theme": "Strategy & Action"
   },
   {
-    "id": "ID639",
+    "id": "ID440",
     "characters": "势如破竹",
     "pinyin": "shì rú pò zhú",
     "meaning": "Momentum like splitting bamboo",
-    "metaphoric_meaning": "Have irresistible momentum; sweep all before one",
-    "description": "This idiom describes momentum (势) like (如) splitting (破) bamboo (竹). When bamboo is split, the crack runs easily down the length. The phrase captures unstoppable momentum where each success makes the next easier. Modern usage describes winning streaks and momentum-driven success, situations where progress becomes increasingly easy as barriers fall.",
-    "example": "Once they gained momentum, nothing could stop their advance.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
+    "metaphoric_meaning": "Irresistible momentum; sweeping advance",
+    "description": "This idiom comes from the Jin Dynasty general Du Yu, who compared his army's advance to splitting bamboo (破竹) - once the first section splits, the rest follows effortlessly. The phrase captures the physics of bamboo: initial resistance gives way to cascading momentum. It describes unstoppable progress where each success makes the next easier. Originally military, it evolved to describe any endeavor gaining irresistible momentum. Modern usage describes winning streaks, rapid business expansion, or any situation where success builds upon success.",
+    "example": "The army advanced rapidly, meeting little resistance.",
+    "chineseExample": "军队势如破竹，几乎没有遇到抵抗。",
+    "theme": "Strategy & Action"
   },
   {
     "id": "ID640",
@@ -7582,15 +7843,15 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID646",
+    "id": "ID436",
     "characters": "一帆风顺",
     "pinyin": "yī fān fēng shùn",
-    "meaning": "One sail, wind favorable",
-    "metaphoric_meaning": "Plain sailing; everything going smoothly",
-    "description": "This idiom describes one (一) sail (帆) with favorable (顺) wind (风). It depicts a sailing voyage blessed with perfect winds requiring no struggle. The phrase is a common blessing wishing smooth progress. Modern usage wishes someone easy success, a life or endeavor free from obstacles, where everything goes smoothly.",
-    "example": "May your journey through life be smooth and successful.",
-    "chineseExample": "愿你的人生一帆风顺。",
-    "theme": "Life Philosophy"
+    "meaning": "One sail with favorable wind",
+    "metaphoric_meaning": "Smooth sailing; everything going well",
+    "description": "This idiom depicts a sailing vessel with one (一) sail (帆) catching favorable (顺) wind (风), moving smoothly toward its destination. It emerged from China's rich maritime history, particularly during the Song Dynasty when seafaring commerce flourished. The image of effortless progress powered by natural forces became a popular blessing for journeys and ventures. While literally about sea travel, it metaphorically wishes success without obstacles. Modern usage serves as a common blessing for new endeavors, graduations, and life transitions.",
+    "example": "We wish you smooth sailing in your new career.",
+    "chineseExample": "祝你在新的职业生涯中一帆风顺。",
+    "theme": "Success & Perseverance"
   },
   {
     "id": "ID647",
@@ -7976,280 +8237,5 @@
     "example": "A intrincada escultura de jade parecia quase divinamente trabalhada.",
     "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Without speaking yet understood",
-    "metaphoric_meaning": "Self-evident; goes without saying",
-    "description": "This idiom expresses that something is so obvious it doesn't need (不) words (言) yet (而) is understood (喻). It appears in the Confucian classic 'Mencius,' emphasizing truths so fundamental they require no explanation. The phrase reflects the Chinese philosophical tradition valuing implicit understanding over explicit statement. Confucius himself favored teaching through example rather than extensive explanation. Modern usage describes self-evident truths, obvious conclusions, or situations where the meaning is crystal clear without elaboration.",
-    "example": "The importance of education is self-evident in today's world.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID433",
-    "characters": "理所当然",
-    "pinyin": "lǐ suǒ dāng rán",
-    "meaning": "What reason dictates as natural",
-    "metaphoric_meaning": "Naturally; as a matter of course",
-    "description": "This idiom combines 'according to reason' (理所) with 'naturally so' (当然) to express what logic and propriety dictate as obvious or appropriate. The concept of 'li' (理) in Neo-Confucian philosophy represents the rational principle underlying all things. The phrase suggests alignment between expectation and cosmic order. It appeared in Song Dynasty philosophical texts discussing moral imperatives. Modern usage can express either genuine natural logic or, sometimes critically, assumptions that may actually warrant questioning.",
-    "example": "It's only natural that hard work leads to success.",
-    "chineseExample": "努力工作会带来成功，这是理所当然的。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID434",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Drooping head and dejected spirit",
-    "metaphoric_meaning": "Dejected; dispirited",
-    "description": "This idiom describes the physical posture of dejection - head (头) drooping (垂) and spirit (气) lost (丧). The phrase captures how emotional states manifest in body language, reflecting the traditional Chinese understanding of mind-body unity. It appears in Tang Dynasty literature describing defeated warriors and disappointed scholars. The vivid physical imagery makes the emotional state instantly recognizable. Modern usage describes anyone in a state of discouragement, disappointment, or demoralization after failure or bad news.",
-    "example": "After losing the championship, the team left the field dejected.",
-    "chineseExample": "输掉冠军赛后，队员们垂头丧气地离开了球场。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID435",
-    "characters": "意想不到",
-    "pinyin": "yì xiǎng bù dào",
-    "meaning": "Mind imagines not reaching",
-    "metaphoric_meaning": "Unexpected; unforeseen",
-    "description": "This idiom describes something that one's thoughts (意想) could not (不) reach or anticipate (到). The phrase emphasizes the limits of imagination when confronted with surprising reality. It emerged in vernacular literature during the Ming Dynasty to describe plot twists and unexpected events. The structure suggests that what occurred was beyond the boundaries of what could reasonably be imagined. Modern usage commonly describes surprises, unexpected developments, or outcomes that defied all predictions.",
-    "example": "The plot twist was completely unexpected.",
-    "chineseExample": "剧情的反转完全意想不到。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID436",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "One sail with favorable wind",
-    "metaphoric_meaning": "Smooth sailing; everything going well",
-    "description": "This idiom depicts a sailing vessel with one (一) sail (帆) catching favorable (顺) wind (风), moving smoothly toward its destination. It emerged from China's rich maritime history, particularly during the Song Dynasty when seafaring commerce flourished. The image of effortless progress powered by natural forces became a popular blessing for journeys and ventures. While literally about sea travel, it metaphorically wishes success without obstacles. Modern usage serves as a common blessing for new endeavors, graduations, and life transitions.",
-    "example": "We wish you smooth sailing in your new career.",
-    "chineseExample": "祝你在新的职业生涯中一帆风顺。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID437",
-    "characters": "左右为难",
-    "pinyin": "zuǒ yòu wéi nán",
-    "meaning": "Left and right both difficult",
-    "metaphoric_meaning": "In a dilemma; caught between difficulties",
-    "description": "This idiom describes being in difficulty (为难) whether going left (左) or right (右), trapped between two equally problematic choices. The spatial metaphor of being stuck between opposing directions vividly captures the experience of dilemmas. The phrase appeared in historical texts describing officials caught between conflicting loyalties or commanders facing impossible tactical situations. It embodies situations where every option carries significant costs. Modern usage describes any predicament where all available choices present serious difficulties.",
-    "example": "He was caught in a dilemma, unable to please either side.",
-    "chineseExample": "他左右为难，无法让双方都满意。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID438",
-    "characters": "百思不解",
-    "pinyin": "bǎi sī bù jiě",
-    "meaning": "Think a hundred times still not understand",
-    "metaphoric_meaning": "Unable to understand despite much thought",
-    "description": "This idiom describes thinking (思) a hundred times (百) yet still not (不) understanding (解), expressing puzzlement that persists despite extensive contemplation. The number 'hundred' suggests numerous attempts rather than a literal count. The phrase emerged in literary contexts describing mysteries and paradoxes that resist rational explanation. It captures the frustration of encountering something genuinely incomprehensible. Modern usage describes confusion about decisions, behaviors, or events that defy logical explanation.",
-    "example": "No matter how much she thought about it, she couldn't understand his decision.",
-    "chineseExample": "无论她怎么想，都对他的决定百思不解。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID439",
-    "characters": "自告奋勇",
-    "pinyin": "zì gào fèn yǒng",
-    "meaning": "Self-recommend with vigor and courage",
-    "metaphoric_meaning": "Volunteer bravely; step forward willingly",
-    "description": "This idiom describes volunteering (自告) with vigor (奋) and courage (勇), emphasizing initiative and bravery in stepping forward. The phrase combines self-nomination with the qualities needed to follow through. It appeared in historical texts describing brave soldiers or officials who volunteered for dangerous missions. The idiom values proactive contribution over passive waiting. Modern usage praises those who voluntarily take on challenges, especially difficult or risky ones that others avoid.",
-    "example": "She volunteered to lead the difficult project.",
-    "chineseExample": "她自告奋勇，主动承担这个困难的项目。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID440",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "Momentum like splitting bamboo",
-    "metaphoric_meaning": "Irresistible momentum; sweeping advance",
-    "description": "This idiom comes from the Jin Dynasty general Du Yu, who compared his army's advance to splitting bamboo (破竹) - once the first section splits, the rest follows effortlessly. The phrase captures the physics of bamboo: initial resistance gives way to cascading momentum. It describes unstoppable progress where each success makes the next easier. Originally military, it evolved to describe any endeavor gaining irresistible momentum. Modern usage describes winning streaks, rapid business expansion, or any situation where success builds upon success.",
-    "example": "The army advanced rapidly, meeting little resistance.",
-    "chineseExample": "军队势如破竹，几乎没有遇到抵抗。",
-    "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID441",
-    "characters": "弄巧成拙",
-    "pinyin": "nòng qiǎo chéng zhuō",
-    "meaning": "Playing clever becomes clumsy",
-    "metaphoric_meaning": "Outsmart oneself; cleverness backfiring",
-    "description": "This idiom describes how attempting (弄) to be clever (巧) results (成) in clumsiness (拙). It captures the irony of sophisticated plans that backfire, producing worse outcomes than simple approaches would have. The phrase appeared in Song Dynasty texts criticizing officials whose intricate schemes created problems. It warns against overcomplication and excessive cleverness. Modern usage describes situations where attempts to be smart or sophisticated produce counterproductive results, often through trying too hard or overthinking.",
-    "example": "His elaborate excuse backfired and made things worse.",
-    "chineseExample": "他精心编造的借口弄巧成拙，让事情变得更糟。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID442",
-    "characters": "明知故犯",
-    "pinyin": "míng zhī gù fàn",
-    "meaning": "Clearly know yet deliberately violate",
-    "metaphoric_meaning": "Knowingly commit a violation",
-    "description": "This idiom describes clearly knowing (明知) something is wrong yet deliberately (故) doing it anyway (犯). The phrase emphasizes the moral culpability that comes from conscious choice rather than ignorance. It appears in legal and ethical texts from the Tang Dynasty distinguishing intentional violations from innocent mistakes. The aggravating factor of awareness makes such transgressions more serious than errors from ignorance. Modern usage describes willful disregard of rules, advice, or moral standards when the person clearly knows better.",
-    "example": "He knowingly broke the rules despite understanding the consequences.",
-    "chineseExample": "尽管知道后果，他还是明知故犯。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID443",
-    "characters": "触景生情",
-    "pinyin": "chù jǐng shēng qíng",
-    "meaning": "Touching scenery produces feelings",
-    "metaphoric_meaning": "Moved by the sight of something familiar",
-    "description": "This idiom describes how encountering (触) a scene (景) can produce (生) emotions (情). It captures the powerful connection between places, objects, and emotional memory. The phrase appeared in Tang Dynasty poetry theory explaining how poets drew inspiration from their surroundings. Chinese aesthetics has long valued this responsiveness to environment as essential to artistic sensitivity. Modern usage describes being moved by revisiting meaningful places, encountering nostalgic objects, or any situation where external stimuli awaken deep feelings.",
-    "example": "Returning to his childhood home stirred deep emotions within him.",
-    "chineseExample": "回到儿时的家乡让他触景生情。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID444",
-    "characters": "一往无前",
-    "pinyin": "yī wǎng wú qián",
-    "meaning": "Once going, nothing ahead can stop",
-    "metaphoric_meaning": "Press forward courageously",
-    "description": "This idiom describes advancing (往) with single-minded determination, with nothing (无) able to block the way ahead (前). The character 一 emphasizes unwavering focus. The phrase emerged from military contexts describing troops whose morale made them unstoppable. It embodies the ideal of commitment so complete that obstacles become irrelevant. The phrase gained revolutionary significance in modern Chinese history. Modern usage celebrates courageous advancement toward goals despite difficulties, emphasizing determination over calculation of odds.",
-    "example": "With determination, they pushed forward regardless of obstacles.",
-    "chineseExample": "他们怀着坚定的决心一往无前。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID445",
-    "characters": "恍如隔世",
-    "pinyin": "huǎng rú gé shì",
-    "meaning": "Dimly as if separated by lifetimes",
-    "metaphoric_meaning": "Feeling as if ages have passed",
-    "description": "This idiom describes the disorienting feeling of being dimly (恍) as if (如) separated (隔) by different lifetimes or eras (世). It captures the profound sense of discontinuity when change makes the past seem impossibly distant. The phrase appeared in literary texts describing characters awakening from long dreams or returning after extended absences. It draws on Buddhist concepts of multiple lifetimes and the impermanence of all things. Modern usage describes experiencing dramatic change that makes previous times feel like another existence entirely.",
-    "example": "Returning after twenty years, the changes made him feel as if ages had passed.",
-    "chineseExample": "二十年后归来，这些变化让他恍如隔世。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID446",
-    "characters": "滔滔不绝",
-    "pinyin": "tāo tāo bù jué",
-    "meaning": "Surging waves never ceasing",
-    "metaphoric_meaning": "Talk endlessly; speak at great length",
-    "description": "This idiom uses the image of surging (滔滔) waves that never (不) cease (绝) to describe continuous, flowing speech. The reduplicated 'taotao' evokes the sound and rhythm of rushing water. The phrase appeared in classical texts describing eloquent orators whose words flowed like rivers. While it can praise eloquence, it often carries connotations of excessive talkativeness or inability to stop speaking. Modern usage describes someone who talks at length, either admiringly for skilled speakers or critically for those who dominate conversations.",
-    "example": "Once he started talking about his hobby, he went on endlessly.",
-    "chineseExample": "一旦开始谈论他的爱好，他就滔滔不绝。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID447",
-    "characters": "相辅相成",
-    "pinyin": "xiāng fǔ xiāng chéng",
-    "meaning": "Mutually assist mutually complete",
-    "metaphoric_meaning": "Complement each other; mutually beneficial",
-    "description": "This idiom describes things that mutually (相) support (辅) and mutually (相) complete (成) each other. The phrase reflects the Chinese philosophical understanding of complementary opposites and dynamic balance. It emerged from discussions of governance in classical texts, describing how different elements work together for optimal results. Unlike Western notions of independence, this concept emphasizes productive interdependence. Modern usage describes synergistic relationships where elements strengthen each other through interaction.",
-    "example": "Theory and practice complement and enhance each other.",
-    "chineseExample": "理论与实践相辅相成。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID448",
-    "characters": "事与愿违",
-    "pinyin": "shì yǔ yuàn wéi",
-    "meaning": "Events contrary to wishes",
-    "metaphoric_meaning": "Things turn out contrary to expectations",
-    "description": "This idiom describes when events (事) go contrary (违) to one's wishes (愿). It captures the frustration when reality diverges from intentions despite best efforts. The phrase appears in Tang Dynasty poetry expressing disappointment and the gap between aspiration and outcome. It reflects the philosophical recognition that the world operates independently of human desires. Modern usage describes situations where results contradict plans or expectations, acknowledging the limits of human control over circumstances.",
-    "example": "Despite careful planning, things didn't turn out as hoped.",
-    "chineseExample": "尽管精心计划，结果却事与愿违。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID449",
-    "characters": "虚惊一场",
-    "pinyin": "xū jīng yī chǎng",
-    "meaning": "Empty fright for nothing",
-    "metaphoric_meaning": "False alarm; scare for nothing",
-    "description": "This idiom describes a false (虚) alarm or scare (惊) that amounts to nothing (一场). The character 场 suggests a theatrical event - the drama that turns out to have no substance. The phrase captures the relief mixed with embarrassment of unnecessary fear. It appeared in Ming Dynasty literature describing dramatic situations resolved harmlessly. Modern usage describes any situation where fear or worry proves unfounded, from medical scares to suspected dangers that turn out to be benign.",
-    "example": "The suspicious package turned out to be harmless - just a false alarm.",
-    "chineseExample": "可疑包裹原来是无害的——虚惊一场。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID450",
-    "characters": "息息相关",
-    "pinyin": "xī xī xiāng guān",
-    "meaning": "Breath to breath mutually connected",
-    "metaphoric_meaning": "Closely related; intimately connected",
-    "description": "This idiom describes being connected breath (息) to breath (息), mutually (相) related (关). The breathing metaphor suggests connection as intimate as shared respiration, where one cannot survive without the other. The phrase emphasizes interdependence so close that changes in one immediately affect the other. It reflects the Chinese philosophical view of universal interconnection. Modern usage commonly describes tightly linked phenomena, policies, or outcomes where impact flows bidirectionally.",
-    "example": "Environmental protection is closely linked to public health.",
-    "chineseExample": "环境保护与公众健康息息相关。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID451",
-    "characters": "千变万化",
-    "pinyin": "qiān biàn wàn huà",
-    "meaning": "Thousand changes ten thousand transformations",
-    "metaphoric_meaning": "Ever-changing; constantly varying",
-    "description": "This idiom uses the large numbers 'thousand' (千) and 'ten thousand' (万) with 'change' (变) and 'transform' (化) to describe constant flux. The hyperbolic numbers emphasize the endless variety of transformations. The phrase reflects Daoist philosophy regarding the ceaseless change underlying apparent stability. It appears in texts describing nature, military situations, and human affairs. Modern usage describes highly variable or unpredictable situations, from weather patterns to market conditions to rapidly evolving technologies.",
-    "example": "The stock market's constant fluctuations are hard to predict.",
-    "chineseExample": "股市千变万化，难以预测。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID452",
-    "characters": "轻而易举",
-    "pinyin": "qīng ér yì jǔ",
-    "meaning": "Light and easy to lift",
-    "metaphoric_meaning": "Easy; effortless",
-    "description": "This idiom describes something so light (轻) that it can be easily (易) lifted (举). The physical image of effortless lifting translates to any task accomplished without difficulty. The phrase appeared in classical texts praising skilled individuals for whom complex tasks seemed simple. It emphasizes the relationship between expertise and apparent ease. Modern usage describes tasks that are simple, either inherently or due to the skill of the person performing them, often used to express that something poses no challenge.",
-    "example": "For an expert, solving this problem was effortless.",
-    "chineseExample": "对于专家来说，解决这个问题轻而易举。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID453",
-    "characters": "风靡一时",
-    "pinyin": "fēng mǐ yī shí",
-    "meaning": "Wind bending grass for a time",
-    "metaphoric_meaning": "Extremely popular for a time",
-    "description": "This idiom uses the image of wind (风) bending (靡) grass for a period (一时) to describe widespread popularity. The metaphor of grass uniformly bending before wind captures how trends sweep through populations. The phrase acknowledges that such popularity, while impressive, is typically temporary. It appeared in historical texts describing fashions and fads in different eras. Modern usage describes phenomena that achieve massive but often short-lived popularity, from songs to products to ideas.",
-    "example": "That song was hugely popular for a season.",
-    "chineseExample": "那首歌曾风靡一时。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID454",
-    "characters": "扬长避短",
-    "pinyin": "yáng cháng bì duǎn",
-    "meaning": "Promote strengths avoid weaknesses",
-    "metaphoric_meaning": "Play to one's strengths",
-    "description": "This idiom advises promoting (扬) one's strengths (长) while avoiding (避) weaknesses (短). The phrase embodies practical wisdom about focusing on advantages rather than obsessing over deficiencies. It appeared in texts on governance and military strategy, advising leaders to deploy resources strategically. The concept aligns with both competitive strategy and personal development. Modern usage emphasizes practical self-awareness in career planning, team management, and strategic positioning.",
-    "example": "Good management means leveraging everyone's strengths while minimizing weaknesses.",
-    "chineseExample": "好的管理意味着扬长避短，发挥每个人的优势。",
-    "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID455",
-    "characters": "深入浅出",
-    "pinyin": "shēn rù qiǎn chū",
-    "meaning": "Enter deep come out shallow",
-    "metaphoric_meaning": "Explain profound ideas in simple terms",
-    "description": "This idiom describes entering (入) deeply (深) into a subject but coming out (出) with shallow/accessible (浅) explanations. It praises the ability to understand profound matters thoroughly yet communicate them simply. The phrase values the pedagogical skill of making the complex accessible without oversimplifying. It appears in texts evaluating scholars and teachers. Modern usage highly praises educators, writers, and communicators who can translate expertise into clear, understandable content.",
-    "example": "A great teacher explains complex concepts in simple terms.",
-    "chineseExample": "好老师能够深入浅出地讲解复杂概念。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID456",
-    "characters": "一览无余",
-    "pinyin": "yī lǎn wú yú",
-    "meaning": "One glance nothing remaining",
-    "metaphoric_meaning": "Take in everything at a glance",
-    "description": "This idiom describes being able to see everything in one (一) glance (览) with nothing (无) remaining hidden (余). The phrase appeared in classical landscape descriptions praising expansive vistas. It captures the clarity and completeness of unobstructed vision. Beyond physical scenery, it can describe situations where everything is transparent and easily understood. Modern usage describes panoramic views, comprehensive understanding, or situations where nothing is hidden from observation.",
-    "example": "From the mountaintop, the entire valley was visible at a glance.",
-    "chineseExample": "从山顶上，整个山谷一览无余。",
-    "theme": "Life Philosophy"
   }
 ]
