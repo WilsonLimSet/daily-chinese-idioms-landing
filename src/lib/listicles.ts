@@ -548,6 +548,220 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID015', 'ID084', 'ID255', 'ID009', 'ID102', 'ID134', 'ID042', 'ID234', 'ID033', 'ID200', 'ID074', 'ID114'],
     category: 'Popular',
     publishedDate: '2025-03-01'
+  },
+  // === PROGRAMMATIC LISTICLES: Animals & Zodiac ===
+  {
+    slug: 'chinese-idioms-with-dragon',
+    title: '8 Powerful Chinese Idioms With Dragon (龙)',
+    description: 'Discover Chinese idioms featuring the dragon (龙), a symbol of power, luck, and imperial authority in Chinese culture.',
+    metaDescription: 'Learn 8 powerful Chinese idioms with dragon (龙). These chengyu represent strength, success, and good fortune - perfect for Chinese New Year and celebrations.',
+    keywords: ['chinese idioms with dragon', 'dragon chengyu', '龙 idioms', 'chinese dragon sayings', 'year of the dragon idioms'],
+    intro: 'The dragon (龙, lóng) is the most revered creature in Chinese mythology, symbolizing power, strength, and good fortune. These idioms featuring the dragon are especially popular during Chinese New Year and celebrations.',
+    idiomIds: ['ID025', 'ID262', 'ID271', 'ID294', 'ID375', 'ID431'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-01'
+  },
+  {
+    slug: 'chinese-idioms-with-tiger',
+    title: '10 Fierce Chinese Idioms With Tiger (虎)',
+    description: 'Explore powerful Chinese idioms featuring the tiger (虎), representing courage, power, and authority.',
+    metaDescription: 'Discover 10 fierce Chinese idioms with tiger (虎). Learn chengyu about courage, power, and authority - essential for the Year of the Tiger.',
+    keywords: ['chinese idioms with tiger', 'tiger chengyu', '虎 idioms', 'chinese tiger sayings', 'year of the tiger idioms'],
+    intro: 'The tiger (虎, hǔ) represents courage, power, and authority in Chinese culture. Known as the king of beasts, tiger idioms often describe bravery, danger, or formidable opponents.',
+    idiomIds: ['ID042', 'ID130', 'ID131', 'ID253', 'ID278', 'ID284', 'ID375', 'ID377', 'ID550'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-02'
+  },
+  {
+    slug: 'chinese-idioms-with-horse',
+    title: '12 Chinese Idioms With Horse (马) for Success',
+    description: 'Master Chinese idioms featuring the horse (马), symbolizing speed, success, and perseverance.',
+    metaDescription: 'Learn 12 Chinese idioms with horse (马). These chengyu represent success, speed, and determination - great for Year of the Horse celebrations.',
+    keywords: ['chinese idioms with horse', 'horse chengyu', '马 idioms', 'chinese horse sayings', 'year of the horse idioms', 'ma dao cheng gong'],
+    intro: 'The horse (马, mǎ) symbolizes speed, success, and perseverance in Chinese culture. Horse idioms are particularly popular for wishing success in new ventures.',
+    idiomIds: ['ID018', 'ID093', 'ID116', 'ID133', 'ID192', 'ID195', 'ID202', 'ID208', 'ID248', 'ID262', 'ID274', 'ID278'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-03'
+  },
+  {
+    slug: 'chinese-idioms-with-snake',
+    title: '6 Clever Chinese Idioms With Snake (蛇)',
+    description: 'Learn Chinese idioms featuring the snake (蛇), representing wisdom, caution, and hidden dangers.',
+    metaDescription: 'Explore 6 clever Chinese idioms with snake (蛇). These chengyu teach wisdom about caution, hidden dangers, and strategic thinking.',
+    keywords: ['chinese idioms with snake', 'snake chengyu', '蛇 idioms', 'chinese snake sayings', 'year of the snake idioms'],
+    intro: 'The snake (蛇, shé) represents wisdom, caution, and sometimes hidden danger in Chinese culture. These idioms often teach valuable lessons about awareness and strategy.',
+    idiomIds: ['ID079', 'ID135', 'ID377'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-04'
+  },
+  {
+    slug: 'chinese-idioms-with-ox',
+    title: '8 Strong Chinese Idioms With Ox (牛)',
+    description: 'Discover Chinese idioms featuring the ox (牛), symbolizing hard work, strength, and determination.',
+    metaDescription: 'Learn 8 strong Chinese idioms with ox (牛). These chengyu celebrate hard work, perseverance, and quiet strength.',
+    keywords: ['chinese idioms with ox', 'ox chengyu', '牛 idioms', 'chinese ox sayings', 'year of the ox idioms'],
+    intro: 'The ox (牛, niú) symbolizes hard work, strength, and determination in Chinese culture. Ox idioms celebrate diligence and steady progress.',
+    idiomIds: ['ID100', 'ID147', 'ID200', 'ID269', 'ID383'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-05'
+  },
+  // === PROGRAMMATIC LISTICLES: Body & Mind ===
+  {
+    slug: 'chinese-idioms-with-heart-xin',
+    title: '15 Heartfelt Chinese Idioms With Heart (心)',
+    description: 'Explore Chinese idioms featuring the heart (心), expressing emotions, intentions, and inner feelings.',
+    metaDescription: 'Discover 15 Chinese idioms with heart (心). Learn chengyu about emotions, sincerity, determination, and the depths of human feeling.',
+    keywords: ['chinese idioms with heart', 'heart chengyu', '心 idioms', 'chinese heart expressions', 'xin idioms'],
+    intro: 'The heart (心, xīn) in Chinese represents not just emotions but also the mind, intentions, and core of a person. These idioms express the full range of human feeling and determination.',
+    idiomIds: ['ID008', 'ID136', 'ID151', 'ID166', 'ID183', 'ID208', 'ID256', 'ID313', 'ID316', 'ID318', 'ID340', 'ID393', 'ID398', 'ID403', 'ID409'],
+    category: 'Body & Mind',
+    publishedDate: '2025-02-06'
+  },
+  {
+    slug: 'chinese-idioms-with-eye',
+    title: '10 Insightful Chinese Idioms With Eye (目/眼)',
+    description: 'Learn Chinese idioms featuring the eye (目/眼), about vision, perception, and understanding.',
+    metaDescription: 'Master 10 Chinese idioms with eye (目/眼). These chengyu teach about vision, insight, perception, and seeing the truth clearly.',
+    keywords: ['chinese idioms with eye', 'eye chengyu', '目 idioms', '眼 idioms', 'chinese eye expressions'],
+    intro: 'The eye (目, mù or 眼, yǎn) in Chinese idioms represents vision, insight, and understanding. These expressions teach about perception and seeing truth beyond appearances.',
+    idiomIds: ['ID072', 'ID110', 'ID147', 'ID153', 'ID214', 'ID219', 'ID223', 'ID266', 'ID336', 'ID395'],
+    category: 'Body & Mind',
+    publishedDate: '2025-02-07'
+  },
+  {
+    slug: 'chinese-idioms-with-hand',
+    title: '10 Handy Chinese Idioms With Hand (手)',
+    description: 'Master Chinese idioms featuring the hand (手), about skill, action, and capability.',
+    metaDescription: 'Learn 10 Chinese idioms with hand (手). These chengyu describe skills, taking action, and the power of doing.',
+    keywords: ['chinese idioms with hand', 'hand chengyu', '手 idioms', 'chinese hand expressions'],
+    intro: 'The hand (手, shǒu) in Chinese idioms represents action, skill, and capability. These expressions describe expertise, taking initiative, and the relationship between intention and action.',
+    idiomIds: ['ID170', 'ID185', 'ID207', 'ID219', 'ID299', 'ID317', 'ID334', 'ID405', 'ID482', 'ID515'],
+    category: 'Body & Mind',
+    publishedDate: '2025-02-08'
+  },
+  // === PROGRAMMATIC LISTICLES: Numbers ===
+  {
+    slug: 'chinese-idioms-with-number-one',
+    title: '15 Chinese Idioms With Number One (一)',
+    description: 'Discover Chinese idioms featuring the number one (一), symbolizing unity, singularity, and completeness.',
+    metaDescription: 'Learn 15 Chinese idioms with number one (一). These chengyu express unity, wholeness, consistency, and being the best.',
+    keywords: ['chinese idioms with one', 'number one chengyu', '一 idioms', 'chinese number idioms', 'yi idioms'],
+    intro: 'The number one (一, yī) in Chinese represents unity, singularity, and completeness. These idioms often express wholeness, consistency, or being singular in purpose.',
+    idiomIds: ['ID001', 'ID004', 'ID006', 'ID007', 'ID010', 'ID034', 'ID057', 'ID065', 'ID072', 'ID086', 'ID097', 'ID122', 'ID141', 'ID157', 'ID188'],
+    category: 'Numbers',
+    publishedDate: '2025-02-09'
+  },
+  {
+    slug: 'chinese-idioms-with-number-three',
+    title: '10 Chinese Idioms With Number Three (三)',
+    description: 'Learn Chinese idioms featuring the number three (三), a number of completeness and multiplicity.',
+    metaDescription: 'Discover 10 Chinese idioms with number three (三). Learn chengyu about repetition, multiplicity, and the power of three.',
+    keywords: ['chinese idioms with three', 'number three chengyu', '三 idioms', 'chinese number idioms', 'san idioms'],
+    intro: 'The number three (三, sān) represents completeness and multiplicity in Chinese culture. In idioms, three often means "many" or emphasizes repetition and thoroughness.',
+    idiomIds: ['ID007', 'ID010', 'ID039', 'ID112', 'ID131', 'ID171', 'ID206', 'ID247', 'ID250', 'ID353'],
+    category: 'Numbers',
+    publishedDate: '2025-02-10'
+  },
+  {
+    slug: 'chinese-idioms-with-number-eight',
+    title: '8 Lucky Chinese Idioms With Number Eight (八)',
+    description: 'Explore auspicious Chinese idioms featuring eight (八), the luckiest number in Chinese culture.',
+    metaDescription: 'Learn 8 lucky Chinese idioms with number eight (八). Discover why 8 is the luckiest number and how it appears in classic chengyu.',
+    keywords: ['chinese idioms with eight', 'number eight chengyu', '八 idioms', 'lucky chinese idioms', 'ba idioms'],
+    intro: 'The number eight (八, bā) is considered the luckiest number in Chinese culture because it sounds like "prosperity" (发, fā). These idioms featuring eight carry special significance.',
+    idiomIds: ['ID220', 'ID308', 'ID317', 'ID319', 'ID322', 'ID376', 'ID384', 'ID388'],
+    category: 'Numbers',
+    publishedDate: '2025-02-11'
+  },
+  // === PROGRAMMATIC LISTICLES: Nature ===
+  {
+    slug: 'chinese-idioms-about-wind',
+    title: '12 Chinese Idioms About Wind (风)',
+    description: 'Master Chinese idioms featuring wind (风), symbolizing change, influence, and natural forces.',
+    metaDescription: 'Discover 12 Chinese idioms about wind (风). Learn chengyu about change, reputation, speed, and the forces of nature.',
+    keywords: ['chinese idioms about wind', 'wind chengyu', '风 idioms', 'chinese wind expressions', 'feng idioms'],
+    intro: 'Wind (风, fēng) in Chinese idioms represents change, influence, reputation, and natural forces. These expressions describe everything from swift action to social trends.',
+    idiomIds: ['ID035', 'ID040', 'ID046', 'ID054', 'ID064', 'ID127', 'ID187', 'ID203', 'ID264', 'ID265', 'ID327', 'ID342'],
+    category: 'Nature',
+    publishedDate: '2025-02-12'
+  },
+  {
+    slug: 'chinese-idioms-about-water',
+    title: '12 Flowing Chinese Idioms About Water (水)',
+    description: 'Learn Chinese idioms featuring water (水), embodying adaptability, purity, and life force.',
+    metaDescription: 'Master 12 Chinese idioms about water (水). These chengyu teach wisdom about adaptability, persistence, and the flow of life.',
+    keywords: ['chinese idioms about water', 'water chengyu', '水 idioms', 'chinese water expressions', 'shui idioms'],
+    intro: 'Water (水, shuǐ) embodies adaptability, persistence, and life itself in Chinese philosophy. Inspired by Taoist teachings, these idioms reveal profound wisdom about going with the flow.',
+    idiomIds: ['ID009', 'ID019', 'ID026', 'ID076', 'ID104', 'ID113', 'ID134', 'ID172', 'ID196', 'ID227', 'ID311', 'ID382'],
+    category: 'Nature',
+    publishedDate: '2025-02-13'
+  },
+  {
+    slug: 'chinese-idioms-about-mountain',
+    title: '10 Majestic Chinese Idioms About Mountains (山)',
+    description: 'Explore Chinese idioms featuring mountains (山), symbolizing stability, challenges, and grandeur.',
+    metaDescription: 'Learn 10 Chinese idioms about mountains (山). These chengyu describe stability, overcoming challenges, and the majesty of nature.',
+    keywords: ['chinese idioms about mountain', 'mountain chengyu', '山 idioms', 'chinese mountain expressions', 'shan idioms'],
+    intro: 'Mountains (山, shān) represent stability, challenges, and eternal grandeur in Chinese culture. These idioms draw on mountain imagery to express perseverance and perspective.',
+    idiomIds: ['ID117', 'ID196', 'ID233', 'ID255', 'ID305', 'ID354', 'ID428', 'ID499', 'ID627', 'ID628'],
+    category: 'Nature',
+    publishedDate: '2025-02-14'
+  },
+  {
+    slug: 'chinese-idioms-about-fire',
+    title: '10 Fiery Chinese Idioms About Fire (火)',
+    description: 'Discover Chinese idioms featuring fire (火), representing passion, urgency, and transformation.',
+    metaDescription: 'Master 10 Chinese idioms about fire (火). Learn chengyu about passion, anger, urgency, and the transformative power of fire.',
+    keywords: ['chinese idioms about fire', 'fire chengyu', '火 idioms', 'chinese fire expressions', 'huo idioms'],
+    intro: 'Fire (火, huǒ) represents passion, urgency, anger, and transformation in Chinese culture. These idioms capture the intensity and power of fire in human experience.',
+    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544', 'ID671'],
+    category: 'Nature',
+    publishedDate: '2025-02-15'
+  },
+  {
+    slug: 'chinese-idioms-about-sky-heaven',
+    title: '12 Chinese Idioms About Sky & Heaven (天)',
+    description: 'Learn Chinese idioms featuring sky/heaven (天), representing the divine, fate, and limitless possibility.',
+    metaDescription: 'Discover 12 Chinese idioms about sky and heaven (天). These chengyu explore fate, divine providence, and boundless potential.',
+    keywords: ['chinese idioms about sky', 'heaven chengyu', '天 idioms', 'chinese heaven expressions', 'tian idioms'],
+    intro: 'The sky/heaven (天, tiān) represents the divine order, fate, and limitless possibility in Chinese thought. These idioms explore the relationship between humans and the cosmos.',
+    idiomIds: ['ID014', 'ID094', 'ID175', 'ID197', 'ID211', 'ID251', 'ID352', 'ID385', 'ID400', 'ID485', 'ID510', 'ID607'],
+    category: 'Nature',
+    publishedDate: '2025-02-16'
+  },
+  // === PROGRAMMATIC LISTICLES: Occasions ===
+  {
+    slug: 'chinese-idioms-for-new-year',
+    title: '15 Auspicious Chinese Idioms for New Year Wishes',
+    description: 'Master the best Chinese idioms for New Year greetings, blessings, and celebrations.',
+    metaDescription: 'Learn 15 auspicious Chinese idioms for New Year. Perfect chengyu for CNY greetings, red envelopes, and holiday wishes.',
+    keywords: ['chinese new year idioms', 'cny greetings chengyu', 'lunar new year phrases', 'chinese new year wishes', 'spring festival idioms'],
+    intro: 'Chinese New Year is the perfect time to use auspicious idioms (吉祥成语). These expressions bring good fortune, prosperity, and happiness - ideal for greetings and red envelope messages.',
+    idiomIds: ['ID154', 'ID307', 'ID436'],
+    category: 'Occasions',
+    publishedDate: '2025-02-17'
+  },
+  {
+    slug: 'chinese-idioms-for-weddings',
+    title: '10 Romantic Chinese Idioms for Weddings & Marriage',
+    description: 'Beautiful Chinese idioms perfect for wedding wishes, toasts, and celebrating love.',
+    metaDescription: 'Discover 10 romantic Chinese idioms for weddings. Perfect chengyu for wedding wishes, invitations, and celebrating eternal love.',
+    keywords: ['chinese wedding idioms', 'marriage chengyu', 'wedding wishes chinese', 'romantic chinese sayings', 'love idioms chinese'],
+    intro: 'Chinese weddings traditionally incorporate auspicious idioms (成语) to bless the couple. These expressions wish for eternal love, happiness, and harmony.',
+    idiomIds: ['ID056', 'ID300', 'ID314', 'ID473', 'ID597', 'ID603', 'ID605'],
+    category: 'Occasions',
+    publishedDate: '2025-02-18'
+  },
+  {
+    slug: 'chinese-idioms-for-graduation',
+    title: '10 Inspiring Chinese Idioms for Graduation',
+    description: 'Motivational Chinese idioms perfect for graduation wishes and academic achievements.',
+    metaDescription: 'Learn 10 inspiring Chinese idioms for graduation. Perfect chengyu for wishing success, bright futures, and celebrating academic achievement.',
+    keywords: ['chinese graduation idioms', 'academic success chengyu', 'graduation wishes chinese', 'student idioms', 'achievement chinese sayings'],
+    intro: 'Graduation marks a major milestone in Chinese culture. These idioms celebrate academic achievement and wish graduates success in their future endeavors.',
+    idiomIds: ['ID036', 'ID051', 'ID052', 'ID076', 'ID106', 'ID109', 'ID119', 'ID122', 'ID221', 'ID260'],
+    category: 'Occasions',
+    publishedDate: '2025-02-19'
   }
 ];
 
