@@ -1997,5 +1997,170 @@
     ],
     "category": "General",
     "publishedDate": "2025-02-18"
+  },
+  {
+    "slug": "dak-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-with-rooster",
+    "title": "닭(鸡)이 들어간 8가지 대담한 중국어 관용구",
+    "description": "Explore Chinese idioms featuring the rooster (鸡), representing punctuality, courage, and vigilance.",
+    "metaDescription": "Learn 8 bold Chinese idioms with rooster (鸡). These chengyu celebrate alertness, courage, and the dawn of new beginnings.",
+    "keywords": [
+      "chinese idioms with rooster",
+      "ko idioms"
+    ],
+    "intro": "The rooster (鸡, jī) represents punctuality, courage, and vigilance in Chinese culture. Crowing at dawn, the rooster symbolizes new beginnings and reliability.",
+    "idiomIds": [
+      "ID063",
+      "ID108",
+      "ID312",
+      "ID347",
+      "ID402"
+    ],
+    "category": "동물과 띠",
+    "publishedDate": "2025-02-21"
+  },
+  {
+    "slug": "sae-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-with-bird",
+    "title": "새(鸟)가 들어간 10가지 중국어 관용구",
+    "description": "Explore Chinese idioms featuring birds (鸟), representing freedom, aspiration, and natural beauty.",
+    "metaDescription": "Learn 10 soaring Chinese idioms with bird (鸟). These chengyu celebrate freedom, high aspirations, and the beauty of nature.",
+    "keywords": [
+      "chinese idioms with bird",
+      "ko idioms"
+    ],
+    "intro": "Birds (鸟, niǎo) in Chinese idioms represent freedom, aspiration, and natural beauty. From the phoenix to the crane, bird imagery carries profound cultural meaning.",
+    "idiomIds": [
+      "ID032",
+      "ID034",
+      "ID046",
+      "ID108",
+      "ID126",
+      "ID222",
+      "ID427",
+      "ID527"
+    ],
+    "category": "동물과 띠",
+    "publishedDate": "2025-02-27"
+  },
+  {
+    "slug": "mulgogi-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-with-fish",
+    "title": "물고기(鱼)가 들어간 8가지 중국어 관용구",
+    "description": "Discover Chinese idioms featuring fish (鱼), symbolizing abundance, prosperity, and good fortune.",
+    "metaDescription": "Learn 8 abundant Chinese idioms with fish (鱼). These chengyu bring luck and prosperity - essential for Chinese New Year celebrations.",
+    "keywords": [
+      "chinese idioms with fish",
+      "ko idioms"
+    ],
+    "intro": "Fish (鱼, yú) symbolizes abundance and prosperity in Chinese culture because it sounds like \"surplus\" (余). Fish idioms are especially popular during New Year.",
+    "idiomIds": [
+      "ID113",
+      "ID223",
+      "ID286",
+      "ID341"
+    ],
+    "category": "동물과 띠",
+    "publishedDate": "2025-02-28"
+  },
+  {
+    "slug": "saengil-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-for-birthday",
+    "title": "생일 축하를 위한 10가지 중국어 관용구",
+    "description": "Perfect Chinese idioms for birthday greetings, wishing longevity, happiness, and success.",
+    "metaDescription": "Learn 10 auspicious Chinese idioms for birthday wishes. These chengyu express hopes for longevity, health, and endless blessings.",
+    "keywords": [
+      "chinese idioms for birthday",
+      "ko idioms"
+    ],
+    "intro": "Birthdays in Chinese culture are celebrated with special idioms (成语) wishing longevity, health, and prosperity. These expressions are perfect for cards and toasts.",
+    "idiomIds": [
+      "ID158",
+      "ID173",
+      "ID190",
+      "ID230",
+      "ID295",
+      "ID303",
+      "ID315",
+      "ID338",
+      "ID385",
+      "ID415"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-01"
+  },
+  {
+    "slug": "aedo-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-for-condolences",
+    "title": "애도를 위한 8가지 중국어 관용구",
+    "description": "Appropriate Chinese idioms for expressing condolences, sympathy, and respect during difficult times.",
+    "metaDescription": "Learn 8 respectful Chinese idioms for condolences. These chengyu express sympathy, honor the departed, and offer comfort.",
+    "keywords": [
+      "chinese idioms for condolences",
+      "ko idioms"
+    ],
+    "intro": "Chinese culture has profound idioms (成语) for expressing condolences and sympathy. These respectful expressions offer comfort while honoring the departed.",
+    "idiomIds": [
+      "ID016",
+      "ID039",
+      "ID045",
+      "ID091",
+      "ID118",
+      "ID134",
+      "ID137",
+      "ID180"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-02"
+  },
+  {
+    "slug": "chuseok-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-for-mid-autumn-festival",
+    "title": "추석을 위한 10가지 중국어 관용구",
+    "description": "Beautiful Chinese idioms for the Mid-Autumn Festival, celebrating the moon, reunion, and harvest.",
+    "metaDescription": "Learn 10 beautiful Chinese idioms for Mid-Autumn Festival. These chengyu celebrate the full moon, family reunion, and autumn harvest.",
+    "keywords": [
+      "chinese idioms for mid autumn festival",
+      "ko idioms"
+    ],
+    "intro": "The Mid-Autumn Festival (中秋节) celebrates the full moon and family reunion. These idioms capture the beauty of the moon and the joy of gathering together.",
+    "idiomIds": [
+      "ID023",
+      "ID055",
+      "ID084",
+      "ID088",
+      "ID089",
+      "ID097",
+      "ID104",
+      "ID114",
+      "ID120",
+      "ID177"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-03"
+  },
+  {
+    "slug": "dano-jung-guk-seo-gwan-yong-gu",
+    "originalSlug": "chinese-idioms-for-dragon-boat-festival",
+    "title": "단오절을 위한 8가지 중국어 관용구",
+    "description": "Energetic Chinese idioms for the Dragon Boat Festival, celebrating competition, tradition, and remembrance.",
+    "metaDescription": "Learn 8 spirited Chinese idioms for Dragon Boat Festival. These chengyu capture the spirit of racing, tradition, and honoring Qu Yuan.",
+    "keywords": [
+      "chinese idioms for dragon boat festival",
+      "ko idioms"
+    ],
+    "intro": "The Dragon Boat Festival (端午节) honors the poet Qu Yuan with boat races and zongzi. These idioms capture the competitive spirit and cultural traditions.",
+    "idiomIds": [
+      "ID017",
+      "ID025",
+      "ID026",
+      "ID031",
+      "ID035",
+      "ID225",
+      "ID262",
+      "ID271"
+    ],
+    "category": "행사",
+    "publishedDate": "2025-03-04"
   }
 ]

@@ -762,6 +762,85 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID036', 'ID051', 'ID052', 'ID076', 'ID106', 'ID109', 'ID119', 'ID122', 'ID221', 'ID260'],
     category: 'Occasions',
     publishedDate: '2025-02-19'
+  },
+  // === BATCH 2: More Animals ===
+  {
+    slug: 'chinese-idioms-with-rooster',
+    title: '8 Bold Chinese Idioms With Rooster (鸡)',
+    description: 'Explore Chinese idioms featuring the rooster (鸡), representing punctuality, courage, and vigilance.',
+    metaDescription: 'Learn 8 bold Chinese idioms with rooster (鸡). These chengyu celebrate alertness, courage, and the dawn of new beginnings.',
+    keywords: ['chinese idioms with rooster', 'rooster chengyu', '鸡 idioms', 'year of the rooster idioms', 'chinese rooster sayings'],
+    intro: 'The rooster (鸡, jī) represents punctuality, courage, and vigilance in Chinese culture. Crowing at dawn, the rooster symbolizes new beginnings and reliability.',
+    idiomIds: ['ID063', 'ID108', 'ID312', 'ID347', 'ID402'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-21'
+  },
+  {
+    slug: 'chinese-idioms-with-bird',
+    title: '10 Soaring Chinese Idioms With Bird (鸟)',
+    description: 'Explore Chinese idioms featuring birds (鸟), representing freedom, aspiration, and natural beauty.',
+    metaDescription: 'Learn 10 soaring Chinese idioms with bird (鸟). These chengyu celebrate freedom, high aspirations, and the beauty of nature.',
+    keywords: ['chinese idioms with bird', 'bird chengyu', '鸟 idioms', 'chinese bird sayings', 'phoenix idioms'],
+    intro: 'Birds (鸟, niǎo) in Chinese idioms represent freedom, aspiration, and natural beauty. From the phoenix to the crane, bird imagery carries profound cultural meaning.',
+    idiomIds: ['ID032', 'ID034', 'ID046', 'ID108', 'ID126', 'ID222', 'ID427', 'ID527'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-27'
+  },
+  {
+    slug: 'chinese-idioms-with-fish',
+    title: '8 Abundant Chinese Idioms With Fish (鱼)',
+    description: 'Discover Chinese idioms featuring fish (鱼), symbolizing abundance, prosperity, and good fortune.',
+    metaDescription: 'Learn 8 abundant Chinese idioms with fish (鱼). These chengyu bring luck and prosperity - essential for Chinese New Year celebrations.',
+    keywords: ['chinese idioms with fish', 'fish chengyu', '鱼 idioms', 'chinese fish sayings', 'nian nian you yu'],
+    intro: 'Fish (鱼, yú) symbolizes abundance and prosperity in Chinese culture because it sounds like "surplus" (余). Fish idioms are especially popular during New Year.',
+    idiomIds: ['ID113', 'ID223', 'ID286', 'ID341'],
+    category: 'Animals & Zodiac',
+    publishedDate: '2025-02-28'
+  },
+  // === BATCH 2: More Occasions ===
+  {
+    slug: 'chinese-idioms-for-birthday',
+    title: '10 Auspicious Chinese Idioms for Birthday Wishes',
+    description: 'Perfect Chinese idioms for birthday greetings, wishing longevity, happiness, and success.',
+    metaDescription: 'Learn 10 auspicious Chinese idioms for birthday wishes. These chengyu express hopes for longevity, health, and endless blessings.',
+    keywords: ['chinese birthday idioms', 'birthday wishes chinese', 'longevity chengyu', 'chinese birthday greetings', 'shou bi nan shan'],
+    intro: 'Birthdays in Chinese culture are celebrated with special idioms (成语) wishing longevity, health, and prosperity. These expressions are perfect for cards and toasts.',
+    idiomIds: ['ID158', 'ID173', 'ID190', 'ID230', 'ID295', 'ID303', 'ID315', 'ID338', 'ID385', 'ID415'],
+    category: 'Occasions',
+    publishedDate: '2025-03-01'
+  },
+  {
+    slug: 'chinese-idioms-for-condolences',
+    title: '8 Respectful Chinese Idioms for Condolences & Sympathy',
+    description: 'Appropriate Chinese idioms for expressing condolences, sympathy, and respect during difficult times.',
+    metaDescription: 'Learn 8 respectful Chinese idioms for condolences. These chengyu express sympathy, honor the departed, and offer comfort.',
+    keywords: ['chinese condolence idioms', 'sympathy chinese phrases', 'funeral chengyu', 'chinese mourning expressions', 'rest in peace chinese'],
+    intro: 'Chinese culture has profound idioms (成语) for expressing condolences and sympathy. These respectful expressions offer comfort while honoring the departed.',
+    idiomIds: ['ID016', 'ID039', 'ID045', 'ID091', 'ID118', 'ID134', 'ID137', 'ID180'],
+    category: 'Occasions',
+    publishedDate: '2025-03-02'
+  },
+  {
+    slug: 'chinese-idioms-for-mid-autumn-festival',
+    title: '10 Lunar Chinese Idioms for Mid-Autumn Festival',
+    description: 'Beautiful Chinese idioms for the Mid-Autumn Festival, celebrating the moon, reunion, and harvest.',
+    metaDescription: 'Learn 10 beautiful Chinese idioms for Mid-Autumn Festival. These chengyu celebrate the full moon, family reunion, and autumn harvest.',
+    keywords: ['mid-autumn festival idioms', 'moon festival chengyu', 'chinese moon idioms', 'zhong qiu jie sayings', 'mooncake festival expressions'],
+    intro: 'The Mid-Autumn Festival (中秋节) celebrates the full moon and family reunion. These idioms capture the beauty of the moon and the joy of gathering together.',
+    idiomIds: ['ID023', 'ID055', 'ID084', 'ID088', 'ID089', 'ID097', 'ID104', 'ID114', 'ID120', 'ID177'],
+    category: 'Occasions',
+    publishedDate: '2025-03-03'
+  },
+  {
+    slug: 'chinese-idioms-for-dragon-boat-festival',
+    title: '8 Spirited Chinese Idioms for Dragon Boat Festival',
+    description: 'Energetic Chinese idioms for the Dragon Boat Festival, celebrating competition, tradition, and remembrance.',
+    metaDescription: 'Learn 8 spirited Chinese idioms for Dragon Boat Festival. These chengyu capture the spirit of racing, tradition, and honoring Qu Yuan.',
+    keywords: ['dragon boat festival idioms', 'duan wu jie chengyu', 'chinese festival idioms', 'qu yuan sayings', 'zongzi festival expressions'],
+    intro: 'The Dragon Boat Festival (端午节) honors the poet Qu Yuan with boat races and zongzi. These idioms capture the competitive spirit and cultural traditions.',
+    idiomIds: ['ID017', 'ID025', 'ID026', 'ID031', 'ID035', 'ID225', 'ID262', 'ID271'],
+    category: 'Occasions',
+    publishedDate: '2025-03-04'
   }
 ];
 
