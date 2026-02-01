@@ -1490,5 +1490,468 @@
     ],
     "category": "Sikat",
     "publishedDate": "2025-03-01"
+  },
+  {
+    "slug": "mga-kasabihang-tsino-na-may-dragon",
+    "originalSlug": "chinese-idioms-with-dragon",
+    "title": "8 Makapangyarihang Kasabihang Tsino na may Dragon (龙)",
+    "description": "Tuklasin ang mga kasabihang Tsino na may dragon (龙), simbolo ng kapangyarihan, swerte, at awtoridad ng emperador.",
+    "metaDescription": "Matuto ng 8 makapangyarihang kasabihang Tsino na may dragon (龙). Ang mga chengyu na ito ay kumakatawan sa lakas at swerte.",
+    "keywords": [
+      "kasabihang dragon",
+      "chengyu ng dragon",
+      "taon ng dragon",
+      "kahulugan ng dragon tsino"
+    ],
+    "intro": "Ang dragon (龙, lóng) ay ang pinaka-iginagalang na nilalang sa mitolohiyang Tsino, sumisimbolo ng kapangyarihan at swerte.",
+    "idiomIds": [
+      "ID025",
+      "ID262",
+      "ID271",
+      "ID294",
+      "ID375",
+      "ID431"
+    ],
+    "category": "Mga Hayop at Zodiac",
+    "publishedDate": "2025-02-01"
+  },
+  {
+    "slug": "mga-kasabihang-tsino-na-may-tigre",
+    "originalSlug": "chinese-idioms-with-tiger",
+    "title": "10 Mabangis na Kasabihang Tsino na may Tigre (虎)",
+    "description": "Tuklasin ang mga makapangyarihang kasabihang Tsino na may tigre (虎), kumakatawan sa tapang, kapangyarihan, at awtoridad.",
+    "metaDescription": "Matuklasan ang 10 mabangis na kasabihang Tsino na may tigre (虎).",
+    "keywords": [
+      "kasabihang tigre",
+      "chengyu ng tigre",
+      "taon ng tigre",
+      "kahulugan ng tigre tsino"
+    ],
+    "intro": "Ang tigre (虎, hǔ) ay kumakatawan sa tapang, kapangyarihan, at awtoridad sa kulturang Tsino.",
+    "idiomIds": [
+      "ID042",
+      "ID130",
+      "ID131",
+      "ID253",
+      "ID278",
+      "ID284",
+      "ID375",
+      "ID377",
+      "ID550"
+    ],
+    "category": "Mga Hayop at Zodiac",
+    "publishedDate": "2025-02-02"
+  },
+  {
+    "slug": "mga-kasabihang-tsino-na-may-kabayo",
+    "originalSlug": "chinese-idioms-with-horse",
+    "title": "12 Kasabihang Tsino na may Kabayo (马) para sa Tagumpay",
+    "description": "Matuto ng mga kasabihang Tsino na may kabayo (马), sumisimbolo ng bilis, tagumpay, at pagtitiyaga.",
+    "metaDescription": "Matuto ng 12 kasabihang Tsino na may kabayo (马). Ang mga chengyu na ito ay kumakatawan sa tagumpay at determinasyon.",
+    "keywords": [
+      "kasabihang kabayo",
+      "chengyu ng kabayo",
+      "taon ng kabayo",
+      "ma dao cheng gong"
+    ],
+    "intro": "Ang kabayo (马, mǎ) ay sumisimbolo ng bilis, tagumpay, at pagtitiyaga sa kulturang Tsino.",
+    "idiomIds": [
+      "ID018",
+      "ID093",
+      "ID116",
+      "ID133",
+      "ID192",
+      "ID195",
+      "ID202",
+      "ID208",
+      "ID248",
+      "ID262",
+      "ID274",
+      "ID278"
+    ],
+    "category": "Mga Hayop at Zodiac",
+    "publishedDate": "2025-02-03"
+  },
+  {
+    "slug": "tl-idioms-with-snake",
+    "originalSlug": "chinese-idioms-with-snake",
+    "title": "[TL] Chinese Idioms With Snake",
+    "description": "[tl] Description for chinese-idioms-with-snake",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-snake",
+    "keywords": [
+      "chinese-idioms-with-snake",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-snake",
+    "idiomIds": [
+      "ID079",
+      "ID135",
+      "ID377"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-04"
+  },
+  {
+    "slug": "tl-idioms-with-ox",
+    "originalSlug": "chinese-idioms-with-ox",
+    "title": "[TL] Chinese Idioms With Ox",
+    "description": "[tl] Description for chinese-idioms-with-ox",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-ox",
+    "keywords": [
+      "chinese-idioms-with-ox",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-ox",
+    "idiomIds": [
+      "ID100",
+      "ID147",
+      "ID200",
+      "ID269",
+      "ID383"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-05"
+  },
+  {
+    "slug": "tl-idioms-with-heart-xin",
+    "originalSlug": "chinese-idioms-with-heart-xin",
+    "title": "[TL] Chinese Idioms With Heart Xin",
+    "description": "[tl] Description for chinese-idioms-with-heart-xin",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-heart-xin",
+    "keywords": [
+      "chinese-idioms-with-heart-xin",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-heart-xin",
+    "idiomIds": [
+      "ID008",
+      "ID136",
+      "ID151",
+      "ID166",
+      "ID183",
+      "ID208",
+      "ID256",
+      "ID313",
+      "ID316",
+      "ID318",
+      "ID340",
+      "ID393",
+      "ID398",
+      "ID403",
+      "ID409"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-06"
+  },
+  {
+    "slug": "tl-idioms-with-eye",
+    "originalSlug": "chinese-idioms-with-eye",
+    "title": "[TL] Chinese Idioms With Eye",
+    "description": "[tl] Description for chinese-idioms-with-eye",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-eye",
+    "keywords": [
+      "chinese-idioms-with-eye",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-eye",
+    "idiomIds": [
+      "ID072",
+      "ID110",
+      "ID147",
+      "ID153",
+      "ID214",
+      "ID219",
+      "ID223",
+      "ID266",
+      "ID336",
+      "ID395"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-07"
+  },
+  {
+    "slug": "tl-idioms-with-hand",
+    "originalSlug": "chinese-idioms-with-hand",
+    "title": "[TL] Chinese Idioms With Hand",
+    "description": "[tl] Description for chinese-idioms-with-hand",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-hand",
+    "keywords": [
+      "chinese-idioms-with-hand",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-hand",
+    "idiomIds": [
+      "ID170",
+      "ID185",
+      "ID207",
+      "ID219",
+      "ID299",
+      "ID317",
+      "ID334",
+      "ID405",
+      "ID482",
+      "ID515"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-08"
+  },
+  {
+    "slug": "tl-idioms-with-number-one",
+    "originalSlug": "chinese-idioms-with-number-one",
+    "title": "[TL] Chinese Idioms With Number One",
+    "description": "[tl] Description for chinese-idioms-with-number-one",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-number-one",
+    "keywords": [
+      "chinese-idioms-with-number-one",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-number-one",
+    "idiomIds": [
+      "ID001",
+      "ID004",
+      "ID006",
+      "ID007",
+      "ID010",
+      "ID034",
+      "ID057",
+      "ID065",
+      "ID072",
+      "ID086",
+      "ID097",
+      "ID122",
+      "ID141",
+      "ID157",
+      "ID188"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-09"
+  },
+  {
+    "slug": "tl-idioms-with-number-three",
+    "originalSlug": "chinese-idioms-with-number-three",
+    "title": "[TL] Chinese Idioms With Number Three",
+    "description": "[tl] Description for chinese-idioms-with-number-three",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-number-three",
+    "keywords": [
+      "chinese-idioms-with-number-three",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-number-three",
+    "idiomIds": [
+      "ID007",
+      "ID010",
+      "ID039",
+      "ID112",
+      "ID131",
+      "ID171",
+      "ID206",
+      "ID247",
+      "ID250",
+      "ID353"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-10"
+  },
+  {
+    "slug": "tl-idioms-with-number-eight",
+    "originalSlug": "chinese-idioms-with-number-eight",
+    "title": "[TL] Chinese Idioms With Number Eight",
+    "description": "[tl] Description for chinese-idioms-with-number-eight",
+    "metaDescription": "[tl] Meta description for chinese-idioms-with-number-eight",
+    "keywords": [
+      "chinese-idioms-with-number-eight",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-with-number-eight",
+    "idiomIds": [
+      "ID220",
+      "ID308",
+      "ID317",
+      "ID319",
+      "ID322",
+      "ID376",
+      "ID384",
+      "ID388"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-11"
+  },
+  {
+    "slug": "tl-idioms-about-wind",
+    "originalSlug": "chinese-idioms-about-wind",
+    "title": "[TL] Chinese Idioms About Wind",
+    "description": "[tl] Description for chinese-idioms-about-wind",
+    "metaDescription": "[tl] Meta description for chinese-idioms-about-wind",
+    "keywords": [
+      "chinese-idioms-about-wind",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-about-wind",
+    "idiomIds": [
+      "ID035",
+      "ID040",
+      "ID046",
+      "ID054",
+      "ID064",
+      "ID127",
+      "ID187",
+      "ID203",
+      "ID264",
+      "ID265",
+      "ID327",
+      "ID342"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-12"
+  },
+  {
+    "slug": "tl-idioms-about-water",
+    "originalSlug": "chinese-idioms-about-water",
+    "title": "[TL] Chinese Idioms About Water",
+    "description": "[tl] Description for chinese-idioms-about-water",
+    "metaDescription": "[tl] Meta description for chinese-idioms-about-water",
+    "keywords": [
+      "chinese-idioms-about-water",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-about-water",
+    "idiomIds": [
+      "ID009",
+      "ID019",
+      "ID026",
+      "ID076",
+      "ID104",
+      "ID113",
+      "ID134",
+      "ID172",
+      "ID196",
+      "ID227",
+      "ID311",
+      "ID382"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-13"
+  },
+  {
+    "slug": "tl-idioms-about-mountain",
+    "originalSlug": "chinese-idioms-about-mountain",
+    "title": "[TL] Chinese Idioms About Mountain",
+    "description": "[tl] Description for chinese-idioms-about-mountain",
+    "metaDescription": "[tl] Meta description for chinese-idioms-about-mountain",
+    "keywords": [
+      "chinese-idioms-about-mountain",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-about-mountain",
+    "idiomIds": [
+      "ID117",
+      "ID196",
+      "ID233",
+      "ID255",
+      "ID305",
+      "ID354",
+      "ID428",
+      "ID499",
+      "ID627",
+      "ID628"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-14"
+  },
+  {
+    "slug": "tl-idioms-about-fire",
+    "originalSlug": "chinese-idioms-about-fire",
+    "title": "[TL] Chinese Idioms About Fire",
+    "description": "[tl] Description for chinese-idioms-about-fire",
+    "metaDescription": "[tl] Meta description for chinese-idioms-about-fire",
+    "keywords": [
+      "chinese-idioms-about-fire",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-about-fire",
+    "idiomIds": [
+      "ID070",
+      "ID105",
+      "ID159",
+      "ID174",
+      "ID198",
+      "ID357",
+      "ID380",
+      "ID460",
+      "ID544",
+      "ID671"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-15"
+  },
+  {
+    "slug": "tl-idioms-about-sky-heaven",
+    "originalSlug": "chinese-idioms-about-sky-heaven",
+    "title": "[TL] Chinese Idioms About Sky Heaven",
+    "description": "[tl] Description for chinese-idioms-about-sky-heaven",
+    "metaDescription": "[tl] Meta description for chinese-idioms-about-sky-heaven",
+    "keywords": [
+      "chinese-idioms-about-sky-heaven",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-about-sky-heaven",
+    "idiomIds": [
+      "ID014",
+      "ID094",
+      "ID175",
+      "ID197",
+      "ID211",
+      "ID251",
+      "ID352",
+      "ID385",
+      "ID400",
+      "ID485",
+      "ID510",
+      "ID607"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-16"
+  },
+  {
+    "slug": "tl-idioms-for-new-year",
+    "originalSlug": "chinese-idioms-for-new-year",
+    "title": "[TL] Chinese Idioms For New Year",
+    "description": "[tl] Description for chinese-idioms-for-new-year",
+    "metaDescription": "[tl] Meta description for chinese-idioms-for-new-year",
+    "keywords": [
+      "chinese-idioms-for-new-year",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-for-new-year",
+    "idiomIds": [
+      "ID154",
+      "ID307",
+      "ID436"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-17"
+  },
+  {
+    "slug": "tl-idioms-for-weddings",
+    "originalSlug": "chinese-idioms-for-weddings",
+    "title": "[TL] Chinese Idioms For Weddings",
+    "description": "[tl] Description for chinese-idioms-for-weddings",
+    "metaDescription": "[tl] Meta description for chinese-idioms-for-weddings",
+    "keywords": [
+      "chinese-idioms-for-weddings",
+      "tl idioms"
+    ],
+    "intro": "[tl] Introduction for chinese-idioms-for-weddings",
+    "idiomIds": [
+      "ID056",
+      "ID300",
+      "ID314",
+      "ID473",
+      "ID597",
+      "ID603",
+      "ID605"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-18"
   }
 ]

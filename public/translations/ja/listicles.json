@@ -1887,5 +1887,468 @@
     ],
     "category": "人気",
     "publishedDate": "2025-03-01"
+  },
+  {
+    "slug": "long-chinese-idioms-dragon",
+    "originalSlug": "chinese-idioms-with-dragon",
+    "title": "龍を含む8つの強力な中国語の成語",
+    "description": "龍（龙）を含む中国語の成語を発見しましょう。力、幸運、皇帝の権威の象徴です。",
+    "metaDescription": "龍（龙）を含む8つの強力な中国語の成語を学びましょう。これらの成語は力、成功、幸運を表します。",
+    "keywords": [
+      "龍の成語",
+      "中国語龍の表現",
+      "辰年の成語",
+      "中国龍の意味"
+    ],
+    "intro": "龍（龙, lóng）は中国神話で最も崇拝される生き物で、力、強さ、幸運を象徴しています。",
+    "idiomIds": [
+      "ID025",
+      "ID262",
+      "ID271",
+      "ID294",
+      "ID375",
+      "ID431"
+    ],
+    "category": "動物と干支",
+    "publishedDate": "2025-02-01"
+  },
+  {
+    "slug": "tora-chinese-idioms",
+    "originalSlug": "chinese-idioms-with-tiger",
+    "title": "虎を含む10の勇猛な中国語の成語",
+    "description": "勇気、力、権威を表す虎（虎）を含む中国語の成語を探索しましょう。",
+    "metaDescription": "虎（虎）を含む10の勇猛な中国語の成語を発見しましょう。勇気と力についての成語を学びましょう。",
+    "keywords": [
+      "虎の成語",
+      "中国語虎の表現",
+      "寅年の成語",
+      "中国虎の意味"
+    ],
+    "intro": "虎（虎, hǔ）は中国文化において勇気、力、権威を表します。",
+    "idiomIds": [
+      "ID042",
+      "ID130",
+      "ID131",
+      "ID253",
+      "ID278",
+      "ID284",
+      "ID375",
+      "ID377",
+      "ID550"
+    ],
+    "category": "動物と干支",
+    "publishedDate": "2025-02-02"
+  },
+  {
+    "slug": "uma-chinese-idioms",
+    "originalSlug": "chinese-idioms-with-horse",
+    "title": "成功のための馬を含む12の中国語の成語",
+    "description": "速さ、成功、忍耐を象徴する馬（马）を含む中国語の成語をマスターしましょう。",
+    "metaDescription": "馬（马）を含む12の中国語の成語を学びましょう。成功と決意を表す成語です。",
+    "keywords": [
+      "馬の成語",
+      "中国語馬の表現",
+      "午年の成語",
+      "馬到成功"
+    ],
+    "intro": "馬（马, mǎ）は中国文化において速さ、成功、忍耐を象徴します。",
+    "idiomIds": [
+      "ID018",
+      "ID093",
+      "ID116",
+      "ID133",
+      "ID192",
+      "ID195",
+      "ID202",
+      "ID208",
+      "ID248",
+      "ID262",
+      "ID274",
+      "ID278"
+    ],
+    "category": "動物と干支",
+    "publishedDate": "2025-02-03"
+  },
+  {
+    "slug": "ja-idioms-with-snake",
+    "originalSlug": "chinese-idioms-with-snake",
+    "title": "[JA] Chinese Idioms With Snake",
+    "description": "[ja] Description for chinese-idioms-with-snake",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-snake",
+    "keywords": [
+      "chinese-idioms-with-snake",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-snake",
+    "idiomIds": [
+      "ID079",
+      "ID135",
+      "ID377"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-04"
+  },
+  {
+    "slug": "ja-idioms-with-ox",
+    "originalSlug": "chinese-idioms-with-ox",
+    "title": "[JA] Chinese Idioms With Ox",
+    "description": "[ja] Description for chinese-idioms-with-ox",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-ox",
+    "keywords": [
+      "chinese-idioms-with-ox",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-ox",
+    "idiomIds": [
+      "ID100",
+      "ID147",
+      "ID200",
+      "ID269",
+      "ID383"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-05"
+  },
+  {
+    "slug": "ja-idioms-with-heart-xin",
+    "originalSlug": "chinese-idioms-with-heart-xin",
+    "title": "[JA] Chinese Idioms With Heart Xin",
+    "description": "[ja] Description for chinese-idioms-with-heart-xin",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-heart-xin",
+    "keywords": [
+      "chinese-idioms-with-heart-xin",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-heart-xin",
+    "idiomIds": [
+      "ID008",
+      "ID136",
+      "ID151",
+      "ID166",
+      "ID183",
+      "ID208",
+      "ID256",
+      "ID313",
+      "ID316",
+      "ID318",
+      "ID340",
+      "ID393",
+      "ID398",
+      "ID403",
+      "ID409"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-06"
+  },
+  {
+    "slug": "ja-idioms-with-eye",
+    "originalSlug": "chinese-idioms-with-eye",
+    "title": "[JA] Chinese Idioms With Eye",
+    "description": "[ja] Description for chinese-idioms-with-eye",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-eye",
+    "keywords": [
+      "chinese-idioms-with-eye",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-eye",
+    "idiomIds": [
+      "ID072",
+      "ID110",
+      "ID147",
+      "ID153",
+      "ID214",
+      "ID219",
+      "ID223",
+      "ID266",
+      "ID336",
+      "ID395"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-07"
+  },
+  {
+    "slug": "ja-idioms-with-hand",
+    "originalSlug": "chinese-idioms-with-hand",
+    "title": "[JA] Chinese Idioms With Hand",
+    "description": "[ja] Description for chinese-idioms-with-hand",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-hand",
+    "keywords": [
+      "chinese-idioms-with-hand",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-hand",
+    "idiomIds": [
+      "ID170",
+      "ID185",
+      "ID207",
+      "ID219",
+      "ID299",
+      "ID317",
+      "ID334",
+      "ID405",
+      "ID482",
+      "ID515"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-08"
+  },
+  {
+    "slug": "ja-idioms-with-number-one",
+    "originalSlug": "chinese-idioms-with-number-one",
+    "title": "[JA] Chinese Idioms With Number One",
+    "description": "[ja] Description for chinese-idioms-with-number-one",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-number-one",
+    "keywords": [
+      "chinese-idioms-with-number-one",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-number-one",
+    "idiomIds": [
+      "ID001",
+      "ID004",
+      "ID006",
+      "ID007",
+      "ID010",
+      "ID034",
+      "ID057",
+      "ID065",
+      "ID072",
+      "ID086",
+      "ID097",
+      "ID122",
+      "ID141",
+      "ID157",
+      "ID188"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-09"
+  },
+  {
+    "slug": "ja-idioms-with-number-three",
+    "originalSlug": "chinese-idioms-with-number-three",
+    "title": "[JA] Chinese Idioms With Number Three",
+    "description": "[ja] Description for chinese-idioms-with-number-three",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-number-three",
+    "keywords": [
+      "chinese-idioms-with-number-three",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-number-three",
+    "idiomIds": [
+      "ID007",
+      "ID010",
+      "ID039",
+      "ID112",
+      "ID131",
+      "ID171",
+      "ID206",
+      "ID247",
+      "ID250",
+      "ID353"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-10"
+  },
+  {
+    "slug": "ja-idioms-with-number-eight",
+    "originalSlug": "chinese-idioms-with-number-eight",
+    "title": "[JA] Chinese Idioms With Number Eight",
+    "description": "[ja] Description for chinese-idioms-with-number-eight",
+    "metaDescription": "[ja] Meta description for chinese-idioms-with-number-eight",
+    "keywords": [
+      "chinese-idioms-with-number-eight",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-with-number-eight",
+    "idiomIds": [
+      "ID220",
+      "ID308",
+      "ID317",
+      "ID319",
+      "ID322",
+      "ID376",
+      "ID384",
+      "ID388"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-11"
+  },
+  {
+    "slug": "ja-idioms-about-wind",
+    "originalSlug": "chinese-idioms-about-wind",
+    "title": "[JA] Chinese Idioms About Wind",
+    "description": "[ja] Description for chinese-idioms-about-wind",
+    "metaDescription": "[ja] Meta description for chinese-idioms-about-wind",
+    "keywords": [
+      "chinese-idioms-about-wind",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-about-wind",
+    "idiomIds": [
+      "ID035",
+      "ID040",
+      "ID046",
+      "ID054",
+      "ID064",
+      "ID127",
+      "ID187",
+      "ID203",
+      "ID264",
+      "ID265",
+      "ID327",
+      "ID342"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-12"
+  },
+  {
+    "slug": "ja-idioms-about-water",
+    "originalSlug": "chinese-idioms-about-water",
+    "title": "[JA] Chinese Idioms About Water",
+    "description": "[ja] Description for chinese-idioms-about-water",
+    "metaDescription": "[ja] Meta description for chinese-idioms-about-water",
+    "keywords": [
+      "chinese-idioms-about-water",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-about-water",
+    "idiomIds": [
+      "ID009",
+      "ID019",
+      "ID026",
+      "ID076",
+      "ID104",
+      "ID113",
+      "ID134",
+      "ID172",
+      "ID196",
+      "ID227",
+      "ID311",
+      "ID382"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-13"
+  },
+  {
+    "slug": "ja-idioms-about-mountain",
+    "originalSlug": "chinese-idioms-about-mountain",
+    "title": "[JA] Chinese Idioms About Mountain",
+    "description": "[ja] Description for chinese-idioms-about-mountain",
+    "metaDescription": "[ja] Meta description for chinese-idioms-about-mountain",
+    "keywords": [
+      "chinese-idioms-about-mountain",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-about-mountain",
+    "idiomIds": [
+      "ID117",
+      "ID196",
+      "ID233",
+      "ID255",
+      "ID305",
+      "ID354",
+      "ID428",
+      "ID499",
+      "ID627",
+      "ID628"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-14"
+  },
+  {
+    "slug": "ja-idioms-about-fire",
+    "originalSlug": "chinese-idioms-about-fire",
+    "title": "[JA] Chinese Idioms About Fire",
+    "description": "[ja] Description for chinese-idioms-about-fire",
+    "metaDescription": "[ja] Meta description for chinese-idioms-about-fire",
+    "keywords": [
+      "chinese-idioms-about-fire",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-about-fire",
+    "idiomIds": [
+      "ID070",
+      "ID105",
+      "ID159",
+      "ID174",
+      "ID198",
+      "ID357",
+      "ID380",
+      "ID460",
+      "ID544",
+      "ID671"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-15"
+  },
+  {
+    "slug": "ja-idioms-about-sky-heaven",
+    "originalSlug": "chinese-idioms-about-sky-heaven",
+    "title": "[JA] Chinese Idioms About Sky Heaven",
+    "description": "[ja] Description for chinese-idioms-about-sky-heaven",
+    "metaDescription": "[ja] Meta description for chinese-idioms-about-sky-heaven",
+    "keywords": [
+      "chinese-idioms-about-sky-heaven",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-about-sky-heaven",
+    "idiomIds": [
+      "ID014",
+      "ID094",
+      "ID175",
+      "ID197",
+      "ID211",
+      "ID251",
+      "ID352",
+      "ID385",
+      "ID400",
+      "ID485",
+      "ID510",
+      "ID607"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-16"
+  },
+  {
+    "slug": "ja-idioms-for-new-year",
+    "originalSlug": "chinese-idioms-for-new-year",
+    "title": "[JA] Chinese Idioms For New Year",
+    "description": "[ja] Description for chinese-idioms-for-new-year",
+    "metaDescription": "[ja] Meta description for chinese-idioms-for-new-year",
+    "keywords": [
+      "chinese-idioms-for-new-year",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-for-new-year",
+    "idiomIds": [
+      "ID154",
+      "ID307",
+      "ID436"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-17"
+  },
+  {
+    "slug": "ja-idioms-for-weddings",
+    "originalSlug": "chinese-idioms-for-weddings",
+    "title": "[JA] Chinese Idioms For Weddings",
+    "description": "[ja] Description for chinese-idioms-for-weddings",
+    "metaDescription": "[ja] Meta description for chinese-idioms-for-weddings",
+    "keywords": [
+      "chinese-idioms-for-weddings",
+      "ja idioms"
+    ],
+    "intro": "[ja] Introduction for chinese-idioms-for-weddings",
+    "idiomIds": [
+      "ID056",
+      "ID300",
+      "ID314",
+      "ID473",
+      "ID597",
+      "ID603",
+      "ID605"
+    ],
+    "category": "General",
+    "publishedDate": "2025-02-18"
   }
 ]
