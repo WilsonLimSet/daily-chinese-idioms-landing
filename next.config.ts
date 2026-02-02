@@ -62,6 +62,22 @@ const nextConfig: NextConfig = {
         destination: '/',
         permanent: true,
       },
+      // Redirects for old translated listicle slugs (slugs changed during translation regeneration)
+      {
+        source: '/th/blog/lists/samnuan-jiin-wan-pii-mai',
+        destination: '/th/blog/lists/samnuuk-chin-wan-pi-mai',
+        permanent: true,
+      },
+      {
+        source: '/ja/blog/lists/sotsugyou-shiki-chuugokugo-kanyouku',
+        destination: '/ja/blog/lists/sotsugyou-shiki-no-chuugokugo-ijisetto',
+        permanent: true,
+      },
+      {
+        source: '/ko/blog/lists/ujong-e-daehan-uimi-inneun-junggugeo-sogeo-8gae',
+        destination: '/ko/blog/lists/ujong-e-daehan-jungguk-seogeo',
+        permanent: true,
+      },
     ];
   },
 };
