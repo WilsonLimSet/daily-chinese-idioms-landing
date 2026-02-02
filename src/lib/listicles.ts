@@ -963,6 +963,614 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID082', 'ID168', 'ID241', 'ID282', 'ID439', 'ID483', 'ID490', 'ID596', 'ID636', 'ID637'],
     category: 'Occasions',
     publishedDate: '2025-03-15'
+  },
+  // === NEW LISTICLES: Emotions ===
+  {
+    slug: 'chinese-idioms-about-anger',
+    title: '10 Chinese Idioms About Anger & Losing Your Temper',
+    description: 'Expressive Chinese idioms about anger, rage, and losing one\'s temper - learn how Chinese culture describes fury.',
+    metaDescription: 'Learn 10 Chinese idioms about anger and rage. These chengyu vividly describe fury, losing temper, and emotional outbursts in Mandarin.',
+    keywords: ['chinese idioms about anger', 'angry chinese phrases', 'chengyu for rage', 'chinese temper expressions', 'mandarin anger idioms'],
+    intro: 'Chinese idioms offer vivid and poetic ways to describe anger and emotional outbursts. From flames shooting from one\'s head to thunder and lightning, these expressions capture the intensity of human fury.',
+    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544', 'ID569'],
+    category: 'Emotions',
+    publishedDate: '2025-03-16'
+  },
+  {
+    slug: 'chinese-idioms-about-happiness',
+    title: '10 Joyful Chinese Idioms About Happiness & Delight',
+    description: 'Beautiful Chinese idioms expressing happiness, joy, and contentment - discover how Chinese culture celebrates positive emotions.',
+    metaDescription: 'Discover 10 joyful Chinese idioms about happiness and delight. These chengyu express joy, contentment, and positive emotions in Mandarin.',
+    keywords: ['chinese idioms about happiness', 'happy chinese phrases', 'chengyu for joy', 'chinese delight expressions', 'mandarin happiness idioms'],
+    intro: 'Happiness and contentment are celebrated in Chinese culture through beautiful idiomatic expressions. These idioms capture different shades of joy, from quiet satisfaction to overwhelming delight.',
+    idiomIds: ['ID173', 'ID295', 'ID303', 'ID315', 'ID407', 'ID415', 'ID462', 'ID489', 'ID517', 'ID568'],
+    category: 'Emotions',
+    publishedDate: '2025-03-17'
+  },
+  {
+    slug: 'chinese-idioms-about-fear',
+    title: '10 Chinese Idioms About Fear & Anxiety',
+    description: 'Vivid Chinese idioms describing fear, anxiety, and nervousness - learn how Chinese language expresses worry and dread.',
+    metaDescription: 'Learn 10 Chinese idioms about fear and anxiety. These chengyu vividly describe nervousness, worry, and dread in Mandarin.',
+    keywords: ['chinese idioms about fear', 'anxiety chinese phrases', 'chengyu for worry', 'chinese nervous expressions', 'mandarin fear idioms'],
+    intro: 'Fear and anxiety are universal human experiences, and Chinese idioms capture these emotions with vivid imagery. From seeing soldiers in every blade of grass to hearts hanging by a thread, these expressions paint powerful pictures of worry and dread.',
+    idiomIds: ['ID046', 'ID135', 'ID155', 'ID211', 'ID272', 'ID293', 'ID316', 'ID363', 'ID374', 'ID449'],
+    category: 'Emotions',
+    publishedDate: '2025-03-18'
+  },
+  {
+    slug: 'chinese-idioms-about-sadness',
+    title: '8 Chinese Idioms About Sadness & Sorrow',
+    description: 'Poignant Chinese idioms expressing sadness, grief, and sorrow - understand how Chinese culture articulates melancholy.',
+    metaDescription: 'Discover 8 poignant Chinese idioms about sadness and sorrow. These chengyu express grief, melancholy, and heartache in Mandarin.',
+    keywords: ['chinese idioms about sadness', 'sad chinese phrases', 'chengyu for grief', 'chinese sorrow expressions', 'mandarin melancholy idioms'],
+    intro: 'Chinese literature and poetry have long explored the depths of human sorrow. These idioms capture different aspects of sadness, from quiet melancholy to profound grief.',
+    idiomIds: ['ID029', 'ID183', 'ID227', 'ID382', 'ID385', 'ID574', 'ID160', 'ID188'],
+    category: 'Emotions',
+    publishedDate: '2025-03-19'
+  },
+  // === NEW LISTICLES: Seasons ===
+  {
+    slug: 'chinese-idioms-about-spring',
+    title: '10 Refreshing Chinese Idioms About Spring',
+    description: 'Beautiful Chinese idioms celebrating spring, renewal, and new beginnings - poetic expressions of the season of rebirth.',
+    metaDescription: 'Learn 10 refreshing Chinese idioms about spring. These chengyu celebrate renewal, growth, and new beginnings in Mandarin.',
+    keywords: ['chinese idioms about spring', 'spring chinese phrases', 'chengyu for renewal', 'chinese new beginnings expressions', 'mandarin spring idioms'],
+    intro: 'Spring holds special significance in Chinese culture as a time of renewal and hope. These idioms capture the essence of the season - from gentle spring rains nurturing growth to bamboo shoots emerging after the thaw.',
+    idiomIds: ['ID040', 'ID095', 'ID185', 'ID395', 'ID414', 'ID517', 'ID586', 'ID037', 'ID179', 'ID265'],
+    category: 'Nature',
+    publishedDate: '2025-03-20'
+  },
+  {
+    slug: 'chinese-idioms-about-autumn',
+    title: '8 Poetic Chinese Idioms About Autumn',
+    description: 'Evocative Chinese idioms about autumn, harvest, and reflection - discover the poetry of the fall season.',
+    metaDescription: 'Discover 8 poetic Chinese idioms about autumn. These chengyu capture harvest, reflection, and the beauty of fall in Mandarin.',
+    keywords: ['chinese idioms about autumn', 'fall chinese phrases', 'chengyu for autumn', 'chinese harvest expressions', 'mandarin fall idioms'],
+    intro: 'Autumn in Chinese culture symbolizes harvest, maturity, and contemplation. These idioms draw from the season\'s imagery of clear skies, falling leaves, and the subtle signs of change.',
+    idiomIds: ['ID089', 'ID097', 'ID382', 'ID587', 'ID075', 'ID088', 'ID154', 'ID109'],
+    category: 'Nature',
+    publishedDate: '2025-03-21'
+  },
+  {
+    slug: 'chinese-idioms-about-winter',
+    title: '8 Chinese Idioms About Winter & Cold',
+    description: 'Striking Chinese idioms about winter, snow, and enduring the cold - expressions of resilience in harsh times.',
+    metaDescription: 'Learn 8 striking Chinese idioms about winter and cold. These chengyu capture resilience, purity, and endurance in Mandarin.',
+    keywords: ['chinese idioms about winter', 'cold chinese phrases', 'chengyu for snow', 'chinese ice expressions', 'mandarin winter idioms'],
+    intro: 'Winter imagery in Chinese idioms often represents purity, resilience, and the strength to endure hardship. These expressions draw from snow, ice, and the stark beauty of the cold season.',
+    idiomIds: ['ID058', 'ID101', 'ID102', 'ID145', 'ID240', 'ID275', 'ID343', 'ID490'],
+    category: 'Nature',
+    publishedDate: '2025-03-22'
+  },
+  // === NEW LISTICLES: Numbers ===
+  {
+    slug: 'chinese-idioms-with-number-two',
+    title: '8 Chinese Idioms With the Number Two (二/两)',
+    description: 'Chinese idioms featuring the number two - expressions about pairs, duality, and achieving two goals at once.',
+    metaDescription: 'Learn 8 Chinese idioms with the number two. These chengyu explore duality, pairs, and double achievements in Mandarin.',
+    keywords: ['chinese idioms number two', 'number 2 chinese phrases', 'chengyu with two', 'chinese duality expressions', 'mandarin pair idioms'],
+    intro: 'The number two in Chinese culture represents pairs, balance, and duality. These idioms often express the idea of achieving multiple goals or the relationship between two entities.',
+    idiomIds: ['ID034', 'ID130', 'ID308', 'ID470', 'ID541', 'ID182', 'ID399', 'ID236'],
+    category: 'Numbers',
+    publishedDate: '2025-03-23'
+  },
+  {
+    slug: 'chinese-idioms-with-number-four',
+    title: '8 Chinese Idioms With the Number Four (四)',
+    description: 'Chinese idioms featuring the number four - expressions about all directions and comprehensive coverage.',
+    metaDescription: 'Discover 8 Chinese idioms with the number four. These chengyu express completeness and all directions in Mandarin.',
+    keywords: ['chinese idioms number four', 'number 4 chinese phrases', 'chengyu with four', 'chinese directions expressions', 'mandarin four idioms'],
+    intro: 'Despite four being considered unlucky in some contexts, it appears in many powerful idioms representing completeness and universality - the four directions, four seas, and comprehensive scope.',
+    idiomIds: ['ID029', 'ID121', 'ID353', 'ID384', 'ID616', 'ID220', 'ID317', 'ID319'],
+    category: 'Numbers',
+    publishedDate: '2025-03-24'
+  },
+  {
+    slug: 'chinese-idioms-with-number-seven',
+    title: '8 Chinese Idioms With the Number Seven (七)',
+    description: 'Chinese idioms featuring the number seven - expressions often paired with eight to describe chaos or activity.',
+    metaDescription: 'Learn 8 Chinese idioms with the number seven. These chengyu often describe disorder or bustling activity in Mandarin.',
+    keywords: ['chinese idioms number seven', 'number 7 chinese phrases', 'chengyu with seven', 'chinese chaos expressions', 'mandarin seven idioms'],
+    intro: 'Seven often appears alongside eight in Chinese idioms, creating vivid expressions of disorder, busy activity, or emotional turmoil. These pairings create memorable images of chaos and complexity.',
+    idiomIds: ['ID220', 'ID317', 'ID319', 'ID410', 'ID322', 'ID353', 'ID308', 'ID384'],
+    category: 'Numbers',
+    publishedDate: '2025-03-25'
+  },
+  {
+    slug: 'chinese-idioms-with-number-nine',
+    title: '8 Chinese Idioms With the Number Nine (九)',
+    description: 'Chinese idioms featuring the auspicious number nine - expressions of longevity, abundance, and imperial power.',
+    metaDescription: 'Discover 8 Chinese idioms with the lucky number nine. These chengyu express abundance and significance in Mandarin.',
+    keywords: ['chinese idioms number nine', 'number 9 chinese phrases', 'chengyu with nine', 'chinese lucky expressions', 'mandarin nine idioms'],
+    intro: 'Nine is one of the most auspicious numbers in Chinese culture, associated with the emperor, longevity, and eternity. These idioms harness its powerful symbolism of abundance and permanence.',
+    idiomIds: ['ID057', 'ID322', 'ID383', 'ID141', 'ID186', 'ID451', 'ID496', 'ID625'],
+    category: 'Numbers',
+    publishedDate: '2025-03-26'
+  },
+  {
+    slug: 'chinese-idioms-with-number-hundred',
+    title: '10 Chinese Idioms With Hundred (百)',
+    description: 'Powerful Chinese idioms featuring hundred - expressions of perseverance, completeness, and large quantities.',
+    metaDescription: 'Learn 10 powerful Chinese idioms with hundred. These chengyu express perseverance and completeness in Mandarin.',
+    keywords: ['chinese idioms hundred', 'bai chinese phrases', 'chengyu with hundred', 'chinese perseverance expressions', 'mandarin hundred idioms'],
+    intro: 'Hundred (百) in Chinese idioms represents completeness, numerous attempts, or vast quantities. These expressions often emphasize perseverance through many trials or achieving perfection.',
+    idiomIds: ['ID005', 'ID022', 'ID038', 'ID186', 'ID307', 'ID438', 'ID496', 'ID543', 'ID308', 'ID032'],
+    category: 'Numbers',
+    publishedDate: '2025-03-27'
+  },
+  {
+    slug: 'chinese-idioms-with-number-thousand',
+    title: '10 Chinese Idioms With Thousand (千) & Ten Thousand (万)',
+    description: 'Grand Chinese idioms featuring thousand and ten thousand - expressions of vast scale and immense value.',
+    metaDescription: 'Discover 10 grand Chinese idioms with thousand and ten thousand. These chengyu express immense scale in Mandarin.',
+    keywords: ['chinese idioms thousand', 'qian chinese phrases', 'chengyu with thousand', 'chinese scale expressions', 'mandarin ten thousand idioms'],
+    intro: 'Thousand (千) and ten thousand (万) appear in idioms expressing vast quantities, immense value, or endless variety. These powerful expressions capture the grandeur of scale in Chinese thought.',
+    idiomIds: ['ID141', 'ID186', 'ID451', 'ID625', 'ID629', 'ID383', 'ID496', 'ID385', 'ID510', 'ID307'],
+    category: 'Numbers',
+    publishedDate: '2025-03-28'
+  },
+  // === NEW LISTICLES: High-Value Themes ===
+  {
+    slug: 'chinese-idioms-about-wisdom',
+    title: '10 Chinese Idioms About Wisdom & Intelligence',
+    description: 'Profound Chinese idioms about wisdom, cleverness, and intellectual insight - ancient Chinese perspectives on intelligence.',
+    metaDescription: 'Learn 10 profound Chinese idioms about wisdom and intelligence. These chengyu express cleverness and insight in Mandarin.',
+    keywords: ['chinese idioms about wisdom', 'smart chinese phrases', 'chengyu for intelligence', 'chinese clever expressions', 'mandarin wisdom idioms'],
+    intro: 'Chinese culture has long valued wisdom and intellectual insight. These idioms capture different aspects of intelligence - from keen perception to strategic thinking and the humility of true wisdom.',
+    idiomIds: ['ID010', 'ID045', 'ID055', 'ID073', 'ID084', 'ID089', 'ID091', 'ID104', 'ID177', 'ID298'],
+    category: 'Wisdom',
+    publishedDate: '2025-03-29'
+  },
+  {
+    slug: 'chinese-idioms-about-honesty',
+    title: '10 Chinese Idioms About Honesty & Integrity',
+    description: 'Noble Chinese idioms about honesty, truthfulness, and moral integrity - expressions celebrating upright character.',
+    metaDescription: 'Discover 10 noble Chinese idioms about honesty and integrity. These chengyu celebrate truthfulness and moral character in Mandarin.',
+    keywords: ['chinese idioms about honesty', 'integrity chinese phrases', 'chengyu for truth', 'chinese moral expressions', 'mandarin honesty idioms'],
+    intro: 'Honesty and integrity are foundational virtues in Chinese ethics. These idioms celebrate truthfulness, keeping promises, and maintaining moral character even in difficult circumstances.',
+    idiomIds: ['ID087', 'ID123', 'ID141', 'ID180', 'ID207', 'ID209', 'ID389', 'ID421', 'ID501', 'ID593'],
+    category: 'Character',
+    publishedDate: '2025-03-30'
+  },
+  {
+    slug: 'chinese-idioms-about-karma',
+    title: '8 Chinese Idioms About Karma & Consequences',
+    description: 'Thought-provoking Chinese idioms about karma, cause and effect, and reaping what you sow.',
+    metaDescription: 'Learn 8 thought-provoking Chinese idioms about karma and consequences. These chengyu express cause and effect in Mandarin.',
+    keywords: ['chinese idioms about karma', 'karma chinese phrases', 'chengyu for consequences', 'chinese cause effect expressions', 'mandarin karma idioms'],
+    intro: 'The concept of karma - that actions have consequences - runs deep in Chinese philosophy. These idioms express the idea that good and bad deeds eventually return to their source.',
+    idiomIds: ['ID024', 'ID227', 'ID242', 'ID356', 'ID362', 'ID504', 'ID015', 'ID105'],
+    category: 'Life Philosophy',
+    publishedDate: '2025-03-31'
+  },
+  {
+    slug: 'chinese-idioms-about-health',
+    title: '8 Chinese Idioms About Health & Wellness',
+    description: 'Beneficial Chinese idioms about health, healing, and physical wellbeing - ancient wisdom for modern wellness.',
+    metaDescription: 'Discover 8 beneficial Chinese idioms about health and wellness. These chengyu express healing and wellbeing in Mandarin.',
+    keywords: ['chinese idioms about health', 'wellness chinese phrases', 'chengyu for healing', 'chinese wellbeing expressions', 'mandarin health idioms'],
+    intro: 'Health and longevity have always been prized in Chinese culture. These idioms offer wisdom about maintaining wellness, remarkable healing, and the connection between mind and body.',
+    idiomIds: ['ID161', 'ID185', 'ID222', 'ID238', 'ID301', 'ID303', 'ID536', 'ID589'],
+    category: 'Health',
+    publishedDate: '2025-04-01'
+  },
+  {
+    slug: 'chinese-idioms-for-teachers',
+    title: '10 Chinese Idioms for Teachers & Educators',
+    description: 'Inspiring Chinese idioms for teachers about education, mentorship, and the noble profession of teaching.',
+    metaDescription: 'Learn 10 inspiring Chinese idioms for teachers and educators. These chengyu celebrate teaching and mentorship in Mandarin.',
+    keywords: ['chinese idioms for teachers', 'education chinese phrases', 'chengyu for educators', 'chinese teaching expressions', 'mandarin teacher idioms'],
+    intro: 'Teaching is one of the most respected professions in Chinese culture. These idioms celebrate educators, the art of teaching, and the profound impact mentors have on their students.',
+    idiomIds: ['ID021', 'ID040', 'ID095', 'ID129', 'ID137', 'ID143', 'ID173', 'ID300', 'ID010', 'ID016'],
+    category: 'Education',
+    publishedDate: '2025-04-02'
+  },
+  {
+    slug: 'chinese-idioms-for-couples',
+    title: '10 Romantic Chinese Idioms for Couples',
+    description: 'Beautiful Chinese idioms for couples about love, marriage, and lifelong partnership - perfect for weddings and anniversaries.',
+    metaDescription: 'Discover 10 romantic Chinese idioms for couples. These chengyu express love and partnership in Mandarin.',
+    keywords: ['chinese idioms for couples', 'romantic chinese phrases', 'chengyu for marriage', 'chinese wedding expressions', 'mandarin love idioms'],
+    intro: 'Chinese culture has beautiful expressions for romantic love and lifelong partnership. These idioms celebrate the bond between couples, from mutual respect to growing old together.',
+    idiomIds: ['ID056', 'ID248', 'ID323', 'ID385', 'ID420', 'ID600', 'ID601', 'ID602', 'ID603', 'ID118'],
+    category: 'Love & Relationships',
+    publishedDate: '2025-04-03'
+  },
+  {
+    slug: 'chinese-idioms-for-parents',
+    title: '10 Chinese Idioms for Parents & Parenting',
+    description: 'Wise Chinese idioms about parenting, raising children, and the parent-child relationship.',
+    metaDescription: 'Learn 10 wise Chinese idioms for parents about raising children. These chengyu offer parenting wisdom in Mandarin.',
+    keywords: ['chinese idioms for parents', 'parenting chinese phrases', 'chengyu for family', 'chinese child-raising expressions', 'mandarin parent idioms'],
+    intro: 'Parenting wisdom runs deep in Chinese culture. These idioms offer insights about raising children, the balance between nurturing and discipline, and the enduring bond between parents and children.',
+    idiomIds: ['ID021', 'ID038', 'ID040', 'ID075', 'ID119', 'ID137', 'ID190', 'ID248', 'ID300', 'ID315'],
+    category: 'Family',
+    publishedDate: '2025-04-04'
+  },
+  {
+    slug: 'chinese-idioms-about-aging',
+    title: '8 Chinese Idioms About Aging & Growing Old',
+    description: 'Respectful Chinese idioms about aging, elderly wisdom, and the journey through life\'s later years.',
+    metaDescription: 'Discover 8 respectful Chinese idioms about aging and growing old. These chengyu honor elderly wisdom in Mandarin.',
+    keywords: ['chinese idioms about aging', 'elderly chinese phrases', 'chengyu for old age', 'chinese wisdom expressions', 'mandarin aging idioms'],
+    intro: 'Chinese culture deeply respects the elderly and values the wisdom that comes with age. These idioms honor the journey of aging, from maintaining vitality to the dignity of experience.',
+    idiomIds: ['ID018', 'ID133', 'ID154', 'ID222', 'ID295', 'ID301', 'ID603', 'ID088'],
+    category: 'Life Philosophy',
+    publishedDate: '2025-04-05'
+  },
+  // === NEW LISTICLES: AI-Query Targeted ===
+  {
+    slug: 'chinese-proverbs-english-equivalents',
+    title: '12 Chinese Idioms With English Proverb Equivalents',
+    description: 'Chinese idioms that have similar meanings to famous English proverbs - bridge two languages through shared wisdom.',
+    metaDescription: 'Learn 12 Chinese idioms with English proverb equivalents. These chengyu match familiar Western sayings in Mandarin.',
+    keywords: ['chinese idioms english equivalent', 'chinese proverbs like english', 'chengyu translation', 'chinese sayings english meaning', 'similar proverbs chinese english'],
+    intro: 'Many Chinese idioms express wisdom similar to English proverbs, showing how different cultures arrived at the same insights. These parallels help learners connect new concepts to familiar ideas.',
+    idiomIds: ['ID009', 'ID014', 'ID015', 'ID018', 'ID034', 'ID074', 'ID075', 'ID076', 'ID088', 'ID091', 'ID097', 'ID141'],
+    category: 'Learning',
+    publishedDate: '2025-04-06'
+  },
+  {
+    slug: 'chinese-idioms-blessing-in-disguise',
+    title: '8 Chinese Idioms About Blessings in Disguise',
+    description: 'Hopeful Chinese idioms about finding good in bad situations, silver linings, and unexpected fortune.',
+    metaDescription: 'Discover 8 hopeful Chinese idioms about blessings in disguise. These chengyu express hope in adversity in Mandarin.',
+    keywords: ['blessing in disguise chinese', 'silver lining chinese idiom', 'chengyu for hope', 'chinese optimism expressions', 'sai weng shi ma similar'],
+    intro: 'The famous story of Sai Weng losing his horse teaches that misfortune can become blessing. These idioms share this optimistic wisdom about finding unexpected good in difficult situations.',
+    idiomIds: ['ID018', 'ID060', 'ID084', 'ID127', 'ID156', 'ID168', 'ID260', 'ID236'],
+    category: 'Life Philosophy',
+    publishedDate: '2025-04-07'
+  },
+  {
+    slug: 'famous-chinese-idioms-everyone-knows',
+    title: '15 Famous Chinese Idioms Everyone Should Know',
+    description: 'The most well-known Chinese idioms that every learner should master - essential chengyu for cultural fluency.',
+    metaDescription: 'Master 15 famous Chinese idioms everyone knows. These essential chengyu are must-know expressions for Mandarin learners.',
+    keywords: ['famous chinese idioms', 'most popular chengyu', 'essential chinese idioms', 'must know chinese expressions', 'common mandarin idioms'],
+    intro: 'These are the Chinese idioms that native speakers use most frequently and expect others to know. Mastering these expressions is essential for anyone serious about Chinese language and culture.',
+    idiomIds: ['ID001', 'ID005', 'ID009', 'ID010', 'ID014', 'ID017', 'ID018', 'ID021', 'ID025', 'ID042', 'ID053', 'ID074', 'ID076', 'ID084', 'ID141'],
+    category: 'Learning',
+    publishedDate: '2025-04-08'
+  },
+  {
+    slug: 'chinese-idioms-with-interesting-stories',
+    title: '12 Chinese Idioms With Fascinating Origin Stories',
+    description: 'Chinese idioms with the most interesting historical stories behind them - learn the tales that created these expressions.',
+    metaDescription: 'Discover 12 Chinese idioms with fascinating origin stories. These chengyu come with memorable historical tales.',
+    keywords: ['chinese idiom stories', 'chengyu origins', 'chinese idiom history', 'interesting chinese expressions', 'mandarin idiom tales'],
+    intro: 'Every Chinese idiom has a story, but some are particularly captivating. These idioms come with memorable tales from Chinese history, literature, and folklore that make them unforgettable.',
+    idiomIds: ['ID017', 'ID018', 'ID023', 'ID025', 'ID042', 'ID049', 'ID059', 'ID074', 'ID123', 'ID131', 'ID138', 'ID271'],
+    category: 'Learning',
+    publishedDate: '2025-04-09'
+  },
+  // === NEW LISTICLES: More Animals ===
+  {
+    slug: 'chinese-idioms-with-rabbit',
+    title: '8 Chinese Idioms With Rabbit (兔)',
+    description: 'Chinese idioms featuring the rabbit - expressions about cleverness, caution, and unexpected outcomes.',
+    metaDescription: 'Learn 8 Chinese idioms featuring the rabbit. These chengyu use rabbit imagery to express cleverness in Mandarin.',
+    keywords: ['chinese idioms rabbit', 'rabbit chinese phrases', 'chengyu with rabbit', 'chinese hare expressions', 'year of rabbit idioms'],
+    intro: 'The rabbit in Chinese idioms often represents cleverness, caution, and the unexpected. These expressions draw from the rabbit\'s reputation for being quick-witted and always having an escape plan.',
+    idiomIds: ['ID074', 'ID247', 'ID031', 'ID035', 'ID082', 'ID182', 'ID236', 'ID399'],
+    category: 'Animals',
+    publishedDate: '2025-04-10'
+  },
+  {
+    slug: 'chinese-idioms-with-sheep',
+    title: '8 Chinese Idioms With Sheep & Goat (羊)',
+    description: 'Chinese idioms featuring sheep and goats - expressions about gentleness, herding, and learning from mistakes.',
+    metaDescription: 'Discover 8 Chinese idioms with sheep and goat. These chengyu express gentleness and wisdom in Mandarin.',
+    keywords: ['chinese idioms sheep', 'goat chinese phrases', 'chengyu with sheep', 'chinese lamb expressions', 'year of sheep idioms'],
+    intro: 'Sheep and goats appear in Chinese idioms representing gentleness, following the group, and importantly, learning from mistakes. The famous "mending the pen after losing sheep" teaches timeless wisdom.',
+    idiomIds: ['ID138', 'ID082', 'ID043', 'ID091', 'ID161', 'ID075', 'ID088', 'ID109'],
+    category: 'Animals',
+    publishedDate: '2025-04-11'
+  },
+  // === NEW LISTICLES: More High-Value ===
+  {
+    slug: 'chinese-idioms-about-humility',
+    title: '10 Chinese Idioms About Humility & Modesty',
+    description: 'Virtuous Chinese idioms about staying humble, avoiding arrogance, and the wisdom of modesty.',
+    metaDescription: 'Learn 10 virtuous Chinese idioms about humility and modesty. These chengyu teach the value of staying humble in Mandarin.',
+    keywords: ['chinese idioms humility', 'modest chinese phrases', 'chengyu for humble', 'chinese modesty expressions', 'mandarin humble idioms'],
+    intro: 'Humility is highly valued in Chinese culture as a sign of true wisdom and good character. These idioms teach the importance of staying modest, learning from others, and avoiding the pitfalls of arrogance.',
+    idiomIds: ['ID030', 'ID091', 'ID129', 'ID184', 'ID209', 'ID300', 'ID301', 'ID459', 'ID032', 'ID045'],
+    category: 'Character',
+    publishedDate: '2025-04-12'
+  },
+  {
+    slug: 'chinese-idioms-about-opportunity',
+    title: '10 Chinese Idioms About Opportunity & Timing',
+    description: 'Strategic Chinese idioms about seizing opportunities, perfect timing, and being prepared when chances arise.',
+    metaDescription: 'Discover 10 strategic Chinese idioms about opportunity and timing. These chengyu teach readiness and timing in Mandarin.',
+    keywords: ['chinese idioms opportunity', 'timing chinese phrases', 'chengyu for chance', 'chinese seize moment expressions', 'mandarin opportunity idioms'],
+    intro: 'Chinese philosophy emphasizes the importance of timing and being prepared for opportunities. These idioms teach the art of recognizing the right moment and being ready to act when it arrives.',
+    idiomIds: ['ID019', 'ID037', 'ID053', 'ID060', 'ID075', 'ID076', 'ID127', 'ID154', 'ID156', 'ID168'],
+    category: 'Strategy',
+    publishedDate: '2025-04-13'
+  },
+  {
+    slug: 'chinese-idioms-about-unity',
+    title: '10 Chinese Idioms About Unity & Solidarity',
+    description: 'Powerful Chinese idioms about unity, working together, and strength in numbers - collective wisdom for groups.',
+    metaDescription: 'Learn 10 powerful Chinese idioms about unity and solidarity. These chengyu emphasize collective strength in Mandarin.',
+    keywords: ['chinese idioms unity', 'solidarity chinese phrases', 'chengyu for together', 'chinese teamwork expressions', 'mandarin unity idioms'],
+    intro: 'Unity and collective strength are central themes in Chinese culture. These idioms express the power of working together, supporting each other, and achieving through solidarity what individuals cannot.',
+    idiomIds: ['ID022', 'ID027', 'ID031', 'ID035', 'ID043', 'ID045', 'ID082', 'ID102', 'ID236', 'ID317'],
+    category: 'Relationships',
+    publishedDate: '2025-04-14'
+  },
+  {
+    slug: 'chinese-idioms-about-revenge',
+    title: '8 Chinese Idioms About Revenge & Retribution',
+    description: 'Intense Chinese idioms about revenge, payback, and settling scores - expressions of determined vengeance.',
+    metaDescription: 'Discover 8 intense Chinese idioms about revenge and retribution. These chengyu express vengeance in Mandarin.',
+    keywords: ['chinese idioms revenge', 'vengeance chinese phrases', 'chengyu for payback', 'chinese retribution expressions', 'mandarin revenge idioms'],
+    intro: 'While Chinese philosophy often counsels forgiveness, these idioms capture the human desire for justice and retribution. They express determined patience and the eventual settling of accounts.',
+    idiomIds: ['ID024', 'ID154', 'ID224', 'ID227', 'ID356', 'ID362', 'ID504', 'ID570'],
+    category: 'Life Philosophy',
+    publishedDate: '2025-04-15'
+  },
+  {
+    slug: 'chinese-idioms-about-loyalty',
+    title: '10 Chinese Idioms About Loyalty & Devotion',
+    description: 'Noble Chinese idioms about loyalty, faithfulness, and unwavering devotion to people and principles.',
+    metaDescription: 'Learn 10 noble Chinese idioms about loyalty and devotion. These chengyu express faithfulness in Mandarin.',
+    keywords: ['chinese idioms loyalty', 'devotion chinese phrases', 'chengyu for faithful', 'chinese commitment expressions', 'mandarin loyalty idioms'],
+    intro: 'Loyalty is one of the most celebrated virtues in Chinese culture, essential to relationships, family, and society. These idioms honor unwavering faithfulness and steadfast devotion.',
+    idiomIds: ['ID031', 'ID035', 'ID043', 'ID087', 'ID095', 'ID102', 'ID141', 'ID180', 'ID600', 'ID601'],
+    category: 'Character',
+    publishedDate: '2025-04-16'
+  },
+  {
+    slug: 'chinese-idioms-about-deception',
+    title: '10 Chinese Idioms About Deception & Trickery',
+    description: 'Cunning Chinese idioms about deception, tricks, and seeing through falsehoods - lessons in wariness.',
+    metaDescription: 'Discover 10 cunning Chinese idioms about deception and trickery. These chengyu warn about falsehoods in Mandarin.',
+    keywords: ['chinese idioms deception', 'trickery chinese phrases', 'chengyu for lies', 'chinese cunning expressions', 'mandarin deception idioms'],
+    intro: 'Chinese idioms about deception serve as warnings and lessons in discernment. These expressions teach us to recognize tricks, see through false appearances, and protect ourselves from manipulation.',
+    idiomIds: ['ID042', 'ID055', 'ID062', 'ID072', 'ID083', 'ID131', 'ID135', 'ID271', 'ID438', 'ID516'],
+    category: 'Strategy',
+    publishedDate: '2025-04-17'
+  },
+  {
+    slug: 'chinese-idioms-about-determination',
+    title: '12 Chinese Idioms About Determination & Willpower',
+    description: 'Inspiring Chinese idioms about iron will, determination, and the resolve to achieve your goals no matter what.',
+    metaDescription: 'Learn 12 inspiring Chinese idioms about determination and willpower. These chengyu express iron resolve in Mandarin.',
+    keywords: ['chinese idioms determination', 'willpower chinese phrases', 'chengyu for resolve', 'chinese persistence expressions', 'mandarin determination idioms'],
+    intro: 'Determination and unwavering willpower are celebrated throughout Chinese history. These idioms capture the spirit of those who refuse to give up, who persist against all odds, and who achieve through sheer force of will.',
+    idiomIds: ['ID005', 'ID009', 'ID014', 'ID017', 'ID026', 'ID032', 'ID063', 'ID082', 'ID096', 'ID119', 'ID156', 'ID168'],
+    category: 'Success & Perseverance',
+    publishedDate: '2025-04-18'
+  },
+  // === NICHE LISTICLES: Job & Career ===
+  {
+    slug: 'chinese-idioms-for-job-interviews',
+    title: '10 Chinese Idioms to Impress in Job Interviews',
+    description: 'Powerful Chinese idioms that demonstrate your skills, work ethic, and cultural knowledge in professional interviews.',
+    metaDescription: 'Ace your job interview with 10 impressive Chinese idioms. These chengyu showcase professionalism and cultural fluency in Mandarin.',
+    keywords: ['chinese idioms job interview', 'professional chinese phrases', 'chengyu for career', 'impress chinese employer', 'mandarin interview tips'],
+    intro: 'Using the right Chinese idiom in a job interview can demonstrate cultural fluency and leave a lasting impression. These expressions showcase professionalism, capability, and the right attitude for success.',
+    idiomIds: ['ID044', 'ID068', 'ID078', 'ID098', 'ID128', 'ID140', 'ID144', 'ID178', 'ID199', 'ID288'],
+    category: 'Career',
+    publishedDate: '2025-04-19'
+  },
+  {
+    slug: 'chinese-idioms-about-leadership',
+    title: '10 Chinese Idioms About Leadership & Management',
+    description: 'Ancient Chinese wisdom on leadership, guiding others, and the qualities of effective leaders and managers.',
+    metaDescription: 'Master 10 Chinese idioms about leadership and management. These chengyu teach timeless wisdom for guiding others.',
+    keywords: ['chinese idioms leadership', 'management chinese phrases', 'chengyu for leaders', 'chinese boss expressions', 'mandarin management idioms'],
+    intro: 'Chinese philosophy offers profound insights on leadership that remain relevant today. These idioms capture the essence of effective leadership - from strategic thinking to inspiring others.',
+    idiomIds: ['ID077', 'ID150', 'ID165', 'ID176', 'ID189', 'ID191', 'ID204', 'ID218', 'ID228', 'ID229'],
+    category: 'Leadership',
+    publishedDate: '2025-04-20'
+  },
+  {
+    slug: 'chinese-idioms-about-bad-bosses',
+    title: '8 Chinese Idioms About Bad Bosses & Toxic Leadership',
+    description: 'Colorful Chinese idioms describing terrible bosses, incompetent managers, and toxic workplace behavior.',
+    metaDescription: 'Discover 8 Chinese idioms about bad bosses and toxic leadership. These chengyu describe workplace villains in Mandarin.',
+    keywords: ['chinese idioms bad boss', 'toxic boss chinese', 'chengyu terrible manager', 'chinese workplace complaints', 'mandarin boss idioms'],
+    intro: 'Chinese has wonderfully expressive idioms for describing bad bosses - from those who abuse power to those who take credit for others\' work. These colorful expressions have described workplace villains for centuries.',
+    idiomIds: ['ID261', 'ID281', 'ID328', 'ID330', 'ID344', 'ID423', 'ID539', 'ID560'],
+    category: 'Workplace',
+    publishedDate: '2025-04-21'
+  },
+  {
+    slug: 'chinese-idioms-for-workplace',
+    title: '10 Essential Chinese Idioms for the Workplace',
+    description: 'Must-know Chinese idioms for professional settings - from teamwork to handling office politics.',
+    metaDescription: 'Learn 10 essential Chinese idioms for the workplace. These chengyu help navigate professional environments in Mandarin.',
+    keywords: ['chinese idioms workplace', 'office chinese phrases', 'chengyu for work', 'professional mandarin expressions', 'chinese corporate idioms'],
+    intro: 'Navigating the Chinese workplace requires understanding the right expressions. These idioms cover everything from demonstrating diligence to handling office dynamics with grace.',
+    idiomIds: ['ID067', 'ID111', 'ID178', 'ID194', 'ID205', 'ID239', 'ID254', 'ID276', 'ID277', 'ID288'],
+    category: 'Workplace',
+    publishedDate: '2025-04-22'
+  },
+  // === NICHE LISTICLES: HSK Exam Prep ===
+  {
+    slug: 'chinese-idioms-hsk-4',
+    title: '12 Essential Chinese Idioms for HSK 4 Learners',
+    description: 'Key Chinese idioms every HSK 4 student should know - commonly tested chengyu for intermediate learners.',
+    metaDescription: 'Master 12 essential Chinese idioms for HSK 4. These commonly tested chengyu are must-know for intermediate Mandarin learners.',
+    keywords: ['hsk 4 idioms', 'chinese idioms hsk4', 'chengyu for hsk', 'intermediate chinese idioms', 'hsk exam chengyu'],
+    intro: 'Preparing for HSK 4? These idioms frequently appear in intermediate-level Chinese exams and conversations. Mastering them will boost both your test scores and real-world communication.',
+    idiomIds: ['ID044', 'ID047', 'ID061', 'ID067', 'ID068', 'ID069', 'ID077', 'ID078', 'ID081', 'ID092', 'ID098', 'ID099'],
+    category: 'Learning',
+    publishedDate: '2025-04-23'
+  },
+  {
+    slug: 'chinese-idioms-hsk-5',
+    title: '12 Advanced Chinese Idioms for HSK 5 Learners',
+    description: 'Challenging Chinese idioms for HSK 5 preparation - expand your vocabulary for upper-intermediate Mandarin.',
+    metaDescription: 'Challenge yourself with 12 advanced Chinese idioms for HSK 5. These chengyu expand upper-intermediate Mandarin vocabulary.',
+    keywords: ['hsk 5 idioms', 'chinese idioms hsk5', 'advanced chengyu', 'upper intermediate chinese', 'hsk 5 vocabulary'],
+    intro: 'HSK 5 requires a broader range of idiomatic expressions. These chengyu represent the sophistication expected at upper-intermediate level, appearing in reading passages and listening comprehension.',
+    idiomIds: ['ID204', 'ID205', 'ID210', 'ID212', 'ID213', 'ID215', 'ID216', 'ID217', 'ID218', 'ID226', 'ID228', 'ID229'],
+    category: 'Learning',
+    publishedDate: '2025-04-24'
+  },
+  {
+    slug: 'chinese-idioms-hsk-6',
+    title: '12 Sophisticated Chinese Idioms for HSK 6 Mastery',
+    description: 'High-level Chinese idioms for HSK 6 candidates - demonstrate native-like fluency with these chengyu.',
+    metaDescription: 'Achieve HSK 6 mastery with 12 sophisticated Chinese idioms. These advanced chengyu demonstrate native-like Mandarin fluency.',
+    keywords: ['hsk 6 idioms', 'chinese idioms hsk6', 'advanced mandarin chengyu', 'native chinese expressions', 'hsk 6 preparation'],
+    intro: 'HSK 6 represents near-native proficiency in Mandarin. These sophisticated idioms demonstrate the depth of cultural and linguistic knowledge expected at the highest level of Chinese language certification.',
+    idiomIds: ['ID401', 'ID404', 'ID406', 'ID408', 'ID411', 'ID412', 'ID413', 'ID416', 'ID417', 'ID419', 'ID422', 'ID424'],
+    category: 'Learning',
+    publishedDate: '2025-04-25'
+  },
+  // === NICHE LISTICLES: Strategy ===
+  {
+    slug: 'chinese-idioms-from-art-of-war',
+    title: '10 Chinese Idioms From The Art of War & Military Strategy',
+    description: 'Strategic Chinese idioms inspired by Sun Tzu and ancient military wisdom - timeless tactics for modern challenges.',
+    metaDescription: 'Learn 10 strategic Chinese idioms from The Art of War. These Sun Tzu-inspired chengyu teach timeless tactical wisdom.',
+    keywords: ['art of war idioms', 'sun tzu chinese phrases', 'military strategy chengyu', 'chinese war expressions', 'strategic mandarin idioms'],
+    intro: 'Sun Tzu\'s Art of War has influenced strategy for over 2,500 years. These idioms capture military wisdom that applies equally to business, competition, and life\'s challenges.',
+    idiomIds: ['ID077', 'ID111', 'ID165', 'ID189', 'ID191', 'ID270', 'ID291', 'ID292', 'ID306', 'ID329'],
+    category: 'Strategy',
+    publishedDate: '2025-04-26'
+  },
+  {
+    slug: 'chinese-idioms-about-competition',
+    title: '10 Chinese Idioms About Competition & Rivalry',
+    description: 'Fierce Chinese idioms about competition, beating rivals, and coming out on top in any contest.',
+    metaDescription: 'Discover 10 fierce Chinese idioms about competition and rivalry. These chengyu capture the spirit of winning in Mandarin.',
+    keywords: ['chinese idioms competition', 'rivalry chinese phrases', 'chengyu for winning', 'chinese contest expressions', 'mandarin competitive idioms'],
+    intro: 'Competition has driven human achievement throughout history. These Chinese idioms capture the intensity of rivalry, the thrill of victory, and the strategies for coming out ahead.',
+    idiomIds: ['ID047', 'ID081', 'ID124', 'ID140', 'ID164', 'ID181', 'ID193', 'ID204', 'ID229', 'ID232'],
+    category: 'Competition',
+    publishedDate: '2025-04-27'
+  },
+  {
+    slug: 'chinese-idioms-about-strategic-planning',
+    title: '10 Chinese Idioms About Strategic Planning & Foresight',
+    description: 'Wise Chinese idioms about planning ahead, strategic thinking, and anticipating future challenges.',
+    metaDescription: 'Master 10 Chinese idioms about strategic planning and foresight. These chengyu teach the art of thinking ahead in Mandarin.',
+    keywords: ['chinese idioms planning', 'strategy chinese phrases', 'chengyu for foresight', 'chinese preparation expressions', 'mandarin planning idioms'],
+    intro: 'The ability to plan strategically and anticipate challenges has always been valued in Chinese culture. These idioms teach the art of thinking several moves ahead.',
+    idiomIds: ['ID044', 'ID077', 'ID092', 'ID111', 'ID204', 'ID245', 'ID261', 'ID292', 'ID306', 'ID329'],
+    category: 'Strategy',
+    publishedDate: '2025-04-28'
+  },
+  // === NICHE LISTICLES: Self-Improvement ===
+  {
+    slug: 'chinese-idioms-about-learning-from-mistakes',
+    title: '10 Chinese Idioms About Learning From Mistakes',
+    description: 'Wise Chinese idioms about failure, learning from errors, and turning setbacks into growth opportunities.',
+    metaDescription: 'Learn 10 wise Chinese idioms about learning from mistakes. These chengyu teach how to grow from failure in Mandarin.',
+    keywords: ['chinese idioms mistakes', 'learning from failure chinese', 'chengyu for errors', 'chinese growth mindset expressions', 'mandarin mistake idioms'],
+    intro: 'Chinese wisdom recognizes that mistakes are essential teachers. These idioms offer perspectives on failure that transform setbacks into stepping stones for success.',
+    idiomIds: ['ID098', 'ID124', 'ID125', 'ID132', 'ID193', 'ID218', 'ID229', 'ID259', 'ID273', 'ID306'],
+    category: 'Self-Improvement',
+    publishedDate: '2025-04-29'
+  },
+  {
+    slug: 'chinese-idioms-about-self-improvement',
+    title: '10 Chinese Idioms About Self-Improvement & Growth',
+    description: 'Inspiring Chinese idioms about personal development, continuous improvement, and becoming your best self.',
+    metaDescription: 'Discover 10 inspiring Chinese idioms about self-improvement. These chengyu motivate personal growth in Mandarin.',
+    keywords: ['chinese idioms self improvement', 'personal growth chinese', 'chengyu for development', 'chinese betterment expressions', 'mandarin growth idioms'],
+    intro: 'The pursuit of self-improvement is a cornerstone of Chinese philosophy. These idioms inspire continuous growth, learning, and the journey toward becoming your best self.',
+    idiomIds: ['ID044', 'ID047', 'ID068', 'ID098', 'ID128', 'ID140', 'ID165', 'ID263', 'ID277', 'ID280'],
+    category: 'Self-Improvement',
+    publishedDate: '2025-04-30'
+  },
+  {
+    slug: 'chinese-idioms-about-overcoming-adversity',
+    title: '10 Chinese Idioms About Overcoming Adversity',
+    description: 'Powerful Chinese idioms about facing hardship, enduring struggles, and emerging stronger from challenges.',
+    metaDescription: 'Find strength in 10 Chinese idioms about overcoming adversity. These chengyu teach resilience through hardship in Mandarin.',
+    keywords: ['chinese idioms adversity', 'overcoming hardship chinese', 'chengyu for struggles', 'chinese resilience expressions', 'mandarin adversity idioms'],
+    intro: 'Life\'s greatest lessons often come through adversity. These powerful idioms capture the Chinese spirit of resilience - facing hardship with courage and emerging stronger.',
+    idiomIds: ['ID061', 'ID092', 'ID164', 'ID205', 'ID235', 'ID246', 'ID252', 'ID277', 'ID292', 'ID297'],
+    category: 'Resilience',
+    publishedDate: '2025-05-01'
+  },
+  // === NICHE LISTICLES: Relationships ===
+  {
+    slug: 'chinese-idioms-about-betrayal',
+    title: '10 Chinese Idioms About Betrayal & Broken Trust',
+    description: 'Intense Chinese idioms about betrayal, backstabbing, and those who abandon others in times of need.',
+    metaDescription: 'Explore 10 intense Chinese idioms about betrayal and broken trust. These chengyu describe treachery in Mandarin.',
+    keywords: ['chinese idioms betrayal', 'backstab chinese phrases', 'chengyu for traitors', 'chinese trust expressions', 'mandarin betrayal idioms'],
+    intro: 'Betrayal cuts deep in any culture. These Chinese idioms vividly describe those who break trust, abandon allies, and reveal their true treacherous nature.',
+    idiomIds: ['ID069', 'ID081', 'ID235', 'ID243', 'ID252', 'ID309', 'ID321', 'ID355', 'ID408', 'ID591'],
+    category: 'Relationships',
+    publishedDate: '2025-05-02'
+  },
+  {
+    slug: 'chinese-idioms-about-gratitude',
+    title: '10 Chinese Idioms About Gratitude & Appreciation',
+    description: 'Heartfelt Chinese idioms about thankfulness, repaying kindness, and appreciating those who help us.',
+    metaDescription: 'Express appreciation with 10 Chinese idioms about gratitude. These chengyu teach thankfulness in Mandarin.',
+    keywords: ['chinese idioms gratitude', 'thankful chinese phrases', 'chengyu for appreciation', 'chinese kindness expressions', 'mandarin gratitude idioms'],
+    intro: 'Gratitude is deeply valued in Chinese culture, with strong traditions of remembering and repaying kindness. These idioms express the many dimensions of thankfulness and appreciation.',
+    idiomIds: ['ID134', 'ID149', 'ID277', 'ID300', 'ID315', 'ID422', 'ID432', 'ID467', 'ID577', 'ID646'],
+    category: 'Relationships',
+    publishedDate: '2025-05-03'
+  },
+  {
+    slug: 'chinese-idioms-about-forgiveness',
+    title: '8 Chinese Idioms About Forgiveness & Letting Go',
+    description: 'Compassionate Chinese idioms about forgiveness, mercy, and the wisdom of letting go of grudges.',
+    metaDescription: 'Find peace with 8 Chinese idioms about forgiveness. These chengyu teach the wisdom of letting go in Mandarin.',
+    keywords: ['chinese idioms forgiveness', 'letting go chinese', 'chengyu for mercy', 'chinese compassion expressions', 'mandarin forgiveness idioms'],
+    intro: 'While revenge features in many idioms, Chinese wisdom also teaches the value of forgiveness and moving forward. These expressions capture the peace that comes from letting go.',
+    idiomIds: ['ID091', 'ID209', 'ID242', 'ID362', 'ID546', 'ID556', 'ID589', 'ID600'],
+    category: 'Relationships',
+    publishedDate: '2025-05-04'
+  },
+  // === NICHE LISTICLES: Finance ===
+  {
+    slug: 'chinese-idioms-about-wealth-prosperity',
+    title: '10 Chinese Idioms About Wealth & Prosperity',
+    description: 'Auspicious Chinese idioms about wealth, fortune, and achieving prosperity through wisdom and effort.',
+    metaDescription: 'Attract fortune with 10 Chinese idioms about wealth and prosperity. These auspicious chengyu celebrate success in Mandarin.',
+    keywords: ['chinese idioms wealth', 'prosperity chinese phrases', 'chengyu for fortune', 'chinese rich expressions', 'mandarin wealth idioms'],
+    intro: 'Wealth and prosperity have always been celebrated in Chinese culture, but with an emphasis on earning fortune through virtue and wisdom. These idioms reflect both aspirations and warnings about riches.',
+    idiomIds: ['ID067', 'ID068', 'ID103', 'ID162', 'ID181', 'ID199', 'ID257', 'ID277', 'ID523', 'ID583'],
+    category: 'Finance',
+    publishedDate: '2025-05-05'
+  },
+  {
+    slug: 'chinese-idioms-about-frugality-saving',
+    title: '8 Chinese Idioms About Frugality & Saving Money',
+    description: 'Practical Chinese idioms about being thrifty, avoiding waste, and the wisdom of saving for the future.',
+    metaDescription: 'Save wisely with 8 Chinese idioms about frugality. These practical chengyu teach financial wisdom in Mandarin.',
+    keywords: ['chinese idioms frugal', 'saving money chinese', 'chengyu for thrift', 'chinese financial wisdom expressions', 'mandarin saving idioms'],
+    intro: 'Chinese culture has long valued frugality and careful management of resources. These idioms teach the wisdom of saving, avoiding waste, and planning for the future.',
+    idiomIds: ['ID088', 'ID109', 'ID154', 'ID215', 'ID235', 'ID328', 'ID532', 'ID537'],
+    category: 'Finance',
+    publishedDate: '2025-05-06'
+  },
+  // === NICHE LISTICLES: Cultural Interest ===
+  {
+    slug: 'chinese-idioms-with-hidden-meanings',
+    title: '10 Chinese Idioms With Surprising Hidden Meanings',
+    description: 'Fascinating Chinese idioms where the surface meaning differs dramatically from the true meaning - linguistic surprises.',
+    metaDescription: 'Discover 10 Chinese idioms with surprising hidden meanings. These fascinating chengyu reveal unexpected wisdom in Mandarin.',
+    keywords: ['chinese idioms hidden meaning', 'surprising chinese phrases', 'chengyu double meaning', 'chinese linguistic surprises', 'mandarin hidden idioms'],
+    intro: 'Some Chinese idioms say one thing but mean something entirely different. These fascinating expressions reveal how context and history transform literal meanings into profound wisdom.',
+    idiomIds: ['ID044', 'ID047', 'ID069', 'ID081', 'ID125', 'ID146', 'ID152', 'ID162', 'ID252', 'ID271'],
+    category: 'Culture',
+    publishedDate: '2025-05-07'
+  },
+  {
+    slug: 'chinese-idioms-about-speaking-words',
+    title: '10 Chinese Idioms About Speaking & The Power of Words',
+    description: 'Eloquent Chinese idioms about speech, communication, and the immense power words hold in shaping reality.',
+    metaDescription: 'Master communication with 10 Chinese idioms about speaking and words. These chengyu reveal the power of language in Mandarin.',
+    keywords: ['chinese idioms speaking', 'words chinese phrases', 'chengyu for communication', 'chinese eloquence expressions', 'mandarin speech idioms'],
+    intro: 'Words have immense power in Chinese culture - to build or destroy, to heal or harm. These idioms explore the art of speaking well, knowing when to stay silent, and the lasting impact of what we say.',
+    idiomIds: ['ID061', 'ID069', 'ID078', 'ID132', 'ID146', 'ID149', 'ID178', 'ID213', 'ID226', 'ID280'],
+    category: 'Communication',
+    publishedDate: '2025-05-08'
   }
 ];
 
