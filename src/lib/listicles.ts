@@ -294,6 +294,18 @@ export const listicles: Listicle[] = [
     category: 'Wealth',
     publishedDate: '2025-02-06'
   },
+  // Chinese New Year 2025 - Year of the Snake
+  {
+    slug: 'year-of-the-snake-idioms-2025',
+    title: '10 Wise Chinese Idioms for Year of the Snake 2025 (蛇年)',
+    description: 'Embrace the Year of the Snake with idioms celebrating wisdom, patience, and strategic insight - the serpent\'s greatest gifts.',
+    metaDescription: 'What are the best Chinese idioms for Year of the Snake 2025? These 10 wise chengyu (蛇年成语) embody the snake\'s wisdom, patience, and keen insight for CNY greetings.',
+    keywords: ['year of the snake idioms 2025', 'snake chinese idioms she nian', 'cny 2025 greetings snake', '蛇年成语 2025', 'chinese new year 2025 snake sayings', 'lunar new year snake zodiac phrases', 'snake wisdom idioms', 'best wishes year of snake chinese', '2025 spring festival snake idioms', 'serpent chinese proverbs'],
+    intro: 'The Year of the Snake (蛇年, shé nián) in 2025 brings wisdom, intuition, and transformation. In Chinese culture, the snake represents deep insight, patience, and the ability to see what others miss. These 10 idioms capture the serpent\'s essence - from keen perception (见微知著) to strategic brilliance (运筹帷幄) - perfect for celebrating this thoughtful zodiac year.',
+    idiomIds: ['ID079', 'ID044', 'ID077', 'ID089', 'ID111', 'ID154', 'ID174', 'ID001', 'ID009', 'ID010'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-02-03'
+  },
   // Chinese New Year 2026 - Year of the Horse
   {
     slug: 'year-of-the-horse-idioms-2026',
