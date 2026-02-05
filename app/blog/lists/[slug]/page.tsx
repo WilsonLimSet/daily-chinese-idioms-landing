@@ -2,7 +2,8 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
-import { getAllListicles, getListicleWithIdioms } from '@/src/lib/listicles';
+import { getAllListicles, getListicleWithIdioms, getLocalizedSlug } from '@/src/lib/listicles';
+import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 export async function generateStaticParams() {
@@ -44,6 +45,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/blog/lists/${slug}`,
+      languages: {
+        'x-default': `/blog/lists/${slug}`,
+        'en': `/blog/lists/${slug}`,
+        ...Object.fromEntries(
+          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog/lists/${getLocalizedSlug(slug, lang)}`])
+        ),
+      },
     },
   };
 }

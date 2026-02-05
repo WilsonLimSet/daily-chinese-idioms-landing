@@ -98,6 +98,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: {
       canonical: `https://www.chineseidioms.com/blog/${slug}`,
       languages: {
+        'x-default': `/blog/${slug}`,
         'en': `/blog/${slug}`,
         ...Object.fromEntries(
           Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog/${slug}`])

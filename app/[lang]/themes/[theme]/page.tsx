@@ -80,6 +80,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
       languages: {
+        'x-default': `/themes/${theme}`,
         'en': `/themes/${theme}`,
         ...Object.fromEntries(
           Object.keys(LANGUAGES).map(l => [l, `/${l}/themes/${theme}`])

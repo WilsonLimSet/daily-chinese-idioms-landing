@@ -29,6 +29,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.chineseidioms.com/dictionary',
     languages: {
+      'x-default': '/dictionary',
       'en': '/dictionary',
       ...Object.fromEntries(
         Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/dictionary`])

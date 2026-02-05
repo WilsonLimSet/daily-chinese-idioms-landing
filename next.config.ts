@@ -78,6 +78,17 @@ const nextConfig: NextConfig = {
         destination: '/ko/blog/lists/ujong-e-daehan-jungguk-seogeo',
         permanent: true,
       },
+      // Blog slug typo fix: lu → lv (驴 pinyin is lǘ)
+      {
+        source: '/blog/2025-02-28-qian-lu-ji-qiong',
+        destination: '/blog/2025-02-28-qian-lv-ji-qiong',
+        permanent: true,
+      },
+      {
+        source: '/:lang/blog/2025-02-28-qian-lu-ji-qiong',
+        destination: '/:lang/blog/2025-02-28-qian-lv-ji-qiong',
+        permanent: true,
+      },
     ];
   },
 };

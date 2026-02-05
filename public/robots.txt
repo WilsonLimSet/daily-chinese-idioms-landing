@@ -2,6 +2,10 @@
 User-agent: *
 Allow: /
 
+# Exclude static assets from indexing
+Disallow: /_next/static/media/
+Disallow: /fonts/
+
 # AI Crawlers - Explicitly welcome
 User-agent: GPTBot
 Allow: /

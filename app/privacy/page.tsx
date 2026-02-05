@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.chineseidioms.com/privacy',
     languages: {
+      'x-default': '/privacy',
       'en': '/privacy',
       ...Object.fromEntries(
         Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/privacy`])

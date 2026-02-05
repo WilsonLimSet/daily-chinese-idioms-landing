@@ -26,6 +26,7 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.chineseidioms.com',
     languages: {
+      'x-default': 'https://www.chineseidioms.com',
       'en': 'https://www.chineseidioms.com',
       'es': 'https://www.chineseidioms.com/es',
       'pt': 'https://www.chineseidioms.com/pt',

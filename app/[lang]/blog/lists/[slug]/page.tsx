@@ -48,6 +48,7 @@ export async function generateMetadata({
 
   // Build language alternates with localized slugs for each language
   const languageAlternates: Record<string, string> = {
+    'x-default': `/blog/lists/${originalSlug}`,
     'en': `/blog/lists/${originalSlug}`,
   };
   for (const l of Object.keys(LANGUAGES)) {

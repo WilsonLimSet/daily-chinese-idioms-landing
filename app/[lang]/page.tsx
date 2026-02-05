@@ -62,6 +62,7 @@ export async function generateMetadata({
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}`,
       languages: {
+        'x-default': '/',
         'en': '/',
         ...Object.fromEntries(
           Object.keys(LANGUAGES).map(lang => [lang, `/${lang}`])
