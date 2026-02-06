@@ -44,25 +44,14 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     };
   }
 
-  // Value-first title format - shows meaning immediately for better CTR
-  const title = `${post.idiom.characters} (${post.idiom.pinyin}) - ${post.idiom.metaphoric_meaning} | Chinese Idiom`;
-  
-  // Optimized meta description (150-160 chars)
-  const pinyinNoTones = post.idiom.pinyin.toLowerCase().replace(/[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜńňǹḿ]/g, (match) => {
-    const map: { [key: string]: string } = {
-      'ā': 'a', 'á': 'a', 'ǎ': 'a', 'à': 'a',
-      'ē': 'e', 'é': 'e', 'ě': 'e', 'è': 'e',
-      'ī': 'i', 'í': 'i', 'ǐ': 'i', 'ì': 'i',
-      'ō': 'o', 'ó': 'o', 'ǒ': 'o', 'ò': 'o',
-      'ū': 'u', 'ú': 'u', 'ǔ': 'u', 'ù': 'u',
-      'ǖ': 'v', 'ǘ': 'v', 'ǚ': 'v', 'ǜ': 'v',
-      'ń': 'n', 'ň': 'n', 'ǹ': 'n', 'ḿ': 'm'
-    };
-    return map[match] || match;
-  });
-  
+  // Compute pinyin without tones for search matching (people search "ma dao cheng gong" not "mǎ dào chéng gōng")
+  const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
+
+  // SEO title: characters + searchable pinyin + "Meaning" keyword + metaphoric meaning
+  const title = `${post.idiom.characters} (${pinyinNoTones}) Meaning - ${post.idiom.metaphoric_meaning} | Chinese Idiom`;
+
   // Optimized meta description with keyword-rich content (150-160 chars)
-  const description = `${post.idiom.characters} (${pinyinNoTones}): Learn the meaning, origin, and usage of this Chinese idiom about ${post.idiom.theme.toLowerCase()}. Includes examples & cultural context.`;
+  const description = `${post.idiom.characters} (${pinyinNoTones}): "${post.idiom.meaning}" - Learn the meaning, origin & usage of this Chinese idiom. ${post.idiom.metaphoric_meaning}. Examples & cultural context.`;
 
   return {
     title,
@@ -70,9 +59,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     keywords: [
       post.idiom.characters,
       post.idiom.pinyin,
-      `${post.idiom.pinyin} meaning`,
+      pinyinNoTones,
+      `${pinyinNoTones} meaning`,
       `${post.idiom.characters} meaning`,
       `${post.idiom.characters} meaning in english`,
+      `${post.idiom.characters} 意味`,
+      `${post.idiom.characters} 英文`,
       'chinese idiom',
       'chengyu',
       post.idiom.theme.toLowerCase()

@@ -5,7 +5,7 @@ import { Calendar, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
 import { getTranslation } from '@/src/lib/translations';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import '@/app/blog/blog.css';
@@ -52,6 +52,13 @@ export async function generateMetadata({
   }
 
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
+  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
+
+  // Compute pinyin without tones for search matching
+  const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
+
+  // Get localized "meaning" word for SEO (e.g., "意味" for ja, "Significado" for es)
+  const meaningWord = getTranslation(lang, 'meaning');
 
   const localeMap: { [key: string]: string } = {
     'es': 'es_ES',
@@ -74,21 +81,33 @@ export async function generateMetadata({
     .filter(l => l !== lang)
     .map(l => localeMap[l] || 'en_US');
 
+  // SEO title: characters + searchable pinyin + localized "meaning" word + metaphoric meaning
+  // Matches queries like "明鏡止水 意味", "ma dao cheng gong meaning", "马到成功 Significado"
+  const title = `${post.idiom.characters} (${pinyinNoTones}) ${meaningWord} - ${post.idiom.metaphoric_meaning}`;
+
+  // Keyword-rich description with pinyin and localized content
+  const description = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning}. ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
+
   return {
-    title: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning} | Chinese Idioms (${langName})`,
-    description: `${post.idiom.metaphoric_meaning}: ${post.idiom.description.substring(0, 160)}...`,
+    title,
+    description,
     keywords: [
       post.idiom.characters,
       post.idiom.pinyin,
+      pinyinNoTones,
+      `${pinyinNoTones} meaning`,
+      `${post.idiom.characters} ${meaningWord}`,
+      `${post.idiom.characters} meaning`,
+      `${post.idiom.characters} 英文`,
+      `${post.idiom.characters} 意味`,
       'chinese idioms',
       'chengyu',
       '成语',
       post.idiom.theme,
-      langName,
-      `chinese idioms ${langName.toLowerCase()}`,
+      nativeName,
     ],
     openGraph: {
-      title: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
+      title,
       description: post.idiom.metaphoric_meaning,
       url: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
       siteName: 'Daily Chinese Idioms',
