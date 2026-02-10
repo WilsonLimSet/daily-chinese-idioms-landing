@@ -8,6 +8,7 @@ import { getTranslation } from '@/src/lib/translations';
 import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 import '@/app/blog/blog.css';
 
 // ISR: Revalidate pages every 24 hours
@@ -303,9 +304,13 @@ export default async function InternationalBlogPostPage({
               {post.idiom.characters} {getTranslation(lang, 'meaning')}, {post.idiom.characters} {getTranslation(lang, 'inEnglish')}
             </p>
           </div>
+
+          <AdUnit slot="1234567890" />
         </header>
 
         <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: contentHtml }} />
+
+        <AdUnit slot="1234567891" />
 
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">

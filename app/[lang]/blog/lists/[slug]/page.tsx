@@ -11,6 +11,7 @@ import {
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 export async function generateStaticParams() {
   const params = [];
@@ -211,6 +212,8 @@ export default async function TranslatedListiclePage({
           </p>
         </div>
 
+        <AdUnit slot="1234567892" />
+
         {/* Idiom List */}
         <div className="space-y-6">
           {listicle.idioms.map((item, index) => {
@@ -298,6 +301,8 @@ export default async function TranslatedListiclePage({
             })}
           </div>
         </section>
+
+        <AdUnit slot="1234567893" />
 
         {/* Related Listicles */}
         {allListicles.length > 0 && (

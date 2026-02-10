@@ -7,6 +7,7 @@ import { remark } from 'remark';
 import html from 'remark-html';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 import '../blog.css';
 
 // ISR: Revalidate pages every 24 hours
@@ -278,13 +279,17 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               {post.idiom.characters} meaning, {post.idiom.characters} in english
             </p>
           </div>
-          
+
+          <AdUnit slot="1234567890" />
+
           <p className="text-xl text-black font-medium">{post.idiom.metaphoric_meaning}</p>
         </header>
 
         <div className="blog-content">
           <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
         </div>
+
+        <AdUnit slot="1234567891" />
 
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">

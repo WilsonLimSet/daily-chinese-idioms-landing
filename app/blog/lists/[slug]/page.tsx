@@ -5,6 +5,7 @@ import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import { getAllListicles, getListicleWithIdioms, getLocalizedSlug } from '@/src/lib/listicles';
 import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 export async function generateStaticParams() {
   const listicles = getAllListicles();
@@ -185,6 +186,8 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
           </p>
         </div>
 
+        <AdUnit slot="1234567892" />
+
         {/* Idiom List */}
         <div className="space-y-6">
           {listicle.idioms.map((item, index) => {
@@ -272,6 +275,8 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
             })}
           </div>
         </section>
+
+        <AdUnit slot="1234567893" />
 
         {/* Related Listicles */}
         {allListicles.length > 0 && (
