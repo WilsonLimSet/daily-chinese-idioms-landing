@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import { Search, BookOpen, Languages, Sparkles } from 'lucide-react';
-import { getAllBlogPosts } from '@/src/lib/blog';
+import { getAllBlogPosts } from '@/src/lib/blog-intl';
 import { LANGUAGES } from '@/src/lib/constants';
-import { getTranslation } from '@/src/lib/translations';
+import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -73,7 +73,7 @@ export default async function DictionaryPage({
   params: Promise<{ lang: string }>
 }) {
   const { lang } = await params;
-  const allPosts = await getAllBlogPosts();
+  const allPosts = await getAllBlogPosts(lang);
 
   // Group idioms by first pinyin letter for quick navigation
   const alphabetGroups: { [key: string]: typeof allPosts } = {};
@@ -218,7 +218,7 @@ export default async function DictionaryPage({
                     href={`/${lang}/themes/${themeSlug}`}
                     className="block bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-6"
                   >
-                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{theme}</h3>
+                    <h3 className="text-lg font-semibold text-gray-900 mb-2">{getThemeTranslation(lang, theme)}</h3>
                     <p className="text-sm text-gray-600 mb-3">
                       {posts.length} {getTranslation(lang, 'idioms')}
                     </p>
