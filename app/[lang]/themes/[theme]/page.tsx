@@ -103,7 +103,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
   const themeName = THEME_MAP[theme];
 
   if (!themeName) {
-    return <div>Theme not found</div>;
+    return <div>{getTranslation(lang, 'themeNotFound')}</div>;
   }
 
   const allPosts = await getAllBlogPosts(lang);
@@ -139,13 +139,13 @@ export default async function InternationalThemePage({ params }: { params: Promi
         {
           "@type": "ListItem",
           "position": 1,
-          "name": getTranslation(lang, 'home') || 'Home',
+          "name": getTranslation(lang, 'home'),
           "item": `https://www.chineseidioms.com/${lang}`
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": getTranslation(lang, 'footerBlog') || 'Blog',
+          "name": getTranslation(lang, 'footerBlog'),
           "item": `https://www.chineseidioms.com/${lang}/blog`
         },
         {
@@ -176,10 +176,10 @@ export default async function InternationalThemePage({ params }: { params: Promi
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            {themeName} Chinese Idioms
+            {themeName} {getTranslation(lang, 'chineseIdiomsAbout')}
           </h1>
           <p className="text-gray-600 mt-4">
-            {themePosts.length} idioms
+            {themePosts.length} {getTranslation(lang, 'idioms')}
           </p>
         </header>
 
@@ -211,7 +211,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
               </p>
 
               <p className="text-blue-600 text-sm mt-4 font-medium">
-                Learn more →
+                {getTranslation(lang, 'learnMoreArrow')}
               </p>
             </Link>
           ))}
@@ -222,7 +222,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
           const themeListicles = getListiclesForTheme(themeName);
           return themeListicles.length > 0 ? (
             <section className="mt-12">
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">Curated {themeName} Lists</h2>
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">{getTranslation(lang, 'curatedListsFeaturing')} {themeName}</h2>
               <div className="grid gap-3 md:grid-cols-3">
                 {themeListicles.map(listicle => (
                   <Link
@@ -243,7 +243,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
 
         {/* Related Themes */}
         <section className="mt-16 pt-8 border-t">
-          <h2 className="text-2xl font-bold mb-6 text-gray-900">Explore Other Themes</h2>
+          <h2 className="text-2xl font-bold mb-6 text-gray-900">{getTranslation(lang, 'exploreOtherThemes')}</h2>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {Object.entries(THEME_MAP)
               .filter(([key]) => key !== theme)
@@ -265,7 +265,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <p className="text-gray-600">© {new Date().getFullYear()} {getTranslation(lang, 'footerCopyright')}</p>
               <span className="hidden sm:inline text-gray-400">•</span>
               <a
                 href="https://wilsonlimset.com"
@@ -273,14 +273,14 @@ export default async function InternationalThemePage({ params }: { params: Promi
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                Built by Wilson
+                {getTranslation(lang, 'footerBuiltBy')}
               </a>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link
                 href={`/${lang}/blog`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                Blog
+                {getTranslation(lang, 'footerBlog')}
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <LanguageSelector currentLang={lang} />

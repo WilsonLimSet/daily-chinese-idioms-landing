@@ -134,7 +134,7 @@ export default async function InternationalHomePage({
                   <div className="transform-gpu transition-all duration-300 hover:scale-105 hover:-rotate-2 hover:shadow-2xl">
                     <Image
                       src="/app-screenshot.jpeg"
-                      alt="Daily Chinese Idioms app interface showing detailed view of an idiom with its meaning and usage"
+                      alt={getTranslation(lang, 'heroDescription')}
                       width={280}
                       height={560}
                       className="rounded-3xl shadow-xl"
@@ -144,7 +144,7 @@ export default async function InternationalHomePage({
                   <div className="transform-gpu transition-all duration-300 hover:scale-105 hover:rotate-2 hover:shadow-2xl">
                     <Image
                       src="/widget-screenshot.jpeg"
-                      alt="Home screen widget showcase displaying different sizes of Daily Chinese Idioms widgets"
+                      alt={getTranslation(lang, 'widgetDesc')}
                       width={280}
                       height={560}
                       className="rounded-3xl shadow-xl"

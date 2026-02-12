@@ -110,13 +110,13 @@ export default async function InternationalBlogPage({ params }: { params: Promis
         {
           '@type': 'ListItem',
           position: 1,
-          name: getTranslation(lang, 'home') || 'Home',
+          name: getTranslation(lang, 'home'),
           item: `https://www.chineseidioms.com/${lang}`
         },
         {
           '@type': 'ListItem',
           position: 2,
-          name: getTranslation(lang, 'footerBlog') || 'Blog',
+          name: getTranslation(lang, 'footerBlog'),
           item: `https://www.chineseidioms.com/${lang}/blog`
         }
       ]
@@ -134,7 +134,7 @@ export default async function InternationalBlogPage({ params }: { params: Promis
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="flex items-center gap-2 mb-6">
             <BookOpen className="w-5 h-5 text-red-600" />
-            <h2 className="text-xl font-bold text-gray-900">{getTranslation(lang, 'curatedLists') || 'Curated Idiom Lists'}</h2>
+            <h2 className="text-xl font-bold text-gray-900">{getTranslation(lang, 'curatedLists')}</h2>
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {listicles.slice(0, 4).map((listicle) => (
@@ -170,15 +170,15 @@ export default async function InternationalBlogPage({ params }: { params: Promis
       {/* Quick Navigation */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t">
         <div className="flex flex-wrap gap-4 justify-center text-sm text-gray-600">
-          <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">Dictionary</Link>
+          <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'dictionary')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/success-perseverance`} className="hover:text-red-600 transition-colors">Success Idioms</Link>
+          <Link href={`/${lang}/themes/success-perseverance`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'successIdioms')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/life-philosophy`} className="hover:text-red-600 transition-colors">Life Philosophy</Link>
+          <Link href={`/${lang}/themes/life-philosophy`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'lifePhilosophy')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/wisdom-learning`} className="hover:text-red-600 transition-colors">Wisdom & Learning</Link>
+          <Link href={`/${lang}/themes/wisdom-learning`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'wisdomLearning')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/relationships-character`} className="hover:text-red-600 transition-colors">Relationships</Link>
+          <Link href={`/${lang}/themes/relationships-character`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'relationships')}</Link>
         </div>
       </div>
     </>

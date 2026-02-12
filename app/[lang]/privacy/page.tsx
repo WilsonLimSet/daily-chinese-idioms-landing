@@ -466,7 +466,7 @@ export default async function PrivacyPolicy({ params }: { params: Promise<{ lang
                   clipRule="evenodd"
                 />
               </svg>
-              <span>{getTranslation(lang, 'home') || 'Back to Home'}</span>
+              <span>{getTranslation(lang, 'backToHome')}</span>
             </Link>
           </div>
 

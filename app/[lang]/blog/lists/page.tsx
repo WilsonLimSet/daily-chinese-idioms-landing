@@ -84,7 +84,7 @@ export default async function TranslatedListiclesIndexPage({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <Link href={`/${lang}/blog`} className="flex items-center gap-2 text-gray-600 hover:text-gray-900">
             <ArrowLeft className="w-4 h-4" />
-            {t('backToAll') || 'Back to Blog'}
+            {t('backToAll')}
           </Link>
         </div>
       </nav>
@@ -96,12 +96,11 @@ export default async function TranslatedListiclesIndexPage({
               <BookOpen className="w-6 h-6 text-red-600" />
             </div>
             <h1 className="text-4xl font-bold text-gray-900">
-              Chinese Idiom Lists
+              {t('chineseIdiomLists')}
             </h1>
           </div>
           <p className="text-xl text-gray-600 max-w-3xl">
-            Explore our curated collections of Chinese idioms (chengyu) organized by topic.
-            Each list features carefully selected idioms with meanings, origins, and practical examples.
+            {t('chineseIdiomListsDesc')}
           </p>
         </header>
 
@@ -117,7 +116,7 @@ export default async function TranslatedListiclesIndexPage({
                   {listicle.category}
                 </span>
                 <span className="text-xs text-gray-500">
-                  {listicle.idiomIds.length} idioms
+                  {listicle.idiomIds.length} {t('idioms')}
                 </span>
               </div>
 
@@ -130,7 +129,7 @@ export default async function TranslatedListiclesIndexPage({
               </p>
 
               <div className="mt-4 text-sm font-medium text-red-600 group-hover:text-red-700">
-                {t('learnMore') || 'Read list'} →
+                {t('learnMore')} →
               </div>
             </Link>
           ))}
@@ -141,7 +140,7 @@ export default async function TranslatedListiclesIndexPage({
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} {t('footerCopyright') || 'Daily Chinese Idioms'}</p>
+              <p className="text-gray-600">&copy; {new Date().getFullYear()} {t('footerCopyright')}</p>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <a
                 href="https://wilsonlimset.com"
@@ -149,14 +148,14 @@ export default async function TranslatedListiclesIndexPage({
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                {t('footerBuiltBy') || 'Built by Wilson'}
+                {t('footerBuiltBy')}
               </a>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <Link
                 href={`/${lang}/blog`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                {t('footerBlog') || 'Blog'}
+                {t('footerBlog')}
               </Link>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <LanguageSelector currentLang={lang} />

@@ -170,11 +170,11 @@ export default async function DictionaryPage({
             </div>
             <div className="bg-white rounded-lg p-4 text-center shadow-sm">
               <div className="text-3xl font-bold text-red-600">14</div>
-              <div className="text-sm text-gray-600">Languages</div>
+              <div className="text-sm text-gray-600">{getTranslation(lang, 'languages')}</div>
             </div>
             <div className="bg-white rounded-lg p-4 text-center shadow-sm">
-              <div className="text-3xl font-bold text-red-600">Daily</div>
-              <div className="text-sm text-gray-600">Updates</div>
+              <div className="text-3xl font-bold text-red-600">✓</div>
+              <div className="text-sm text-gray-600">{getTranslation(lang, 'dailyUpdates')}</div>
             </div>
           </div>
         </div>
@@ -248,7 +248,7 @@ export default async function DictionaryPage({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
             <Languages className="w-6 h-6 text-red-600" />
-            Browse A-Z by Pinyin
+            {getTranslation(lang, 'browseByPinyin')}
           </h2>
 
           {/* Letter Navigation */}
@@ -357,7 +357,7 @@ export default async function DictionaryPage({
             </Link>
             <span className="hidden sm:inline text-gray-400">•</span>
             <Link href={`/${lang}/dictionary`} className="text-gray-600 hover:text-gray-900 transition-colors">
-              Dictionary
+              {getTranslation(lang, 'dictionary')}
             </Link>
             <span className="hidden sm:inline text-gray-400">•</span>
             <Link href={`/${lang}/privacy`} className="text-gray-600 hover:text-gray-900 transition-colors">

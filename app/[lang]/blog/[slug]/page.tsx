@@ -49,7 +49,7 @@ export async function generateMetadata({
 
   if (!post) {
     return {
-      title: 'Idiom Not Found',
+      title: getTranslation(lang, 'idiomNotFound'),
     };
   }
 
@@ -242,13 +242,13 @@ export default async function InternationalBlogPostPage({
         {
           '@type': 'ListItem',
           position: 1,
-          name: getTranslation(lang, 'home') || 'Home',
+          name: getTranslation(lang, 'home'),
           item: `https://www.chineseidioms.com/${lang}`
         },
         {
           '@type': 'ListItem',
           position: 2,
-          name: getTranslation(lang, 'footerBlog') || 'Blog',
+          name: getTranslation(lang, 'footerBlog'),
           item: `https://www.chineseidioms.com/${lang}/blog`
         },
         {
@@ -414,7 +414,7 @@ export default async function InternationalBlogPostPage({
           const relatedListicles = getListiclesForIdiom(post.idiom.id);
           return relatedListicles.length > 0 ? (
             <section className="mt-12 pt-8 border-t">
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">Curated Lists Featuring {post.idiom.characters}</h2>
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">{getTranslation(lang, 'curatedListsFeaturing')} {post.idiom.characters}</h2>
               <div className="grid gap-3 md:grid-cols-3">
                 {relatedListicles.map(listicle => (
                   <Link
@@ -433,11 +433,11 @@ export default async function InternationalBlogPostPage({
 
         {/* Explore More */}
         <nav className="mt-8 pt-6 border-t flex flex-wrap gap-4 text-sm text-gray-600">
-          <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">Browse Dictionary</Link>
+          <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'browseDictionary')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/blog/lists`} className="hover:text-red-600 transition-colors">Curated Lists</Link>
+          <Link href={`/${lang}/blog/lists`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'curatedLists')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">More {post.idiom.theme} Idioms</Link>
+          <Link href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'moreThemeIdioms')}</Link>
         </nav>
 
       </article>

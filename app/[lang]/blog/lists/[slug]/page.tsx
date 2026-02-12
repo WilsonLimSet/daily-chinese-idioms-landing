@@ -186,7 +186,7 @@ export default async function TranslatedListiclePage({
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <Link href={`/${lang}/blog/lists`} className="inline-flex items-center gap-2 text-gray-500 hover:text-gray-900 font-medium transition-colors">
             <ArrowLeft className="w-4 h-4" />
-            {t('backToAll') || 'Back to Lists'}
+            {t('backToAll')}
           </Link>
         </div>
       </nav>
@@ -243,7 +243,7 @@ export default async function TranslatedListiclePage({
                     </p>
 
                     <p className="text-gray-500 mb-4 text-sm sm:text-base">
-                      <span className="font-medium text-gray-600">{t('literalMeaning') || 'Literal'}:</span> {item.idiom.meaning}
+                      <span className="font-medium text-gray-600">{t('literalMeaning')}:</span> {item.idiom.meaning}
                     </p>
 
                     <p className="text-gray-700 mb-5 leading-relaxed text-sm sm:text-base">
@@ -253,7 +253,7 @@ export default async function TranslatedListiclePage({
 
                     <div className="bg-gradient-to-br from-gray-50 to-gray-100/50 rounded-xl p-4 sm:p-5 mb-5 border border-gray-100">
                       <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 mb-2">
-                        {t('example') || 'Example'}
+                        {t('example')}
                       </p>
                       <p className="text-gray-800 font-medium mb-1">{item.idiom.example}</p>
                       <p className="text-gray-500 text-sm">{item.idiom.chineseExample}</p>
@@ -279,7 +279,7 @@ export default async function TranslatedListiclePage({
 
         {/* Summary Section */}
         <section className="mt-16 bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 rounded-3xl p-8 sm:p-10 border border-blue-100/50">
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">Quick Reference</h2>
+          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">{t('quickReference')}</h2>
           <div className="grid gap-3 sm:gap-4 md:grid-cols-2">
             {listicle.idioms.map((item, index) => {
               if (!item.idiom) return null;
@@ -307,7 +307,7 @@ export default async function TranslatedListiclePage({
         {/* Related Listicles */}
         {allListicles.length > 0 && (
           <section className="mt-16 pt-10 border-t border-gray-200">
-            <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-gray-900">More Chinese Idiom Lists</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-gray-900">{t('moreIdiomLists')}</h2>
             <div className="grid gap-4 sm:gap-6 md:grid-cols-2">
               {allListicles.map((related) => (
                 <Link
@@ -319,7 +319,7 @@ export default async function TranslatedListiclePage({
                   <h3 className="font-bold text-gray-900 mb-2 group-hover:text-red-600 transition-colors line-clamp-2">{related.title}</h3>
                   <p className="text-sm text-gray-500 line-clamp-2 leading-relaxed">{related.description}</p>
                   <div className="mt-4 flex items-center gap-1 text-red-600 font-medium text-sm opacity-0 group-hover:opacity-100 transition-opacity">
-                    <span>View list</span>
+                    <span>{t('viewList')}</span>
                     <ChevronRight className="w-4 h-4" />
                   </div>
                 </Link>
@@ -332,10 +332,9 @@ export default async function TranslatedListiclePage({
         <section className="mt-16 relative overflow-hidden bg-gradient-to-br from-red-500 via-red-600 to-orange-500 rounded-3xl p-8 sm:p-12 text-center">
           <div className="absolute inset-0 bg-[url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxnIGZpbGw9IiNmZmZmZmYiIGZpbGwtb3BhY2l0eT0iMC4xIj48cGF0aCBkPSJNMzYgMzRoLTJ2LTRoMnY0em0wLTZ2LTRoLTJ2NGgyem0tNiA2di00aC00djRoNHptMC02di00aC00djRoNHptLTYgNnYtNGgtNHY0aDR6bTAtNnYtNGgtNHY0aDR6Ii8+PC9nPjwvZz48L3N2Zz4=')] opacity-30"></div>
           <div className="relative">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">{t('learnDailyTitle') || 'Learn Chinese Idioms Daily'}</h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">{t('learnDailyTitle')}</h2>
             <p className="text-red-100 mb-8 max-w-2xl mx-auto text-base sm:text-lg leading-relaxed">
-              Get a new Chinese idiom delivered to your home screen every day with our free iOS app.
-              Features pinyin pronunciation, meanings, and cultural context.
+              {t('appPromoDesc')}
             </p>
             <a
               href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
@@ -343,7 +342,7 @@ export default async function TranslatedListiclePage({
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-white text-red-600 px-8 py-4 rounded-2xl font-bold text-lg hover:bg-gray-50 hover:scale-105 transition-all duration-200 shadow-xl shadow-red-900/20"
             >
-              {t('downloadAppStore') || 'Download Free App'}
+              {t('downloadAppStore')}
             </a>
           </div>
         </section>
@@ -354,7 +353,7 @@ export default async function TranslatedListiclePage({
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} {t('footerCopyright') || 'Daily Chinese Idioms'}</p>
+              <p className="text-gray-600">&copy; {new Date().getFullYear()} {t('footerCopyright')}</p>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <a
                 href="https://wilsonlimset.com"
@@ -362,28 +361,28 @@ export default async function TranslatedListiclePage({
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                {t('footerBuiltBy') || 'Built by Wilson'}
+                {t('footerBuiltBy')}
               </a>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <Link
                 href={`/${lang}/blog`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                {t('footerBlog') || 'Blog'}
+                {t('footerBlog')}
               </Link>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <Link
                 href={`/${lang}/dictionary`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                Dictionary
+                {t('dictionary')}
               </Link>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <Link
                 href={`/${lang}/privacy`}
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
-                {t('footerPrivacy') || 'Privacy Policy'}
+                {t('footerPrivacy')}
               </Link>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <LanguageSelector currentLang={lang} />
