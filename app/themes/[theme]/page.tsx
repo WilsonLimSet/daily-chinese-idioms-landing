@@ -42,13 +42,16 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
   const description = THEME_DESCRIPTIONS[theme] || `Comprehensive guide to Chinese idioms about ${themeName.toLowerCase()}. Learn chengyu with meanings, examples, and cultural context.`;
 
   return {
-    title: `${themeName} Chinese Idioms - Complete Chengyu Guide`,
+    title: `Chinese Idioms About ${themeName} - Chengyu with English Meanings`,
     description,
     keywords: [
+      `chinese idioms about ${themeName.toLowerCase()}`,
+      `chinese idioms for ${themeName.toLowerCase().split(' ')[0]}`,
       `${themeName.toLowerCase()} chinese idioms`,
       `${themeName.toLowerCase()} chengyu`,
       'chinese proverbs',
       'learn chinese idioms',
+      'chengyu with english meanings',
       themeName,
       'chinese culture',
       'mandarin idioms'

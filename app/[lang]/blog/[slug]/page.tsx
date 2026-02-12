@@ -83,12 +83,12 @@ export async function generateMetadata({
     .filter(l => l !== lang)
     .map(l => localeMap[l] || 'en_US');
 
-  // SEO title: characters + searchable pinyin + localized "meaning" word + metaphoric meaning
-  // Matches queries like "明鏡止水 意味", "ma dao cheng gong meaning", "马到成功 Significado"
-  const title = `${post.idiom.characters} (${pinyinNoTones}) ${meaningWord} - ${post.idiom.metaphoric_meaning}`;
+  // SEO title: characters + pinyin + localized meaning word + English translation keyword
+  // Targets: "明鏡止水 意味", "马到成功 英文", "ma dao cheng gong meaning"
+  const title = `${post.idiom.characters} (${pinyinNoTones}) ${meaningWord} - ${post.idiom.metaphoric_meaning} | 英文 English`;
 
-  // Keyword-rich description with pinyin and localized content
-  const description = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning}. ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
+  // Lead with English translation - this is what 英文/意味 searchers want to see in snippet
+  const description = `${post.idiom.characters} (${post.idiom.pinyin}) English: "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
 
   return {
     title,

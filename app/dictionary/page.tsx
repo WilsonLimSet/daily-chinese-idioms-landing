@@ -7,21 +7,25 @@ import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 export const metadata: Metadata = {
-  title: 'Chinese Idioms Dictionary (Chengyu) - 365+ Expressions with Meanings',
-  description: 'Complete Chinese idioms dictionary with 365+ chengyu. Search by pinyin, characters, or meaning. Each idiom includes pronunciation, literal meaning, usage examples, and cultural context.',
+  title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings & Pinyin',
+  description: 'Complete chengyu dictionary with 680+ Chinese idioms (成语). Browse by pinyin A-Z or theme. Each idiom includes English translation, pronunciation, literal meaning, origin & usage examples.',
   keywords: [
     'chengyu dictionary',
     'chinese idiom dictionary',
+    'chinese idioms dictionary',
+    'chinese chengyu dictionary',
+    'chengyu list',
     'chinese idioms list',
     'chengyu meanings',
     '成语词典',
     'learn chinese idioms',
     'chinese proverbs dictionary',
-    'mandarin idioms'
+    'mandarin idioms',
+    'chinese idioms with english meanings'
   ],
   openGraph: {
-    title: 'Chinese Idioms Dictionary - 365+ Chengyu with Meanings',
-    description: 'Complete searchable dictionary of Chinese idioms (chengyu) with pinyin, meanings, and examples.',
+    title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings',
+    description: 'Complete chengyu dictionary. Browse 680+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
     url: 'https://www.chineseidioms.com/dictionary',
     siteName: 'Daily Chinese Idioms',
     locale: 'en_US',

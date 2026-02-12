@@ -49,11 +49,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // Compute pinyin without tones for search matching (people search "ma dao cheng gong" not "mǎ dào chéng gōng")
   const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
 
-  // SEO title: characters + searchable pinyin + "Meaning" keyword + metaphoric meaning
-  const title = `${post.idiom.characters} (${pinyinNoTones}) Meaning - ${post.idiom.metaphoric_meaning} | Chinese Idiom`;
+  // SEO title: characters + pinyin + "Meaning" + English meaning
+  // Targets: "[pinyin] meaning", "[characters] meaning", "[characters] 英文"
+  const title = `${post.idiom.characters} (${pinyinNoTones}) - Meaning & English Translation | Chengyu`;
 
-  // Optimized meta description with keyword-rich content (150-160 chars)
-  const description = `${post.idiom.characters} (${pinyinNoTones}): "${post.idiom.meaning}" - Learn the meaning, origin & usage of this Chinese idiom. ${post.idiom.metaphoric_meaning}. Examples & cultural context.`;
+  // Lead with English meaning for 英文 searches - searchers need to see the translation in the snippet
+  const description = `${post.idiom.characters} (${post.idiom.pinyin}) English meaning: "${post.idiom.metaphoric_meaning}". Literally "${post.idiom.meaning}". Learn origin, usage & examples of this Chinese idiom (chengyu).`;
 
   return {
     title,

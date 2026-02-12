@@ -19,10 +19,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Chinese Idioms (成语) Dictionary: 365+ Chengyu with English Meanings & Pinyin",
-  description: "Master Chinese idioms (chengyu) with our complete dictionary of 365+ expressions. Learn meanings, pinyin, origins, and usage examples. Daily updates, iOS widgets & searchable database.",
+  title: "Chinese Idioms (成语) - 680+ Chengyu with English Meanings, Pinyin & Examples",
+  description: "Complete Chinese idioms (chengyu) dictionary with 680+ expressions. English translations, pinyin pronunciation, origins & usage examples. Browse by theme, search by characters or meaning.",
   metadataBase: new URL('https://www.chineseidioms.com'),
-  keywords: ['chinese idioms', 'chengyu', 'chinese proverbs', 'learn chinese idioms', 'chengyu dictionary', 'chinese idioms meanings', 'pinyin', 'mandarin idioms', 'chinese culture'],
+  keywords: ['chinese idioms', 'chengyu', 'chinese proverbs', 'learn chinese idioms', 'chengyu dictionary', 'chinese idioms with english meanings', 'chinese idiom dictionary', 'pinyin', 'mandarin idioms', 'chinese culture', '成语', 'chengyu meaning'],
   alternates: {
     canonical: 'https://www.chineseidioms.com',
     languages: {
@@ -49,8 +49,8 @@ export const metadata: Metadata = {
     locale: 'en_US',
     alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     url: 'https://www.chineseidioms.com',
-    title: "Chinese Idioms Dictionary: 365+ Chengyu with English Meanings & Pinyin",
-    description: "Master 365+ Chinese idioms (chengyu) with English meanings, pinyin, origins, and examples. Daily updates, iOS widgets & complete searchable dictionary.",
+    title: "Chinese Idioms (成语) - 680+ Chengyu with English Meanings & Pinyin",
+    description: "Complete Chinese idioms dictionary with 680+ chengyu. English translations, pinyin, origins & examples. Browse by theme or search by characters.",
     siteName: 'Daily Chinese Idioms',
     images: [{
       url: '/og-image.png',
