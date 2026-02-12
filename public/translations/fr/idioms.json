@@ -5448,17 +5448,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Cheveux de grue et teint d'enfant",
-    "metaphoric_meaning": "Cheveux blancs mais avec une apparence jeune",
-    "description": "Cette expression combine les cheveux 'plume de grue' (鹤发) - blancs comme le plumage d'une grue - avec le teint (颜) d'un enfant (童) pour décrire les personnes âgées qui conservent une apparence jeune. La grue symbolise la longévité dans la culture chinoise, tandis que le teint rose des enfants représente la santé et la vitalité. L'expression est née dans les descriptions des immortels taoïstes et des sages de longue vie qui ont défié le vieillissement normal. Elle loue ceux qui maintiennent la santé et la vitalité malgré un âge avancé. L'usage moderne complimente les personnes âgées actives et en bonne santé.",
-    "example": "Malgré son âge, il conserve la vigueur et le teint de la jeunesse.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID428",
     "characters": "铁证如山",
     "pinyin": "tiě zhèng rú shān",
@@ -5500,17 +5489,6 @@
     "description": "Cette expression est tirée de la géomancie chinoise (feng shui), où 'dragon' (龙) fait référence aux chaînes de montagnes et 'veines' (脉) à leurs extensions. Les géomanciens traçaient le 'dragon venant' et les 'veines allant' pour comprendre le flux d'énergie du paysage. L'expression a évolué pour signifier retracer les origines et les développements de toute question - ses causes, sa progression et ses connexions. Elle met l'accent sur l'importance de comprendre le contexte et l'histoire. L'usage moderne décrit le fait d'enquêter ou d'expliquer le contexte et le développement complets d'une situation ou d'un événement.",
     "example": "Avant de prendre une décision, nous devons comprendre le contexte complet.",
     "chineseExample": "做决定之前，我们需要了解事情的来龙去脉。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Without speaking yet understood",
-    "metaphoric_meaning": "Self-evident; goes without saying",
-    "description": "This idiom expresses that something is so obvious it doesn't need (不) words (言) yet (而) is understood (喻). It appears in the Confucian classic 'Mencius,' emphasizing truths so fundamental they require no explanation. The phrase reflects the Chinese philosophical tradition valuing implicit understanding over explicit statement. Confucius himself favored teaching through example rather than extensive explanation. Modern usage describes self-evident truths, obvious conclusions, or situations where the meaning is crystal clear without elaboration.",
-    "example": "The importance of education is self-evident in today's world.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6040,17 +6018,6 @@
     "example": "Après la dispute, il a agi comme si rien ne s'était passé.",
     "chineseExample": "争吵之后，他若无其事地继续工作。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID481",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Avoir un bambou complet dans sa poitrine",
-    "metaphoric_meaning": "Avoir un plan bien pensé",
-    "description": "Cette expression est issue du peintre Wen Tong de la dynastie Song, célèbre pour ses peintures de bambous. Avant de peindre, il visualisait complètement (成) le bambou (竹) dans sa poitrine (胸) - son esprit. Cette préparation mentale lui permettait de peindre avec des traits rapides et confiants. L'expression décrit le fait d'avoir un plan ou une vision pleinement formés avant de commencer. L'usage moderne décrit l'approche des tâches avec une préparation minutieuse et une vision claire du résultat souhaité.",
-    "example": "Elle a abordé la négociation avec une confiance totale.",
-    "chineseExample": "她胸有成竹地参与谈判。",
-    "theme": "Strategy & Action"
   },
   {
     "id": "ID482",
@@ -6933,17 +6900,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "Cet idiome décrit le fait de s'auto-déprécier (自菲薄) déraisonnablement (妄). Il est tiré du célèbre mémoire de Zhuge Liang à l'empereur de Shu, conseillant de ne pas s'auto-déprécier excessivement, ce qui pourrait nuire à l'État. L'expression met en garde contre le fait que la fausse modestie peut être aussi dommageable que l'arrogance. L'usage moderne encourage une saine estime de soi et met en garde contre les comportements d'auto-sabotage qui limitent le potentiel.",
-    "example": "Ne sous-estimez pas vos capacités ; vous avez beaucoup à apporter.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID563",
     "characters": "妄自尊大",
     "pinyin": "wàng zì zūn dà",
@@ -6953,17 +6909,6 @@
     "example": "Sa confiance excessive l'a aveuglé sur ses faiblesses évidentes.",
     "chineseExample": "他妄自尊大，看不到自己明显的弱点。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "Cet idiome décrit le fait de s'inquiéter (患) de gagner (得) et de s'inquiéter (患) de perdre (失). Il vient des Analectes de Confucius, critiquant les petites gens qui sont constamment anxieux de ce qu'ils pourraient gagner ou perdre. Cet état d'esprit crée une anxiété sans fin et empêche le contentement. L'usage moderne décrit un attachement excessif aux résultats et l'incapacité à trouver la paix quelles que soient les circonstances.",
-    "example": "Son anxiété constante concernant les résultats l'empêchait d'apprécier le processus.",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID565",
@@ -6996,17 +6941,6 @@
     "description": "Cet idiome décrit le fait d'être si heureux (得意) qu'on oublie (忘) la forme ou le comportement approprié (形). Il met en garde contre le fait qu'une joie ou un succès excessif peut entraîner une perte de sang-froid et de jugement. L'expression est apparue dans des textes sur les dangers de l'hubris après la réussite. L'usage moderne met en garde contre le fait de laisser le succès monter à la tête, ce qui conduit à un comportement inapproprié ou à de mauvaises décisions.",
     "example": "Son succès l'a rendu négligent quant à sa conduite professionnelle.",
     "chineseExample": "成功让他得意忘形，忽视了职业操守。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "Cet idiome décrit la joie (喜) qui va au-delà (出) de ce que l'on espérait (望外). Il capture le plaisir de recevoir quelque chose de mieux que prévu. L'expression est apparue dans des textes décrivant des moments de bonne fortune inattendue qui dépassaient tous les espoirs. L'usage moderne décrit les agréables surprises, les aubaines et tout résultat positif qui surpasse les attentes.",
-    "example": "Elle a été agréablement surprise par la promotion inattendue.",
-    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -7074,17 +7008,6 @@
     "example": "Il a l'air sombre depuis qu'il a entendu parler des coupes budgétaires.",
     "chineseExample": "自从听说预算削减后，他一直愁眉苦脸。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID575",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Drooping head, lost spirit",
-    "metaphoric_meaning": "Be dejected and dispirited",
-    "description": "Cet idiome décrit une tête (头) baissée (垂) et un esprit (气) perdu (丧). Il dépeint le langage corporel de la défaite et du découragement - la posture affaissée de quelqu'un qui a perdu espoir. L'expression capture la façon dont la déception se manifeste physiquement. L'usage moderne décrit l'abattement, la perte visible d'énergie et d'espoir après un échec ou une mauvaise nouvelle.",
-    "example": "L'équipe perdante a quitté le terrain abattue et découragée.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID576",
@@ -7219,17 +7142,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Brillant, clair et droit",
-    "metaphoric_meaning": "Être ouvert et honnête",
-    "description": "Cet idiome décrit le fait d'être brillant (光明) et droit (磊落). Le caractère 磊 montre trois pierres empilées, représentant la solidité et l'ouverture. L'expression dépeint une personne qui n'a rien à cacher, dont le caractère est transparent et honorable. L'usage moderne décrit les personnes intègres dont les actions peuvent résister à l'examen, qui agissent ouvertement sans arrière-pensées.",
-    "example": "Son caractère direct lui a valu la confiance de tous.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID589",
     "characters": "坦坦荡荡",
     "pinyin": "tǎn tǎn dàng dàng",
@@ -7249,17 +7161,6 @@
     "description": "Cet idiome décrit l'extérieur (表) et l'intérieur (里) étant comme (如) un (一). Il dépeint la cohérence entre la personnalité publique et le moi privé, entre les mots et les actions. L'expression valorise l'authenticité et l'intégrité. L'usage moderne loue ceux qui sont authentiques - la même personne quel que soit le public ou la circonstance, sans prétention ni duplicité.",
     "example": "Elle est authentique - la même personne en public et en privé.",
     "chineseExample": "她表里如一，在公众场合和私下是同一个人。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Paroles et actions cohérentes",
-    "metaphoric_meaning": "Pratiquer ce que l'on prêche",
-    "description": "Cet idiome décrit les paroles (言) et les actions (行) étant cohérentes (一致). Il valorise l'alignement entre ce que l'on dit et ce que l'on fait. L'expression met en garde contre l'hypocrisie où les promesses ne correspondent pas au comportement. L'usage moderne souligne l'intégrité et la fiabilité, la fiabilité qui vient lorsque les actions de quelqu'un correspondent constamment à ses paroles.",
-    "example": "Un bon leader pratique ce qu'il prêche.",
-    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
@@ -7395,17 +7296,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Les cœurs s'impriment l'un sur l'autre",
-    "metaphoric_meaning": "Être parfaitement à l'écoute l'un de l'autre",
-    "description": "Cet idiome décrit les cœurs (心心) s'imprimant (印) l'un sur l'autre (相). À l'origine un terme bouddhiste décrivant la transmission du dharma entre le maître et le disciple sans mots, il décrit maintenant principalement une connexion romantique profonde. L'usage moderne dépeint une compréhension intime entre les amants ou les amis proches où la communication transcende les mots - des esprits qui pensent de la même manière et des cœurs qui battent à l'unisson.",
-    "example": "Le couple se comprenait sans mots.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID605",
     "characters": "一见钟情",
     "pinyin": "yī jiàn zhōng qíng",
@@ -7428,17 +7318,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID607",
-    "characters": "天长地久",
-    "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "Ciel long, terre durable",
-    "metaphoric_meaning": "Durer éternellement; être éternel",
-    "description": "Cet idiome décrit le ciel (天) comme étant long (长) et la terre (地) comme étant durable (久). Tiré du Dao De Jing décrivant la nature éternelle du ciel et de la terre. L'expression représente la permanence et l'éternité. L'usage moderne exprime des vœux de relations durables, qu'elles soient romantiques, amicales ou familiales - des bénédictions pour des liens qui durent comme le ciel et la terre.",
-    "example": "Que votre amitié dure éternellement.",
-    "chineseExample": "愿你们的友谊天长地久。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID608",
     "characters": "难分难舍",
     "pinyin": "nán fēn nán shě",
@@ -7447,17 +7326,6 @@
     "description": "Cet idiome décrit le fait d'être difficile (难) à séparer (分) et difficile (难) à quitter (舍). Il dépeint la douleur de la séparation lorsque l'attachement est fort. La structure doublée souligne la difficulté de dire au revoir. L'usage moderne décrit la difficulté émotionnelle de se séparer des êtres chers, la réticence à mettre fin à une réunion ou à une relation lorsque les sentiments sont profonds.",
     "example": "Les adieux ont été émouvants car aucun ne voulait dire au revoir.",
     "chineseExample": "告别时他们难分难舍，都不想说再见。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "S'attarder à contrecœur, ne pas vouloir partir",
-    "metaphoric_meaning": "Être réticent à se séparer",
-    "description": "Cet idiome décrit le fait de s'attarder (依依) et de ne pas vouloir (不舍) partir. Le 依 doublé souligne la qualité tenace et réticente du départ. L'expression capture l'hésitation au moment de quitter quelque chose de bien-aimé. L'usage moderne décrit les séparations à contrecœur - les enfants qui quittent des endroits amusants, les amoureux qui se disent au revoir, ou le fait de quitter toute situation que l'on souhaiterait voir continuer.",
-    "example": "Les enfants ont quitté le parc d'attractions à contrecœur.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -7593,17 +7461,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "S'incliner et s'épuiser",
-    "metaphoric_meaning": "Se consacrer entièrement; travailler jusqu'à l'épuisement",
-    "description": "Cet idiome décrit le fait de s'incliner (鞠躬) et de s'épuiser (尽) soi-même (瘁). Il provient du célèbre mémorial de Zhuge Liang, décrivant son dévouement à servir Shu jusqu'à la mort. L'expression incarne le summum du service loyal. L'usage moderne décrit un dévouement complet à une cause ou à une organisation, donnant tout jusqu'à ce qu'il ne reste plus rien, la plus haute forme de service dévoué.",
-    "example": "Il a servi l'organisation jusqu'à son dernier souffle.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID623",
     "characters": "死而后已",
     "pinyin": "sǐ ér hòu yǐ",
@@ -7703,39 +7560,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID632",
-    "characters": "循序渐进",
-    "pinyin": "xún xù jiàn jìn",
-    "meaning": "Suivre la séquence, progresser graduellement",
-    "metaphoric_meaning": "Procéder étape par étape; progresser graduellement",
-    "description": "Cet idiome décrit le fait de suivre (循) une séquence (序) et de progresser (进) graduellement (渐). Il préconise une progression systématique, étape par étape, plutôt que de sauter des étapes. L'expression est apparue dans des textes classiques sur l'éducation, soulignant l'importance d'un ordre approprié. L'usage moderne décrit des approches méthodiques de l'apprentissage ou du développement, reconnaissant que des bases solides permettent un progrès durable.",
-    "example": "L'apprentissage d'une langue nécessite des progrès constants et graduels.",
-    "chineseExample": "学习语言需要循序渐进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "Suivre les départements, aller aux cours",
-    "metaphoric_meaning": "Suivre les procédures établies; être méthodique",
-    "description": "Cet idiome décrit le fait de suivre (按) les départements (部) et d'aller (就) aux cours (班). Décrivant à l'origine les procédures bureaucratiques, il en est venu à signifier le respect de l'ordre établi. L'expression valorise les approches systématiques par rapport à l'improvisation. L'usage moderne décrit le respect des procédures et des séquences appropriées, le travail méthodique plutôt que chaotique, bien qu'il critique parfois une rigidité excessive.",
-    "example": "Le projet s'est déroulé selon le processus établi.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID634",
-    "characters": "脚踏实地",
-    "pinyin": "jiǎo tà shí dì",
-    "meaning": "Les pieds foulent un sol solide",
-    "metaphoric_meaning": "Avoir les pieds sur terre; prendre des mesures pratiques",
-    "description": "Cet idiome décrit les pieds (脚) foulant (踏) un sol (地) solide (实). Il dépeint une action pratique et ancrée dans la réalité plutôt que des rêveries. L'expression valorise les approches réalistes et pragmatiques. L'usage moderne loue les personnes pratiques qui se concentrent sur des actions concrètes plutôt que sur des rêves vides, construisant le succès par un effort constant et réaliste plutôt que par la spéculation.",
-    "example": "Son approche pratique l'a aidé à bâtir une carrière réussie.",
-    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID635",
     "characters": "稳扎稳打",
     "pinyin": "wěn zhā wěn dǎ",
@@ -7778,17 +7602,6 @@
     "example": "La transformation numérique est devenue inévitable pour l'industrie.",
     "chineseExample": "数字化转型已势在必行。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID639",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "Élan comme fendre le bambou",
-    "metaphoric_meaning": "Avoir un élan irrésistible; tout balayer devant soi",
-    "description": "Cet idiome décrit un élan (势) comme (如) fendre (破) le bambou (竹). Lorsque le bambou est fendu, la fissure se propage facilement sur toute la longueur. L'expression capture un élan imparable où chaque succès rend le suivant plus facile. L'usage moderne décrit les séries de victoires et le succès alimenté par l'élan, les situations où le progrès devient de plus en plus facile à mesure que les obstacles tombent.",
-    "example": "Une fois qu'ils ont pris de l'élan, rien n'a pu arrêter leur progression.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID640",
@@ -7844,28 +7657,6 @@
     "example": "Le lancement du nouveau produit a été un succès immédiat.",
     "chineseExample": "新产品发布旗开得胜。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID645",
-    "characters": "马到成功",
-    "pinyin": "mǎ dào chéng gōng",
-    "meaning": "Le cheval arrive, le succès est atteint",
-    "metaphoric_meaning": "Obtenir un succès instantané; victoire rapide",
-    "description": "Cet idiome décrit lorsque le cheval (马) arrive (到), le succès (成功) est atteint. Il dépeint une victoire rapide, un succès qui arrive aussi vite qu'un cheval au galop. L'expression est couramment utilisée comme une bénédiction pour les nouvelles entreprises. L'usage moderne souhaite à quelqu'un un succès rapide, exprimant l'espoir que ses entreprises réussiront rapidement et facilement.",
-    "example": "Que toutes vos entreprises réussissent rapidement !",
-    "chineseExample": "祝你马到成功！",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID646",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "Une voile, vent favorable",
-    "metaphoric_meaning": "Naviguer en douceur; tout se passe bien",
-    "description": "Cet idiome décrit une (一) voile (帆) avec un vent (风) favorable (顺). Il dépeint un voyage à la voile béni par des vents parfaits ne nécessitant aucune lutte. L'expression est une bénédiction courante souhaitant une progression en douceur. L'usage moderne souhaite à quelqu'un un succès facile, une vie ou une entreprise sans obstacles, où tout se passe bien.",
-    "example": "Que votre voyage dans la vie soit doux et couronné de succès.",
-    "chineseExample": "愿你的人生一帆风顺。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID647",
@@ -7989,50 +7780,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "Exactement au bon endroit.",
-    "metaphoric_meaning": "Juste ce qu'il faut ; parfaitement approprié.",
-    "description": "Cet idiome décrit le fait d'être exactement (恰) à (到) le bon (好) endroit (处). Il dépeint le fait d'atteindre le point parfait - ni trop, ni trop peu. L'expression valorise la précision et la pertinence. L'usage moderne décrit les choses faites avec un calibrage parfait, les actions ou les quantités qui sont exactement adaptées à la situation.",
-    "example": "L'assaisonnement était parfait - ni trop, ni trop peu.",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "Exactement comme sa part.",
-    "metaphoric_meaning": "Parfaitement approprié ; parfaitement adapté.",
-    "description": "Cet idiome décrit le fait d'être exactement (恰) comme (如) sa (其) part (分) appropriée. Il dépeint un comportement ou des mots parfaitement adaptés à la situation - ni excessifs, ni insuffisants. L'expression valorise la pertinence et la mesure. L'usage moderne décrit des réponses bien calibrées, des actions parfaitement adaptées à leur contexte.",
-    "example": "Sa réponse était parfaitement mesurée et appropriée.",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "Pas de fissure à frapper.",
-    "metaphoric_meaning": "Impeccable ; invulnérable à la critique.",
-    "description": "Cet idiome décrit le fait de n'avoir (无) aucune (懈) fissure (可) qui puisse (击) être frappée. Il dépeint quelque chose de si parfait qu'aucune faiblesse ne peut être trouvée pour l'attaquer. L'expression était utilisée pour les défenses impénétrables. L'usage moderne décrit des arguments, des plans ou des performances impeccables qui ne laissent aucune ouverture à la critique ou à l'attaque.",
-    "example": "Son argument était logiquement impeccable.",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "Pas une goutte d'eau ne fuit.",
-    "metaphoric_meaning": "Étanche ; minutieusement planifié.",
-    "description": "Cet idiome décrit le fait de ne (不) pas (滴) une goutte (水) d'eau (漏) qui fuit. Il dépeint une étanchéité si complète que rien ne peut s'échapper. L'expression était utilisée pour un confinement ou un secret parfait. L'usage moderne décrit une exécution impeccable sans lacunes, des plans si complets que rien n'est négligé, ou des secrets si bien gardés que rien ne fuit.",
-    "example": "Les mesures de sécurité étaient absolument étanches.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID662",
     "characters": "天罗地网",
     "pinyin": "tiān luó dì wǎng",
@@ -8064,17 +7811,6 @@
     "example": "Le plan était conçu pour être absolument infaillible.",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "La poitrine contient du bambou complet.",
-    "metaphoric_meaning": "Avoir un plan bien pensé ; être bien préparé.",
-    "description": "Cet idiome décrit le fait d'avoir (有) du bambou (竹) complet (成) dans sa poitrine (胸). Il vient de l'histoire du peintre Wen Tong qui visualisait du bambou complet dans son esprit avant de peindre. L'expression dépeint une préparation mentale approfondie. L'usage moderne décrit le fait d'avoir un plan clair ou une préparation complète avant d'entreprendre une tâche.",
-    "example": "Elle s'est présentée à l'examen avec une confiance totale dans sa préparation.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8132,17 +7868,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "Feu de fournaise bleu pur.",
-    "metaphoric_meaning": "Atteindre la perfection ; maîtriser complètement.",
-    "description": "Cet idiome décrit le feu (火) de la fournaise (炉) étant bleu (青) pur (纯). Dans la métallurgie traditionnelle, les flammes bleues indiquent la température la plus élevée et la combustion la plus pure. L'expression représente le summum du développement des compétences. L'usage moderne décrit une maîtrise qui a atteint le plus haut niveau possible, une expertise raffinée à la perfection.",
-    "example": "Ses compétences techniques ont atteint le plus haut niveau.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8151,39 +7876,6 @@
     "description": "Cet idiome décrit le fait de transcender (出) le spirituel (神) et d'entrer (入) dans la transformation (化). Il dépeint une compétence si avancée qu'elle semble surnaturelle. L'expression représente le niveau ultime de la maîtrise. L'usage moderne décrit une expertise extraordinaire qui apparaît presque magique, une performance si parfaite qu'elle transcende les capacités humaines normales.",
     "example": "Ses tours de magie ont atteint un niveau presque surnaturel.",
     "chineseExample": "他的魔术已经出神入化。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "Monter dans le hall, entrer dans la pièce intérieure.",
-    "metaphoric_meaning": "Atteindre la compétence ; atteindre la maîtrise.",
-    "description": "Cet idiome décrit le fait de monter (登) dans le hall (堂) et d'entrer (入) dans la pièce intérieure (室). Tiré des Analectes décrivant les étapes de l'apprentissage - le hall est intermédiaire, la pièce intérieure est la maîtrise. L'expression dépeint la progression vers des niveaux avancés. L'usage moderne décrit le fait d'atteindre une compréhension profonde, de passer de la connaissance superficielle à une véritable expertise.",
-    "example": "Sa compréhension du domaine a atteint un niveau avancé.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "Le bleu émerge de l'indigo.",
-    "metaphoric_meaning": "Surpasser son professeur ; surpasser ses prédécesseurs.",
-    "description": "Cet idiome décrit le bleu (青) émergeant (出) de (于) l'indigo (蓝). La teinture bleue dérivée des plantes d'indigo devient plus vive que la source. L'expression célèbre les élèves qui surpassent leurs professeurs. L'usage moderne décrit les successeurs qui dépassent leurs prédécesseurs, le résultat idéal de l'enseignement où les disciples réalisent plus que leurs maîtres.",
-    "example": "L'élève a même surpassé son brillant professeur.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID675",
-    "characters": "后来居上",
-    "pinyin": "hòu lái jū shàng",
-    "meaning": "Le dernier arrivé occupe le sommet.",
-    "metaphoric_meaning": "Les retardataires surpassent les prédécesseurs.",
-    "description": "Cet idiome décrit les retardataires (后来) occupant (居) le sommet (上). Il dépeint ceux qui commencent plus tard mais qui finissent par réaliser plus que ceux qui ont commencé plus tôt. L'expression encourage ceux qui sont derrière. L'usage moderne décrit les victoires de dernière minute, les situations où les retardataires finissent par surpasser les premiers leaders grâce à un plus grand effort ou à un plus grand talent.",
-    "example": "Bien qu'il ait commencé tard, le nouveau venu a gravi les échelons pour diriger l'équipe.",
-    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
     "theme": "Success & Perseverance"
   },
   {
@@ -8239,17 +7931,6 @@
     "description": "Cet idiome décrit le cœur (心) de l'artisan (匠) opérant (运) de manière unique (独). Une variante de 独具匠心, il met l'accent sur l'application active du génie créatif. L'expression dépeint la créativité originale en action. L'usage moderne décrit l'exercice du génie créatif dans la production d'un travail distinctif.",
     "example": "La vision créative du réalisateur a produit un chef-d'œuvre.",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "L'habileté surpasse le travail du ciel.",
-    "metaphoric_meaning": "Surpasser la nature en habileté ; artisanat extraordinaire.",
-    "description": "Cet idiome décrit l'habileté (巧) surpassant (夺) le travail (工) du ciel (天). Il dépeint un artisanat humain si parfait qu'il dépasse ce que la nature pourrait produire. L'expression représente le summum de la réalisation artistique. L'usage moderne décrit un artisanat ou un art extraordinaire qui semble transcender les capacités humaines, un travail qui rivalise avec la création divine.",
-    "example": "La sculpture de jade complexe semblait presque divinement conçue.",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]

@@ -260,17 +260,6 @@
     "chineseExample_tr": "她總是提前到達會議，尊重每個人的時間"
   },
   {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "푸른색은 쪽에서 나온다",
-    "metaphoric_meaning": "스승을 능가하다; 선배를 능가하다",
-    "description": "이 성어는 푸른 (青) 색이 쪽 (蓝) 에서 (于) 나오는 (出) 것을 묘사합니다. 쪽 식물에서 파생된 푸른 염료는 원천보다 더 생생해집니다. 이 구절은 스승을 능가하는 학생들을 축하합니다. 현대적 용법은 후계자가 선배를 능가하는 것, 제자가 스승보다 더 많은 것을 성취하는 가르침의 이상적인 결과를 묘사합니다.",
-    "example": "그 학생은 뛰어난 스승조차 능가했다.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID022",
     "characters": "海纳百川",
     "pinyin": "hǎi nà bǎi chuān",
@@ -674,17 +663,6 @@
     "chineseExample_tr": "慈善機構通過成千上萬的小額捐款達到了目標"
   },
   {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "가슴에 완전한 대나무를 담고 있다",
-    "metaphoric_meaning": "잘 생각한 계획을 가지고 있다; 잘 준비되어 있다",
-    "description": "이 성어는 가슴 (胸) 에 완전한 (成) 대나무 (竹) 를 가지고 (有) 있는 것을 묘사합니다. 그림을 그리기 전에 마음속에 완전한 대나무를 시각화한 화가 문동의 이야기에서 유래되었습니다. 이 구절은 철저한 정신적 준비를 나타냅니다. 현대적 용법은 작업을 수행하기 전에 명확한 계획이나 완전한 준비를 갖추는 것을 묘사합니다.",
-    "example": "그녀는 준비에 대한 완전한 자신감을 가지고 시험에 응시했다.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID054",
     "characters": "金风玉露",
     "pinyin": "jīn fēng yù lù",
@@ -904,17 +882,6 @@
     "metaphoric_meaning": "상황을 악화시킵니다",
     "traditionalCharacters": "抱薪救火",
     "chineseExample_tr": "他們倉促的解決方案只是使現有問題更加複雜"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "마루에 오르고 안방에 들어가다",
-    "metaphoric_meaning": "능숙함에 도달하다; 숙달에 도달하다",
-    "description": "이 성어는 마루 (堂) 에 오르고 (登) 안방 (室) 에 들어가는 (入) 것을 묘사합니다. 학습 단계를 설명하는 논어에서 유래되었습니다 - 마루는 중간, 안방은 숙달입니다. 이 구절은 고급 수준으로의 진행을 나타냅니다. 현대적 용법은 깊은 이해에 도달하는 것, 표면적인 지식에서 진정한 전문 지식으로 이동하는 것을 묘사합니다.",
-    "example": "그녀의 분야에 대한 이해는 고급 수준에 도달했다.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID072",
@@ -2217,17 +2184,6 @@
     "chineseExample_tr": "公司主動減少市場份額以避免壟斷指控"
   },
   {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "물 한 방울 새지 않는다",
-    "metaphoric_meaning": "방수; 철저하게 계획됨",
-    "description": "이 성어는 물 (水) 한 (滴) 방울 (不) 새지 (漏) 않는 것을 묘사합니다. 아무것도 빠져나갈 수 없을 정도로 철저한 밀봉을 나타냅니다. 이 구절은 완벽한 봉쇄 또는 비밀 유지에 사용되었습니다. 현대적 용법은 틈새가 없는 완벽한 실행, 간과되는 것이 없는 철저한 계획 또는 아무것도 새지 않도록 잘 지켜지는 비밀을 묘사합니다.",
-    "example": "보안 조치가 절대적으로 철저했다.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID173",
     "characters": "敬业乐群",
     "pinyin": "jìng yè lè qún",
@@ -2252,17 +2208,6 @@
     "metaphoric_meaning": "절대적인 명확성으로 이해하십시오",
     "traditionalCharacters": "洞若觀火",
     "chineseExample_tr": "偵探的分析使複雜的案件突然變得清晰明瞭"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "기술이 하늘의 일을 능가하다",
-    "metaphoric_meaning": "기술에서 자연을 능가하다; 뛰어난 장인 정신",
-    "description": "이 성어는 기술 (巧) 이 하늘 (天) 의 일 (工) 을 능가하는 (夺) 것을 묘사합니다. 인간의 장인 정신이 너무 완벽하여 자연이 생산할 수 있는 것을 초과하는 것을 나타냅니다. 이 구절은 예술적 성취의 정점을 나타냅니다. 현대적 용법은 인간의 능력을 초월하는 것처럼 보이는 뛰어난 장인 정신 또는 예술성, 신성한 창조와 경쟁하는 작업을 묘사합니다.",
-    "example": "복잡한 옥 조각은 거의 신성하게 만들어진 것처럼 보였다.",
-    "chineseExample": "精致的玉雕巧夺天工。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID176",
@@ -2861,17 +2806,6 @@
     "metaphoric_meaning": "우수성은 시간이 지남에 따라 발전합니다",
     "traditionalCharacters": "大器晚成",
     "chineseExample_tr": "這位作家在六十多歲時出版了他的代表作，此前已經花了幾十年磨練自己的技藝"
-  },
-  {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Crane hair and child complexion",
-    "metaphoric_meaning": "White-haired but with youthful appearance",
-    "description": "This idiom combines 'crane feather' hair (鹤发) - white like a crane's plumage - with a child's (童) complexion (颜) to describe elderly people who remain youthful in appearance. The crane symbolizes longevity in Chinese culture, while the rosy complexion of children represents health and vitality. The phrase originated in descriptions of Daoist immortals and long-lived sages who defied normal aging. It praises those who maintain health and vitality despite advanced years. Modern usage compliments active, healthy elderly individuals.",
-    "example": "Despite his age, he maintains the vigor and complexion of youth.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID223",
@@ -4291,17 +4225,6 @@
     "chineseExample_tr": "這位資深教授不屑一顧地否定了這個創新理論，沒有認真考慮"
   },
   {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "말하지 않아도 이미 이해됨",
-    "metaphoric_meaning": "자명하다; 말할 필요도 없다",
-    "description": "이 성어는 너무나 명백해서 (不) 말(言)이 필요 없(而)이도 이해(喻)되는 것을 표현합니다. 공자의 경전 '맹자'에 등장하며, 설명이 필요 없는 근본적인 진실을 강조합니다. 이 구절은 명시적인 진술보다 암묵적인 이해를 중시하는 중국 철학적 전통을 반영합니다. 공자 자신도 광범위한 설명보다는 모범을 통해 가르치는 것을 선호했습니다. 현대적 용법에서는 자명한 진실, 명백한 결론, 또는 설명 없이도 의미가 명확한 상황을 설명합니다.",
-    "example": "오늘날 교육의 중요성은 자명하다.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID333",
     "characters": "不约而同",
     "pinyin": "bù yuē ér tóng",
@@ -4972,28 +4895,6 @@
     "theme": "Strategy & Action"
   },
   {
-    "id": "ID607",
-    "characters": "天长地久",
-    "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "하늘은 길고 땅은 영원하다",
-    "metaphoric_meaning": "영원히 지속되다; 영원불멸하다",
-    "description": "이 성어는 하늘(天)이 길고(长) 땅(地)이 영원(久)함을 묘사합니다. 도덕경에서 하늘과 땅의 영원한 본성을 설명한 것에서 유래했습니다. 이 구절은 영속성과 영원함을 나타냅니다. 현대에는 낭만적이든, 우정이든, 가족 관계이든 지속적인 관계에 대한 소망, 즉 하늘과 땅처럼 영원히 지속되는 유대에 대한 축복을 표현하는 데 사용됩니다.",
-    "example": "너희들의 우정이 영원히 지속되기를 바라.",
-    "chineseExample": "愿你们的友谊天长地久。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID645",
-    "characters": "马到成功",
-    "pinyin": "mǎ dào chéng gōng",
-    "meaning": "말이 도착하면 성공을 달성한다",
-    "metaphoric_meaning": "즉각적인 성공을 달성하다; 빠른 승리",
-    "description": "이 성어는 말(马)이 도착하면(到) 성공(成功)이 달성된다는 것을 묘사합니다. 갤럽하는 말만큼 빨리 오는 빠른 승리, 성공을 나타냅니다. 이 문구는 일반적으로 새로운 노력에 대한 축복으로 사용됩니다. 현대적 용법은 누군가가 빠른 성공을 거두기를 바라며, 그들의 벤처가 쉽고 빠르게 성공하기를 바라는 희망을 표현합니다.",
-    "example": "당신의 모든 노력이 빠르게 성공하기를 바랍니다!",
-    "chineseExample": "祝你马到成功！",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID387",
     "characters": "争分夺秒",
     "pinyin": "zhēng fēn duó miǎo",
@@ -5025,28 +4926,6 @@
     "example": "지도자는 신뢰성을 유지하기 위해 항상 약속을 지켜야 한다.",
     "chineseExample": "一个领导者必须言而有信，才能保持信誉。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID632",
-    "characters": "循序渐进",
-    "pinyin": "xún xù jiàn jìn",
-    "meaning": "순서를 따르고 점진적으로 나아가다",
-    "metaphoric_meaning": "단계적으로 진행하다; 점진적으로 발전하다",
-    "description": "이 성어는 순서(序)를 따르고(循) 점진적으로(渐) 나아가는(进) 것을 묘사합니다. 앞서 나아가기보다는 체계적이고 단계적인 발전을 옹호합니다. 이 문구는 적절한 순서를 강조하는 고전 교육 서적에 등장했습니다. 현대적 용법은 견고한 기반이 지속 가능한 발전을 가능하게 한다는 것을 인식하면서 학습 또는 개발에 대한 체계적인 접근 방식을 설명합니다.",
-    "example": "언어를 배우는 데는 꾸준하고 점진적인 발전이 필요합니다.",
-    "chineseExample": "学习语言需要循序渐进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID675",
-    "characters": "后来居上",
-    "pinyin": "hòu lái jū shàng",
-    "meaning": "나중에 온 사람이 정상을 차지하다",
-    "metaphoric_meaning": "후발 주자가 선배를 능가하다",
-    "description": "이 성어는 나중에 (后来) 온 사람이 (居) 정상 (上) 을 차지하는 것을 묘사합니다. 늦게 시작했지만 궁극적으로 일찍 시작한 사람들보다 더 많은 것을 성취하는 사람들을 나타냅니다. 이 구절은 뒤쳐진 사람들을 격려합니다. 현대적 용법은 더 큰 노력이나 재능을 통해 늦게 시작한 사람이 궁극적으로 초기 리더를 능가하는 역전승을 묘사합니다.",
-    "example": "늦게 시작했음에도 불구하고 그 신입은 팀을 이끌게 되었다.",
-    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID392",
@@ -5102,17 +4981,6 @@
     "example": "그의 사업 전략은 명시된 목표와 완전히 역효과를 냈다.",
     "chineseExample": "他的商业策略与既定目标南辕北辙。",
     "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID634",
-    "characters": "脚踏实地",
-    "pinyin": "jiǎo tà shí dì",
-    "meaning": "발이 단단한 땅을 밟다",
-    "metaphoric_meaning": "현실적이다; 실질적인 조치를 취하다",
-    "description": "이 성어는 발(脚)이 단단한(实) 땅(地)을 밟는(踏) 것을 묘사합니다. 공상적인 생각보다는 실질적이고 현실적인 행동을 나타냅니다. 이 문구는 현실적이고 현실적인 접근 방식을 중요하게 생각합니다. 현대적 용법은 공허한 꿈보다는 구체적인 행동에 집중하고 투기보다는 꾸준하고 현실적인 노력을 통해 성공을 구축하는 실용적인 사람들을 칭찬합니다.",
-    "example": "그의 실용적인 접근 방식은 그가 성공적인 경력을 쌓는 데 도움이 되었습니다.",
-    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID398",
@@ -5434,17 +5302,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Crane hair and child complexion",
-    "metaphoric_meaning": "White-haired but with youthful appearance",
-    "description": "This idiom combines 'crane feather' hair (鹤发) - white like a crane's plumage - with a child's (童) complexion (颜) to describe elderly people who remain youthful in appearance. The crane symbolizes longevity in Chinese culture, while the rosy complexion of children represents health and vitality. The phrase originated in descriptions of Daoist immortals and long-lived sages who defied normal aging. It praises those who maintain health and vitality despite advanced years. Modern usage compliments active, healthy elderly individuals.",
-    "example": "Despite his age, he maintains the vigor and complexion of youth.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID428",
     "characters": "铁证如山",
     "pinyin": "tiě zhèng rú shān",
@@ -5486,17 +5343,6 @@
     "description": "This idiom originates from Chinese geomancy (feng shui), where 'dragon' (龙) refers to mountain ranges and 'veins' (脉) to their extensions. Geomancers traced the 'coming dragon' and 'going veins' to understand the landscape's energy flow. The phrase evolved to mean tracing the origins and developments of any matter - its causes, progression, and connections. It emphasizes the importance of understanding context and history. Modern usage describes investigating or explaining the full background and development of a situation or event.",
     "example": "Before making a decision, we need to understand the full context.",
     "chineseExample": "做决定之前，我们需要了解事情的来龙去脉。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "말하지 않아도 이미 이해됨",
-    "metaphoric_meaning": "자명하다; 말할 필요도 없다",
-    "description": "이 성어는 너무나 명백해서 (不) 말(言)이 필요 없(而)이도 이해(喻)되는 것을 표현합니다. 공자의 경전 '맹자'에 등장하며, 설명이 필요 없는 근본적인 진실을 강조합니다. 이 구절은 명시적인 진술보다 암묵적인 이해를 중시하는 중국 철학적 전통을 반영합니다. 공자 자신도 광범위한 설명보다는 모범을 통해 가르치는 것을 선호했습니다. 현대적 용법에서는 자명한 진실, 명백한 결론, 또는 설명 없이도 의미가 명확한 상황을 설명합니다.",
-    "example": "오늘날 교육의 중요성은 자명하다.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -5797,17 +5643,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "용광로 불 순수한 푸른색",
-    "metaphoric_meaning": "완벽에 도달하다; 완전히 숙달하다",
-    "description": "이 성어는 용광로 (炉) 불 (火) 이 순수한 (纯) 푸른 (青) 색인 것을 묘사합니다. 전통적인 야금술에서 푸른 불꽃은 가장 높은 온도와 가장 순수한 연소를 나타냅니다. 이 구절은 기술 개발의 정점을 나타냅니다. 현대적 용법은 가능한 가장 높은 수준에 도달한 숙달, 완벽하게 다듬어진 전문 지식을 묘사합니다.",
-    "example": "그녀의 기술적 기술은 최고 수준에 도달했다.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID461",
     "characters": "名列前茅",
     "pinyin": "míng liè qián máo",
@@ -5838,17 +5673,6 @@
     "description": "This idiom describes producing (出) something different (别) from one's heart's (心) design or cutting (裁). The character 裁 originally referred to tailoring cloth, suggesting creative design. The phrase celebrates originality and innovation that departs from convention. It appeared in literary criticism praising works that showed creative independence. Modern usage commends innovative thinking, original designs, or unconventional approaches that prove successful precisely because they differ from standard methods.",
     "example": "Her unconventional approach to the problem impressed everyone.",
     "chineseExample": "她别出心裁的方法给大家留下了深刻印象。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "정확히 좋은 곳에 있다",
-    "metaphoric_meaning": "딱 맞다; 완벽하게 적절하다",
-    "description": "이 성어는 정확히 (恰) 좋은 (好) 곳에 (处) 있는 (到) 것을 묘사합니다. 너무 많지도 적지도 않은 완벽한 지점을 맞추는 것을 나타냅니다. 이 구절은 정확성과 적절성을 중요하게 생각합니다. 현대적 용법은 완벽한 보정으로 수행된 일, 상황에 정확히 맞는 행동이나 양을 묘사합니다.",
-    "example": "양념이 완벽했다 - 너무 많지도 적지도 않았다.",
-    "chineseExample": "调味恰到好处，不多不少。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6028,17 +5852,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "가슴에 완전한 대나무를 담고 있다",
-    "metaphoric_meaning": "잘 생각한 계획을 가지고 있다; 잘 준비되어 있다",
-    "description": "이 성어는 가슴 (胸) 에 완전한 (成) 대나무 (竹) 를 가지고 (有) 있는 것을 묘사합니다. 그림을 그리기 전에 마음속에 완전한 대나무를 시각화한 화가 문동의 이야기에서 유래되었습니다. 이 구절은 철저한 정신적 준비를 나타냅니다. 현대적 용법은 작업을 수행하기 전에 명확한 계획이나 완전한 준비를 갖추는 것을 묘사합니다.",
-    "example": "그녀는 준비에 대한 완전한 자신감을 가지고 시험에 응시했다.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID482",
     "characters": "白手起家",
     "pinyin": "bái shǒu qǐ jiā",
@@ -6059,17 +5872,6 @@
     "example": "개선되는 대신 그의 행동은 더욱 악화되었습니다.",
     "chineseExample": "他的行为不但没有改善，反而变本加厉。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "몸을 굽혀 자신을 소진하다",
-    "metaphoric_meaning": "자신을 완전히 헌신하다; 지칠 때까지 일하다",
-    "description": "이 성어는 몸을 굽히고(鞠躬) 자신을 소진하는(尽瘁) 것을 묘사합니다. 제갈량의 유명한 상소문에서 유래했으며, 죽을 때까지 촉나라를 섬기는 그의 헌신을 묘사합니다. 이 구절은 충성스러운 봉사의 궁극을 구현합니다. 현대에는 대의명분이나 조직에 대한 완전한 헌신, 즉 아무것도 남지 않을 때까지 모든 것을 주는 것, 즉 헌신적인 봉사의 가장 높은 형태를 묘사하는 데 사용됩니다.",
-    "example": "그는 마지막 숨을 거둘 때까지 조직을 섬겼다.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID485",
@@ -6171,17 +5973,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "미적거리며 떠나기를 꺼려하다",
-    "metaphoric_meaning": "헤어지기를 꺼려하다",
-    "description": "이 성어는 미적거리고(依依) 떠나기를(不舍) 꺼려함을 묘사합니다. 중첩된 依는 떠나기 싫어하는 질척거리는 느낌을 강조합니다. 이 구절은 사랑하는 것을 떠날 때의 망설임을 포착합니다. 현대에는 아이들이 재미있는 장소를 떠나거나, 연인들이 작별 인사를 하거나, 계속되기를 바라는 상황을 떠나는 등 떠나기 싫어하는 이별을 묘사하는 데 사용됩니다.",
-    "example": "아이들은 놀이공원을 떠나기를 꺼려했다.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID495",
     "characters": "顺其自然",
     "pinyin": "shùn qí zì rán",
@@ -6235,17 +6026,6 @@
     "example": "마감일의 엄청난 압박감이 팀에 큰 부담을 주었습니다.",
     "chineseExample": "截止日期的压力如泰山压顶。",
     "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "때릴 틈이 없다",
-    "metaphoric_meaning": "흠잡을 데 없다; 비판에 취약하지 않다",
-    "description": "이 성어는 때릴 (击) 수 (可) 있는 (无) 틈 (懈) 이 없는 것을 묘사합니다. 공격할 약점을 찾을 수 없을 정도로 완벽한 것을 나타냅니다. 이 구절은 난공불락의 방어에 사용되었습니다. 현대적 용법은 비판이나 공격의 여지를 남기지 않는 완벽한 논쟁, 계획 또는 공연을 묘사합니다.",
-    "example": "그녀의 주장은 논리적으로 흠잡을 데 없었다.",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID501",
@@ -6545,17 +6325,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "부서를 따르고 수업에 가다",
-    "metaphoric_meaning": "확립된 절차를 따르다; 체계적이다",
-    "description": "이 성어는 부서(部)를 따르고(按) 수업(班)에 가는(就) 것을 묘사합니다. 원래 관료적 절차를 설명하는 데 사용되었지만, 확립된 질서를 따르는 것을 의미하게 되었습니다. 이 문구는 즉흥적인 것보다 체계적인 접근 방식을 중요하게 생각합니다. 현대적 용법은 적절한 절차와 순서를 따르고 혼란스럽기보다는 체계적으로 작업하는 것을 설명하지만 때로는 과도한 경직성을 비판하기도 합니다.",
-    "example": "프로젝트는 확립된 프로세스에 따라 진행되었습니다.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID529",
     "characters": "不可开交",
     "pinyin": "bù kě kāi jiāo",
@@ -6576,17 +6345,6 @@
     "example": "Instead of competing directly, she found an innovative alternative approach.",
     "chineseExample": "她没有直接竞争，而是另辟蹊径。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hearts imprint on each other",
-    "metaphoric_meaning": "Be perfectly attuned to each other",
-    "description": "이 성어는 마음(心心)이 서로(相) 찍힘(印)을 묘사합니다. 원래 스승과 제자 사이의 법을 말 없이 전수하는 것을 묘사하는 불교 용어였지만, 지금은 주로 깊은 낭만적인 관계를 묘사합니다. 현대적 용법에서는 연인이나 가까운 친구 사이의 친밀한 이해, 즉 말이 필요 없는 의사 소통, 즉 생각이 같고 마음이 하나로 뛰는 마음을 묘사합니다.",
-    "example": "그 부부는 말 없이 서로를 이해했습니다.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID532",
@@ -6664,28 +6422,6 @@
     "example": "프로젝트에 대한 그의 기여는 미미했습니다.",
     "chineseExample": "他对项目的贡献微不足道。",
     "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Words and actions consistent",
-    "metaphoric_meaning": "Practice what you preach",
-    "description": "이 성어는 말(言)과 행동(行)이 일치함(一致)을 묘사합니다. 이는 말하는 것과 행동하는 것 사이의 일치를 중요하게 생각합니다. 이 문구는 약속이 행동과 일치하지 않는 위선을 경고합니다. 현대적 용법에서는 성실성과 신뢰성, 즉 누군가의 행동이 일관되게 말과 일치할 때 오는 신뢰성을 강조합니다.",
-    "example": "훌륭한 리더는 자신이 설파하는 것을 실천합니다.",
-    "chineseExample": "好的领导者言行一致。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "이 성어는 부당하게(妄) 자신(自)을 폄하하는(菲薄) 것을 묘사합니다. 이는 제갈량이 촉나라 황제에게 올린 유명한 상소문에서 유래했으며, 국가에 해를 끼칠 수 있는 과도한 자기 비하를 경고했습니다. 이 구절은 거짓 겸손이 오만만큼이나 해로울 수 있다고 경고합니다. 현대적 용법은 건강한 자존감을 장려하고 잠재력을 제한하는 자기 파괴적인 행동을 경고합니다.",
-    "example": "당신의 능력을 과소평가하지 마세요. 당신은 기여할 것이 많습니다.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID541",
@@ -6916,17 +6652,6 @@
     "description": "이 성어는 발가락(趾)을 높이(高) 들고 기운(气)을 올리는(扬) 것을 묘사합니다. 너무나 오만해서 발가락까지 올라간 것처럼 뽐내는 사람을 묘사합니다. 이 구절은 걸음걸이와 태도에서 자부심이 육체적으로 구현된 것을 포착합니다. 현대적 용법은 태도와 몸짓을 통해 명백한 우월감을 드러내는 사람들을 묘사합니다.",
     "example": "그는 참을 수 없을 정도로 우월한 태도로 사무실을 걸어 다녔다.",
     "chineseExample": "他趾高气扬地走过办公室。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "이 성어는 부당하게(妄) 자신(自)을 폄하하는(菲薄) 것을 묘사합니다. 이는 제갈량이 촉나라 황제에게 올린 유명한 상소문에서 유래했으며, 국가에 해를 끼칠 수 있는 과도한 자기 비하를 경고했습니다. 이 구절은 거짓 겸손이 오만만큼이나 해로울 수 있다고 경고합니다. 현대적 용법은 건강한 자존감을 장려하고 잠재력을 제한하는 자기 파괴적인 행동을 경고합니다.",
-    "example": "당신의 능력을 과소평가하지 마세요. 당신은 기여할 것이 많습니다.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
     "theme": "Relationships & Character"
   },
   {
@@ -7238,17 +6963,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Words and actions consistent",
-    "metaphoric_meaning": "Practice what you preach",
-    "description": "이 성어는 말(言)과 행동(行)이 일치함(一致)을 묘사합니다. 이는 말하는 것과 행동하는 것 사이의 일치를 중요하게 생각합니다. 이 문구는 약속이 행동과 일치하지 않는 위선을 경고합니다. 현대적 용법에서는 성실성과 신뢰성, 즉 누군가의 행동이 일관되게 말과 일치할 때 오는 신뢰성을 강조합니다.",
-    "example": "훌륭한 리더는 자신이 설파하는 것을 실천합니다.",
-    "chineseExample": "好的领导者言行一致。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID592",
     "characters": "一言既出",
     "pinyin": "yī yán jì chū",
@@ -7381,17 +7095,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hearts imprint on each other",
-    "metaphoric_meaning": "Be perfectly attuned to each other",
-    "description": "이 성어는 마음(心心)이 서로(相) 찍힘(印)을 묘사합니다. 원래 스승과 제자 사이의 법을 말 없이 전수하는 것을 묘사하는 불교 용어였지만, 지금은 주로 깊은 낭만적인 관계를 묘사합니다. 현대적 용법에서는 연인이나 가까운 친구 사이의 친밀한 이해, 즉 말이 필요 없는 의사 소통, 즉 생각이 같고 마음이 하나로 뛰는 마음을 묘사합니다.",
-    "example": "그 부부는 말 없이 서로를 이해했습니다.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID605",
     "characters": "一见钟情",
     "pinyin": "yī jiàn zhōng qíng",
@@ -7414,17 +7117,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID607",
-    "characters": "天长地久",
-    "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "하늘은 길고 땅은 영원하다",
-    "metaphoric_meaning": "영원히 지속되다; 영원불멸하다",
-    "description": "이 성어는 하늘(天)이 길고(长) 땅(地)이 영원(久)함을 묘사합니다. 도덕경에서 하늘과 땅의 영원한 본성을 설명한 것에서 유래했습니다. 이 구절은 영속성과 영원함을 나타냅니다. 현대에는 낭만적이든, 우정이든, 가족 관계이든 지속적인 관계에 대한 소망, 즉 하늘과 땅처럼 영원히 지속되는 유대에 대한 축복을 표현하는 데 사용됩니다.",
-    "example": "너희들의 우정이 영원히 지속되기를 바라.",
-    "chineseExample": "愿你们的友谊天长地久。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID608",
     "characters": "难分难舍",
     "pinyin": "nán fēn nán shě",
@@ -7433,17 +7125,6 @@
     "description": "이 성어는 헤어지기(分) 어렵고(难), 떠나기(舍) 어려움(难)을 묘사합니다. 강한 애착이 있을 때 이별의 고통을 나타냅니다. 중첩된 구조는 작별 인사의 어려움을 강조합니다. 현대에는 사랑하는 사람과 헤어지는 감정적인 어려움, 감정이 깊을 때 회의나 관계를 끝내고 싶지 않은 마음을 묘사하는 데 사용됩니다.",
     "example": "작별 인사는 감정적이었는데, 둘 다 작별 인사를 하고 싶어하지 않았기 때문이다.",
     "chineseExample": "告别时他们难分难舍，都不想说再见。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "미적거리며 떠나기를 꺼려하다",
-    "metaphoric_meaning": "헤어지기를 꺼려하다",
-    "description": "이 성어는 미적거리고(依依) 떠나기를(不舍) 꺼려함을 묘사합니다. 중첩된 依는 떠나기 싫어하는 질척거리는 느낌을 강조합니다. 이 구절은 사랑하는 것을 떠날 때의 망설임을 포착합니다. 현대에는 아이들이 재미있는 장소를 떠나거나, 연인들이 작별 인사를 하거나, 계속되기를 바라는 상황을 떠나는 등 떠나기 싫어하는 이별을 묘사하는 데 사용됩니다.",
-    "example": "아이들은 놀이공원을 떠나기를 꺼려했다.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -7579,17 +7260,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "몸을 굽혀 자신을 소진하다",
-    "metaphoric_meaning": "자신을 완전히 헌신하다; 지칠 때까지 일하다",
-    "description": "이 성어는 몸을 굽히고(鞠躬) 자신을 소진하는(尽瘁) 것을 묘사합니다. 제갈량의 유명한 상소문에서 유래했으며, 죽을 때까지 촉나라를 섬기는 그의 헌신을 묘사합니다. 이 구절은 충성스러운 봉사의 궁극을 구현합니다. 현대에는 대의명분이나 조직에 대한 완전한 헌신, 즉 아무것도 남지 않을 때까지 모든 것을 주는 것, 즉 헌신적인 봉사의 가장 높은 형태를 묘사하는 데 사용됩니다.",
-    "example": "그는 마지막 숨을 거둘 때까지 조직을 섬겼다.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID623",
     "characters": "死而后已",
     "pinyin": "sǐ ér hòu yǐ",
@@ -7687,39 +7357,6 @@
     "example": "프로젝트를 서두르는 것이 결국 더 많은 지연을 초래했다.",
     "chineseExample": "赶工反而导致了更多延误，真是欲速不达。",
     "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID632",
-    "characters": "循序渐进",
-    "pinyin": "xún xù jiàn jìn",
-    "meaning": "순서를 따르고 점진적으로 나아가다",
-    "metaphoric_meaning": "단계적으로 진행하다; 점진적으로 발전하다",
-    "description": "이 성어는 순서(序)를 따르고(循) 점진적으로(渐) 나아가는(进) 것을 묘사합니다. 앞서 나아가기보다는 체계적이고 단계적인 발전을 옹호합니다. 이 문구는 적절한 순서를 강조하는 고전 교육 서적에 등장했습니다. 현대적 용법은 견고한 기반이 지속 가능한 발전을 가능하게 한다는 것을 인식하면서 학습 또는 개발에 대한 체계적인 접근 방식을 설명합니다.",
-    "example": "언어를 배우는 데는 꾸준하고 점진적인 발전이 필요합니다.",
-    "chineseExample": "学习语言需要循序渐进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "부서를 따르고 수업에 가다",
-    "metaphoric_meaning": "확립된 절차를 따르다; 체계적이다",
-    "description": "이 성어는 부서(部)를 따르고(按) 수업(班)에 가는(就) 것을 묘사합니다. 원래 관료적 절차를 설명하는 데 사용되었지만, 확립된 질서를 따르는 것을 의미하게 되었습니다. 이 문구는 즉흥적인 것보다 체계적인 접근 방식을 중요하게 생각합니다. 현대적 용법은 적절한 절차와 순서를 따르고 혼란스럽기보다는 체계적으로 작업하는 것을 설명하지만 때로는 과도한 경직성을 비판하기도 합니다.",
-    "example": "프로젝트는 확립된 프로세스에 따라 진행되었습니다.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID634",
-    "characters": "脚踏实地",
-    "pinyin": "jiǎo tà shí dì",
-    "meaning": "발이 단단한 땅을 밟다",
-    "metaphoric_meaning": "현실적이다; 실질적인 조치를 취하다",
-    "description": "이 성어는 발(脚)이 단단한(实) 땅(地)을 밟는(踏) 것을 묘사합니다. 공상적인 생각보다는 실질적이고 현실적인 행동을 나타냅니다. 이 문구는 현실적이고 현실적인 접근 방식을 중요하게 생각합니다. 현대적 용법은 공허한 꿈보다는 구체적인 행동에 집중하고 투기보다는 꾸준하고 현실적인 노력을 통해 성공을 구축하는 실용적인 사람들을 칭찬합니다.",
-    "example": "그의 실용적인 접근 방식은 그가 성공적인 경력을 쌓는 데 도움이 되었습니다.",
-    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID635",
@@ -7829,17 +7466,6 @@
     "description": "이 성어는 깃발(旗)을 열고(开) 승리(胜)를 얻는(得) 것을 묘사합니다. 마치 첫 전투에서 승리한 군대처럼 시작하자마자 승리하는 것을 나타냅니다. 이 문구는 새로운 벤처에 대한 축복으로 사용되었습니다. 현대적 용법은 상서로운 시작, 뒤따르는 긍정적인 추진력을 설정하는 초기 성공을 설명합니다.",
     "example": "새로운 제품 출시는 즉시 성공적이었습니다.",
     "chineseExample": "新产品发布旗开得胜。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID645",
-    "characters": "马到成功",
-    "pinyin": "mǎ dào chéng gōng",
-    "meaning": "말이 도착하면 성공을 달성한다",
-    "metaphoric_meaning": "즉각적인 성공을 달성하다; 빠른 승리",
-    "description": "이 성어는 말(马)이 도착하면(到) 성공(成功)이 달성된다는 것을 묘사합니다. 갤럽하는 말만큼 빨리 오는 빠른 승리, 성공을 나타냅니다. 이 문구는 일반적으로 새로운 노력에 대한 축복으로 사용됩니다. 현대적 용법은 누군가가 빠른 성공을 거두기를 바라며, 그들의 벤처가 쉽고 빠르게 성공하기를 바라는 희망을 표현합니다.",
-    "example": "당신의 모든 노력이 빠르게 성공하기를 바랍니다!",
-    "chineseExample": "祝你马到成功！",
     "theme": "Success & Perseverance"
   },
   {
@@ -7975,17 +7601,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "정확히 좋은 곳에 있다",
-    "metaphoric_meaning": "딱 맞다; 완벽하게 적절하다",
-    "description": "이 성어는 정확히 (恰) 좋은 (好) 곳에 (处) 있는 (到) 것을 묘사합니다. 너무 많지도 적지도 않은 완벽한 지점을 맞추는 것을 나타냅니다. 이 구절은 정확성과 적절성을 중요하게 생각합니다. 현대적 용법은 완벽한 보정으로 수행된 일, 상황에 정확히 맞는 행동이나 양을 묘사합니다.",
-    "example": "양념이 완벽했다 - 너무 많지도 적지도 않았다.",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID411",
     "characters": "恰如其分",
     "pinyin": "qià rú qí fèn",
@@ -7995,28 +7610,6 @@
     "example": "Her response was perfectly appropriate for the situation.",
     "chineseExample": "她的回应恰如其分，非常得体。",
     "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "때릴 틈이 없다",
-    "metaphoric_meaning": "흠잡을 데 없다; 비판에 취약하지 않다",
-    "description": "이 성어는 때릴 (击) 수 (可) 있는 (无) 틈 (懈) 이 없는 것을 묘사합니다. 공격할 약점을 찾을 수 없을 정도로 완벽한 것을 나타냅니다. 이 구절은 난공불락의 방어에 사용되었습니다. 현대적 용법은 비판이나 공격의 여지를 남기지 않는 완벽한 논쟁, 계획 또는 공연을 묘사합니다.",
-    "example": "그녀의 주장은 논리적으로 흠잡을 데 없었다.",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "물 한 방울 새지 않는다",
-    "metaphoric_meaning": "방수; 철저하게 계획됨",
-    "description": "이 성어는 물 (水) 한 (滴) 방울 (不) 새지 (漏) 않는 것을 묘사합니다. 아무것도 빠져나갈 수 없을 정도로 철저한 밀봉을 나타냅니다. 이 구절은 완벽한 봉쇄 또는 비밀 유지에 사용되었습니다. 현대적 용법은 틈새가 없는 완벽한 실행, 간과되는 것이 없는 철저한 계획 또는 아무것도 새지 않도록 잘 지켜지는 비밀을 묘사합니다.",
-    "example": "보안 조치가 절대적으로 철저했다.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
   },
   {
     "id": "ID662",
@@ -8050,17 +7643,6 @@
     "example": "그 계획은 절대적으로 실패할 염려가 없도록 설계되었다.",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "가슴에 완전한 대나무를 담고 있다",
-    "metaphoric_meaning": "잘 생각한 계획을 가지고 있다; 잘 준비되어 있다",
-    "description": "이 성어는 가슴 (胸) 에 완전한 (成) 대나무 (竹) 를 가지고 (有) 있는 것을 묘사합니다. 그림을 그리기 전에 마음속에 완전한 대나무를 시각화한 화가 문동의 이야기에서 유래되었습니다. 이 구절은 철저한 정신적 준비를 나타냅니다. 현대적 용법은 작업을 수행하기 전에 명확한 계획이나 완전한 준비를 갖추는 것을 묘사합니다.",
-    "example": "그녀는 준비에 대한 완전한 자신감을 가지고 시험에 응시했다.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8118,17 +7700,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "용광로 불 순수한 푸른색",
-    "metaphoric_meaning": "완벽에 도달하다; 완전히 숙달하다",
-    "description": "이 성어는 용광로 (炉) 불 (火) 이 순수한 (纯) 푸른 (青) 색인 것을 묘사합니다. 전통적인 야금술에서 푸른 불꽃은 가장 높은 온도와 가장 순수한 연소를 나타냅니다. 이 구절은 기술 개발의 정점을 나타냅니다. 현대적 용법은 가능한 가장 높은 수준에 도달한 숙달, 완벽하게 다듬어진 전문 지식을 묘사합니다.",
-    "example": "그녀의 기술적 기술은 최고 수준에 도달했다.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8137,39 +7708,6 @@
     "description": "이 성어는 영적인 (神) 것을 초월하고 (出) 변화에 (化) 들어가는 (入) 것을 묘사합니다. 너무 발전하여 초자연적으로 보이는 기술을 나타냅니다. 이 구절은 숙달의 궁극적인 수준을 나타냅니다. 현대적 용법은 거의 마법처럼 보이는 특별한 전문 지식, 정상적인 인간 능력을 초월할 정도로 완벽한 공연을 묘사합니다.",
     "example": "그의 마술은 거의 초자연적인 수준에 도달했다.",
     "chineseExample": "他的魔术已经出神入化。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "마루에 오르고 안방에 들어가다",
-    "metaphoric_meaning": "능숙함에 도달하다; 숙달에 도달하다",
-    "description": "이 성어는 마루 (堂) 에 오르고 (登) 안방 (室) 에 들어가는 (入) 것을 묘사합니다. 학습 단계를 설명하는 논어에서 유래되었습니다 - 마루는 중간, 안방은 숙달입니다. 이 구절은 고급 수준으로의 진행을 나타냅니다. 현대적 용법은 깊은 이해에 도달하는 것, 표면적인 지식에서 진정한 전문 지식으로 이동하는 것을 묘사합니다.",
-    "example": "그녀의 분야에 대한 이해는 고급 수준에 도달했다.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "푸른색은 쪽에서 나온다",
-    "metaphoric_meaning": "스승을 능가하다; 선배를 능가하다",
-    "description": "이 성어는 푸른 (青) 색이 쪽 (蓝) 에서 (于) 나오는 (出) 것을 묘사합니다. 쪽 식물에서 파생된 푸른 염료는 원천보다 더 생생해집니다. 이 구절은 스승을 능가하는 학생들을 축하합니다. 현대적 용법은 후계자가 선배를 능가하는 것, 제자가 스승보다 더 많은 것을 성취하는 가르침의 이상적인 결과를 묘사합니다.",
-    "example": "그 학생은 뛰어난 스승조차 능가했다.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID675",
-    "characters": "后来居上",
-    "pinyin": "hòu lái jū shàng",
-    "meaning": "나중에 온 사람이 정상을 차지하다",
-    "metaphoric_meaning": "후발 주자가 선배를 능가하다",
-    "description": "이 성어는 나중에 (后来) 온 사람이 (居) 정상 (上) 을 차지하는 것을 묘사합니다. 늦게 시작했지만 궁극적으로 일찍 시작한 사람들보다 더 많은 것을 성취하는 사람들을 나타냅니다. 이 구절은 뒤쳐진 사람들을 격려합니다. 현대적 용법은 더 큰 노력이나 재능을 통해 늦게 시작한 사람이 궁극적으로 초기 리더를 능가하는 역전승을 묘사합니다.",
-    "example": "늦게 시작했음에도 불구하고 그 신입은 팀을 이끌게 되었다.",
-    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
     "theme": "Success & Perseverance"
   },
   {
@@ -8225,17 +7763,6 @@
     "description": "이 성어는 장인 (匠) 의 마음 (心) 이 독특하게 (独) 작동하는 (运) 것을 묘사합니다. 독창적인 창의성의 적극적인 적용을 강조하는 독구장심의 변형입니다. 이 구절은 행동으로 옮겨지는 독창적인 창의성을 나타냅니다. 현대적 용법은 독특한 작업을 제작하는 데 있어 창의적인 천재성을 발휘하는 것을 묘사합니다.",
     "example": "영화 감독의 창의적인 비전은 걸작을 만들어냈다.",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "기술이 하늘의 일을 능가하다",
-    "metaphoric_meaning": "기술에서 자연을 능가하다; 뛰어난 장인 정신",
-    "description": "이 성어는 기술 (巧) 이 하늘 (天) 의 일 (工) 을 능가하는 (夺) 것을 묘사합니다. 인간의 장인 정신이 너무 완벽하여 자연이 생산할 수 있는 것을 초과하는 것을 나타냅니다. 이 구절은 예술적 성취의 정점을 나타냅니다. 현대적 용법은 인간의 능력을 초월하는 것처럼 보이는 뛰어난 장인 정신 또는 예술성, 신성한 창조와 경쟁하는 작업을 묘사합니다.",
-    "example": "복잡한 옥 조각은 거의 신성하게 만들어진 것처럼 보였다.",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]

@@ -260,17 +260,6 @@
     "chineseExample_tr": "她總是提前到達會議，尊重每個人的時間"
   },
   {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "Biru muncul dari indigo",
-    "metaphoric_meaning": "Melampaui guru seseorang; mengatasi pendahulu",
-    "description": "Idiom ini menggambarkan biru (青) muncul (出) dari (于) indigo (蓝). Pewarna biru yang berasal dari tumbuhan indigo menjadi lebih jelas daripada sumbernya. Frasa ini meraikan pelajar yang melampaui guru. Penggunaan moden menggambarkan pengganti yang melebihi pendahulu mereka, hasil ideal pengajaran di mana murid mencapai lebih daripada guru mereka.",
-    "example": "Pelajar itu melampaui guru yang cemerlang sekalipun.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID022",
     "characters": "海纳百川",
     "pinyin": "hǎi nà bǎi chuān",
@@ -674,17 +663,6 @@
     "chineseExample_tr": "慈善機構通過成千上萬的小額捐款達到了目標"
   },
   {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Dada mengandungi buluh yang lengkap",
-    "metaphoric_meaning": "Mempunyai rancangan yang difikirkan dengan baik; bersedia dengan baik",
-    "description": "Idiom ini menggambarkan mempunyai (有) buluh (竹) yang lengkap (成) di dalam dada (胸) seseorang. Ia berasal dari kisah pelukis Wen Tong yang menggambarkan buluh yang lengkap dalam fikirannya sebelum melukis. Frasa ini menggambarkan persediaan mental yang teliti. Penggunaan moden menggambarkan mempunyai rancangan yang jelas atau persediaan yang lengkap sebelum melakukan tugas.",
-    "example": "Dia memasuki peperiksaan dengan keyakinan penuh terhadap persediaannya.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID054",
     "characters": "金风玉露",
     "pinyin": "jīn fēng yù lù",
@@ -904,17 +882,6 @@
     "metaphoric_meaning": "Memburukkan keadaan",
     "traditionalCharacters": "抱薪救火",
     "chineseExample_tr": "他們倉促的解決方案只是使現有問題更加複雜"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "Menaiki dewan, memasuki bilik dalam",
-    "metaphoric_meaning": "Mencapai kecekapan; mencapai penguasaan",
-    "description": "Idiom ini menggambarkan menaiki (登) dewan (堂) dan memasuki (入) bilik dalam (室). Daripada Analects yang menggambarkan peringkat pembelajaran - dewan adalah perantaraan, bilik dalam adalah penguasaan. Frasa ini menggambarkan perkembangan ke tahap lanjutan. Penggunaan moden menggambarkan mencapai pemahaman yang mendalam, bergerak daripada pengetahuan permukaan kepada kepakaran sebenar.",
-    "example": "Pemahamannya tentang bidang itu telah mencapai tahap lanjutan.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID072",
@@ -2217,17 +2184,6 @@
     "chineseExample_tr": "公司主動減少市場份額以避免壟斷指控"
   },
   {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "Tidak setitik air pun bocor",
-    "metaphoric_meaning": "Kalis air; dirancang dengan teliti",
-    "description": "Idiom ini menggambarkan tidak (不) setitik (滴) air (水) pun bocor (漏). Ia menggambarkan pengedap yang sangat teliti sehingga tiada apa yang boleh terlepas. Frasa ini digunakan untuk penahanan atau kerahsiaan yang sempurna. Penggunaan moden menggambarkan pelaksanaan yang sempurna tanpa jurang, rancangan yang sangat teliti sehingga tiada apa yang terlepas pandang, atau rahsia yang disimpan dengan baik sehingga tiada apa yang bocor.",
-    "example": "Pengaturan keselamatan benar-benar kalis air.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID173",
     "characters": "敬业乐群",
     "pinyin": "jìng yè lè qún",
@@ -2252,17 +2208,6 @@
     "metaphoric_meaning": "Memahami dengan kejelasan mutlak",
     "traditionalCharacters": "洞若觀火",
     "chineseExample_tr": "偵探的分析使複雜的案件突然變得清晰明瞭"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "Kemahiran melampaui kerja syurga",
-    "metaphoric_meaning": "Melampaui alam semula jadi dalam kemahiran; ketukangan luar biasa",
-    "description": "Idiom ini menggambarkan kemahiran (巧) melampaui (夺) kerja (工) syurga (天). Ia menggambarkan ketukangan manusia yang begitu sempurna sehingga melebihi apa yang boleh dihasilkan oleh alam semula jadi. Frasa ini mewakili puncak pencapaian artistik. Penggunaan moden menggambarkan ketukangan atau kesenian luar biasa yang kelihatan melampaui keupayaan manusia, kerja yang menyaingi ciptaan ilahi.",
-    "example": "Ukiran jed yang rumit itu kelihatan hampir diukir secara ilahi.",
-    "chineseExample": "精致的玉雕巧夺天工。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID176",
@@ -2861,17 +2806,6 @@
     "metaphoric_meaning": "Kecemerlangan berkembang seiring waktu.",
     "traditionalCharacters": "大器晚成",
     "chineseExample_tr": "這位作家在六十多歲時出版了他的代表作，此前已經花了幾十年磨練自己的技藝"
-  },
-  {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Rambut kren dan kulit kanak-kanak",
-    "metaphoric_meaning": "Berambut putih tetapi dengan penampilan yang muda",
-    "description": "Idiom ini menggabungkan rambut 'bulu kren' (鹤发) - putih seperti bulu kren - dengan kulit (颜) kanak-kanak (童) untuk menggambarkan orang tua yang kekal muda dalam penampilan. Kren melambangkan umur panjang dalam budaya Cina, manakala kulit kemerahan kanak-kanak mewakili kesihatan dan tenaga. Frasa ini berasal dari penerangan tentang dewa Daois dan orang bijak yang berumur panjang yang menentang penuaan normal. Ia memuji mereka yang mengekalkan kesihatan dan tenaga walaupun pada usia lanjut. Penggunaan moden memuji individu warga emas yang aktif dan sihat.",
-    "example": "Walaupun usianya, dia mengekalkan tenaga dan kulit muda.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID223",
@@ -4291,17 +4225,6 @@
     "chineseExample_tr": "這位資深教授不屑一顧地否定了這個創新理論，沒有認真考慮"
   },
   {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Tanpa berbicara namun difahami",
-    "metaphoric_meaning": "Jelas dengan sendirinya; tidak perlu dikatakan",
-    "description": "Idiom ini menyatakan bahawa sesuatu itu sangat jelas sehingga tidak memerlukan (不) kata-kata (言) namun (而) difahami (喻). Ia muncul dalam klasik Konfusian 'Mencius,' menekankan kebenaran yang begitu asas sehingga tidak memerlukan penjelasan. Frasa ini mencerminkan tradisi falsafah Cina yang menghargai pemahaman tersirat berbanding pernyataan eksplisit. Confucius sendiri lebih suka mengajar melalui contoh daripada penjelasan yang panjang lebar. Penggunaan moden menggambarkan kebenaran yang jelas dengan sendirinya, kesimpulan yang jelas, atau situasi di mana maknanya sangat jelas tanpa perincian.",
-    "example": "Kepentingan pendidikan adalah jelas dengan sendirinya dalam dunia hari ini.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID333",
     "characters": "不约而同",
     "pinyin": "bù yuē ér tóng",
@@ -5258,28 +5181,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "Tepat seperti bahagiannya",
-    "metaphoric_meaning": "Sangat sesuai; sangat sesuai",
-    "description": "Idiom ini menggambarkan menjadi tepat (恰) seperti (如) bahagian (分) yang sepatutnya (其). Ia menggambarkan tingkah laku atau perkataan yang ditentukur dengan sempurna dengan keadaan - tidak berlebihan atau tidak mencukupi. Frasa ini menghargai kesesuaian dan ukuran. Penggunaan moden menggambarkan respons yang ditentukur dengan baik, tindakan yang sangat sesuai dengan konteksnya.",
-    "example": "Responsnya sangat terukur dan sesuai.",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Terang, jelas, dan jujur",
-    "metaphoric_meaning": "Bersikap terbuka dan jujur",
-    "description": "Idiom ini menggambarkan menjadi terang (光明) dan jujur (磊落). Aksara 磊 menunjukkan tiga batu disusun, mewakili kekukuhan dan keterbukaan. Frasa ini menggambarkan seseorang yang tidak mempunyai apa-apa untuk disembunyikan, yang wataknya telus dan terhormat. Penggunaan moden menggambarkan orang yang berintegriti yang tindakannya dapat menahan penelitian, yang bertindak secara terbuka tanpa agenda tersembunyi.",
-    "example": "Wataknya yang terus terang memberinya kepercayaan semua orang.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID413",
     "characters": "妙笔生花",
     "pinyin": "miào bǐ shēng huā",
@@ -5300,17 +5201,6 @@
     "example": "Syarikat permulaan teknologi muncul dengan pesat seperti rebung selepas hujan.",
     "chineseExample": "科技初创公司如雨后春笋般涌现。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "Idiom ini menggambarkan kegembiraan (喜) yang melampaui (出) apa yang diharapkan (望外). Ia menangkap kegembiraan menerima sesuatu yang lebih baik daripada yang dijangkakan. Frasa ini muncul dalam teks yang menggambarkan saat-saat tuah yang tidak dijangka yang melebihi semua harapan. Penggunaan moden menggambarkan kejutan yang menyenangkan, rezeki yang tidak dijangka, dan sebarang hasil positif yang melebihi jangkaan.",
-    "example": "Dia terkejut dengan kenaikan pangkat yang tidak dijangka.",
-    "chineseExample": "意外的升职让她喜出望外。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID416",
@@ -5390,17 +5280,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "Idiom ini menggambarkan bimbang (患) tentang mendapat (得) dan bimbang (患) tentang kehilangan (失). Ia berasal dari Analekta Confucius, mengkritik orang kecil yang sentiasa bimbang tentang apa yang mungkin mereka peroleh atau hilang. Pemikiran ini mewujudkan kebimbangan yang tidak berkesudahan dan menghalang kepuasan. Penggunaan moden menggambarkan keterikatan yang berlebihan kepada hasil dan ketidakupayaan untuk mencari kedamaian tanpa mengira keadaan.",
-    "example": "Kebimbangan beliau yang berterusan tentang hasil menghalang beliau daripada menikmati proses tersebut.",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID424",
     "characters": "无与伦比",
     "pinyin": "wú yǔ lún bǐ",
@@ -5432,17 +5311,6 @@
     "example": "Semangatnya yang tidak dapat ditundukkan membantunya mengatasi setiap halangan.",
     "chineseExample": "她不屈不挠的精神帮助她克服了每一个障碍。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Rambut kren dan kulit kanak-kanak",
-    "metaphoric_meaning": "Berambut putih tetapi dengan penampilan yang muda",
-    "description": "Idiom ini menggabungkan rambut 'bulu kren' (鹤发) - putih seperti bulu kren - dengan kulit (颜) kanak-kanak (童) untuk menggambarkan orang tua yang kekal muda dalam penampilan. Kren melambangkan umur panjang dalam budaya Cina, manakala kulit kemerahan kanak-kanak mewakili kesihatan dan tenaga. Frasa ini berasal dari penerangan tentang dewa Daois dan orang bijak yang berumur panjang yang menentang penuaan normal. Ia memuji mereka yang mengekalkan kesihatan dan tenaga walaupun pada usia lanjut. Penggunaan moden memuji individu warga emas yang aktif dan sihat.",
-    "example": "Walaupun usianya, dia mengekalkan tenaga dan kulit muda.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID428",
@@ -5489,17 +5357,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Tanpa berbicara namun difahami",
-    "metaphoric_meaning": "Jelas dengan sendirinya; tidak perlu dikatakan",
-    "description": "Idiom ini menyatakan bahawa sesuatu itu sangat jelas sehingga tidak memerlukan (不) kata-kata (言) namun (而) difahami (喻). Ia muncul dalam klasik Konfusian 'Mencius,' menekankan kebenaran yang begitu asas sehingga tidak memerlukan penjelasan. Frasa ini mencerminkan tradisi falsafah Cina yang menghargai pemahaman tersirat berbanding pernyataan eksplisit. Confucius sendiri lebih suka mengajar melalui contoh daripada penjelasan yang panjang lebar. Penggunaan moden menggambarkan kebenaran yang jelas dengan sendirinya, kesimpulan yang jelas, atau situasi di mana maknanya sangat jelas tanpa perincian.",
-    "example": "Kepentingan pendidikan adalah jelas dengan sendirinya dalam dunia hari ini.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID433",
     "characters": "理所当然",
     "pinyin": "lǐ suǒ dāng rán",
@@ -5511,17 +5368,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID575",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Drooping head, lost spirit",
-    "metaphoric_meaning": "Be dejected and dispirited",
-    "description": "Idiom ini menggambarkan kepala (头) yang terkulai (垂) dan semangat (气) yang hilang (丧). Ia menggambarkan bahasa badan kekalahan dan kekecewaan - postur yang merosot seseorang yang telah kehilangan harapan. Frasa ini menangkap bagaimana kekecewaan terwujud secara fizikal. Penggunaan moden menggambarkan kekecewaan, kehilangan tenaga dan harapan yang kelihatan berikutan kegagalan atau berita buruk.",
-    "example": "Pasukan yang kalah berjalan keluar dari padang dengan kecewa dan hilang semangat.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID435",
     "characters": "意想不到",
     "pinyin": "yì xiǎng bù dào",
@@ -5530,17 +5376,6 @@
     "description": "Idiom ini menggambarkan sesuatu yang fikiran (意想) seseorang tidak (不) dapat mencapai atau menjangkakan (到). Frasa ini menekankan batasan imaginasi apabila berhadapan dengan realiti yang mengejutkan. Ia muncul dalam kesusasteraan vernakular semasa Dinasti Ming untuk menggambarkan plot twist dan peristiwa yang tidak dijangka. Strukturnya mencadangkan bahawa apa yang berlaku adalah di luar batasan apa yang munasabah untuk dibayangkan. Penggunaan moden biasanya menggambarkan kejutan, perkembangan yang tidak dijangka, atau hasil yang menentang semua ramalan.",
     "example": "Plot twist itu benar-benar tidak dijangka.",
     "chineseExample": "剧情的反转完全意想不到。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID646",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "Satu layar, angin baik",
-    "metaphoric_meaning": "Pelayaran lancar; semuanya berjalan lancar",
-    "description": "Idiom ini menggambarkan satu (一) layar (帆) dengan angin (风) yang baik (顺). Ia menggambarkan pelayaran yang diberkati dengan angin yang sempurna tanpa memerlukan perjuangan. Frasa ini adalah berkat biasa yang mendoakan kemajuan yang lancar. Penggunaan moden mendoakan seseorang kejayaan yang mudah, kehidupan atau usaha yang bebas daripada halangan, di mana semuanya berjalan lancar.",
-    "example": "Semoga perjalanan hidup anda lancar dan berjaya.",
-    "chineseExample": "愿你的人生一帆风顺。",
     "theme": "Life Philosophy"
   },
   {
@@ -5575,17 +5410,6 @@
     "example": "Dia menawarkan diri untuk mengetuai projek yang sukar itu.",
     "chineseExample": "她自告奋勇，主动承担这个困难的项目。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID639",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "Momentum seperti membelah buluh",
-    "metaphoric_meaning": "Mempunyai momentum yang tidak dapat ditahan; menyapu semua di hadapan seseorang",
-    "description": "Idiom ini menggambarkan momentum (势) seperti (如) membelah (破) buluh (竹). Apabila buluh dibelah, retakan itu mudah merebak ke sepanjang panjangnya. Frasa ini menangkap momentum yang tidak dapat dihentikan di mana setiap kejayaan menjadikan yang seterusnya lebih mudah. Penggunaan moden menggambarkan rentetan kemenangan dan kejayaan yang didorong oleh momentum, situasi di mana kemajuan menjadi semakin mudah apabila halangan jatuh.",
-    "example": "Sebaik sahaja mereka mendapat momentum, tiada apa yang dapat menghentikan kemajuan mereka.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID441",
@@ -5797,17 +5621,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "Api relau biru tulen",
-    "metaphoric_meaning": "Mencapai kesempurnaan; menguasai sepenuhnya",
-    "description": "Idiom ini menggambarkan api (火) relau (炉) menjadi biru (青) tulen (纯). Dalam metalurgi tradisional, api biru menunjukkan suhu tertinggi dan pembakaran yang paling tulen. Frasa ini mewakili puncak perkembangan kemahiran. Penggunaan moden menggambarkan penguasaan yang telah mencapai tahap tertinggi yang mungkin, kepakaran yang diperhalusi hingga kesempurnaan.",
-    "example": "Kemahiran teknikalnya telah mencapai tahap tertinggi.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID461",
     "characters": "名列前茅",
     "pinyin": "míng liè qián máo",
@@ -5838,17 +5651,6 @@
     "description": "Idiom ini menggambarkan menghasilkan (出) sesuatu yang berbeza (别) daripada reka bentuk atau potongan (裁) hati (心) seseorang. Aksara 裁 asalnya merujuk kepada menjahit kain, mencadangkan reka bentuk kreatif. Frasa ini meraikan keaslian dan inovasi yang menyimpang daripada konvensyen. Ia muncul dalam kritikan sastera yang memuji karya yang menunjukkan kebebasan kreatif. Penggunaan moden memuji pemikiran inovatif, reka bentuk asal, atau pendekatan tidak konvensional yang terbukti berjaya kerana ia berbeza daripada kaedah standard.",
     "example": "Pendekatannya yang tidak konvensional terhadap masalah itu mengagumkan semua orang.",
     "chineseExample": "她别出心裁的方法给大家留下了深刻印象。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "Tepat di tempat yang baik",
-    "metaphoric_meaning": "Sangat sesuai; sangat sesuai",
-    "description": "Idiom ini menggambarkan berada tepat (恰) di (到) tempat (处) yang baik (好). Ia menggambarkan mencapai titik yang sempurna - tidak terlalu banyak atau terlalu sedikit. Frasa ini menghargai ketepatan dan kesesuaian. Penggunaan moden menggambarkan perkara yang dilakukan dengan penentukuran yang sempurna, tindakan atau jumlah yang betul-betul sesuai untuk keadaan tersebut.",
-    "example": "Perasaannya sempurna - tidak terlalu banyak, tidak terlalu sedikit.",
-    "chineseExample": "调味恰到好处，不多不少。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6026,17 +5828,6 @@
     "example": "Selepas pertengkaran itu, dia bertindak seolah-olah tiada apa yang berlaku.",
     "chineseExample": "争吵之后，他若无其事地继续工作。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Dada mengandungi buluh yang lengkap",
-    "metaphoric_meaning": "Mempunyai rancangan yang difikirkan dengan baik; bersedia dengan baik",
-    "description": "Idiom ini menggambarkan mempunyai (有) buluh (竹) yang lengkap (成) di dalam dada (胸) seseorang. Ia berasal dari kisah pelukis Wen Tong yang menggambarkan buluh yang lengkap dalam fikirannya sebelum melukis. Frasa ini menggambarkan persediaan mental yang teliti. Penggunaan moden menggambarkan mempunyai rancangan yang jelas atau persediaan yang lengkap sebelum melakukan tugas.",
-    "example": "Dia memasuki peperiksaan dengan keyakinan penuh terhadap persediaannya.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID482",
@@ -6545,17 +6336,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "Ikut jabatan, pergi ke kelas",
-    "metaphoric_meaning": "Ikut prosedur yang ditetapkan; bersikap metodikal",
-    "description": "Idiom ini menggambarkan mengikut (按) jabatan (部) dan pergi ke (就) kelas (班). Pada asalnya menggambarkan prosedur birokrasi, ia kemudian bermaksud mengikut peraturan yang ditetapkan. Frasa ini menghargai pendekatan sistematik berbanding improvisasi. Penggunaan moden menggambarkan mengikut prosedur dan urutan yang betul, bekerja secara metodikal dan bukannya secara huru-hara, walaupun kadang-kadang mengkritik kekakuan yang berlebihan.",
-    "example": "Projek itu berjalan mengikut proses yang ditetapkan.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID529",
     "characters": "不可开交",
     "pinyin": "bù kě kāi jiāo",
@@ -6576,17 +6356,6 @@
     "example": "Daripada bersaing secara langsung, dia menemui pendekatan alternatif yang inovatif.",
     "chineseExample": "她没有直接竞争，而是另辟蹊径。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hati terukir pada satu sama lain",
-    "metaphoric_meaning": "Selaras dengan sempurna antara satu sama lain",
-    "description": "Idiom ini menggambarkan hati (心心) terukir (印) pada satu sama lain (相). Pada asalnya istilah Buddha yang menggambarkan penghantaran dharma antara guru dan murid tanpa kata-kata, ia kini terutamanya menggambarkan hubungan romantik yang mendalam. Penggunaan moden menggambarkan pemahaman intim antara kekasih atau rakan karib di mana komunikasi melampaui kata-kata - minda yang berfikir sama dan hati yang berdegup sebagai satu.",
-    "example": "Pasangan itu memahami satu sama lain tanpa kata-kata.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID532",
@@ -6664,28 +6433,6 @@
     "example": "Sumbangannya kepada projek itu boleh diabaikan.",
     "chineseExample": "他对项目的贡献微不足道。",
     "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Kata-kata dan tindakan konsisten",
-    "metaphoric_meaning": "Amalkan apa yang anda khotbahkan",
-    "description": "Idiom ini menggambarkan kata-kata (言) dan tindakan (行) menjadi konsisten (一致). Ia menghargai penjajaran antara apa yang dikatakan seseorang dan apa yang dilakukannya. Frasa ini memberi amaran terhadap kemunafikan di mana janji tidak sepadan dengan tingkah laku. Penggunaan moden menekankan integriti dan kebolehpercayaan, kepercayaan yang datang apabila tindakan seseorang sentiasa sepadan dengan kata-katanya.",
-    "example": "Seorang pemimpin yang baik mengamalkan apa yang mereka khotbahkan.",
-    "chineseExample": "好的领导者言行一致。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "Idiom ini menggambarkan merendah-rendahkan (菲薄) diri (自) secara tidak munasabah (妄). Ia berasal dari peringatan terkenal Zhuge Liang kepada Maharaja Shu, menasihati agar tidak merendah-rendahkan diri secara berlebihan yang boleh membahayakan negara. Frasa ini memberi amaran bahawa kesopanan palsu boleh sama merosakkan dengan kesombongan. Penggunaan moden menggalakkan harga diri yang sihat dan memberi amaran terhadap tingkah laku merosakkan diri yang mengehadkan potensi.",
-    "example": "Jangan memandang rendah kebolehan anda; anda mempunyai banyak sumbangan.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID541",
@@ -6919,17 +6666,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "Idiom ini menggambarkan merendah-rendahkan (菲薄) diri (自) secara tidak munasabah (妄). Ia berasal dari peringatan terkenal Zhuge Liang kepada Maharaja Shu, menasihati agar tidak merendah-rendahkan diri secara berlebihan yang boleh membahayakan negara. Frasa ini memberi amaran bahawa kesopanan palsu boleh sama merosakkan dengan kesombongan. Penggunaan moden menggalakkan harga diri yang sihat dan memberi amaran terhadap tingkah laku merosakkan diri yang mengehadkan potensi.",
-    "example": "Jangan memandang rendah kebolehan anda; anda mempunyai banyak sumbangan.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID563",
     "characters": "妄自尊大",
     "pinyin": "wàng zì zūn dà",
@@ -6939,17 +6675,6 @@
     "example": "Keyakinan melampau beliau membutakan beliau kepada kelemahan beliau yang jelas.",
     "chineseExample": "他妄自尊大，看不到自己明显的弱点。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "Idiom ini menggambarkan bimbang (患) tentang mendapat (得) dan bimbang (患) tentang kehilangan (失). Ia berasal dari Analekta Confucius, mengkritik orang kecil yang sentiasa bimbang tentang apa yang mungkin mereka peroleh atau hilang. Pemikiran ini mewujudkan kebimbangan yang tidak berkesudahan dan menghalang kepuasan. Penggunaan moden menggambarkan keterikatan yang berlebihan kepada hasil dan ketidakupayaan untuk mencari kedamaian tanpa mengira keadaan.",
-    "example": "Kebimbangan beliau yang berterusan tentang hasil menghalang beliau daripada menikmati proses tersebut.",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID565",
@@ -6982,17 +6707,6 @@
     "description": "Idiom ini menggambarkan berasa sangat gembira (得意) sehingga seseorang terlupa (忘) bentuk atau tingkah laku (形) yang betul. Ia memberi amaran bahawa kegembiraan atau kejayaan yang berlebihan boleh membawa kepada kehilangan ketenangan dan pertimbangan. Frasa ini muncul dalam teks tentang bahaya keangkuhan berikutan pencapaian. Penggunaan moden memberi amaran agar tidak membiarkan kejayaan naik ke kepala seseorang, yang membawa kepada tingkah laku yang tidak sesuai atau keputusan yang buruk.",
     "example": "Kejayaan beliau membuatkan beliau cuai tentang kelakuan profesional beliau.",
     "chineseExample": "成功让他得意忘形，忽视了职业操守。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "Idiom ini menggambarkan kegembiraan (喜) yang melampaui (出) apa yang diharapkan (望外). Ia menangkap kegembiraan menerima sesuatu yang lebih baik daripada yang dijangkakan. Frasa ini muncul dalam teks yang menggambarkan saat-saat tuah yang tidak dijangka yang melebihi semua harapan. Penggunaan moden menggambarkan kejutan yang menyenangkan, rezeki yang tidak dijangka, dan sebarang hasil positif yang melebihi jangkaan.",
-    "example": "Dia terkejut dengan kenaikan pangkat yang tidak dijangka.",
-    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -7060,17 +6774,6 @@
     "example": "Dia kelihatan muram sejak dia mendengar tentang pemotongan bajet.",
     "chineseExample": "自从听说预算削减后，他一直愁眉苦脸。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID575",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Drooping head, lost spirit",
-    "metaphoric_meaning": "Be dejected and dispirited",
-    "description": "Idiom ini menggambarkan kepala (头) yang terkulai (垂) dan semangat (气) yang hilang (丧). Ia menggambarkan bahasa badan kekalahan dan kekecewaan - postur yang merosot seseorang yang telah kehilangan harapan. Frasa ini menangkap bagaimana kekecewaan terwujud secara fizikal. Penggunaan moden menggambarkan kekecewaan, kehilangan tenaga dan harapan yang kelihatan berikutan kegagalan atau berita buruk.",
-    "example": "Pasukan yang kalah berjalan keluar dari padang dengan kecewa dan hilang semangat.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID576",
@@ -7205,17 +6908,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Terang, jelas, dan jujur",
-    "metaphoric_meaning": "Bersikap terbuka dan jujur",
-    "description": "Idiom ini menggambarkan menjadi terang (光明) dan jujur (磊落). Aksara 磊 menunjukkan tiga batu disusun, mewakili kekukuhan dan keterbukaan. Frasa ini menggambarkan seseorang yang tidak mempunyai apa-apa untuk disembunyikan, yang wataknya telus dan terhormat. Penggunaan moden menggambarkan orang yang berintegriti yang tindakannya dapat menahan penelitian, yang bertindak secara terbuka tanpa agenda tersembunyi.",
-    "example": "Wataknya yang terus terang memberinya kepercayaan semua orang.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID589",
     "characters": "坦坦荡荡",
     "pinyin": "tǎn tǎn dàng dàng",
@@ -7235,17 +6927,6 @@
     "description": "Idiom ini menggambarkan luar (表) dan dalam (里) menjadi seperti (如) satu (一). Ia menggambarkan konsistensi antara persona awam dan diri peribadi seseorang, antara kata-kata dan tindakan. Frasa ini menghargai keaslian dan integriti. Penggunaan moden memuji mereka yang tulen - orang yang sama tanpa mengira penonton atau keadaan, tanpa kepura-puraan atau kepalsuan.",
     "example": "Dia tulen - orang yang sama di khalayak ramai dan peribadi.",
     "chineseExample": "她表里如一，在公众场合和私下是同一个人。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Kata-kata dan tindakan konsisten",
-    "metaphoric_meaning": "Amalkan apa yang anda khotbahkan",
-    "description": "Idiom ini menggambarkan kata-kata (言) dan tindakan (行) menjadi konsisten (一致). Ia menghargai penjajaran antara apa yang dikatakan seseorang dan apa yang dilakukannya. Frasa ini memberi amaran terhadap kemunafikan di mana janji tidak sepadan dengan tingkah laku. Penggunaan moden menekankan integriti dan kebolehpercayaan, kepercayaan yang datang apabila tindakan seseorang sentiasa sepadan dengan kata-katanya.",
-    "example": "Seorang pemimpin yang baik mengamalkan apa yang mereka khotbahkan.",
-    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
@@ -7378,17 +7059,6 @@
     "description": "Idiom ini menggambarkan kepala (头) putih (白) bersama (偕) di usia tua (老). Ia menggambarkan pasangan yang membesar bersama, rambut mereka bertukar putih bersebelahan. Frasa ini adalah berkat biasa di majlis perkahwinan. Penggunaan moden menyatakan hasrat untuk perkahwinan yang berkekalan, harapan bahawa pasangan akan kekal setia sehingga kedua-duanya mempunyai rambut kelabu, melambangkan persahabatan seumur hidup.",
     "example": "Mereka mengucapkan selamat kepada pengantin baru kebahagiaan seumur hidup bersama.",
     "chineseExample": "他们祝愿新婚夫妇白头偕老。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hati terukir pada satu sama lain",
-    "metaphoric_meaning": "Selaras dengan sempurna antara satu sama lain",
-    "description": "Idiom ini menggambarkan hati (心心) terukir (印) pada satu sama lain (相). Pada asalnya istilah Buddha yang menggambarkan penghantaran dharma antara guru dan murid tanpa kata-kata, ia kini terutamanya menggambarkan hubungan romantik yang mendalam. Penggunaan moden menggambarkan pemahaman intim antara kekasih atau rakan karib di mana komunikasi melampaui kata-kata - minda yang berfikir sama dan hati yang berdegup sebagai satu.",
-    "example": "Pasangan itu memahami satu sama lain tanpa kata-kata.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
     "theme": "Relationships & Character"
   },
   {
@@ -7700,17 +7370,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "Ikut jabatan, pergi ke kelas",
-    "metaphoric_meaning": "Ikut prosedur yang ditetapkan; bersikap metodikal",
-    "description": "Idiom ini menggambarkan mengikut (按) jabatan (部) dan pergi ke (就) kelas (班). Pada asalnya menggambarkan prosedur birokrasi, ia kemudian bermaksud mengikut peraturan yang ditetapkan. Frasa ini menghargai pendekatan sistematik berbanding improvisasi. Penggunaan moden menggambarkan mengikut prosedur dan urutan yang betul, bekerja secara metodikal dan bukannya secara huru-hara, walaupun kadang-kadang mengkritik kekakuan yang berlebihan.",
-    "example": "Projek itu berjalan mengikut proses yang ditetapkan.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID397",
     "characters": "脚踏实地",
     "pinyin": "jiǎo tà shí dì",
@@ -7764,17 +7423,6 @@
     "example": "Transformasi digital telah menjadi tidak dapat dielakkan untuk industri ini.",
     "chineseExample": "数字化转型已势在必行。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID639",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "Momentum seperti membelah buluh",
-    "metaphoric_meaning": "Mempunyai momentum yang tidak dapat ditahan; menyapu semua di hadapan seseorang",
-    "description": "Idiom ini menggambarkan momentum (势) seperti (如) membelah (破) buluh (竹). Apabila buluh dibelah, retakan itu mudah merebak ke sepanjang panjangnya. Frasa ini menangkap momentum yang tidak dapat dihentikan di mana setiap kejayaan menjadikan yang seterusnya lebih mudah. Penggunaan moden menggambarkan rentetan kemenangan dan kejayaan yang didorong oleh momentum, situasi di mana kemajuan menjadi semakin mudah apabila halangan jatuh.",
-    "example": "Sebaik sahaja mereka mendapat momentum, tiada apa yang dapat menghentikan kemajuan mereka.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID640",
@@ -7841,17 +7489,6 @@
     "example": "Pasukan itu mendoakannya kejayaan dari saat dia bermula.",
     "chineseExample": "团队祝愿她马到成功。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID646",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "Satu layar, angin baik",
-    "metaphoric_meaning": "Pelayaran lancar; semuanya berjalan lancar",
-    "description": "Idiom ini menggambarkan satu (一) layar (帆) dengan angin (风) yang baik (顺). Ia menggambarkan pelayaran yang diberkati dengan angin yang sempurna tanpa memerlukan perjuangan. Frasa ini adalah berkat biasa yang mendoakan kemajuan yang lancar. Penggunaan moden mendoakan seseorang kejayaan yang mudah, kehidupan atau usaha yang bebas daripada halangan, di mana semuanya berjalan lancar.",
-    "example": "Semoga perjalanan hidup anda lancar dan berjaya.",
-    "chineseExample": "愿你的人生一帆风顺。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID647",
@@ -7975,28 +7612,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "Tepat di tempat yang baik",
-    "metaphoric_meaning": "Sangat sesuai; sangat sesuai",
-    "description": "Idiom ini menggambarkan berada tepat (恰) di (到) tempat (处) yang baik (好). Ia menggambarkan mencapai titik yang sempurna - tidak terlalu banyak atau terlalu sedikit. Frasa ini menghargai ketepatan dan kesesuaian. Penggunaan moden menggambarkan perkara yang dilakukan dengan penentukuran yang sempurna, tindakan atau jumlah yang betul-betul sesuai untuk keadaan tersebut.",
-    "example": "Perasaannya sempurna - tidak terlalu banyak, tidak terlalu sedikit.",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "Tepat seperti bahagiannya",
-    "metaphoric_meaning": "Sangat sesuai; sangat sesuai",
-    "description": "Idiom ini menggambarkan menjadi tepat (恰) seperti (如) bahagian (分) yang sepatutnya (其). Ia menggambarkan tingkah laku atau perkataan yang ditentukur dengan sempurna dengan keadaan - tidak berlebihan atau tidak mencukupi. Frasa ini menghargai kesesuaian dan ukuran. Penggunaan moden menggambarkan respons yang ditentukur dengan baik, tindakan yang sangat sesuai dengan konteksnya.",
-    "example": "Responsnya sangat terukur dan sesuai.",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID500",
     "characters": "无懈可击",
     "pinyin": "wú xiè kě jī",
@@ -8006,17 +7621,6 @@
     "example": "Hujah undang-undangnya sempurna dan mustahil untuk dicabar.",
     "chineseExample": "她的法律论证无懈可击。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "Tidak setitik air pun bocor",
-    "metaphoric_meaning": "Kalis air; dirancang dengan teliti",
-    "description": "Idiom ini menggambarkan tidak (不) setitik (滴) air (水) pun bocor (漏). Ia menggambarkan pengedap yang sangat teliti sehingga tiada apa yang boleh terlepas. Frasa ini digunakan untuk penahanan atau kerahsiaan yang sempurna. Penggunaan moden menggambarkan pelaksanaan yang sempurna tanpa jurang, rancangan yang sangat teliti sehingga tiada apa yang terlepas pandang, atau rahsia yang disimpan dengan baik sehingga tiada apa yang bocor.",
-    "example": "Pengaturan keselamatan benar-benar kalis air.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
   },
   {
     "id": "ID662",
@@ -8050,17 +7654,6 @@
     "example": "Rancangan itu direka untuk menjadi benar-benar kalis bodoh.",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Dada mengandungi buluh yang lengkap",
-    "metaphoric_meaning": "Mempunyai rancangan yang difikirkan dengan baik; bersedia dengan baik",
-    "description": "Idiom ini menggambarkan mempunyai (有) buluh (竹) yang lengkap (成) di dalam dada (胸) seseorang. Ia berasal dari kisah pelukis Wen Tong yang menggambarkan buluh yang lengkap dalam fikirannya sebelum melukis. Frasa ini menggambarkan persediaan mental yang teliti. Penggunaan moden menggambarkan mempunyai rancangan yang jelas atau persediaan yang lengkap sebelum melakukan tugas.",
-    "example": "Dia memasuki peperiksaan dengan keyakinan penuh terhadap persediaannya.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8118,17 +7711,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "Api relau biru tulen",
-    "metaphoric_meaning": "Mencapai kesempurnaan; menguasai sepenuhnya",
-    "description": "Idiom ini menggambarkan api (火) relau (炉) menjadi biru (青) tulen (纯). Dalam metalurgi tradisional, api biru menunjukkan suhu tertinggi dan pembakaran yang paling tulen. Frasa ini mewakili puncak perkembangan kemahiran. Penggunaan moden menggambarkan penguasaan yang telah mencapai tahap tertinggi yang mungkin, kepakaran yang diperhalusi hingga kesempurnaan.",
-    "example": "Kemahiran teknikalnya telah mencapai tahap tertinggi.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8138,28 +7720,6 @@
     "example": "Silap mata magiknya telah mencapai tahap yang hampir luar biasa.",
     "chineseExample": "他的魔术已经出神入化。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "Menaiki dewan, memasuki bilik dalam",
-    "metaphoric_meaning": "Mencapai kecekapan; mencapai penguasaan",
-    "description": "Idiom ini menggambarkan menaiki (登) dewan (堂) dan memasuki (入) bilik dalam (室). Daripada Analects yang menggambarkan peringkat pembelajaran - dewan adalah perantaraan, bilik dalam adalah penguasaan. Frasa ini menggambarkan perkembangan ke tahap lanjutan. Penggunaan moden menggambarkan mencapai pemahaman yang mendalam, bergerak daripada pengetahuan permukaan kepada kepakaran sebenar.",
-    "example": "Pemahamannya tentang bidang itu telah mencapai tahap lanjutan.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "Biru muncul dari indigo",
-    "metaphoric_meaning": "Melampaui guru seseorang; mengatasi pendahulu",
-    "description": "Idiom ini menggambarkan biru (青) muncul (出) dari (于) indigo (蓝). Pewarna biru yang berasal dari tumbuhan indigo menjadi lebih jelas daripada sumbernya. Frasa ini meraikan pelajar yang melampaui guru. Penggunaan moden menggambarkan pengganti yang melebihi pendahulu mereka, hasil ideal pengajaran di mana murid mencapai lebih daripada guru mereka.",
-    "example": "Pelajar itu melampaui guru yang cemerlang sekalipun.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID391",
@@ -8225,17 +7785,6 @@
     "description": "Idiom ini menggambarkan hati (心) tukang (匠) beroperasi (运) secara unik (独). Varian 独具匠心, ia menekankan penggunaan aktif genius kreatif. Frasa ini menggambarkan kreativiti asal dalam tindakan. Penggunaan moden menggambarkan pelaksanaan genius kreatif dalam menghasilkan kerja yang tersendiri.",
     "example": "Visi kreatif pengarah filem itu menghasilkan karya agung.",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "Kemahiran melampaui kerja syurga",
-    "metaphoric_meaning": "Melampaui alam semula jadi dalam kemahiran; ketukangan luar biasa",
-    "description": "Idiom ini menggambarkan kemahiran (巧) melampaui (夺) kerja (工) syurga (天). Ia menggambarkan ketukangan manusia yang begitu sempurna sehingga melebihi apa yang boleh dihasilkan oleh alam semula jadi. Frasa ini mewakili puncak pencapaian artistik. Penggunaan moden menggambarkan ketukangan atau kesenian luar biasa yang kelihatan melampaui keupayaan manusia, kerja yang menyaingi ciptaan ilahi.",
-    "example": "Ukiran jed yang rumit itu kelihatan hampir diukir secara ilahi.",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]

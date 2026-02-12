@@ -42,6 +42,16 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(url, { status: 301 });
   }
 
+  // Redirect old dated blog URLs (e.g. /blog/2025-01-01-slug → /blog/slug)
+  const datedBlogMatch = url.pathname.match(/^(?:\/([a-z]{2}))?\/blog\/\d{4}-\d{2}-\d{2}-(.+)$/);
+  if (datedBlogMatch) {
+    const lang = datedBlogMatch[1];
+    const slug = datedBlogMatch[2];
+    const newPath = lang ? `/${lang}/blog/${slug}` : `/blog/${slug}`;
+    url.pathname = newPath;
+    return NextResponse.redirect(url, { status: 301 });
+  }
+
   // Auto-detect language on homepage only (not blog or other pages)
   if (url.pathname === '/' && !request.cookies.get('lang-preference')) {
     const detectedLang = detectLanguage(request);

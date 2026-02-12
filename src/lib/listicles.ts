@@ -1,5 +1,4 @@
 import idioms from '../../public/idioms.json';
-import { format, addDays } from 'date-fns';
 import { pinyinToSlug } from './utils/pinyin';
 import fs from 'fs';
 import path from 'path';
@@ -26,12 +25,7 @@ export function getIdiomBlogSlug(idiomId: string): string | null {
   const idiom = idioms.find(i => i.id === idiomId);
   if (!idiom) return null;
 
-  // Calculate date from ID (ID001 = 2025-01-01, ID002 = 2025-01-02, etc.)
-  const idNum = parseInt(idiomId.replace('ID', ''), 10);
-  const startDate = new Date('2025-01-01');
-  const date = addDays(startDate, idNum - 1);
-
-  return format(date, 'yyyy-MM-dd') + '-' + pinyinToSlug(idiom.pinyin);
+  return pinyinToSlug(idiom.pinyin);
 }
 
 // Helper to get full idiom data
@@ -402,7 +396,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Wish students academic success with these 10 Chinese idioms. Perfect for Chinese New Year blessings about learning, exams, and achieving educational dreams.',
     keywords: ['chinese new year student wishes', 'academic success idioms', 'exam blessing chinese', '学业有成', 'student cny greetings', 'school success chinese', 'study motivation new year'],
     intro: 'Chinese New Year is an important time to encourage students in their academic pursuits. These idioms convey wishes for learning success, exam excellence, and intellectual growth - perfect for blessing students of all ages.',
-    idiomIds: ['ID002', 'ID003', 'ID021', 'ID010', 'ID016', 'ID154', 'ID167', 'ID025', 'ID674', 'ID585'],
+    idiomIds: ['ID002', 'ID003', 'ID021', 'ID010', 'ID016', 'ID154', 'ID167', 'ID025', 'ID585'],
     category: 'Chinese New Year',
     publishedDate: '2025-02-15'
   },
@@ -726,7 +720,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Master 10 Chinese idioms about fire (火). Learn chengyu about passion, anger, urgency, and the transformative power of fire.',
     keywords: ['chinese idioms about fire', 'fire chengyu', '火 idioms', 'chinese fire expressions', 'huo idioms'],
     intro: 'Fire (火, huǒ) represents passion, urgency, anger, and transformation in Chinese culture. These idioms capture the intensity and power of fire in human experience.',
-    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544', 'ID671'],
+    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544'],
     category: 'Nature',
     publishedDate: '2025-02-15'
   },
@@ -737,7 +731,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Discover 12 Chinese idioms about sky and heaven (天). These chengyu explore fate, divine providence, and boundless potential.',
     keywords: ['chinese idioms about sky', 'heaven chengyu', '天 idioms', 'chinese heaven expressions', 'tian idioms'],
     intro: 'The sky/heaven (天, tiān) represents the divine order, fate, and limitless possibility in Chinese thought. These idioms explore the relationship between humans and the cosmos.',
-    idiomIds: ['ID014', 'ID094', 'ID175', 'ID197', 'ID211', 'ID251', 'ID352', 'ID385', 'ID400', 'ID485', 'ID510', 'ID607'],
+    idiomIds: ['ID014', 'ID094', 'ID175', 'ID197', 'ID211', 'ID251', 'ID352', 'ID385', 'ID400', 'ID485', 'ID510'],
     category: 'Nature',
     publishedDate: '2025-02-16'
   },
@@ -794,7 +788,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Learn 10 soaring Chinese idioms with bird (鸟). These chengyu celebrate freedom, high aspirations, and the beauty of nature.',
     keywords: ['chinese idioms with bird', 'bird chengyu', '鸟 idioms', 'chinese bird sayings', 'phoenix idioms'],
     intro: 'Birds (鸟, niǎo) in Chinese idioms represent freedom, aspiration, and natural beauty. From the phoenix to the crane, bird imagery carries profound cultural meaning.',
-    idiomIds: ['ID032', 'ID034', 'ID046', 'ID108', 'ID126', 'ID222', 'ID427', 'ID527'],
+    idiomIds: ['ID032', 'ID034', 'ID046', 'ID108', 'ID126', 'ID222', 'ID527'],
     category: 'Animals & Zodiac',
     publishedDate: '2025-02-27'
   },
@@ -939,7 +933,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Learn 8 joyful Chinese idioms for new baby congratulations. Perfect chengyu for blessing newborns and celebrating new parents.',
     keywords: ['new baby idioms chinese', 'baby congratulations chengyu', 'newborn wishes chinese', 'birth celebration phrases'],
     intro: 'The birth of a child is one of life\'s greatest blessings in Chinese culture. These joyful idioms celebrate new life and wish the baby health and happiness.',
-    idiomIds: ['ID079', 'ID242', 'ID415', 'ID489', 'ID550', 'ID568', 'ID569', 'ID571'],
+    idiomIds: ['ID079', 'ID242', 'ID415', 'ID489', 'ID550', 'ID569', 'ID571'],
     category: 'Occasions',
     publishedDate: '2025-03-12'
   },
@@ -995,7 +989,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Discover 10 joyful Chinese idioms about happiness and delight. These chengyu express joy, contentment, and positive emotions in Mandarin.',
     keywords: ['chinese idioms about happiness', 'happy chinese phrases', 'chengyu for joy', 'chinese delight expressions', 'mandarin happiness idioms'],
     intro: 'Happiness and contentment are celebrated in Chinese culture through beautiful idiomatic expressions. These idioms capture different shades of joy, from quiet satisfaction to overwhelming delight.',
-    idiomIds: ['ID173', 'ID295', 'ID303', 'ID315', 'ID407', 'ID415', 'ID462', 'ID489', 'ID517', 'ID568'],
+    idiomIds: ['ID173', 'ID295', 'ID303', 'ID315', 'ID407', 'ID415', 'ID462', 'ID489', 'ID517'],
     category: 'Emotions',
     publishedDate: '2025-03-17'
   },
@@ -1512,7 +1506,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Explore 10 intense Chinese idioms about betrayal and broken trust. These chengyu describe treachery in Mandarin.',
     keywords: ['chinese idioms betrayal', 'backstab chinese phrases', 'chengyu for traitors', 'chinese trust expressions', 'mandarin betrayal idioms'],
     intro: 'Betrayal cuts deep in any culture. These Chinese idioms vividly describe those who break trust, abandon allies, and reveal their true treacherous nature.',
-    idiomIds: ['ID069', 'ID081', 'ID235', 'ID243', 'ID252', 'ID309', 'ID321', 'ID355', 'ID408', 'ID591'],
+    idiomIds: ['ID069', 'ID081', 'ID235', 'ID243', 'ID252', 'ID309', 'ID321', 'ID355', 'ID408', 'ID539'],
     category: 'Relationships',
     publishedDate: '2025-05-02'
   },
@@ -1523,7 +1517,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Express appreciation with 10 Chinese idioms about gratitude. These chengyu teach thankfulness in Mandarin.',
     keywords: ['chinese idioms gratitude', 'thankful chinese phrases', 'chengyu for appreciation', 'chinese kindness expressions', 'mandarin gratitude idioms'],
     intro: 'Gratitude is deeply valued in Chinese culture, with strong traditions of remembering and repaying kindness. These idioms express the many dimensions of thankfulness and appreciation.',
-    idiomIds: ['ID134', 'ID149', 'ID277', 'ID300', 'ID315', 'ID422', 'ID432', 'ID467', 'ID577', 'ID646'],
+    idiomIds: ['ID134', 'ID149', 'ID277', 'ID300', 'ID315', 'ID422', 'ID332', 'ID467', 'ID577', 'ID436'],
     category: 'Relationships',
     publishedDate: '2025-05-03'
   },
@@ -2780,7 +2774,7 @@ export const listicles: Listicle[] = [
     metaDescription: 'Master patience with 10 wise Chinese sayings about perseverance. These ancient expressions teach the power of steady, persistent effort.',
     keywords: ['chinese sayings about patience', 'chinese perseverance quotes', 'chinese patience proverbs', 'mandarin sayings persistence', 'chinese sayings about endurance', 'chinese wisdom patience'],
     intro: 'The Chinese have a saying: water drops can pierce stone. That philosophy of patient, persistent effort runs deep through Chinese wisdom. These 10 sayings remind us that the greatest achievements come not from speed, but from never giving up.',
-    idiomIds: ['ID009', 'ID088', 'ID090', 'ID106', 'ID107', 'ID109', 'ID233', 'ID287', 'ID469', 'ID632'],
+    idiomIds: ['ID009', 'ID088', 'ID090', 'ID106', 'ID107', 'ID109', 'ID233', 'ID287', 'ID469', 'ID390'],
     category: 'Sayings',
     publishedDate: '2025-08-25'
   },

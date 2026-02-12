@@ -36,7 +36,7 @@ function processContentTemplate(content: string, lang: string = 'en'): string {
 }
 
 export function generateBlogPost(idiom: Idiom, date: Date, lang?: string): BlogPost {
-  const slug = format(date, 'yyyy-MM-dd') + '-' + pinyinToSlug(idiom.pinyin);
+  const slug = pinyinToSlug(idiom.pinyin);
 
   // Use translated content if available
   const meaning = idiom.meaning || idiom.original_meaning;
@@ -88,19 +88,13 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
     idioms = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public/idioms.json'), 'utf-8'));
   }
 
-  // Generate posts from JSON for dates
+  // Generate posts from JSON for all idioms
   const startDate = new Date('2025-01-01');
-  const today = new Date();
 
-  // Only generate posts for idioms that exist in the translation file
   idioms.forEach((idiom: Idiom, index: number) => {
     const postDate = new Date(startDate);
     postDate.setDate(postDate.getDate() + index);
-
-    // Only create posts for dates up to today
-    if (postDate <= today) {
-      posts.push(generateBlogPost(idiom, postDate, lang));
-    }
+    posts.push(generateBlogPost(idiom, postDate, lang));
   });
 
   return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());

@@ -28,7 +28,7 @@ async function generatePostForLanguage(lang, idiom, date, cleanPinyin) {
 
   await fs.mkdir(outputDir, { recursive: true });
 
-  const filename = `${date}-${cleanPinyin}.md`;
+  const filename = `${cleanPinyin}.md`;
   const filepath = path.join(outputDir, filename);
 
   // Check if file already exists

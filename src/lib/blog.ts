@@ -26,7 +26,7 @@ export function getIdiomForDate(date: Date): typeof idioms[0] | null {
 }
 
 export function generateBlogPost(idiom: typeof idioms[0], date: Date): BlogPost {
-  const slug = format(date, 'yyyy-MM-dd') + '-' + pinyinToSlug(idiom.pinyin);
+  const slug = pinyinToSlug(idiom.pinyin);
   
   const content = `
 **Pronunciation:** *${idiom.pinyin}*  
@@ -93,18 +93,19 @@ export async function getAllBlogPosts(): Promise<BlogPost[]> {
     }
   }
   
-  // Then generate from JSON for dates without markdown files
+  // Then generate from JSON for idioms without markdown files
   const startDate = new Date('2025-01-01');
-  const today = new Date();
-  
-  for (let d = new Date(startDate); d <= today; d.setDate(d.getDate() + 1)) {
-    const dateStr = format(new Date(d), 'yyyy-MM-dd');
+
+  for (let i = 0; i < idioms.length; i++) {
+    const d = new Date(startDate);
+    d.setDate(d.getDate() + i);
+    const dateStr = format(d, 'yyyy-MM-dd');
     // Skip if we already have a markdown file for this date
     if (posts.some(p => p.date === dateStr)) continue;
-    
-    const idiom = getIdiomForDate(new Date(d));
+
+    const idiom = getIdiomForDate(d);
     if (idiom) {
-      posts.push(generateBlogPost(idiom, new Date(d)));
+      posts.push(generateBlogPost(idiom, d));
     }
   }
   

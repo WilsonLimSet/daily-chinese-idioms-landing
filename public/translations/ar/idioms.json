@@ -5448,17 +5448,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "شعر الكركي وبشرة الطفل",
-    "metaphoric_meaning": "أبيض الشعر ولكن بمظهر شبابي",
-    "description": "يجمع هذا المصطلح التعبيري بين شعر \"ريش الكركي\" (鹤发) - أبيض مثل ريش الكركي - مع بشرة (颜) الطفل (童) لوصف كبار السن الذين يظلون شبابًا في المظهر. يرمز الكركي إلى طول العمر في الثقافة الصينية، بينما تمثل البشرة الوردية للأطفال الصحة والحيوية. نشأت العبارة في أوصاف الخالدين الطاويين والحكماء الذين طال عمرهم والذين تحدوا الشيخوخة الطبيعية. إنه يثني على أولئك الذين يحافظون على الصحة والحيوية على الرغم من تقدمهم في السن. يكمل الاستخدام الحديث الأفراد المسنين النشطين والأصحاء.",
-    "example": "على الرغم من تقدمه في السن، إلا أنه يحافظ على حيوية وبشرة الشباب.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID428",
     "characters": "铁证如山",
     "pinyin": "tiě zhèng rú shān",
@@ -5500,17 +5489,6 @@
     "description": "ينشأ هذا المصطلح التعبيري من علم التنجيم الصيني (فنغ شوي)، حيث يشير \"التنين\" (龙) إلى سلاسل الجبال وتشير \"العروق\" (脉) إلى امتداداتها. تتبع المنجمون \"التنين القادم\" و \"العروق الذاهبة\" لفهم تدفق الطاقة في المناظر الطبيعية. تطورت العبارة لتعني تتبع أصول وتطورات أي مسألة - أسبابها وتقدمها وعلاقاتها. إنه يؤكد على أهمية فهم السياق والتاريخ. يصف الاستخدام الحديث التحقيق في الخلفية الكاملة وتطور الوضع أو الحدث أو شرحهما.",
     "example": "قبل اتخاذ قرار، نحتاج إلى فهم السياق الكامل.",
     "chineseExample": "做决定之前，我们需要了解事情的来龙去脉。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "بدون كلام مفهوم",
-    "metaphoric_meaning": "بديهي; غني عن البيان",
-    "description": "يعبر هذا المصطلح عن شيء واضح جدًا لدرجة أنه لا يحتاج (لا) إلى كلمات (言) بعد (而) مفهوم (喻). يظهر في كتاب 'مينسيوس' الكونفوشيوسي الكلاسيكي، مؤكدًا على الحقائق الأساسية لدرجة أنها لا تتطلب تفسيرًا. تعكس العبارة التقليد الفلسفي الصيني الذي يقدر الفهم الضمني على البيان الصريح. فضل كونفوشيوس نفسه التدريس من خلال المثال بدلاً من التفسير المطول. يصف الاستخدام الحديث الحقائق البديهية أو الاستنتاجات الواضحة أو المواقف التي يكون فيها المعنى واضحًا تمامًا دون تفصيل.",
-    "example": "أهمية التعليم بديهية في عالم اليوم.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6040,17 +6018,6 @@
     "example": "After the argument, he acted as if nothing had occurred.",
     "chineseExample": "争吵之后，他若无其事地继续工作。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID481",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Have a complete bamboo in one's chest",
-    "metaphoric_meaning": "Have a well-thought-out plan",
-    "description": "This idiom originates from the Song Dynasty painter Wen Tong, famous for his bamboo paintings. Before painting, he would thoroughly visualize the complete (成) bamboo (竹) in his chest (胸) - his mind. This mental preparation allowed him to paint with swift, confident strokes. The phrase describes having a fully formed plan or vision before beginning. Modern usage describes approaching tasks with thorough preparation and clear vision of the desired outcome.",
-    "example": "She approached the negotiation with complete confidence.",
-    "chineseExample": "她胸有成竹地参与谈判。",
-    "theme": "Strategy & Action"
   },
   {
     "id": "ID482",
@@ -6933,17 +6900,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "This idiom describes unreasonably (妄) self (自) belittling (菲薄). It originated from Zhuge Liang's famous memorial to the Emperor of Shu, advising against excessive self-deprecation that could harm the state. The phrase warns that false modesty can be as damaging as arrogance. Modern usage encourages healthy self-esteem and warns against self-undermining behavior that limits potential.",
-    "example": "Don't underestimate your abilities; you have much to contribute.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID563",
     "characters": "妄自尊大",
     "pinyin": "wàng zì zūn dà",
@@ -6953,17 +6909,6 @@
     "example": "His overconfidence blinded him to his obvious weaknesses.",
     "chineseExample": "他妄自尊大，看不到自己明显的弱点。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "This idiom describes worrying (患) about gaining (得) and worrying (患) about losing (失). It comes from Confucius' Analerta, criticizing petty people who are constantly anxious about what they might gain or lose. This mindset creates endless anxiety and prevents contentment. Modern usage describes excessive attachment to outcomes and the inability to find peace regardless of circumstances.",
-    "example": "His constant anxiety about outcomes prevented him from enjoying the process.",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID565",
@@ -6996,17 +6941,6 @@
     "description": "This idiom describes being so pleased (得意) that one forgets (忘) proper form or behavior (形). It warns that excessive joy or success can lead to loss of composure and judgment. The phrase appeared in texts about the dangers of hubris following achievement. Modern usage warns against letting success go to one's head, leading to inappropriate behavior or poor decisions.",
     "example": "His success made him careless about his professional conduct.",
     "chineseExample": "成功让他得意忘形，忽视了职业操守。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "This idiom describes joy (喜) that goes beyond (出) what one hoped for (望外). It captures the delight of receiving something better than expected. The phrase appeared in texts describing moments of unexpected good fortune that exceeded all hopes. Modern usage describes pleasant surprises, windfalls, and any positive outcome that surpasses anticipation.",
-    "example": "She was pleasantly surprised by the unexpected promotion.",
-    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -7074,17 +7008,6 @@
     "example": "He's been looking gloomy ever since he heard about the budget cuts.",
     "chineseExample": "自从听说预算削减后，他一直愁眉苦脸。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID575",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Drooping head, lost spirit",
-    "metaphoric_meaning": "Be dejected and dispirited",
-    "description": "This idiom describes a drooping (垂) head (头) and lost (丧) spirit (气). It depicts the body language of defeat and discouragement - the slumped posture of someone who has given up hope. The phrase captures how disappointment manifests physically. Modern usage describes dejection, the visible loss of energy and hope following failure or bad news.",
-    "example": "The losing team walked off the field dejected and dispirited.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID576",
@@ -7219,17 +7142,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Bright, clear, and upright",
-    "metaphoric_meaning": "Be open and aboveboard",
-    "description": "This idiom describes being bright (光明) and upright (磊落). The character 磊 shows three stones stacked, representing solidity and openness. The phrase depicts someone with nothing to hide, whose character is transparent and honorable. Modern usage describes people of integrity whose actions can withstand scrutiny, who act openly without hidden agendas.",
-    "example": "His straightforward character earned him everyone's trust.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID589",
     "characters": "坦坦荡荡",
     "pinyin": "tǎn tǎn dàng dàng",
@@ -7249,17 +7161,6 @@
     "description": "This idiom describes the outside (表) and inside (里) being as (如) one (一). It depicts consistency between one's public persona and private self, between words and actions. The phrase values authenticity and integrity. Modern usage praises those who are genuine - the same person regardless of audience or circumstance, without pretense or duplicity.",
     "example": "She is genuine - the same person in public and private.",
     "chineseExample": "她表里如一，在公众场合和私下是同一个人。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Words and actions consistent",
-    "metaphoric_meaning": "Practice what you preach",
-    "description": "This idiom describes words (言) and actions (行) being consistent (一致). It values the alignment between what one says and what one does. The phrase warns against hypocrisy where promises don't match behavior. Modern usage emphasizes integrity and reliability, the trustworthiness that comes when someone's actions consistently match their words.",
-    "example": "A good leader practices what they preach.",
-    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
@@ -7395,17 +7296,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hearts imprint on each other",
-    "metaphoric_meaning": "Be perfectly attuned to each other",
-    "description": "This idiom describes hearts (心心) imprinting (印) on each other (相). Originally a Buddhist term describing the transmission of dharma between master and disciple without words, it now primarily describes deep romantic connection. Modern usage depicts intimate understanding between lovers or close friends where communication transcends words - minds that think alike and hearts that beat as one.",
-    "example": "The couple understood each other without words.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID605",
     "characters": "一见钟情",
     "pinyin": "yī jiàn zhōng qíng",
@@ -7428,17 +7318,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID607",
-    "characters": "天长地久",
-    "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "Heaven long, earth enduring",
-    "metaphoric_meaning": "Last forever; be everlasting",
-    "description": "This idiom describes heaven (天) being long (长) and earth (地) being enduring (久). From the Dao De Jing describing the eternal nature of heaven and earth. The phrase represents permanence and eternity. Modern usage expresses wishes for lasting relationships, whether romantic, friendly, or familial - blessings for bonds that endure like heaven and earth.",
-    "example": "May your friendship last forever.",
-    "chineseExample": "愿你们的友谊天长地久。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID608",
     "characters": "难分难舍",
     "pinyin": "nán fēn nán shě",
@@ -7447,17 +7326,6 @@
     "description": "This idiom describes being hard (难) to part (分) and hard (难) to leave (舍). It depicts the pain of separation when attachment is strong. The doubled structure emphasizes the difficulty of saying goodbye. Modern usage describes the emotional difficulty of parting from loved ones, the reluctance to end a meeting or relationship when feelings run deep.",
     "example": "The farewell was emotional as neither wanted to say goodbye.",
     "chineseExample": "告别时他们难分难舍，都不想说再见。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "Lingering reluctantly, unwilling to leave",
-    "metaphoric_meaning": "Be reluctant to part",
-    "description": "This idiom describes lingering (依依) and being unwilling (不舍) to leave. The doubled 依 emphasizes the clinging, reluctant quality of the departure. The phrase captures the hesitation when leaving something beloved. Modern usage describes reluctant partings - children leaving fun places, lovers saying goodbye, or leaving any situation one wishes could continue.",
-    "example": "The children reluctantly left the amusement park.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -7593,17 +7461,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "Bow down and exhaust oneself",
-    "metaphoric_meaning": "Devote oneself completely; work until exhaustion",
-    "description": "This idiom describes bowing (鞠躬) and exhausting (尽) oneself (瘁). It comes from Zhuge Liang's famous memorial, describing his dedication to serving Shu until death. The phrase embodies the ultimate in loyal service. Modern usage describes complete dedication to a cause or organization, giving everything until nothing remains, the highest form of devoted service.",
-    "example": "He served the organization until his final breath.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID623",
     "characters": "死而后已",
     "pinyin": "sǐ ér hòu yǐ",
@@ -7703,39 +7560,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID632",
-    "characters": "循序渐进",
-    "pinyin": "xún xù jiàn jìn",
-    "meaning": "اتبع التسلسل، تقدم تدريجياً",
-    "metaphoric_meaning": "المضي قدماً خطوة بخطوة؛ التقدم تدريجياً",
-    "description": "يصف هذا المصطلح اتباع (循) التسلسل (序) والتقدم (进) تدريجياً (渐). إنه يدعو إلى التقدم المنهجي خطوة بخطوة بدلاً من القفز إلى الأمام. ظهرت العبارة في النصوص الكلاسيكية حول التعليم التي تؤكد على الترتيب المناسب. يصف الاستخدام الحديث المناهج المنظمة للتعلم أو التنمية، مع الاعتراف بأن الأسس الصلبة تمكن من التقدم المستدام.",
-    "example": "يتطلب تعلم اللغة تقدماً ثابتاً وتدريجياً.",
-    "chineseExample": "学习语言需要循序渐进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "اتبع الأقسام، اذهب إلى الفصول",
-    "metaphoric_meaning": "اتبع الإجراءات المعمول بها؛ كن منهجياً",
-    "description": "يصف هذا المصطلح اتباع (按) الأقسام (部) والذهاب إلى (就) الفصول (班). في الأصل يصف الإجراءات البيروقراطية، ثم أصبح يعني اتباع النظام المعمول به. تقدر العبارة المناهج المنظمة على الارتجال. يصف الاستخدام الحديث اتباع الإجراءات والتسلسلات المناسبة، والعمل بشكل منهجي بدلاً من الفوضى، على الرغم من أنه ينتقد أحياناً الصلابة المفرطة.",
-    "example": "تم تنفيذ المشروع وفقاً للعملية المعمول بها.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID634",
-    "characters": "脚踏实地",
-    "pinyin": "jiǎo tà shí dì",
-    "meaning": "القدمان تطأ الأرض الصلبة",
-    "metaphoric_meaning": "كن واقعياً؛ اتخذ خطوات عملية",
-    "description": "يصف هذا المصطلح القدمين (脚) تطأ (踏) الأرض (地) الصلبة (实). إنه يصور العمل العملي والواقعي بدلاً من الخيالات. تقدر العبارة المناهج الواقعية والعملية. يثني الاستخدام الحديث على الأشخاص العمليين الذين يركزون على الإجراءات الملموسة بدلاً من الأحلام الفارغة، وبناء النجاح من خلال الجهد الثابت والواقعي بدلاً من المضاربة.",
-    "example": "ساعده نهجه العملي في بناء حياة مهنية ناجحة.",
-    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID635",
     "characters": "稳扎稳打",
     "pinyin": "wěn zhā wěn dǎ",
@@ -7778,17 +7602,6 @@
     "example": "أصبح التحول الرقمي حتمياً بالنسبة للصناعة.",
     "chineseExample": "数字化转型已势在必行。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID639",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "الزخم مثل تقسيم الخيزران",
-    "metaphoric_meaning": "لديك زخم لا يقاوم؛ اجتاح كل شيء أمامك",
-    "description": "يصف هذا المصطلح الزخم (势) مثل (如) تقسيم (破) الخيزران (竹). عندما يتم تقسيم الخيزران، ينتشر الشق بسهولة على طوله. تلتقط العبارة الزخم الذي لا يمكن إيقافه حيث يجعل كل نجاح النجاح التالي أسهل. يصف الاستخدام الحديث سلاسل الفوز والنجاح المدفوع بالزخم، والمواقف التي يصبح فيها التقدم سهلاً بشكل متزايد مع سقوط الحواجز.",
-    "example": "بمجرد أن اكتسبوا الزخم، لم يتمكن شيء من إيقاف تقدمهم.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID640",
@@ -7844,28 +7657,6 @@
     "example": "كان إطلاق المنتج الجديد ناجحاً على الفور.",
     "chineseExample": "新产品发布旗开得胜。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID645",
-    "characters": "马到成功",
-    "pinyin": "mǎ dào chéng gōng",
-    "meaning": "الحصان يصل، يتحقق النجاح",
-    "metaphoric_meaning": "حقق النجاح الفوري؛ النصر السريع",
-    "description": "يصف هذا المصطلح عندما يصل (到) الحصان (马)، يتحقق (成功) النجاح. إنه يصور النصر السريع، والنجاح الذي يأتي بسرعة مثل حصان يركض. تستخدم العبارة بشكل شائع كنعمة للمساعي الجديدة. يتمنى الاستخدام الحديث لشخص ما النجاح السريع، معرباً عن الأمل في أن تنجح مشاريعه بسرعة وسهولة.",
-    "example": "أتمنى أن تنجح جميع مساعيكم بسرعة!",
-    "chineseExample": "祝你马到成功！",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID646",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "شراع واحد، الريح مواتية",
-    "metaphoric_meaning": "إبحار عادي؛ كل شيء يسير بسلاسة",
-    "description": "يصف هذا المصطلح شراعاً (帆) واحداً (一) مع ريح (风) مواتية (顺). إنه يصور رحلة إبحار مباركة برياح مثالية لا تتطلب أي صراع. العبارة هي نعمة شائعة تتمنى التقدم السلس. يتمنى الاستخدام الحديث لشخص ما النجاح السهل، والحياة أو المسعى الخالي من العقبات، حيث يسير كل شيء بسلاسة.",
-    "example": "أتمنى أن تكون رحلتك في الحياة سلسة وناجحة.",
-    "chineseExample": "愿你的人生一帆风顺。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID647",
@@ -7989,50 +7780,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "بالضبط في المكان المناسب",
-    "metaphoric_meaning": "في المكان تمامًا؛ مناسب تمامًا",
-    "description": "يصف هذا المصطلح الوجود بالضبط (恰) في (到) المكان (处) الجيد (好). إنه يصور الوصول إلى النقطة المثالية - لا أكثر من اللازم ولا أقل من اللازم. تقدر العبارة الدقة والملاءمة. يصف الاستخدام الحديث الأشياء التي تتم بمعايرة مثالية، والإجراءات أو الكميات المناسبة تمامًا للوضع.",
-    "example": "كان التتبيل مثاليًا - ليس كثيرًا جدًا ولا قليلًا جدًا.",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "بالضبط كما هو نصيبه",
-    "metaphoric_meaning": "مناسب تمامًا؛ مناسب تمامًا",
-    "description": "يصف هذا المصطلح الوجود بالضبط (恰) كما (如) هو نصيبه (分) المناسب (其). إنه يصور السلوك أو الكلمات التي تمت معايرتها بشكل مثالي للوضع - لا مفرطة ولا غير كافية. تقدر العبارة الملاءمة والقياس. يصف الاستخدام الحديث الاستجابات المعايرة جيدًا، والإجراءات المناسبة تمامًا لسياقها.",
-    "example": "كان رده مقاسًا ومناسبًا تمامًا.",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "لا يوجد صدع للضرب",
-    "metaphoric_meaning": "لا تشوبه شائبة؛ منيع ضد النقد",
-    "description": "يصف هذا المصطلح عدم وجود (无) صدع (懈) يمكن (可) ضربه (击). إنه يصور شيئًا مثاليًا لدرجة أنه لا يمكن العثور على أي ضعف لمهاجمته. تم استخدام العبارة للدفاعات التي لا يمكن اختراقها. يصف الاستخدام الحديث الحجج أو الخطط أو العروض التي لا تشوبها شائبة منطقيًا والتي لا تترك أي مجال للنقد أو الهجوم.",
-    "example": "كانت حجتها خالية من العيوب المنطقية.",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "لا تتسرب قطرة ماء",
-    "metaphoric_meaning": "محكم الإغلاق؛ مخطط له بدقة",
-    "description": "يصف هذا المصطلح عدم (不) تسرب (漏) قطرة (滴) ماء (水). إنه يصور إحكامًا شاملاً بحيث لا يمكن لأي شيء الهروب. تم استخدام العبارة للاحتواء أو السرية المثالية. يصف الاستخدام الحديث التنفيذ الخالي من العيوب دون أي ثغرات، أو الخطط الشاملة بحيث لا يتم التغاضي عن أي شيء، أو الأسرار المحفوظة جيدًا بحيث لا يتسرب أي شيء.",
-    "example": "كانت الترتيبات الأمنية محكمة الإغلاق تمامًا.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID662",
     "characters": "天罗地网",
     "pinyin": "tiān luó dì wǎng",
@@ -8064,17 +7811,6 @@
     "example": "تم تصميم الخطة لتكون مضمونة تمامًا.",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "الصدر يحتوي على خيزران كامل",
-    "metaphoric_meaning": "لديك خطة مدروسة جيدًا؛ كن مستعدًا جيدًا",
-    "description": "يصف هذا المصطلح وجود (有) خيزران (竹) كامل (成) في صدر (胸) المرء. يأتي من قصة الرسام ون تونغ الذي تصور الخيزران الكامل في ذهنه قبل الرسم. تصور العبارة الإعداد الذهني الشامل. يصف الاستخدام الحديث وجود خطة واضحة أو إعداد كامل قبل الشروع في مهمة.",
-    "example": "دخلت الامتحان بثقة كاملة في استعدادها.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8132,17 +7868,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "نار الفرن زرقاء نقية",
-    "metaphoric_meaning": "الوصول إلى الكمال؛ إتقان كامل",
-    "description": "يصف هذا المصطلح نار (火) الفرن (炉) بأنها زرقاء (青) نقية (纯). في علم المعادن التقليدي، تشير اللهب الأزرق إلى أعلى درجة حرارة وأكثر احتراقًا نقاءً. تمثل العبارة قمة تطوير المهارات. يصف الاستخدام الحديث الإتقان الذي وصل إلى أعلى مستوى ممكن، والخبرة المصقولة إلى الكمال.",
-    "example": "وصلت مهاراتها التقنية إلى أعلى مستوى.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8151,39 +7876,6 @@
     "description": "يصف هذا المصطلح تجاوز (出) الروحاني (神) والدخول (入) في التحول (化). إنه يصور مهارة متقدمة لدرجة أنها تبدو خارقة للطبيعة. تمثل العبارة المستوى النهائي من الإتقان. يصف الاستخدام الحديث الخبرة غير العادية التي تبدو سحرية تقريبًا، والأداء المثالي لدرجة أنه يتجاوز القدرة البشرية العادية.",
     "example": "وصلت حيله السحرية إلى مستوى خارق تقريبًا.",
     "chineseExample": "他的魔术已经出神入化。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "صعود القاعة، دخول الغرفة الداخلية",
-    "metaphoric_meaning": "تحقيق الكفاءة؛ الوصول إلى الإتقان",
-    "description": "يصف هذا المصطلح صعود (登) القاعة (堂) ودخول (入) الغرفة الداخلية (室). من كتاب المحادثات الذي يصف مراحل التعلم - القاعة هي المرحلة المتوسطة، والغرفة الداخلية هي الإتقان. تصور العبارة التقدم إلى المستويات المتقدمة. يصف الاستخدام الحديث الوصول إلى فهم عميق، والانتقال من المعرفة السطحية إلى الخبرة الحقيقية.",
-    "example": "وصل فهمها للمجال إلى مستوى متقدم.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "الأزرق يخرج من النيلي",
-    "metaphoric_meaning": "تجاوز المعلم؛ التفوق على الأسلاف",
-    "description": "يصف هذا المصطلح خروج (出) الأزرق (青) من (于) النيلي (蓝). يصبح الصبغ الأزرق المشتق من نباتات النيلي أكثر حيوية من المصدر. تحتفل العبارة بالطلاب الذين يتفوقون على المعلمين. يصف الاستخدام الحديث الخلفاء الذين يتجاوزون أسلافهم، والنتيجة المثالية للتدريس حيث يحقق التلاميذ أكثر من معلميهم.",
-    "example": "تجاوز الطالب حتى معلمه اللامع.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID675",
-    "characters": "后来居上",
-    "pinyin": "hòu lái jū shàng",
-    "meaning": "الوافد الأخير يحتل القمة",
-    "metaphoric_meaning": "الوافدون الجدد يتجاوزون الأسلاف",
-    "description": "يصف هذا المصطلح الوافدين الجدد (后来) الذين يحتلون (居) القمة (上). إنه يصور أولئك الذين يبدأون لاحقًا ولكنهم في النهاية يحققون أكثر من أولئك الذين بدأوا في وقت سابق. تشجع العبارة أولئك الذين هم في الخلف. يصف الاستخدام الحديث الانتصارات التي تأتي من الخلف، والمواقف التي يتجاوز فيها المبتدئون في النهاية القادة الأوائل من خلال بذل جهد أو موهبة أكبر.",
-    "example": "على الرغم من البدء متأخرًا، ارتقى الوافد الجديد ليقود الفريق.",
-    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
     "theme": "Success & Perseverance"
   },
   {
@@ -8239,17 +7931,6 @@
     "description": "يصف هذا المصطلح قلب (心) الحرفي (匠) الذي يعمل (运) بشكل فريد (独). صيغة مختلفة من 独具匠心، تؤكد على التطبيق النشط للعبقرية الإبداعية. تصور العبارة الإبداع الأصلي قيد التنفيذ. يصف الاستخدام الحديث ممارسة العبقرية الإبداعية في إنتاج عمل مميز.",
     "example": "أنتجت الرؤية الإبداعية لمخرج الفيلم تحفة فنية.",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "المهارة تتجاوز عمل السماء",
-    "metaphoric_meaning": "تجاوز الطبيعة في المهارة؛ براعة استثنائية",
-    "description": "يصف هذا المصطلح المهارة (巧) التي تتجاوز (夺) عمل (工) السماء (天). إنه يصور براعة الإنسان المثالية لدرجة أنها تتجاوز ما يمكن أن تنتجه الطبيعة. تمثل العبارة قمة الإنجاز الفني. يصف الاستخدام الحديث البراعة أو الفن الاستثنائي الذي يبدو أنه يتجاوز القدرة البشرية، والعمل الذي ينافس الخلق الإلهي.",
-    "example": "بدا نحت اليشم المعقد وكأنه مصنوع بشكل إلهي تقريبًا.",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]

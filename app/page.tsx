@@ -150,17 +150,17 @@ export default function Home() {
             Most Searched Chinese Idioms
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <Link href="/blog/2025-02-25-ai-wu-ji-wu" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+            <Link href="/blog/ai-wu-ji-wu" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
               <p className="font-bold text-gray-900">爱屋及乌</p>
               <p className="text-sm text-gray-600">ai wu ji wu</p>
               <p className="text-xs text-blue-600 mt-1">Love me, love my dog</p>
             </Link>
-            <Link href="/blog/2025-02-10-mo-ming-qi-miao" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+            <Link href="/blog/mo-ming-qi-miao" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
               <p className="font-bold text-gray-900">莫名其妙</p>
               <p className="text-sm text-gray-600">mo ming qi miao</p>
               <p className="text-xs text-blue-600 mt-1">Inexplicably wonderful</p>
             </Link>
-            <Link href="/blog/2025-08-08-qi-shang-ba-xia" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
+            <Link href="/blog/qi-shang-ba-xia" className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
               <p className="font-bold text-gray-900">七上八下</p>
               <p className="text-sm text-gray-600">qi shang ba xia</p>
               <p className="text-xs text-blue-600 mt-1">Anxious and restless</p>

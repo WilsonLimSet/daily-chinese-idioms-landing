@@ -5448,17 +5448,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Buhok ng tagak at kutis ng bata",
-    "metaphoric_meaning": "Maputi ang buhok ngunit may kabataang hitsura",
-    "description": "Pinagsasama ng idyoma na ito ang buhok na 'balahibo ng tagak' (鹤发) - puti tulad ng balahibo ng isang tagak - na may kutis (颜) ng isang bata (童) upang ilarawan ang mga matatanda na nananatiling kabataan sa hitsura. Ang tagak ay sumisimbolo ng mahabang buhay sa kulturang Tsino, habang ang mamula-mulang kutis ng mga bata ay kumakatawan sa kalusugan at sigla. Nagmula ang parirala sa mga paglalarawan ng mga imortal ng Daoist at matagal nang nabubuhay na mga pantas na sumasalungat sa normal na pagtanda. Pinupuri nito ang mga nagpapanatili ng kalusugan at sigla sa kabila ng mga advanced na taon. Pinupuri ng modernong paggamit ang mga aktibo at malusog na matatanda.",
-    "example": "Sa kabila ng kanyang edad, pinapanatili niya ang sigla at kutis ng kabataan.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID428",
     "characters": "铁证如山",
     "pinyin": "tiě zhèng rú shān",
@@ -5500,17 +5489,6 @@
     "description": "Nagmula ang idyoma na ito sa geomancy ng Tsino (feng shui), kung saan ang 'dragon' (龙) ay tumutukoy sa mga hanay ng bundok at 'mga ugat' (脉) sa kanilang mga extension. Sinusubaybayan ng mga geomancer ang 'paparating na dragon' at 'papalabas na mga ugat' upang maunawaan ang daloy ng enerhiya ng landscape. Ang parirala ay umunlad upang mangahulugang pagsubaybay sa mga pinagmulan at pag-unlad ng anumang bagay - ang mga sanhi, pag-unlad, at koneksyon nito. Binibigyang-diin nito ang kahalagahan ng pag-unawa sa konteksto at kasaysayan. Inilalarawan ng modernong paggamit ang pagsisiyasat o pagpapaliwanag ng buong background at pag-unlad ng isang sitwasyon o kaganapan.",
     "example": "Bago gumawa ng desisyon, kailangan nating maunawaan ang buong konteksto.",
     "chineseExample": "做决定之前，我们需要了解事情的来龙去脉。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Hindi nagsasalita ngunit naiintindihan",
-    "metaphoric_meaning": "Malinaw; hindi na kailangang sabihin",
-    "description": "Ipinapahayag ng idyoma na ito na ang isang bagay ay napakalinaw na hindi na kailangan (不) ng mga salita (言) ngunit (而) naiintindihan (喻). Lumilitaw ito sa klasikong Confucian na 'Mencius,' na nagbibigay-diin sa mga katotohanang napakahalaga na hindi na nangangailangan ng paliwanag. Sinasalamin ng parirala ang tradisyong pampilosopiya ng Tsino na pinahahalagahan ang implicit na pag-unawa kaysa sa tahasang pahayag. Mas pinaboran ni Confucius ang pagtuturo sa pamamagitan ng halimbawa kaysa sa malawak na paliwanag. Ang modernong paggamit ay naglalarawan ng mga malinaw na katotohanan, halatang konklusyon, o mga sitwasyon kung saan ang kahulugan ay napakalinaw nang walang elaborasyon.",
-    "example": "Ang kahalagahan ng edukasyon ay malinaw sa mundo ngayon.",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6040,17 +6018,6 @@
     "example": "After the argument, he acted as if nothing had occurred.",
     "chineseExample": "争吵之后，他若无其事地继续工作。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID481",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Have a complete bamboo in one's chest",
-    "metaphoric_meaning": "Have a well-thought-out plan",
-    "description": "This idiom originates from the Song Dynasty painter Wen Tong, famous for his bamboo paintings. Before painting, he would thoroughly visualize the complete (成) bamboo (竹) in his chest (胸) - his mind. This mental preparation allowed him to paint with swift, confident strokes. The phrase describes having a fully formed plan or vision before beginning. Modern usage describes approaching tasks with thorough preparation and clear vision of the desired outcome.",
-    "example": "She approached the negotiation with complete confidence.",
-    "chineseExample": "她胸有成竹地参与谈判。",
-    "theme": "Strategy & Action"
   },
   {
     "id": "ID482",
@@ -6933,17 +6900,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Hindi makatwirang maliitin ang sarili.",
-    "metaphoric_meaning": "Maliitin ang sarili; labis na pagmamaliit sa sarili.",
-    "description": "Ang idyoma na ito ay naglalarawan ng hindi makatwirang (妄) pagmamaliit (菲薄) sa sarili (自). Nagmula ito sa sikat na memorial ni Zhuge Liang sa Emperador ng Shu, na nagpapayo laban sa labis na pagmamaliit sa sarili na maaaring makapinsala sa estado. Nagbabala ang parirala na ang maling pagpapakumbaba ay maaaring makapinsala tulad ng pagmamataas. Hinihikayat ng modernong paggamit ang malusog na pagpapahalaga sa sarili at nagbabala laban sa pag-uugali na sumisira sa sarili na naglilimita sa potensyal.",
-    "example": "Huwag maliitin ang iyong mga kakayahan; marami kang maiaambag.",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID563",
     "characters": "妄自尊大",
     "pinyin": "wàng zì zūn dà",
@@ -6953,17 +6909,6 @@
     "example": "Binulag siya ng kanyang labis na kumpiyansa sa kanyang halatang mga kahinaan.",
     "chineseExample": "他妄自尊大，看不到自己明显的弱点。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Mag-alala tungkol sa pakinabang, mag-alala tungkol sa pagkawala.",
-    "metaphoric_meaning": "Maging balisa tungkol sa mga pakinabang at pagkalugi.",
-    "description": "Ang idyoma na ito ay naglalarawan ng pag-aalala (患) tungkol sa pagkakaroon (得) at pag-aalala (患) tungkol sa pagkawala (失). Nagmula ito sa Analecta ni Confucius, na pumupuna sa mga maliit na tao na patuloy na nag-aalala tungkol sa kung ano ang maaari nilang makuha o mawala. Ang mindset na ito ay lumilikha ng walang katapusang pagkabalisa at pumipigil sa kasiyahan. Ang modernong paggamit ay naglalarawan ng labis na pagkakabit sa mga resulta at ang kawalan ng kakayahan na makahanap ng kapayapaan anuman ang mga pangyayari.",
-    "example": "Ang kanyang patuloy na pagkabalisa tungkol sa mga resulta ay pumigil sa kanya na masiyahan sa proseso.",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID565",
@@ -6996,17 +6941,6 @@
     "description": "Ang idyoma na ito ay naglalarawan ng pagiging labis na natuwa (得意) na nakalimutan (忘) ng isa ang tamang anyo o pag-uugali (形). Nagbabala ito na ang labis na kagalakan o tagumpay ay maaaring humantong sa pagkawala ng composure at paghuhusga. Lumitaw ang parirala sa mga teksto tungkol sa mga panganib ng hubris kasunod ng tagumpay. Ang modernong paggamit ay nagbabala laban sa pagpapabaya sa tagumpay, na humahantong sa hindi naaangkop na pag-uugali o mahinang mga desisyon.",
     "example": "Dahil sa kanyang tagumpay, naging pabaya siya sa kanyang propesyonal na pag-uugali.",
     "chineseExample": "成功让他得意忘形，忽视了职业操守。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Kagalakan na higit sa inaasahan.",
-    "metaphoric_meaning": "Maging pleasantly surprised.",
-    "description": "Ang idyoma na ito ay naglalarawan ng kagalakan (喜) na lumalampas (出) sa inaasahan (望外) ng isa. Kinukuha nito ang kasiyahan ng pagtanggap ng isang bagay na mas mahusay kaysa sa inaasahan. Lumitaw ang parirala sa mga teksto na naglalarawan ng mga sandali ng hindi inaasahang magandang kapalaran na lumampas sa lahat ng pag-asa. Ang modernong paggamit ay naglalarawan ng mga kaaya-ayang sorpresa, windfall, at anumang positibong resulta na lumalampas sa pag-asa.",
-    "example": "Siya ay pleasantly surprised sa hindi inaasahang promosyon.",
-    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -7074,17 +7008,6 @@
     "example": "Mukha siyang malungkot simula nang marinig niya ang tungkol sa mga pagbawas sa badyet.",
     "chineseExample": "自从听说预算削减后，他一直愁眉苦脸。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID575",
-    "characters": "垂头丧气",
-    "pinyin": "chuí tóu sàng qì",
-    "meaning": "Nakayukong ulo, nawalang espiritu.",
-    "metaphoric_meaning": "Maging dejected at dispirited.",
-    "description": "Ang idyoma na ito ay naglalarawan ng isang nakayukong (垂) ulo (头) at nawalang (丧) espiritu (气). Inilalarawan nito ang body language ng pagkatalo at panghihina ng loob - ang nakayukong postura ng isang taong sumuko na sa pag-asa. Kinukuha ng parirala kung paano nagpapakita ang pagkabigo sa pisikal. Ang modernong paggamit ay naglalarawan ng dejection, ang nakikitang pagkawala ng enerhiya at pag-asa kasunod ng pagkabigo o masamang balita.",
-    "example": "Ang natalong koponan ay lumakad palabas ng field na dejected at dispirited.",
-    "chineseExample": "输球的队伍垂头丧气地走下球场。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID576",
@@ -7219,17 +7142,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Maliwanag, malinaw, at matuwid",
-    "metaphoric_meaning": "Maging bukas at tapat",
-    "description": "Inilalarawan ng idyoma na ito ang pagiging maliwanag (光明) at matuwid (磊落). Ang karakter na 磊 ay nagpapakita ng tatlong batong nakasalansan, na kumakatawan sa katatagan at pagiging bukas. Inilalarawan ng parirala ang isang tao na walang itinatago, na ang kanyang karakter ay transparent at kagalang-galang. Inilalarawan ng modernong paggamit ang mga taong may integridad na ang mga aksyon ay maaaring makatiis sa pagsisiyasat, na kumikilos nang hayagan nang walang nakatagong agenda.",
-    "example": "Ang kanyang prangkang karakter ay nagbigay sa kanya ng tiwala ng lahat.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID589",
     "characters": "坦坦荡荡",
     "pinyin": "tǎn tǎn dàng dàng",
@@ -7249,17 +7161,6 @@
     "description": "Inilalarawan ng idyoma na ito ang labas (表) at loob (里) na maging kasing (如) isa (一). Inilalarawan nito ang pagkakapare-pareho sa pagitan ng pampublikong persona at pribadong sarili, sa pagitan ng mga salita at aksyon. Pinahahalagahan ng parirala ang pagiging tunay at integridad. Pinupuri ng modernong paggamit ang mga taong tunay - ang parehong tao anuman ang madla o kalagayan, nang walang pagkukunwari o panlilinlang.",
     "example": "Siya ay tunay - ang parehong tao sa publiko at pribado.",
     "chineseExample": "她表里如一，在公众场合和私下是同一个人。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Mga salita at aksyon na pare-pareho",
-    "metaphoric_meaning": "Gawin ang iyong ipinangangaral",
-    "description": "Inilalarawan ng idyoma na ito ang mga salita (言) at aksyon (行) na pare-pareho (一致). Pinahahalagahan nito ang pagkakahanay sa pagitan ng kung ano ang sinasabi ng isang tao at kung ano ang ginagawa niya. Nagbabala ang parirala laban sa pagpapaimbabaw kung saan ang mga pangako ay hindi tumutugma sa pag-uugali. Binibigyang-diin ng modernong paggamit ang integridad at pagiging maaasahan, ang pagiging mapagkakatiwalaan na nagmumula kapag ang mga aksyon ng isang tao ay patuloy na tumutugma sa kanilang mga salita.",
-    "example": "Ang isang mahusay na pinuno ay nagsasagawa ng kung ano ang kanilang ipinangangaral.",
-    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
@@ -7395,17 +7296,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Ang mga puso ay nag-iimprenta sa isa't isa",
-    "metaphoric_meaning": "Maging perpektong attuned sa isa't isa",
-    "description": "Inilalarawan ng idyoma na ito ang mga puso (心心) na nag-iimprenta (印) sa isa't isa (相). Orihinal na isang terminong Budista na naglalarawan ng paghahatid ng dharma sa pagitan ng master at disipulo nang walang mga salita, ngayon ay pangunahing inilalarawan nito ang malalim na romantikong koneksyon. Inilalarawan ng modernong paggamit ang matalik na pag-unawa sa pagitan ng mga magkasintahan o malalapit na kaibigan kung saan ang komunikasyon ay lumalampas sa mga salita - mga isip na magkatulad ang iniisip at mga puso na tumitibok bilang isa.",
-    "example": "Nagkaunawaan ang mag-asawa nang walang salita.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID605",
     "characters": "一见钟情",
     "pinyin": "yī jiàn zhōng qíng",
@@ -7428,17 +7318,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID607",
-    "characters": "天长地久",
-    "pinyin": "tiān cháng dì jiǔ",
-    "meaning": "Langit mahaba, lupa matibay",
-    "metaphoric_meaning": "Magtagal magpakailanman; maging walang hanggan",
-    "description": "Inilalarawan ng idyoma na ito ang langit (天) na mahaba (长) at ang lupa (地) na matibay (久). Mula sa Dao De Jing na naglalarawan ng walang hanggang kalikasan ng langit at lupa. Ang parirala ay kumakatawan sa pagiging permanente at kawalang-hanggan. Ang modernong paggamit ay nagpapahayag ng mga hangarin para sa matagalang relasyon, romantiko man, pagkakaibigan, o pamilya - mga pagpapala para sa mga ugnayan na nagtatagal tulad ng langit at lupa.",
-    "example": "Nawa'y ang inyong pagkakaibigan ay tumagal magpakailanman.",
-    "chineseExample": "愿你们的友谊天长地久。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID608",
     "characters": "难分难舍",
     "pinyin": "nán fēn nán shě",
@@ -7447,17 +7326,6 @@
     "description": "Inilalarawan ng idyoma na ito ang pagiging mahirap (难) na maghiwalay (分) at mahirap (难) na iwan (舍). Inilalarawan nito ang sakit ng paghihiwalay kapag malakas ang pagkakaugnay. Ang dobleng istraktura ay nagbibigay-diin sa kahirapan ng pagpapaalam. Ang modernong paggamit ay naglalarawan ng emosyonal na kahirapan ng paghihiwalay sa mga mahal sa buhay, ang pag-aatubili na tapusin ang isang pagpupulong o relasyon kapag malalim ang damdamin.",
     "example": "Naging emosyonal ang pamamaalam dahil walang gustong magpaalam.",
     "chineseExample": "告别时他们难分难舍，都不想说再见。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "Nag-aatubiling nagtatagal, ayaw umalis",
-    "metaphoric_meaning": "Nag-aatubiling maghiwalay",
-    "description": "Inilalarawan ng idyoma na ito ang pagtatagal (依依) at pagiging ayaw (不舍) na umalis. Ang dobleng 依 ay nagbibigay-diin sa pagkapit, nag-aatubiling kalidad ng pag-alis. Kinukuha ng parirala ang pag-aalinlangan kapag umaalis sa isang bagay na minamahal. Ang modernong paggamit ay naglalarawan ng nag-aatubiling paghihiwalay - mga batang umaalis sa mga masasayang lugar, mga magkasintahan na nagpapaalam, o pag-alis sa anumang sitwasyon na nais ng isa na magpatuloy.",
-    "example": "Nag-aatubiling umalis ang mga bata sa amusement park.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -7593,17 +7461,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "Yumuko at ubusin ang sarili",
-    "metaphoric_meaning": "Ilaan ang sarili nang buo; magtrabaho hanggang sa pagkapagod",
-    "description": "Inilalarawan ng idyoma na ito ang pagyuko (鞠躬) at pag-ubos (尽) sa sarili (瘁). Nagmula ito sa sikat na alaala ni Zhuge Liang, na naglalarawan ng kanyang dedikasyon sa paglilingkod sa Shu hanggang sa kamatayan. Ang parirala ay naglalaman ng sukdulang tapat na paglilingkod. Ang modernong paggamit ay naglalarawan ng kumpletong dedikasyon sa isang layunin o organisasyon, pagbibigay ng lahat hanggang sa walang natitira, ang pinakamataas na anyo ng debotong paglilingkod.",
-    "example": "Naglingkod siya sa organisasyon hanggang sa kanyang huling hininga.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID623",
     "characters": "死而后已",
     "pinyin": "sǐ ér hòu yǐ",
@@ -7703,39 +7560,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID632",
-    "characters": "循序渐进",
-    "pinyin": "xún xù jiàn jìn",
-    "meaning": "Sumunod sa pagkakasunod-sunod, unti-unting sumulong",
-    "metaphoric_meaning": "Magpatuloy nang hakbang-hakbang; unti-unting umunlad",
-    "description": "Ipinapaliwanag ng idyoma na ito ang pagsunod (循) sa pagkakasunod-sunod (序) at unti-unting (渐) pagsulong (进). Itinataguyod nito ang sistematiko at hakbang-hakbang na pag-unlad sa halip na biglaang pagtalon. Lumitaw ang parirala sa mga klasikong teksto tungkol sa edukasyon na nagbibigay-diin sa tamang pag-uuri. Ang modernong paggamit ay naglalarawan ng mga metodikal na pamamaraan sa pag-aaral o pag-unlad, na kinikilala na ang matatag na pundasyon ay nagbibigay-daan sa napapanatiling pag-unlad.",
-    "example": "Ang pag-aaral ng isang wika ay nangangailangan ng matatag at unti-unting pag-unlad.",
-    "chineseExample": "学习语言需要循序渐进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "Sumunod sa mga departamento, pumunta sa mga klase",
-    "metaphoric_meaning": "Sumunod sa mga itinatag na pamamaraan; maging metodikal",
-    "description": "Ipinapaliwanag ng idyoma na ito ang pagsunod (按) sa mga departamento (部) at pagpunta (就) sa mga klase (班). Orihinal na naglalarawan ng mga pamamaraang burukratiko, naging kahulugan nito ang pagsunod sa itinatag na kaayusan. Pinahahalagahan ng parirala ang mga sistematikong pamamaraan kaysa sa improvisasyon. Ang modernong paggamit ay naglalarawan ng pagsunod sa tamang mga pamamaraan at pagkakasunod-sunod, pagtatrabaho nang metodikal kaysa sa magulo, bagaman minsan ay pinupuna ang labis na pagiging mahigpit.",
-    "example": "Ang proyekto ay nagpatuloy ayon sa itinatag na proseso.",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID634",
-    "characters": "脚踏实地",
-    "pinyin": "jiǎo tà shí dì",
-    "meaning": "Mga paa na tumatapak sa matatag na lupa",
-    "metaphoric_meaning": "Maging praktikal; gumawa ng mga praktikal na hakbang",
-    "description": "Ipinapaliwanag ng idyoma na ito ang mga paa (脚) na tumatapak (踏) sa matatag (实) na lupa (地). Inilalarawan nito ang praktikal at nakabatay sa realidad na pagkilos kaysa sa mga ilusyon. Pinahahalagahan ng parirala ang mga makatotohanan at praktikal na pamamaraan. Ang modernong paggamit ay pumupuri sa mga praktikal na tao na nakatuon sa mga konkretong aksyon kaysa sa mga walang laman na pangarap, na nagtatayo ng tagumpay sa pamamagitan ng matatag at makatotohanang pagsisikap kaysa sa haka-haka.",
-    "example": "Ang kanyang praktikal na pamamaraan ay nakatulong sa kanya na bumuo ng isang matagumpay na karera.",
-    "chineseExample": "他脚踏实地的做法帮助他建立了成功的事业。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID635",
     "characters": "稳扎稳打",
     "pinyin": "wěn zhā wěn dǎ",
@@ -7778,17 +7602,6 @@
     "example": "Ang digital transformation ay naging hindi maiiwasan para sa industriya.",
     "chineseExample": "数字化转型已势在必行。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID639",
-    "characters": "势如破竹",
-    "pinyin": "shì rú pò zhú",
-    "meaning": "Momentum tulad ng paghahati ng kawayan",
-    "metaphoric_meaning": "Magkaroon ng hindi mapigilang momentum; walisin ang lahat sa harap ng isa",
-    "description": "Ipinapaliwanag ng idyoma na ito ang momentum (势) tulad ng (如) paghahati (破) ng kawayan (竹). Kapag nahati ang kawayan, madaling tumatakbo ang bitak sa haba. Kinukuha ng parirala ang hindi mapigilang momentum kung saan ginagawang mas madali ng bawat tagumpay ang susunod. Ang modernong paggamit ay naglalarawan ng mga panalong streak at tagumpay na hinihimok ng momentum, mga sitwasyon kung saan ang pag-unlad ay nagiging lalong madali habang bumabagsak ang mga hadlang.",
-    "example": "Kapag nagkaroon sila ng momentum, walang makakapigil sa kanilang pagsulong.",
-    "chineseExample": "一旦获得势头，他们的进攻势如破竹。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID640",
@@ -7844,28 +7657,6 @@
     "example": "Ang paglulunsad ng bagong produkto ay agad na naging matagumpay.",
     "chineseExample": "新产品发布旗开得胜。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID645",
-    "characters": "马到成功",
-    "pinyin": "mǎ dào chéng gōng",
-    "meaning": "Dumating ang kabayo, nakamit ang tagumpay",
-    "metaphoric_meaning": "Makakamit ang agarang tagumpay; mabilis na tagumpay",
-    "description": "Ipinapaliwanag ng idyoma na ito kapag dumating (到) ang kabayo (马), nakakamit (成功) ang tagumpay. Inilalarawan nito ang mabilis na tagumpay, tagumpay na dumarating nang kasing bilis ng isang tumatakbong kabayo. Ang parirala ay karaniwang ginagamit bilang isang pagpapala para sa mga bagong pagsisikap. Ang modernong paggamit ay naghahangad sa isang tao ng mabilis na tagumpay, na nagpapahayag ng pag-asa na ang kanilang mga pakikipagsapalaran ay magtatagumpay nang mabilis at madali.",
-    "example": "Nawa'y magtagumpay nang mabilis ang lahat ng iyong pagsisikap!",
-    "chineseExample": "祝你马到成功！",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID646",
-    "characters": "一帆风顺",
-    "pinyin": "yī fān fēng shùn",
-    "meaning": "Isang layag, paborable ang hangin",
-    "metaphoric_meaning": "Madaling paglalayag; lahat ay maayos",
-    "description": "Ipinapaliwanag ng idyoma na ito ang isang (一) layag (帆) na may paborableng (顺) hangin (风). Inilalarawan nito ang isang paglalayag na pinagpala ng perpektong hangin na hindi nangangailangan ng pagpupunyagi. Ang parirala ay isang karaniwang pagpapala na naghahangad ng maayos na pag-unlad. Ang modernong paggamit ay naghahangad sa isang tao ng madaling tagumpay, isang buhay o pagsisikap na walang mga hadlang, kung saan ang lahat ay maayos.",
-    "example": "Nawa'y ang iyong paglalakbay sa buhay ay maging maayos at matagumpay.",
-    "chineseExample": "愿你的人生一帆风顺。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID647",
@@ -7989,50 +7780,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "Eksakto sa magandang lugar.",
-    "metaphoric_meaning": "Tamang-tama; perpektong angkop.",
-    "description": "Inilalarawan ng idyoma na ito ang pagiging eksakto (恰) sa (到) magandang (好) lugar (处). Inilalarawan nito ang pagtama sa perpektong punto - hindi sobra at hindi rin kulang. Pinahahalagahan ng parirala ang katumpakan at pagiging angkop. Ang modernong paggamit ay naglalarawan ng mga bagay na ginawa nang may perpektong pagkakalibrate, mga aksyon o halaga na eksaktong tama para sa sitwasyon.",
-    "example": "Ang panimpla ay perpekto - hindi sobra, hindi rin kulang.",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "Eksakto sa kanyang bahagi.",
-    "metaphoric_meaning": "Perpektong angkop; eksaktong akma.",
-    "description": "Inilalarawan ng idyoma na ito ang pagiging eksakto (恰) gaya (如) ng (其) tamang bahagi (分). Inilalarawan nito ang pag-uugali o mga salita na perpektong nakakalibrate sa sitwasyon - hindi labis at hindi rin kulang. Pinahahalagahan ng parirala ang pagiging angkop at sukat. Ang modernong paggamit ay naglalarawan ng mga mahusay na pagkakalibrate na tugon, mga aksyon na perpektong angkop sa kanilang konteksto.",
-    "example": "Ang kanyang tugon ay perpektong nasukat at angkop.",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "Walang bitak na maaaring tamaan.",
-    "metaphoric_meaning": "Walang kapintasan; hindi madaling punahin.",
-    "description": "Inilalarawan ng idyoma na ito ang walang (无) bitak (懈) na maaaring (可) tamaan (击). Inilalarawan nito ang isang bagay na napakaperpekto na walang mahahanap na kahinaan upang atakihin. Ang parirala ay ginamit para sa mga hindi mapasok na depensa. Ang modernong paggamit ay naglalarawan ng mga walang kapintasan na argumento, plano, o pagtatanghal na walang iniiwang puwang para sa pagpuna o pag-atake.",
-    "example": "Ang kanyang argumento ay lohikal na walang kapintasan.",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "Hindi tumutulo kahit isang patak ng tubig.",
-    "metaphoric_meaning": "Hindi tinatagusan ng tubig; lubusang planado.",
-    "description": "Inilalarawan ng idyoma na ito ang hindi (不) isang patak (滴) ng tubig (水) na tumutulo (漏). Inilalarawan nito ang napakalubusang pagkakasarado na walang makakatakas. Ang parirala ay ginamit para sa perpektong pagkakakulong o pagiging lihim. Ang modernong paggamit ay naglalarawan ng walang kapintasan na pagpapatupad na walang puwang, mga plano na napakalubusan na walang nakakaligtaan, o mga lihim na napakahusay na walang tumutulo.",
-    "example": "Ang mga kaayusan sa seguridad ay ganap na hindi tinatagusan ng tubig.",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID662",
     "characters": "天罗地网",
     "pinyin": "tiān luó dì wǎng",
@@ -8064,17 +7811,6 @@
     "example": "Ang plano ay idinisenyo upang maging ganap na hindi maaaring magkamali.",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "Naglalaman ang dibdib ng kumpletong kawayan.",
-    "metaphoric_meaning": "May maayos na pag-iisip na plano; maging handa.",
-    "description": "Inilalarawan ng idyoma na ito ang pagkakaroon (有) ng kumpletong (成) kawayan (竹) sa dibdib (胸) ng isang tao. Nagmula ito sa kuwento ng pintor na si Wen Tong na nakita sa kanyang isipan ang kumpletong kawayan bago magpinta. Inilalarawan ng parirala ang lubusang paghahanda sa isip. Ang modernong paggamit ay naglalarawan ng pagkakaroon ng malinaw na plano o kumpletong paghahanda bago magsagawa ng isang gawain.",
-    "example": "Pumasok siya sa pagsusulit na may kumpletong kumpiyansa sa kanyang paghahanda.",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8132,17 +7868,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "Apoy ng hurno, purong asul.",
-    "metaphoric_meaning": "Abutin ang pagiging perpekto; ganap na makabisado.",
-    "description": "Inilalarawan ng idyoma na ito ang apoy (火) ng hurno (炉) na purong (纯) asul (青). Sa tradisyonal na metalurhiya, ang mga asul na apoy ay nagpapahiwatig ng pinakamataas na temperatura at pinakadalisay na pagkasunog. Kinakatawan ng parirala ang tuktok ng pag-unlad ng kasanayan. Ang modernong paggamit ay naglalarawan ng kadalubhasaan na umabot sa pinakamataas na posibleng antas, kadalubhasaan na pinino sa pagiging perpekto.",
-    "example": "Ang kanyang mga teknikal na kasanayan ay umabot sa pinakamataas na antas.",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8151,39 +7876,6 @@
     "description": "Inilalarawan ng idyoma na ito ang paglampas (出) sa espirituwal (神) at pagpasok (入) sa pagbabago (化). Inilalarawan nito ang kasanayan na napaka-advanced na tila supernatural. Kinakatawan ng parirala ang pinakamataas na antas ng kadalubhasaan. Ang modernong paggamit ay naglalarawan ng pambihirang kadalubhasaan na tila halos mahiwagang, pagganap na napakaperpekto na lumalampas sa normal na kakayahan ng tao.",
     "example": "Ang kanyang mga magic trick ay umabot sa halos supernatural na antas.",
     "chineseExample": "他的魔术已经出神入化。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "Umakyat sa bulwagan, pumasok sa silid.",
-    "metaphoric_meaning": "Magtamo ng kahusayan; abutin ang kadalubhasaan.",
-    "description": "Inilalarawan ng idyoma na ito ang pag-akyat (登) sa bulwagan (堂) at pagpasok (入) sa silid (室). Mula sa Analects na naglalarawan ng mga yugto ng pag-aaral - ang bulwagan ay intermediate, ang silid ay kadalubhasaan. Inilalarawan ng parirala ang pag-unlad sa mga advanced na antas. Ang modernong paggamit ay naglalarawan ng pag-abot sa malalim na pag-unawa, paglipat mula sa panlabas na kaalaman tungo sa tunay na kadalubhasaan.",
-    "example": "Ang kanyang pag-unawa sa larangan ay umabot sa isang advanced na antas.",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "Lumilitaw ang asul mula sa indigo.",
-    "metaphoric_meaning": "Lampasan ang guro; higitan ang mga nauna.",
-    "description": "Inilalarawan ng idyoma na ito ang asul (青) na lumilitaw (出) mula sa (于) indigo (蓝). Ang asul na tina na nagmula sa mga halaman ng indigo ay nagiging mas matingkad kaysa sa pinagmulan. Ipinagdiriwang ng parirala ang mga mag-aaral na lumalampas sa mga guro. Ang modernong paggamit ay naglalarawan ng mga kahalili na humihigit sa kanilang mga nauna, ang perpektong resulta ng pagtuturo kung saan nakakamit ng mga disipulo ang higit pa sa kanilang mga guro.",
-    "example": "Higit pa ang naabot ng mag-aaral kaysa sa kanyang mahusay na guro.",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID675",
-    "characters": "后来居上",
-    "pinyin": "hòu lái jū shàng",
-    "meaning": "Sinasakop ng huling dumating ang tuktok.",
-    "metaphoric_meaning": "Hihigit ang mga huli sa mga nauna.",
-    "description": "Inilalarawan ng idyoma na ito ang mga huling dumating (后来) na sumasakop (居) sa tuktok (上). Inilalarawan nito ang mga nagsisimula nang huli ngunit sa huli ay nakakamit ang higit pa kaysa sa mga nagsimula nang mas maaga. Hinihikayat ng parirala ang mga nasa likod. Ang modernong paggamit ay naglalarawan ng mga panalo mula sa likod, mga sitwasyon kung saan sa huli ay nalalampasan ng mga huling nagsimula ang mga naunang pinuno sa pamamagitan ng mas malaking pagsisikap o talento.",
-    "example": "Sa kabila ng pagsisimula nang huli, umangat ang bagong dating upang pamunuan ang koponan.",
-    "chineseExample": "尽管起步较晚，新来者后来居上，成为团队领导。",
     "theme": "Success & Perseverance"
   },
   {
@@ -8239,17 +7931,6 @@
     "description": "Inilalarawan ng idyoma na ito ang puso (心) ng manggagawa (匠) na natatanging (独) gumagana (运). Isang variant ng 独具匠心, binibigyang-diin nito ang aktibong paglalapat ng malikhaing henyo. Inilalarawan ng parirala ang orihinal na pagkamalikhain sa aksyon. Ang modernong paggamit ay naglalarawan ng paggamit ng malikhaing henyo sa paggawa ng natatanging gawa.",
     "example": "Ang malikhaing pananaw ng direktor ng pelikula ay nagbunga ng isang obra maestra.",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "Ang kasanayan ay humihigit sa gawa ng langit.",
-    "metaphoric_meaning": "Lampasan ang kalikasan sa kasanayan; pambihirang pagkakayari.",
-    "description": "Inilalarawan ng idyoma na ito ang kasanayan (巧) na humihigit (夺) sa gawa (工) ng langit (天). Inilalarawan nito ang pagkakayari ng tao na napakaperpekto na lumalampas ito sa kung ano ang kayang gawin ng kalikasan. Kinakatawan ng parirala ang tuktok ng artistikong tagumpay. Ang modernong paggamit ay naglalarawan ng pambihirang pagkakayari o artistry na tila lumalampas sa kakayahan ng tao, gawa na karibal ng banal na paglikha.",
-    "example": "Ang masalimuot na pag-ukit ng jade ay tila halos banal na ginawa.",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]

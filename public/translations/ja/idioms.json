@@ -260,17 +260,6 @@
     "chineseExample_tr": "她總是提前到達會議，尊重每個人的時間"
   },
   {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "青は藍より出でて藍より青し",
-    "metaphoric_meaning": "先生を超える。先駆者をしのぐ",
-    "description": "この成句は、青（青）が（于）藍（蓝）から（出）出ていることを表しています。藍の植物から抽出された青い染料は、元の藍よりも鮮やかになります。生徒が先生を超えることを祝福する言葉です。現代では、後継者が先駆者を超えること、弟子が師匠よりも多くのことを達成するという教育の理想的な結果を表すために使われます。",
-    "example": "その生徒は、優秀な先生さえも超えた。",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID022",
     "characters": "海纳百川",
     "pinyin": "hǎi nà bǎi chuān",
@@ -674,17 +663,6 @@
     "chineseExample_tr": "慈善機構通過成千上萬的小額捐款達到了目標"
   },
   {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "胸に完全な竹が入っている",
-    "metaphoric_meaning": "よく考えられた計画を持っている。十分に準備されている",
-    "description": "この成句は、胸（胸）の中に（有）完全な（成）竹（竹）があることを表しています。画家である文同が、絵を描く前に心の中で完全な竹を視覚化していたという話に由来します。徹底的な精神的な準備を表しています。現代では、タスクに着手する前に明確な計画や完全な準備ができていることを表すために使われます。",
-    "example": "彼女は、準備万端で試験に臨んだ。",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID054",
     "characters": "金风玉露",
     "pinyin": "jīn fēng yù lù",
@@ -904,17 +882,6 @@
     "metaphoric_meaning": "状況を悪化させます",
     "traditionalCharacters": "抱薪救火",
     "chineseExample_tr": "他們倉促的解決方案只是使現有問題更加複雜"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "ホールに登り、奥の部屋に入る",
-    "metaphoric_meaning": "熟練度を獲得する。習得に到達する",
-    "description": "この成句は、ホール（堂）に（登）登り、奥の部屋（室）に（入）入ることを表しています。論語に由来し、学習の段階を表しています。ホールは中級、奥の部屋は習得です。高度なレベルへの進歩を表す言葉です。現代では、深い理解に到達すること、表面的な知識から真の専門知識に移行することを表すために使われます。",
-    "example": "彼女の分野の理解は、高度なレベルに達している。",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID072",
@@ -2217,17 +2184,6 @@
     "chineseExample_tr": "公司主動減少市場份額以避免壟斷指控"
   },
   {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "一滴の水も漏れない",
-    "metaphoric_meaning": "水漏れしない。綿密に計画された",
-    "description": "この成句は、一滴（滴）の（水）水（不）も漏れない（漏）ことを表しています。何も逃げ出すことができないほど徹底的に密閉されていることを表しています。もともとは、完璧な封じ込めや秘密保持に使われた言葉です。現代では、隙間なく完璧に実行すること、何も見落とさないほど徹底的な計画、または何も漏れないほど厳重に守られた秘密を表すために使われます。",
-    "example": "警備体制は、完全に水漏れしないものだった。",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID173",
     "characters": "敬业乐群",
     "pinyin": "jìng yè lè qún",
@@ -2252,17 +2208,6 @@
     "metaphoric_meaning": "絶対に明確に理解してください",
     "traditionalCharacters": "洞若觀火",
     "chineseExample_tr": "偵探的分析使複雜的案件突然變得清晰明瞭"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "スキルが天の仕事を上回る",
-    "metaphoric_meaning": "スキルにおいて自然を超える。並外れた職人技",
-    "description": "この成句は、スキル（巧）が（夺）天（天）の（工）仕事を上回ることを表しています。人間の職人技が非常に完璧で、自然が生み出すことができるものを超えることを表しています。芸術的な成果の頂点を表す言葉です。現代では、人間の能力を超越するように見える並外れた職人技や芸術性、神の創造に匹敵する作品を表すために使われます。",
-    "example": "複雑な翡翠の彫刻は、ほとんど神の手によって作られたように見えた。",
-    "chineseExample": "精致的玉雕巧夺天工。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID176",
@@ -2861,17 +2806,6 @@
     "metaphoric_meaning": "卓越性は時間とともに発展します",
     "traditionalCharacters": "大器晚成",
     "chineseExample_tr": "這位作家在六十多歲時出版了他的代表作，此前已經花了幾十年磨練自己的技藝"
-  },
-  {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Crane hair and child complexion",
-    "metaphoric_meaning": "White-haired but with youthful appearance",
-    "description": "This idiom combines 'crane feather' hair (鹤发) - white like a crane's plumage - with a child's (童) complexion (颜) to describe elderly people who remain youthful in appearance. The crane symbolizes longevity in Chinese culture, while the rosy complexion of children represents health and vitality. The phrase originated in descriptions of Daoist immortals and long-lived sages who defied normal aging. It praises those who maintain health and vitality despite advanced years. Modern usage compliments active, healthy elderly individuals.",
-    "example": "Despite his age, he maintains the vigor and complexion of youth.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID223",
@@ -4291,17 +4225,6 @@
     "chineseExample_tr": "這位資深教授不屑一顧地否定了這個創新理論，沒有認真考慮"
   },
   {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Without speaking yet understood",
-    "metaphoric_meaning": "Self-evident; goes without saying",
-    "description": "この成句は、言葉 (言) がなくても (不) 理解される (喻) ほど明白であることを表します。孔子の古典『孟子』に登場し、説明を必要としないほど根本的な真実を強調しています。この言葉は、明示的な記述よりも暗黙の理解を重視する中国の哲学的伝統を反映しています。孔子自身も、広範な説明よりも模範を示すことによる教育を好みました。現代では、自明の理、明白な結論、または詳細な説明がなくても意味が明確な状況を指します。",
-    "example": "教育の重要性は、今日の社会では自明の理です。",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID333",
     "characters": "不约而同",
     "pinyin": "bù yuē ér tóng",
@@ -5258,28 +5181,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "まさにその分量どおり",
-    "metaphoric_meaning": "完璧に適切。ぴったりと合っている",
-    "description": "この成句は、まさに（恰）その（其）適切な分量（分）どおり（如）であることを表しています。過剰でも不足でもなく、状況に完璧に調整された行動や言葉を表しています。適切さと節度を重視する言葉です。現代では、適切に調整された反応、状況に完璧に適合した行動を表すために使われます。",
-    "example": "彼の返答は、完璧に適切で節度があった。",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Bright, clear, and upright",
-    "metaphoric_meaning": "Be open and aboveboard",
-    "description": "This idiom describes being bright (光明) and upright (磊落). The character 磊 shows three stones stacked, representing solidity and openness. The phrase depicts someone with nothing to hide, whose character is transparent and honorable. Modern usage describes people of integrity whose actions can withstand scrutiny, who act openly without hidden agendas.",
-    "example": "His straightforward character earned him everyone's trust.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID413",
     "characters": "妙笔生花",
     "pinyin": "miào bǐ shēng huā",
@@ -5300,17 +5201,6 @@
     "example": "Tech startups are emerging rapidly like bamboo shoots after rain.",
     "chineseExample": "科技初创公司如雨后春笋般涌现。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "この成句は、期待（望外）を超えて（出）喜び（喜）を表します。それは、予想よりも良いものを受け取ったときの喜びを捉えています。このフレーズは、すべての希望を超えた予期せぬ幸運の瞬間を描いたテキストに登場しました。現代では、嬉しい驚き、思わぬ幸運、および予想を上回るあらゆる肯定的な結果を指します。",
-    "example": "彼女は予期せぬ昇進に嬉しい驚きを受けました。",
-    "chineseExample": "意外的升职让她喜出望外。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID416",
@@ -5390,17 +5280,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "この成句は、得る（得）ことを患い（患）、失う（失）ことを患う（患）ことを表します。これは、孔子の論語に由来し、得られるものや失うものについて常に不安を感じているささいな人々を批判しています。この考え方は、終わりのない不安を生み出し、満足を妨げます。現代では、結果への過度の執着と、状況に関係なく平和を見つけることができないことを指します。",
-    "example": "結果についての彼の絶え間ない不安は、彼がプロセスを楽しむことを妨げました。",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
-  },
-  {
     "id": "ID424",
     "characters": "无与伦比",
     "pinyin": "wú yǔ lún bǐ",
@@ -5432,17 +5311,6 @@
     "example": "Her indomitable spirit helped her overcome every obstacle.",
     "chineseExample": "她不屈不挠的精神帮助她克服了每一个障碍。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID427",
-    "characters": "鹤发童颜",
-    "pinyin": "hè fà tóng yán",
-    "meaning": "Crane hair and child complexion",
-    "metaphoric_meaning": "White-haired but with youthful appearance",
-    "description": "This idiom combines 'crane feather' hair (鹤发) - white like a crane's plumage - with a child's (童) complexion (颜) to describe elderly people who remain youthful in appearance. The crane symbolizes longevity in Chinese culture, while the rosy complexion of children represents health and vitality. The phrase originated in descriptions of Daoist immortals and long-lived sages who defied normal aging. It praises those who maintain health and vitality despite advanced years. Modern usage compliments active, healthy elderly individuals.",
-    "example": "Despite his age, he maintains the vigor and complexion of youth.",
-    "chineseExample": "尽管年事已高，他仍保持着鹤发童颜的状态。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID428",
@@ -5486,17 +5354,6 @@
     "description": "This idiom originates from Chinese geomancy (feng shui), where 'dragon' (龙) refers to mountain ranges and 'veins' (脉) to their extensions. Geomancers traced the 'coming dragon' and 'going veins' to understand the landscape's energy flow. The phrase evolved to mean tracing the origins and developments of any matter - its causes, progression, and connections. It emphasizes the importance of understanding context and history. Modern usage describes investigating or explaining the full background and development of a situation or event.",
     "example": "Before making a decision, we need to understand the full context.",
     "chineseExample": "做决定之前，我们需要了解事情的来龙去脉。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID432",
-    "characters": "不言而喻",
-    "pinyin": "bù yán ér yù",
-    "meaning": "Without speaking yet understood",
-    "metaphoric_meaning": "Self-evident; goes without saying",
-    "description": "この成句は、言葉 (言) がなくても (不) 理解される (喻) ほど明白であることを表します。孔子の古典『孟子』に登場し、説明を必要としないほど根本的な真実を強調しています。この言葉は、明示的な記述よりも暗黙の理解を重視する中国の哲学的伝統を反映しています。孔子自身も、広範な説明よりも模範を示すことによる教育を好みました。現代では、自明の理、明白な結論、または詳細な説明がなくても意味が明確な状況を指します。",
-    "example": "教育の重要性は、今日の社会では自明の理です。",
-    "chineseExample": "在当今世界，教育的重要性不言而喻。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -5797,17 +5654,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "炉の火は純粋な青",
-    "metaphoric_meaning": "完璧に到達する。完全に習得する",
-    "description": "この成句は、炉（炉）の（火）火が（纯）純粋な（青）青であることを表しています。伝統的な冶金では、青い炎は最高の温度と最も純粋な燃焼を示します。スキルの開発の頂点を表す言葉です。現代では、可能な限り最高のレベルに達した習熟度、完璧に洗練された専門知識を表すために使われます。",
-    "example": "彼女の技術スキルは、最高レベルに達している。",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID461",
     "characters": "名列前茅",
     "pinyin": "míng liè qián máo",
@@ -5838,17 +5684,6 @@
     "description": "This idiom describes producing (出) something different (别) from one's heart's (心) design or cutting (裁). The character 裁 originally referred to tailoring cloth, suggesting creative design. The phrase celebrates originality and innovation that departs from convention. It appeared in literary criticism praising works that showed creative independence. Modern usage commends innovative thinking, original designs, or unconventional approaches that prove successful precisely because they differ from standard methods.",
     "example": "Her unconventional approach to the problem impressed everyone.",
     "chineseExample": "她别出心裁的方法给大家留下了深刻印象。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "まさに良い場所に",
-    "metaphoric_meaning": "ちょうど良い。完璧に適切",
-    "description": "この成句は、まさに（恰）良い（好）場所（处）に（到）いることを表しています。多すぎず少なすぎず、完璧なポイントに到達することを表しています。正確さと適切さを重視する言葉です。現代では、完璧な調整で行われたこと、状況にまさに適切な行動や量を表すために使われます。",
-    "example": "味付けが完璧だった。多すぎず、少なすぎず。",
-    "chineseExample": "调味恰到好处，不多不少。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -6028,17 +5863,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "胸に完全な竹が入っている",
-    "metaphoric_meaning": "よく考えられた計画を持っている。十分に準備されている",
-    "description": "この成句は、胸（胸）の中に（有）完全な（成）竹（竹）があることを表しています。画家である文同が、絵を描く前に心の中で完全な竹を視覚化していたという話に由来します。徹底的な精神的な準備を表しています。現代では、タスクに着手する前に明確な計画や完全な準備ができていることを表すために使われます。",
-    "example": "彼女は、準備万端で試験に臨んだ。",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID482",
     "characters": "白手起家",
     "pinyin": "bái shǒu qǐ jiā",
@@ -6059,17 +5883,6 @@
     "example": "Instead of improving, his behavior only got worse.",
     "chineseExample": "他的行为不但没有改善，反而变本加厉。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "Bow down and exhaust oneself",
-    "metaphoric_meaning": "Devote oneself completely; work until exhaustion",
-    "description": "This idiom describes bowing (鞠躬) and exhausting (尽) oneself (瘁). It comes from Zhuge Liang's famous memorial, describing his dedication to serving Shu until death. The phrase embodies the ultimate in loyal service. Modern usage describes complete dedication to a cause or organization, giving everything until nothing remains, the highest form of devoted service.",
-    "example": "He served the organization until his final breath.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID485",
@@ -6171,17 +5984,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "Lingering reluctantly, unwilling to leave",
-    "metaphoric_meaning": "Be reluctant to part",
-    "description": "This idiom describes lingering (依依) and being unwilling (不舍) to leave. The doubled 依 emphasizes the clinging, reluctant quality of the departure. The phrase captures the hesitation when leaving something beloved. Modern usage describes reluctant partings - children leaving fun places, lovers saying goodbye, or leaving any situation one wishes could continue.",
-    "example": "The children reluctantly left the amusement park.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID495",
     "characters": "顺其自然",
     "pinyin": "shùn qí zì rán",
@@ -6235,17 +6037,6 @@
     "example": "The enormous pressure of the deadline weighed heavily on the team.",
     "chineseExample": "截止日期的压力如泰山压顶。",
     "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "打つべき隙がない",
-    "metaphoric_meaning": "完璧。批判に対して無敵",
-    "description": "この成句は、打つ（击）ことができる（可）隙（懈）が（无）ないことを表しています。攻撃できる弱点が見つからないほど完璧なものを表しています。もともとは、侵入不可能な防御に使われた言葉です。現代では、批判や攻撃の余地がない完璧な議論、計画、パフォーマンスを表すために使われます。",
-    "example": "彼女の議論は、論理的に完璧だった。",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
   },
   {
     "id": "ID501",
@@ -6545,17 +6336,6 @@
     "theme": "Life Philosophy"
   },
   {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "部署に従い、授業に出る",
-    "metaphoric_meaning": "確立された手順に従う; 几帳面である",
-    "description": "この成句は、部署（部）に従い（按）、授業（班）に出る（就）ことを表します。元々は官僚的な手続きを説明していましたが、確立された秩序に従うことを意味するようになりました。このフレーズは、即興よりも体系的なアプローチを重視します。現代の使用法では、適切な手順と順序に従い、混沌とするのではなく、几帳面に作業することを説明しますが、過度の硬直性を批判することもあります。",
-    "example": "プロジェクトは確立されたプロセスに従って進められました。",
-    "chineseExample": "项目按部就班地推进。",
-    "theme": "Wisdom & Learning"
-  },
-  {
     "id": "ID529",
     "characters": "不可开交",
     "pinyin": "bù kě kāi jiāo",
@@ -6576,17 +6356,6 @@
     "example": "直接競争する代わりに、彼女は革新的な代替アプローチを見つけました。",
     "chineseExample": "她没有直接竞争，而是另辟蹊径。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hearts imprint on each other",
-    "metaphoric_meaning": "Be perfectly attuned to each other",
-    "description": "This idiom describes hearts (心心) imprinting (印) on each other (相). Originally a Buddhist term describing the transmission of dharma between master and disciple without words, it now primarily describes deep romantic connection. Modern usage depicts intimate understanding between lovers or close friends where communication transcends words - minds that think alike and hearts that beat as one.",
-    "example": "The couple understood each other without words.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID532",
@@ -6664,28 +6433,6 @@
     "example": "His contribution to the project was negligible.",
     "chineseExample": "他对项目的贡献微不足道。",
     "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Words and actions consistent",
-    "metaphoric_meaning": "Practice what you preach",
-    "description": "This idiom describes words (言) and actions (行) being consistent (一致). It values the alignment between what one says and what one does. The phrase warns against hypocrisy where promises don't match behavior. Modern usage emphasizes integrity and reliability, the trustworthiness that comes when someone's actions consistently match their words.",
-    "example": "A good leader practices what they preach.",
-    "chineseExample": "好的领导者言行一致。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "この成句は、不当に（妄）自分自身（自）を卑下（菲薄）することを表します。これは、蜀の皇帝への諸葛亮の有名な上奏に由来し、国家に害を及ぼす可能性のある過度の自己卑下を戒めています。このフレーズは、偽りの謙虚さは傲慢さと同じくらい有害である可能性があると警告しています。現代では、健全な自尊心を奨励し、可能性を制限する自己破壊的な行動を警告するために使用されます。",
-    "example": "自分の能力を過小評価しないでください。あなたには貢献できることがたくさんあります。",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
   },
   {
     "id": "ID541",
@@ -6919,17 +6666,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID562",
-    "characters": "妄自菲薄",
-    "pinyin": "wàng zì fěi bó",
-    "meaning": "Unreasonably belittle oneself",
-    "metaphoric_meaning": "Undervalue oneself; excessive self-deprecation",
-    "description": "この成句は、不当に（妄）自分自身（自）を卑下（菲薄）することを表します。これは、蜀の皇帝への諸葛亮の有名な上奏に由来し、国家に害を及ぼす可能性のある過度の自己卑下を戒めています。このフレーズは、偽りの謙虚さは傲慢さと同じくらい有害である可能性があると警告しています。現代では、健全な自尊心を奨励し、可能性を制限する自己破壊的な行動を警告するために使用されます。",
-    "example": "自分の能力を過小評価しないでください。あなたには貢献できることがたくさんあります。",
-    "chineseExample": "不要妄自菲薄，你有很多可以贡献的地方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID563",
     "characters": "妄自尊大",
     "pinyin": "wàng zì zūn dà",
@@ -6939,17 +6675,6 @@
     "example": "彼の過信は、彼の明らかな弱点を見えなくしました。",
     "chineseExample": "他妄自尊大，看不到自己明显的弱点。",
     "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID564",
-    "characters": "患得患失",
-    "pinyin": "huàn dé huàn shī",
-    "meaning": "Worry about gain, worry about loss",
-    "metaphoric_meaning": "Be anxious about gains and losses",
-    "description": "この成句は、得る（得）ことを患い（患）、失う（失）ことを患う（患）ことを表します。これは、孔子の論語に由来し、得られるものや失うものについて常に不安を感じているささいな人々を批判しています。この考え方は、終わりのない不安を生み出し、満足を妨げます。現代では、結果への過度の執着と、状況に関係なく平和を見つけることができないことを指します。",
-    "example": "結果についての彼の絶え間ない不安は、彼がプロセスを楽しむことを妨げました。",
-    "chineseExample": "他患得患失的心态让他无法享受过程。",
-    "theme": "Life Philosophy"
   },
   {
     "id": "ID565",
@@ -6982,17 +6707,6 @@
     "description": "この成句は、得意（得意）になりすぎて、適切な形や行動（形）を忘れる（忘）状態を表します。それは、過度の喜びや成功が落ち着きと判断力の喪失につながる可能性があると警告しています。このフレーズは、達成後の傲慢さの危険性について書かれたテキストに登場しました。現代では、成功が頭に上り、不適切な行動や誤った判断につながることを警告するために使用されます。",
     "example": "彼の成功は、彼のプロとしての行動を不注意にさせました。",
     "chineseExample": "成功让他得意忘形，忽视了职业操守。",
-    "theme": "Life Philosophy"
-  },
-  {
-    "id": "ID568",
-    "characters": "喜出望外",
-    "pinyin": "xǐ chū wàng wài",
-    "meaning": "Joy beyond expectation",
-    "metaphoric_meaning": "Be pleasantly surprised",
-    "description": "この成句は、期待（望外）を超えて（出）喜び（喜）を表します。それは、予想よりも良いものを受け取ったときの喜びを捉えています。このフレーズは、すべての希望を超えた予期せぬ幸運の瞬間を描いたテキストに登場しました。現代では、嬉しい驚き、思わぬ幸運、および予想を上回るあらゆる肯定的な結果を指します。",
-    "example": "彼女は予期せぬ昇進に嬉しい驚きを受けました。",
-    "chineseExample": "意外的升职让她喜出望外。",
     "theme": "Life Philosophy"
   },
   {
@@ -7205,17 +6919,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID588",
-    "characters": "光明磊落",
-    "pinyin": "guāng míng lěi luò",
-    "meaning": "Bright, clear, and upright",
-    "metaphoric_meaning": "Be open and aboveboard",
-    "description": "This idiom describes being bright (光明) and upright (磊落). The character 磊 shows three stones stacked, representing solidity and openness. The phrase depicts someone with nothing to hide, whose character is transparent and honorable. Modern usage describes people of integrity whose actions can withstand scrutiny, who act openly without hidden agendas.",
-    "example": "His straightforward character earned him everyone's trust.",
-    "chineseExample": "他光明磊落的性格赢得了大家的信任。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID589",
     "characters": "坦坦荡荡",
     "pinyin": "tǎn tǎn dàng dàng",
@@ -7235,17 +6938,6 @@
     "description": "This idiom describes the outside (表) and inside (里) being as (如) one (一). It depicts consistency between one's public persona and private self, between words and actions. The phrase values authenticity and integrity. Modern usage praises those who are genuine - the same person regardless of audience or circumstance, without pretense or duplicity.",
     "example": "She is genuine - the same person in public and private.",
     "chineseExample": "她表里如一，在公众场合和私下是同一个人。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID591",
-    "characters": "言行一致",
-    "pinyin": "yán xíng yī zhì",
-    "meaning": "Words and actions consistent",
-    "metaphoric_meaning": "Practice what you preach",
-    "description": "This idiom describes words (言) and actions (行) being consistent (一致). It values the alignment between what one says and what one does. The phrase warns against hypocrisy where promises don't match behavior. Modern usage emphasizes integrity and reliability, the trustworthiness that comes when someone's actions consistently match their words.",
-    "example": "A good leader practices what they preach.",
-    "chineseExample": "好的领导者言行一致。",
     "theme": "Relationships & Character"
   },
   {
@@ -7381,17 +7073,6 @@
     "theme": "Relationships & Character"
   },
   {
-    "id": "ID604",
-    "characters": "心心相印",
-    "pinyin": "xīn xīn xiāng yìn",
-    "meaning": "Hearts imprint on each other",
-    "metaphoric_meaning": "Be perfectly attuned to each other",
-    "description": "This idiom describes hearts (心心) imprinting (印) on each other (相). Originally a Buddhist term describing the transmission of dharma between master and disciple without words, it now primarily describes deep romantic connection. Modern usage depicts intimate understanding between lovers or close friends where communication transcends words - minds that think alike and hearts that beat as one.",
-    "example": "The couple understood each other without words.",
-    "chineseExample": "这对夫妻心心相印，不用言语就能理解对方。",
-    "theme": "Relationships & Character"
-  },
-  {
     "id": "ID605",
     "characters": "一见钟情",
     "pinyin": "yī jiàn zhōng qíng",
@@ -7433,17 +7114,6 @@
     "description": "This idiom describes being hard (难) to part (分) and hard (难) to leave (舍). It depicts the pain of separation when attachment is strong. The doubled structure emphasizes the difficulty of saying goodbye. Modern usage describes the emotional difficulty of parting from loved ones, the reluctance to end a meeting or relationship when feelings run deep.",
     "example": "The farewell was emotional as neither wanted to say goodbye.",
     "chineseExample": "告别时他们难分难舍，都不想说再见。",
-    "theme": "Relationships & Character"
-  },
-  {
-    "id": "ID609",
-    "characters": "依依不舍",
-    "pinyin": "yī yī bù shě",
-    "meaning": "Lingering reluctantly, unwilling to leave",
-    "metaphoric_meaning": "Be reluctant to part",
-    "description": "This idiom describes lingering (依依) and being unwilling (不舍) to leave. The doubled 依 emphasizes the clinging, reluctant quality of the departure. The phrase captures the hesitation when leaving something beloved. Modern usage describes reluctant partings - children leaving fun places, lovers saying goodbye, or leaving any situation one wishes could continue.",
-    "example": "The children reluctantly left the amusement park.",
-    "chineseExample": "孩子们依依不舍地离开游乐园。",
     "theme": "Relationships & Character"
   },
   {
@@ -7579,17 +7249,6 @@
     "theme": "Success & Perseverance"
   },
   {
-    "id": "ID622",
-    "characters": "鞠躬尽瘁",
-    "pinyin": "jū gōng jìn cuì",
-    "meaning": "Bow down and exhaust oneself",
-    "metaphoric_meaning": "Devote oneself completely; work until exhaustion",
-    "description": "This idiom describes bowing (鞠躬) and exhausting (尽) oneself (瘁). It comes from Zhuge Liang's famous memorial, describing his dedication to serving Shu until death. The phrase embodies the ultimate in loyal service. Modern usage describes complete dedication to a cause or organization, giving everything until nothing remains, the highest form of devoted service.",
-    "example": "He served the organization until his final breath.",
-    "chineseExample": "他鞠躬尽瘁，为组织服务到最后一刻。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID623",
     "characters": "死而后已",
     "pinyin": "sǐ ér hòu yǐ",
@@ -7697,17 +7356,6 @@
     "description": "这个成语出现在《论语》中，并由宋代伟大的新儒家学者朱熹阐述。 它强调在逐渐前进的同时遵循适当的顺序。 这个短语反映了儒家教育哲学，即学习必须系统地进行，在进入复杂概念之前建立在基础上。 它抵制了跳过步骤或仓促进步的诱惑。 现代用法扩展到任何需要有条不紊地进步的领域，从教育到职业发展再到技能习得。",
     "example": "学习一门语言需要循序渐进的方法。",
     "chineseExample": "学习语言需要循序渐进的方法。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID633",
-    "characters": "按部就班",
-    "pinyin": "àn bù jiù bān",
-    "meaning": "部署に従い、授業に出る",
-    "metaphoric_meaning": "確立された手順に従う; 几帳面である",
-    "description": "この成句は、部署（部）に従い（按）、授業（班）に出る（就）ことを表します。元々は官僚的な手続きを説明していましたが、確立された秩序に従うことを意味するようになりました。このフレーズは、即興よりも体系的なアプローチを重視します。現代の使用法では、適切な手順と順序に従い、混沌とするのではなく、几帳面に作業することを説明しますが、過度の硬直性を批判することもあります。",
-    "example": "プロジェクトは確立されたプロセスに従って進められました。",
-    "chineseExample": "项目按部就班地推进。",
     "theme": "Wisdom & Learning"
   },
   {
@@ -7975,50 +7623,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID658",
-    "characters": "恰到好处",
-    "pinyin": "qià dào hǎo chù",
-    "meaning": "まさに良い場所に",
-    "metaphoric_meaning": "ちょうど良い。完璧に適切",
-    "description": "この成句は、まさに（恰）良い（好）場所（处）に（到）いることを表しています。多すぎず少なすぎず、完璧なポイントに到達することを表しています。正確さと適切さを重視する言葉です。現代では、完璧な調整で行われたこと、状況にまさに適切な行動や量を表すために使われます。",
-    "example": "味付けが完璧だった。多すぎず、少なすぎず。",
-    "chineseExample": "调味恰到好处，不多不少。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID659",
-    "characters": "恰如其分",
-    "pinyin": "qià rú qí fèn",
-    "meaning": "まさにその分量どおり",
-    "metaphoric_meaning": "完璧に適切。ぴったりと合っている",
-    "description": "この成句は、まさに（恰）その（其）適切な分量（分）どおり（如）であることを表しています。過剰でも不足でもなく、状況に完璧に調整された行動や言葉を表しています。適切さと節度を重視する言葉です。現代では、適切に調整された反応、状況に完璧に適合した行動を表すために使われます。",
-    "example": "彼の返答は、完璧に適切で節度があった。",
-    "chineseExample": "他的回应恰如其分。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID660",
-    "characters": "无懈可击",
-    "pinyin": "wú xiè kě jī",
-    "meaning": "打つべき隙がない",
-    "metaphoric_meaning": "完璧。批判に対して無敵",
-    "description": "この成句は、打つ（击）ことができる（可）隙（懈）が（无）ないことを表しています。攻撃できる弱点が見つからないほど完璧なものを表しています。もともとは、侵入不可能な防御に使われた言葉です。現代では、批判や攻撃の余地がない完璧な議論、計画、パフォーマンスを表すために使われます。",
-    "example": "彼女の議論は、論理的に完璧だった。",
-    "chineseExample": "她的论点无懈可击。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID661",
-    "characters": "滴水不漏",
-    "pinyin": "dī shuǐ bù lòu",
-    "meaning": "一滴の水も漏れない",
-    "metaphoric_meaning": "水漏れしない。綿密に計画された",
-    "description": "この成句は、一滴（滴）の（水）水（不）も漏れない（漏）ことを表しています。何も逃げ出すことができないほど徹底的に密閉されていることを表しています。もともとは、完璧な封じ込めや秘密保持に使われた言葉です。現代では、隙間なく完璧に実行すること、何も見落とさないほど徹底的な計画、または何も漏れないほど厳重に守られた秘密を表すために使われます。",
-    "example": "警備体制は、完全に水漏れしないものだった。",
-    "chineseExample": "安保措施滴水不漏。",
-    "theme": "Strategy & Action"
-  },
-  {
     "id": "ID662",
     "characters": "天罗地网",
     "pinyin": "tiān luó dì wǎng",
@@ -8050,17 +7654,6 @@
     "example": "その計画は、絶対に手違いがないように設計されていた。",
     "chineseExample": "计划设计得万无一失。",
     "theme": "Strategy & Action"
-  },
-  {
-    "id": "ID665",
-    "characters": "胸有成竹",
-    "pinyin": "xiōng yǒu chéng zhú",
-    "meaning": "胸に完全な竹が入っている",
-    "metaphoric_meaning": "よく考えられた計画を持っている。十分に準備されている",
-    "description": "この成句は、胸（胸）の中に（有）完全な（成）竹（竹）があることを表しています。画家である文同が、絵を描く前に心の中で完全な竹を視覚化していたという話に由来します。徹底的な精神的な準備を表しています。現代では、タスクに着手する前に明確な計画や完全な準備ができていることを表すために使われます。",
-    "example": "彼女は、準備万端で試験に臨んだ。",
-    "chineseExample": "她胸有成竹地走进考场。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID666",
@@ -8118,17 +7711,6 @@
     "theme": "Wisdom & Learning"
   },
   {
-    "id": "ID671",
-    "characters": "炉火纯青",
-    "pinyin": "lú huǒ chún qīng",
-    "meaning": "炉の火は純粋な青",
-    "metaphoric_meaning": "完璧に到達する。完全に習得する",
-    "description": "この成句は、炉（炉）の（火）火が（纯）純粋な（青）青であることを表しています。伝統的な冶金では、青い炎は最高の温度と最も純粋な燃焼を示します。スキルの開発の頂点を表す言葉です。現代では、可能な限り最高のレベルに達した習熟度、完璧に洗練された専門知識を表すために使われます。",
-    "example": "彼女の技術スキルは、最高レベルに達している。",
-    "chineseExample": "她的技术已经炉火纯青。",
-    "theme": "Success & Perseverance"
-  },
-  {
     "id": "ID672",
     "characters": "出神入化",
     "pinyin": "chū shén rù huà",
@@ -8138,28 +7720,6 @@
     "example": "彼のマジックは、ほとんど超自然的なレベルに達している。",
     "chineseExample": "他的魔术已经出神入化。",
     "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID673",
-    "characters": "登堂入室",
-    "pinyin": "dēng táng rù shì",
-    "meaning": "ホールに登り、奥の部屋に入る",
-    "metaphoric_meaning": "熟練度を獲得する。習得に到達する",
-    "description": "この成句は、ホール（堂）に（登）登り、奥の部屋（室）に（入）入ることを表しています。論語に由来し、学習の段階を表しています。ホールは中級、奥の部屋は習得です。高度なレベルへの進歩を表す言葉です。現代では、深い理解に到達すること、表面的な知識から真の専門知識に移行することを表すために使われます。",
-    "example": "彼女の分野の理解は、高度なレベルに達している。",
-    "chineseExample": "她对这个领域的理解已经登堂入室。",
-    "theme": "Wisdom & Learning"
-  },
-  {
-    "id": "ID674",
-    "characters": "青出于蓝",
-    "pinyin": "qīng chū yú lán",
-    "meaning": "青は藍より出でて藍より青し",
-    "metaphoric_meaning": "先生を超える。先駆者をしのぐ",
-    "description": "この成句は、青（青）が（于）藍（蓝）から（出）出ていることを表しています。藍の植物から抽出された青い染料は、元の藍よりも鮮やかになります。生徒が先生を超えることを祝福する言葉です。現代では、後継者が先駆者を超えること、弟子が師匠よりも多くのことを達成するという教育の理想的な結果を表すために使われます。",
-    "example": "その生徒は、優秀な先生さえも超えた。",
-    "chineseExample": "这位学生青出于蓝，超越了他杰出的老师。",
-    "theme": "Wisdom & Learning"
   },
   {
     "id": "ID391",
@@ -8225,17 +7785,6 @@
     "description": "この成句は、職人（匠）の（心）心が（独）独自に（运）働くことを表しています。独具匠心のバリエーションで、創造的な才能の積極的な適用を強調しています。行動におけるオリジナルの創造性を表す言葉です。現代では、独特の作品を生み出す創造的な才能の発揮を表すために使われます。",
     "example": "映画監督の創造的なビジョンは、傑作を生み出した。",
     "chineseExample": "电影导演匠心独运，创作出一部杰作。",
-    "theme": "Success & Perseverance"
-  },
-  {
-    "id": "ID681",
-    "characters": "巧夺天工",
-    "pinyin": "qiǎo duó tiān gōng",
-    "meaning": "スキルが天の仕事を上回る",
-    "metaphoric_meaning": "スキルにおいて自然を超える。並外れた職人技",
-    "description": "この成句は、スキル（巧）が（夺）天（天）の（工）仕事を上回ることを表しています。人間の職人技が非常に完璧で、自然が生み出すことができるものを超えることを表しています。芸術的な成果の頂点を表す言葉です。現代では、人間の能力を超越するように見える並外れた職人技や芸術性、神の創造に匹敵する作品を表すために使われます。",
-    "example": "複雑な翡翠の彫刻は、ほとんど神の手によって作られたように見えた。",
-    "chineseExample": "精致的玉雕巧夺天工。",
     "theme": "Success & Perseverance"
   }
 ]
