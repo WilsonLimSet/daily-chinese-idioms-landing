@@ -1,6 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/react";
-import { PHProvider } from "../providers";
 import "../globals.css";
 
 const geistSans = Geist({
@@ -36,9 +35,7 @@ export default async function LangLayout({
         />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <PHProvider>
-          {children}
-        </PHProvider>
+        {children}
         <Analytics />
       </body>
     </html>
