@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import {
@@ -94,6 +94,12 @@ export default async function TranslatedListiclePage({
 
   if (!listicle) {
     notFound();
+  }
+
+  // Redirect English slugs to localized slugs
+  const localizedSlug = listicle.slug;
+  if (localizedSlug !== slug) {
+    redirect(`/${lang}/blog/lists/${localizedSlug}`);
   }
 
   const allListicles = getAllListiclesTranslated(lang).filter(l => l.slug !== slug).slice(0, 4);
