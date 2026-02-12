@@ -80,6 +80,23 @@ export default async function BlogPage() {
         </div>
       </div>
       <BlogClient posts={posts} themes={themes} />
+
+      {/* Quick Navigation */}
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t">
+        <div className="flex flex-wrap gap-4 justify-center text-sm text-gray-600">
+          <Link href="/dictionary" className="hover:text-red-600 transition-colors">Dictionary</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/themes/success-perseverance" className="hover:text-red-600 transition-colors">Success Idioms</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/themes/life-philosophy" className="hover:text-red-600 transition-colors">Life Philosophy</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/themes/wisdom-learning" className="hover:text-red-600 transition-colors">Wisdom & Learning</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/themes/relationships-character" className="hover:text-red-600 transition-colors">Relationships</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/faq" className="hover:text-red-600 transition-colors">FAQ</Link>
+        </div>
+      </div>
     </>
   );
 }

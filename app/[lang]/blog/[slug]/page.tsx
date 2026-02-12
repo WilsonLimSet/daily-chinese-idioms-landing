@@ -9,6 +9,7 @@ import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
+import { getListiclesForIdiom } from '@/src/lib/listicles';
 import '@/app/blog/blog.css';
 
 // ISR: Revalidate pages every 24 hours
@@ -288,6 +289,12 @@ export default async function InternationalBlogPostPage({
                 <Calendar className="w-4 h-4 mr-1" />
                 {new Date(post.date).toLocaleDateString(LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
               </div>
+              <Link
+                href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
+                className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
+              >
+                {post.idiom.theme}
+              </Link>
             </div>
           </div>
 
@@ -401,6 +408,37 @@ export default async function InternationalBlogPostPage({
             </div>
           </div>
         </section>
+
+        {/* Related Listicles */}
+        {(() => {
+          const relatedListicles = getListiclesForIdiom(post.idiom.id);
+          return relatedListicles.length > 0 ? (
+            <section className="mt-12 pt-8 border-t">
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">Curated Lists Featuring {post.idiom.characters}</h2>
+              <div className="grid gap-3 md:grid-cols-3">
+                {relatedListicles.map(listicle => (
+                  <Link
+                    key={listicle.slug}
+                    href={`/${lang}/blog/lists/${listicle.slug}`}
+                    className="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100"
+                  >
+                    <h3 className="font-semibold text-gray-900 text-sm mb-1">{listicle.title}</h3>
+                    <p className="text-xs text-gray-600 line-clamp-2">{listicle.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null;
+        })()}
+
+        {/* Explore More */}
+        <nav className="mt-8 pt-6 border-t flex flex-wrap gap-4 text-sm text-gray-600">
+          <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">Browse Dictionary</Link>
+          <span className="text-gray-300">|</span>
+          <Link href={`/${lang}/blog/lists`} className="hover:text-red-600 transition-colors">Curated Lists</Link>
+          <span className="text-gray-300">|</span>
+          <Link href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">More {post.idiom.theme} Idioms</Link>
+        </nav>
 
       </article>
 

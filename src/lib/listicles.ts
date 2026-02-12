@@ -2687,6 +2687,18 @@ export const listicles: Listicle[] = [
   },
 ];
 
+export function getListiclesForIdiom(idiomId: string, limit = 3): Listicle[] {
+  return listicles.filter(l => l.idiomIds.includes(idiomId)).slice(0, limit);
+}
+
+export function getListiclesForTheme(theme: string, limit = 3): Listicle[] {
+  const themeKeyword = theme.toLowerCase().replace(' & ', ' ').replace(/\s+/g, '-');
+  return listicles.filter(l =>
+    l.category.toLowerCase().includes(themeKeyword) ||
+    l.keywords.some(k => k.toLowerCase().includes(themeKeyword))
+  ).slice(0, limit);
+}
+
 export function getAllListicles(): Listicle[] {
   return listicles;
 }

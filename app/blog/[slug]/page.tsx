@@ -1,5 +1,6 @@
 import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
 import { LANGUAGES } from '@/src/lib/constants';
+import { getListiclesForIdiom } from '@/src/lib/listicles';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -261,7 +262,15 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-8">
-          <time className="text-gray-500 text-sm">{new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+          <div className="flex items-center gap-3 mb-2">
+            <time className="text-gray-500 text-sm">{new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+            <Link
+              href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
+              className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
+            >
+              {post.idiom.theme}
+            </Link>
+          </div>
           <h1 className="text-4xl font-bold text-black mt-2 mb-4">
             <span className="text-5xl text-black">{post.idiom.characters}</span>
           </h1>
@@ -380,6 +389,39 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             </div>
           </div>
         </section>
+
+        {/* Related Listicles */}
+        {(() => {
+          const relatedListicles = getListiclesForIdiom(post.idiom.id);
+          return relatedListicles.length > 0 ? (
+            <section className="mt-12 pt-8 border-t">
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">Curated Lists Featuring {post.idiom.characters}</h2>
+              <div className="grid gap-3 md:grid-cols-3">
+                {relatedListicles.map(listicle => (
+                  <Link
+                    key={listicle.slug}
+                    href={`/blog/lists/${listicle.slug}`}
+                    className="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100"
+                  >
+                    <h3 className="font-semibold text-gray-900 text-sm mb-1">{listicle.title}</h3>
+                    <p className="text-xs text-gray-600 line-clamp-2">{listicle.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null;
+        })()}
+
+        {/* Explore More */}
+        <nav className="mt-8 pt-6 border-t flex flex-wrap gap-4 text-sm text-gray-600">
+          <Link href="/dictionary" className="hover:text-red-600 transition-colors">Browse Dictionary</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/blog/lists" className="hover:text-red-600 transition-colors">Curated Lists</Link>
+          <span className="text-gray-300">|</span>
+          <Link href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">More {post.idiom.theme} Idioms</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/faq" className="hover:text-red-600 transition-colors">FAQ</Link>
+        </nav>
       </article>
 
       {/* Footer */}

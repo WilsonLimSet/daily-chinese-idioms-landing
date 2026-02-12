@@ -6,6 +6,7 @@ import { LANGUAGES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
+import { getListiclesForTheme } from '@/src/lib/listicles';
 
 const THEME_MAP: { [key: string]: string } = {
   'life-philosophy': 'Life Philosophy',
@@ -209,6 +210,28 @@ export default async function InternationalThemePage({ params }: { params: Promi
             </Link>
           ))}
         </div>
+
+        {/* Related Listicles */}
+        {(() => {
+          const themeListicles = getListiclesForTheme(themeName);
+          return themeListicles.length > 0 ? (
+            <section className="mt-12">
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">Curated {themeName} Lists</h2>
+              <div className="grid gap-3 md:grid-cols-3">
+                {themeListicles.map(listicle => (
+                  <Link
+                    key={listicle.slug}
+                    href={`/${lang}/blog/lists/${listicle.slug}`}
+                    className="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100"
+                  >
+                    <h3 className="font-semibold text-gray-900 text-sm mb-1">{listicle.title}</h3>
+                    <p className="text-xs text-gray-600 line-clamp-2">{listicle.description}</p>
+                  </Link>
+                ))}
+              </div>
+            </section>
+          ) : null;
+        })()}
 
         <AdUnit type="display" />
 
