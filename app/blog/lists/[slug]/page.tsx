@@ -7,12 +7,9 @@ import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
-export const revalidate = 86400;
-export const dynamicParams = true;
-
 export async function generateStaticParams() {
   const listicles = getAllListicles();
-  return listicles.slice(0, 20).map((listicle) => ({
+  return listicles.map((listicle) => ({
     slug: listicle.slug,
   }));
 }
