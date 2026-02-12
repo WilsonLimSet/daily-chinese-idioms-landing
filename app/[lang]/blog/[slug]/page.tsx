@@ -305,12 +305,12 @@ export default async function InternationalBlogPostPage({
             </p>
           </div>
 
-          <AdUnit slot="1234567890" />
+          <AdUnit type="in-article" />
         </header>
 
         <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: contentHtml }} />
 
-        <AdUnit slot="1234567891" />
+        <AdUnit type="multiplex" />
 
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">

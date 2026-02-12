@@ -280,7 +280,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             </p>
           </div>
 
-          <AdUnit slot="1234567890" />
+          <AdUnit type="in-article" />
 
           <p className="text-xl text-black font-medium">{post.idiom.metaphoric_meaning}</p>
         </header>
@@ -289,7 +289,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
         </div>
 
-        <AdUnit slot="1234567891" />
+        <AdUnit type="multiplex" />
 
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">

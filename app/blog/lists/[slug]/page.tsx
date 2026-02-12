@@ -186,7 +186,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
           </p>
         </div>
 
-        <AdUnit slot="1234567892" />
+        <AdUnit type="display" />
 
         {/* Idiom List */}
         <div className="space-y-6">
@@ -276,7 +276,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
           </div>
         </section>
 
-        <AdUnit slot="1234567893" />
+        <AdUnit type="multiplex" />
 
         {/* Related Listicles */}
         {allListicles.length > 0 && (
