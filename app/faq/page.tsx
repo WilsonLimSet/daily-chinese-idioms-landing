@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, HelpCircle } from 'lucide-react';
 import LanguageSelector from '../components/LanguageSelector';
+import AdUnit from '../components/AdUnit';
 
 export const metadata: Metadata = {
   title: 'Chinese Idioms FAQ - 40+ Common Questions About Chengyu Answered | Chinese Idioms Daily',
@@ -343,6 +344,7 @@ export default function FAQPage() {
                   </div>
                 ))}
               </div>
+              {sectionIndex === 3 && <AdUnit type="display" />}
             </section>
           ))}
         </div>

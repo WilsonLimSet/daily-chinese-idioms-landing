@@ -4,6 +4,7 @@ import { getAllBlogPosts } from '@/src/lib/blog';
 import { LANGUAGES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -237,6 +238,10 @@ export default async function DictionaryPage({
           </div>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4">
+        <AdUnit type="display" />
+      </div>
 
       {/* A-Z Index */}
       <section className="py-12 bg-white">

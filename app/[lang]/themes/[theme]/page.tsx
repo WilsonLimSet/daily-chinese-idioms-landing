@@ -5,6 +5,7 @@ import { getAllBlogPosts } from '@/src/lib/blog-intl';
 import { LANGUAGES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 const THEME_MAP: { [key: string]: string } = {
   'life-philosophy': 'Life Philosophy',
@@ -208,6 +209,8 @@ export default async function InternationalThemePage({ params }: { params: Promi
             </Link>
           ))}
         </div>
+
+        <AdUnit type="display" />
 
         {/* Related Themes */}
         <section className="mt-16 pt-8 border-t">

@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { Search, BookOpen, Languages, Sparkles } from 'lucide-react';
+import AdUnit from '@/app/components/AdUnit';
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -208,6 +209,10 @@ export default async function DictionaryPage() {
           </div>
         </div>
       </section>
+
+      <div className="max-w-4xl mx-auto px-4">
+        <AdUnit type="display" />
+      </div>
 
       {/* A-Z Index */}
       <section className="py-12 bg-white">
