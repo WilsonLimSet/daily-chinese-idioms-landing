@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft, BookOpen } from 'lucide-react';
 import { getAllListicles } from '@/src/lib/listicles';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 export const metadata: Metadata = {
   title: 'Chinese Idiom Lists - Curated Chengyu Collections by Topic',
@@ -106,6 +107,8 @@ export default function ListiclesIndexPage() {
           ))}
         </div>
 
+        <AdUnit type="display" />
+
         {/* SEO Content Section */}
         <section className="mt-16 pt-8 border-t">
           <h2 className="text-2xl font-bold mb-6 text-gray-900">About Our Idiom Lists</h2>
@@ -122,6 +125,10 @@ export default function ListiclesIndexPage() {
             </p>
           </div>
         </section>
+      </div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="multiplex" />
       </div>
 
       {/* Footer */}

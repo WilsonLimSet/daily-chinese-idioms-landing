@@ -318,6 +318,10 @@ export default async function DictionaryPage() {
         </div>
       </section>
 
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="multiplex" />
+      </div>
+
       {/* Footer */}
       <footer className="bg-white py-8 border-t">
         <div className="max-w-7xl mx-auto px-4 text-center">

@@ -4,6 +4,7 @@ import { LANGUAGES } from '@/src/lib/constants';
 import BlogClient from './BlogClient';
 import Link from 'next/link';
 import { BookOpen } from 'lucide-react';
+import AdUnit from '@/app/components/AdUnit';
 
 export const metadata = {
   title: '680+ Chinese Idioms (Chengyu) - Complete List with English Meanings & Pinyin',
@@ -79,7 +80,14 @@ export default async function BlogPage() {
           )}
         </div>
       </div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="display" />
+      </div>
       <BlogClient posts={posts} themes={themes} />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="multiplex" />
+      </div>
 
       {/* Quick Navigation */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t">

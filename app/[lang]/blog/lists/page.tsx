@@ -5,6 +5,7 @@ import { getAllListiclesTranslated } from '@/src/lib/listicles';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -134,6 +135,12 @@ export default async function TranslatedListiclesIndexPage({
             </Link>
           ))}
         </div>
+
+        <AdUnit type="display" />
+      </div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="multiplex" />
       </div>
 
       <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">

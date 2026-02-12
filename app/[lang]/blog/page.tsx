@@ -5,6 +5,7 @@ import { getTranslation } from '@/src/lib/translations';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
 import Link from 'next/link';
 import { BookOpen } from 'lucide-react';
+import AdUnit from '@/app/components/AdUnit';
 
 export function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({
@@ -165,7 +166,14 @@ export default async function InternationalBlogPage({ params }: { params: Promis
           )}
         </div>
       </div>
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="display" />
+      </div>
       <BlogClient posts={posts} themes={themes} lang={lang} />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <AdUnit type="multiplex" />
+      </div>
 
       {/* Quick Navigation */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 border-t">

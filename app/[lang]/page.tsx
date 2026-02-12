@@ -4,6 +4,7 @@ import { Star, Shield, BookOpen } from 'lucide-react'
 import { getTranslation } from '@/src/lib/translations'
 import { LANGUAGES } from '@/src/lib/constants'
 import LanguageSelector from '../components/LanguageSelector'
+import AdUnit from '../components/AdUnit'
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -187,6 +188,8 @@ export default async function InternationalHomePage({
         </div>
       </section>
 
+      <AdUnit type="display" />
+
       {/* Enhanced Features Section */}
       <section className="bg-white py-16 relative">
         <div className="container mx-auto px-6">
@@ -231,6 +234,8 @@ export default async function InternationalHomePage({
         </div>
       </section>
 
+
+      <AdUnit type="multiplex" />
 
       {/* Enhanced Footer */}
       <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
