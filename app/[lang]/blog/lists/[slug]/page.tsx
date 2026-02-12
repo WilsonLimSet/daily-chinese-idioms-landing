@@ -13,13 +13,16 @@ import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
+export const revalidate = 86400;
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
   const params = [];
 
   for (const lang of Object.keys(LANGUAGES)) {
     const listicles = getAllListiclesTranslated(lang);
-    for (const listicle of listicles) {
-      // Use the localized slug for the URL
+    // Only pre-render top 20 per language; rest generated on-demand via ISR
+    for (const listicle of listicles.slice(0, 20)) {
       params.push({ lang, slug: listicle.slug });
     }
   }
