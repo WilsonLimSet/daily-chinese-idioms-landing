@@ -258,9 +258,10 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
             {listicle.idioms.map((item, index) => {
               if (!item.idiom) return null;
               return (
-                <div
+                <Link
+                  href={item.blogSlug ? `/blog/${item.blogSlug}` : `/blog`}
                   key={item.idiom.id}
-                  className="group flex items-center gap-4 bg-white/80 backdrop-blur-sm rounded-xl p-4 border border-white hover:bg-white hover:shadow-lg hover:border-blue-200 hover:-translate-y-0.5 transition-all duration-200 cursor-default"
+                  className="group flex items-center gap-4 bg-white/80 backdrop-blur-sm rounded-xl p-4 border border-white hover:bg-white hover:shadow-lg hover:border-blue-200 hover:-translate-y-0.5 transition-all duration-200"
                 >
                   <span className="flex-shrink-0 w-8 h-8 bg-gradient-to-br from-red-500 to-red-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow-sm">
                     {index + 1}
@@ -270,7 +271,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
                     <span className="text-gray-300 mx-2">·</span>
                     <span className="text-gray-600 text-sm">{item.idiom.metaphoric_meaning}</span>
                   </div>
-                </div>
+                </Link>
               );
             })}
           </div>
