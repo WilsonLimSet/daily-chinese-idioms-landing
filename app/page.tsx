@@ -2,7 +2,6 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Star, Shield, BookOpen } from 'lucide-react'
 import LanguageSelector from './components/LanguageSelector'
-import AdUnit from './components/AdUnit'
 
 // FAQ structured data for AI discoverability - static content, safe to embed
 const homepageFAQSchema = {
@@ -173,7 +172,6 @@ export default function Home() {
         </div>
       </section>
       
-      <AdUnit type="display" />
 
       {/* Enhanced Features Section */}
       <section className="bg-white py-16 relative">
@@ -203,7 +201,6 @@ export default function Home() {
         </div>
       </section>
 
-      <AdUnit type="multiplex" />
 
       {/* Enhanced Footer */}
       <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
