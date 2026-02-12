@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { Calendar, Filter, ChevronLeft, ChevronRight, Search } from 'lucide-react';
 import type { BlogPost } from '@/src/lib/blog';
-import { getTranslation } from '@/src/lib/translations';
+import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import { LOCALE_MAP } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
@@ -114,7 +114,7 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
                       : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                   }`}
                 >
-                  {theme} ({posts.filter(p => p.idiom.theme === theme).length})
+                  {getThemeTranslation(lang, theme)} ({posts.filter(p => p.idiom.theme === theme).length})
                 </button>
               ))}
             </div>
@@ -160,7 +160,7 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
                   
                   <div className="mt-3">
                     <span className="inline-block px-2 py-1 text-xs font-medium bg-gray-100 text-gray-600 rounded-full">
-                      {post.idiom.theme}
+                      {getThemeTranslation(lang, post.idiom.theme)}
                     </span>
                   </div>
                 </Link>

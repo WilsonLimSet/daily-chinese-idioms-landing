@@ -2685,6 +2685,171 @@ export const listicles: Listicle[] = [
     category: 'Character',
     publishedDate: '2025-08-16'
   },
+  {
+    slug: 'ancient-chinese-proverbs-about-life',
+    title: '15 Ancient Chinese Proverbs About Life That Still Ring True',
+    description: 'Timeless Chinese proverbs about life, fate, and finding balance. These ancient sayings offer wisdom that resonates just as powerfully today.',
+    metaDescription: 'Discover 15 ancient Chinese proverbs about life that still ring true. Timeless wisdom on balance, contentment, and living well from Chinese tradition.',
+    keywords: ['chinese proverbs about life', 'ancient chinese proverbs', 'chinese life wisdom', 'chinese sayings about living', 'traditional chinese proverbs', 'chinese wisdom quotes life'],
+    intro: 'For thousands of years, Chinese proverbs have distilled life\'s greatest truths into just four characters. These 15 ancient sayings about life, balance, and contentment remain as relevant today as when they were first spoken.',
+    idiomIds: ['ID007', 'ID015', 'ID018', 'ID075', 'ID084', 'ID121', 'ID229', 'ID295', 'ID301', 'ID303', 'ID310', 'ID335', 'ID495', 'ID433', 'ID566'],
+    category: 'Proverbs',
+    publishedDate: '2025-08-17'
+  },
+  {
+    slug: 'best-chinese-proverbs-with-meanings',
+    title: '12 Best Chinese Proverbs With Meanings Explained',
+    description: 'The most famous Chinese proverbs with full meanings explained. Each proverb includes literal translation, metaphorical meaning, and cultural context.',
+    metaDescription: 'Learn the 12 best Chinese proverbs with meanings explained. Famous chengyu with literal translations, metaphors, and cultural context for each.',
+    keywords: ['best chinese proverbs', 'chinese proverbs with meanings', 'famous chinese proverbs explained', 'chinese proverbs translation', 'chinese sayings meaning', 'popular chinese proverbs'],
+    intro: 'What makes a Chinese proverb truly great? It\'s the ability to compress profound wisdom into just a few characters. Here are 12 of the most celebrated Chinese proverbs, each with its full meaning, origin story, and cultural context explained.',
+    idiomIds: ['ID005', 'ID009', 'ID018', 'ID022', 'ID084', 'ID106', 'ID141', 'ID196', 'ID233', 'ID295', 'ID514', 'ID603'],
+    category: 'Proverbs',
+    publishedDate: '2025-08-18'
+  },
+  {
+    slug: 'chinese-proverbs-about-strength',
+    title: '10 Chinese Proverbs About Strength & Resilience',
+    description: 'Powerful Chinese proverbs about inner strength, resilience, and the courage to overcome any obstacle life throws your way.',
+    metaDescription: 'Find strength in 10 Chinese proverbs about resilience and courage. These powerful sayings inspire perseverance through life\'s toughest challenges.',
+    keywords: ['chinese proverbs about strength', 'chinese resilience sayings', 'chinese proverbs perseverance', 'chinese courage quotes', 'strong chinese proverbs', 'chinese sayings about overcoming'],
+    intro: 'Chinese culture deeply values inner strength - the kind that bends but never breaks. These 10 proverbs have inspired generations to face adversity with courage, push through impossible odds, and emerge stronger on the other side.',
+    idiomIds: ['ID005', 'ID092', 'ID155', 'ID156', 'ID201', 'ID224', 'ID268', 'ID426', 'ID444', 'ID627'],
+    category: 'Proverbs',
+    publishedDate: '2025-08-19'
+  },
+  {
+    slug: 'chinese-proverbs-about-family',
+    title: '10 Chinese Proverbs About Family & Filial Piety',
+    description: 'Heartfelt Chinese proverbs about family bonds, filial piety, and the deep respect for parents and elders in Chinese culture.',
+    metaDescription: 'Honor family with 10 Chinese proverbs about filial piety and family bonds. These sayings capture the deep respect for family in Chinese tradition.',
+    keywords: ['chinese proverbs about family', 'chinese family sayings', 'filial piety proverbs', 'chinese proverbs parents', 'chinese family wisdom', 'chinese sayings about elders'],
+    intro: 'Family is the cornerstone of Chinese culture, and filial piety (孝, xiào) remains one of its highest virtues. These 10 proverbs celebrate family bonds, respect for elders, and the deep roots that connect us to where we came from.',
+    idiomIds: ['ID134', 'ID300', 'ID343', 'ID420', 'ID584', 'ID601', 'ID602', 'ID603', 'ID613', 'ID614'],
+    category: 'Proverbs',
+    publishedDate: '2025-08-20'
+  },
+  {
+    slug: 'chinese-proverbs-for-students',
+    title: '10 Chinese Proverbs for Students & Lifelong Learners',
+    description: 'Inspiring Chinese proverbs about education, study habits, and the pursuit of knowledge for students of all ages.',
+    metaDescription: 'Stay motivated with 10 Chinese proverbs for students. These ancient sayings about education and learning inspire dedication to knowledge.',
+    keywords: ['chinese proverbs for students', 'chinese education sayings', 'chinese proverbs about learning', 'chinese study motivation', 'chinese wisdom education', 'chinese sayings about knowledge'],
+    intro: 'Education has been revered in Chinese culture for millennia, producing some of the world\'s most powerful sayings about learning. Whether you\'re a student or a lifelong learner, these 10 proverbs will inspire you to keep pushing forward.',
+    idiomIds: ['ID003', 'ID010', 'ID016', 'ID058', 'ID098', 'ID099', 'ID390', 'ID577', 'ID582', 'ID583'],
+    category: 'Proverbs',
+    publishedDate: '2025-08-21'
+  },
+  {
+    slug: 'chinese-sayings-about-love',
+    title: '10 Beautiful Chinese Sayings About Love & Devotion',
+    description: 'Romantic Chinese sayings about love, devotion, and eternal bonds. These poetic expressions capture the depth of love in Chinese culture.',
+    metaDescription: 'Express love with 10 beautiful Chinese sayings about devotion and romance. These poetic expressions capture eternal love in Mandarin.',
+    keywords: ['chinese sayings about love', 'chinese love quotes', 'romantic chinese sayings', 'chinese devotion expressions', 'mandarin love phrases', 'chinese sayings romance'],
+    intro: 'Chinese literature and poetry have given us some of the most beautiful expressions of love ever written. These 10 sayings capture every facet of devotion - from childhood sweethearts to eternal promises that outlast the stars.',
+    idiomIds: ['ID248', 'ID385', 'ID531', 'ID605', 'ID606', 'ID608', 'ID610', 'ID611', 'ID612', 'ID602'],
+    category: 'Sayings',
+    publishedDate: '2025-08-22'
+  },
+  {
+    slug: 'chinese-sayings-about-success',
+    title: '10 Chinese Sayings About Success & Hard Work',
+    description: 'Motivating Chinese sayings about success, hard work, and the dedication it takes to achieve your goals.',
+    metaDescription: 'Achieve your goals with 10 Chinese sayings about success and hard work. These powerful expressions celebrate dedication and achievement.',
+    keywords: ['chinese sayings about success', 'chinese hard work quotes', 'chinese success proverbs', 'mandarin sayings achievement', 'chinese work ethic sayings', 'chinese sayings about effort'],
+    intro: 'In Chinese culture, success is never accidental - it\'s earned through relentless effort and unwavering dedication. These 10 sayings celebrate the work ethic and determination that turn ordinary people into extraordinary achievers.',
+    idiomIds: ['ID014', 'ID120', 'ID143', 'ID154', 'ID166', 'ID358', 'ID482', 'ID507', 'ID579', 'ID653'],
+    category: 'Sayings',
+    publishedDate: '2025-08-23'
+  },
+  {
+    slug: 'chinese-sayings-about-friendship',
+    title: '10 Chinese Sayings About Friendship & Loyalty',
+    description: 'Meaningful Chinese sayings about true friendship, loyalty, and the bonds that stand the test of time.',
+    metaDescription: 'Celebrate bonds with 10 Chinese sayings about friendship and loyalty. These expressions honor true friendship and unwavering trust.',
+    keywords: ['chinese sayings about friendship', 'chinese friendship quotes', 'chinese loyalty sayings', 'mandarin friendship expressions', 'chinese best friend sayings', 'chinese sayings about trust'],
+    intro: 'True friendship in Chinese culture goes beyond casual companionship - it means standing together through storms, sharing complete trust, and forming bonds so deep they become legendary. These 10 sayings capture that spirit.',
+    idiomIds: ['ID031', 'ID035', 'ID118', 'ID196', 'ID534', 'ID594', 'ID596', 'ID598', 'ID599', 'ID600'],
+    category: 'Sayings',
+    publishedDate: '2025-08-24'
+  },
+  {
+    slug: 'chinese-sayings-about-patience',
+    title: '10 Wise Chinese Sayings About Patience & Perseverance',
+    description: 'Wise Chinese sayings about patience, perseverance, and the power of steady, persistent effort over time.',
+    metaDescription: 'Master patience with 10 wise Chinese sayings about perseverance. These ancient expressions teach the power of steady, persistent effort.',
+    keywords: ['chinese sayings about patience', 'chinese perseverance quotes', 'chinese patience proverbs', 'mandarin sayings persistence', 'chinese sayings about endurance', 'chinese wisdom patience'],
+    intro: 'The Chinese have a saying: water drops can pierce stone. That philosophy of patient, persistent effort runs deep through Chinese wisdom. These 10 sayings remind us that the greatest achievements come not from speed, but from never giving up.',
+    idiomIds: ['ID009', 'ID088', 'ID090', 'ID106', 'ID107', 'ID109', 'ID233', 'ID287', 'ID469', 'ID632'],
+    category: 'Sayings',
+    publishedDate: '2025-08-25'
+  },
+  {
+    slug: 'chinese-sayings-about-change',
+    title: '10 Chinese Sayings About Change & New Beginnings',
+    description: 'Uplifting Chinese sayings about change, transformation, and embracing new beginnings with courage and optimism.',
+    metaDescription: 'Embrace change with 10 Chinese sayings about new beginnings. These uplifting expressions inspire courage during life\'s biggest transitions.',
+    keywords: ['chinese sayings about change', 'chinese new beginnings quotes', 'chinese transformation sayings', 'mandarin sayings about change', 'chinese sayings fresh start', 'chinese wisdom change'],
+    intro: 'Change is the only constant, and Chinese wisdom has always embraced this truth. Whether you\'re starting fresh after a setback or simply seeking growth, these 10 sayings about transformation and new beginnings will light your way forward.',
+    idiomIds: ['ID060', 'ID064', 'ID085', 'ID267', 'ID335', 'ID354', 'ID395', 'ID414', 'ID451', 'ID525'],
+    category: 'Sayings',
+    publishedDate: '2025-08-26'
+  },
+  {
+    slug: 'chinese-quotes-for-motivation',
+    title: '12 Powerful Chinese Quotes for Daily Motivation',
+    description: 'Powerful Chinese quotes to fuel your daily motivation. These concise four-character expressions pack a punch of encouragement and drive.',
+    metaDescription: 'Get motivated with 12 powerful Chinese quotes for daily inspiration. These concise expressions fuel drive, ambition, and positive energy.',
+    keywords: ['chinese quotes motivation', 'motivational chinese quotes', 'chinese daily inspiration', 'chinese quotes for encouragement', 'mandarin motivational sayings', 'chinese quotes to live by'],
+    intro: 'Need a daily dose of motivation? Chinese four-character quotes deliver maximum inspiration in minimum words. These 12 powerful expressions have motivated scholars, warriors, and dreamers for centuries - and they\'ll do the same for you.',
+    idiomIds: ['ID001', 'ID014', 'ID021', 'ID032', 'ID049', 'ID201', 'ID221', 'ID260', 'ID289', 'ID354', 'ID514', 'ID576'],
+    category: 'Quotes',
+    publishedDate: '2025-08-27'
+  },
+  {
+    slug: 'ancient-chinese-wisdom-quotes',
+    title: '15 Ancient Chinese Wisdom Quotes to Live By',
+    description: 'Profound ancient Chinese wisdom quotes from Confucian, Taoist, and classical traditions. Timeless life guidance in just four characters each.',
+    metaDescription: 'Live wisely with 15 ancient Chinese wisdom quotes. Profound four-character sayings from Confucian and Taoist traditions for modern life.',
+    keywords: ['ancient chinese wisdom', 'chinese wisdom quotes', 'confucius quotes chinese', 'taoist wisdom sayings', 'chinese philosophy quotes', 'ancient chinese quotes wisdom'],
+    intro: 'The greatest minds in Chinese history - Confucius, Laozi, Zhuangzi, and countless others - left behind wisdom so profound it still guides millions today. These 15 ancient quotes distill thousands of years of philosophy into truths you can live by.',
+    idiomIds: ['ID006', 'ID015', 'ID024', 'ID039', 'ID091', 'ID094', 'ID112', 'ID131', 'ID133', 'ID137', 'ID229', 'ID269', 'ID474', 'ID631', 'ID655'],
+    category: 'Quotes',
+    publishedDate: '2025-08-28'
+  },
+  {
+    slug: 'chinese-quotes-about-happiness',
+    title: '10 Chinese Quotes About Happiness & Inner Peace',
+    description: 'Serene Chinese quotes about happiness, contentment, and finding inner peace. Ancient wisdom for a calmer, more fulfilled life.',
+    metaDescription: 'Find serenity with 10 Chinese quotes about happiness and inner peace. Ancient wisdom for contentment and calm in modern life.',
+    keywords: ['chinese quotes happiness', 'chinese inner peace quotes', 'chinese contentment sayings', 'chinese quotes about peace', 'mandarin happiness expressions', 'chinese serenity wisdom'],
+    intro: 'In a world obsessed with more, Chinese philosophy offers a radical alternative: happiness through contentment, peace through simplicity. These 10 quotes reveal the ancient Chinese secret to lasting happiness - and it\'s not what you might expect.',
+    idiomIds: ['ID103', 'ID104', 'ID295', 'ID303', 'ID325', 'ID340', 'ID363', 'ID409', 'ID462', 'ID566'],
+    category: 'Quotes',
+    publishedDate: '2025-08-29'
+  },
+  {
+    slug: 'inspirational-chinese-quotes',
+    title: '12 Inspirational Chinese Quotes That Will Change Your Perspective',
+    description: 'Inspirational Chinese quotes that shift your perspective on success, failure, and what truly matters in life.',
+    metaDescription: 'Change your perspective with 12 inspirational Chinese quotes. These powerful expressions offer fresh insight on success, failure, and life.',
+    keywords: ['inspirational chinese quotes', 'chinese quotes perspective', 'chinese inspirational sayings', 'powerful chinese quotes', 'chinese quotes about life', 'inspiring chinese wisdom'],
+    intro: 'Sometimes all it takes is a single phrase to shift your entire perspective. These 12 inspirational Chinese quotes have been doing exactly that for centuries - challenging assumptions, revealing hidden truths, and inspiring people to see the world differently.',
+    idiomIds: ['ID076', 'ID084', 'ID108', 'ID154', 'ID168', 'ID221', 'ID261', 'ID268', 'ID342', 'ID444', 'ID468', 'ID545'],
+    category: 'Quotes',
+    publishedDate: '2025-08-30'
+  },
+  {
+    slug: 'chinese-philosophy-quotes-life-lessons',
+    title: '10 Chinese Philosophy Quotes & Life Lessons',
+    description: 'Deep Chinese philosophy quotes that teach essential life lessons about consequences, timing, and the wisdom of knowing when to act.',
+    metaDescription: 'Learn life lessons from 10 Chinese philosophy quotes. Deep wisdom about consequences, timing, and self-awareness from Chinese tradition.',
+    keywords: ['chinese philosophy quotes', 'chinese life lessons', 'chinese philosophical sayings', 'chinese wisdom life lessons', 'confucian philosophy quotes', 'chinese quotes about wisdom'],
+    intro: 'Chinese philosophy doesn\'t just offer abstract ideas - it offers practical life lessons tested over millennia. These 10 philosophical quotes teach timeless truths about consequences, timing, and the wisdom that comes from honest self-reflection.',
+    idiomIds: ['ID024', 'ID075', 'ID097', 'ID138', 'ID145', 'ID157', 'ID227', 'ID282', 'ID504', 'ID631'],
+    category: 'Quotes',
+    publishedDate: '2025-08-31'
+  },
 ];
 
 export function getListiclesForIdiom(idiomId: string, limit = 3): Listicle[] {
@@ -2749,9 +2914,12 @@ export function getAllListiclesTranslated(lang?: string): (Listicle | Translated
 }
 
 // Get listicle by localized slug (for URL routing)
+// Falls back to matching by originalSlug so English slugs work on translated pages
 export function getListicleBySlug(slug: string, lang?: string): (Listicle | TranslatedListicle) | null {
   const allListicles = getAllListiclesTranslated(lang);
-  return allListicles.find(l => l.slug === slug) || null;
+  return allListicles.find(l => l.slug === slug)
+    || allListicles.find(l => (l as TranslatedListicle).originalSlug === slug)
+    || null;
 }
 
 // Get listicle by original English slug (for cross-language linking)

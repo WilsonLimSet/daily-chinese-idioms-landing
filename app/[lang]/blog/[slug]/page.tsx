@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { Calendar, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
-import { getTranslation } from '@/src/lib/translations';
+import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -214,7 +214,7 @@ export default async function InternationalBlogPostPage({
           name: `${getTranslation(lang, 'faqMeaningQuestion')} ${post.idiom.characters} ${getTranslation(lang, 'meaningInEnglish')}`,
           acceptedAnswer: {
             '@type': 'Answer',
-            text: `${post.idiom.characters} (${post.idiom.pinyin}) ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}" ${getTranslation(lang, 'faqMeaningAnswer2')} "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer3')} ${post.idiom.theme} ${getTranslation(lang, 'faqMeaningAnswer4')}.`
+            text: `${post.idiom.characters} (${post.idiom.pinyin}) ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}" ${getTranslation(lang, 'faqMeaningAnswer2')} "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer3')} ${getThemeTranslation(lang, post.idiom.theme)} ${getTranslation(lang, 'faqMeaningAnswer4')}.`
           }
         },
         {
@@ -293,7 +293,7 @@ export default async function InternationalBlogPostPage({
                 href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
                 className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
               >
-                {post.idiom.theme}
+                {getThemeTranslation(lang, post.idiom.theme)}
               </Link>
             </div>
           </div>
@@ -303,7 +303,7 @@ export default async function InternationalBlogPostPage({
             <p className="text-lg font-medium text-gray-900 mb-2">
               {post.idiom.characters} ({pinyinVariants.withTones}) {getTranslation(lang, 'literally')} {getTranslation(lang, 'means')} &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo;
               {getTranslation(lang, 'andExpresses')} &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;.
-              {getTranslation(lang, 'usedWhen')} {post.idiom.theme.toLowerCase().replace('&', 'and')}.
+              {getTranslation(lang, 'usedWhen')} {getThemeTranslation(lang, post.idiom.theme).toLowerCase()}.
               {getTranslation(lang, 'originsFrom')}
             </p>
             <p className="text-sm text-gray-600 mt-2">
@@ -358,7 +358,7 @@ export default async function InternationalBlogPostPage({
         {relatedPosts.length > 0 && (
           <section className="mt-12 pt-8 border-t">
             <h2 className="text-2xl font-bold mb-2 text-gray-900">{getTranslation(lang, 'relatedIdiomsTitle')}</h2>
-            <p className="text-gray-800 mb-6">{getTranslation(lang, 'relatedIdiomsSubtitle')} {post.idiom.theme.toLowerCase()}</p>
+            <p className="text-gray-800 mb-6">{getTranslation(lang, 'relatedIdiomsSubtitle')} {getThemeTranslation(lang, post.idiom.theme).toLowerCase()}</p>
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
               {relatedPosts.map((relatedPost) => (
                 <Link
@@ -391,7 +391,7 @@ export default async function InternationalBlogPostPage({
               <p className="text-gray-800">
                 {post.idiom.characters} ({post.idiom.pinyin}) {getTranslation(lang, 'faqMeaningAnswer1')} &ldquo;{post.idiom.meaning}&rdquo;
                 {getTranslation(lang, 'faqMeaningAnswer2')} &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. {getTranslation(lang, 'faqMeaningAnswer3')}
-                {post.idiom.theme} {getTranslation(lang, 'faqMeaningAnswer4')}.
+                {getThemeTranslation(lang, post.idiom.theme)} {getTranslation(lang, 'faqMeaningAnswer4')}.
               </p>
             </div>
             <div>

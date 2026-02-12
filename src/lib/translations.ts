@@ -117,6 +117,11 @@ export const translations = {
     lifePhilosophy: "Life Philosophy",
     wisdomLearning: "Wisdom & Learning",
     relationships: "Relationships",
+    themeSuccessPerseverance: "Success & Perseverance",
+    themeLifePhilosophy: "Life Philosophy",
+    themeWisdomLearning: "Wisdom & Learning",
+    themeRelationshipsCharacter: "Relationships & Character",
+    themeStrategyAction: "Strategy & Action",
     themeNotFound: "Theme not found",
     idiomNotFound: "Idiom Not Found",
 
@@ -241,6 +246,11 @@ export const translations = {
     lifePhilosophy: "Filosofía de vida",
     wisdomLearning: "Sabiduría y aprendizaje",
     relationships: "Relaciones",
+    themeSuccessPerseverance: "Éxito y Perseverancia",
+    themeLifePhilosophy: "Filosofía de Vida",
+    themeWisdomLearning: "Sabiduría y Aprendizaje",
+    themeRelationshipsCharacter: "Relaciones y Carácter",
+    themeStrategyAction: "Estrategia y Acción",
     themeNotFound: "Tema no encontrado",
     idiomNotFound: "Modismo no encontrado",
 
@@ -365,6 +375,11 @@ export const translations = {
     lifePhilosophy: "Filosofi hidup",
     wisdomLearning: "Kebijaksanaan & Pembelajaran",
     relationships: "Hubungan",
+    themeSuccessPerseverance: "Keberhasilan & Ketekunan",
+    themeLifePhilosophy: "Filosofi Hidup",
+    themeWisdomLearning: "Kebijaksanaan & Pembelajaran",
+    themeRelationshipsCharacter: "Hubungan & Karakter",
+    themeStrategyAction: "Strategi & Tindakan",
     themeNotFound: "Tema tidak ditemukan",
     idiomNotFound: "Peribahasa tidak ditemukan",
 
@@ -492,6 +507,11 @@ export const translations = {
     lifePhilosophy: "人生哲学",
     wisdomLearning: "知恵と学び",
     relationships: "人間関係",
+    themeSuccessPerseverance: "成功と忍耐",
+    themeLifePhilosophy: "人生哲学",
+    themeWisdomLearning: "知恵と学び",
+    themeRelationshipsCharacter: "人間関係と人格",
+    themeStrategyAction: "戦略と行動",
     themeNotFound: "テーマが見つかりません",
     idiomNotFound: "故事成語が見つかりません",
 
@@ -618,6 +638,11 @@ export const translations = {
     lifePhilosophy: "Filosofia de vida",
     wisdomLearning: "Sabedoria e Aprendizado",
     relationships: "Relacionamentos",
+    themeSuccessPerseverance: "Sucesso e Perseverança",
+    themeLifePhilosophy: "Filosofia de Vida",
+    themeWisdomLearning: "Sabedoria e Aprendizado",
+    themeRelationshipsCharacter: "Relacionamentos e Caráter",
+    themeStrategyAction: "Estratégia e Ação",
     themeNotFound: "Tema não encontrado",
     idiomNotFound: "Provérbio não encontrado",
 
@@ -745,6 +770,11 @@ export const translations = {
     lifePhilosophy: "Triết lý sống",
     wisdomLearning: "Trí tuệ & Học tập",
     relationships: "Mối quan hệ",
+    themeSuccessPerseverance: "Thành Công & Kiên Trì",
+    themeLifePhilosophy: "Triết Lý Sống",
+    themeWisdomLearning: "Trí Tuệ & Học Tập",
+    themeRelationshipsCharacter: "Mối Quan Hệ & Tính Cách",
+    themeStrategyAction: "Chiến Lược & Hành Động",
     themeNotFound: "Không tìm thấy chủ đề",
     idiomNotFound: "Không tìm thấy thành ngữ",
 
@@ -873,6 +903,11 @@ export const translations = {
     lifePhilosophy: "Philosophie de vie",
     wisdomLearning: "Sagesse et Apprentissage",
     relationships: "Relations",
+    themeSuccessPerseverance: "Succès et Persévérance",
+    themeLifePhilosophy: "Philosophie de Vie",
+    themeWisdomLearning: "Sagesse et Apprentissage",
+    themeRelationshipsCharacter: "Relations et Caractère",
+    themeStrategyAction: "Stratégie et Action",
     themeNotFound: "Thème non trouvé",
     idiomNotFound: "Idiome non trouvé",
 
@@ -1000,6 +1035,11 @@ export const translations = {
     lifePhilosophy: "인생 철학",
     wisdomLearning: "지혜와 배움",
     relationships: "인간관계",
+    themeSuccessPerseverance: "성공과 인내",
+    themeLifePhilosophy: "인생 철학",
+    themeWisdomLearning: "지혜와 배움",
+    themeRelationshipsCharacter: "인간관계와 인격",
+    themeStrategyAction: "전략과 행동",
     themeNotFound: "주제를 찾을 수 없습니다",
     idiomNotFound: "고사성어를 찾을 수 없습니다",
 
@@ -1127,6 +1167,11 @@ export const translations = {
     lifePhilosophy: "ปรัชญาชีวิต",
     wisdomLearning: "ปัญญาและการเรียนรู้",
     relationships: "ความสัมพันธ์",
+    themeSuccessPerseverance: "ความสำเร็จและความอดทน",
+    themeLifePhilosophy: "ปรัชญาชีวิต",
+    themeWisdomLearning: "ปัญญาและการเรียนรู้",
+    themeRelationshipsCharacter: "ความสัมพันธ์และอุปนิสัย",
+    themeStrategyAction: "กลยุทธ์และการกระทำ",
     themeNotFound: "ไม่พบหัวข้อ",
     idiomNotFound: "ไม่พบสุภาษิต",
 
@@ -1250,6 +1295,11 @@ export const translations = {
     lifePhilosophy: "जीवन दर्शन",
     wisdomLearning: "ज्ञान और सीखना",
     relationships: "रिश्ते",
+    themeSuccessPerseverance: "सफलता और दृढ़ता",
+    themeLifePhilosophy: "जीवन दर्शन",
+    themeWisdomLearning: "ज्ञान और सीखना",
+    themeRelationshipsCharacter: "रिश्ते और चरित्र",
+    themeStrategyAction: "रणनीति और कार्रवाई",
     themeNotFound: "विषय नहीं मिला",
     idiomNotFound: "मुहावरा नहीं मिला",
 
@@ -1377,6 +1427,11 @@ export const translations = {
     lifePhilosophy: "فلسفة الحياة",
     wisdomLearning: "الحكمة والتعلم",
     relationships: "العلاقات",
+    themeSuccessPerseverance: "النجاح والمثابرة",
+    themeLifePhilosophy: "فلسفة الحياة",
+    themeWisdomLearning: "الحكمة والتعلم",
+    themeRelationshipsCharacter: "العلاقات والشخصية",
+    themeStrategyAction: "الاستراتيجية والعمل",
     themeNotFound: "الموضوع غير موجود",
     idiomNotFound: "المثل غير موجود",
 
@@ -1493,6 +1548,11 @@ export const translations = {
     lifePhilosophy: "Pilosopiya sa buhay",
     wisdomLearning: "Karunungan at Pag-aaral",
     relationships: "Mga Relasyon",
+    themeSuccessPerseverance: "Tagumpay at Pagtitiyaga",
+    themeLifePhilosophy: "Pilosopiya sa Buhay",
+    themeWisdomLearning: "Karunungan at Pag-aaral",
+    themeRelationshipsCharacter: "Mga Relasyon at Karakter",
+    themeStrategyAction: "Estratehiya at Aksyon",
     themeNotFound: "Hindi natagpuan ang tema",
     idiomNotFound: "Hindi natagpuan ang idyoma",
 
@@ -1608,6 +1668,11 @@ export const translations = {
     lifePhilosophy: "Falsafah hidup",
     wisdomLearning: "Kebijaksanaan & Pembelajaran",
     relationships: "Hubungan",
+    themeSuccessPerseverance: "Kejayaan & Ketabahan",
+    themeLifePhilosophy: "Falsafah Hidup",
+    themeWisdomLearning: "Kebijaksanaan & Pembelajaran",
+    themeRelationshipsCharacter: "Hubungan & Perwatakan",
+    themeStrategyAction: "Strategi & Tindakan",
     themeNotFound: "Tema tidak dijumpai",
     idiomNotFound: "Simpulan tidak dijumpai",
 
@@ -1723,6 +1788,11 @@ export const translations = {
     lifePhilosophy: "Философия жизни",
     wisdomLearning: "Мудрость и обучение",
     relationships: "Отношения",
+    themeSuccessPerseverance: "Успех и настойчивость",
+    themeLifePhilosophy: "Философия жизни",
+    themeWisdomLearning: "Мудрость и обучение",
+    themeRelationshipsCharacter: "Отношения и характер",
+    themeStrategyAction: "Стратегия и действие",
     themeNotFound: "Тема не найдена",
     idiomNotFound: "Идиома не найдена",
 
@@ -1734,4 +1804,18 @@ export function getTranslation(lang: string, key: keyof typeof translations.en):
   const langKey = lang as keyof typeof translations;
   const langTranslations = translations[langKey] as Record<string, string> | undefined;
   return langTranslations?.[key] || translations.en[key];
+}
+
+const THEME_TO_KEY: Record<string, keyof typeof translations.en> = {
+  'Success & Perseverance': 'themeSuccessPerseverance',
+  'Life Philosophy': 'themeLifePhilosophy',
+  'Wisdom & Learning': 'themeWisdomLearning',
+  'Relationships & Character': 'themeRelationshipsCharacter',
+  'Strategy & Action': 'themeStrategyAction',
+};
+
+export function getThemeTranslation(lang: string, theme: string): string {
+  const key = THEME_TO_KEY[theme];
+  if (!key) return theme;
+  return getTranslation(lang, key);
 }

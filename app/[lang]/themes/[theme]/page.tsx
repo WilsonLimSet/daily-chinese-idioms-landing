@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { getAllBlogPosts } from '@/src/lib/blog-intl';
 import { LANGUAGES } from '@/src/lib/constants';
-import { getTranslation } from '@/src/lib/translations';
+import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 import { getListiclesForTheme } from '@/src/lib/listicles';
@@ -151,7 +151,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
         {
           "@type": "ListItem",
           "position": 3,
-          "name": themeName,
+          "name": getThemeTranslation(lang, themeName),
           "item": `https://www.chineseidioms.com/${lang}/themes/${theme}`
         }
       ]
@@ -176,7 +176,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            {themeName} {getTranslation(lang, 'chineseIdiomsAbout')}
+            {getThemeTranslation(lang, themeName)} {getTranslation(lang, 'chineseIdiomsAbout')}
           </h1>
           <p className="text-gray-600 mt-4">
             {themePosts.length} {getTranslation(lang, 'idioms')}
@@ -222,7 +222,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
           const themeListicles = getListiclesForTheme(themeName);
           return themeListicles.length > 0 ? (
             <section className="mt-12">
-              <h2 className="text-2xl font-bold mb-4 text-gray-900">{getTranslation(lang, 'curatedListsFeaturing')} {themeName}</h2>
+              <h2 className="text-2xl font-bold mb-4 text-gray-900">{getTranslation(lang, 'curatedListsFeaturing')} {getThemeTranslation(lang, themeName)}</h2>
               <div className="grid gap-3 md:grid-cols-3">
                 {themeListicles.map(listicle => (
                   <Link
@@ -253,7 +253,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
                   href={`/${lang}/themes/${key}`}
                   className="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow"
                 >
-                  <h3 className="text-lg font-semibold text-gray-900">{name}</h3>
+                  <h3 className="text-lg font-semibold text-gray-900">{getThemeTranslation(lang, name)}</h3>
                 </Link>
               ))}
           </div>
