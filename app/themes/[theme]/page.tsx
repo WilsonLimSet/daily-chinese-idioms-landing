@@ -65,6 +65,12 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
       alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title: `Chinese Idioms About ${themeName} - Chengyu with English Meanings`,
+      description,
+      images: ['/og-image.png'],
+    },
     alternates: {
       canonical: `https://www.chineseidioms.com/themes/${theme}`,
       languages: {

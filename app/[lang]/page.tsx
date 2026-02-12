@@ -59,6 +59,12 @@ export async function generateMetadata({
       alternateLocale: alternateLocales,
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${getTranslation(lang, 'heroTitle')} | Chinese Idioms (${langName})`,
+      description: getTranslation(lang, 'heroDescription'),
+      images: ['/og-image.png'],
+    },
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}`,
       languages: {

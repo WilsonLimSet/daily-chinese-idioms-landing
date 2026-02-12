@@ -78,9 +78,17 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }))
   ];
 
-  // Multilingual theme pages
+  // Multilingual theme pages + dictionary pages
   const multilingualThemePages = [];
   for (const lang of LANGUAGE_CODES) {
+    // Dictionary pages per language
+    multilingualThemePages.push({
+      url: `${baseUrl}/${lang}/dictionary`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+    });
+
     for (const theme of THEME_SLUGS) {
       multilingualThemePages.push({
         url: `${baseUrl}/${lang}/themes/${theme}`,

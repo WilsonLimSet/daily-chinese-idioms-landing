@@ -79,6 +79,12 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
       alternateLocale: alternateLocales,
       type: 'website',
     },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${themeName} Chinese Idioms (${langName})`,
+      description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}. Chengyu with translations and cultural context.`,
+      images: ['/og-image.png'],
+    },
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
       languages: {

@@ -16,6 +16,12 @@ export const metadata: Metadata = {
     locale: 'en_US',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Chinese Idioms FAQ - 40+ Common Questions About Chengyu Answered',
+    description: 'Everything you need to know about Chinese idioms (chengyu). Common questions answered with examples.',
+    images: ['/og-image.png'],
+  },
   alternates: {
     canonical: 'https://www.chineseidioms.com/faq',
   },

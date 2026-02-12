@@ -40,6 +40,17 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   return {
     title: `Chinese Idioms Blog - ${langName} | 成语 Chengyu`,
     description: `Learn Chinese idioms (成语) with translations in ${langName}. Daily updates with meanings, examples, and cultural context.`,
+    keywords: [
+      'chinese idioms',
+      'chengyu',
+      '成语',
+      'chinese proverbs',
+      `chinese idioms ${langName.toLowerCase()}`,
+      `chengyu ${langName.toLowerCase()}`,
+      'learn chinese idioms',
+      'chinese idioms with english meanings',
+      langName,
+    ],
     openGraph: {
       title: `Chinese Idioms Blog - ${langName}`,
       description: `Learn Chinese idioms with translations in ${langName}`,
@@ -48,6 +59,12 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'website',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `Chinese Idioms Blog - ${langName} | 成语`,
+      description: `Learn Chinese idioms (成语) with translations in ${langName}. Daily updates with meanings and examples.`,
+      images: ['/og-image.png'],
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/blog`,

@@ -31,6 +31,12 @@ export const metadata: Metadata = {
     locale: 'en_US',
     type: 'website',
   },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings',
+    description: 'Complete chengyu dictionary. Browse 680+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
+    images: ['/og-image.png'],
+  },
   alternates: {
     canonical: 'https://www.chineseidioms.com/dictionary',
     languages: {
