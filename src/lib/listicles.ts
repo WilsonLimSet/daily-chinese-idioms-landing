@@ -2844,6 +2844,40 @@ export const listicles: Listicle[] = [
     category: 'Quotes',
     publishedDate: '2025-08-31'
   },
+  // CNY 2026 - Year of the Horse content push
+  {
+    slug: 'ma-shang-fa-cai-horse-year-wealth-idioms-2026',
+    title: '马上发财! 10 Chinese Idioms for Wealth and Fortune in Year of the Horse 2026',
+    description: 'Looking for 马上发财 (mǎ shàng fā cái) and more? These 10 Chinese idioms about wealth and good fortune are perfect for Year of the Horse 2026 greetings and wishes.',
+    metaDescription: '马上发财 (mǎ shàng fā cái) means "get rich immediately" - the most popular Year of the Horse greeting! Learn 10 Chinese idioms for wealth and fortune perfect for CNY 2026.',
+    keywords: ['马上发财 meaning', 'ma shang fa cai', 'year of the horse wealth idioms', 'chinese fortune idioms 2026', 'horse year greetings wealth', 'chinese new year money sayings', 'cny 2026 prosperity phrases', 'get rich chinese new year', '马年发财成语', 'lunar new year fortune wishes 2026'],
+    intro: 'During the Year of the Horse (马年), the most popular greeting is 马上发财 (mǎ shàng fā cái) - a clever pun where 马上 means both "on horseback" and "immediately," making it "get rich right away!" While 马上发财 isn\'t a classical idiom, it captures the spirit of horse-year prosperity. Here are 10 genuine Chinese idioms (成语) about wealth, fortune, and success that pair perfectly with your 马上发财 wishes.',
+    idiomIds: ['ID060', 'ID036', 'ID076', 'ID113', 'ID340', 'ID415', 'ID586', 'ID122', 'ID525', 'ID550'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-09-01'
+  },
+  {
+    slug: 'chinese-horse-idioms-complete-guide',
+    title: '8 Chinese Horse Idioms You Need to Know (马成语大全) - Year of the Horse 2026',
+    description: 'Beyond 马到成功: discover 8 fascinating Chinese horse idioms (马成语) about love, deception, caution, and everyday life for Year of the Horse 2026.',
+    metaDescription: 'Complete guide to Chinese horse idioms (马成语) for Year of the Horse 2026. Learn 8 lesser-known horse chengyu about love, deception, and everyday life beyond 马到成功.',
+    keywords: ['chinese horse idioms', 'horse proverbs chinese', '马成语大全', 'horse chengyu list', 'ma chengyu', 'year of the horse idioms all', 'chinese idioms with horse character', 'horse chinese sayings complete', '马的成语有哪些', 'all horse idioms chinese 2026'],
+    intro: 'You probably know 马到成功 (instant success) and 龙马精神 (dragon-horse vitality), but the Chinese language has many more horse idioms that reveal fascinating cultural wisdom. From childhood sweethearts (青梅竹马) to political deception (指鹿为马), these 8 horse idioms cover the full range of human experience - perfect knowledge for the Year of the Horse 2026.',
+    idiomIds: ['ID248', 'ID192', 'ID116', 'ID202', 'ID208', 'ID278', 'ID371', 'ID279'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-09-02'
+  },
+  {
+    slug: 'spring-festival-prosperity-idioms-2026',
+    title: '10 Chinese Idioms for a Prosperous Spring Festival 2026 (新春大吉)',
+    description: 'Celebrate Spring Festival 2026 with these 10 Chinese idioms about new beginnings, joy, and prosperity - perfect for 新春快乐 greetings.',
+    metaDescription: 'Celebrate Chinese New Year 2026 with 10 idioms for prosperity and fresh starts. Perfect Spring Festival greetings (新春祝福) for the Year of the Horse.',
+    keywords: ['spring festival idioms 2026', 'chinese new year prosperity sayings', '新春成语 2026', 'spring festival greetings chinese', 'cny fresh start idioms', 'chinese new year new beginning phrases', 'lunar new year 2026 blessings', 'spring festival wishes mandarin', '新春大吉成语', 'year of horse spring festival greetings'],
+    intro: 'Spring Festival (春节) is a time of renewal, hope, and fresh starts. As we welcome the Year of the Horse in 2026, these 10 idioms capture the spirit of 新春 (new spring) - from joyful celebrations to wishes for prosperity and positive transformation in the year ahead.',
+    idiomIds: ['ID586', 'ID571', 'ID414', 'ID185', 'ID395', 'ID085', 'ID040', 'ID489', 'ID119', 'ID680'],
+    category: 'Chinese New Year',
+    publishedDate: '2025-09-03'
+  },
 ];
 
 export function getListiclesForIdiom(idiomId: string, limit = 3): Listicle[] {
