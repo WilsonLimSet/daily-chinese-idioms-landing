@@ -28,7 +28,7 @@ export async function generateMetadata({
       title: `Chinese Idiom Lists - Curated Chengyu Collections (${langName})`,
       description: `Explore curated lists of Chinese idioms organized by topic in ${langName}.`,
       url: `https://www.chineseidioms.com/${lang}/blog/lists`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),
       type: 'website',
     },

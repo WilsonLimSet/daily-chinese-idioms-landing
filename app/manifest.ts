@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Daily Chinese Idioms',
+    name: 'Chinese Idioms',
     short_name: 'Chinese Idioms',
     description: 'Learn Chinese idioms (chengyu) with meanings, pronunciations, and examples. Daily updates with home screen widgets.',
     start_url: '/',

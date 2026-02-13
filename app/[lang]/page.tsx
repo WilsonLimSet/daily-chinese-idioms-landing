@@ -1,9 +1,11 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { Star, Shield, BookOpen } from 'lucide-react'
-import { getTranslation } from '@/src/lib/translations'
+import { BookOpen, Search, Layers, ArrowRight } from 'lucide-react'
+import { getTranslation, getThemeTranslation } from '@/src/lib/translations'
 import { LANGUAGES } from '@/src/lib/constants'
 import LanguageSelector from '../components/LanguageSelector'
+import { getAllBlogPosts } from '@/src/lib/blog'
+import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles'
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -17,21 +19,10 @@ export async function generateMetadata({
   const { lang } = await params;
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES] || 'English';
 
-  // Map language codes to OpenGraph locale codes
   const localeMap: { [key: string]: string } = {
-    'es': 'es_ES',
-    'pt': 'pt_BR',
-    'id': 'id_ID',
-    'vi': 'vi_VN',
-    'ja': 'ja_JP',
-    'ko': 'ko_KR',
-    'th': 'th_TH',
-    'hi': 'hi_IN',
-    'ar': 'ar_AR',
-    'fr': 'fr_FR',
-    'tl': 'tl_PH',
-    'ms': 'ms_MY',
-    'ru': 'ru_RU'
+    'es': 'es_ES', 'pt': 'pt_BR', 'id': 'id_ID', 'vi': 'vi_VN',
+    'ja': 'ja_JP', 'ko': 'ko_KR', 'th': 'th_TH', 'hi': 'hi_IN',
+    'ar': 'ar_AR', 'fr': 'fr_FR', 'tl': 'tl_PH', 'ms': 'ms_MY', 'ru': 'ru_RU'
   };
 
   const ogLocale = localeMap[lang] || 'en_US';
@@ -43,18 +34,14 @@ export async function generateMetadata({
     title: `${getTranslation(lang, 'heroTitle')} | Chinese Idioms (${langName})`,
     description: getTranslation(lang, 'heroDescription'),
     keywords: [
-      'chinese idioms',
-      'chengyu',
-      '成语',
-      'pinyin',
-      langName,
+      'chinese idioms', 'chengyu', '成语', 'pinyin', langName,
       `chinese idioms ${langName.toLowerCase()}`,
     ],
     openGraph: {
       title: `${getTranslation(lang, 'heroTitle')} | Chinese Idioms`,
       description: getTranslation(lang, 'heroDescription'),
       url: `https://www.chineseidioms.com/${lang}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'website',
@@ -78,163 +65,203 @@ export async function generateMetadata({
   };
 }
 
+const THEME_SLUGS = [
+  'success-perseverance',
+  'life-philosophy',
+  'wisdom-learning',
+  'relationships-character',
+  'strategy-action',
+];
+
+const THEME_DISPLAY_NAMES: { [key: string]: string } = {
+  'success-perseverance': 'Success & Perseverance',
+  'life-philosophy': 'Life Philosophy',
+  'wisdom-learning': 'Wisdom & Learning',
+  'relationships-character': 'Relationships & Character',
+  'strategy-action': 'Strategy & Action',
+};
+
+const POPULAR_IDIOMS = [
+  { characters: '爱屋及乌', pinyin: 'ai wu ji wu', slug: 'ai-wu-ji-wu' },
+  { characters: '莫名其妙', pinyin: 'mo ming qi miao', slug: 'mo-ming-qi-miao' },
+  { characters: '七上八下', pinyin: 'qi shang ba xia', slug: 'qi-shang-ba-xia' },
+  { characters: '一鸣惊人', pinyin: 'yi ming jing ren', slug: 'yi-ming-jing-ren' },
+  { characters: '百折不挠', pinyin: 'bai zhe bu nao', slug: 'bai-zhe-bu-nao' },
+  { characters: '知行合一', pinyin: 'zhi xing he yi', slug: 'zhi-xing-he-yi' },
+  { characters: '一模一样', pinyin: 'yi mu yi yang', slug: 'yi-mu-yi-yang' },
+  { characters: '学海无涯', pinyin: 'xue hai wu ya', slug: 'xue-hai-wu-ya' },
+];
+
+const FEATURED_LISTICLE_SLUGS = [
+  'chinese-idioms-for-business',
+  'chinese-idioms-about-love',
+  'chinese-idioms-for-tattoos',
+  'chinese-idioms-for-students',
+  'chinese-idioms-about-success',
+  'funny-chinese-idioms',
+];
+
 export default async function InternationalHomePage({
   params
 }: {
   params: Promise<{ lang: string }>
 }) {
   const { lang } = await params;
+  const allPosts = await getAllBlogPosts();
+  const allListicles = getAllListicles();
+
+  const translatedListicles = getAllListiclesTranslated(lang);
+  const featuredListicles = FEATURED_LISTICLE_SLUGS
+    .map(slug => {
+      const translated = translatedListicles.find(l => l.originalSlug === slug);
+      return translated || allListicles.find(l => l.slug === slug);
+    })
+    .filter(Boolean);
+
+  const themeCounts = THEME_SLUGS.reduce((acc, theme) => {
+    acc[theme] = allPosts.filter(post =>
+      post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-') === theme
+    ).length;
+    return acc;
+  }, {} as { [key: string]: number });
+
   return (
     <main className="min-h-screen bg-white flex flex-col">
 
-      {/* Enhanced Hero Section */}
-      <section className="flex-1 bg-gradient-to-b from-red-50 via-white to-white py-16 relative overflow-hidden">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,rgba(255,59,48,0.1),rgba(255,255,255,0))] pointer-events-none" />
+      {/* Hero Section */}
+      <section className="bg-gradient-to-b from-red-50 via-white to-white py-16 relative overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_120%,rgba(255,59,48,0.08),rgba(255,255,255,0))] pointer-events-none" />
         <div className="container mx-auto px-6 relative">
-          <div className="flex flex-col lg:flex-row items-center gap-12">
-            <div className="lg:w-1/2 lg:pr-8">
-              <div className="space-y-6">
-                <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 tracking-tight leading-tight">
-                  {getTranslation(lang, 'heroTitle')}{' '}
-                  <span className="text-[#FF3B30] inline-block relative mt-2 lg:mt-3">
-                    {getTranslation(lang, 'heroSubtitle')}
-                    <div className="absolute -bottom-1 left-0 w-full h-[2px] bg-[#FF3B30]/20 rounded-full"></div>
-                  </span>
-                </h1>
-                <p className="text-lg text-gray-600 leading-relaxed">
-                  {getTranslation(lang, 'heroDescription')}
-                </p>
-                <div className="pt-4">
-                  <a
-                    href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-block hover:opacity-80 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 rounded-lg"
-                    aria-label={getTranslation(lang, 'downloadAppStore')}
-                  >
-                    <Image
-                      src="/app-store-badge.svg"
-                      alt={getTranslation(lang, 'downloadAppStore')}
-                      width={160}
-                      height={53}
-                      priority
-                      className="w-40"
-                    />
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div className="lg:w-1/2">
-              <div className="relative">
-                <div
-                  className="absolute inset-0 bg-gradient-to-r from-red-400/30 to-red-300/30 blur-3xl rounded-full animate-pulse"
-                  style={{ animationDuration: '4s' }}
-                />
-                <div className="relative flex justify-center items-center gap-4 perspective-1000">
-                  <div className="transform-gpu transition-all duration-300 hover:scale-105 hover:-rotate-2 hover:shadow-2xl">
-                    <Image
-                      src="/app-screenshot.jpeg"
-                      alt={getTranslation(lang, 'heroDescription')}
-                      width={280}
-                      height={560}
-                      className="rounded-3xl shadow-xl"
-                      priority
-                    />
-                  </div>
-                  <div className="transform-gpu transition-all duration-300 hover:scale-105 hover:rotate-2 hover:shadow-2xl">
-                    <Image
-                      src="/widget-screenshot.jpeg"
-                      alt={getTranslation(lang, 'widgetDesc')}
-                      width={280}
-                      height={560}
-                      className="rounded-3xl shadow-xl"
-                      priority
-                    />
-                  </div>
-                </div>
-              </div>
+          <div className="max-w-3xl mx-auto text-center">
+            <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 tracking-tight leading-tight">
+              {getTranslation(lang, 'heroTitle')}{' '}
+              <span className="text-[#FF3B30] inline-block relative mt-2 lg:mt-3">
+                {getTranslation(lang, 'heroSubtitle')}
+                <div className="absolute -bottom-1 left-0 w-full h-[2px] bg-[#FF3B30]/20 rounded-full"></div>
+              </span>
+            </h1>
+            <p className="text-lg text-gray-600 leading-relaxed mt-6 max-w-2xl mx-auto">
+              {getTranslation(lang, 'heroDescription')}
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
+              <Link
+                href={`/${lang}/dictionary`}
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[#FF3B30] text-white font-semibold rounded-lg hover:bg-red-600 transition-colors"
+              >
+                <Search className="w-5 h-5" />
+                {getTranslation(lang, 'browseDictionary')}
+              </Link>
+              <Link
+                href={`/${lang}/themes/success-perseverance`}
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-white text-gray-900 font-semibold rounded-lg border-2 border-gray-200 hover:border-gray-300 hover:bg-gray-50 transition-colors"
+              >
+                <Layers className="w-5 h-5" />
+                {getTranslation(lang, 'exploreByTheme')}
+              </Link>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Popular Idioms Section - Internal Linking */}
+      {/* Browse by Theme */}
+      <section className="bg-white py-12 border-b border-gray-100">
+        <div className="container mx-auto px-6">
+          <h2 className="text-2xl font-bold text-gray-900 mb-8">{getTranslation(lang, 'browseByTheme')}</h2>
+          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+            {THEME_SLUGS.map((slug) => (
+              <Link
+                key={slug}
+                href={`/${lang}/themes/${slug}`}
+                className="p-4 bg-gray-50 rounded-lg border border-gray-100 hover:border-red-200 hover:bg-red-50 transition-all group"
+              >
+                <p className="font-semibold text-gray-900 group-hover:text-red-700 text-sm">
+                  {getThemeTranslation(lang, THEME_DISPLAY_NAMES[slug])}
+                </p>
+                <p className="text-xs text-red-600 font-medium mt-2">{themeCounts[slug] || 0} →</p>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Curated Collections */}
       <section className="bg-gray-50 py-12">
         <div className="container mx-auto px-6">
-          <h2 className="text-2xl font-bold mb-6 text-gray-900">
-            {getTranslation(lang, 'mostSearchedTitle')}
-          </h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
-            <Link href={`/${lang}/blog/ai-wu-ji-wu`} className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
-              <p className="font-bold text-gray-900">爱屋及乌</p>
-              <p className="text-sm text-gray-600">ai wu ji wu</p>
-              <p className="text-xs text-blue-600 mt-1">{getTranslation(lang, 'idiom1')}</p>
+          <div className="flex items-center justify-between mb-8">
+            <h2 className="text-2xl font-bold text-gray-900">{getTranslation(lang, 'curatedCollections')}</h2>
+            <Link href={`/${lang}/blog/lists`} className="text-red-600 hover:text-red-700 text-sm font-medium flex items-center gap-1">
+              {getTranslation(lang, 'viewAllLists')} <ArrowRight className="w-4 h-4" />
             </Link>
-            <Link href={`/${lang}/blog/mo-ming-qi-miao`} className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
-              <p className="font-bold text-gray-900">莫名其妙</p>
-              <p className="text-sm text-gray-600">mo ming qi miao</p>
-              <p className="text-xs text-blue-600 mt-1">{getTranslation(lang, 'idiom2')}</p>
-            </Link>
-            <Link href={`/${lang}/blog/qi-shang-ba-xia`} className="p-3 bg-white rounded-lg hover:shadow-md transition-shadow">
-              <p className="font-bold text-gray-900">七上八下</p>
-              <p className="text-sm text-gray-600">qi shang ba xia</p>
-              <p className="text-xs text-blue-600 mt-1">{getTranslation(lang, 'idiom3')}</p>
-            </Link>
-            <Link href={`/${lang}/blog`} className="p-3 bg-blue-50 border-2 border-blue-200 rounded-lg hover:bg-blue-100 transition-colors flex items-center justify-center">
-              <p className="text-blue-700 font-semibold">{getTranslation(lang, 'browseAllIdioms')}</p>
-            </Link>
+          </div>
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {featuredListicles.map((listicle) => (
+              <Link
+                key={listicle!.slug}
+                href={`/${lang}/blog/lists/${listicle!.slug}`}
+                className="p-5 bg-white rounded-lg border border-gray-100 hover:shadow-md transition-all"
+              >
+                <h3 className="font-semibold text-gray-900 mb-1">{listicle!.title}</h3>
+                <p className="text-sm text-gray-600 line-clamp-2">{listicle!.description}</p>
+                <p className="text-xs text-red-600 font-medium mt-3">{listicle!.idiomIds.length} →</p>
+              </Link>
+            ))}
           </div>
         </div>
       </section>
 
-
-      {/* Enhanced Features Section */}
-      <section className="bg-white py-16 relative">
+      {/* Most Searched Idioms */}
+      <section className="bg-white py-12 border-b border-gray-100">
         <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">
-            {getTranslation(lang, 'learnDailyTitle')}
-          </h2>
-          <div className="grid md:grid-cols-3 gap-8">
-            <div className="p-6 rounded-xl bg-gradient-to-b from-gray-50 to-white border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 group">
-              <div className="mb-4 transform-gpu transition-transform duration-300 group-hover:scale-110">
-                <Star className="w-8 h-8 text-[#FF3B30]" aria-hidden="true" />
-              </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-gray-900 transition-colors">
-                {getTranslation(lang, 'widgetTitle')}
-              </h3>
-              <p className="text-gray-600 leading-relaxed">
-                {getTranslation(lang, 'widgetDesc')}
-              </p>
-            </div>
-            <div className="p-6 rounded-xl bg-gradient-to-b from-gray-50 to-white border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 group">
-              <div className="mb-4 transform-gpu transition-transform duration-300 group-hover:scale-110">
-                <Shield className="w-8 h-8 text-[#FF3B30]" aria-hidden="true" />
-              </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-gray-900 transition-colors">
-                {getTranslation(lang, 'offlineTitle')}
-              </h3>
-              <p className="text-gray-600 leading-relaxed">
-                {getTranslation(lang, 'offlineDesc')}
-              </p>
-            </div>
-            <div className="p-6 rounded-xl bg-gradient-to-b from-gray-50 to-white border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300 group">
-              <div className="mb-4 transform-gpu transition-transform duration-300 group-hover:scale-110">
-                <BookOpen className="w-8 h-8 text-[#FF3B30]" aria-hidden="true" />
-              </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-3 group-hover:text-gray-900 transition-colors">
-                {getTranslation(lang, 'dailyUpdatesTitle')}
-              </h3>
-              <p className="text-gray-600 leading-relaxed">
-                {getTranslation(lang, 'dailyUpdatesDesc')}
-              </p>
-            </div>
+          <h2 className="text-2xl font-bold mb-6 text-gray-900">{getTranslation(lang, 'mostSearchedTitle')}</h2>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            {POPULAR_IDIOMS.map((idiom) => (
+              <Link key={idiom.slug} href={`/${lang}/blog/${idiom.slug}`} className="p-4 bg-gray-50 rounded-lg hover:shadow-md transition-all border border-gray-100 hover:border-red-200">
+                <p className="font-bold text-gray-900 text-lg">{idiom.characters}</p>
+                <p className="text-sm text-gray-500">{idiom.pinyin}</p>
+              </Link>
+            ))}
+          </div>
+          <div className="text-center mt-6">
+            <Link href={`/${lang}/dictionary`} className="text-red-600 hover:text-red-700 font-medium text-sm flex items-center justify-center gap-1">
+              {getTranslation(lang, 'browseDictionary')} ({allPosts.length}+) <ArrowRight className="w-4 h-4" />
+            </Link>
           </div>
         </div>
       </section>
 
+      {/* App Promo - Compact */}
+      <section className="bg-gray-50 py-8 border-t border-gray-100">
+        <div className="container mx-auto px-6">
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-6 max-w-2xl mx-auto">
+            <div className="text-center sm:text-left">
+              <h2 className="font-bold text-gray-900 text-lg flex items-center gap-2 justify-center sm:justify-start">
+                <BookOpen className="w-5 h-5 text-[#FF3B30]" />
+                {getTranslation(lang, 'learnOnTheGo')}
+              </h2>
+              <p className="text-sm text-gray-600 mt-1">
+                {getTranslation(lang, 'appPromoDesc')}
+              </p>
+            </div>
+            <a
+              href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block hover:opacity-80 transition-opacity shrink-0"
+              aria-label={getTranslation(lang, 'downloadAppStore')}
+            >
+              <Image
+                src="/app-store-badge.svg"
+                alt={getTranslation(lang, 'downloadAppStore')}
+                width={140}
+                height={47}
+                className="w-36"
+              />
+            </a>
+          </div>
+        </div>
+      </section>
 
-
-      {/* Enhanced Footer */}
+      {/* Footer */}
       <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
@@ -250,23 +277,16 @@ export default async function InternationalHomePage({
                 {getTranslation(lang, 'footerBuiltBy')}
               </a>
               <span className="hidden sm:inline text-gray-400">•</span>
-              <Link
-                href={`/${lang}/blog`}
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
+              <Link href={`/${lang}/blog`} className="text-gray-600 hover:text-gray-900 transition-colors">
                 {getTranslation(lang, 'footerBlog')}
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
-              <Link
-                href={`/${lang}/privacy`}
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
+              <Link href={`/${lang}/privacy`} className="text-gray-600 hover:text-gray-900 transition-colors">
                 {getTranslation(lang, 'footerPrivacy')}
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <LanguageSelector currentLang={lang} />
             </div>
-
           </div>
         </div>
       </footer>

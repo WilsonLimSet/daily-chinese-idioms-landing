@@ -22,7 +22,7 @@ export async function GET(request: Request) {
   const rss = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daily Chinese Idioms Blog</title>
+    <title>Chinese Idioms Blog</title>
     <link>${siteUrl}/blog</link>
     <description>Learn a new Chinese idiom every day with historical context and practical examples.</description>
     <language>en</language>

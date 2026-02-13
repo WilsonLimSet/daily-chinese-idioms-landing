@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     title: 'Browse Chinese Idioms by Theme',
     description: 'Explore 365+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
     url: 'https://www.chineseidioms.com/themes',
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     locale: 'en_US',
     alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     type: 'website',
@@ -67,7 +67,7 @@ export default async function ThemesIndexPage() {
     "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
-      "name": "Daily Chinese Idioms",
+      "name": "Chinese Idioms",
       "url": "https://www.chineseidioms.com"
     },
     "breadcrumb": {
@@ -183,7 +183,7 @@ export default async function ThemesIndexPage() {
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <p className="text-gray-600">© {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-gray-400">•</span>
               <a
                 href="https://wilsonlimset.com"

@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings',
     description: 'Complete chengyu dictionary. Browse 680+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
     url: 'https://www.chineseidioms.com/dictionary',
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     locale: 'en_US',
     type: 'website',
   },
@@ -84,7 +84,7 @@ export default async function DictionaryPage() {
     "inLanguage": "en",
     "isPartOf": {
       "@type": "WebSite",
-      "name": "Daily Chinese Idioms",
+      "name": "Chinese Idioms",
       "url": "https://www.chineseidioms.com"
     },
     "about": {
@@ -326,7 +326,7 @@ export default async function DictionaryPage() {
       <footer className="bg-white py-8 border-t">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-            <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms</p>
+            <p className="text-gray-600">© {new Date().getFullYear()} chineseidioms</p>
             <span className="hidden sm:inline text-gray-400">•</span>
             <a
               href="https://wilsonlimset.com"

@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Blog - Daily Chinese Idioms',
+  title: 'Blog - Chinese Idioms',
   description: 'Learn a new Chinese idiom every day with historical context and practical examples.',
   alternates: {
     types: {

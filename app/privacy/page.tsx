@@ -3,13 +3,13 @@ import { Metadata } from 'next'
 import { LANGUAGES } from '@/src/lib/constants'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy | Daily Chinese Idioms',
+  title: 'Privacy Policy | Chinese Idioms',
   description: 'Daily Chinese Idiom privacy policy - We do not collect, store, or share any personal information.',
   openGraph: {
-    title: 'Privacy Policy | Daily Chinese Idioms',
-    description: 'Privacy policy for Daily Chinese Idioms app',
+    title: 'Privacy Policy | Chinese Idioms',
+    description: 'Privacy policy for Chinese Idioms app',
     url: 'https://www.chineseidioms.com/privacy',
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     locale: 'en_US',
     alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     type: 'website',

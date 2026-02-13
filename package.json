@@ -21,6 +21,12 @@
     "remark": "^15.0.1",
     "remark-html": "^16.0.1"
   },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions",
+    "last 2 Edge versions"
+  ],
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@types/node": "^20",

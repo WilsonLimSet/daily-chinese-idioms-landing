@@ -76,13 +76,13 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       title,
       description,
       url: `https://www.chineseidioms.com/blog/${slug}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: 'en_US',
       alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
       type: 'article',
       publishedTime: post.date,
       modifiedTime: post.date,
-      authors: ['Daily Chinese Idioms'],
+      authors: ['Chinese Idioms'],
       tags: ['Chinese idioms', 'Chengyu', post.idiom.theme, 'Learn Chinese'],
     },
     twitter: {
@@ -169,12 +169,12 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       "dateModified": post.date,
       "author": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "url": "https://www.chineseidioms.com"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "logo": {
           "@type": "ImageObject",
           "url": `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
@@ -264,7 +264,6 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-8">
           <div className="flex items-center gap-3 mb-2">
-            <time className="text-gray-500 text-sm">{new Date(post.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
             <Link
               href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
               className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
@@ -281,8 +280,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             <p className="text-lg font-medium text-gray-900 mb-2">
               {post.idiom.characters} ({pinyinVariants.withTones}) literally means &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo; 
               and expresses &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;. 
-              This idiom is used when describing situations involving {post.idiom.theme.toLowerCase().replace('&', 'and')}. 
-              It originates from ancient Chinese literature and remains commonly used in modern Mandarin.
+              This idiom is used when describing situations involving {post.idiom.theme.toLowerCase().replace('&', 'and')}.
             </p>
             <p className="text-sm text-gray-600 mt-2">
               <strong>Also searched as:</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces}, 
@@ -430,7 +428,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">© {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <p className="text-gray-600">© {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-gray-400">•</span>
               <a
                 href="https://wilsonlimset.com"

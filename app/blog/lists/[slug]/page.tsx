@@ -32,11 +32,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       title: listicle.title,
       description: listicle.metaDescription,
       url: `https://www.chineseidioms.com/blog/lists/${slug}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: 'en_US',
       type: 'article',
       publishedTime: listicle.publishedDate,
-      authors: ['Daily Chinese Idioms'],
+      authors: ['Chinese Idioms'],
       tags: ['Chinese idioms', 'Chengyu', listicle.category, 'Learn Chinese'],
     },
     twitter: {
@@ -78,12 +78,12 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
       "dateModified": listicle.publishedDate,
       "author": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "url": "https://www.chineseidioms.com"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.chineseidioms.com/icon.png"
@@ -329,7 +329,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <p className="text-gray-600">&copy; {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <a
                 href="https://wilsonlimset.com"

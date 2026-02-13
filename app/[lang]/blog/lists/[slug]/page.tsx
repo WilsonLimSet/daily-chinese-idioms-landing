@@ -64,11 +64,11 @@ export async function generateMetadata({
       title: listicle.title,
       description: listicle.metaDescription,
       url: `https://www.chineseidioms.com/${lang}/blog/lists/${slug}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),
       type: 'article',
       publishedTime: listicle.publishedDate,
-      authors: ['Daily Chinese Idioms'],
+      authors: ['Chinese Idioms'],
       tags: ['Chinese idioms', 'Chengyu', listicle.category, 'Learn Chinese', langName],
     },
     twitter: {
@@ -116,12 +116,12 @@ export default async function TranslatedListiclePage({
       "inLanguage": lang,
       "author": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "url": "https://www.chineseidioms.com"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "Daily Chinese Idioms",
+        "name": "Chinese Idioms",
         "logo": {
           "@type": "ImageObject",
           "url": "https://www.chineseidioms.com/icon.png"

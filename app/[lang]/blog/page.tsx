@@ -56,7 +56,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
       title: `Chinese Idioms Blog - ${langName}`,
       description: `Learn Chinese idioms with translations in ${langName}`,
       url: `https://www.chineseidioms.com/${lang}/blog`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'website',
@@ -102,7 +102,7 @@ export default async function InternationalBlogPage({ params }: { params: Promis
     inLanguage: lang,
     isPartOf: {
       '@type': 'WebSite',
-      name: 'Daily Chinese Idioms',
+      name: 'Chinese Idioms',
       url: 'https://www.chineseidioms.com'
     },
     breadcrumb: {

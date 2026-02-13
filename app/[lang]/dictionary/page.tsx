@@ -50,7 +50,7 @@ export async function generateMetadata({
       title: `Chinese Idioms Dictionary - 365+ Chengyu | ${langName}`,
       description: `Complete searchable dictionary of Chinese idioms (chengyu) with pinyin, meanings, and examples in ${langName}.`,
       url: `https://www.chineseidioms.com/${lang}/dictionary`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       type: 'website',
     },
@@ -107,7 +107,7 @@ export default async function DictionaryPage({
     "inLanguage": lang,
     "isPartOf": {
       "@type": "WebSite",
-      "name": "Daily Chinese Idioms",
+      "name": "Chinese Idioms",
       "url": "https://www.chineseidioms.com"
     },
     "about": {

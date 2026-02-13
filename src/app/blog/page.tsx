@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Calendar } from 'lucide-react';
 
 export const metadata = {
-  title: 'Blog - Daily Chinese Idioms',
+  title: 'Blog - Chinese Idioms',
   description: 'Learn a new Chinese idiom every day with historical context and practical examples.',
   alternates: {
     types: {
@@ -21,7 +21,7 @@ export default async function BlogPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex justify-between items-center">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">Daily Chinese Idioms Blog</h1>
+              <h1 className="text-3xl font-bold text-gray-900">Chinese Idioms Blog</h1>
               <p className="mt-2 text-gray-600">One idiom a day, with stories and meanings</p>
             </div>
             <Link href="/" className="text-blue-600 hover:text-blue-700">

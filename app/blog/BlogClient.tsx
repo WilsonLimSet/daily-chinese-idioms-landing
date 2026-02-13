@@ -228,7 +228,7 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">© {new Date().getFullYear()} {lang === 'en' ? 'Daily Chinese Idioms' : getTranslation(lang, 'footerCopyright')}</p>
+              <p className="text-gray-600">© {new Date().getFullYear()} {lang === 'en' ? 'chineseidioms' : getTranslation(lang, 'footerCopyright')}</p>
               <span className="hidden sm:inline text-gray-400">•</span>
               <a
                 href="https://wilsonlimset.com"

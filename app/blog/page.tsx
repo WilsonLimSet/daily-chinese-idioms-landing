@@ -14,7 +14,7 @@ export const metadata = {
     title: '680+ Chinese Idioms (Chengyu) - English Meanings & Pinyin',
     description: 'Browse 680+ Chinese idioms with English translations, pinyin pronunciation & cultural context. Updated daily.',
     url: 'https://www.chineseidioms.com/blog',
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     locale: 'en_US',
     alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     type: 'website',

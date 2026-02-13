@@ -3,7 +3,7 @@ export const translations = {
     // Homepage
     heroTitle: "Chinese Idioms (成语): Meanings in English",
     heroSubtitle: "with Pinyin & Examples",
-    heroDescription: "Learn Chinese idioms (chengyu) through beautiful home screen widgets. Daily updates with pinyin pronunciation, English meanings, origins, and practical examples.",
+    heroDescription: "The most complete chengyu resource online. Browse by theme, explore curated lists, or search our full collection with English meanings, pinyin, and examples.",
     downloadAppStore: "Download on the App Store",
     chooseLanguage: "🌍 Choose Your Language / 选择语言",
     chooseLanguageDesc: "Read Chinese idioms in your preferred language",
@@ -18,7 +18,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Most Searched Chinese Idioms",
-    browseAllIdioms: "Browse All 365+ Idioms →",
+    browseAllIdioms: "Browse All Idioms →",
+    browseDictionary: "Browse Dictionary",
+    exploreByTheme: "Explore by Theme",
+    browseByTheme: "Browse by Theme",
+    curatedCollections: "Curated Idiom Collections",
+    viewAllLists: "View all",
+    learnOnTheGo: "Learn on the Go",
+    appPromoDesc: "Get a new idiom on your home screen every day with our free iOS app.",
 
     // Featured idioms
     idiom1: "Love me, love my dog",
@@ -33,16 +40,15 @@ export const translations = {
     dailyUpdatesDesc: "A new idiom appears each day with pinyin pronunciation, English translation, and its cultural background. Use the random button to see more.",
 
     // Footer
-    footerCopyright: "Daily Chinese Idioms",
+    footerCopyright: "chineseidioms",
     footerBuiltBy: "Built by Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Privacy Policy",
 
     // Blog page
-    blogTitle: "Daily Chinese Idioms Blog",
+    blogTitle: "Chinese Idioms Blog",
     blogSubtitle: "One idiom a day, with stories and meanings",
     curatedLists: "Curated Idiom Lists",
-    viewAllLists: "View all curated lists",
     home: "Home",
     backToHome: "← Back to Home",
     searchPlaceholder: "Search by Chinese characters, pinyin, or meaning...",
@@ -78,7 +84,6 @@ export const translations = {
     means: "means",
     andExpresses: "and expresses",
     usedWhen: "This idiom is used when describing situations involving",
-    originsFrom: "It originates from ancient Chinese literature and remains commonly used in modern Mandarin.",
     meaning: "meaning",
     inEnglish: "in english",
     literalMeaning: "Literal meaning",
@@ -105,14 +110,12 @@ export const translations = {
     exploreOtherThemes: "Explore Other Themes",
     chineseIdiomsAbout: "Chinese Idioms",
     curatedListsFeaturing: "Curated Lists Featuring",
-    browseDictionary: "Browse Dictionary",
     moreThemeIdioms: "More Idioms",
     chineseIdiomLists: "Chinese Idiom Lists",
     chineseIdiomListsDesc: "Explore our curated collections of Chinese idioms (chengyu) organized by topic. Each list features carefully selected idioms with meanings, origins, and practical examples.",
     quickReference: "Quick Reference",
     moreIdiomLists: "More Chinese Idiom Lists",
     viewList: "View list",
-    appPromoDesc: "Get a new Chinese idiom delivered to your home screen every day with our free iOS app. Features pinyin pronunciation, meanings, and cultural context.",
     successIdioms: "Success Idioms",
     lifePhilosophy: "Life Philosophy",
     wisdomLearning: "Wisdom & Learning",
@@ -133,7 +136,7 @@ export const translations = {
     // Homepage
     heroTitle: "Modismos Chinos (成语): Significados en Español",
     heroSubtitle: "con Pinyin y Ejemplos",
-    heroDescription: "Aprende modismos chinos (chengyu) a través de hermosos widgets para pantalla principal. Actualizaciones diarias con pronunciación pinyin, significados en español, orígenes y ejemplos prácticos.",
+    heroDescription: "El recurso de chengyu más completo en línea. Explora por tema, descubre listas seleccionadas o busca nuestra colección completa con significados en español, pinyin y ejemplos.",
     downloadAppStore: "Descargar en App Store",
     chooseLanguage: "🌍 Elige Tu Idioma / 选择语言",
     chooseLanguageDesc: "Lee modismos chinos en tu idioma preferido",
@@ -148,7 +151,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Modismos Chinos Más Buscados",
-    browseAllIdioms: "Explorar Todos los 365+ Modismos →",
+    browseAllIdioms: "Explorar Todos los Modismos →",
+    browseDictionary: "Explorar Diccionario",
+    exploreByTheme: "Explorar por Tema",
+    browseByTheme: "Explorar por Tema",
+    curatedCollections: "Colecciones de Modismos",
+    viewAllLists: "Ver todas",
+    learnOnTheGo: "Aprende en Cualquier Lugar",
+    appPromoDesc: "Recibe un nuevo modismo en tu pantalla cada día con nuestra app gratuita de iOS.",
 
     // Featured idioms
     idiom1: "Ama la casa, ama también su cuervo",
@@ -163,7 +173,7 @@ export const translations = {
     dailyUpdatesDesc: "Un nuevo modismo aparece cada día con pronunciación pinyin, traducción al español y su trasfondo cultural. Usa el botón aleatorio para ver más.",
 
     // Footer
-    footerCopyright: "Modismos Chinos Diarios",
+    footerCopyright: "Modismos Chinos",
     footerBuiltBy: "Construido por Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Política de Privacidad",
@@ -206,7 +216,6 @@ export const translations = {
     means: "significa",
     andExpresses: "y expresa",
     usedWhen: "Este modismo se usa cuando se describen situaciones que involucran",
-    originsFrom: "Se origina en la literatura china antigua y sigue siendo comúnmente usado en el mandarín moderno.",
     literalMeaning: "Significado literal",
     originUsage: "Origen y Uso",
     whenToUse: "Cuándo Usar",
@@ -232,16 +241,13 @@ export const translations = {
     exploreOtherThemes: "Explorar otros temas",
     chineseIdiomsAbout: "modismos chinos",
     curatedLists: "Listas curadas de modismos",
-    viewAllLists: "Ver todas las listas curadas",
     curatedListsFeaturing: "Listas curadas con",
-    browseDictionary: "Explorar diccionario",
     moreThemeIdioms: "Más modismos",
     chineseIdiomLists: "Listas de modismos chinos",
     chineseIdiomListsDesc: "Explore nuestras colecciones curadas de modismos chinos (chengyu) organizados por tema. Cada lista presenta modismos cuidadosamente seleccionados con significados, orígenes y ejemplos prácticos.",
     quickReference: "Referencia rápida",
     moreIdiomLists: "Más listas de modismos chinos",
     viewList: "Ver lista",
-    appPromoDesc: "Recibe un nuevo modismo chino en tu pantalla principal cada día con nuestra app gratuita para iOS. Incluye pronunciación pinyin, significados y contexto cultural.",
     successIdioms: "Modismos de éxito",
     lifePhilosophy: "Filosofía de vida",
     wisdomLearning: "Sabiduría y aprendizaje",
@@ -262,7 +268,7 @@ export const translations = {
     // Homepage
     heroTitle: "Peribahasa Tiongkok (成语): Makna dalam Bahasa Indonesia",
     heroSubtitle: "dengan Pinyin & Contoh",
-    heroDescription: "Pelajari peribahasa Tiongkok (chengyu) melalui widget layar utama yang indah. Pembaruan harian dengan pelafalan pinyin, makna dalam bahasa Indonesia, asal-usul, dan contoh praktis.",
+    heroDescription: "Sumber peribahasa Tiongkok terlengkap secara online. Jelajahi berdasarkan tema, temukan daftar pilihan, atau cari koleksi lengkap kami dengan makna, pinyin, dan contoh.",
     downloadAppStore: "Unduh di App Store",
     chooseLanguage: "🌍 Pilih Bahasa Anda / 选择语言",
     chooseLanguageDesc: "Baca peribahasa Tiongkok dalam bahasa pilihan Anda",
@@ -277,7 +283,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Peribahasa Tiongkok Paling Dicari",
-    browseAllIdioms: "Jelajahi Semua 365+ Peribahasa →",
+    browseAllIdioms: "Jelajahi Semua Peribahasa →",
+    browseDictionary: "Jelajahi Kamus",
+    exploreByTheme: "Jelajahi berdasarkan Tema",
+    browseByTheme: "Jelajahi berdasarkan Tema",
+    curatedCollections: "Koleksi Peribahasa Pilihan",
+    viewAllLists: "Lihat semua",
+    learnOnTheGo: "Belajar di Mana Saja",
+    appPromoDesc: "Dapatkan peribahasa baru di layar utama setiap hari dengan aplikasi iOS gratis kami.",
 
     // Featured idioms
     idiom1: "Cinta rumah, cinta juga gagaknya",
@@ -292,7 +305,7 @@ export const translations = {
     dailyUpdatesDesc: "Peribahasa baru muncul setiap hari dengan pelafalan pinyin, terjemahan bahasa Indonesia, dan latar belakang budayanya. Gunakan tombol acak untuk melihat lebih banyak.",
 
     // Footer
-    footerCopyright: "Peribahasa Tiongkok Harian",
+    footerCopyright: "Peribahasa Tiongkok",
     footerBuiltBy: "Dibuat oleh Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Kebijakan Privasi",
@@ -335,7 +348,6 @@ export const translations = {
     means: "berarti",
     andExpresses: "dan mengekspresikan",
     usedWhen: "Peribahasa ini digunakan ketika menggambarkan situasi yang melibatkan",
-    originsFrom: "Berasal dari sastra Tiongkok kuno dan tetap umum digunakan dalam bahasa Mandarin modern.",
     literalMeaning: "Makna literal",
     originUsage: "Asal & Penggunaan",
     whenToUse: "Kapan Menggunakan",
@@ -361,16 +373,13 @@ export const translations = {
     exploreOtherThemes: "Jelajahi tema lainnya",
     chineseIdiomsAbout: "peribahasa Tiongkok",
     curatedLists: "Daftar peribahasa kurasi",
-    viewAllLists: "Lihat semua daftar kurasi",
     curatedListsFeaturing: "Daftar kurasi yang menampilkan",
-    browseDictionary: "Jelajahi kamus",
     moreThemeIdioms: "Lebih banyak peribahasa",
     chineseIdiomLists: "Daftar peribahasa Tiongkok",
     chineseIdiomListsDesc: "Jelajahi koleksi kurasi peribahasa Tiongkok (chengyu) yang diorganisir berdasarkan topik. Setiap daftar menampilkan peribahasa pilihan dengan makna, asal-usul, dan contoh praktis.",
     quickReference: "Referensi cepat",
     moreIdiomLists: "Lebih banyak daftar peribahasa Tiongkok",
     viewList: "Lihat daftar",
-    appPromoDesc: "Dapatkan peribahasa Tiongkok baru di layar utama Anda setiap hari dengan aplikasi iOS gratis kami. Dilengkapi pelafalan pinyin, makna, dan konteks budaya.",
     successIdioms: "Peribahasa keberhasilan",
     lifePhilosophy: "Filosofi hidup",
     wisdomLearning: "Kebijaksanaan & Pembelajaran",
@@ -391,7 +400,7 @@ export const translations = {
     // Homepage
     heroTitle: "中国の故事成語（成语）：日本語での意味",
     heroSubtitle: "ピンインと例文付き",
-    heroDescription: "美しいホーム画面ウィジェットを通じて中国の故事成語（chengyu）を学びましょう。ピンイン発音、日本語の意味、起源、実践的な例文を毎日更新しています。",
+    heroDescription: "最も充実した故事成語オンラインリソース。テーマ別に探す、厳選リストを見る、または全コレクションを検索。意味、ピンイン、例文付き。",
     downloadAppStore: "App Storeでダウンロード",
     chooseLanguage: "🌍 言語を選択 / 选择语言",
     chooseLanguageDesc: "お好みの言語で中国の故事成語をお読みください",
@@ -406,7 +415,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "最も検索された中国故事成語",
-    browseAllIdioms: "365以上の故事成語をすべて見る →",
+    browseAllIdioms: "すべての故事成語を見る →",
+    browseDictionary: "辞書を見る",
+    exploreByTheme: "テーマ別に探す",
+    browseByTheme: "テーマ別に探す",
+    curatedCollections: "厳選故事成語集",
+    viewAllLists: "すべて見る",
+    learnOnTheGo: "外出先で学ぶ",
+    appPromoDesc: "無料のiOSアプリで毎日ホーム画面に新しい故事成語が届きます。",
 
     // Featured idioms
     idiom1: "坊主憎けりゃ袈裟まで憎い",
@@ -421,7 +437,7 @@ export const translations = {
     dailyUpdatesDesc: "毎日新しい故事成語がピンイン発音、日本語訳、文化的背景とともに表示されます。ランダムボタンでより多くを見ることができます。",
 
     // Footer
-    footerCopyright: "日刊中国故事成語",
+    footerCopyright: "中国故事成語",
     footerBuiltBy: "Wilson製作",
     footerBlog: "ブログ",
     footerPrivacy: "プライバシーポリシー",
@@ -460,7 +476,6 @@ export const translations = {
     means: "を意味し",
     andExpresses: "そして表現します",
     usedWhen: "この故事成語は、次のような状況を説明する際に使用されます",
-    originsFrom: "古代中国の文学に由来し、現代の標準中国語でも一般的に使用されています。",
     inEnglish: "日本語で",
     faqMeaningAnswer1: "は文字通り",
     faqMeaningAnswer2: "を意味し",
@@ -493,16 +508,13 @@ export const translations = {
     exploreOtherThemes: "他のテーマを探す",
     chineseIdiomsAbout: "中国故事成語",
     curatedLists: "厳選故事成語リスト",
-    viewAllLists: "すべての厳選リストを見る",
     curatedListsFeaturing: "厳選リスト：",
-    browseDictionary: "辞書を閲覧",
     moreThemeIdioms: "その他の故事成語",
     chineseIdiomLists: "中国故事成語リスト",
     chineseIdiomListsDesc: "テーマ別に整理された中国故事成語（成語）の厳選コレクションをご覧ください。各リストには、意味、起源、実用的な例文とともに厳選された故事成語が含まれています。",
     quickReference: "クイックリファレンス",
     moreIdiomLists: "その他の故事成語リスト",
     viewList: "リストを見る",
-    appPromoDesc: "無料のiOSアプリで毎日新しい中国故事成語をホーム画面に表示。ピンイン発音、意味、文化的背景を収録。",
     successIdioms: "成功の故事成語",
     lifePhilosophy: "人生哲学",
     wisdomLearning: "知恵と学び",
@@ -523,7 +535,7 @@ export const translations = {
     // Homepage
     heroTitle: "Idiomas Chineses (成语): Significados em Português",
     heroSubtitle: "com Pinyin e Exemplos",
-    heroDescription: "Aprenda idiomas chineses (chengyu) através de belos widgets de tela inicial. Atualizações diárias com pronúncia pinyin, significados em português, origens e exemplos práticos.",
+    heroDescription: "O recurso de chengyu mais completo online. Explore por tema, descubra listas selecionadas ou pesquise nossa coleção completa com significados, pinyin e exemplos.",
     downloadAppStore: "Baixar na App Store",
     chooseLanguage: "🌍 Escolha Seu Idioma / 选择语言",
     chooseLanguageDesc: "Leia idiomas chineses no seu idioma preferido",
@@ -538,7 +550,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Provérbios Chineses Mais Pesquisados",
-    browseAllIdioms: "Navegar por Todos os 365+ Provérbios →",
+    browseAllIdioms: "Navegar por Todos os Provérbios →",
+    browseDictionary: "Explorar Dicionário",
+    exploreByTheme: "Explorar por Tema",
+    browseByTheme: "Explorar por Tema",
+    curatedCollections: "Coleções de Provérbios",
+    viewAllLists: "Ver todas",
+    learnOnTheGo: "Aprenda em Qualquer Lugar",
+    appPromoDesc: "Receba um novo provérbio na tela inicial todos os dias com nosso app iOS gratuito.",
 
     // Featured idioms
     idiom1: "Ame-me, ame meu cachorro",
@@ -553,7 +572,7 @@ export const translations = {
     dailyUpdatesDesc: "Um novo provérbio aparece a cada dia com pronúncia pinyin, tradução em português e seu contexto cultural. Use o botão aleatório para ver mais.",
 
     // Footer
-    footerCopyright: "Provérbios Chineses Diários",
+    footerCopyright: "Provérbios Chineses",
     footerBuiltBy: "Criado por Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Política de Privacidade",
@@ -613,7 +632,6 @@ export const translations = {
     means: "significa",
     andExpresses: "e expressa",
     usedWhen: "Este provérbio é usado ao descrever situações envolvendo",
-    originsFrom: "Origina-se da literatura chinesa antiga e permanece comumente usado no mandarim moderno.",
     alsoSearchedAs: "Também pesquisado como:",
 
     // Navigation & UI
@@ -624,16 +642,13 @@ export const translations = {
     exploreOtherThemes: "Explorar outros temas",
     chineseIdiomsAbout: "provérbios chineses",
     curatedLists: "Listas curadas de provérbios",
-    viewAllLists: "Ver todas as listas curadas",
     curatedListsFeaturing: "Listas curadas com",
-    browseDictionary: "Explorar dicionário",
     moreThemeIdioms: "Mais provérbios",
     chineseIdiomLists: "Listas de provérbios chineses",
     chineseIdiomListsDesc: "Explore nossas coleções curadas de provérbios chineses (chengyu) organizados por tema. Cada lista apresenta provérbios cuidadosamente selecionados com significados, origens e exemplos práticos.",
     quickReference: "Referência rápida",
     moreIdiomLists: "Mais listas de provérbios chineses",
     viewList: "Ver lista",
-    appPromoDesc: "Receba um novo provérbio chinês na sua tela inicial todos os dias com nosso app gratuito para iOS. Inclui pronúncia pinyin, significados e contexto cultural.",
     successIdioms: "Provérbios de sucesso",
     lifePhilosophy: "Filosofia de vida",
     wisdomLearning: "Sabedoria e Aprendizado",
@@ -654,7 +669,7 @@ export const translations = {
     // Homepage
     heroTitle: "Thành Ngữ Trung Hoa (成语): Nghĩa trong Tiếng Việt",
     heroSubtitle: "với Pinyin & Ví dụ",
-    heroDescription: "Học thành ngữ Trung Hoa (chengyu) thông qua các widget màn hình chính đẹp mắt. Cập nhật hàng ngày với phát âm pinyin, nghĩa tiếng Việt, nguồn gốc và ví dụ thực tế.",
+    heroDescription: "Nguồn tài liệu thành ngữ Trung Hoa đầy đủ nhất trực tuyến. Duyệt theo chủ đề, khám phá danh sách được tuyển chọn, hoặc tìm kiếm bộ sưu tập với ý nghĩa, pinyin và ví dụ.",
     downloadAppStore: "Tải xuống trên App Store",
     chooseLanguage: "🌍 Chọn Ngôn Ngữ Của Bạn / 选择语言",
     chooseLanguageDesc: "Đọc thành ngữ Trung Hoa bằng ngôn ngữ ưa thích của bạn",
@@ -669,7 +684,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Thành Ngữ Trung Hoa Được Tìm Kiếm Nhiều Nhất",
-    browseAllIdioms: "Duyệt Tất Cả 365+ Thành Ngữ →",
+    browseAllIdioms: "Duyệt Tất Cả Thành Ngữ →",
+    browseDictionary: "Duyệt Từ Điển",
+    exploreByTheme: "Khám phá theo Chủ đề",
+    browseByTheme: "Khám phá theo Chủ đề",
+    curatedCollections: "Bộ Sưu Tập Thành Ngữ",
+    viewAllLists: "Xem tất cả",
+    learnOnTheGo: "Học Mọi Lúc Mọi Nơi",
+    appPromoDesc: "Nhận một thành ngữ mới trên màn hình chính mỗi ngày với ứng dụng iOS miễn phí.",
 
     // Featured idioms
     idiom1: "Yêu tôi, yêu cả con chó của tôi",
@@ -684,7 +706,7 @@ export const translations = {
     dailyUpdatesDesc: "Một thành ngữ mới xuất hiện mỗi ngày với phát âm pinyin, bản dịch tiếng Việt và bối cảnh văn hóa của nó. Sử dụng nút ngẫu nhiên để xem thêm.",
 
     // Footer
-    footerCopyright: "Thành Ngữ Trung Hoa Hàng Ngày",
+    footerCopyright: "Thành Ngữ Trung Hoa",
     footerBuiltBy: "Được xây dựng bởi Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Chính Sách Bảo Mật",
@@ -723,7 +745,6 @@ export const translations = {
     means: "có nghĩa là",
     andExpresses: "và thể hiện",
     usedWhen: "Thành ngữ này được sử dụng khi mô tả các tình huống liên quan đến",
-    originsFrom: "Nó bắt nguồn từ văn học Trung Hoa cổ đại và vẫn thường được sử dụng trong tiếng Quan Thoại hiện đại.",
     inEnglish: "bằng tiếng Việt",
     faqMeaningAnswer1: "theo nghĩa đen có nghĩa là",
     faqMeaningAnswer2: "và được sử dụng để thể hiện",
@@ -756,16 +777,13 @@ export const translations = {
     exploreOtherThemes: "Khám phá chủ đề khác",
     chineseIdiomsAbout: "thành ngữ Trung Hoa",
     curatedLists: "Danh sách thành ngữ tuyển chọn",
-    viewAllLists: "Xem tất cả danh sách tuyển chọn",
     curatedListsFeaturing: "Danh sách tuyển chọn có",
-    browseDictionary: "Duyệt từ điển",
     moreThemeIdioms: "Thêm thành ngữ",
     chineseIdiomLists: "Danh sách thành ngữ Trung Hoa",
     chineseIdiomListsDesc: "Khám phá các bộ sưu tập thành ngữ Trung Hoa (chengyu) được tuyển chọn theo chủ đề. Mỗi danh sách có các thành ngữ được chọn lọc kỹ với ý nghĩa, nguồn gốc và ví dụ thực tế.",
     quickReference: "Tham khảo nhanh",
     moreIdiomLists: "Thêm danh sách thành ngữ Trung Hoa",
     viewList: "Xem danh sách",
-    appPromoDesc: "Nhận một thành ngữ Trung Hoa mới trên màn hình chính mỗi ngày với ứng dụng iOS miễn phí. Bao gồm phát âm pinyin, ý nghĩa và bối cảnh văn hóa.",
     successIdioms: "Thành ngữ thành công",
     lifePhilosophy: "Triết lý sống",
     wisdomLearning: "Trí tuệ & Học tập",
@@ -787,7 +805,7 @@ export const translations = {
     // Homepage
     heroTitle: "Idiomes Chinois (成语) : Significations en Français",
     heroSubtitle: "avec Pinyin et Exemples",
-    heroDescription: "Apprenez les idiomes chinois (chengyu) grâce à de beaux widgets d'écran d'accueil. Mises à jour quotidiennes avec prononciation pinyin, significations en français, origines et exemples pratiques.",
+    heroDescription: "La ressource d'idiomes chinois la plus complète en ligne. Parcourez par thème, explorez des listes sélectionnées ou recherchez notre collection avec significations, pinyin et exemples.",
     downloadAppStore: "Télécharger sur l'App Store",
     chooseLanguage: "🌍 Choisissez Votre Langue / 选择语言",
     chooseLanguageDesc: "Lisez les idiomes chinois dans votre langue préférée",
@@ -802,7 +820,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Idiomes Chinois Les Plus Recherchés",
-    browseAllIdioms: "Parcourir Tous les 365+ Idiomes →",
+    browseAllIdioms: "Parcourir Tous les Idiomes →",
+    browseDictionary: "Parcourir le Dictionnaire",
+    exploreByTheme: "Explorer par Thème",
+    browseByTheme: "Explorer par Thème",
+    curatedCollections: "Collections d'Idiomes",
+    viewAllLists: "Voir toutes",
+    learnOnTheGo: "Apprenez Partout",
+    appPromoDesc: "Recevez un nouvel idiome sur votre écran d'accueil chaque jour avec notre app iOS gratuite.",
 
     // Featured idioms
     idiom1: "Aime-moi, aime mon chien",
@@ -817,7 +842,7 @@ export const translations = {
     dailyUpdatesDesc: "Un nouvel idiome apparaît chaque jour avec la prononciation pinyin, la traduction française et son contexte culturel. Utilisez le bouton aléatoire pour en voir davantage.",
 
     // Footer
-    footerCopyright: "Idiomes Chinois Quotidiens",
+    footerCopyright: "Idiomes Chinois",
     footerBuiltBy: "Créé par Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Politique de Confidentialité",
@@ -856,7 +881,6 @@ export const translations = {
     means: "signifie",
     andExpresses: "et exprime",
     usedWhen: "Cet idiome est utilisé lors de la description de situations impliquant",
-    originsFrom: "Il provient de la littérature chinoise ancienne et reste couramment utilisé dans le mandarin moderne.",
     inEnglish: "en français",
     faqMeaningAnswer1: "se traduit littéralement par",
     faqMeaningAnswer2: "et est utilisé pour exprimer",
@@ -889,16 +913,13 @@ export const translations = {
     exploreOtherThemes: "Explorer d'autres thèmes",
     chineseIdiomsAbout: "idiomes chinois",
     curatedLists: "Listes d'idiomes sélectionnés",
-    viewAllLists: "Voir toutes les listes sélectionnées",
     curatedListsFeaturing: "Listes préparées avec",
-    browseDictionary: "Parcourir le dictionnaire",
     moreThemeIdioms: "Plus d'idiomes",
     chineseIdiomLists: "Listes d'idiomes chinois",
     chineseIdiomListsDesc: "Explorez nos collections d'idiomes chinois (chengyu) organisées par thème. Chaque liste présente des idiomes soigneusement sélectionnés avec leurs significations, origines et exemples pratiques.",
     quickReference: "Référence rapide",
     moreIdiomLists: "Plus de listes d'idiomes chinois",
     viewList: "Voir la liste",
-    appPromoDesc: "Recevez un nouvel idiome chinois sur votre écran d'accueil chaque jour avec notre application iOS gratuite. Inclut la prononciation pinyin, les significations et le contexte culturel.",
     successIdioms: "Idiomes de succès",
     lifePhilosophy: "Philosophie de vie",
     wisdomLearning: "Sagesse et Apprentissage",
@@ -919,7 +940,7 @@ export const translations = {
     // Homepage
     heroTitle: "중국 고사성어 (成语): 한국어 의미",
     heroSubtitle: "병음과 예문 포함",
-    heroDescription: "아름다운 홈 화면 위젯을 통해 중국 고사성어(chengyu)를 배워보세요. 병음 발음, 한국어 의미, 기원, 실용적인 예문을 매일 업데이트합니다.",
+    heroDescription: "가장 완벽한 온라인 고사성어 리소스. 주제별 탐색, 엄선된 목록 발견, 또는 의미, 병음, 예문이 포함된 전체 컬렉션 검색.",
     downloadAppStore: "App Store에서 다운로드",
     chooseLanguage: "🌍 언어 선택 / 选择语言",
     chooseLanguageDesc: "원하는 언어로 중국 고사성어 읽기",
@@ -934,7 +955,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "가장 많이 검색된 중국 고사성어",
-    browseAllIdioms: "365개 이상의 모든 고사성어 보기 →",
+    browseAllIdioms: "모든 고사성어 보기 →",
+    browseDictionary: "사전 탐색",
+    exploreByTheme: "주제별 탐색",
+    browseByTheme: "주제별 탐색",
+    curatedCollections: "엄선 고사성어 모음",
+    viewAllLists: "모두 보기",
+    learnOnTheGo: "어디서든 학습",
+    appPromoDesc: "무료 iOS 앱으로 매일 홈 화면에서 새로운 고사성어를 만나보세요.",
 
     // Featured idioms
     idiom1: "나를 사랑한다면 내 개도 사랑해주세요",
@@ -949,7 +977,7 @@ export const translations = {
     dailyUpdatesDesc: "매일 새로운 고사성어가 병음 발음, 한국어 번역, 문화적 배경과 함께 나타납니다. 랜덤 버튼을 사용하여 더 많이 볼 수 있습니다.",
 
     // Footer
-    footerCopyright: "매일 중국 고사성어",
+    footerCopyright: "중국 고사성어",
     footerBuiltBy: "Wilson 제작",
     footerBlog: "블로그",
     footerPrivacy: "개인정보 보호정책",
@@ -988,7 +1016,6 @@ export const translations = {
     means: "의미는",
     andExpresses: "이며 다음을 표현합니다",
     usedWhen: "이 고사성어는 다음과 관련된 상황을 설명할 때 사용됩니다",
-    originsFrom: "고대 중국 문학에서 유래했으며 현대 표준 중국어에서도 일반적으로 사용됩니다.",
     inEnglish: "한국어로",
     faqMeaningAnswer1: "문자 그대로 번역하면",
     faqMeaningAnswer2: "이며 다음을 표현하는 데 사용됩니다",
@@ -1021,16 +1048,13 @@ export const translations = {
     exploreOtherThemes: "다른 주제 탐색",
     chineseIdiomsAbout: "중국 고사성어",
     curatedLists: "엄선된 고사성어 목록",
-    viewAllLists: "모든 엄선 목록 보기",
     curatedListsFeaturing: "엄선된 목록:",
-    browseDictionary: "사전 둘러보기",
     moreThemeIdioms: "더 많은 고사성어",
     chineseIdiomLists: "중국 고사성어 목록",
     chineseIdiomListsDesc: "주제별로 정리된 중국 고사성어(성어) 엄선 컬렉션을 탐색하세요. 각 목록에는 의미, 기원, 실용적인 예문과 함께 엄선된 고사성어가 포함되어 있습니다.",
     quickReference: "빠른 참조",
     moreIdiomLists: "더 많은 고사성어 목록",
     viewList: "목록 보기",
-    appPromoDesc: "무료 iOS 앱으로 매일 새로운 중국 고사성어를 홈 화면에서 받아보세요. 병음 발음, 의미, 문화적 배경을 포함합니다.",
     successIdioms: "성공 고사성어",
     lifePhilosophy: "인생 철학",
     wisdomLearning: "지혜와 배움",
@@ -1051,7 +1075,7 @@ export const translations = {
     // Homepage
     heroTitle: "สุภาษิตจีน (成语): ความหมายในภาษาไทย",
     heroSubtitle: "พร้อมพินอิน และตัวอย่าง",
-    heroDescription: "เรียนรู้สุภาษิตจีน (chengyu) ผ่านวิดเจ็ตหน้าจอหลักที่สวยงาม อัปเดตรายวันพร้อมการออกเสียงพินอิน ความหมายภาษาไทย ที่มา และตัวอย่างในทางปฏิบัติ",
+    heroDescription: "แหล่งข้อมูลสุภาษิตจีนที่สมบูรณ์ที่สุดออนไลน์ เรียกดูตามหัวข้อ สำรวจรายการคัดสรร หรือค้นหาคอลเลกชันทั้งหมดพร้อมความหมาย พินอิน และตัวอย่าง",
     downloadAppStore: "ดาวน์โหลดใน App Store",
     chooseLanguage: "🌍 เลือกภาษาของคุณ / 选择语言",
     chooseLanguageDesc: "อ่านสุภาษิตจีนในภาษาที่คุณต้องการ",
@@ -1066,7 +1090,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "สุภาษิตจีนที่ถูกค้นหามากที่สุด",
-    browseAllIdioms: "เรียกดูสุภาษิตทั้งหมด 365+ คำ →",
+    browseAllIdioms: "เรียกดูสุภาษิตทั้งหมด →",
+    browseDictionary: "เรียกดูพจนานุกรม",
+    exploreByTheme: "สำรวจตามหัวข้อ",
+    browseByTheme: "สำรวจตามหัวข้อ",
+    curatedCollections: "คอลเลกชันสุภาษิตคัดสรร",
+    viewAllLists: "ดูทั้งหมด",
+    learnOnTheGo: "เรียนรู้ทุกที่",
+    appPromoDesc: "รับสุภาษิตใหม่บนหน้าจอหลักทุกวันด้วยแอป iOS ฟรีของเรา",
 
     // Featured idioms
     idiom1: "รักฉัน รักหมาของฉันด้วย",
@@ -1081,7 +1112,7 @@ export const translations = {
     dailyUpdatesDesc: "สุภาษิตใหม่จะปรากฏขึ้นทุกวันพร้อมการออกเสียงพินอิน คำแปลภาษาไทย และพื้นหลังทางวัฒนธรรม ใช้ปุ่มสุ่มเพื่อดูเพิ่มเติม",
 
     // Footer
-    footerCopyright: "สุภาษิตจีนรายวัน",
+    footerCopyright: "สุภาษิตจีน",
     footerBuiltBy: "สร้างโดย Wilson",
     footerBlog: "บล็อก",
     footerPrivacy: "นโยบายความเป็นส่วนตัว",
@@ -1120,7 +1151,6 @@ export const translations = {
     means: "หมายถึง",
     andExpresses: "และแสดงออก",
     usedWhen: "สุภาษิตนี้ใช้เมื่ออธิบายสถานการณ์ที่เกี่ยวข้องกับ",
-    originsFrom: "มีต้นกำเนิดจากวรรณกรรมจีนโบราณและยังคงใช้กันทั่วไปในภาษาจีนกลางสมัยใหม่",
     inEnglish: "ในภาษาไทย",
     faqMeaningAnswer1: "แปลตามตัวอักษรว่า",
     faqMeaningAnswer2: "และใช้เพื่อแสดงออก",
@@ -1153,16 +1183,13 @@ export const translations = {
     exploreOtherThemes: "สำรวจหัวข้ออื่น",
     chineseIdiomsAbout: "สุภาษิตจีน",
     curatedLists: "รายการสุภาษิตคัดสรร",
-    viewAllLists: "ดูรายการคัดสรรทั้งหมด",
     curatedListsFeaturing: "รายการคัดสรรที่มี",
-    browseDictionary: "เรียกดูพจนานุกรม",
     moreThemeIdioms: "สุภาษิตเพิ่มเติม",
     chineseIdiomLists: "รายการสุภาษิตจีน",
     chineseIdiomListsDesc: "สำรวจคอลเลกชันสุภาษิตจีน (chengyu) ที่คัดสรรจัดตามหัวข้อ แต่ละรายการนำเสนอสุภาษิตที่คัดเลือกมาอย่างดีพร้อมความหมาย ที่มา และตัวอย่างในทางปฏิบัติ",
     quickReference: "อ้างอิงด่วน",
     moreIdiomLists: "รายการสุภาษิตจีนเพิ่มเติม",
     viewList: "ดูรายการ",
-    appPromoDesc: "รับสุภาษิตจีนใหม่บนหน้าจอหลักทุกวันด้วยแอป iOS ฟรีของเรา มีการออกเสียงพินอิน ความหมาย และบริบททางวัฒนธรรม",
     successIdioms: "สุภาษิตความสำเร็จ",
     lifePhilosophy: "ปรัชญาชีวิต",
     wisdomLearning: "ปัญญาและการเรียนรู้",
@@ -1183,7 +1210,7 @@ export const translations = {
     // Homepage
     heroTitle: "चीनी मुहावरे (成语): हिंदी में अर्थ",
     heroSubtitle: "पिनयिन और उदाहरण के साथ",
-    heroDescription: "सुंदर होम स्क्रीन विजेट के माध्यम से चीनी मुहावरे (chengyu) सीखें। पिनयिन उच्चारण, हिंदी अर्थ, उत्पत्ति और व्यावहारिक उदाहरणों के साथ दैनिक अपडेट।",
+    heroDescription: "सबसे संपूर्ण ऑनलाइन चीनी मुहावरा संसाधन। विषय के अनुसार ब्राउज़ करें, क्यूरेटेड सूचियाँ खोजें, या अर्थ, पिनयिन और उदाहरणों के साथ हमारा पूरा संग्रह खोजें।",
     downloadAppStore: "App Store पर डाउनलोड करें",
     chooseLanguage: "🌍 अपनी भाषा चुनें / 选择语言",
     chooseLanguageDesc: "अपनी पसंदीदा भाषा में चीनी मुहावरे पढ़ें",
@@ -1198,7 +1225,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "सबसे ज्यादा खोजे गए चीनी मुहावरे",
-    browseAllIdioms: "सभी 365+ मुहावरे देखें →",
+    browseAllIdioms: "सभी मुहावरे देखें →",
+    browseDictionary: "शब्दकोश ब्राउज़ करें",
+    exploreByTheme: "विषय के अनुसार खोजें",
+    browseByTheme: "विषय के अनुसार खोजें",
+    curatedCollections: "क्यूरेटेड मुहावरा संग्रह",
+    viewAllLists: "सभी देखें",
+    learnOnTheGo: "कहीं भी सीखें",
+    appPromoDesc: "हमारे मुफ्त iOS ऐप से हर दिन अपनी होम स्क्रीन पर एक नया मुहावरा पाएं।",
 
     // Featured idioms
     idiom1: "मुझसे प्यार करो, मेरे कुत्ते से भी प्यार करो",
@@ -1213,7 +1247,7 @@ export const translations = {
     dailyUpdatesDesc: "हर दिन एक नया मुहावरा पिनयिन उच्चारण, हिंदी अनुवाद और इसकी सांस्कृतिक पृष्ठभूमि के साथ दिखाई देता है। अधिक देखने के लिए रैंडम बटन का उपयोग करें।",
 
     // Footer
-    footerCopyright: "दैनिक चीनी मुहावरे",
+    footerCopyright: "चीनी मुहावरे",
     footerBuiltBy: "Wilson द्वारा निर्मित",
     footerBlog: "ब्लॉग",
     footerPrivacy: "गोपनीयता नीति",
@@ -1269,7 +1303,6 @@ export const translations = {
     means: "का मतलब है",
     andExpresses: "और व्यक्त करता है",
     usedWhen: "इस मुहावरे का उपयोग उन स्थितियों का वर्णन करते समय किया जाता है जिनमें शामिल है",
-    originsFrom: "यह प्राचीन चीनी साहित्य से उत्पन्न होता है और आधुनिक मंदारिन में आमतौर पर उपयोग किया जाता है।",
     inEnglish: "हिंदी में",
     alsoSearchedAs: "इस रूप में भी खोजा गया:",
 
@@ -1281,16 +1314,13 @@ export const translations = {
     exploreOtherThemes: "अन्य विषय देखें",
     chineseIdiomsAbout: "चीनी मुहावरे",
     curatedLists: "क्यूरेटेड मुहावरा सूचियाँ",
-    viewAllLists: "सभी क्यूरेटेड सूचियाँ देखें",
     curatedListsFeaturing: "इसमें शामिल क्यूरेटेड सूचियाँ",
-    browseDictionary: "शब्दकोश ब्राउज़ करें",
     moreThemeIdioms: "और मुहावरे",
     chineseIdiomLists: "चीनी मुहावरों की सूचियाँ",
     chineseIdiomListsDesc: "विषय के अनुसार व्यवस्थित चीनी मुहावरों (chengyu) के हमारे क्यूरेटेड संग्रहों का अन्वेषण करें। प्रत्येक सूची में अर्थ, उत्पत्ति और व्यावहारिक उदाहरणों के साथ सावधानीपूर्वक चयनित मुहावरे हैं।",
     quickReference: "त्वरित संदर्भ",
     moreIdiomLists: "और चीनी मुहावरा सूचियाँ",
     viewList: "सूची देखें",
-    appPromoDesc: "हमारे मुफ्त iOS ऐप के साथ हर दिन अपनी होम स्क्रीन पर एक नया चीनी मुहावरा प्राप्त करें। पिनयिन उच्चारण, अर्थ और सांस्कृतिक संदर्भ शामिल है।",
     successIdioms: "सफलता के मुहावरे",
     lifePhilosophy: "जीवन दर्शन",
     wisdomLearning: "ज्ञान और सीखना",
@@ -1311,7 +1341,7 @@ export const translations = {
     // Homepage
     heroTitle: "الأمثال الصينية (成语): المعاني باللغة العربية",
     heroSubtitle: "مع البينيين والأمثلة",
-    heroDescription: "تعلم الأمثال الصينية (chengyu) من خلال عناصر واجهة الشاشة الرئيسية الجميلة. تحديثات يومية مع نطق البينيين، والمعاني باللغة العربية، والأصول، والأمثلة العملية.",
+    heroDescription: "أكثر مصدر شامل للأمثال الصينية على الإنترنت. تصفح حسب الموضوع، اكتشف القوائم المختارة، أو ابحث في مجموعتنا الكاملة مع المعاني والبينيين والأمثلة.",
     downloadAppStore: "تحميل من App Store",
     chooseLanguage: "🌍 اختر لغتك / 选择语言",
     chooseLanguageDesc: "اقرأ الأمثال الصينية بلغتك المفضلة",
@@ -1326,7 +1356,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "الأمثال الصينية الأكثر بحثاً",
-    browseAllIdioms: "تصفح جميع الـ 365+ مثل →",
+    browseAllIdioms: "تصفح جميع الأمثال →",
+    browseDictionary: "تصفح القاموس",
+    exploreByTheme: "استكشف حسب الموضوع",
+    browseByTheme: "استكشف حسب الموضوع",
+    curatedCollections: "مجموعات أمثال مختارة",
+    viewAllLists: "عرض الكل",
+    learnOnTheGo: "تعلم في أي مكان",
+    appPromoDesc: "احصل على مثل جديد على شاشتك الرئيسية كل يوم مع تطبيق iOS المجاني.",
 
     // Featured idioms
     idiom1: "أحبني، أحب كلبي",
@@ -1341,7 +1378,7 @@ export const translations = {
     dailyUpdatesDesc: "يظهر مثل جديد كل يوم مع نطق البينيين والترجمة العربية وخلفيته الثقافية. استخدم زر العشوائية لرؤية المزيد.",
 
     // Footer
-    footerCopyright: "الأمثال الصينية اليومية",
+    footerCopyright: "الأمثال الصينية",
     footerBuiltBy: "تم البناء بواسطة Wilson",
     footerBlog: "المدونة",
     footerPrivacy: "سياسة الخصوصية",
@@ -1380,7 +1417,6 @@ export const translations = {
     means: "يعني",
     andExpresses: "ويعبر عن",
     usedWhen: "يُستخدم هذا المثل عند وصف المواقف التي تتعلق بـ",
-    originsFrom: "ينشأ من الأدب الصيني القديم ولا يزال يستخدم بشكل شائع في الماندرين الحديثة.",
     inEnglish: "بالعربية",
     faqMeaningAnswer1: "يترجم حرفياً إلى",
     faqMeaningAnswer2: "ويستخدم للتعبير عن",
@@ -1413,16 +1449,13 @@ export const translations = {
     exploreOtherThemes: "استكشاف مواضيع أخرى",
     chineseIdiomsAbout: "أمثال صينية",
     curatedLists: "قوائم الأمثال المختارة",
-    viewAllLists: "عرض جميع القوائم المختارة",
     curatedListsFeaturing: "قوائم مختارة تضم",
-    browseDictionary: "تصفح القاموس",
     moreThemeIdioms: "المزيد من الأمثال",
     chineseIdiomLists: "قوائم الأمثال الصينية",
     chineseIdiomListsDesc: "استكشف مجموعاتنا المختارة من الأمثال الصينية (chengyu) المنظمة حسب الموضوع. تحتوي كل قائمة على أمثال مختارة بعناية مع المعاني والأصول والأمثلة العملية.",
     quickReference: "مرجع سريع",
     moreIdiomLists: "المزيد من قوائم الأمثال الصينية",
     viewList: "عرض القائمة",
-    appPromoDesc: "احصل على مثل صيني جديد على شاشتك الرئيسية كل يوم مع تطبيقنا المجاني لـ iOS. يتضمن نطق البينيين والمعاني والسياق الثقافي.",
     successIdioms: "أمثال النجاح",
     lifePhilosophy: "فلسفة الحياة",
     wisdomLearning: "الحكمة والتعلم",
@@ -1443,7 +1476,7 @@ export const translations = {
     // Homepage
     heroTitle: "Mga Idyoma ng Tsino (成语): Kahulugan sa Tagalog",
     heroSubtitle: "may Pinyin at Halimbawa",
-    heroDescription: "Matuto ng mga idyoma ng Tsino (chengyu) sa pamamagitan ng magagandang home screen widgets. Pang-araw-araw na update na may pinyin pronunciation, kahulugan sa Tagalog, pinagmulan, at praktikal na halimbawa.",
+    heroDescription: "Ang pinakabuong mapagkukunan ng mga idyomang Tsino online. Mag-browse ayon sa tema, tuklasin ang mga listahan, o hanapin ang aming koleksyon na may kahulugan, pinyin, at mga halimbawa.",
     downloadAppStore: "I-download sa App Store",
     chooseLanguage: "🌍 Pumili ng Iyong Wika / 选择语言",
     chooseLanguageDesc: "Basahin ang mga idyoma ng Tsino sa iyong gustong wika",
@@ -1458,7 +1491,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Pinaka-hinanap na Mga Idyoma ng Tsino",
-    browseAllIdioms: "Tingnan Lahat ng 365+ Idyoma →",
+    browseAllIdioms: "Tingnan Lahat ng Idyoma →",
+    browseDictionary: "I-browse ang Diksyunaryo",
+    exploreByTheme: "Tuklasin ayon sa Tema",
+    browseByTheme: "Tuklasin ayon sa Tema",
+    curatedCollections: "Mga Koleksyon ng Idyoma",
+    viewAllLists: "Tingnan lahat",
+    learnOnTheGo: "Matuto Kahit Saan",
+    appPromoDesc: "Makakuha ng bagong idyoma sa iyong home screen araw-araw gamit ang aming libreng iOS app.",
 
     // Featured idioms
     idiom1: "Mahalin ako, mahalin din ang aking aso",
@@ -1471,7 +1511,7 @@ export const translations = {
     offlineDesc: "Ang app ay gumagana nang buo offline nang walang data collection. Lahat ng idyoma ay naka-store locally sa iyong device.",
     dailyUpdatesTitle: "Pang-araw-araw na Update",
     dailyUpdatesDesc: "Isang bagong idyoma ang lilitaw bawat araw na may pinyin pronunciation, pagsasalin sa Tagalog, at cultural background nito. Gamitin ang random button upang makakita ng higit pa.",
-    footerCopyright: "Pang-araw-araw na Mga Idyoma ng Tsino",
+    footerCopyright: "Mga Idyoma ng Tsino",
     footerBuiltBy: "Ginawa ni Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Patakaran sa Privacy",
@@ -1504,7 +1544,6 @@ export const translations = {
     means: "nangangahulugang",
     andExpresses: "at nagpapahayag ng",
     usedWhen: "Ang idyoma na ito ay ginagamit kapag naglalarawan ng mga sitwasyon na kinasasangkutan ng",
-    originsFrom: "Ito ay nagmula sa sinaunang panitikan ng Tsina at nananatiling karaniwang ginagamit sa modernong Mandarin.",
     inEnglish: "sa Tagalog",
     faqMeaningAnswer1: "literal na nagsasalin bilang",
     faqMeaningAnswer2: "at ginagamit upang ipahayag",
@@ -1534,16 +1573,13 @@ export const translations = {
     exploreOtherThemes: "Tuklasin ang ibang tema",
     chineseIdiomsAbout: "mga idyoma ng Tsino",
     curatedLists: "Mga curated na listahan ng idyoma",
-    viewAllLists: "Tingnan lahat ng curated na listahan",
     curatedListsFeaturing: "Mga curated na listahan na may",
-    browseDictionary: "Mag-browse ng diksyunaryo",
     moreThemeIdioms: "Higit pang mga idyoma",
     chineseIdiomLists: "Mga listahan ng idyoma ng Tsino",
     chineseIdiomListsDesc: "Galugarin ang aming mga curated collection ng mga idyoma ng Tsino (chengyu) na inayos ayon sa paksa. Ang bawat listahan ay nagtatampok ng mga maingat na napiling idyoma na may kahulugan, pinagmulan, at praktikal na halimbawa.",
     quickReference: "Mabilis na sanggunian",
     moreIdiomLists: "Higit pang mga listahan ng idyoma ng Tsino",
     viewList: "Tingnan ang listahan",
-    appPromoDesc: "Makatanggap ng bagong idyoma ng Tsino sa iyong home screen araw-araw gamit ang aming libreng iOS app. Kasama ang pinyin pronunciation, kahulugan, at cultural context.",
     successIdioms: "Mga idyoma ng tagumpay",
     lifePhilosophy: "Pilosopiya sa buhay",
     wisdomLearning: "Karunungan at Pag-aaral",
@@ -1563,7 +1599,7 @@ export const translations = {
     // Homepage
     heroTitle: "Simpulan Bahasa Cina (成语): Makna dalam Bahasa Melayu",
     heroSubtitle: "dengan Pinyin & Contoh",
-    heroDescription: "Pelajari simpulan bahasa Cina (chengyu) melalui widget skrin utama yang cantik. Kemas kini harian dengan sebutan pinyin, makna dalam bahasa Melayu, asal-usul, dan contoh praktikal.",
+    heroDescription: "Sumber simpulan bahasa Cina yang paling lengkap dalam talian. Layari mengikut tema, terokai senarai pilihan, atau cari koleksi penuh kami dengan makna, pinyin dan contoh.",
     downloadAppStore: "Muat turun di App Store",
     chooseLanguage: "🌍 Pilih Bahasa Anda / 选择语言",
     chooseLanguageDesc: "Baca simpulan bahasa Cina dalam bahasa pilihan anda",
@@ -1578,7 +1614,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Simpulan Bahasa Cina Yang Paling Dicari",
-    browseAllIdioms: "Lihat Semua 365+ Simpulan →",
+    browseAllIdioms: "Lihat Semua Simpulan →",
+    browseDictionary: "Layari Kamus",
+    exploreByTheme: "Terokai mengikut Tema",
+    browseByTheme: "Terokai mengikut Tema",
+    curatedCollections: "Koleksi Simpulan Bahasa Pilihan",
+    viewAllLists: "Lihat semua",
+    learnOnTheGo: "Belajar Di Mana-mana",
+    appPromoDesc: "Dapatkan simpulan bahasa baharu di skrin utama setiap hari dengan aplikasi iOS percuma kami.",
 
     // Featured idioms
     idiom1: "Cintailah aku, cintailah juga anjingku",
@@ -1591,7 +1634,7 @@ export const translations = {
     offlineDesc: "Aplikasi berfungsi sepenuhnya luar talian tanpa pengumpulan data. Semua simpulan disimpan secara tempatan pada peranti anda.",
     dailyUpdatesTitle: "Kemas Kini Harian",
     dailyUpdatesDesc: "Simpulan baru muncul setiap hari dengan sebutan pinyin, terjemahan bahasa Melayu, dan latar belakang budayanya. Gunakan butang rawak untuk melihat lebih banyak.",
-    footerCopyright: "Simpulan Bahasa Cina Harian",
+    footerCopyright: "Simpulan Bahasa Cina",
     footerBuiltBy: "Dibina oleh Wilson",
     footerBlog: "Blog",
     footerPrivacy: "Dasar Privasi",
@@ -1624,7 +1667,6 @@ export const translations = {
     means: "bermaksud",
     andExpresses: "dan menyatakan",
     usedWhen: "Simpulan ini digunakan semasa menggambarkan situasi yang melibatkan",
-    originsFrom: "Ia berasal dari kesusasteraan Cina purba dan kekal biasa digunakan dalam Mandarin moden.",
     inEnglish: "dalam bahasa Melayu",
     faqMeaningAnswer1: "secara literal diterjemahkan sebagai",
     faqMeaningAnswer2: "dan digunakan untuk menyatakan",
@@ -1654,16 +1696,13 @@ export const translations = {
     exploreOtherThemes: "Terokai tema lain",
     chineseIdiomsAbout: "simpulan bahasa Cina",
     curatedLists: "Senarai simpulan terpilih",
-    viewAllLists: "Lihat semua senarai terpilih",
     curatedListsFeaturing: "Senarai terpilih yang menampilkan",
-    browseDictionary: "Layari kamus",
     moreThemeIdioms: "Lebih banyak simpulan",
     chineseIdiomLists: "Senarai simpulan bahasa Cina",
     chineseIdiomListsDesc: "Terokai koleksi simpulan bahasa Cina (chengyu) terpilih kami yang disusun mengikut topik. Setiap senarai menampilkan simpulan yang dipilih dengan teliti beserta makna, asal-usul, dan contoh praktikal.",
     quickReference: "Rujukan pantas",
     moreIdiomLists: "Lagi senarai simpulan bahasa Cina",
     viewList: "Lihat senarai",
-    appPromoDesc: "Dapatkan simpulan bahasa Cina baru di skrin utama anda setiap hari dengan aplikasi iOS percuma kami. Termasuk sebutan pinyin, makna, dan konteks budaya.",
     successIdioms: "Simpulan kejayaan",
     lifePhilosophy: "Falsafah hidup",
     wisdomLearning: "Kebijaksanaan & Pembelajaran",
@@ -1683,7 +1722,7 @@ export const translations = {
     // Homepage
     heroTitle: "Китайские идиомы (成语): Значения на русском языке",
     heroSubtitle: "с пиньинь и примерами",
-    heroDescription: "Изучайте китайские идиомы (чэнъюй) с помощью красивых виджетов для главного экрана. Ежедневные обновления с произношением пиньинь, значениями на русском языке, происхождением и практическими примерами.",
+    heroDescription: "Самый полный онлайн-ресурс китайских идиом. Просматривайте по темам, изучайте подборки или ищите в полной коллекции со значениями, пиньинь и примерами.",
     downloadAppStore: "Скачать в App Store",
     chooseLanguage: "🌍 Выберите язык / 选择语言",
     chooseLanguageDesc: "Читайте китайские идиомы на выбранном языке",
@@ -1698,7 +1737,14 @@ export const translations = {
 
     // Homepage sections
     mostSearchedTitle: "Самые популярные китайские идиомы",
-    browseAllIdioms: "Просмотреть все 365+ идиом →",
+    browseAllIdioms: "Просмотреть все идиомы →",
+    browseDictionary: "Словарь идиом",
+    exploreByTheme: "Поиск по теме",
+    browseByTheme: "Поиск по теме",
+    curatedCollections: "Подборки идиом",
+    viewAllLists: "Смотреть все",
+    learnOnTheGo: "Учитесь везде",
+    appPromoDesc: "Получайте новую идиому на главном экране каждый день с нашим бесплатным приложением для iOS.",
 
     // Featured idioms
     idiom1: "Полюби меня, полюби и мою собаку",
@@ -1711,7 +1757,7 @@ export const translations = {
     offlineDesc: "Приложение работает полностью офлайн без сбора данных. Все идиомы хранятся локально на вашем устройстве.",
     dailyUpdatesTitle: "Ежедневные обновления",
     dailyUpdatesDesc: "Каждый день появляется новая идиома с произношением пиньинь, переводом на русский и её культурным контекстом. Используйте кнопку случайного выбора, чтобы увидеть больше.",
-    footerCopyright: "Ежедневные китайские идиомы",
+    footerCopyright: "Китайские идиомы",
     footerBuiltBy: "Создано Wilson",
     footerBlog: "Блог",
     footerPrivacy: "Политика конфиденциальности",
@@ -1744,7 +1790,6 @@ export const translations = {
     means: "означает",
     andExpresses: "и выражает",
     usedWhen: "Эта идиома используется при описании ситуаций, связанных с",
-    originsFrom: "Происходит из древнекитайской литературы и остаётся часто используемой в современном мандаринском языке.",
     inEnglish: "на русском языке",
     faqMeaningAnswer1: "буквально переводится как",
     faqMeaningAnswer2: "и используется для выражения",
@@ -1774,16 +1819,13 @@ export const translations = {
     exploreOtherThemes: "Другие темы",
     chineseIdiomsAbout: "китайские идиомы",
     curatedLists: "Подборки идиом",
-    viewAllLists: "Все подборки",
     curatedListsFeaturing: "Подборки с",
-    browseDictionary: "Просмотреть словарь",
     moreThemeIdioms: "Ещё идиомы",
     chineseIdiomLists: "Списки китайских идиом",
     chineseIdiomListsDesc: "Исследуйте наши подборки китайских идиом (чэнъюй), организованные по темам. Каждый список содержит тщательно отобранные идиомы со значениями, происхождением и практическими примерами.",
     quickReference: "Краткий справочник",
     moreIdiomLists: "Больше списков китайских идиом",
     viewList: "Смотреть список",
-    appPromoDesc: "Получайте новую китайскую идиому на главный экран каждый день с нашим бесплатным приложением для iOS. Включает произношение пиньинь, значения и культурный контекст.",
     successIdioms: "Идиомы успеха",
     lifePhilosophy: "Философия жизни",
     wisdomLearning: "Мудрость и обучение",

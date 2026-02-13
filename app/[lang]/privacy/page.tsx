@@ -35,13 +35,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     .map(l => localeMap[l] || 'en_US');
 
   return {
-    title: `${getTranslation(lang, 'footerPrivacy')} | Daily Chinese Idioms (${langName})`,
+    title: `${getTranslation(lang, 'footerPrivacy')} | Chinese Idioms (${langName})`,
     description: 'Daily Chinese Idiom privacy policy - We do not collect, store, or share any personal information.',
     openGraph: {
-      title: `${getTranslation(lang, 'footerPrivacy')} | Daily Chinese Idioms`,
-      description: 'Privacy policy for Daily Chinese Idioms app',
+      title: `${getTranslation(lang, 'footerPrivacy')} | Chinese Idioms`,
+      description: 'Privacy policy for Chinese Idioms app',
       url: `https://www.chineseidioms.com/${lang}/privacy`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'website',

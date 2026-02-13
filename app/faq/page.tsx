@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: 'Chinese Idioms FAQ - Your Questions Answered',
     description: 'Everything you need to know about Chinese idioms (chengyu). Common questions answered with examples.',
     url: 'https://www.chineseidioms.com/faq',
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     locale: 'en_US',
     type: 'website',
   },
@@ -83,7 +83,7 @@ const faqSections: FAQSection[] = [
       },
       {
         question: "What are the best apps for learning Chinese idioms?",
-        answer: "Our Daily Chinese Idioms app delivers one new idiom to your home screen every day with pinyin, meaning, origin story, and usage examples. For broader Chinese study, apps like Pleco (dictionary with idiom entries), Anki (spaced repetition flashcards), and HelloChinese (gamified learning) can complement your idiom study. The best approach combines a dedicated idiom app with reading Chinese content where you encounter idioms in context."
+        answer: "Our Chinese Idioms app delivers one new idiom to your home screen every day with pinyin, meaning, origin story, and usage examples. For broader Chinese study, apps like Pleco (dictionary with idiom entries), Anki (spaced repetition flashcards), and HelloChinese (gamified learning) can complement your idiom study. The best approach combines a dedicated idiom app with reading Chinese content where you encounter idioms in context."
       },
       {
         question: "Which Chinese idioms appear on the HSK exam?",
@@ -412,7 +412,7 @@ export default function FAQPage() {
         <div className="container mx-auto px-4">
           <div className="text-center space-y-4">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} Daily Chinese Idioms</p>
+              <p className="text-gray-600">&copy; {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-gray-400">&bull;</span>
               <a
                 href="https://wilsonlimset.com"

@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     url: 'https://www.chineseidioms.com',
     title: "Chinese Idioms (成语) - 680+ Chengyu with English Meanings & Pinyin",
     description: "Complete Chinese idioms dictionary with 680+ chengyu. English translations, pinyin, origins & examples. Browse by theme or search by characters.",
-    siteName: 'Daily Chinese Idioms',
+    siteName: 'Chinese Idioms',
     images: [{
       url: '/og-image.png',
       width: 1200,
@@ -101,7 +101,7 @@ export default function RootLayout({
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
-              name: 'Daily Chinese Idioms',
+              name: 'Chinese Idioms',
               alternateName: 'Chinese Idioms Dictionary',
               url: 'https://www.chineseidioms.com',
               description: 'Learn Chinese idioms (chengyu) with English meanings, pinyin pronunciation, and cultural context.',
@@ -116,7 +116,7 @@ export default function RootLayout({
               },
               mainEntity: {
                 '@type': 'EducationalOrganization',
-                name: 'Daily Chinese Idioms',
+                name: 'Chinese Idioms',
                 url: 'https://www.chineseidioms.com',
                 sameAs: ['https://apps.apple.com/us/app/daily-chinese-idioms/id6740611324']
               }

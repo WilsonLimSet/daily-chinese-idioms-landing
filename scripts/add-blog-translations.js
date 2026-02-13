@@ -28,7 +28,6 @@ const newKeys = {
     means: "means",
     andExpresses: "and expresses",
     usedWhen: "This idiom is used when describing situations involving",
-    originsFrom: "It originates from ancient Chinese literature and remains commonly used in modern Mandarin."
   },
   es: {
     alsoSearchedAs: "También buscado como:",
@@ -53,7 +52,6 @@ const newKeys = {
     means: "significa",
     andExpresses: "y expresa",
     usedWhen: "Este modismo se usa cuando se describen situaciones que involucran",
-    originsFrom: "Se origina en la literatura china antigua y sigue siendo comúnmente usado en el mandarín moderno."
   },
   id: {
     alsoSearchedAs: "Juga dicari sebagai:",
@@ -78,7 +76,6 @@ const newKeys = {
     means: "berarti",
     andExpresses: "dan mengekspresikan",
     usedWhen: "Peribahasa ini digunakan ketika menggambarkan situasi yang melibatkan",
-    originsFrom: "Berasal dari sastra Tiongkok kuno dan tetap umum digunakan dalam bahasa Mandarin modern."
   }
 };
 
@@ -119,7 +116,6 @@ ${indent}literally: "secara harfiah",
 ${indent}means: "berarti",
 ${indent}andExpresses: "dan mengekspresikan",
 ${indent}usedWhen: "Peribahasa ini digunakan ketika menggambarkan situasi yang melibatkan",
-${indent}originsFrom: "Berasal dari sastra Tiongkok kuno dan tetap umum digunakan dalam bahasa Mandarin modern.",
 ${indent}readOtherLanguages: "Baca peribahasa ini dalam bahasa lain:",`
     );
   }

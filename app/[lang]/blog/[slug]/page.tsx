@@ -1,11 +1,11 @@
 import { notFound } from 'next/navigation';
 import { getAllBlogPosts, getBlogPost } from '@/src/lib/blog-intl';
 import Link from 'next/link';
-import { Calendar, ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
+import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -112,7 +112,7 @@ export async function generateMetadata({
       title,
       description: post.idiom.metaphoric_meaning,
       url: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'article',
@@ -186,12 +186,12 @@ export default async function InternationalBlogPostPage({
       dateModified: post.date,
       author: {
         '@type': 'Organization',
-        name: 'Daily Chinese Idioms',
+        name: 'Chinese Idioms',
         url: 'https://www.chineseidioms.com'
       },
       publisher: {
         '@type': 'Organization',
-        name: 'Daily Chinese Idioms',
+        name: 'Chinese Idioms',
         logo: {
           '@type': 'ImageObject',
           url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
@@ -285,10 +285,6 @@ export default async function InternationalBlogPostPage({
             </h1>
             <div className="flex items-center gap-4 text-gray-600">
               <span className="text-lg font-medium">{post.idiom.pinyin}</span>
-              <div className="flex items-center">
-                <Calendar className="w-4 h-4 mr-1" />
-                {new Date(post.date).toLocaleDateString(LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-              </div>
               <Link
                 href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
                 className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
@@ -304,7 +300,6 @@ export default async function InternationalBlogPostPage({
               {post.idiom.characters} ({pinyinVariants.withTones}) {getTranslation(lang, 'literally')} {getTranslation(lang, 'means')} &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo;
               {getTranslation(lang, 'andExpresses')} &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;.
               {getTranslation(lang, 'usedWhen')} {getThemeTranslation(lang, post.idiom.theme).toLowerCase()}.
-              {getTranslation(lang, 'originsFrom')}
             </p>
             <p className="text-sm text-gray-600 mt-2">
               <strong>{getTranslation(lang, 'alsoSearchedAs')}</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces},

@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
       title: `${themeName} Chinese Idioms`,
       description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}`,
       url: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
-      siteName: 'Daily Chinese Idioms',
+      siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'website',
@@ -124,7 +124,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
     "inLanguage": lang,
     "isPartOf": {
       "@type": "WebSite",
-      "name": "Daily Chinese Idioms",
+      "name": "Chinese Idioms",
       "url": "https://www.chineseidioms.com"
     },
     "hasPart": themePosts.map(post => ({
