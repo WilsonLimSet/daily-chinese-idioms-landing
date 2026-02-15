@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  experimental: {
+    inlineCss: true,
+  },
   trailingSlash: false,
   images: {
     domains: ['chineseidioms.com', 'www.chineseidioms.com'],
@@ -44,16 +47,16 @@ const nextConfig: NextConfig = {
   },
   async redirects() {
     return [
-      // Redirect non-www to www
+      // Redirect non-www to www (ads.txt excluded to avoid redirect issues with AdSense crawler)
       {
-        source: '/:path*',
+        source: '/:path((?!ads\\.txt$).*)',
         has: [
           {
             type: 'host',
             value: 'chineseidioms.com',
           },
         ],
-        destination: 'https://www.chineseidioms.com/:path*',
+        destination: 'https://www.chineseidioms.com/:path',
         permanent: true,
       },
       // Fix malformed URLs with $ character

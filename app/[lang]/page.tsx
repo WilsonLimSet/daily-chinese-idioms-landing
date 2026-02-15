@@ -146,7 +146,7 @@ export default async function InternationalHomePage({
             <div className="flex flex-col sm:flex-row gap-4 justify-center mt-8">
               <Link
                 href={`/${lang}/dictionary`}
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[#FF3B30] text-white font-semibold rounded-lg hover:bg-red-600 transition-colors"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-[#D32F2F] text-white font-semibold rounded-lg hover:bg-red-800 transition-colors"
               >
                 <Search className="w-5 h-5" />
                 {getTranslation(lang, 'browseDictionary')}
