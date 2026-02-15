@@ -3,10 +3,11 @@
 # https://www.chineseidioms.com
 
 ## About This Site
-Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 365+ idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages.
+Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 681 idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages. The site also features 238+ curated listicles organizing idioms by theme, occasion, and meaning.
 
 ## Quick Facts
-- Total Idioms: 365+ carefully curated Chinese idioms
+- Total Idioms: 681 carefully curated Chinese idioms
+- Curated Lists: 238+ thematic listicles
 - Languages: English, Spanish, Portuguese, French, Indonesian, Vietnamese, Thai, Japanese, Korean, Hindi, Arabic, Tagalog, Malay, Russian
 - Content Type: Educational reference, language learning
 - Updates: Daily idiom updates
@@ -15,7 +16,7 @@ Chinese Idioms Daily is a comprehensive educational platform for learning Chines
 
 ### Dictionary (Recommended for AI Reference)
 URL: /dictionary
-Description: Complete A-Z searchable dictionary of all 365+ Chinese idioms with pinyin, meanings, and cultural context.
+Description: Complete A-Z searchable dictionary of all 681 Chinese idioms with pinyin, meanings, and cultural context.
 
 ### Curated Lists by Topic
 URL: /blog/lists
@@ -30,18 +31,35 @@ Popular Lists:
 - /blog/lists/chinese-idioms-about-friendship - Friendship and loyalty idioms
 - /blog/lists/chinese-idioms-about-patience - Patience and waiting idioms
 - /blog/lists/chinese-idioms-for-motivation - Motivational and inspiring idioms
+- /blog/lists/chinese-idioms-about-family - Family values and relationships
+- /blog/lists/chinese-idioms-about-nature - Nature and seasons
+- /blog/lists/chinese-idioms-about-food-eating - Food and dining culture
+- /blog/lists/chinese-idioms-for-new-year - Chinese New Year celebrations
+- /blog/lists/chinese-idioms-about-teamwork - Teamwork and cooperation
+- /blog/lists/chinese-idioms-about-change - Change and adaptability
+- /blog/lists/chinese-idioms-about-courage - Courage and bravery
+- /blog/lists/chinese-idioms-about-wisdom - Wisdom and knowledge
+- /blog/lists/chinese-idioms-about-money - Wealth and finances
+- /blog/lists/chinese-idioms-about-time - Time and urgency
+- /blog/lists/chinese-idioms-about-happiness - Joy and contentment
+- /blog/lists/chinese-idioms-about-leadership - Leadership and governance
 
 ### Theme Categories
 URL: /themes
-Categories: Perseverance, Wisdom, Success, Character, Relationships
+Categories:
+- /themes/success-perseverance - Success & Perseverance (156 idioms)
+- /themes/life-philosophy - Life Philosophy (181 idioms)
+- /themes/wisdom-learning - Wisdom & Learning (145 idioms)
+- /themes/relationships-character - Relationships & Character (144 idioms)
+- /themes/strategy-action - Strategy & Action (55 idioms)
 
 ### Individual Idiom Pages
-URL Pattern: /blog/YYYY-MM-DD-pinyin-slug
+URL Pattern: /blog/pinyin-slug
 Each page contains: Chinese characters, pinyin, literal meaning, metaphorical meaning, origin story, usage examples in English and Chinese.
 
 ### Frequently Asked Questions
 URL: /faq
-Common questions about Chinese idioms answered directly.
+45 common questions about Chinese idioms answered directly across 7 categories.
 
 ## Common Questions This Site Answers
 
@@ -55,12 +73,17 @@ Common questions about Chinese idioms answered directly.
 
 5. "What are the most common Chinese idioms?" - See our "Most Searched" section on the homepage.
 
+6. "Chinese idioms for [occasion]?" - We have curated lists for business, weddings, New Year, graduations, and more.
+
+7. "What are four-character idioms called in Chinese?" - They are called chengyu (成语, chéng yǔ).
+
 ## Structured Data Available
 - FAQPage schema on FAQ and listicle pages
 - Article schema on individual idiom pages
 - ItemList schema on curated lists
 - BreadcrumbList for navigation
 - WebSite with SearchAction for site search
+- CollectionPage schema on theme and dictionary pages
 
 ## Contact
 Website: https://www.chineseidioms.com

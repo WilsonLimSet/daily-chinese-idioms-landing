@@ -12,172 +12,180 @@ const THEME_SLUGS = [
   'wisdom-learning'
 ];
 
-export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
+// Sitemap IDs:
+// 0 = Static pages + English blog posts + English themes
+// 1 = English listicles
+// 2..14 = Multilingual content (one per language, mapped to LANGUAGE_CODES[id - 2])
+export async function generateSitemaps() {
+  // 2 English sitemaps + 13 language sitemaps
+  return Array.from({ length: 2 + LANGUAGE_CODES.length }, (_, i) => ({ id: i }));
+}
+
+export default async function sitemap(props: {
+  id: Promise<string>;
+}): Promise<MetadataRoute.Sitemap> {
+  const id = Number(await props.id);
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com';
 
-  // Get English blog posts
-  const posts = await getAllBlogPosts();
+  // Sitemap 0: Static pages + English blog posts + English themes
+  if (id === 0) {
+    const posts = await getAllBlogPosts();
 
-  // Create English blog post entries
-  const blogPosts = posts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: new Date(post.date),
-    changeFrequency: 'monthly' as const,
-    priority: 0.8,
-  }));
-
-  // Create multilingual blog entries
-  const multilingualPosts = [];
-  for (const lang of LANGUAGE_CODES) {
-    try {
-      const intlPosts = await getAllIntlBlogPosts(lang);
-
-      // Language home pages
-      multilingualPosts.push({
-        url: `${baseUrl}/${lang}`,
+    const staticPages: MetadataRoute.Sitemap = [
+      {
+        url: baseUrl,
         lastModified: new Date(),
-        changeFrequency: 'daily' as const,
-        priority: 0.9, // High priority for language home pages
-      });
-
-      // Language blog index pages
-      multilingualPosts.push({
-        url: `${baseUrl}/${lang}/blog`,
+        changeFrequency: 'daily',
+        priority: 1,
+      },
+      {
+        url: `${baseUrl}/blog`,
         lastModified: new Date(),
-        changeFrequency: 'daily' as const,
-        priority: 0.85, // Slightly higher than individual posts for SEO
-      });
+        changeFrequency: 'daily',
+        priority: 0.9,
+      },
+      {
+        url: `${baseUrl}/blog/lists`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      },
+      {
+        url: `${baseUrl}/dictionary`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.95,
+      },
+      {
+        url: `${baseUrl}/faq`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.9,
+      },
+      {
+        url: `${baseUrl}/privacy`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.5,
+      },
+    ];
 
-      // Individual blog posts in each language
-      intlPosts.forEach((post) => {
-        multilingualPosts.push({
-          url: `${baseUrl}/${lang}/blog/${post.slug}`,
-          lastModified: new Date(post.date),
-          changeFrequency: 'monthly' as const,
-          priority: 0.75, // Slightly lower than English for primary ranking
-        });
-      });
-    } catch {
-      console.warn(`Could not generate sitemap entries for language: ${lang}`);
-    }
+    const blogPosts: MetadataRoute.Sitemap = posts.map((post) => ({
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    }));
+
+    const themePages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/themes`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...THEME_SLUGS.map(theme => ({
+        url: `${baseUrl}/themes/${theme}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.85,
+      })),
+    ];
+
+    return [...staticPages, ...blogPosts, ...themePages];
   }
 
-  // Theme pages (English)
-  const themePages = [
-    {
-      url: `${baseUrl}/themes`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.9,
-    },
-    ...THEME_SLUGS.map(theme => ({
-      url: `${baseUrl}/themes/${theme}`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
+  // Sitemap 1: English listicles
+  if (id === 1) {
+    const listicles = getAllListicles();
+    return listicles.map((listicle) => ({
+      url: `${baseUrl}/blog/lists/${listicle.slug}`,
+      lastModified: new Date(listicle.publishedDate),
+      changeFrequency: 'monthly',
       priority: 0.85,
-    }))
-  ];
+    }));
+  }
 
-  // Multilingual theme pages + dictionary pages
-  const multilingualThemePages = [];
-  for (const lang of LANGUAGE_CODES) {
-    // Dictionary pages per language
-    multilingualThemePages.push({
-      url: `${baseUrl}/${lang}/dictionary`,
+  // Sitemaps 2-14: One per language
+  const langIndex = id - 2;
+  if (langIndex < 0 || langIndex >= LANGUAGE_CODES.length) {
+    return [];
+  }
+
+  const lang = LANGUAGE_CODES[langIndex];
+  const entries: MetadataRoute.Sitemap = [];
+
+  // Language home page
+  entries.push({
+    url: `${baseUrl}/${lang}`,
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 0.9,
+  });
+
+  // Language blog index
+  entries.push({
+    url: `${baseUrl}/${lang}/blog`,
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 0.85,
+  });
+
+  // Language dictionary page
+  entries.push({
+    url: `${baseUrl}/${lang}/dictionary`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.9,
+  });
+
+  // Language theme pages
+  for (const theme of THEME_SLUGS) {
+    entries.push({
+      url: `${baseUrl}/${lang}/themes/${theme}`,
       lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.9,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    });
+  }
+
+  // Language blog posts
+  try {
+    const intlPosts = await getAllIntlBlogPosts(lang);
+    for (const post of intlPosts) {
+      entries.push({
+        url: `${baseUrl}/${lang}/blog/${post.slug}`,
+        lastModified: new Date(post.date),
+        changeFrequency: 'monthly',
+        priority: 0.75,
+      });
+    }
+  } catch {
+    console.warn(`Could not generate blog sitemap entries for language: ${lang}`);
+  }
+
+  // Language listicle pages
+  try {
+    const translatedListicles = getAllListiclesTranslated(lang);
+
+    entries.push({
+      url: `${baseUrl}/${lang}/blog/lists`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
     });
 
-    for (const theme of THEME_SLUGS) {
-      multilingualThemePages.push({
-        url: `${baseUrl}/${lang}/themes/${theme}`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
+    for (const listicle of translatedListicles) {
+      entries.push({
+        url: `${baseUrl}/${lang}/blog/lists/${listicle.slug}`,
+        lastModified: new Date(listicle.publishedDate),
+        changeFrequency: 'monthly',
         priority: 0.8,
       });
     }
+  } catch {
+    console.warn(`Could not generate listicle sitemap entries for language: ${lang}`);
   }
 
-  // Listicle pages (curated idiom lists) - English
-  const listicles = getAllListicles();
-  const listiclePages = listicles.map((listicle) => ({
-    url: `${baseUrl}/blog/lists/${listicle.slug}`,
-    lastModified: new Date(listicle.publishedDate),
-    changeFrequency: 'monthly' as const,
-    priority: 0.85,
-  }));
-
-  // Multilingual listicle pages with localized slugs
-  const multilingualListiclePages = [];
-  for (const lang of LANGUAGE_CODES) {
-    try {
-      const translatedListicles = getAllListiclesTranslated(lang);
-
-      // Language listicle index page
-      multilingualListiclePages.push({
-        url: `${baseUrl}/${lang}/blog/lists`,
-        lastModified: new Date(),
-        changeFrequency: 'weekly' as const,
-        priority: 0.8,
-      });
-
-      // Individual listicle pages in each language (with localized slugs)
-      translatedListicles.forEach((listicle) => {
-        multilingualListiclePages.push({
-          url: `${baseUrl}/${lang}/blog/lists/${listicle.slug}`,
-          lastModified: new Date(listicle.publishedDate),
-          changeFrequency: 'monthly' as const,
-          priority: 0.8,
-        });
-      });
-    } catch {
-      console.warn(`Could not generate listicle sitemap entries for language: ${lang}`);
-    }
-  }
-
-  // Static pages
-  const staticPages = [
-    {
-      url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as const,
-      priority: 1,
-    },
-    {
-      url: `${baseUrl}/blog`,
-      lastModified: new Date(),
-      changeFrequency: 'daily' as const,
-      priority: 0.9,
-    },
-    {
-      url: `${baseUrl}/blog/lists`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.85,
-    },
-    {
-      url: `${baseUrl}/dictionary`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly' as const,
-      priority: 0.95, // High priority - main reference page
-    },
-    {
-      url: `${baseUrl}/faq`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.9, // High priority for AEO - FAQ pages are AI-friendly
-    },
-    {
-      url: `${baseUrl}/privacy`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly' as const,
-      priority: 0.5,
-    },
-  ];
-
-  const totalUrls = staticPages.length + blogPosts.length + multilingualPosts.length + themePages.length + multilingualThemePages.length + listiclePages.length + multilingualListiclePages.length;
-  console.log(`Generated sitemap with ${totalUrls} URLs across ${LANGUAGE_CODES.length + 1} languages`);
-
-  return [...staticPages, ...blogPosts, ...multilingualPosts, ...themePages, ...multilingualThemePages, ...listiclePages, ...multilingualListiclePages];
+  return entries;
 }
