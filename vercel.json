@@ -1,7 +1,19 @@
 {
+  "rewrites": [
+    {
+      "source": "/ads.txt",
+      "has": [
+        {
+          "type": "host",
+          "value": "chineseidioms.com"
+        }
+      ],
+      "destination": "https://www.chineseidioms.com/ads.txt"
+    }
+  ],
   "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/((?!ads\\.txt$).*)",
       "has": [
         {
           "type": "host",

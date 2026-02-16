@@ -12,9 +12,6 @@ import AdUnit from '@/app/components/AdUnit';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
 import '@/app/blog/blog.css';
 
-// ISR: Revalidate pages every 24 hours
-export const revalidate = 86400;
-
 // Allow dynamic params for older posts not pre-generated
 export const dynamicParams = true;
 

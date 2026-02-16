@@ -28,20 +28,6 @@ function detectLanguage(request: NextRequest): string | null {
 export function middleware(request: NextRequest) {
   const url = request.nextUrl.clone();
 
-  // Force HTTPS in production
-  if (process.env.NODE_ENV === 'production' &&
-      request.headers.get('x-forwarded-proto') === 'http') {
-    url.protocol = 'https:';
-    url.host = 'www.chineseidioms.com';
-    return NextResponse.redirect(url, { status: 301 });
-  }
-
-  // Redirect non-www to www
-  if (url.hostname === 'chineseidioms.com') {
-    url.hostname = 'www.chineseidioms.com';
-    return NextResponse.redirect(url, { status: 301 });
-  }
-
   // Redirect old dated blog URLs (e.g. /blog/2025-01-01-slug → /blog/slug)
   const datedBlogMatch = url.pathname.match(/^(?:\/([a-z]{2}))?\/blog\/\d{4}-\d{2}-\d{2}-(.+)$/);
   if (datedBlogMatch) {
@@ -68,28 +54,15 @@ export function middleware(request: NextRequest) {
     }
   }
 
-  // Set canonical header for pages with tracking parameters
-  const response = NextResponse.next();
-
-  // Add canonical link header to help with SEO
-  const canonicalUrl = new URL(url);
-  canonicalUrl.search = ''; // Remove all query parameters for canonical
-  response.headers.set('Link', `<${canonicalUrl.toString()}>; rel="canonical"`);
-
-  return response;
+  return NextResponse.next();
 }
 
 export const config = {
   matcher: [
-    /*
-     * Match all request paths except for the ones starting with:
-     * - api (API routes)
-     * - _next/static (static files)
-     * - _next/image (image optimization files)
-     * - favicon.ico (favicon file)
-     * - robots.txt
-     * - sitemap.xml
-     */
-    '/((?!api|_next/static|_next/image|favicon.ico|robots.txt|sitemap.xml).*)',
+    // Homepage (language detection)
+    '/',
+    // Blog paths (dated URL redirects)
+    '/blog/:path*',
+    '/:lang/blog/:path*',
   ],
 };

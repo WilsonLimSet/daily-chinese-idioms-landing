@@ -11,9 +11,6 @@ import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 import '../blog.css';
 
-// ISR: Revalidate pages every 24 hours
-export const revalidate = 86400;
-
 // Allow dynamic params for older posts not pre-generated
 export const dynamicParams = true;
 
