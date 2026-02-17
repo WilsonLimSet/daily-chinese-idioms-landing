@@ -17,9 +17,9 @@ interface AdUnitProps {
 }
 
 const AD_CONFIG = {
-  'display': { slot: '7677317911', format: 'auto', layout: undefined, responsive: true },
-  'in-article': { slot: '8283822573', format: 'fluid', layout: 'in-article', responsive: false },
-  'multiplex': { slot: '3738072909', format: 'autorelaxed', layout: undefined, responsive: false },
+  'display': { slot: '7070641816', format: 'auto', layout: undefined, responsive: true },
+  'in-article': { slot: '6077124349', format: 'fluid', layout: 'in-article', responsive: false },
+  'multiplex': { slot: '9571857660', format: 'autorelaxed', layout: undefined, responsive: false },
 } as const;
 
 let scriptLoaded = false;
