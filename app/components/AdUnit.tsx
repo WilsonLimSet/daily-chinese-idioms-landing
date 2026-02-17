@@ -45,7 +45,7 @@ export default function AdUnit({ type, className = '' }: AdUnitProps) {
   return (
     <div className={`my-8 text-center ${className}`}>
       <Script
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2640821656102783"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5703994433505618"
         crossOrigin="anonymous"
         strategy="afterInteractive"
         onLoad={() => {
@@ -64,7 +64,7 @@ export default function AdUnit({ type, className = '' }: AdUnitProps) {
         ref={adRef}
         className="adsbygoogle"
         style={{ display: 'block', textAlign: type === 'in-article' ? 'center' : undefined }}
-        data-ad-client="ca-pub-2640821656102783"
+        data-ad-client="ca-pub-5703994433505618"
         data-ad-slot={config.slot}
         data-ad-format={config.format}
         {...(config.layout && { 'data-ad-layout': config.layout })}
