@@ -1,0 +1,767 @@
+[
+  {
+    "slug": "yyds",
+    "originalSlug": "yyds",
+    "characters": "YYDS (永远的神)",
+    "pinyin": "yǒng yuǎn de shén",
+    "meaning": "الأفضل على الإطلاق (Greatest of All Time). تستخدم لمدح شخص أو شيء ما بأنه الأفضل بلا منازع.",
+    "origin": "نشأت من لاعب البث المباشر للألعاب Shiny (山泥若) في عام 2020 عند مدح لاعب، ثم انتشرت إلى ثقافة الإنترنت السائدة.",
+    "examples": [
+      "This restaurant is YYDS! Best noodles I've ever had.",
+      "这家奶茶店YYDS！(This bubble tea shop is the GOAT!)",
+      "هذا المطعم هو الأفضل على الإطلاق! أفضل نودلز تناولتها على الإطلاق.",
+      "هذا المحل للشاي الفقاعي هو الأفضل على الإطلاق!"
+    ],
+    "category": "Internet Culture",
+    "era": "2020s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "nei-juan",
+    "originalSlug": "nei-juan",
+    "characters": "内卷",
+    "pinyin": "nèi juǎn",
+    "meaning": "التطور الداخلي - منافسة مفرطة، وغالبًا ما تكون بلا جدوى، حيث يعمل الجميع بجدية أكبر ولكن لا أحد يكسب المزيد.",
+    "origin": "في الأصل مصطلح أنثروبولوجي، انتشر على نطاق واسع في عام 2020 عندما انتشرت صور لطلاب تسينغهوا يدرسون على أجهزة الكمبيوتر المحمولة أثناء ركوب الدراجات عبر الإنترنت.",
+    "examples": [
+      "The tech industry in China is so 内卷 — everyone works 996 just to keep up.",
+      "现在考研太内卷了。(The graduate school entrance exam is so involuted now.)",
+      "صناعة التكنولوجيا في الصين تعاني من التطور الداخلي - الجميع يعملون 996 فقط لمواكبة ذلك.",
+      "امتحان القبول للدراسات العليا الآن يعاني من التطور الداخلي."
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "tang-ping",
+    "originalSlug": "tang-ping",
+    "characters": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "الاستلقاء - رفض سباق الفئران، واختيار القيام بالحد الأدنى بدلاً من الإفراط في العمل.",
+    "origin": "صاغها عامل مصنع في منشور انتشر على نطاق واسع عام 2021 ترك وظيفته وسافر بمدخرات قليلة، رافضًا الضغط المجتمعي لتحقيق إنجازات تفوق القدرات.",
+    "examples": [
+      "I'm done competing — I'm just going to 躺平.",
+      "年轻人选择躺平。(Young people are choosing to lie flat.)",
+      "لقد انتهيت من المنافسة - سأستلقي فقط.",
+      "الشباب يختارون الاستلقاء."
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "bai-lan",
+    "originalSlug": "bai-lan",
+    "characters": "摆烂",
+    "pinyin": "bǎi làn",
+    "meaning": "دعها تتعفن - الاستسلام تمامًا عن المحاولة، واحتضان الفشل أو الرداءة.",
+    "origin": "من ثقافة كرة السلة في الدوري الاميركي للمحترفين حيث تخسر الفرق عن قصد. تبناها مستخدمو الإنترنت الصينيون كنسخة أكثر تطرفاً من 躺平.",
+    "examples": [
+      "Exams are tomorrow and I haven't studied — time to 摆烂.",
+      "这学期我直接摆烂了。(I'm just letting it rot this semester.)",
+      "الامتحانات غدًا ولم أدرس - حان وقت تركها تتعفن.",
+      "سأتركها تتعفن هذا الفصل الدراسي."
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "jue-jue-zi",
+    "originalSlug": "jue-jue-zi",
+    "characters": "绝绝子",
+    "pinyin": "jué jué zǐ",
+    "meaning": "مذهل للغاية / فظيع للغاية - تعبير قاطع يمكن أن يكون إيجابيًا أو سلبيًا حسب السياق.",
+    "origin": "شاع على منصات التواصل الاجتماعي الصينية مثل Douyin و Xiaohongshu حوالي عام 2021 كمكثف.",
+    "examples": [
+      "This sunset is 绝绝子! So beautiful!",
+      "这个味道绝绝子！(This flavor is absolutely amazing!)",
+      "هذا الغروب مذهل للغاية! جميل جدا!",
+      "هذا الطعم مذهل للغاية!"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fan-er-sai",
+    "originalSlug": "fan-er-sai",
+    "characters": "凡尔赛",
+    "pinyin": "fán ěr sài",
+    "meaning": "التفاخر المتواضع - التباهي بالثروة أو الإنجازات مع التظاهر بالتواضع أو الشكوى.",
+    "origin": "سمي على اسم قصر فرساي. شاعته المدونة 小奶球 في عام 2020 التي شاركت قصصًا عن أشخاص يذكرون أنماط حياة فاخرة بشكل عرضي.",
+    "examples": [
+      "\"أوف، حبيبي اشترى لي سيارة BMW فقط، وليس بورش\" - هذا 凡尔赛 جدًا.",
+      "她发朋友圈太凡尔赛了。(منشوراتها على WeChat Moments متفاخرة بشكل متواضع للغاية.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "she-si",
+    "originalSlug": "she-si",
+    "characters": "社死",
+    "pinyin": "shè sǐ",
+    "meaning": "الموت الاجتماعي - لحظة محرجة للغاية تجعلك ترغب في الاختفاء.",
+    "origin": "اختصار لـ 社会性死亡 (الموت الاجتماعي). أصبح شائعًا حوالي 2020-2021 حيث احتضن الجيل Z مشاركة اللحظات المحرجة عبر الإنترنت.",
+    "examples": [
+      "ناديت معلمي \"أمي\" في الفصل - 社死 كامل.",
+      "我当众摔了一跤，社死了。(سقطت على الأرض أمام الجميع - موت اجتماعي.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-gong-ren",
+    "originalSlug": "da-gong-ren",
+    "characters": "打工人",
+    "pinyin": "dǎ gōng rén",
+    "meaning": "العاملون / عبيد الأجور - مصطلح مهين للذات يستخدمه العمال لوصف أنفسهم.",
+    "origin": "انتشر على نطاق واسع في أواخر عام 2020 من خلال تحيات صباحية تحفيزية وساخرة في نفس الوقت يتم مشاركتها بين موظفي المكاتب على وسائل التواصل الاجتماعي.",
+    "examples": [
+      "صباح الخير، 打工人! حان الوقت لكسب المال من أجل الرئيس.",
+      "打工人打工魂，打工都是人上人。(العمال لديهم روح عامل، العمال هم الأفضل.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "gan-fan-ren",
+    "originalSlug": "gan-fan-ren",
+    "characters": "干饭人",
+    "pinyin": "gān fàn rén",
+    "meaning": "آلة أكل / محارب الطعام - شخص يأكل بحماس وشغف كبيرين.",
+    "origin": "تطور جنبًا إلى جنب مع 打工人 في أواخر عام 2020. يحتفل بالفرح البسيط للأكل كشكل من أشكال الرعاية الذاتية وسط ضغوط العمل.",
+    "examples": [
+      "استراحة الغداء! تم تفعيل وضع 干饭人!",
+      "干饭人干饭魂！(محبو الطعام لديهم روح محبي الطعام!)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fo-xi",
+    "originalSlug": "fo-xi",
+    "characters": "佛系",
+    "pinyin": "fó xì",
+    "meaning": "شبيه ببوذا - امتلاك موقف زن، مهما حدث يحدث تجاه الحياة. عدم الاهتمام بالنتائج.",
+    "origin": "نشأ من مقال في مجلة يابانية عام 2014 حول \"رجال شبيهين ببوذا\"، وتم تبنيه في ثقافة الإنترنت الصينية حوالي عام 2017.",
+    "examples": [
+      "لديّ نهج 佛系 في المواعدة - إذا حدث ذلك، فسيحدث.",
+      "佛系青年什么都无所谓。(الشباب الشبيه ببوذا لا يهتمون بأي شيء.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhen-xiang",
+    "originalSlug": "zhen-xiang",
+    "characters": "真香",
+    "pinyin": "zhēn xiāng",
+    "meaning": "رائحة طيبة / لذيذ جداً - تستخدم عندما ينتهي الأمر بشخص ما بحب شيء كان يقول سابقًا إنه لن يفعله أبدًا.",
+    "origin": "من برنامج واقعي عام 2014 حيث أقسم المتسابق وانغ جينغزي بأنه لن يأكل الطعام الريفي، ثم تم تصويره وهو يقول \"真香\" أثناء تناوله.",
+    "examples": [
+      "I said I'd never use TikTok... 真香.",
+      "说好不吃零食的，结果真香了。(Said I wouldn't eat snacks, then... so good.) - قلت أنني لن آكل وجبات خفيفة، ثم... لذيذ جداً."
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "996",
+    "originalSlug": "996",
+    "characters": "996",
+    "pinyin": "jiǔ jiǔ liù",
+    "meaning": "العمل من الساعة 9 صباحًا حتى 9 مساءً، 6 أيام في الأسبوع - يصف ثقافة العمل الشاقة في شركات التكنولوجيا الصينية.",
+    "origin": "أصبح نقطة نقاش رئيسية في عام 2019 عندما أنشأ عمال التكنولوجيا \"996.ICU\" على GitHub للاحتجاج على ثقافة الإفراط في العمل.",
+    "examples": [
+      "I can't meet up this week — my company does 996.",
+      "996工作制让人身心疲惫。(The 996 work schedule is physically and mentally exhausting.) - نظام العمل 996 مرهق جسديًا وعقليًا."
+    ],
+    "category": "Work & Hustle",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "pua",
+    "originalSlug": "pua",
+    "characters": "PUA",
+    "pinyin": "PUA",
+    "meaning": "تلاعب نفسي - يستخدم على نطاق واسع لوصف التلاعب العاطفي أو السلوك السام من قبل الرؤساء أو الشركاء أو ما إلى ذلك.",
+    "origin": "أصلها من الكلمة الإنجليزية \"Pick-Up Artist\"، ولكن في السياق الصيني توسعت لتعني أي شكل من أشكال التلاعب النفسي، خاصة في أماكن العمل.",
+    "examples": [
+      "My boss is totally PUA-ing me by saying I'm not good enough.",
+      "别被老板PUA了。(Don't let your boss gaslight you.) - لا تدع رئيسك يتلاعب بك نفسياً."
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "i-ren-e-ren",
+    "originalSlug": "i-ren-e-ren",
+    "characters": "i人/e人",
+    "pinyin": "i rén / e rén",
+    "meaning": "انطوائي / منفتح - يشير إلى أنواع شخصية MBTI، ويستخدم بشكل عرضي لوصف التفضيلات الاجتماعية.",
+    "origin": "أصبح اختبار شخصية MBTI شائعًا جدًا في الصين حوالي 2022-2023، حيث أصبحت i人 (انطوائي) و e人 (منفتح) تسميات يومية.",
+    "examples": [
+      "I'm such an i人 — parties drain my energy.",
+      "作为一个i人，我周末只想在家待着。(As an introvert, I just want to stay home on weekends.) - بصفتي شخصًا انطوائيًا، أريد فقط البقاء في المنزل في عطلة نهاية الأسبوع."
+    ],
+    "category": "Youth Culture",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xiu-gou",
+    "originalSlug": "xiu-gou",
+    "characters": "秀狗/秀恩爱",
+    "pinyin": "xiù ēn ài",
+    "meaning": "إظهار المودة / المبالغة في إظهار العواطف - الأزواج الذين يعرضون علاقتهم علنًا بطريقة مبالغ فيها.",
+    "origin": "عامية شائعة على الإنترنت تنتقد المبالغة في إظهار العواطف علنًا، خاصة على وسائل التواصل الاجتماعي.",
+    "examples": [
+      "Stop 秀恩爱 on WeChat Moments, we get it, you're in love.",
+      "秀恩爱，死得快。(Show off love, die fast — a humorous warning.) - أظهر حبك، مت بسرعة - تحذير فكاهي."
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-wa",
+    "originalSlug": "ji-wa",
+    "characters": "鸡娃",
+    "pinyin": "jī wá",
+    "meaning": "تربية النمر بشكل مفرط - الضغط على الأطفال أكاديميًا بشكل كبير من خلال الدروس الخصوصية والأنشطة التي لا نهاية لها.",
+    "origin": "تجمع بين 打鸡血 (حقن دم الدجاج، بمعنى تنشيط) مع 娃 (طفل). يعكس القلق بشأن المنافسة التعليمية في الصين.",
+    "examples": [
+      "تشتهر عائلات بكين بـ 鸡娃 - الأطفال ليس لديهم وقت فراغ.",
+      "别太鸡娃了，孩子需要玩耍。(لا تضغط على أطفالك بشدة، يحتاج الأطفال إلى اللعب.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-yi-e",
+    "originalSlug": "e-yi-e",
+    "characters": "EMO/emo",
+    "pinyin": "emo",
+    "meaning": "الشعور بالإحباط أو الحزن أو الكآبة - يستخدم عند تجربة موجة من المشاعر السلبية.",
+    "origin": "مستعار من اللغة الإنجليزية \"emo\" ولكن يستخدم على نطاق أوسع في اللغة الصينية ليعني أي حزن مؤقت أو نقطة انخفاض عاطفي.",
+    "examples": [
+      "Rainy days make me so emo.",
+      "今天又emo了。(أشعر بالإيمو مرة أخرى اليوم.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gao-qing-shang",
+    "originalSlug": "gao-qing-shang",
+    "characters": "高情商",
+    "pinyin": "gāo qíng shāng",
+    "meaning": "ذكاء عاطفي مرتفع - أن تكون لبقًا أو دبلوماسيًا أو تعرف بالضبط ما هو الشيء الصحيح الذي يجب قوله.",
+    "origin": "يستخدم في الميمات المنتشرة التي تقارن بين \"الذكاء العاطفي المنخفض\" (رد فظ/وقح) مقابل \"الذكاء العاطفي المرتفع\" (رد لبق/ذكي) لنفس الموقف.",
+    "examples": [
+      "Low EQ: \"You're fat.\" High EQ: \"You look prosperous!\"",
+      "高情商说法：你不是胖，你是可爱。(عبارة ذات ذكاء عاطفي مرتفع: أنت لست سمينًا، أنت لطيف.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "shuang-jian",
+    "originalSlug": "shuang-jian",
+    "characters": "双减",
+    "pinyin": "shuāng jiǎn",
+    "meaning": "تخفيض مزدوج - سياسة الحكومة لتقليل عبء الواجبات المنزلية والدروس الخصوصية بعد المدرسة للطلاب.",
+    "origin": "سياسة رسمية تم إطلاقها في يوليو 2021، وأصبحت لغة عامية واسعة الانتشار لأنها غيرت بشكل كبير ثقافة التعليم.",
+    "examples": [
+      "After 双减, kids finally have time to play.",
+      "双减政策改变了教育行业。(غيرت سياسة التخفيض المزدوج صناعة التعليم.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2021",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yan-zhi",
+    "originalSlug": "yan-zhi",
+    "characters": "颜值",
+    "pinyin": "yán zhí",
+    "meaning": "تقييم الجاذبية / القيمة الظاهرية - تقييم رقمي للمظهر الجسدي لشخص ما.",
+    "origin": "شاع من خلال وسائل التواصل الاجتماعي الصينية والبرامج الترفيهية حيث أصبح المظهر يناقش علنًا و \"يسجل\".",
+    "examples": [
+      "That actor has insane 颜值.",
+      "颜值即正义。(الجاذبية هي العدالة - المظاهر هي كل شيء.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2015",
+    "formality": "informal"
+  },
+  {
+    "slug": "cp",
+    "originalSlug": "cp",
+    "characters": "CP (嗑CP)",
+    "pinyin": "kè CP",
+    "meaning": "مواعدة / تزويج - دعم أو تخيل علاقة رومانسية بين شخصين، سواء كانا حقيقيين أو خياليين.",
+    "origin": "من الكلمة الإنجليزية \"couple\" مختصرة إلى CP. 嗑CP تعني \"استهلاك\" أو الهوس بعلاقة رومانسية.",
+    "examples": [
+      "I'm 嗑CP-ing these two actors so hard!",
+      "这对CP好甜！(This couple is so sweet!) - هذا الثنائي لطيف للغاية!"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "very informal"
+  },
+  {
+    "slug": "da-call",
+    "originalSlug": "da-call",
+    "characters": "打call",
+    "pinyin": "dǎ call",
+    "meaning": "إظهار الدعم / الهتاف - دعم شخص أو شيء ما بحماس.",
+    "origin": "من ثقافة الآيدول اليابانية حيث يقوم المعجبون بهتافات منسقة (\"call\") في الحفلات الموسيقية. تم اعتمادها في ثقافة الإنترنت الصينية.",
+    "examples": [
+      "I'm 打call for my favorite singer!",
+      "为中国女排打call！(Cheering for the Chinese women's volleyball team!) - نهتف لفريق الكرة الطائرة النسائي الصيني!"
+    ],
+    "category": "Internet Culture",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "fan-quan",
+    "originalSlug": "fan-quan",
+    "characters": "饭圈",
+    "pinyin": "fàn quān",
+    "meaning": "دائرة المعجبين / قاعدة المعجبين - المجتمع المنظم من المعجبين حول أحد المشاهير أو الآيدولز.",
+    "origin": "من ثقافة 粉丝 (المعجبين). أصبحت قواعد المعجبين في الصين منظمة للغاية مع أنشطة منسقة وجمع تبرعات وحملات عبر الإنترنت.",
+    "examples": [
+      "饭圈 culture can be pretty intense in China.",
+      "饭圈文化影响了年轻人。(Fan circle culture has influenced young people.) - أثرت ثقافة دائرة المعجبين على الشباب."
+    ],
+    "category": "Youth Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-tou",
+    "originalSlug": "xia-tou",
+    "characters": "虾头",
+    "pinyin": "xiā tóu",
+    "meaning": "رأس جمبري - يصف شخصًا جذابًا من الخلف ولكنه مخيب للآمال من الأمام.",
+    "origin": "مثل الجمبري حيث الذيل (الجسم) هو الجزء الجيد والرأس يتم التخلص منه. انتشر على نطاق واسع على Douyin.",
+    "examples": [
+      "I thought he was so handsome from behind, turned out to be a 虾头.",
+      "背影杀手，结果是个虾头。(Back-view killer, but turned out to be a shrimp head.) - قاتل من الخلف، لكن تبين أنه رأس جمبري."
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "very informal"
+  },
+  {
+    "slug": "lao-liu-bi",
+    "originalSlug": "lao-liu-bi",
+    "characters": "老六",
+    "pinyin": "lǎo liù",
+    "meaning": "لاعب متسلل / كامبر - شخص يلعب بشكل قذر أو يختبئ وينتظر الآخرين ليقاتلوا أولاً.",
+    "origin": "من لعبة CS:GO حيث يوجد 5 لاعبين في فريق، و \"اللاعب السادس\" هو شخص يختبئ / يعسكر بدلاً من اللعب بشكل صحيح.",
+    "examples": [
+      "Stop being an 老六 and fight properly!",
+      "你怎么又当老六！(Why are you being a camper again!) - لماذا تتصرف ككامبر مرة أخرى!"
+    ],
+    "category": "Internet Culture",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gua",
+    "originalSlug": "gua",
+    "characters": "吃瓜",
+    "pinyin": "chī guā",
+    "meaning": "أكل البطيخ - أن تكون متفرجًا يشاهد الدراما تتكشف، ويستمتع بالثرثرة دون التورط.",
+    "origin": "من صورة لرجل يأكل البطيخ أثناء مشاهدة مشاجرة في الشارع. الـ 吃瓜群众 (جماهير أكل البطيخ) هم متفرجون سلبيون.",
+    "examples": [
+      "أنا هنا فقط لـ 吃瓜، لا تجرني إلى هذا.",
+      "吃瓜群众已就位。(متفرجو أكل البطيخ في مواقعهم.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "niu",
+    "originalSlug": "niu",
+    "characters": "牛/牛逼",
+    "pinyin": "niú / niú bī",
+    "meaning": "رائع / متفوق - مدح قوي لشيء مثير للإعجاب أو لشخص ماهر.",
+    "origin": "واحدة من أقدم مصطلحات الإنترنت الصينية العامية، 牛 (بقرة/ثور) لطالما ارتبطت بكونها مثيرة للإعجاب أو قوية.",
+    "examples": [
+      "لقد تم قبولك في جامعة تسينغهوا؟ 牛!",
+      "这个设计太牛了！(هذا التصميم رائع جدًا!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2000s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gan",
+    "originalSlug": "gan",
+    "characters": "尬",
+    "pinyin": "gà",
+    "meaning": "محرج / يثير الاشمئزاز - يصف موقفًا غير مريح ومحرجًا بشكل غير مباشر.",
+    "origin": "اختصار لـ 尴尬 (محرج). أصبح اختصارًا شائعًا في الرسائل النصية ومنشورات وسائل التواصل الاجتماعي.",
+    "examples": [
+      "كانت تلك المحادثة 尬 جدًا.",
+      "好尬啊，不知道说什么好。(محرج جدًا، لا أعرف ماذا أقول.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xue-ba",
+    "originalSlug": "xue-ba",
+    "characters": "学霸",
+    "pinyin": "xué bà",
+    "meaning": "متفوق أكاديميًا / إله الدراسة - شخص يتفوق في الدراسة ويحصل دائمًا على أعلى الدرجات.",
+    "origin": "يجمع بين 学 (دراسة) و 霸 (طاغية/مهيمن). العكس هو 学渣 (xuézhā، فشل أكاديمي).",
+    "examples": [
+      "إنها 学霸 جدًا، تحصل دائمًا على علامات كاملة.",
+      "学霸的世界我们不懂。(نحن لا نفهم عالم المتفوقين أكاديميًا.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ti-geng",
+    "originalSlug": "ti-geng",
+    "characters": "梗",
+    "pinyin": "gěng",
+    "meaning": "ميم / نكتة متداولة - نكتة أو مرجع أو عبارة شائعة على الإنترنت يستخدمها الناس بشكل متكرر.",
+    "origin": "في الأصل من 哏 (gén، خاتمة كوميدية في الحوار المتبادل). تطورت لتغطية جميع الميمات والمراجع المنتشرة على الإنترنت.",
+    "examples": [
+      "أنا لا أفهم هذا 梗، هل يمكن لأحد أن يشرح؟",
+      "这个梗已经过时了。(هذا الميم قديم بالفعل.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-tang",
+    "originalSlug": "ji-tang",
+    "characters": "鸡汤/毒鸡汤",
+    "pinyin": "jī tāng / dú jī tāng",
+    "meaning": "حساء دجاج (لإلهام الروح) / حساء دجاج سام - اقتباسات ملهمة مقابل اقتباسات سوداوية فكاهية مضادة للتحفيز.",
+    "origin": "من سلسلة الكتب الأمريكية \"Chicken Soup for the Soul\". 毒鸡汤 هي النسخة الصينية الساخرة الساخرة على الإنترنت.",
+    "examples": [
+      "That quote is pure 鸡汤 — sounds nice but means nothing. (هذا الاقتباس مجرد 鸡汤 - يبدو لطيفًا ولكنه لا يعني شيئًا.)",
+      "毒鸡汤：你不努力，别人替你努力。(Toxic chicken soup: If you don't work hard, others will work hard for you.) (毒鸡汤: إذا لم تعمل بجد، سيعمل الآخرون بجد نيابة عنك.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-ren-xian-gao-zhuang",
+    "originalSlug": "e-ren-xian-gao-zhuang",
+    "characters": "内耗",
+    "pinyin": "nèi hào",
+    "meaning": "الاحتكاك الداخلي - التفكير الزائد، الشك الذاتي، واستنزاف الطاقة العقلية من القلق المفرط.",
+    "origin": "أصبح شائعًا حوالي عام 2022 مع زيادة المناقشات حول الصحة العقلية بين الشباب الصينيين.",
+    "examples": [
+      "Stop 内耗 and just do it! (توقف عن 内耗 وافعلها فحسب!)",
+      "别再内耗了，做就对了。(Stop overthinking and just go for it.) (توقف عن التفكير الزائد، افعلها فحسب.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "te-zhong-bing",
+    "originalSlug": "te-zhong-bing",
+    "characters": "特种兵旅游",
+    "pinyin": "tè zhǒng bīng lǚ yóu",
+    "meaning": "سياحة القوات الخاصة - سفر سريع للغاية، حشر أقصى قدر من مشاهدة المعالم السياحية في أقل وقت ممكن وبميزانية ضئيلة.",
+    "origin": "اتجاه بين الطلاب الجامعيين الصينيين في عام 2023 الذين زاروا 5+ مدن في عطلة نهاية الأسبوع باستخدام القطارات الليلية لتوفير المال على الفنادق.",
+    "examples": [
+      "We did a 特种兵旅游 — visited 3 cities in 2 days! (قمنا بـ 特种兵旅游 - زرنا 3 مدن في يومين!)",
+      "大学生特种兵旅游攻略。(College student special forces travel guide.) (دليل سياحة القوات الخاصة للطلاب الجامعيين.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-lian",
+    "originalSlug": "da-lian",
+    "characters": "搭子",
+    "pinyin": "dā zi",
+    "meaning": "رفيق نشاط - شخص تتشارك معه في أنشطة محددة (رفيق وجبة، رفيق دراسة، رفيق سفر).",
+    "origin": "أصبح شائعًا في عام 2023 حيث سعى الشباب إلى علاقات اجتماعية منخفضة الالتزام ومحددة الأنشطة.",
+    "examples": [
+      "I need a 饭搭子 (meal buddy) for lunch today. (أحتاج إلى 饭搭子 (رفيق وجبة) لتناول الغداء اليوم.)",
+      "找个学习搭子一起去图书馆。(Looking for a study buddy to go to the library together.) (أبحث عن 学习搭子 (رفيق دراسة) للذهاب إلى المكتبة معًا.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "di-san-kong-jian",
+    "originalSlug": "di-san-kong-jian",
+    "characters": "第三空间",
+    "pinyin": "dì sān kōng jiān",
+    "meaning": "المساحة الثالثة - مكان ليس المنزل ولا العمل حيث يمكنك الاسترخاء (المقاهي والمكتبات والحدائق).",
+    "origin": "من مفهوم عالم الاجتماع راي أولدنبورغ، الذي شاع في الصين حيث يسعى الشباب إلى الهروب من أماكن المعيشة والعمل الضيقة.",
+    "examples": [
+      "This cafe is my 第三空间. (هذا المقهى هو 第三空间 الخاص بي.)",
+      "年轻人需要第三空间来放松。(Young people need a third space to relax.) (يحتاج الشباب إلى مساحة ثالثة للاسترخاء.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2023",
+    "formality": "neutral"
+  },
+  {
+    "slug": "song-si-rui",
+    "originalSlug": "song-si-rui",
+    "characters": "松弛感",
+    "pinyin": "sōng chí gǎn",
+    "meaning": "شعور بالاسترخاء - صفة الهدوء وعدم الاكتراث، وعدم القلق بشأن كل شيء.",
+    "origin": "أصبح مثالًا شائعًا في عام 2022 كرد فعل على ثقافة مدفوعة بالقلق، احتفاءً بالأشخاص الذين يظلون هادئين تحت الضغط.",
+    "examples": [
+      "She has such 松弛感 — nothing seems to bother her.",
+      "لديها شعور بالاسترخاء - لا شيء يبدو أنه يزعجها.",
+      "我要学习她的松弛感。(I want to learn her relaxed vibe.)",
+      "أريد أن أتعلم شعورها بالاسترخاء."
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "ka-dian",
+    "originalSlug": "ka-dian",
+    "characters": "卡点",
+    "pinyin": "kǎ diǎn",
+    "meaning": "الوصول في آخر لحظة ممكنة بالضبط - الالتزام بالوقت المحدد تمامًا بدون أي هامش.",
+    "origin": "يصف عادة تأخير المواعيد النهائية وأوقات الوصول إلى الحد الأقصى المطلق، وهو أمر شائع بين الشباب.",
+    "examples": [
+      "He always 卡点 arrives — one second later and he'd be late.",
+      "دائمًا ما يصل في الوقت المحدد تمامًا - ثانية واحدة أخرى وسيكون متأخرًا.",
+      "每次上班都卡点到。(Always arriving at work at the last possible second.)",
+      "دائمًا ما يصل إلى العمل في آخر ثانية ممكنة."
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "dian-zan",
+    "originalSlug": "dian-zan",
+    "characters": "点赞",
+    "pinyin": "diǎn zàn",
+    "meaning": "إعجاب / إعطاء علامة إعجاب - الضغط على زر الإعجاب، أو بشكل أعم، الموافقة على شيء ما.",
+    "origin": "من زر الإعجاب في وسائل التواصل الاجتماعي. دخلت اللغة اليومية لتعني إعطاء الموافقة أو الثناء.",
+    "examples": [
+      "给你点赞! (Giving you a like!)",
+      "أعطيك إعجاب!",
+      "这个操作我要点赞。(I have to give a thumbs up for this move.)",
+      "يجب أن أعطي علامة إعجاب لهذه الخطوة."
+    ],
+    "category": "Internet Culture",
+    "era": "2012",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ji",
+    "originalSlug": "gao-ji",
+    "characters": "割韭菜",
+    "pinyin": "gē jiǔ cài",
+    "meaning": "حصاد الكراث - الاحتيال على المستهلكين / المستثمرين أو استغلالهم، خاصة من خلال المنتجات باهظة الثمن أو الاستثمارات السيئة.",
+    "origin": "ينمو الكراث مرة أخرى بعد قطعه، مما يرمز إلى كيفية عودة المستهلكين / المستثمرين للاستغلال مرة أخرى.",
+    "examples": [
+      "That crypto project is just 割韭菜.",
+      "هذا المشروع المشفر مجرد احتيال.",
+      "别被割韭菜了。(Don't get scammed.)",
+      "لا تنخدع."
+    ],
+    "category": "Work & Hustle",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "hua-zi",
+    "originalSlug": "hua-zi",
+    "characters": "画大饼",
+    "pinyin": "huà dà bǐng",
+    "meaning": "رسم فطيرة كبيرة - تقديم وعود فارغة، خاصة من قبل الرؤساء الذين يعدون بزيادات أو ترقيات لا تتحقق أبدًا.",
+    "origin": "مصطلح تقليدي تم استخدامه في ثقافة مكان العمل الحديثة، ويصف الوعود الجوفاء من الإدارة.",
+    "examples": [
+      "My boss loves to 画大饼 but never delivers.",
+      "يحب رئيسي أن يرسم فطيرة كبيرة ولكنه لا يفي أبدًا.",
+      "又画大饼了，这次我不信了。(Drawing another big pancake, but I won't believe it this time.)",
+      "يرسم فطيرة كبيرة أخرى، لكنني لن أصدق هذه المرة."
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "shai-tai-yang",
+    "originalSlug": "shai-tai-yang",
+    "characters": "晒",
+    "pinyin": "shài",
+    "meaning": "التفاخر/المشاركة علنًا - نشر صور للمشتريات أو الرحلات أو الإنجازات على وسائل التواصل الاجتماعي.",
+    "origin": "تعني في الأصل \"التجفيف في الشمس\". المعنى الموسع: كشف/عرض شيء ما علنًا، خاصة على وسائل التواصل الاجتماعي.",
+    "examples": [
+      "She's always 晒-ing her luxury bags on Instagram.",
+      "هي دائمًا ما تتفاخر بحقائبها الفاخرة على انستغرام.",
+      "朋友圈晒美食。(Sharing food photos on WeChat Moments.)",
+      "مشاركة صور الطعام على لحظات وي تشات."
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "bao-fu-xing-xiao-fei",
+    "originalSlug": "bao-fu-xing-xiao-fei",
+    "characters": "报复性消费",
+    "pinyin": "bào fù xìng xiāo fèi",
+    "meaning": "الإنفاق الانتقامي - الإسراف بشكل مفرط بعد فترة من عدم القدرة على الإنفاق (مثل، بعد عمليات الإغلاق).",
+    "origin": "أصبحت شائعة بعد انتهاء عمليات الإغلاق بسبب كوفيد واندفاع الناس للتسوق وتناول الطعام.",
+    "examples": [
+      "After lockdown, everyone went on a 报复性消费 spree.",
+      "بعد الإغلاق، انطلق الجميع في موجة إنفاق انتقامي.",
+      "解封后开始报复性消费。(Started revenge spending after restrictions were lifted.)",
+      "بدأ الإنفاق الانتقامي بعد رفع القيود."
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tian-hua-ban",
+    "originalSlug": "tian-hua-ban",
+    "characters": "天花板",
+    "pinyin": "tiān huā bǎn",
+    "meaning": "السقف - القمة المطلقة أو أعلى مستوى لشيء ما. تستخدم كصيغة تفضيل.",
+    "origin": "مستعارة من مفهوم \"السقف الزجاجي\" ولكنها تستخدم بشكل إيجابي لتعني \"الأفضل على الإطلاق\" في لغة الإنترنت الصينية العامية.",
+    "examples": [
+      "This is the 天花板 of hotpot restaurants.",
+      "هذا هو قمة مطاعم الهوت بوت.",
+      "颜值天花板。(The ceiling of attractiveness — the most attractive person.)",
+      "قمة الجاذبية - الشخص الأكثر جاذبية."
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "ci-sheng-ren",
+    "originalSlug": "ci-sheng-ren",
+    "characters": "刺客",
+    "pinyin": "cì kè",
+    "meaning": "قاتل الأسعار - منتج يبدو رخيصًا ولكنه يصدمك بسعر مرتفع بشكل غير متوقع عند الدفع.",
+    "origin": "بدأت بـ \"雪糕刺客\" (قاتل الآيس كريم) في عام 2022 عندما خدعت العلامات التجارية للآيس كريم باهظة الثمن الأشخاص الذين توقعوا أسعارًا رخيصة.",
+    "examples": [
+      "That ice cream was a 刺客 — looked normal but cost $8!",
+      "كان ذلك الآيس كريم قاتل أسعار - بدا طبيعيًا لكنه كلف 8 دولارات!",
+      "小心超市里的雪糕刺客。(Watch out for ice cream assassins in the supermarket.)",
+      "احذر من قتلة الآيس كريم في السوبر ماركت."
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-ban-nao",
+    "originalSlug": "xia-ban-nao",
+    "characters": "下班脑",
+    "pinyin": "xià bān nǎo",
+    "meaning": "دماغ ما بعد العمل - الحالة الذهنية المتمثلة في التفكير فقط في مغادرة العمل، وعدم وجود أي دافع.",
+    "origin": "اتجاه فيروسي في عام 2023 يصف العمال الموجودين جسديًا ولكنهم قد قاموا بالفعل بتسجيل الخروج عقليًا.",
+    "examples": [
+      "I have serious 下班脑 today — can't focus on anything.",
+      "لدي دماغ ما بعد العمل خطير اليوم - لا أستطيع التركيز على أي شيء.",
+      "一到下午三点就开始下班脑了。(Off-work brain kicks in at 3pm.)",
+      "يبدأ دماغ ما بعد العمل في الساعة 3 مساءً."
+    ],
+    "category": "Work & Hustle",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "suan-le",
+    "originalSlug": "suan-le",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "لا داعي / لا يهم - تعبير عن الاستسلام أو اتخاذ قرار بعدم الاهتمام بشيء ما.",
+    "origin": "عبارة تقليدية أصبحت مزاجًا / موقفًا بين الشباب، وغالبًا ما تستخدم كفلسفة حياة.",
+    "examples": [
+      "Want to argue about it? 算了. (هل تريد أن تجادل في الأمر؟ لا داعي.)",
+      "算了算了，不想了。(لا يهم، لا يهم، لا أريد التفكير في الأمر.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ye-sheng-de",
+    "originalSlug": "ye-sheng-de",
+    "characters": "野生",
+    "pinyin": "yě shēng",
+    "meaning": "بري / غير رسمي - شيء أو شخص عصامي، غير رسمي، أو تم اكتشافه في مكان غير متوقع.",
+    "origin": "تستخدم لوصف الأشخاص الموهوبين الهواة الذين تم العثور عليهم \"في البرية\" - مثل مغني شوارع جيد بشكل لا يصدق.",
+    "examples": [
+      "I found a 野生 singer on the subway who was amazing! (وجدت مغنيًا \"بريًا\" في مترو الأنفاق كان مذهلاً!)",
+      "野生程序员。(مبرمج \"بري\" عصامي.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhuan-zhuan",
+    "originalSlug": "zhuan-zhuan",
+    "characters": "润",
+    "pinyin": "rùn",
+    "meaning": "الهجرة / مغادرة الصين - من الكلمة الإنجليزية \"run\"، تستخدم لوصف الأشخاص الذين يغادرون البلاد.",
+    "origin": "أصبحت واسعة الانتشار في عام 2022 مع زيادة المناقشات حول الهجرة. تستخدم الحرف 润 (رطب / ناعم) كتورية لكلمة \"run\".",
+    "examples": [
+      "Many tech workers are thinking about 润. (يفكر العديد من العاملين في مجال التكنولوجيا في الهجرة.)",
+      "他润到加拿大了。(هاجر إلى كندا.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-di",
+    "originalSlug": "da-di",
+    "characters": "大地/大爹",
+    "pinyin": "dà dì / dà diē",
+    "meaning": "أبي الكبير - تستخدم بسخرية لوصف السلوك المتغطرس أو المتسلط.",
+    "origin": "عامية الإنترنت التي تسخر من الأشخاص الذين يتصرفون بتفوق أو باستحقاق، وخاصةً الكارين في خدمة العملاء.",
+    "examples": [
+      "Who do you think you are, 大爹? (من تظن نفسك، يا أبي الكبير؟)",
+      "又来了一个大爹顾客。(جاء زبون \"أبي كبير\" آخر.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2022",
+    "formality": "very informal"
+  }
+]

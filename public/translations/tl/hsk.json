@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Kumusta",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "parirala",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(Kumusta, ang pangalan ko ay Xiao Ming.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "Salamat",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(Salamat sa iyong tulong.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "Paalam",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "parirala",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(Magkita tayo bukas, paalam!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "Maging / Oo",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(Ako ay isang estudyante.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "Hindi / Wala",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(Hindi ako umiinom ng kape.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "Ako",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(Ako ay masaya.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "Siya (lalaki)",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(Siya ang aking kaibigan.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "Siya (babae)",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(Siya ay maganda.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "Mabuti / Maayos",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(Maganda ang panahon ngayon.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "Malaki",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(Malaki ang kwartong ito.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Maliit / Kaunti",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(Mayroon akong maliit na pusa.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "Kumain",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Tara, kumain tayo.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "Uminom",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(Anong gusto mong inumin?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "Tumingin / Manood",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Manood tayo ng sine.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "Makinig",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(Gusto kong makinig sa musika.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "Magsalita / Sabihin",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Marunong ka bang magsalita ng Chinese?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "Magbasa",
+    "originalMeaning": "To read",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(Nagbabasa ako araw-araw.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "Sumulat",
+    "originalMeaning": "To write",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Pakiusap, isulat mo ang iyong pangalan.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "Mag-aral",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(Nag-aaral ako ng Chinese.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "Kaibigan",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(Siya ang aking matalik na kaibigan.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "Bahay / Pamilya",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(Maligayang pagdating sa aking bahay.)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Tubig",
+    "originalMeaning": "Water",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(Pakiabot po ng isang basong tubig.)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "Pera",
+    "originalMeaning": "Money",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(Magkano ito?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "Ngayon",
+    "originalMeaning": "Today",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(Anong araw ngayon?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "Bukas",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(Pupunta tayo sa parke bukas.)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "Kahapon",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(Umulan kahapon.)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "Magkano / Ilan",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(Ilang taon ka na?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "Ano",
+    "originalMeaning": "What",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(Ano ang pangalan mo?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "Saan",
+    "originalMeaning": "Where",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(Saan ka nakatira?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "Sino",
+    "originalMeaning": "Who",
+    "partOfSpeech": "panghalip",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(Sino ito?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "Kaya / Samakatuwid",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(May sakit siya, kaya hindi siya nakapunta.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "Pero / Gayunpaman",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Mahal, pero masarap.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "Nang / Na",
+    "originalMeaning": "Already",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(Kumain na ako.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "Pwede / Maaari",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(Pwede ba akong pumasok?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "Mabilis",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(Masyado kang mabilis maglakad.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "Mabagal",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Pakiusap, magsalita ka ng mas mabagal.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "Abala / Busy",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(Abala ako kamakailan.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "Malayo",
+    "originalMeaning": "Far",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(Malayo ang paaralan mula dito.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "Malapit",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(Malapit ang supermarket sa bahay ko.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "Tumulong",
+    "originalMeaning": "To help",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Salamat sa pagtulong mo sa akin.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "Maghanda",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Handa ka na ba?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "Magsimula",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(Nagsimula na ang laro.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "Malaman / Mabatid",
+    "originalMeaning": "To know",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(Hindi ko alam.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "Mag-isip / Makiramdam",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(Ano sa tingin mo?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "Umasa / Pag-asa",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(Umaasa ako na maganda ang panahon bukas.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "Sa tabi / Katabi",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(Ang bangko ay katabi ng supermarket.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "Paliparan",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(Gaano katagal pumunta sa paliparan?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "Tren sa ilalim ng lupa / Metro",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(Sumasakay ako ng tren sa ilalim ng lupa papunta sa trabaho.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "Teleponong selular",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(Lowbat na ang telepono ko.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "Kaarawan",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(Maligayang kaarawan!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "Katawan / Kalusugan",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(Mag-ingat sa iyong kalusugan.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "Mata",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(Ang kanyang mga mata ay napakaganda.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "Bagaman / Kahit na",
+    "originalMeaning": "Although",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(Bagaman pagod, ako ay masaya.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "O / Pa rin",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(Kape o tsaa ang gusto mo?) "
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "Magkasama",
+    "originalMeaning": "Together",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(Magpunta tayo nang magkasama.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "Madalas / Kadalasan",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(Madalas akong nag-eehersisyo.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "Sobrang / Labis",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(Maraming salamat!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "Siguro / Posible",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(Baka umulan bukas.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "Talagang / Dapat",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(Talagang magtatagumpay ka.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "Kapaligiran",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(Dapat nating protektahan ang kapaligiran.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "Karanasan",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(Mayroon ka bang karanasan sa trabaho?)"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "Pagkakataon",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(Ito ay isang magandang pagkakataon.)"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "Pumili / Pagpili",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(Alin ang pipiliin mo?)"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "Magpasya / Desisyon",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(Nagpasya akong pumunta sa Tsina.)"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "Makaimpluwensya / Impluwensya",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(Naapektuhan ng panahon ang aking kalooban.)"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "Medyo / Ihambing",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(Medyo malamig ngayon.)"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "Lalo na / Espesyal",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(Ang putaheng ito ay lalong masarap.)"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "Sa totoo lang / Sa katunayan",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(Sa totoo lang, hindi ko rin alam.)"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "Sa wakas",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(Sa wakas, natagpuan ko na!)"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "Pakiramdam / Makaramdam",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(Hindi ako gaanong komportable.)"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "Lutasin / Resolbahin",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(Nalutas na ang problema.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "Talakayin",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Talakayin natin ang isyung ito.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "Magsanay / Ehersisyo",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(Mas maraming pagsasanay, mas magiging mahusay.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "Pagbutihin / Itaas",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(Gusto kong pagbutihin ang antas ko sa Chinese.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "Tanggapin",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(Tinatanggap ko ang iyong mungkahi.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "Sumali / Makilahok",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Sasali ka ba sa kompetisyon?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "Unawain / Alamin ang tungkol sa",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(Gusto kong alamin ang tungkol sa kultura ng Tsina.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "Magbigay pansin / Mag-ingat",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Mag-ingat po kayo.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "Magplano / Magbalak",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(Kailan mo balak pumunta?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "Ayon sa / Batay sa",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "pang-ukol",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(Ayon sa ulat panahon, uulan bukas.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "O (sa mga pahayag)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "pang-ugnay",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(Maaari kang sumakay ng bus o tren.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "Basta",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "pang-ugnay",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(Basta magsumikap ka, magtatagumpay ka.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "Anuman / Gaano man",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "pang-ugnay",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(Anuman ang mangyari, susuportahan kita.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "Pag-uugali / Saloobin",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(Ang pag-uugali ang nagtatakda ng lahat.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "Kailangan / Pangangailangan",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(Kailangan ko ang iyong tulong.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "Dapat / Nararapat",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(Dapat kang magpahinga nang madalas.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "Nasisiyahan / Kontento",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(Nasisiyahan ako sa resulta.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "Karaniwan / Pangkaraniwan",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(Ako ay isang karaniwang tao.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "Magmungkahi / Mungkahi",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(Iminumungkahi ko na mag-ehersisyo ka nang madalas.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "Magpahayag",
+    "originalMeaning": "To express",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(Hindi ko alam kung paano ito ipahayag.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "Makipag-usap / Magpalitan",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(Kailangan nating mas madalas makipag-usap.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "Patunayan / Katibayan",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(Pinatunayan ng mga pangyayari na tama siya.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Mayaman / Sagana",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(Ang kulturang Tsino ay napakayaman.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Kumplikado / Masalimuot",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(Ang problemang ito ay napakakumplikado.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Ipinagmamalaki / Pagmamalaki",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(Ipinagmamalaki kita.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Aktibo / Positibo",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(Panatilihin ang positibong pananaw.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Hirap / Mahirap",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(Huwag matakot sa mga paghihirap.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Mahinahon / Malambing",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(Siya ay napakahinahon.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Tapat",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(Dapat maging tapat ang isang tao.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "Maantig / Nakakaantig",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(Ang kuwentong ito ay nakakaantig.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "Hindi Pagkakaunawaan",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 4,
+    "examples": [
+      "Isa itong hindi pagkakaunawaan. (This is a misunderstanding.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "Epekto / Resulta",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 4,
+    "examples": [
+      "Napakahusay ng epekto. (The effect is very good.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "Kahit na",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 4,
+    "examples": [
+      "Kahit na mabigo ako, hindi ako susuko. (Even if I fail, I won't give up.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Kung hindi",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 4,
+    "examples": [
+      "Bilisan mo, kung hindi ay mahuhuli tayo. (Hurry up, otherwise we'll be late.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "Dahil / Ngayong",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 4,
+    "examples": [
+      "Dahil nandito ka na, manatili ka na. (Since you're here, stay.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "Sa kabila ng / Kahit na",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 4,
+    "examples": [
+      "Sa kabila ng hirap, susubukan ko pa rin. (Despite the difficulty, I'll try.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "Noon pala / Kaya pala",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 4,
+    "examples": [
+      "Ikaw pala! (So it was you!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "Nakakagulat / Sa pagtataka ng isa",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 4,
+    "examples": [
+      "Nakakapagsalita pala siya ng Chinese! (He can speak Chinese, surprisingly!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "Unti-unti",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 4,
+    "examples": [
+      "Unti-unting umiinit ang panahon. (The weather is gradually getting warmer.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "Masaya / Pinagpala",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "Nawa'y maging masaya ka! (Wishing you happiness!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "Matapang / Magiting",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "Kailangan mong harapin ito nang matapang. (你要勇敢面对。(You must bravely face it.))"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "Igalang / Paggalang",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 4,
+    "examples": [
+      "Igalang ang ibang tao. (要尊重别人。(Respect others.))"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "Responsibilidad / Pananagutan",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 4,
+    "examples": [
+      "Ito ang aking responsibilidad. (这是我的责任。(This is my responsibility.))"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "Ekonomiya / Pang-ekonomiya",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 4,
+    "examples": [
+      "Mabilis ang pag-unlad ng ekonomiya ng Tsina. (中国经济发展很快。(China's economy is developing rapidly.))"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "Tradition / Tradisyonal",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 4,
+    "examples": [
+      "Ito ang tradisyonal na kultura ng Tsina. (这是中国的传统文化。(This is traditional Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "Pansamantala",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 4,
+    "examples": [
+      "Wala akong plano pansamantala. (我暂时没有计划。(I don't have plans temporarily.))"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "Ganap / Sapat",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 4,
+    "examples": [
+      "Maging ganap na handa. (做好充分的准备。(Be fully prepared.))"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "Makipag-usap / Komunikasyon",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "Mahalaga ang epektibong komunikasyon. (有效沟通很重要。(Effective communication is important.))"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "I-coordinate / Mag-ugnay",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "Ako ang mag-uugnay sa lahat ng aspeto. (我来协调各方面。(I'll coordinate all aspects.))"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "Kontribusyon / Mag-ambag",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "Malaki ang kanyang naiambag. (他做出了巨大贡献。(He made a huge contribution.))"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "Kalidad / Uri (ng isang tao)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Mahalaga ang pagpapabuti ng personal na kalidad.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "Bumawi / Magbayad",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Bumawi sa pagkakamali sa pamamagitan ng aksyon.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "Natatangi / Kakaiba",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(Ang lugar na ito ay napaka-natatangi.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "Malinaw / Halata",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Malinaw na mali ang sinabi niya.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "Malalim / Makahulugan",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(Ang aklat na ito ay may malalim na kahulugan.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "Madalas",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(Masyadong madalas ang overtime kamakailan.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "Pasanin / Gampanan",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(Handa akong pasanin ang responsibilidad.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "Panatilihin / Ingatan",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Manatiling kalmado.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "Itaguyod / Padaliin",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(Ang ehersisyo ay nagtataguyod ng kalusugan.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "Ipakita / Iulat",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(Ipinapakita nito ang mga problema sa lipunan.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "Sa kasalukuyan / Sa ngayon",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(Hindi masama ang kasalukuyang sitwasyon.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "Makatuwiran / Rasyonal",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(Ang presyong ito ay napakamakatuwiran.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "Nababaluktot / Maliksi",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(Ang oras ng trabaho ay medyo nababaluktot.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "Kahalagahan / Kalikasan",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(Ano ang kahalagahan ng problema?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "Kalakaran / Hilig",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(Ito ang kalakaran ng hinaharap.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "Larangan / Sakop",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(Sikat siya sa larangan ng teknolohiya.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "Magtaglay / Mayroon",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(Nagtataglay siya ng kakayahang mamuno.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "Pagtagumpayan",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(Pagtagumpayan ang mga paghihirap at magpatuloy.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "Bumalik sa dati / Ibalik",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(Bumalik na siya sa dati niyang kalusugan.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "Bumuo / Maghugis",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(Unti-unting nabuo ang isang gawi.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "Pagsasanay / Isagawa",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(Dapat pagsamahin ang teorya at pagsasanay.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "Laki / Saklaw",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(Lumaki nang lumaki ang laki ng kumpanya.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "Hindi maiiwasan / Tiyak",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(Ang pagsisikap ay tiyak na may gantimpala.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "Humigit-kumulang / Marahil",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(Humigit-kumulang dalawang oras ang kailangan.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "Sa gayon / Kaya",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(Mag-aral nang mabuti, sa gayon ay makakuha ng magagandang marka.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "Lalo na / Hindi pa banggitin",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "pangatnig",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(Hindi kaya ng mga matatanda, lalo na ang mga bata.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "Hindi direkta / Mahinhin",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(Ang mga Tsino ay nagpapahayag ng damdamin sa isang mahinhin na paraan.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "Kakaiba / Hindi pamilyar",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(Hindi ako pamilyar sa lugar na ito.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "Matalinghaga / Delikado",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(Ang relasyon sa pagitan ng dalawa ay matalinghaga.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "Maalam / Malalim (kaalaman)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(Ang kanyang kaalaman ay napakalalim.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "Umasa / Pananabik",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(Puno siya ng pananabik para sa kinabukasan.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "Magmuni-muni / Subukang alamin",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(Sinusubukan kong alamin ang ibig niyang sabihin.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "Malasing (sa saya)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(Nalasing siya sa musika.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "Maunawaan / Maintindihan",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(Sa wakas naintindihan ko na ang katotohanang ito.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "Mag-aral nang masinsinan / Sumisid sa",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(Pinag-aralan niya ito nang masinsinan sa loob ng maraming taon.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "Malalim na pag-unawa / Makita ang tunay na motibo",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(Mayroon siyang malalim na pag-unawa sa kalikasan ng tao.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "Itaguyod / Isulong",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(Isulong ang tradisyunal na kultura.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "Klasikal na pagbanggit / Makasaysayang anekdota",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(Ang bawat idyoma ay may klasikal na pagbanggit sa likod nito.)"
+    ],
+    "notes": "Karaniwang ginagamit kapag tinatalakay ang pinagmulan ng mga idyoma ng Tsino."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "Konotasyon / Panloob na kahulugan",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(Mayaman sa konotasyon ang tulang ito.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "Kultibasyon / Kasanayan",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(Pagbutihin ang kultural na kultibasyon.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "Pamana ng kultura / Lalim",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(Ang lungsod na ito ay may malalim na pamana ng kultura.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "Padron / Layout / Bisyon",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(Dapat magkaroon ng malawak na bisyon.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "Saklaw / Antas ng pagtatamo",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(Ito ang pinakamataas na antas ng buhay.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "Esensya / Pinakadiwa",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Natutunan ang esensya ng kulturang Tsino.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "Pinagmulan / Malalim na koneksyon",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(Ang dalawang bansa ay may malalim na koneksyon sa kasaysayan.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "Metapora",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "pangngalan",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Ang mga idyoma ay madalas gumamit ng mga metaporikal na pamamaraan.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "Malawak at malalim",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Ang kulturang Tsino ay malawak at malalim.)"
+    ],
+    "notes": "Ito mismo ay isang idyoma (chengyu)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "Lubusang makabisado sa pamamagitan ng pag-unawa",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Ang pag-aaral ay dapat may kasamang lubusang pag-unawa.)"
+    ],
+    "notes": "Ito mismo ay isang idyoma (chengyu)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "May mahabang kasaysayan",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Ang kulturang Tsino ay may mahabang kasaysayan.)"
+    ],
+    "notes": "Ito mismo ay isang idyoma (chengyu)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "Nakakapag-isip / Karapat-dapat pag-isipan",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "pang-uri",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(Ang kuwentong ito ay nakakapag-isip.)"
+    ],
+    "notes": "Ito mismo ay isang idyoma (chengyu)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "Impluwensyahan nang hindi namamalayan / Hindi napapansing impluwensya",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(Ang kultura ay hindi namamalayang nakakaimpluwensya sa mga tao.)"
+    ],
+    "notes": "Isa itong idyoma (chengyu)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "Dumarami araw-araw",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(Ang bilang ng mga taong nag-aaral ng Chinese ay dumarami araw-araw.)"
+    ],
+    "notes": "Isa itong idyoma (chengyu)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "Maghinuha ng maraming bagay mula sa isang kaso",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(Sa pag-aaral, dapat maghinuha ng maraming bagay mula sa isang kaso.)"
+    ],
+    "notes": "Isa itong idyoma (chengyu)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "Hakbang-hakbang / Pag-unlad nang sunud-sunod",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "pang-abay",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(Ang pag-aaral ng wika ay dapat umunlad nang sunud-sunod.)"
+    ],
+    "notes": "Isa itong idyoma (chengyu)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "Mamukod-tangi / Natatanging estilo",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "pandiwa",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(Ang kanyang estilo ng pagsulat ay tunay na natatangi.)"
+    ],
+    "notes": "Isa itong idyoma (chengyu)!"
+  }
+]

@@ -1,0 +1,1212 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "Tính tiền / Cho xin hóa đơn",
+    "context": "Dùng khi bạn muốn thanh toán sau bữa ăn. Chỉ cần giơ tay và nói với phục vụ. Ở một số vùng, 结账 (jié zhàng) được dùng thay thế.",
+    "examples": [
+      "服务员，买单！(Phục vụ ơi, tính tiền!)",
+      "Can we 买单? We're ready to go. (Chúng tôi có thể tính tiền được không? Chúng tôi sẵn sàng đi rồi.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "Đóng gói mang về / Gói đồ ăn thừa",
+    "context": "Dùng khi bạn có đồ ăn thừa và muốn mang về nhà. Rất phổ biến và không bị coi là bất lịch sự ở Trung Quốc — lãng phí thức ăn còn tệ hơn.",
+    "examples": [
+      "这个菜打包吧。(Hãy gói món này lại nhé.)",
+      "可以打包吗？(Tôi có thể gói mang về được không?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "Không cay / Làm ơn đừng cay",
+    "context": "Cụm từ sống còn ở Tứ Xuyên, Hồ Nam và các vùng nhiều gia vị khác. Các biến thể: 少辣 (shǎo là, ít cay), 微辣 (wēi là, cay nhẹ), 中辣 (zhōng là, cay vừa).",
+    "examples": [
+      "不要辣，谢谢。(Không cay, cảm ơn.)",
+      "我不能吃辣，少辣可以吗？(Tôi không ăn được cay, làm ít cay được không?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "Bạn có gợi ý gì không?",
+    "context": "Cách tuyệt vời để khám phá các đặc sản địa phương. Nhân viên nhà hàng thường thích giới thiệu các món đặc trưng của họ. Cũng có thể được sử dụng tại các cửa hàng hoặc quán cà phê.",
+    "examples": [
+      "你们这儿有什么推荐？(Ở đây bạn có gợi ý gì không?)",
+      "第一次来，有什么推荐的菜？(Lần đầu đến đây, bạn có gợi ý món nào không?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "Tôi ăn chay",
+    "context": "Quan trọng đối với người ăn chay khi đi ăn ngoài. Lưu ý rằng \"ăn chay\" ở Trung Quốc vẫn có thể bao gồm trứng và sữa. Đối với người ăn thuần chay, hãy nói 我是纯素 (wǒ shì chún sù).",
+    "examples": [
+      "我吃素，有素菜吗？(Tôi ăn chay, có món chay không?)",
+      "这个里面有肉吗？我吃素。(Cái này có thịt không? Tôi ăn chay.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "Chúc mừng! / Uống cạn ly!",
+    "context": "Nghĩa đen là \"cạn ly\" - có nghĩa là uống hết đồ uống của bạn trong một lần. Tại các bữa tối trang trọng, bạn có thể nghe thấy điều này nhiều lần. Bạn cũng có thể nói 随意 (suí yì, uống theo tốc độ của bạn) nếu bạn không thể theo kịp.",
+    "examples": [
+      "为我们的友谊干杯！(Chúc mừng tình bạn của chúng ta!)",
+      "来，干杯！(Nào, uống cạn ly!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "Cho thêm một phần nữa / Làm ơn cho thêm một cái nữa",
+    "context": "Được sử dụng để gọi thêm một món ăn, đồ uống hoặc phần. Sử dụng được trong nhà hàng, quán bar và các quán ăn đường phố.",
+    "examples": [
+      "这个很好吃，再来一个！(Cái này ngon quá, cho thêm một cái nữa!)",
+      "啤酒再来一个。(Cho thêm một cốc bia nữa.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "Tôi no rồi / Tôi ăn đủ rồi",
+    "context": "Cách lịch sự để từ chối thêm thức ăn. Trong văn hóa Trung Quốc, chủ nhà sẽ liên tục mời thức ăn. Nói 吃饱了 thể hiện sự đánh giá cao đồng thời cho biết bạn đã ăn đủ.",
+    "examples": [
+      "谢谢，我吃饱了。(Cảm ơn, tôi no rồi.)",
+      "真的吃饱了，不用再加了。(Thật sự no rồi, không cần thêm nữa đâu.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "Chia hóa đơn / Cưa đôi",
+    "context": "Phổ biến giữa bạn bè và những người trẻ tuổi. Trong văn hóa Trung Quốc truyền thống, một người thường trả tiền cho cả bàn, nhưng AA制 ngày càng được chấp nhận, đặc biệt là trong giới trẻ.",
+    "examples": [
+      "今天AA制吧。(Hôm nay mình chia hóa đơn nhé.)",
+      "我们AA还是你请？(Mình chia hay bạn trả?) "
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "Cái này ăn như thế nào?",
+    "context": "Hữu ích khi đối mặt với các món ăn Trung Quốc lạ như lẩu, vịt quay Bắc Kinh cuốn hoặc xiaolongbao. Không ai đánh giá bạn khi hỏi - nó thể hiện sự quan tâm thực sự.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(Cái này ăn như thế nào? Có cần chấm nước chấm không?)",
+      "小笼包怎么吃才不会烫？(Ăn xiaolongbao như thế nào để không bị bỏng?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "Đắt quá!",
+    "context": "Cụm từ thiết yếu để mặc cả ở chợ. Hãy nói điều này với một biểu cảm hơi đau khổ để có hiệu quả tối đa. Có tác dụng ở chợ, cửa hàng nhỏ và với người bán hàng rong — không có tác dụng trong trung tâm thương mại hoặc chuỗi cửa hàng.",
+    "examples": [
+      "太贵了，便宜点吧！(Đắt quá, bớt chút đi!)",
+      "这个太贵了，我再看看。(Cái này đắt quá, tôi xem thêm đã.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "Bớt chút đi / Giảm giá cho tôi đi",
+    "context": "Câu nói tiếp theo sau 太贵了. Một cách lịch sự để bắt đầu thương lượng. Có thể kết hợp với các lý do như mua nhiều món hoặc là khách hàng quen.",
+    "examples": [
+      "老板，便宜点嘛！(Ông chủ, bớt chút đi mà!)",
+      "买两个能便宜点吗？(Mua hai cái có bớt được không?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "Tôi có thể thử nó được không?",
+    "context": "Được sử dụng trong các cửa hàng quần áo, cửa hàng giày dép hoặc khi nếm thử thức ăn. Hầu hết các cửa hàng sẽ cho bạn thử đồ, mặc dù một số quầy hàng ở chợ có thể không cho.",
+    "examples": [
+      "这件衣服可以试试吗？(Tôi có thể thử chiếc áo này được không?)",
+      "这个口味可以试试吗？(Tôi có thể thử hương vị này được không?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "Bạn có màu khác không?",
+    "context": "Hữu ích khi mua sắm quần áo, phụ kiện hoặc đồ gia dụng. Bạn có thể thay thế 颜色 bằng 尺码 (chǐ mǎ, kích cỡ) hoặc 款式 (kuǎn shì, kiểu dáng).",
+    "examples": [
+      "这个有没有别的颜色？(Cái này có màu khác không?)",
+      "有没有大一号的？(Bạn có cái lớn hơn một cỡ không?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "Thẻ hay tiền mặt?",
+    "context": "Bạn sẽ nghe thấy điều này khi thanh toán. Ngày nay, hầu hết các địa điểm cũng chấp nhận WeChat Pay và Alipay. Bạn cũng có thể nghe thấy 微信还是支付宝 (WeChat hay Alipay?).",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Thẻ hay tiền mặt?——Tôi có thể dùng WeChat Pay không?)",
+      "可以刷卡吗？(Tôi có thể thanh toán bằng thẻ không?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "Giảm giá / đang giảm giá",
+    "context": "Ở Trung Quốc, giảm giá được diễn tả bằng tỷ lệ phần trăm bạn phải trả: 打八折 nghĩa là 80% giá (giảm 20%), 打五折 nghĩa là 50% giá. Điều này ngược lại với cách giảm giá hoạt động trong tiếng Anh.",
+    "examples": [
+      "现在打折吗？(Xiànzài dǎzhé ma?) (Bây giờ có giảm giá không?)",
+      "这个打几折？(Zhège dǎ jǐ zhé?) (Cái này giảm bao nhiêu phần trăm?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "Cái này là hàng giả hả? / Không thể nào!",
+    "context": "Được sử dụng khi nghi ngờ tính xác thực của sản phẩm ở chợ, hoặc như một cách diễn đạt sự không tin trong cuộc trò chuyện. Trong bối cảnh mua sắm, hãy cẩn thận khi sử dụng câu này quá gay gắt.",
+    "examples": [
+      "这个是真的还是假的？(Zhège shì zhēn de háishì jiǎ de?) (Cái này là thật hay giả?)",
+      "五百块？假的吧！(Wǔbǎi kuài? Jiǎ de ba!) (500 tệ? Không thể nào!)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "Có miễn phí vận chuyển không?",
+    "context": "Rất cần thiết khi mua sắm trực tuyến trên Taobao, JD.com, v.v. Một trong những điều đầu tiên người mua sắm Trung Quốc hỏi. Cũng có thể được sử dụng một cách hài hước khi nói chuyện trực tiếp.",
+    "examples": [
+      "这个包邮吗？(Zhège bāo yóu ma?) (Cái này có miễn phí vận chuyển không?)",
+      "满多少包邮？(Mǎn duōshao bāo yóu?) (Mua bao nhiêu thì được miễn phí vận chuyển?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "Trả lại hàng / hoàn tiền",
+    "context": "Được sử dụng khi bạn muốn trả lại thứ gì đó bạn đã mua. 退款 (tuì kuǎn) cụ thể có nghĩa là hoàn lại tiền. Các nền tảng mua sắm trực tuyến thường có chính sách trả hàng trong 7 ngày.",
+    "examples": [
+      "这个可以退货吗？(Zhège kěyǐ tuìhuò ma?) (Cái này có thể trả lại được không?)",
+      "我想退货退款。(Wǒ xiǎng tuìhuò tuìkuǎn.) (Tôi muốn trả lại hàng và được hoàn tiền.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "Giá thấp nhất là bao nhiêu? / Giá tốt nhất của bạn là bao nhiêu?",
+    "context": "Chiến thuật mạnh mẽ trong việc mặc cả. Sử dụng điều này sau khi đã trao đổi qua lại một vài lần. Nó báo hiệu rằng bạn nghiêm túc về việc mua nhưng cần một mức giá tốt hơn.",
+    "examples": [
+      "最低多少钱？(Zuìdī duōshao qián?) (Giá thấp nhất tuyệt đối là bao nhiêu?)",
+      "不用讲价了，最低多少？(Bùyòng jiǎngjià le, zuìdī duōshao?) (Không cần mặc cả nữa, giá chót là bao nhiêu?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "Đi đường nào? / Làm thế nào để đến đó?",
+    "context": "Câu hỏi chỉ đường cơ bản nhất. Chỉ vào bản đồ hoặc đề cập đến một địa điểm nổi tiếng, sau đó hỏi 怎么走. Mọi người thường sẽ chỉ cho bạn đi đúng hướng ngay cả khi có rào cản ngôn ngữ.",
+    "examples": [
+      "请问，地铁站怎么走？(Qǐngwèn, dìtiě zhàn zěnme zǒu?) (Xin hỏi, đi đến ga tàu điện ngầm bằng cách nào?)",
+      "去天安门怎么走？(Qù Tiān'ānmén zěnme zǒu?) (Đi đến Thiên An Môn bằng cách nào?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "Đến chưa? / Tới nơi chưa?",
+    "context": "Được sử dụng trong taxi, xe buýt hoặc khi ai đó đang lái xe cho bạn. Bạn cũng có thể hỏi tài xế 快到了吗 (kuài dào le ma, sắp đến chưa?).",
+    "examples": [
+      "师傅，到了吗？(Shīfu, dào le ma?) (Bác tài, đến chưa ạ?)",
+      "还没到吗？还有多远？(Hái méi dào ma? Hái yǒu duō yuǎn?) (Vẫn chưa đến à? Còn bao xa nữa?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "Tôi xuống xe ở đâu?",
+    "context": "Được sử dụng trên xe buýt và tàu điện ngầm. Cho tài xế hoặc hành khách xem điểm đến của bạn trên điện thoại và hỏi câu này. Trên xe buýt, tài xế hoặc thông báo tự động sẽ gọi tên các trạm.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Qǐngwèn, qù Gùgōng zài nǎlǐ xià chē?) (Xin hỏi, đi đến Cố Cung thì xuống xe ở đâu?)",
+      "我应该在哪一站下车？(Wǒ yīnggāi zài nǎ yī zhàn xià chē?) (Tôi nên xuống ở trạm nào?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "Kẹt xe rồi / Bị kẹt xe",
+    "context": "Rất phổ biến ở các thành phố Trung Quốc, đặc biệt là trong giờ cao điểm. Các tài xế taxi thường chủ động đề cập đến điều này. Một lý do hữu ích để đến muộn.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Bù hǎoyìsi, dǔchē le, kěnéng yào chídào.) (Xin lỗi, bị kẹt xe, có thể sẽ đến muộn.)",
+      "这条路总是堵车。(Zhè tiáo lù zǒngshì dǔchē.) (Con đường này luôn bị kẹt xe.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "Bác tài, dừng lại ở đây",
+    "context": "Được sử dụng trong taxi và xe ôm công nghệ khi bạn muốn được thả xuống. 师傅 (shī fu) là cách tôn trọng để gọi một tài xế. Bạn cũng có thể nói 前面停 (qián miàn tíng, dừng ở phía trước).",
+    "examples": [
+      "师傅，前面路口停一下。(Shīfu, qiánmiàn lùkǒu tíng yīxià.) (Bác tài, dừng ở ngã tư phía trước.)",
+      "师傅，就这里停吧。(Shīfu, jiù zhèlǐ tíng ba.) (Bác tài, dừng ở đây đi.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "Tôi bị lạc đường.",
+    "context": "Đưa điện thoại cho ai đó với điểm đến trên bản đồ và nói câu này. Hầu hết người Trung Quốc sẽ sẵn lòng giúp bạn tìm đường, đôi khi thậm chí dẫn bạn đến đó.",
+    "examples": [
+      "不好意思，我迷路了。(Excuse me, I'm lost.) - Xin lỗi, tôi bị lạc đường.",
+      "我迷路了，这里是哪儿？(I'm lost, where is this?) - Tôi bị lạc đường, đây là đâu?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "Bạn có Wi-Fi không?",
+    "context": "Rất cần thiết cho khách du lịch. Hầu hết các quán cà phê, nhà hàng và khách sạn đều có Wi-Fi. Mật khẩu thường được hiển thị trên bảng hiệu hoặc bạn có thể hỏi: 密码是什么 (mì mǎ shì shén me, mật khẩu là gì?).",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Do you have Wi-Fi? What's the password?) - Xin hỏi có Wi-Fi không? Mật khẩu là gì?",
+      "这里Wi-Fi信号好吗？(Is the Wi-Fi signal good here?) - Tín hiệu Wi-Fi ở đây có tốt không?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "Bao lâu nữa thì đến? / Mất bao lâu?",
+    "context": "Được sử dụng trong taxi, với tài xế xe ôm công nghệ hoặc khi hỏi về thời gian di chuyển. Cũng dùng được cho ước tính giao hàng và hẹn gặp bạn bè.",
+    "examples": [
+      "师傅，多久能到？(Driver, how long until we get there?) - Tài xế ơi, bao lâu nữa thì đến?",
+      "坐地铁多久能到？(How long does it take by subway?) - Đi tàu điện ngầm mất bao lâu?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "Có gần không? / Có ở gần đây không?",
+    "context": "Một cách nhanh chóng để đánh giá khoảng cách trước khi quyết định đi bộ đến đâu đó. Câu trả lời thường là 很近 (hěn jìn, rất gần) hoặc 不远 (bù yuǎn, không xa) — mặc dù định nghĩa về \"gần\" của người Trung Quốc có thể rất khác nhau.",
+    "examples": [
+      "地铁站近不近？(Is the subway station nearby?) - Ga tàu điện ngầm có gần đây không?",
+      "走路去近不近？(Is it close enough to walk?) - Đi bộ có gần không?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "Điều hướng GPS / sử dụng ứng dụng bản đồ",
+    "context": "Bảo tài xế taxi đi theo GPS hoặc nhờ ai đó giúp bạn điều hướng. 高德地图 (Gaode/Amap) và 百度地图 (Baidu Maps) là các ứng dụng điều hướng chính ở Trung Quốc.",
+    "examples": [
+      "师傅，你开导航吧。(Driver, just follow the GPS.) - Tài xế ơi, cứ bật định vị đi.",
+      "我导航一下。(Let me check the navigation.) - Để tôi xem định vị một chút."
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "Bạn có rảnh không? / Bạn có thời gian không?",
+    "context": "Cách thông thường để mời ai đó đi chơi. Thường đi kèm với một kế hoạch cụ thể. Có thể dùng cho hôm nay hoặc một ngày trong tương lai — thêm một từ chỉ thời gian như 明天 (míng tiān, ngày mai) hoặc 周末 (zhōu mò, cuối tuần).",
+    "examples": [
+      "周末有空吗？一起吃饭？(Bạn có rảnh cuối tuần này không? Đi ăn cùng nhau nhé?)",
+      "你明天有空吗？(Ngày mai bạn có rảnh không?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "Để hôm khác nhé / Hẹn bạn hôm khác",
+    "context": "Một cách lịch sự để từ chối một lời mời mà không nói thẳng là không. Trong văn hóa giao tiếp của người Trung Quốc, đây là một sự từ chối nhẹ nhàng để giữ thể diện cho cả hai bên.",
+    "examples": [
+      "今天太忙了，改天吧。(Hôm nay bận quá, để hôm khác nhé.)",
+      "改天再约吧。(Hẹn bạn lần sau nhé.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "Sao cũng được / Gì cũng được / Tôi không ngại",
+    "context": "Câu trả lời phổ biến nhất (và đôi khi gây bực bội) khi lên kế hoạch. Được sử dụng khi bạn thực sự không có sở thích gì. Cảnh báo: nói 随便 quá nhiều có thể khiến bạn có vẻ thờ ơ.",
+    "examples": [
+      "吃什么？——随便，都行。(Ăn gì đây?——Sao cũng được, gì cũng được.)",
+      "你随便选吧。(Bạn cứ chọn gì cũng được.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "Tùy bạn / Do bạn quyết định",
+    "context": "Chuyển giao quyết định cho người khác. Tương tự như 随便 nhưng đặt trách nhiệm lên người khác. Phổ biến khi bạn bè quyết định ăn ở đâu, làm gì, v.v.",
+    "examples": [
+      "去哪儿？——看你。(Đi đâu đây?——Tùy bạn.)",
+      "想看什么电影？看你吧。(Muốn xem phim gì? Do bạn quyết định.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Thôi đi / Bỏ đi",
+    "context": "Được sử dụng khi từ bỏ một kế hoạch, bỏ qua một cuộc tranh cãi hoặc quyết định điều gì đó không đáng để nỗ lực. Có thể thể hiện sự thất vọng nhẹ hoặc chấp nhận.",
+    "examples": [
+      "等了半小时了，算了，走吧。(Đợi nửa tiếng rồi, thôi đi, đi thôi.)",
+      "算了算了，不想了。(Thôi đi thôi đi, không muốn nghĩ nữa.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "Tôi không quan tâm / Không sao đâu",
+    "context": "Mạnh hơn 随便. Có thể nghe có vẻ thờ ơ hoặc thật sự dễ tính tùy thuộc vào ngữ điệu. Sử dụng cẩn thận — với ngữ điệu sai, nó có thể nghe như là gạt bỏ.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(You're late!——Doesn't matter, I wasn't doing anything anyway.) -> Bạn đến muộn rồi! - Không sao đâu, tôi cũng không có việc gì.",
+      "去不去都无所谓。(It doesn't matter whether we go or not.) -> Đi hay không cũng không sao."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "Lần sau nhé / Có lẽ lần sau",
+    "context": "Một cách lịch sự khác để từ chối hoặc hoãn kế hoạch. Tương tự như 改天吧 nhưng đặc biệt đề cập đến cơ hội tiếp theo. Đôi khi nó thực sự có nghĩa là lần sau, đôi khi nó là một lời từ chối nhẹ nhàng.",
+    "examples": [
+      "今天去不了，下次吧。(Can't make it today, next time.) -> Hôm nay không đi được, lần sau nhé.",
+      "下次吧，这次太赶了。(Next time, this time is too rushed.) -> Lần sau nhé, lần này gấp quá."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "Đi chơi không? / Gặp nhau không?",
+    "context": "Một lời mời thông thường, thường là qua tin nhắn. Rất phổ biến giữa bạn bè. Có thể được sử dụng để gợi ý đi ăn, uống hoặc bất kỳ hoạt động nào. Đôi khi mang tính tán tỉnh vui vẻ.",
+    "examples": [
+      "周末约吗？(Want to hang out this weekend?) -> Cuối tuần đi chơi không?",
+      "好久不见，约个饭？(Long time no see, want to grab food?) -> Lâu rồi không gặp, đi ăn không?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "Tôi trả / Để tôi trả cho bạn",
+    "context": "Việc mời trả tiền là một phần quan trọng trong văn hóa xã hội Trung Quốc. Thường có một \"cuộc chiến\" thân thiện về việc ai trả hóa đơn. Nói 我请你 trước bữa ăn sẽ đặt ra kỳ vọng.",
+    "examples": [
+      "今天我请你，别客气。(Today's my treat, don't be polite.) -> Hôm nay tôi mời, đừng khách sáo.",
+      "这顿我请。(This meal is on me.) -> Bữa này tôi trả."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "Bạn có đi (hay không)? / Muốn đi không?",
+    "context": "Một cách trực tiếp, thông thường để hỏi xem ai đó có muốn tham gia một hoạt động hay không. Cấu trúc câu hỏi A-not-A (去不去, 要不要, 好不好) là một trong những cấu trúc hữu ích nhất trong tiếng Trung.",
+    "examples": [
+      "明天爬山，你去不去？(Hiking tomorrow, you going?) -> Mai leo núi, bạn đi không?",
+      "唱K去不去？(Want to go to karaoke?) -> Đi hát karaoke không?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "Thật á?! / Nghiêm túc đấy hả? / Không thể nào!",
+    "context": "Một biểu cảm ngạc nhiên hoặc không tin. Một trong những phản ứng được sử dụng phổ biến nhất trong giao tiếp tiếng Trung. Có thể là một câu hỏi thật sự hoặc một lời cảm thán tu từ.",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!) -> Anh ấy từ chức rồi! - Thật á?!",
+      "真的假的，这么便宜？(No way, this cheap?) -> Không thể nào, rẻ vậy á?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "Thật là quá đáng / Thật là lố bịch",
+    "context": "Được sử dụng để phản ứng với một điều gì đó khó tin, thái quá hoặc kịch tính. Có thể mang nghĩa tiêu cực (giá cả, hành vi) hoặc tích cực với sự kinh ngạc (màn trình diễn tuyệt vời).",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!) -> Xếp hàng hai tiếng á? Quá đáng thật!",
+      "这个特效太夸张了。(These special effects are over the top.) -> Kỹ xảo này lố bịch quá."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "Tạm được / Không tệ / Tàm tạm",
+    "context": "Một phản hồi không nhiệt tình. Được sử dụng khi một điều gì đó không quá tuyệt vời cũng không quá tệ. Người Trung Quốc thường sử dụng điều này để khiêm tốn về thành tích hoặc đưa ra một ý kiến không rõ ràng.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.) -> Nhà hàng này thế nào? - Tạm được, bình thường.",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.) -> Bài kiểm tra khó không? - Cũng tạm được."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "Tùy tình hình / Để xem đã",
+    "context": "Một câu trả lời không chắc chắn, tránh một câu trả lời có hoặc không dứt khoát. Rất thường được sử dụng trong giao tiếp tiếng Trung, nơi đôi khi tránh sự trực tiếp.",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.) -> Bạn đi không? - Tùy tình hình.",
+      "能不能做到？看情况。(Can it be done? We'll see.) -> Có làm được không? Để xem đã."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "Không ngờ / Tôi không bao giờ nghĩ đến",
+    "context": "Thể hiện sự ngạc nhiên thực sự trước một kết quả bất ngờ. Có thể tích cực hoặc tiêu cực. Được sử dụng khi thực tế khác biệt đáng kể so với mong đợi.",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!) -> Không ngờ bạn nói tiếng Trung tốt như vậy!",
+      "真没想到他会来。(I really didn't expect him to come.) -> Thật không ngờ anh ấy lại đến."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "Hợp lý / Có lý",
+    "context": "Dùng để đồng ý với lý lẽ hoặc logic của ai đó. Một phản hồi phổ biến trong các cuộc thảo luận cho thấy bạn đang lắng nghe và thấy lập luận của họ hợp lệ.",
+    "examples": [
+      "你说的有道理。(Những gì bạn nói có lý.)",
+      "有道理，我没想到这一点。(Có lý, tôi đã không nghĩ đến điều này.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "Bạn nói cũng có lý / Cũng đúng",
+    "context": "Thừa nhận quan điểm của ai đó, thường là khi họ đã thay đổi suy nghĩ của bạn hoặc thêm một quan điểm mà bạn chưa xem xét. Hơi nhún nhường hơn 有道理.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(Bạn nói cũng có lý, vậy chúng ta đổi chỗ khác nhé.)",
+      "说的也是，我再想想。(Cũng đúng, tôi sẽ nghĩ thêm.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "Sao có thể? / Không thể nào!",
+    "context": "Biểu hiện mạnh mẽ của sự không tin. Mạnh mẽ hơn 真的假的. Được sử dụng khi điều gì đó có vẻ hoàn toàn không thể tin được hoặc đi ngược lại logic.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(Anh ta chạy 100km một ngày á? Không thể nào!)",
+      "怎么可能这么快就卖完了？(Sao có thể bán hết nhanh như vậy được?) "
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "Không đến mức đó / Chắc chắn không / Không cần phải làm đến thế",
+    "context": "Được sử dụng để trấn an ai đó hoặc gợi ý rằng họ đang phản ứng thái quá. Nó đặt ra một ranh giới về mức độ nghiêm trọng thực sự của một tình huống.",
+    "examples": [
+      "不至于吧，没那么严重。(Đừng đến mức đó chứ, không nghiêm trọng đến vậy đâu.)",
+      "迟到五分钟而已，不至于发火吧？(Chỉ trễ năm phút thôi mà, không cần phải nổi giận chứ?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "Gần đủ / Khoảng chừng / Gần giống",
+    "context": "Một trong những cách diễn đạt tiếng Trung linh hoạt nhất. Có thể có nghĩa là \"gần như\", \"gần giống nhau\", \"đủ tốt\" hoặc \"khoảng chừng đó\". Phản ánh một thái độ linh hoạt, không cầu toàn.",
+    "examples": [
+      "这两个差不多，买哪个都行。(Hai cái này gần giống nhau, mua cái nào cũng được.)",
+      "快好了吗？——差不多了。(Sắp xong chưa?——Gần xong rồi.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "Bạn vất vả rồi / Cảm ơn vì sự nỗ lực của bạn",
+    "context": "Một cụm từ rất quan trọng trong văn hóa xã hội và công sở Trung Quốc. Dùng để ghi nhận sự nỗ lực hoặc công sức của ai đó. Thường nói với người giao hàng, đồng nghiệp sau một cuộc họp dài, hoặc bất kỳ ai đã giúp bạn.",
+    "examples": [
+      "辛苦了，快休息吧。(Bạn vất vả rồi, nghỉ ngơi đi nhé.)",
+      "今天的会议辛苦大家了。(Cảm ơn mọi người đã vất vả trong cuộc họp hôm nay.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "Mong được giúp đỡ / Mong được chiếu cố",
+    "context": "Nói khi gặp đồng nghiệp mới, đối tác kinh doanh, hoặc gia nhập một đội nhóm mới. Thể hiện sự khiêm tốn và tôn trọng. Tương tự như よろしくお願いします trong tiếng Nhật.",
+    "examples": [
+      "我是新来的，请多关照。(Tôi là người mới đến, mong được mọi người giúp đỡ.)",
+      "初次见面，请多关照。(Rất vui được gặp bạn, mong được giúp đỡ.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "Làm thêm giờ / ở lại làm việc muộn",
+    "context": "Một từ bạn sẽ nghe thấy liên tục trong văn hóa làm việc của Trung Quốc. Thật không may là rất phổ biến, đặc biệt là trong lĩnh vực công nghệ và tài chính. Có thể được sử dụng như một động từ hoặc danh từ.",
+    "examples": [
+      "今晚又要加班。(Tối nay lại phải làm thêm giờ rồi.)",
+      "你经常加班吗？(Bạn có thường xuyên làm thêm giờ không?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "Họp / đang họp",
+    "context": "Được sử dụng để giải thích rằng bạn đang bận, lên lịch các cuộc họp, hoặc (thường) phàn nàn về quá nhiều cuộc họp. Có thể được sử dụng như một cái cớ để tránh các cuộc gọi hoặc tin nhắn.",
+    "examples": [
+      "我在开会，等会儿再说。(Tôi đang họp, lát nữa nói chuyện sau nhé.)",
+      "下午三点开会。(Ba giờ chiều họp.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "Báo cáo / cập nhật tình hình / báo cáo với sếp",
+    "context": "Được sử dụng trong môi trường làm việc khi trình bày tiến độ hoặc kết quả cho người quản lý. Một hoạt động quan trọng trong văn hóa doanh nghiệp Trung Quốc, nơi việc thông báo cho lãnh đạo là rất quan trọng.",
+    "examples": [
+      "这个项目需要向领导汇报。(Dự án này cần được báo cáo cho lãnh đạo.)",
+      "每周一汇报工作进展。(Báo cáo tiến độ công việc vào mỗi thứ Hai hàng tuần.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "Có tiện không? / Bây giờ có tiện không?",
+    "context": "Một cách lịch sự để hỏi trước khi yêu cầu điều gì đó hoặc lên lịch. Chu đáo hơn là đưa ra yêu cầu trực tiếp. Rất cần thiết trong giao tiếp chuyên nghiệp.",
+    "examples": [
+      "现在说话方便吗？(Xiànzài shuōhuà fāngbiàn ma?) Bây giờ nói chuyện có tiện không?",
+      "明天见面方便吗？(Míngtiān jiànmiàn fāngbiàn ma?) Ngày mai gặp mặt có tiện không?"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "Để tôi suy nghĩ / Tôi sẽ cân nhắc",
+    "context": "Một cách lịch sự để trì hoãn quyết định. Trong bối cảnh kinh doanh, điều này thường có nghĩa là một lời từ chối nhẹ nhàng. Trong bối cảnh cá nhân, nó thường có nghĩa là thực sự suy nghĩ về nó.",
+    "examples": [
+      "这个方案我考虑一下。(Zhège fāng'àn wǒ kǎolǜ yīxià.) Để tôi cân nhắc phương án này.",
+      "考虑一下再决定吧。(Kǎolǜ yīxià zài juédìng ba.) Hãy suy nghĩ kỹ trước khi quyết định."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "Giữ liên lạc",
+    "context": "Nói vào cuối các cuộc họp, bữa tối kinh doanh hoặc khi chia tay. Thường đi kèm với việc trao đổi thông tin liên lạc WeChat. Chân thành hơn so với nghĩa tương đương trong tiếng Anh.",
+    "examples": [
+      "以后保持联系。(Yǐhòu bǎochí liánxì.) Sau này giữ liên lạc nhé.",
+      "加个微信，保持联系。(Jiā gè wēixìn, bǎochí liánxì.) Kết bạn WeChat để giữ liên lạc nhé."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "Càng sớm càng tốt / ASAP",
+    "context": "Được sử dụng trong email, tin nhắn và cuộc trò chuyện công việc để chỉ ra sự khẩn cấp. Rất phổ biến trong giao tiếp chuyên nghiệp. Có thể được làm dịu bằng 请 (qǐng, làm ơn) trước đó.",
+    "examples": [
+      "请尽快回复。(Qǐng jǐnkuài huífù.) Vui lòng trả lời càng sớm càng tốt.",
+      "这个需要尽快完成。(Zhège xūyào jǐnkuài wánchéng.) Cái này cần phải hoàn thành càng sớm càng tốt."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "Hợp tác vui vẻ / Rất vui được hợp tác",
+    "context": "Nói khi kết thúc một thỏa thuận kinh doanh, dự án hoặc hợp tác. Một dấu hiệu kết thúc phổ biến trong môi trường kinh doanh thể hiện sự hài lòng lẫn nhau.",
+    "examples": [
+      "合作愉快！期待下次。(Hézuò yúkuài! Qídài xià cì.) Hợp tác vui vẻ! Mong được hợp tác lần sau.",
+      "感谢大家的努力，合作愉快。(Gǎnxiè dàjiā de nǔlì, hézuò yúkuài.) Cảm ơn sự nỗ lực của mọi người, rất vui được hợp tác."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "Làm ơn giúp tôi",
+    "context": "Lời cầu xin giúp đỡ trực tiếp. Việc lặp lại 帮 khiến nó trở nên khẩn cấp và cảm xúc hơn chỉ là 帮我. Dùng khi bạn thực sự cần sự giúp đỡ của ai đó.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(Làm ơn giúp tôi, tôi không tìm thấy khách sạn của mình.)",
+      "谁能帮帮我？(Ai có thể giúp tôi không?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "Tôi không khỏe / Tôi không thoải mái",
+    "context": "Dùng khi cảm thấy ốm hoặc khó chịu về thể chất. Trong môi trường y tế, bác sĩ sẽ hỏi 哪里不舒服 (nǎ lǐ bù shū fu, bạn đau ở đâu/có vấn đề gì?).",
+    "examples": [
+      "我不舒服，想休息。(Tôi không khỏe, tôi muốn nghỉ ngơi.)",
+      "你哪里不舒服？(Bạn cảm thấy không thoải mái ở đâu?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "Dị ứng",
+    "context": "Quan trọng đối với dị ứng thực phẩm hoặc thuốc. Hãy học cách nói bạn bị dị ứng với cái gì: 花生过敏 (huā shēng guò mǐn, dị ứng đậu phộng), 海鲜过敏 (hǎi xiān guò mǐn, dị ứng hải sản).",
+    "examples": [
+      "我对花生过敏。(Tôi bị dị ứng với đậu phộng.)",
+      "这个里面有没有海鲜？我过敏。(Cái này có hải sản không? Tôi bị dị ứng.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "Báo cảnh sát",
+    "context": "Số khẩn cấp ở Trung Quốc là 110 cho cảnh sát, 120 cho xe cứu thương, 119 cho cứu hỏa. 报警 cụ thể có nghĩa là báo cáo với cảnh sát.",
+    "examples": [
+      "快报警！(Nhanh chóng báo cảnh sát!)",
+      "要不要报警？(Có nên báo cảnh sát không?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "Gọi xe cứu thương",
+    "context": "Đối với các trường hợp cấp cứu y tế, hãy gọi 120 để gọi xe cứu thương ở Trung Quốc. Hãy chắc chắn biết địa chỉ bằng tiếng Trung hoặc có nó trên điện thoại của bạn để cho ai đó xem.",
+    "examples": [
+      "快叫救护车！(Nhanh chóng gọi xe cứu thương!)",
+      "请帮忙叫救护车，有人晕倒了。(Xin hãy giúp gọi xe cứu thương, có người ngất xỉu.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "Tôi bị mất đồ / Đồ của tôi bị mất rồi",
+    "context": "Dùng khi bạn bị mất thứ gì đó hoặc nghi ngờ bị trộm. Hãy nói rõ là gì: 手机 (shǒu jī, điện thoại), 钱包 (qián bāo, ví), 护照 (hù zhào, hộ chiếu).",
+    "examples": [
+      "我的手机丢了！(Tôi bị mất điện thoại rồi!)",
+      "我的钱包丢了，怎么办？(Tôi bị mất ví rồi, phải làm sao đây?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "Bạn có thể nói chậm hơn một chút được không?",
+    "context": "Câu sống còn quan trọng nhất cho bất kỳ người học tiếng Trung nào. Mọi người sẽ đánh giá cao nỗ lực của bạn để hiểu và thường sẽ nói chậm lại đáng kể.",
+    "examples": [
+      "对不起，能说慢一点吗？(Xin lỗi, bạn có thể nói chậm hơn một chút được không?)",
+      "请说慢一点，我在学中文。(Xin hãy nói chậm thôi, tôi đang học tiếng Trung.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "Tôi không hiểu (những gì tôi đang nghe)",
+    "context": "Có nghĩa là bạn không thể hiểu lời nói (khác với 看不懂 cho văn bản viết). Rất hữu ích cho người học ngôn ngữ. Thường khiến mọi người chuyển sang dùng từ ngữ đơn giản hơn hoặc dùng cử chỉ.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(Xin lỗi, tôi không hiểu, bạn có thể viết ra được không?)",
+      "他说的方言我听不懂。(Tôi không hiểu phương ngữ anh ấy nói.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "Có ai nói được tiếng Anh không?",
+    "context": "Phương án cuối cùng khi giao tiếp hoàn toàn bị phá vỡ. Ở các thành phố lớn và khu du lịch, thường có người nói được một chút tiếng Anh. Ở các thành phố nhỏ hơn, những người trẻ tuổi có nhiều khả năng biết một chút.",
+    "examples": [
+      "请问，有人会说英文吗？(Xin hỏi, có ai nói được tiếng Anh không?)",
+      "这里有会说英文的人吗？(Ở đây có ai nói được tiếng Anh không?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "Hiệu thuốc ở đâu?",
+    "context": "Các hiệu thuốc (药店/药房) rất phổ biến ở Trung Quốc và nhiều loại thuốc có sẵn mà không cần đơn thuốc. Bạn có thể mô tả các triệu chứng và dược sĩ thường sẽ giới thiệu thuốc.",
+    "examples": [
+      "请问药店在哪？(Xin hỏi hiệu thuốc ở đâu?)",
+      "附近有药店吗？(Gần đây có hiệu thuốc nào không?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "Tôi mệt chết đi được / Mệt muốn xỉu",
+    "context": "Cấu trúc 死了 (sǐ le, \"đến chết\") được sử dụng như một cách nhấn mạnh. 累死了 thường được sử dụng sau một ngày dài làm việc, tham quan hoặc tập thể dục.",
+    "examples": [
+      "今天走了两万步，累死了。(Hôm nay đi bộ 20,000 bước, mệt muốn xỉu.)",
+      "加班到十二点，累死了。(Tăng ca đến 12 giờ, mệt chết đi được.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "Bực mình quá / Thật là bực bội",
+    "context": "Dùng để diễn tả sự khó chịu hoặc bực bội. Một cách nhấn mạnh khác với 死了. Thường dùng khi đối phó với những tình huống, người hoặc thủ tục hành chính gây khó chịu.",
+    "examples": [
+      "这个问题烦死了！(Vấn đề này bực mình quá!)",
+      "排队排了一小时，烦死了。(Xếp hàng cả tiếng đồng hồ, thật là bực bội.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "Cố lên! / Cố gắng lên! / Chúc may mắn!",
+    "context": "Nghĩa đen là \"thêm dầu/nhiên liệu\". Một trong những cụm từ tích cực và khích lệ nhất trong tiếng Trung. Được sử dụng tại các sự kiện thể thao, trước các kỳ thi, trong những thời điểm khó khăn hoặc để thúc đẩy bất kỳ ai.",
+    "examples": [
+      "明天考试，加油！(Ngày mai thi rồi, cố lên nhé!)",
+      "加油，我相信你！(Cố lên, tôi tin bạn!)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "Cứ từ từ thôi / Không cần vội / Chậm mà chắc",
+    "context": "Một cụm từ an ủi giúp giảm áp lực. Dùng để nói với ai đó rằng không cần phải vội. Thể hiện một thái độ kiên nhẫn, thấu hiểu. Cũng được sử dụng khi học một điều gì đó mới.",
+    "examples": [
+      "别着急，慢慢来。(Đừng lo lắng, cứ từ từ thôi.)",
+      "学中文慢慢来，不要急。(Học tiếng Trung cứ từ từ, đừng vội.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "Không còn cách nào khác / Hết cách rồi / Đành chịu thôi",
+    "context": "Diễn tả sự bất lực hoặc chấp nhận một tình huống không thể tránh khỏi. Rất thường được sử dụng để thừa nhận rằng một số điều nằm ngoài tầm kiểm soát của bạn.",
+    "examples": [
+      "堵车了，没办法，只能等。(Kẹt xe rồi, hết cách rồi, chỉ có thể đợi thôi.)",
+      "没办法，规定就是这样。(Đành chịu thôi, quy định là như vậy.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "Tôi quen rồi / Tôi đã quen với nó rồi",
+    "context": "Dùng khi một điều gì đó từng khó khăn hoặc lạ lẫm đã trở nên bình thường. Có thể mang nghĩa tích cực (thích nghi với cuộc sống mới) hoặc cam chịu (chấp nhận điều gì đó khó chịu).",
+    "examples": [
+      "这里天气很热，但我习惯了。(It's very hot here, but I'm used to it.)",
+      "Ở đây thời tiết rất nóng, nhưng tôi quen rồi.",
+      "加班加习惯了。(I've gotten used to working overtime.)",
+      "Tôi quen với việc làm thêm giờ rồi."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "Tôi/Chúng ta nên làm gì? / Giờ phải làm sao?",
+    "context": "Tìm kiếm lời khuyên hoặc bày tỏ sự hoảng loạn khi đối mặt với một vấn đề. Có thể là một câu hỏi chân thành hoặc một biểu hiện tu từ của sự bất lực.",
+    "examples": [
+      "手机没电了，怎么办？(Phone is dead, what do I do?)",
+      "Điện thoại hết pin rồi, phải làm sao?",
+      "飞机取消了，怎么办？(Flight cancelled, now what?)",
+      "Chuyến bay bị hủy rồi, giờ phải làm sao?"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "Xong rồi! / Đã xong xuôi / Giải quyết xong rồi",
+    "context": "Một cụm từ thỏa mãn để sử dụng khi bạn đã hoàn thành một nhiệm vụ hoặc giải quyết một vấn đề. Thể hiện sự tự tin và năng lực. Rất thông thường và lạc quan.",
+    "examples": [
+      "机票搞定了！(Flight tickets are booked!)",
+      "Vé máy bay xong rồi!",
+      "别担心，我搞定了。(Don't worry, I've got it handled.)",
+      "Đừng lo, tôi giải quyết xong rồi."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "Không kịp rồi / Quá muộn rồi / Không kịp nữa",
+    "context": "Được sử dụng khi bạn hết thời gian hoặc đã lỡ thời hạn/cơ hội. Tạo cảm giác cấp bách. Ngược lại là 来得及 (lái de jí, vẫn còn thời gian).",
+    "examples": [
+      "来不及了，快走！(No time, let's go!)",
+      "Không kịp rồi, đi nhanh!",
+      "现在去还来得及吗？——来不及了。(Is there still time to go now?——It's too late.)",
+      "Bây giờ đi còn kịp không? —— Không kịp nữa rồi."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "Chán / Nhàm chán",
+    "context": "Có thể mô tả trạng thái của riêng bạn (Tôi chán) hoặc một điều gì đó nhàm chán. Rất thường được sử dụng trong giới trẻ, đặc biệt là trên mạng xã hội hoặc khi nhắn tin.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So bored, is there anything fun to do?)",
+      "Chán quá, có gì vui không?",
+      "这个电影太无聊了。(This movie is so boring.)",
+      "Bộ phim này chán quá."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

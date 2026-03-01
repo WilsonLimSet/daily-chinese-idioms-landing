@@ -229,6 +229,39 @@ export default async function InternationalHomePage({
         </div>
       </section>
 
+      {/* More Resources */}
+      <section className="bg-white py-8 border-b border-gray-100">
+        <div className="container mx-auto px-6">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">{getTranslation(lang, 'slangMoreResources')}</h2>
+          <div className="grid sm:grid-cols-3 gap-4 max-w-3xl">
+            <Link
+              href={`/${lang}/slang`}
+              className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-purple-600 transition-colors">{getTranslation(lang, 'slangTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'slangSubtitle')}</p>
+              <p className="text-xs text-purple-600 font-medium mt-2">{getTranslation(lang, 'slangAllTerms')} →</p>
+            </Link>
+            <Link
+              href={`/${lang}/hsk`}
+              className="p-5 bg-emerald-50 rounded-xl border border-emerald-100 hover:shadow-md hover:border-emerald-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-emerald-600 transition-colors">{getTranslation(lang, 'hskTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'hskSubtitle')}</p>
+              <p className="text-xs text-emerald-600 font-medium mt-2">{getTranslation(lang, 'hskLevel')} 1-6 →</p>
+            </Link>
+            <Link
+              href={`/${lang}/phrases`}
+              className="p-5 bg-teal-50 rounded-xl border border-teal-100 hover:shadow-md hover:border-teal-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-teal-600 transition-colors">{getTranslation(lang, 'phrasesTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'phrasesSubtitle')}</p>
+              <p className="text-xs text-teal-600 font-medium mt-2">{getTranslation(lang, 'phrasesAllTerms')} →</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* App Promo - Compact */}
       <section className="bg-gray-50 py-8 border-t border-gray-100">
         <div className="container mx-auto px-6">

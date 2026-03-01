@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Здравствуйте",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(Здравствуйте, меня зовут Сяо Мин.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "Спасибо",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(Спасибо за вашу помощь.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "До свидания",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(Увидимся завтра, до свидания!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "Быть / Да",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(Я студент.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "Не / Нет",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "наречие",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(Я не пью кофе.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "Я / Мне",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(Я очень рад.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "Он / Ему",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(Он мой друг.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "Она / Ей",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(Она очень красивая.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "Хороший / Хорошо",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(Сегодня хорошая погода.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "Большой",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(Эта комната очень большая.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Маленький / Небольшой",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(У меня есть маленький кот.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "Есть / Кушать",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Пойдём поедим.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "Пить",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(Что ты хочешь выпить?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "Смотреть / Глядеть",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Пойдём посмотрим фильм.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "Слушать",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(Я люблю слушать музыку.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "Говорить / Сказать",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Ты говоришь по-китайски?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "Читать",
+    "originalMeaning": "To read",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(Я читаю каждый день.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "Писать",
+    "originalMeaning": "To write",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Пожалуйста, напишите ваше имя.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "Учиться / Изучать",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(Я изучаю китайский.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "Друг",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(Он мой хороший друг.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "Дом / Семья",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(Добро пожаловать ко мне домой.)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Вода",
+    "originalMeaning": "Water",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(Пожалуйста, дайте мне стакан воды.)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "Деньги",
+    "originalMeaning": "Money",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(Сколько это стоит?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "Сегодня",
+    "originalMeaning": "Today",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(Какой сегодня день недели?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "Завтра",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(Завтра мы пойдем в парк.)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "Вчера",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(Вчера шел дождь.)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "Сколько",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(Сколько тебе лет?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "Что",
+    "originalMeaning": "What",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(Как тебя зовут?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "Где",
+    "originalMeaning": "Where",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(Где ты живешь?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "Кто",
+    "originalMeaning": "Who",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(Кто это?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "Поэтому / Следовательно",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "союз",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(Он заболел, поэтому не пришел.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "Но / Однако",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "союз",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Дорого, но очень вкусно.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "Уже",
+    "originalMeaning": "Already",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(Я уже поел.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "Мочь / Можно",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(Можно мне войти?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "Быстрый / Скорый",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(Ты идешь слишком быстро.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "Медленный",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Пожалуйста, говорите медленнее.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "Занятый",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(В последнее время я очень занят.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "Далеко",
+    "originalMeaning": "Far",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(Школа находится далеко отсюда.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "Близко / Рядом",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(Супермаркет находится близко к моему дому.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "Помогать",
+    "originalMeaning": "To help",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Спасибо, что помогаешь мне.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "Подготавливать / Готовиться",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Ты готов?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "Начинать / Начинаться",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(Игра началась.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "Знать",
+    "originalMeaning": "To know",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(Я не знаю.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "Думать / Чувствовать",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(Что ты думаешь?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "Надеяться / Надежда",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(Я надеюсь, что завтра будет хорошая погода.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "Рядом / Около",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(Банк находится рядом с супермаркетом.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "Аэропорт",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(Сколько времени нужно, чтобы добраться до аэропорта?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "Метро",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(Я езжу на работу на метро.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "Мобильный телефон",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(Мой телефон разрядился.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "День рождения",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(С днем рождения!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "Тело / Здоровье",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(Берегите здоровье.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "Глаз(а)",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(У нее очень красивые глаза.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "Хотя",
+    "originalMeaning": "Although",
+    "partOfSpeech": "союз",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(Хотя я устал, я очень рад.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "Или / Все еще",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "союз",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(Ты будешь чай или кофе?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "Вместе",
+    "originalMeaning": "Together",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(Пойдем вместе.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "Часто / Нередко",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(Я часто занимаюсь спортом.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "Очень / Чрезвычайно",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(Большое спасибо!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "Может быть / Возможно",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(Завтра, возможно, будет дождь.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "Обязательно / Должен",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(Ты обязательно добьешься успеха.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "Окружающая среда",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "существительное",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(Мы должны защищать окружающую среду.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "Опыт",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "существительное",
+    "hskLevel": 3,
+    "examples": [
+      "У тебя есть опыт работы? (你有工作经验吗？(Do you have work experience?))"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "Возможность / Шанс",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "существительное",
+    "hskLevel": 3,
+    "examples": [
+      "Это хорошая возможность. (这是一个好机会。(This is a good opportunity.))"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "Выбирать / Выбор",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "Что ты выбираешь? (你选择哪个？(Which one do you choose?))"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "Решать / Решение",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "Я решил поехать в Китай. (我决定去中国。(I decided to go to China.))"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "Влиять / Влияние",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "Погода повлияла на мое настроение. (天气影响了我的心情。(The weather influenced my mood.))"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "Относительно / Сравнивать",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "наречие",
+    "hskLevel": 3,
+    "examples": [
+      "Сегодня относительно холодно. (今天比较冷。(It's relatively cold today.))"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "Особенно / Специальный",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "наречие",
+    "hskLevel": 3,
+    "examples": [
+      "Это блюдо особенно вкусное. (这道菜特别好吃。(This dish is especially delicious.))"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "На самом деле / Фактически",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "наречие",
+    "hskLevel": 3,
+    "examples": [
+      "На самом деле, я тоже не знаю. (其实我也不知道。(Actually, I don't know either.))"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "Наконец / В конце концов",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "наречие",
+    "hskLevel": 3,
+    "examples": [
+      "Я наконец-то нашел это! (我终于找到了！(I finally found it!))"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "Чувство / Чувствовать",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "существительное",
+    "hskLevel": 3,
+    "examples": [
+      "Я чувствую себя не очень хорошо. (我感觉不太舒服。(I feel a bit unwell.))"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "Решать / Разрешать",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(Проблема решена.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "Обсуждать",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Давайте обсудим этот вопрос.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "Практиковаться / Упражнение",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(Больше практики ведет к улучшению.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "Улучшать / Повышать",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(Я хочу улучшить свой уровень китайского языка.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "Принимать",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(Я принимаю твое предложение.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "Участвовать / Присоединяться",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Ты собираешься участвовать в соревновании?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "Понимать / Знать о",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(Я хочу узнать о китайской культуре.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "Обращать внимание / Быть осторожным",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Пожалуйста, будьте осторожны.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "Планировать / Намереваться",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(Когда ты планируешь пойти?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "Согласно / На основании",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "предлог",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(Согласно прогнозу погоды, завтра будет дождь.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "Или (в утверждениях)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "союз",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(Ты можешь поехать на автобусе или в метро.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "Пока / До тех пор пока",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "союз",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(Пока ты усердно работаешь, ты добьешься успеха.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "Неважно / Независимо от",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "союз",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(Неважно что, я тебя поддержу.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "Отношение",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "существительное",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(Отношение определяет все.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "Нуждаться / Нужды",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(Мне нужна твоя помощь.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "Следует / Должен",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "глагол",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(Тебе следует больше отдыхать.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "Удовлетворенный",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(Я очень доволен результатом.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "Обычный / Распространенный",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(Я обычный человек.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "Предлагать / Предложение",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(Я предлагаю тебе больше заниматься спортом.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "Выражать",
+    "originalMeaning": "To express",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(Я не знаю, как это выразить.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "Общаться / Обмен",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "Нам нужно больше общаться. (We need to communicate more.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "Доказывать / Доказательство",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "Факты доказали, что он прав. (Facts proved he was right.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Богатый / Обильный",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Китайская культура очень богата. (Chinese culture is very rich.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Сложный / Запутанный",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Эта проблема очень сложная. (This problem is very complex.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Гордый / Гордость",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Я горжусь тобой. (I'm proud of you.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Активный / Позитивный",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Нужно сохранять позитивный настрой. (Keep a positive attitude.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Трудность / Трудный",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Не бойся трудностей. (Don't be afraid of difficulties.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Нежный / Ласковый",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Она очень нежная. (She is very gentle.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Честный",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "Нужно быть честным. (One should be honest.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "Быть тронутым / Трогательный",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "Эта история очень трогательная. (This story is very touching.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "Недоразумение",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "существительное",
+    "hskLevel": 4,
+    "examples": [
+      "这是一个误会。(This is a misunderstanding.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "Эффект / Результат",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "существительное",
+    "hskLevel": 4,
+    "examples": [
+      "效果很好。(The effect is very good.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "Даже если",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "союз",
+    "hskLevel": 4,
+    "examples": [
+      "即使失败也不放弃。(Even if I fail, I won't give up.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Иначе / В противном случае",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "союз",
+    "hskLevel": 4,
+    "examples": [
+      "快点，否则会迟到。(Hurry up, otherwise we'll be late.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "Поскольку / Раз уж",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "союз",
+    "hskLevel": 4,
+    "examples": [
+      "既然来了，就留下吧。(Since you're here, stay.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "Несмотря на / Даже если",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "союз",
+    "hskLevel": 4,
+    "examples": [
+      "尽管很难，我也要试。(Despite the difficulty, I'll try.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "Оказывается / Так вот как",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "наречие",
+    "hskLevel": 4,
+    "examples": [
+      "原来是你！(So it was you!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "Неожиданно / К удивлению",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "наречие",
+    "hskLevel": 4,
+    "examples": [
+      "他竟然会说中文！(He can speak Chinese, surprisingly!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "Постепенно",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "наречие",
+    "hskLevel": 4,
+    "examples": [
+      "天气逐渐变暖了。(The weather is gradually getting warmer.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "Счастливый / Благословенный",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "祝你幸福！(Wishing you happiness!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "Храбрый / Мужественный",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "你要勇敢面对。(Ты должен смело встретить это.)"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "Уважать / Уважение",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "глагол",
+    "hskLevel": 4,
+    "examples": [
+      "要尊重别人。(Уважайте других.)"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "Ответственность",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "существительное",
+    "hskLevel": 4,
+    "examples": [
+      "这是我的责任。(Это моя ответственность.)"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "Экономика / Экономический",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "существительное",
+    "hskLevel": 4,
+    "examples": [
+      "中国经济发展很快。(Экономика Китая развивается очень быстро.)"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "Традиция / Традиционный",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "существительное",
+    "hskLevel": 4,
+    "examples": [
+      "这是中国的传统文化。(Это традиционная китайская культура.)"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "Временно",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "наречие",
+    "hskLevel": 4,
+    "examples": [
+      "我暂时没有计划。(У меня временно нет планов.)"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "Полностью / Достаточный",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 4,
+    "examples": [
+      "做好充分的准备。(Будьте полностью готовы.)"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "Общаться",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "有效沟通很重要。(Эффективное общение очень важно.)"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "Координировать",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "我来协调各方面。(Я буду координировать все аспекты.)"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "Вклад / Вносить вклад",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "他做出了巨大贡献。(Он внес огромный вклад.)"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "Качество / Уровень (человека)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Повышение личных качеств очень важно.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "Восполнять / Компенсировать",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Загладить ошибки действиями.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "Уникальный / Отличительный",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(Это место очень уникальное.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "Очевидно / Явно",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "наречие",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Очевидно, что он говорит неправильно.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "Глубокий / Проницательный",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(Эта книга имеет глубокий смысл.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "Частый",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(В последнее время слишком часто приходится работать сверхурочно.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "Нести / Брать на себя",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(Я готов взять на себя ответственность.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "Поддерживать / Сохранять",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Сохраняйте спокойствие.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "Содействовать / Способствовать",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(Упражнения способствуют здоровью.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "Отражать / Сообщать",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(Это отражает социальные проблемы.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "В настоящее время / Сейчас",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "наречие",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(Текущая ситуация неплохая.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "Разумный / Рациональный",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(Эта цена очень разумная.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "Гибкий / Ловкий",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(Рабочее время относительно гибкое.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "Сущность / Природа",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(В чем суть проблемы?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "Тенденция / Тренд",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(Это тенденция будущего.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "Область / Сфера",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(Он известен в области технологий.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "Обладать / Иметь",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(Он обладает лидерскими качествами.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "Преодолевать",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(Преодолевайте трудности и продолжайте двигаться вперед.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "Восстанавливаться / Восстановить",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(Он уже восстановил свое здоровье.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "Формировать / Принимать форму",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "глагол",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(Постепенно сформировалась привычка.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "Практика / Практиковать",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(Теория должна сочетаться с практикой.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "Масштаб / Объем",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "существительное",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(Масштаб компании становится все больше и больше.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "Неизбежно / Обязательно",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "наречие",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(Усердная работа обязательно окупится.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "Приблизительно / Вероятно",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "наречие",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(Это займет примерно два часа.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "Тем самым / Таким образом",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "союз",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(Усердно учитесь, тем самым добиваясь хороших результатов.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "Не говоря уже о / Тем более",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "союз",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(Взрослые не могут этого сделать, не говоря уже о детях.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "Скрытый / Сдержанный",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(Китайцы выражают чувства довольно сдержанно.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "Незнакомый / Чужой",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(Я совсем не знаком с этим местом.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "Тонкий / Деликатный",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(Отношения между ними очень тонкие.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "Эрудированный / Глубокий (знания)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(Его знания очень глубоки.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "Предвкушать / Стремление",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(Она полна стремлений к будущему.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "Обдумывать / Пытаться понять",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(Я пытаюсь понять, что он имеет в виду.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "Быть опьяненным (радостью)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(Она была опьянена музыкой.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "Понимать / Улавливать",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(Я наконец-то понял эту истину.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "Усердно изучать / Углубляться в изучение",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(Он усердно изучал это много лет.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "Проницательность / Видеть насквозь",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(У него глубокое понимание человеческой природы.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "Продвигать / Развивать",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(Продвигать традиционную культуру.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "Классический аллюзия / Исторический анекдот",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(За каждой идиомой стоит классический аллюзия.)"
+    ],
+    "notes": "Обычно используется при обсуждении происхождения китайских идиом."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "Коннотация / Внутренний смысл",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(Это стихотворение имеет богатые коннотации.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "Культура / Достижение",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(Повышать культурный уровень.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "Культурное наследие / Внутренняя глубина",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(В этом городе глубокое культурное наследие.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "Структура / Макет / Видение",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(Нужно иметь широкое видение.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "Сфера / Уровень достижения",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(Это высшая сфера жизни.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "Сущность / Квинтэссенция",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Изучил сущность китайской культуры.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "Происхождение / Глубокая связь",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(У двух стран глубокие исторические связи.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "Метафора",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "существительное",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(В идиомах часто используются метафорические приемы.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "Обширный и глубокий",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Китайская культура обширна и глубока.)"
+    ],
+    "notes": "Это само по себе идиома (ченгью)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "Тщательно усвоить через понимание",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Обучение должно включать в себя глубокое понимание.)"
+    ],
+    "notes": "Это само по себе идиома (ченгью)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "Имеющий долгую историю",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Китайская культура имеет долгую историю.)"
+    ],
+    "notes": "Это само по себе идиома (ченгью)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "Заставляющий задуматься / Достойный размышлений",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(Эта история заставляет задуматься.)"
+    ],
+    "notes": "Это само по себе идиома (ченгью)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "Оказывать тонкое влияние / Незаметное влияние",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(Культура оказывает тонкое влияние на людей.)"
+    ],
+    "notes": "Это само по себе идиома (ченъюй)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "Расти день ото дня",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(Число людей, изучающих китайский язык, растет день ото дня.)"
+    ],
+    "notes": "Это само по себе идиома (ченъюй)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "Делать выводы из одного случая",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(При обучении следует делать выводы из одного случая.)"
+    ],
+    "notes": "Это само по себе идиома (ченъюй)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "Шаг за шагом / Постепенно",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "наречие",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(Изучение языка должно происходить постепенно.)"
+    ],
+    "notes": "Это само по себе идиома (ченъюй)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "Выделяться / Уникальный стиль",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "глагол",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(Его стиль письма действительно уникален.)"
+    ],
+    "notes": "Это само по себе идиома (ченъюй)!"
+  }
+]

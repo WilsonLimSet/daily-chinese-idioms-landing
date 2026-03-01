@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "Счет, пожалуйста / оплатить счет",
+    "context": "Используется в конце трапезы, чтобы дать понять, что вы хотите оплатить счет. Просто поднимите руку и скажите это официанту. В некоторых регионах вместо этого используется 结账 (jié zhàng).",
+    "examples": [
+      "服务员，买单！(Официант, счет, пожалуйста!)",
+      "Can we 买单? We're ready to go. (Можно оплатить счет? Мы готовы уйти.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "Упаковать с собой / контейнер для еды на вынос",
+    "context": "Используется, когда у вас осталась еда и вы хотите забрать ее домой. Очень распространено и совсем не считается грубым в Китае — выбрасывать еду хуже.",
+    "examples": [
+      "这个菜打包吧。(Давайте упакуем это блюдо с собой.)",
+      "可以打包吗？(Можно это с собой?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "Не остро / пожалуйста, не остро",
+    "context": "Важная фраза для выживания в Сычуани, Хунани и других регионах, где много острых блюд. Вариации: 少辣 (shǎo là, менее остро), 微辣 (wēi là, слегка остро), 中辣 (zhōng là, средне).",
+    "examples": [
+      "不要辣，谢谢。(Не остро, спасибо.)",
+      "我不能吃辣，少辣可以吗？(Я не могу есть острое, можно сделать менее острым?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "Что вы порекомендуете?",
+    "context": "Отличный способ открыть для себя местные деликатесы. Сотрудники ресторана обычно любят рекомендовать свои фирменные блюда. Также можно использовать в магазинах или кафе.",
+    "examples": [
+      "你们这儿有什么推荐？(Что вы здесь порекомендуете?)",
+      "第一次来，有什么推荐的菜？(Я здесь впервые, какие блюда порекомендуете?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "Я вегетарианец / Я ем вегетарианскую пищу",
+    "context": "Важно для вегетарианцев, обедающих вне дома. Обратите внимание, что \"вегетарианский\" в Китае может по-прежнему включать яйца и молочные продукты. Для веганов скажите 我是纯素 (wǒ shì chún sù).",
+    "examples": [
+      "我吃素，有素菜吗？(Я вегетарианец, у вас есть вегетарианские блюда?)",
+      "这个里面有肉吗？我吃素。(В этом есть мясо? Я вегетарианец.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "За здоровье! / До дна!",
+    "context": "Буквально \"сухой стакан\" — означает выпить все залпом. На официальных ужинах вы можете услышать это много раз. Вы также можете сказать 随意 (suí yì, пейте в своем темпе), если не можете угнаться.",
+    "examples": [
+      "为我们的友谊干杯！(За нашу дружбу!)",
+      "来，干杯！(Давай, до дна!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "Еще один / пожалуйста, еще один",
+    "context": "Используется для заказа еще одного блюда, напитка или порции. Работает в ресторанах, барах и уличных киосках с едой.",
+    "examples": [
+      "这个很好吃，再来一个！(Это очень вкусно, еще один, пожалуйста!)",
+      "啤酒再来一个。(Еще одно пиво, пожалуйста.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "Я наелся / Я наелась",
+    "context": "Вежливый способ отказаться от еды. В китайской культуре хозяева будут продолжать предлагать еду. Сказать 吃饱了 показывает признательность, указывая на то, что вы наелись.",
+    "examples": [
+      "谢谢，我吃饱了。(Спасибо, я наелся.)",
+      "真的吃饱了，不用再加了。(Я действительно наелся, не нужно добавлять.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "Разделить счет / по-голландски",
+    "context": "Распространено среди друзей и молодежи. В традиционной китайской культуре один человек обычно платит за весь стол, но AA制 становится все более приемлемым, особенно среди миллениалов.",
+    "examples": [
+      "今天AA制吧。(Давайте сегодня разделим счет.)",
+      "我们AA还是你请？(Мы делим счет или ты угощаешь?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "Как это едят?",
+    "context": "Полезно, когда сталкиваетесь с незнакомыми китайскими блюдами, такими как хот-пот, утка по-пекински или сяолунбао. Никто не осудит вас за вопрос — это показывает искренний интерес.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(Как это едят? Нужно макать в соус?)",
+      "小笼包怎么吃才不会烫？(Как есть сяолунбао, чтобы не обжечься?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "Слишком дорого!",
+    "context": "Незаменимая фраза для торга на рынках. Произнесите это с немного страдальческим выражением лица для максимального эффекта. Работает на рынках, в небольших магазинах и с уличными торговцами — не в торговых центрах или сетевых магазинах.",
+    "examples": [
+      "太贵了，便宜点吧！(Слишком дорого, сделайте дешевле!)",
+      "这个太贵了，我再看看。(Это слишком дорого, я еще посмотрю.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "Немного дешевле, пожалуйста / Сделайте скидку",
+    "context": "Продолжение фразы 太贵了. Вежливый способ начать переговоры. Можно сочетать с причинами, такими как покупка нескольких товаров или то, что вы постоянный клиент.",
+    "examples": [
+      "老板，便宜点嘛！(Босс, сделайте скидку!)",
+      "买两个能便宜点吗？(Если я куплю два, будет дешевле?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "Могу я это примерить / Могу я это попробовать?",
+    "context": "Используется в магазинах одежды, обувных магазинах или при дегустации еды. Большинство магазинов позволят вам примерить вещи, хотя некоторые рыночные прилавки могут и не разрешить.",
+    "examples": [
+      "这件衣服可以试试吗？(Могу я примерить эту одежду?)",
+      "这个口味可以试试吗？(Могу я попробовать этот вкус?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "У вас есть другие цвета?",
+    "context": "Полезно при покупке одежды, аксессуаров или товаров для дома. Вы можете заменить 颜色 на 尺码 (chǐ mǎ, размер) или 款式 (kuǎn shì, стиль).",
+    "examples": [
+      "这个有没有别的颜色？(Это есть в других цветах?)",
+      "有没有大一号的？(У вас есть на размер больше?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "Картой или наличными?",
+    "context": "Вы услышите это на кассе. В настоящее время большинство мест также принимают WeChat Pay и Alipay. Вы также можете услышать 微信还是支付宝 (WeChat или Alipay?).",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Картой или наличными?——Можно ли использовать WeChat Pay?)",
+      "可以刷卡吗？(Можно ли заплатить картой?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "Скидка / распродажа",
+    "context": "В Китае скидки выражаются в виде доли, которую вы платите: 打八折 означает 80% от цены (скидка 20%), 打五折 означает 50% от цены. Это противоположно тому, как работают скидки в русском языке.",
+    "examples": [
+      "现在打折吗？(Is there a discount now?) - Сейчас есть скидки?",
+      "这个打几折？(What's the discount on this?) - Какая скидка на это?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "Это подделка? / Да ладно!",
+    "context": "Используется, когда сомневаетесь в подлинности товаров на рынках или как выражение недоверия в разговоре. В контексте покупок будьте осторожны с использованием этой фразы слишком агрессивно.",
+    "examples": [
+      "这个是真的还是假的？(Is this real or fake?) - Это настоящее или подделка?",
+      "五百块？假的吧！(500 yuan? No way!) - 500 юаней? Да ладно!"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "Включает ли это бесплатную доставку?",
+    "context": "Необходимо для онлайн-шопинга на Taobao, JD.com и т. д. Один из первых вопросов, которые задают китайские покупатели. Также можно использовать в шутку лично.",
+    "examples": [
+      "这个包邮吗？(Does this include free shipping?) - Это с бесплатной доставкой?",
+      "满多少包邮？(How much do I need to spend for free shipping?) - На какую сумму нужно купить, чтобы доставка была бесплатной?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "Вернуть товар / возврат",
+    "context": "Используется, когда вы хотите вернуть что-то, что купили. 退款 (tuì kuǎn) конкретно означает возврат денег. Онлайн-платформы для покупок обычно имеют 7-дневную политику возврата.",
+    "examples": [
+      "这个可以退货吗？(Can I return this?) - Это можно вернуть?",
+      "我想退货退款。(I want to return this for a refund.) - Я хочу вернуть товар и получить возврат денег."
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "Какая самая низкая цена? / Какое ваше лучшее предложение?",
+    "context": "Сильный ход в торге. Используйте это после нескольких раундов переговоров. Это сигнализирует о том, что вы серьезно настроены на покупку, но вам нужна лучшая цена.",
+    "examples": [
+      "最低多少钱？(What's the absolute lowest price?) - Какая самая низкая цена?",
+      "不用讲价了，最低多少？(No more negotiating, what's your bottom price?) - Больше не торгуемся, какая окончательная цена?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "Как мне туда добраться? / В какой стороне?",
+    "context": "Самая базовая фраза для того, чтобы спросить дорогу. Покажите на карте или упомяните ориентир, а затем спросите 怎么走. Люди обычно укажут вам правильное направление, даже при языковом барьере.",
+    "examples": [
+      "请问，地铁站怎么走？(Excuse me, how do I get to the subway station?) - Подскажите, пожалуйста, как пройти к станции метро?",
+      "去天安门怎么走？(How do I get to Tiananmen?) - Как добраться до площади Тяньаньмэнь?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "Мы приехали? / Мы уже там?",
+    "context": "Используется в такси, автобусах или когда вас кто-то везет. Вы также можете спросить водителя 快到了吗 (kuài dào le ma, мы почти приехали?).",
+    "examples": [
+      "师傅，到了吗？(Driver, are we there?) - Водитель, мы приехали?",
+      "还没到吗？还有多远？(Haven't we arrived yet? How much further?) - Мы еще не приехали? Далеко еще?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "Где мне выходить?",
+    "context": "Используется в автобусах и метро. Покажите водителю или попутчику пункт назначения на телефоне и спросите это. В автобусах водитель или автоматические объявления будут объявлять остановки.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Excuse me, where do I get off for the Forbidden City?) - Подскажите, пожалуйста, где мне выходить, чтобы попасть в Запретный город?",
+      "我应该在哪一站下车？(Which stop should I get off at?) - На какой остановке мне нужно выйти?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "Пробка / Застряли в пробке",
+    "context": "Очень часто встречается в китайских городах, особенно в час пик. Водители такси часто упоминают об этом заранее. Также полезное оправдание для опоздания.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Sorry, stuck in traffic, might be late.) - Извините, пробка, возможно, опоздаю.",
+      "这条路总是堵车。(This road always has traffic jams.) - На этой дороге всегда пробки."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "Водитель, остановите здесь, пожалуйста",
+    "context": "Используется в такси и попутках, когда вы хотите, чтобы вас высадили. 师傅 (shī fu) - уважительный способ обращения к водителю. Вы также можете сказать 前面停 (qián miàn tíng, остановите впереди).",
+    "examples": [
+      "师傅，前面路口停一下。(Driver, please stop at the intersection ahead.) - Водитель, остановите, пожалуйста, на следующем перекрестке.",
+      "师傅，就这里停吧。(Driver, you can stop right here.) - Водитель, можете остановить прямо здесь."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "Я заблудился / Я заблудилась",
+    "context": "Покажите кому-нибудь свой телефон с пунктом назначения на карте и скажите это. Большинство китайцев сделают все возможное, чтобы помочь вам найти дорогу, иногда даже проводят вас туда.",
+    "examples": [
+      "不好意思，我迷路了。(Excuse me, I'm lost.) - Простите, я заблудился/заблудилась.",
+      "我迷路了，这里是哪儿？(I'm lost, where is this?) - Я заблудился/заблудилась, где это?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "У вас есть Wi-Fi?",
+    "context": "Необходимо для путешественников. В большинстве кафе, ресторанов и отелей есть Wi-Fi. Пароль часто отображается на табличке, или вы можете спросить: 密码是什么 (mì mǎ shì shén me, what's the password?).",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Do you have Wi-Fi? What's the password?) - Скажите, пожалуйста, у вас есть Wi-Fi? Какой пароль?",
+      "这里Wi-Fi信号好吗？(Is the Wi-Fi signal good here?) - Здесь хороший сигнал Wi-Fi?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "Как долго ехать? / Сколько времени это займет?",
+    "context": "Используется в такси, с водителями райдшеринга или при запросе времени в пути. Также подходит для оценки времени доставки и встречи с друзьями.",
+    "examples": [
+      "师傅，多久能到？(Driver, how long until we get there?) - Водитель, как долго ехать?",
+      "坐地铁多久能到？(How long does it take by subway?) - Сколько времени ехать на метро?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "Это близко? / Это рядом?",
+    "context": "Быстрый способ оценить расстояние, прежде чем решиться куда-то идти пешком. Ответ часто 很近 (hěn jìn, very close) или 不远 (bù yuǎn, not far) — хотя китайские определения \"близко\" могут сильно различаться.",
+    "examples": [
+      "地铁站近不近？(Is the subway station nearby?) - Станция метро близко?",
+      "走路去近不近？(Is it close enough to walk?) - Пешком идти близко?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "GPS-навигация / использовать приложение с картой",
+    "context": "Скажите водителю такси следовать GPS или попросите кого-нибудь помочь вам сориентироваться. 高德地图 (Gaode/Amap) и 百度地图 (Baidu Maps) — основные навигационные приложения в Китае.",
+    "examples": [
+      "师傅，你开导航吧。(Driver, just follow the GPS.) - Водитель, включите навигатор.",
+      "我导航一下。(Let me check the navigation.) - Я сейчас посмотрю в навигаторе."
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "Ты свободен? / У тебя есть время?",
+    "context": "Стандартный способ пригласить кого-то куда-то. Обычно сопровождается конкретным планом. Можно использовать для сегодня или будущей даты — добавьте слово, обозначающее время, например 明天 (míng tiān, завтра) или 周末 (zhōu mò, выходные).",
+    "examples": [
+      "周末有空吗？一起吃饭？(Ты свободен на выходных? Хочешь поесть вместе?)",
+      "你明天有空吗？(Ты свободен завтра?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "В другой раз / Давай как-нибудь в другой раз",
+    "context": "Вежливый способ отклонить приглашение, не говоря прямо «нет». В китайской социальной культуре это мягкий отказ, который сохраняет лицо обеим сторонам.",
+    "examples": [
+      "今天太忙了，改天吧。(Сегодня слишком занят, давай в другой раз.)",
+      "改天再约吧。(Давай договоримся на другой раз.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "Все равно / Что угодно подойдет / Я не против",
+    "context": "Самый распространенный (и иногда раздражающий) ответ при планировании. Используется, когда у вас действительно нет предпочтений. Предупреждение: слишком частое употребление 随便 может показаться безразличным.",
+    "examples": [
+      "吃什么？——随便，都行。(Что хочешь поесть?——Все равно, что угодно подойдет.)",
+      "你随便选吧。(Выбирай что угодно.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "Решай сам / Тебе решать",
+    "context": "Перекладывание решения на другого человека. Похоже на 随便, но возлагает ответственность на другого человека. Распространено, когда друзья решают, где поесть, что делать и т. д.",
+    "examples": [
+      "去哪儿？——看你。(Куда пойдем?——Тебе решать.)",
+      "想看什么电影？看你吧。(Какой фильм хочешь посмотреть? Тебе решать.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Забудь / Неважно",
+    "context": "Используется, когда отказываются от плана, прекращают спор или решают, что что-то не стоит усилий. Может выражать легкое разочарование или принятие.",
+    "examples": [
+      "等了半小时了，算了，走吧。(Прождали полчаса, забудь, пошли.)",
+      "算了算了，不想了。(Забудь, забудь, не хочу об этом думать.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "Мне все равно / Неважно",
+    "context": "Сильнее, чем 随便. Может звучать апатично или искренне беззаботно, в зависимости от тона. Используйте осторожно — с неправильным тоном может показаться пренебрежительным.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(You're late!——Doesn't matter, I wasn't doing anything anyway.) - Ты опоздал! - Неважно, я все равно ничего не делал.",
+      "去不去都无所谓。(It doesn't matter whether we go or not.) - Неважно, пойдем мы или нет."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "В следующий раз / Может быть, в следующий раз",
+    "context": "Еще один вежливый способ отклонить или отложить планы. Похоже на 改天吧, но конкретно относится к следующей возможности. Иногда это действительно означает в следующий раз, иногда это мягкий отказ.",
+    "examples": [
+      "今天去不了，下次吧。(Can't make it today, next time.) - Сегодня не могу, в следующий раз.",
+      "下次吧，这次太赶了。(Next time, this time is too rushed.) - В следующий раз, в этот раз слишком торопливо."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "Хочешь потусить? / Хочешь встретиться?",
+    "context": "Непринужденное, часто текстовое приглашение. Очень распространено среди друзей. Может использоваться для предложения поесть, выпить или заняться чем-либо. Иногда игриво кокетливое.",
+    "examples": [
+      "周末约吗？(Want to hang out this weekend?) - На выходных потусим?",
+      "好久不见，约个饭？(Long time no see, want to grab food?) - Давно не виделись, поедим?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "Я угощаю / Я за тебя заплачу",
+    "context": "Предложение заплатить - важная часть китайской социальной культуры. Часто происходит дружеская \"борьба\" за то, кто оплатит счет. Говоря 我请你 перед едой, вы устанавливаете ожидание.",
+    "examples": [
+      "今天我请你，别客气。(Today's my treat, don't be polite.) - Сегодня я угощаю, не стесняйся.",
+      "这顿我请。(This meal is on me.) - Этот раз за мой счет."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "Ты идешь (или нет)? / Хочешь пойти?",
+    "context": "Прямой, непринужденный способ спросить, хочет ли кто-то присоединиться к какому-либо занятию. Модель вопроса A-not-A (去不去, 要不要, 好不好) - одна из самых полезных структур в китайском языке.",
+    "examples": [
+      "明天爬山，你去不去？(Hiking tomorrow, you going?) - Завтра в горы, ты идешь?",
+      "唱K去不去？(Want to go to karaoke?) - В караоке пойдем?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "Неужели?! / Серьёзно? / Да ладно!",
+    "context": "Выражение удивления или недоверия. Одна из самых распространенных реакций в китайском разговоре. Может быть искренним вопросом или риторическим восклицанием.",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!) - Он уволился! - Неужели?!",
+      "真的假的，这么便宜？(No way, this cheap?) - Да ладно, так дёшево?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "Это слишком преувеличенно / Это перебор",
+    "context": "Используется для реакции на что-то невероятное, чрезмерное или драматичное. Может быть негативным (цены, поведение) или позитивным с восхищением (потрясающее выступление).",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!) - Два часа в очереди? Это же перебор!",
+      "这个特效太夸张了。(These special effects are over the top.) - Эти спецэффекты слишком преувеличены."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "Нормально / Неплохо / Так себе",
+    "context": "Сдержанный ответ. Используется, когда что-то не является ни отличным, ни ужасным. Китайцы часто используют это, чтобы быть скромными в отношении достижений или дать уклончивое мнение.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.) - Как этот ресторан? - Нормально, ничего особенного.",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.) - Экзамен сложный? - Так себе."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "Смотря по обстоятельствам / Посмотрим",
+    "context": "Уклончивый ответ, который избегает определенного «да» или «нет». Очень часто используется в китайском общении, где иногда избегают прямоты.",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.) - Ты пойдёшь? - Смотря по обстоятельствам.",
+      "能不能做到？看情况。(Can it be done? We'll see.) - Это можно сделать? Посмотрим."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "Не ожидал / Никогда бы не подумал",
+    "context": "Выражение искреннего удивления неожиданным исходом. Может быть положительным или отрицательным. Используется, когда реальность значительно отличается от ожиданий.",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!) - Не ожидал, что ты так хорошо говоришь по-китайски!",
+      "真没想到他会来。(I really didn't expect him to come.) - Я действительно не ожидал, что он придёт."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "Логично / Хорошая мысль",
+    "context": "Используется, чтобы согласиться с чьими-то рассуждениями или логикой. Распространенный ответ в дискуссиях, показывающий, что вы слушаете и считаете их аргумент обоснованным.",
+    "examples": [
+      "你说的有道理。(То, что ты говоришь, логично.)",
+      "有道理，我没想到这一点。(Хорошая мысль, я об этом не подумал.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "Ты прав / Это тоже верно",
+    "context": "Признание чьей-то точки зрения, часто когда они изменили ваше мнение или добавили точку зрения, которую вы не рассматривали. Чуть более уступчиво, чем 有道理.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(Ты прав, давай тогда сменим место.)",
+      "说的也是，我再想想。(Это тоже верно, я еще подумаю.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "Как это возможно? / Это невозможно!",
+    "context": "Сильное выражение неверия. Более выразительно, чем 真的假的. Используется, когда что-то кажется совершенно невероятным или противоречит логике.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(Он пробежал 100 км за день? Это невозможно!)",
+      "怎么可能这么快就卖完了？(Как это могло так быстро распродаться?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "Не так уж и плохо / наверняка нет / не нужно заходить так далеко",
+    "context": "Используется, чтобы успокоить кого-то или предположить, что он слишком остро реагирует. Устанавливает границу того, насколько экстремальна ситуация на самом деле.",
+    "examples": [
+      "不至于吧，没那么严重。(Да ладно, не так уж и серьезно.)",
+      "迟到五分钟而已，不至于发火吧？(Всего лишь опоздал на пять минут, не стоит злиться, верно?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "Примерно так / более или менее / почти то же самое",
+    "context": "Одно из самых универсальных китайских выражений. Может означать \"почти\", \"примерно то же самое\", \"достаточно хорошо\" или \"примерно так и есть\". Отражает гибкое, неперфекционистское отношение.",
+    "examples": [
+      "这两个差不多，买哪个都行。(Эти два примерно одинаковые, можно купить любой.)",
+      "快好了吗？——差不多了。(Скоро будет готово?——Почти.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "Вы хорошо поработали / спасибо за ваши усилия",
+    "context": "Очень важная фраза в китайской профессиональной и социальной культуре. Используется, чтобы отметить чьи-то усилия или тяжелую работу. Говорят курьерам, коллегам после долгой встречи или любому, кто вам помог.",
+    "examples": [
+      "辛苦了，快休息吧。(Вы хорошо поработали, отдохните.)",
+      "今天的会议辛苦大家了。(Спасибо всем за вашу усердную работу на сегодняшней встрече.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "Пожалуйста, позаботьтесь обо мне / Я в ваших руках",
+    "context": "Говорят при встрече с новыми коллегами, деловыми партнерами или при вступлении в новую команду. Проявляет скромность и уважение. Похоже на японское よろしくお願いします.",
+    "examples": [
+      "我是新来的，请多关照。(Я здесь новенький, пожалуйста, позаботьтесь обо мне.)",
+      "初次见面，请多关照。(Рад познакомиться, я в ваших руках.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "Работать сверхурочно / задерживаться на работе",
+    "context": "Слово, которое вы будете постоянно слышать в китайской рабочей культуре. К сожалению, очень распространено, особенно в сфере технологий и финансов. Может использоваться как глагол или существительное.",
+    "examples": [
+      "今晚又要加班。(Сегодня вечером снова придется работать сверхурочно.)",
+      "你经常加班吗？(Вы часто работаете сверхурочно?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "Проводить встречу / быть на встрече",
+    "context": "Используется, чтобы объяснить, что вы заняты, запланировать встречи или (часто) жаловаться на слишком большое количество встреч. Может использоваться как оправдание, чтобы избежать звонков или сообщений.",
+    "examples": [
+      "我在开会，等会儿再说。(Я на встрече, поговорим позже.)",
+      "下午三点开会。(Встреча в 15:00.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "Отчитываться / предоставлять отчет / информировать начальника",
+    "context": "Используется в рабочей обстановке при представлении прогресса или результатов менеджеру. Ключевая деятельность в китайской корпоративной культуре, где важно держать руководство в курсе.",
+    "examples": [
+      "这个项目需要向领导汇报。(Об этом проекте необходимо отчитаться руководству.)",
+      "每周一汇报工作进展。(Отчитывайтесь о ходе работы каждый понедельник.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "Удобно ли? / Сейчас подходящее время?",
+    "context": "Вежливый способ спросить, прежде чем что-то попросить или запланировать. Более тактично, чем прямое обращение с просьбой. Важно в профессиональном общении.",
+    "examples": [
+      "现在说话方便吗？(Is it convenient to talk now?) - Сейчас удобно говорить?",
+      "明天见面方便吗？(Is it convenient to meet tomorrow?) - Завтра удобно встретиться?"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "Дайте мне подумать / Я подумаю над этим",
+    "context": "Вежливый способ отложить принятие решения. В деловом контексте это часто означает мягкий отказ. В личном контексте обычно означает искреннее обдумывание.",
+    "examples": [
+      "这个方案我考虑一下。(Let me think about this proposal.) - Я подумаю над этим предложением.",
+      "考虑一下再决定吧。(Think it over before deciding.) - Подумайте хорошенько, прежде чем принимать решение."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "Оставайтесь на связи / Поддерживайте связь",
+    "context": "Говорят в конце встреч, деловых ужинов или при расставании. Часто сопровождается обменом контактами WeChat. Более искренне, чем его английский эквивалент.",
+    "examples": [
+      "以后保持联系。(Let's keep in touch from now on.) - Будем на связи в будущем.",
+      "加个微信，保持联系。(Let's add each other on WeChat and stay in touch.) - Давайте добавим друг друга в WeChat и будем на связи."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "Как можно скорее / ASAP",
+    "context": "Используется в рабочих электронных письмах, сообщениях и разговорах для обозначения срочности. Очень распространено в профессиональном общении. Можно смягчить с помощью 请 (qǐng, пожалуйста) перед ним.",
+    "examples": [
+      "请尽快回复。(Please reply as soon as possible.) - Пожалуйста, ответьте как можно скорее.",
+      "这个需要尽快完成。(This needs to be completed ASAP.) - Это нужно завершить как можно скорее."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "Приятно было сотрудничать / Отлично поработали вместе",
+    "context": "Говорят в заключение деловой сделки, проекта или сотрудничества. Распространенное выражение в деловой среде, выражающее взаимное удовлетворение.",
+    "examples": [
+      "合作愉快！期待下次。(Great working together! Looking forward to next time.) - Приятно было сотрудничать! Надеюсь на следующую встречу.",
+      "感谢大家的努力，合作愉快。(Thanks for everyone's effort, it's been a pleasure working together.) - Спасибо всем за усилия, было приятно работать вместе."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "Помогите мне, пожалуйста",
+    "context": "Прямая просьба о помощи. Повторение 帮 делает ее более срочной и эмоциональной, чем просто 帮我. Используйте, когда вам действительно нужна чья-то помощь.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(Помогите мне, я не могу найти свой отель.)",
+      "谁能帮帮我？(Кто-нибудь может мне помочь?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "Я плохо себя чувствую / Мне некомфортно",
+    "context": "Используется, когда чувствуете себя больным или испытываете физический дискомфорт. В медицинском учреждении врач спросит 哪里不舒服 (nǎ lǐ bù shū fu, где болит/что случилось?).",
+    "examples": [
+      "我不舒服，想休息。(Я плохо себя чувствую, хочу отдохнуть.)",
+      "你哪里不舒服？(Где вы чувствуете дискомфорт?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "Аллергия / аллергический",
+    "context": "Критически важно при пищевой аллергии или аллергии на лекарства. Научитесь говорить, на что у вас аллергия: 花生过敏 (huā shēng guò mǐn, аллергия на арахис), 海鲜过敏 (hǎi xiān guò mǐn, аллергия на морепродукты).",
+    "examples": [
+      "我对花生过敏。(У меня аллергия на арахис.)",
+      "这个里面有没有海鲜？我过敏。(Здесь есть морепродукты? У меня аллергия.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "Вызвать полицию",
+    "context": "Номер экстренной службы в Китае 110 для полиции, 120 для скорой помощи, 119 для пожарной службы. 报警 конкретно означает сообщить в полицию.",
+    "examples": [
+      "快报警！(Быстро вызывайте полицию!)",
+      "要不要报警？(Стоит ли вызывать полицию?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "Вызвать скорую помощь",
+    "context": "В случае неотложной медицинской помощи позвоните по номеру 120, чтобы вызвать скорую помощь в Китае. Обязательно узнайте адрес на китайском языке или держите его в телефоне, чтобы показать кому-нибудь.",
+    "examples": [
+      "快叫救护车！(Быстро вызывайте скорую помощь!)",
+      "请帮忙叫救护车，有人晕倒了。(Пожалуйста, помогите вызвать скорую помощь, кто-то потерял сознание.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "Я потерял свои вещи / Мои вещи пропали",
+    "context": "Используется, когда вы что-то потеряли или подозреваете кражу. Укажите что именно: 手机 (shǒu jī, телефон), 钱包 (qián bāo, кошелек), 护照 (hù zhào, паспорт).",
+    "examples": [
+      "我的手机丢了！(Я потерял свой телефон!)",
+      "我的钱包丢了，怎么办？(Я потерял свой кошелек, что мне делать?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "Вы можете говорить помедленнее?",
+    "context": "Самая важная фраза для выживания для любого изучающего китайский язык. Люди оценят ваши усилия понять и обычно значительно замедлятся.",
+    "examples": [
+      "对不起，能说慢一点吗？(Извините, вы можете говорить немного медленнее?)",
+      "请说慢一点，我在学中文。(Пожалуйста, говорите медленно, я учу китайский.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "Я не понимаю (то, что слышу)",
+    "context": "Означает, что вы не понимаете произнесенные слова (в отличие от 看不懂 для письменного текста). Очень полезно для изучающих язык. Часто побуждает людей переходить на более простые слова или использовать жесты.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(Извините, я не понимаю, вы можете это записать?)",
+      "他说的方言我听不懂。(Я не понимаю диалект, на котором он говорит.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "Кто-нибудь говорит по-английски?",
+    "context": "Последнее средство, когда общение полностью нарушается. В крупных городах и туристических районах кто-нибудь обычно говорит по-английски. В небольших городах молодые люди с большей вероятностью знают немного.",
+    "examples": [
+      "请问，有人会说英文吗？(Извините, кто-нибудь говорит по-английски?)",
+      "这里有会说英文的人吗？(Здесь есть кто-нибудь, кто говорит по-английски?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "Где находится аптека?",
+    "context": "Аптеки (药店/药房) распространены в Китае, и многие лекарства доступны без рецепта. Вы можете описать симптомы, и фармацевты часто рекомендуют лекарства.",
+    "examples": [
+      "请问药店在哪？(Извините, где находится аптека?)",
+      "附近有药店吗？(Есть ли аптека поблизости?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "Я смертельно устал / Я ужасно устал",
+    "context": "Конструкция 死了 (sǐ le, \"до смерти\") используется как усилитель. 累死了 очень часто используется после долгого рабочего дня, осмотра достопримечательностей или физических упражнений.",
+    "examples": [
+      "今天走了两万步，累死了。(Walked 20,000 steps today, I'm dead tired.) - Сегодня прошел 20 000 шагов, я ужасно устал.",
+      "加班到十二点，累死了。(Worked overtime until midnight, I'm exhausted.) - Работал сверхурочно до полуночи, я смертельно устал."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "Как же это раздражает / Я так расстроен",
+    "context": "Используется для выражения раздражения или разочарования. Еще один усилитель с 死了. Часто используется при столкновении с раздражающими ситуациями, людьми или бюрократией.",
+    "examples": [
+      "这个问题烦死了！(This problem is so annoying!) - Эта проблема так раздражает!",
+      "排队排了一小时，烦死了。(Queued for an hour, so frustrating.) - Простоял в очереди час, как же это раздражает."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "Ты можешь это сделать! / Продолжай! / Вперед!",
+    "context": "Буквально означает \"добавить масла/топлива\". Одна из самых позитивных и ободряющих фраз в китайском языке. Используется на спортивных мероприятиях, перед экзаменами, в трудные времена или для мотивации кого-либо.",
+    "examples": [
+      "明天考试，加油！(Exam tomorrow, you got this!) - Завтра экзамен, ты справишься!",
+      "加油，我相信你！(Keep going, I believe in you!) - Продолжай, я в тебя верю!"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "Не торопись / Не спеши / Тише едешь, дальше будешь",
+    "context": "Успокаивающая фраза, которая снижает давление. Используется, чтобы сказать кому-то, что не нужно спешить. Отражает терпеливое, понимающее отношение. Также используется при изучении чего-то нового.",
+    "examples": [
+      "别着急，慢慢来。(Don't worry, take your time.) - Не волнуйся, не торопись.",
+      "学中文慢慢来，不要急。(Learning Chinese takes time, don't rush.) - Изучение китайского требует времени, не спеши."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "Ничего не поделаешь / Никак не обойти / Ничем не могу помочь",
+    "context": "Выражение беспомощности или принятия неизбежной ситуации. Очень часто используется для признания того, что некоторые вещи находятся вне вашего контроля.",
+    "examples": [
+      "堵车了，没办法，只能等。(Traffic jam, nothing we can do, just have to wait.) - Пробка, ничего не поделаешь, остается только ждать.",
+      "没办法，规定就是这样。(Can't help it, those are the rules.) - Ничего не поделаешь, таковы правила."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "Я привык(ла) к этому / Я свыкся(лась) с этим",
+    "context": "Используется, когда что-то, что когда-то было трудным или странным, стало нормальным. Может быть как позитивным (адаптация к новой жизни), так и смиренным (принятие чего-то неприятного).",
+    "examples": [
+      "这里天气很热，但我习惯了。(It's very hot here, but I'm used to it.) - Здесь очень жарко, но я привык(ла).",
+      "加班加习惯了。(I've gotten used to working overtime.) - Я привык(ла) к переработкам."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "Что мне/нам делать? / И что теперь?",
+    "context": "Поиск совета или выражение паники перед лицом проблемы. Может быть искренним вопросом или риторическим выражением беспомощности.",
+    "examples": [
+      "手机没电了，怎么办？(Phone is dead, what do I do?) - Телефон разрядился, что делать?",
+      "飞机取消了，怎么办？(Flight cancelled, now what?) - Рейс отменили, и что теперь?"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "Готово! / Все улажено / Я справился(лась)",
+    "context": "Приятная фраза, которую можно использовать, когда вы завершили задачу или решили проблему. Показывает уверенность и компетентность. Очень непринужденно и оптимистично.",
+    "examples": [
+      "机票搞定了！(Flight tickets are booked!) - Билеты на самолет забронированы!",
+      "别担心，我搞定了。(Don't worry, I've got it handled.) - Не волнуйся, я со всем справился(лась)."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "Нет времени / Слишком поздно / Не успеть",
+    "context": "Используется, когда у вас заканчивается время или вы пропустили крайний срок/возможность. Создает ощущение срочности. Противоположность - 来得及 (lái de jí, еще есть время).",
+    "examples": [
+      "来不及了，快走！(No time, let's go!) - Нет времени, пошли!",
+      "现在去还来得及吗？——来不及了。(Is there still time to go now?——It's too late.) - Сейчас пойти еще успеем? - Слишком поздно."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "Скучно / скучный",
+    "context": "Может описывать ваше собственное состояние (мне скучно) или что-то, что является скучным. Очень часто используется среди молодежи, особенно в социальных сетях или при переписке.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So bored, is there anything fun to do?) - Как же скучно, есть что-нибудь интересное?",
+      "这个电影太无聊了。(This movie is so boring.) - Этот фильм такой скучный."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

@@ -225,8 +225,10 @@ export default async function TranslatedListiclePage({
             if (!item.idiom) return null;
 
             return (
+              <div key={item.idiom.id}>
+              {/* In-article ad after every 3rd idiom */}
+              {index > 0 && index % 5 === 0 && <AdUnit type="in-article" />}
               <div
-                key={item.idiom.id}
                 className="group bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-8 hover:shadow-xl hover:border-red-100 hover:-translate-y-1 transition-all duration-300 ease-out"
               >
                 <div className="flex items-start gap-4 sm:gap-6">
@@ -277,6 +279,7 @@ export default async function TranslatedListiclePage({
                     )}
                   </div>
                 </div>
+              </div>
               </div>
             );
           })}

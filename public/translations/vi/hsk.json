@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Xin chào",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "cụm từ",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(Xin chào, tôi tên là Tiểu Minh.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "Cảm ơn",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(Cảm ơn sự giúp đỡ của bạn.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "Tạm biệt",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "cụm từ",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(Hẹn gặp lại ngày mai, tạm biệt!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "Là / Vâng",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(Tôi là học sinh.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "Không",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(Tôi không uống cà phê.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "Tôi / Tớ",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(Tôi rất vui.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "Anh ấy / Ông ấy",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(Anh ấy là bạn của tôi.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "Cô ấy / Bà ấy",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(Cô ấy rất xinh đẹp.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "Tốt / Khỏe",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(Thời tiết hôm nay rất đẹp.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "Lớn",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(Căn phòng này rất lớn.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Nhỏ / Bé",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(Tôi có một con mèo nhỏ.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "Ăn",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Chúng ta đi ăn nhé.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "Uống",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(Bạn muốn uống gì?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "Nhìn / Xem",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Chúng ta xem phim nhé.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "Nghe",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(Tôi thích nghe nhạc.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "Nói",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Bạn có biết nói tiếng Trung không?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "Đọc",
+    "originalMeaning": "To read",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(Tôi đọc sách mỗi ngày.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "Viết",
+    "originalMeaning": "To write",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Xin hãy viết tên của bạn.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "Học",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(Tôi đang học tiếng Trung.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "Bạn",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(Anh ấy là bạn tốt của tôi.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "Nhà / Gia đình",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(Chào mừng đến nhà tôi.)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Nước",
+    "originalMeaning": "Water",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(Làm ơn cho tôi một cốc nước.)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "Tiền",
+    "originalMeaning": "Money",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(Cái này bao nhiêu tiền?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "Hôm nay",
+    "originalMeaning": "Today",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(Hôm nay là thứ mấy?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "Ngày mai",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(Ngày mai chúng ta đi công viên.)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "Hôm qua",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(Hôm qua trời mưa.)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "Bao nhiêu",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(Bạn bao nhiêu tuổi?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "Cái gì",
+    "originalMeaning": "What",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(Bạn tên là gì?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "Ở đâu",
+    "originalMeaning": "Where",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(Bạn sống ở đâu?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "Ai",
+    "originalMeaning": "Who",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(Đây là ai?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "Vậy nên / Vì vậy",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(Anh ấy bị ốm, vì vậy anh ấy không đến.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "Nhưng / Tuy nhiên",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Đắt, nhưng rất ngon.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "Đã",
+    "originalMeaning": "Already",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(Tôi đã ăn rồi.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "Có thể / Được",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(Tôi có thể vào được không?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "Nhanh",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(Bạn đi nhanh quá.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "Chậm",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Xin hãy nói chậm một chút.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "Bận",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(Gần đây tôi rất bận.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "Xa",
+    "originalMeaning": "Far",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(Trường học cách đây rất xa.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "Gần",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(Siêu thị gần nhà tôi.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "Giúp đỡ",
+    "originalMeaning": "To help",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Cảm ơn bạn đã giúp đỡ tôi.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "Chuẩn bị",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Bạn đã chuẩn bị xong chưa?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "Bắt đầu",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(Trận đấu đã bắt đầu.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "Biết",
+    "originalMeaning": "To know",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(Tôi không biết.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "Cảm thấy / Nghĩ",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(Bạn nghĩ thế nào?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "Hy vọng / Mong",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(Tôi hy vọng ngày mai thời tiết tốt.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "Bên cạnh / Kế bên",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(Ngân hàng ở bên cạnh siêu thị.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "Sân bay",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(Đi đến sân bay mất bao lâu?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "Tàu điện ngầm",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(Tôi đi tàu điện ngầm đi làm.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "Điện thoại di động",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(Điện thoại của tôi hết pin rồi.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "Sinh nhật",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(Chúc mừng sinh nhật!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "Cơ thể / Sức khỏe",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(Chú ý đến sức khỏe của bạn.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "Mắt",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(Mắt của cô ấy rất đẹp.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "Mặc dù",
+    "originalMeaning": "Although",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(Mặc dù mệt, nhưng tôi rất vui.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "Hoặc / Vẫn",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(Bạn uống trà hay cà phê?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "Cùng nhau",
+    "originalMeaning": "Together",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(Chúng ta cùng đi nhé.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "Thường xuyên",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(Tôi thường xuyên tập thể dục.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "Rất / Cực kỳ",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(Cảm ơn rất nhiều!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "Có lẽ / Có thể",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(Ngày mai có lẽ sẽ mưa.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "Chắc chắn / Nhất định",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(Bạn nhất định sẽ thành công.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "Môi trường",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(Chúng ta phải bảo vệ môi trường.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "Kinh nghiệm",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "Danh từ",
+    "hskLevel": 3,
+    "examples": [
+      "Bạn có kinh nghiệm làm việc không? (你有工作经验吗？(Do you have work experience?))"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "Cơ hội",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "Danh từ",
+    "hskLevel": 3,
+    "examples": [
+      "Đây là một cơ hội tốt. (这是一个好机会。(This is a good opportunity.))"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "Chọn / Sự lựa chọn",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "Động từ",
+    "hskLevel": 3,
+    "examples": [
+      "Bạn chọn cái nào? (你选择哪个？(Which one do you choose?))"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "Quyết định / Sự quyết định",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "Động từ",
+    "hskLevel": 3,
+    "examples": [
+      "Tôi quyết định đi Trung Quốc. (我决定去中国。(I decided to go to China.))"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "Ảnh hưởng / Sự ảnh hưởng",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "Động từ",
+    "hskLevel": 3,
+    "examples": [
+      "Thời tiết ảnh hưởng đến tâm trạng của tôi. (天气影响了我的心情。(The weather influenced my mood.))"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "Tương đối / So sánh",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "Phó từ",
+    "hskLevel": 3,
+    "examples": [
+      "Hôm nay tương đối lạnh. (今天比较冷。(It's relatively cold today.))"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "Đặc biệt",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "Phó từ",
+    "hskLevel": 3,
+    "examples": [
+      "Món này đặc biệt ngon. (这道菜特别好吃。(This dish is especially delicious.))"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "Thực ra / Thật ra",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "Phó từ",
+    "hskLevel": 3,
+    "examples": [
+      "Thực ra tôi cũng không biết. (其实我也不知道。(Actually, I don't know either.))"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "Cuối cùng / Rốt cuộc",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "Phó từ",
+    "hskLevel": 3,
+    "examples": [
+      "Cuối cùng tôi cũng tìm thấy nó! (我终于找到了！(I finally found it!))"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "Cảm giác / Cảm thấy",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "Danh từ",
+    "hskLevel": 3,
+    "examples": [
+      "Tôi cảm thấy không được khỏe lắm. (我感觉不太舒服。(I feel a bit unwell.))"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "Giải quyết",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(Vấn đề đã được giải quyết.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "Thảo luận",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Chúng ta hãy thảo luận vấn đề này.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "Luyện tập / Bài tập",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(Luyện tập nhiều sẽ tiến bộ.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "Nâng cao / Tăng lên",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(Tôi muốn nâng cao trình độ tiếng Trung của mình.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "Chấp nhận",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(Tôi chấp nhận lời đề nghị của bạn.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "Tham gia",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Bạn có tham gia cuộc thi không?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "Hiểu / Tìm hiểu",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(Tôi muốn tìm hiểu về văn hóa Trung Quốc.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "Chú ý / Cẩn thận",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Xin hãy chú ý an toàn.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "Dự định / Có ý định",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(Bạn dự định khi nào đi?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "Theo như / Dựa theo",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "giới từ",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(Theo dự báo thời tiết, ngày mai sẽ có mưa.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "Hoặc (trong câu trần thuật)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(Bạn có thể đi xe buýt hoặc tàu điện ngầm.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "Chỉ cần",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(Chỉ cần bạn nỗ lực, bạn sẽ thành công.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "Bất kể / Bất luận",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(Bất kể thế nào, tôi cũng ủng hộ bạn.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "Thái độ",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(Thái độ quyết định tất cả.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "Cần / Nhu cầu",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(Tôi cần sự giúp đỡ của bạn.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "Nên / Cần phải",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "động từ",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(Bạn nên nghỉ ngơi nhiều hơn.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "Hài lòng",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(Tôi rất hài lòng với kết quả.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "Bình thường / Phổ biến",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(Tôi là một người bình thường.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "Đề nghị / Gợi ý",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(Tôi khuyên bạn nên tập thể dục nhiều hơn.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "Diễn đạt / Thể hiện",
+    "originalMeaning": "To express",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(Tôi không biết làm thế nào để diễn đạt.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "Giao tiếp / Trao đổi",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "Chúng ta cần giao tiếp nhiều hơn. (We need to communicate more.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "Chứng minh / Bằng chứng",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "Sự thật chứng minh anh ấy đúng. (Facts proved he was right.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Phong phú / Dồi dào",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Văn hóa Trung Quốc rất phong phú. (Chinese culture is very rich.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Phức tạp",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Vấn đề này rất phức tạp. (This problem is very complex.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Tự hào / Niềm tự hào",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Tôi tự hào về bạn. (I'm proud of you.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Tích cực",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Hãy giữ thái độ tích cực. (Keep a positive attitude.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Khó khăn / Khó",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Đừng sợ khó khăn. (Don't be afraid of difficulties.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Dịu dàng / Nhẹ nhàng",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Cô ấy rất dịu dàng. (She is very gentle.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Trung thực",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Sống phải trung thực. (One should be honest.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "Cảm động / Xúc động",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "Câu chuyện này rất cảm động. (This story is very touching.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "Hiểu lầm",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 4,
+    "examples": [
+      "Đây là một sự hiểu lầm. (This is a misunderstanding.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "Hiệu quả / Kết quả",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 4,
+    "examples": [
+      "Hiệu quả rất tốt. (The effect is very good.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "Ngay cả khi / Dù cho",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 4,
+    "examples": [
+      "Ngay cả khi thất bại cũng không bỏ cuộc. (Even if I fail, I won't give up.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Nếu không thì",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 4,
+    "examples": [
+      "Nhanh lên, nếu không thì sẽ trễ. (Hurry up, otherwise we'll be late.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "Vì / Vì rằng / Bởi vì",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 4,
+    "examples": [
+      "Vì đã đến rồi, thì ở lại đi. (Since you're here, stay.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "Mặc dù / Dù cho",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 4,
+    "examples": [
+      "Mặc dù rất khó, tôi cũng muốn thử. (Despite the difficulty, I'll try.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "Ban đầu / Thì ra là vậy",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 4,
+    "examples": [
+      "Thì ra là bạn! (So it was you!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "Không ngờ / Thật bất ngờ",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 4,
+    "examples": [
+      "Anh ấy không ngờ lại biết nói tiếng Trung! (He can speak Chinese, surprisingly!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "Dần dần",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 4,
+    "examples": [
+      "Thời tiết dần dần ấm lên rồi. (The weather is gradually getting warmer.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "Hạnh phúc / May mắn",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Chúc bạn hạnh phúc! (Wishing you happiness!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "Dũng cảm",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Bạn phải dũng cảm đối mặt với nó. (你要勇敢面对。(You must bravely face it.))"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "Tôn trọng",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "động từ",
+    "hskLevel": 4,
+    "examples": [
+      "Phải tôn trọng người khác. (要尊重别人。(Respect others.))"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "Trách nhiệm",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 4,
+    "examples": [
+      "Đây là trách nhiệm của tôi. (这是我的责任。(This is my responsibility.))"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "Kinh tế",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 4,
+    "examples": [
+      "Kinh tế Trung Quốc phát triển rất nhanh. (中国经济发展很快。(China's economy is developing rapidly.))"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "Truyền thống",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 4,
+    "examples": [
+      "Đây là văn hóa truyền thống của Trung Quốc. (这是中国的传统文化。(This is traditional Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "Tạm thời",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 4,
+    "examples": [
+      "Tôi tạm thời không có kế hoạch. (我暂时没有计划。(I don't have plans temporarily.))"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "Đầy đủ / Hoàn toàn",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 4,
+    "examples": [
+      "Hãy chuẩn bị đầy đủ. (做好充分的准备。(Be fully prepared.))"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "Giao tiếp",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "Giao tiếp hiệu quả rất quan trọng. (有效沟通很重要。(Effective communication is important.))"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "Điều phối",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "Tôi sẽ điều phối các khía cạnh. (我来协调各方面。(I'll coordinate all aspects.))"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "Đóng góp",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "Anh ấy đã có những đóng góp to lớn. (他做出了巨大贡献。(He made a huge contribution.))"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "Phẩm chất / Năng lực (của một người)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Nâng cao phẩm chất cá nhân rất quan trọng.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "Bù đắp / Đền bù",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Dùng hành động để bù đắp lỗi lầm.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "Độc đáo / Riêng biệt",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(Nơi này rất độc đáo.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "Hiển nhiên / Rõ ràng",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Hiển nhiên là anh ấy nói không đúng.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "Sâu sắc / Sâu đậm",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(Cuốn sách này có ý nghĩa sâu sắc.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "Thường xuyên / Liên tục",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(Gần đây làm thêm giờ quá thường xuyên.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "Gánh vác / Chịu trách nhiệm",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(Tôi sẵn lòng gánh vác trách nhiệm.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "Duy trì / Giữ",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Giữ bình tĩnh.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "Thúc đẩy / Tạo điều kiện",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(Vận động thúc đẩy sức khỏe.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "Phản ánh / Báo cáo",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(Điều này phản ánh vấn đề xã hội.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "Hiện tại / Bây giờ",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(Tình hình hiện tại không tệ.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "Hợp lý / Có lý",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(Giá này rất hợp lý.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "Linh hoạt / Nhanh nhẹn",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(Thời gian làm việc tương đối linh hoạt.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "Bản chất / Bản tính",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(Bản chất của vấn đề là gì?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "Xu hướng / Khuynh hướng",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(Đây là xu hướng của tương lai.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "Lĩnh vực",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(Anh ấy rất nổi tiếng trong lĩnh vực công nghệ.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "Có / Sở hữu",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(Anh ấy có khả năng lãnh đạo.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "Khắc phục / Vượt qua",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(Vượt qua khó khăn, tiếp tục tiến lên.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "Phục hồi / Khôi phục",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(Anh ấy đã phục hồi sức khỏe.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "Hình thành / Tạo thành",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "động từ",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(Dần dần hình thành thói quen.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "Thực hành / Đưa vào thực tế",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(Lý thuyết cần kết hợp với thực hành.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "Quy mô",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(Quy mô công ty ngày càng lớn.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "Tất yếu / Chắc chắn",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(Nỗ lực chắc chắn sẽ được đền đáp.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "Khoảng chừng / Có lẽ",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(Khoảng chừng mất hai tiếng.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "Do đó / Vì vậy",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(Học hành chăm chỉ, do đó đạt được thành tích tốt.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "Huống chi / Chưa kể",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(Người lớn còn không làm được, huống chi trẻ con.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "Hàm súc / Kín đáo",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(Người Trung Quốc biểu lộ tình cảm khá kín đáo.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "Xa lạ / Không quen",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(Tôi rất xa lạ với nơi này.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "Tế nhị / Tinh tế",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(Mối quan hệ giữa hai người rất tế nhị.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "Uyên bác / Sâu rộng (kiến thức)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(Kiến thức của anh ấy rất uyên bác.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "Mong đợi / Khao khát",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(Cô ấy tràn đầy khao khát về tương lai.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "Suy ngẫm / Cố gắng tìm hiểu",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(Tôi đang cố gắng tìm hiểu ý của anh ấy.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "Say sưa (trong niềm vui)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(Cô ấy say sưa trong âm nhạc.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "Hiểu thấu / Nắm bắt",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(Cuối cùng tôi cũng đã nắm bắt được đạo lý này.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "Nghiên cứu chuyên sâu / Đi sâu vào",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(Anh ấy đã nghiên cứu chuyên sâu trong nhiều năm.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "Sự thấu hiểu sâu sắc / Nhìn thấu",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(Anh ấy có sự thấu hiểu sâu sắc về bản chất con người.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "Phát huy / Truyền bá",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(Phát huy văn hóa truyền thống.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "Điển cố / Giai thoại lịch sử",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(Đằng sau mỗi thành ngữ đều có một điển cố.)"
+    ],
+    "notes": "Thường được sử dụng khi thảo luận về nguồn gốc của các thành ngữ Trung Quốc."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "Hàm ý / Ý nghĩa sâu xa",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(Bài thơ này có hàm ý phong phú.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "Tu dưỡng / Thành tựu",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(Nâng cao tu dưỡng văn hóa.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "Di sản văn hóa / Chiều sâu nội tại",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(Thành phố này có di sản văn hóa sâu sắc.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "Bố cục / Cách cục / Tầm nhìn",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(Cần phải có tầm nhìn bao quát.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "Cảnh giới / Trình độ đạt được",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(Đây là cảnh giới cao nhất của cuộc đời.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "Tinh túy / Tinh hoa",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Đã học được tinh túy của văn hóa Trung Quốc.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "Nguồn gốc / Mối liên hệ sâu sắc",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(Hai nước có mối liên hệ lịch sử sâu sắc.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "Ẩn dụ",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Thành ngữ thường sử dụng thủ pháp ẩn dụ.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "Uyên bác và sâu sắc",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Văn hóa Trung Quốc uyên bác và sâu sắc.)"
+    ],
+    "notes": "Đây là một thành ngữ!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "Thông hiểu thấu đáo",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Học tập cần phải thông hiểu thấu đáo.)"
+    ],
+    "notes": "Đây là một thành ngữ!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "Có lịch sử lâu đời",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Văn hóa Trung Quốc có lịch sử lâu đời.)"
+    ],
+    "notes": "Đây là một thành ngữ!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "Gợi nhiều suy nghĩ / Đáng để suy ngẫm",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(Câu chuyện này gợi nhiều suy nghĩ.)"
+    ],
+    "notes": "Đây là một thành ngữ!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "Ảnh hưởng một cách tinh tế / Ảnh hưởng không thể nhận thấy",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(Văn hóa ảnh hưởng một cách tinh tế đến mọi người.)"
+    ],
+    "notes": "Đây là một thành ngữ (chengyu)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "Tăng lên từng ngày",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(Số lượng người học tiếng Trung đang tăng lên từng ngày.)"
+    ],
+    "notes": "Đây là một thành ngữ (chengyu)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "Suy luận ra nhiều điều từ một trường hợp",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(Khi học, người ta nên suy luận ra nhiều điều từ một trường hợp.)"
+    ],
+    "notes": "Đây là một thành ngữ (chengyu)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "Từng bước một / Tiến triển theo trình tự",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "phó từ",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(Học một ngôn ngữ nên tiến triển từng bước một.)"
+    ],
+    "notes": "Đây là một thành ngữ (chengyu)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "Nổi bật / Phong cách độc đáo",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "động từ",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(Phong cách viết văn của anh ấy thực sự độc đáo.)"
+    ],
+    "notes": "Đây là một thành ngữ (chengyu)!"
+  }
+]

@@ -1,0 +1,247 @@
+import { Metadata } from 'next';
+import { notFound } from 'next/navigation';
+import Link from 'next/link';
+import { ArrowLeft, GraduationCap } from 'lucide-react';
+import { HSK_LEVEL_DESCRIPTIONS, getHSKByLevel } from '@/src/lib/hsk';
+import { LANGUAGES } from '@/src/lib/constants';
+import LanguageSelector from '@/app/components/LanguageSelector';
+import AdUnit from '@/app/components/AdUnit';
+
+const VALID_LEVELS = ['1', '2', '3', '4', '5', '6'];
+
+export async function generateStaticParams() {
+  return VALID_LEVELS.map(level => ({ level }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ level: string }> }): Promise<Metadata> {
+  const { level } = await params;
+  const levelNum = parseInt(level);
+  const info = HSK_LEVEL_DESCRIPTIONS[levelNum];
+
+  if (!info) {
+    return { title: 'Level Not Found' };
+  }
+
+  const words = getHSKByLevel(levelNum);
+
+  return {
+    title: `HSK ${level} Vocabulary List — ${words.length} Essential Words | Chinese Idioms`,
+    description: `${info.title} (${info.cefrLevel}): Study ${words.length} curated Chinese words with pinyin, meanings, and example sentences. ${info.description}`,
+    keywords: [`HSK ${level} vocabulary`, `HSK ${level} word list`, `HSK level ${level}`, `HSK ${level} words`, 'chinese vocabulary', `${info.cefrLevel} chinese`],
+    openGraph: {
+      title: `HSK ${level} Vocabulary — ${words.length} Essential Words`,
+      description: `${info.title}: ${info.description}`,
+      url: `https://www.chineseidioms.com/hsk/${level}`,
+      siteName: 'Chinese Idioms',
+      locale: 'en_US',
+      type: 'article',
+    },
+    alternates: {
+      canonical: `https://www.chineseidioms.com/hsk/${level}`,
+      languages: {
+        'x-default': `/hsk/${level}`,
+        'en': `/hsk/${level}`,
+        ...Object.fromEntries(
+          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/hsk/${level}`])
+        ),
+      },
+    },
+  };
+}
+
+export default async function HSKLevelPage({ params }: { params: Promise<{ level: string }> }) {
+  const { level } = await params;
+  const levelNum = parseInt(level);
+  const info = HSK_LEVEL_DESCRIPTIONS[levelNum];
+
+  if (!info || !VALID_LEVELS.includes(level)) {
+    notFound();
+  }
+
+  const words = getHSKByLevel(levelNum);
+
+  const colors = [
+    'from-green-500 to-emerald-600',
+    'from-blue-500 to-indigo-600',
+    'from-yellow-500 to-orange-600',
+    'from-orange-500 to-red-600',
+    'from-red-500 to-pink-600',
+    'from-purple-500 to-violet-600',
+  ];
+
+  // Safe static JSON-LD for SEO - contains only hardcoded content, no user input
+  const structuredData = [
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": `HSK ${level} Vocabulary`,
+      "description": info.description,
+      "numberOfItems": words.length,
+      "itemListElement": words.map((word, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "name": word.characters,
+        "description": `${word.pinyin} — ${word.meaning}`,
+      })),
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.chineseidioms.com" },
+        { "@type": "ListItem", "position": 2, "name": "HSK", "item": "https://www.chineseidioms.com/hsk" },
+        { "@type": "ListItem", "position": 3, "name": `Level ${level}`, "item": `https://www.chineseidioms.com/hsk/${level}` }
+      ]
+    }
+  ];
+
+  return (
+    <div className="min-h-screen bg-gray-50">
+      {/* Safe static JSON-LD for SEO - contains only hardcoded content, no user input */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
+
+      <nav className="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b border-gray-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <Link href="/hsk" className="inline-flex items-center gap-2 text-gray-500 hover:text-gray-900 font-medium transition-colors">
+            <ArrowLeft className="w-4 h-4" />
+            Back to All HSK Levels
+          </Link>
+        </div>
+      </nav>
+
+      <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+        <header className="mb-12">
+          <div className="flex flex-wrap gap-2 mb-4">
+            <span className="inline-flex items-center gap-1.5 text-sm font-semibold text-emerald-600 bg-emerald-50 px-3 py-1.5 rounded-full">
+              <GraduationCap className="w-4 h-4" />
+              HSK Level {level}
+            </span>
+            <span className="text-sm font-medium text-gray-500 bg-gray-100 px-3 py-1.5 rounded-full">
+              CEFR {info.cefrLevel}
+            </span>
+            <span className="text-sm font-medium text-blue-600 bg-blue-50 px-3 py-1.5 rounded-full">
+              {info.wordCount}
+            </span>
+          </div>
+          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-5 tracking-tight leading-tight">
+            {info.title}
+          </h1>
+          <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl">
+            {info.description} Browse {words.length} curated words with pinyin, meanings, and example sentences.
+          </p>
+        </header>
+
+        <AdUnit type="display" />
+
+        {/* Word List */}
+        <div className="space-y-4">
+          {words.map((word, index) => (
+            <div key={`${word.characters}-${index}`}>
+              {index > 0 && index % 5 === 0 && <AdUnit type="in-article" />}
+              <div className="group bg-white rounded-xl border border-gray-100 p-5 sm:p-6 hover:shadow-md hover:border-emerald-100 transition-all">
+                <div className="flex items-start gap-4">
+                  <div className={`flex-shrink-0 w-10 h-10 bg-gradient-to-br ${colors[levelNum - 1]} rounded-xl flex items-center justify-center`}>
+                    <span className="text-white font-bold text-sm">{index + 1}</span>
+                  </div>
+                  <div className="flex-1 min-w-0">
+                    <div className="flex flex-wrap items-baseline gap-2 mb-2">
+                      <h2 className="text-2xl font-bold text-gray-900">{word.characters}</h2>
+                      <span className="text-gray-400 text-base">{word.pinyin}</span>
+                      <span className="text-xs font-medium text-gray-500 bg-gray-100 px-2 py-0.5 rounded-full">
+                        {word.partOfSpeech}
+                      </span>
+                    </div>
+                    <p className="text-lg font-semibold text-emerald-600 mb-3">{word.meaning}</p>
+                    {word.examples.map((ex, i) => (
+                      <div key={i} className="bg-gray-50 rounded-lg p-3 mb-2">
+                        <p className="text-sm text-gray-700">{ex}</p>
+                      </div>
+                    ))}
+                    {word.notes && (
+                      <p className="text-xs text-gray-500 italic mt-2">{word.notes}</p>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Quick Reference */}
+        <section className="mt-16 bg-gradient-to-br from-slate-50 via-emerald-50 to-teal-50 rounded-3xl p-8 sm:p-10 border border-emerald-100/50">
+          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">Quick Reference</h2>
+          <div className="grid gap-3 sm:gap-4 md:grid-cols-2">
+            {words.map((word, index) => (
+              <div
+                key={`ref-${word.characters}-${index}`}
+                className="flex items-center gap-3 bg-white/80 backdrop-blur-sm rounded-xl p-3 border border-white"
+              >
+                <span className={`flex-shrink-0 w-7 h-7 bg-gradient-to-br ${colors[levelNum - 1]} rounded-lg flex items-center justify-center text-white font-bold text-xs`}>
+                  {index + 1}
+                </span>
+                <div className="flex-1 min-w-0">
+                  <span className="font-bold text-gray-900">{word.characters}</span>
+                  <span className="text-gray-300 mx-1.5">·</span>
+                  <span className="text-gray-600 text-sm">{word.meaning}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <AdUnit type="multiplex" />
+
+        {/* Other Levels */}
+        <section className="mt-16 pt-10 border-t border-gray-200">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Other HSK Levels</h2>
+          <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+            {VALID_LEVELS.filter(l => l !== level).map(l => {
+              const lNum = parseInt(l);
+              const lInfo = HSK_LEVEL_DESCRIPTIONS[lNum];
+              return (
+                <Link
+                  key={l}
+                  href={`/hsk/${l}`}
+                  className="group p-4 bg-white rounded-xl border border-gray-100 hover:shadow-md hover:border-emerald-200 transition-all"
+                >
+                  <div className="flex items-center gap-3">
+                    <div className={`w-10 h-10 bg-gradient-to-br ${colors[lNum - 1]} rounded-xl flex items-center justify-center`}>
+                      <span className="text-white font-bold">{l}</span>
+                    </div>
+                    <div>
+                      <p className="font-semibold text-gray-900 group-hover:text-emerald-600 transition-colors text-sm">{lInfo.title}</p>
+                      <p className="text-xs text-gray-500">{lInfo.cefrLevel}</p>
+                    </div>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      </article>
+
+      <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
+        <div className="container mx-auto px-4">
+          <div className="text-center space-y-4">
+            <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
+              <p className="text-gray-600">&copy; {new Date().getFullYear()} chineseidioms</p>
+              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition-colors">Built by Wilson</a>
+              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <Link href="/blog" className="text-gray-600 hover:text-gray-900 transition-colors">Blog</Link>
+              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <Link href="/dictionary" className="text-gray-600 hover:text-gray-900 transition-colors">Dictionary</Link>
+              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <Link href="/privacy" className="text-gray-600 hover:text-gray-900 transition-colors">Privacy Policy</Link>
+              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <LanguageSelector currentLang="en" />
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  );
+}

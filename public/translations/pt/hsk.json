@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Olá",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "frase",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(Olá, meu nome é Xiao Ming.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "Obrigado(a)",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(Obrigado(a) pela sua ajuda.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "Adeus",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "frase",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(Até amanhã, adeus!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "Ser / Sim",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(Eu sou estudante.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "Não",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(Eu não bebo café.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "Eu / Me",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(Eu estou muito feliz.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "Ele / O",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(Ele é meu amigo.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "Ela / A",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(Ela é muito bonita.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "Bom / Bem",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(O tempo está muito bom hoje.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "Grande",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(Este quarto é muito grande.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Pequeno / Pouco",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(Eu tenho um gato pequeno.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "Comer",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Vamos comer.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "Beber",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(O que você gostaria de beber?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "Olhar / Assistir",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Vamos assistir a um filme.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "Ouvir",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(Eu gosto de ouvir música.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "Falar / Dizer",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Você fala chinês?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "Ler",
+    "originalMeaning": "To read",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(Eu leio todos os dias.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "Escrever",
+    "originalMeaning": "To write",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Por favor, escreva seu nome.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "Estudar / Aprender",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "verbo",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(Eu estou estudando chinês.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "Amigo",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(Ele é meu bom amigo.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "Casa / Família",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Bem-vindo à minha casa. (欢迎来我家。(Welcome to my home.))"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Água",
+    "originalMeaning": "Water",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Por favor, me dê um copo de água. (请给我一杯水。(Please give me a glass of water.))"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "Dinheiro",
+    "originalMeaning": "Money",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Quanto custa isso? (这个多少钱？(How much is this?))"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "Hoje",
+    "originalMeaning": "Today",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Que dia é hoje? (今天星期几？(What day is today?))"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "Amanhã",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Amanhã nós vamos ao parque. (明天我们去公园。(Tomorrow we go to the park.))"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "Ontem",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 1,
+    "examples": [
+      "Ontem choveu. (昨天下雨了。(It rained yesterday.))"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "Quanto / Quantos",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "Quantos anos você tem? (你多少岁？(How old are you?))"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "O que",
+    "originalMeaning": "What",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "Qual é o seu nome? (你叫什么名字？(What is your name?))"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "Onde",
+    "originalMeaning": "Where",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "Onde você mora? (你住在哪里？(Where do you live?))"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "Quem",
+    "originalMeaning": "Who",
+    "partOfSpeech": "pronome",
+    "hskLevel": 1,
+    "examples": [
+      "Quem é este? (这是谁？(Who is this?))"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "Então / Portanto",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(Ele está doente, então não veio.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "Mas / No entanto",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Caro, mas muito delicioso.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "Já",
+    "originalMeaning": "Already",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(Eu já comi.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "Pode / Poder",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(Posso entrar?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "Rápido / Veloz",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(Você anda muito rápido.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "Lento",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Por favor, fale mais devagar.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "Ocupado",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(Tenho estado ocupado ultimamente.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "Longe",
+    "originalMeaning": "Far",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(A escola é longe daqui.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "Perto / Próximo",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(O supermercado é perto da minha casa.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "Ajudar",
+    "originalMeaning": "To help",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Obrigado por me ajudar.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "Preparar",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Você está pronto?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "Começar / Iniciar",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(O jogo começou.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "Saber / Conhecer",
+    "originalMeaning": "To know",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(Eu não sei.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "Achar / Sentir / Pensar",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(O que você acha?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "Esperar / Esperança",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "verbo",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(Espero que o tempo esteja bom amanhã.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "Ao lado de / Próximo a",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(O banco fica ao lado do supermercado.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "Aeroporto",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(Quanto tempo leva para chegar ao aeroporto?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "Metrô",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(Eu pego o metrô para ir trabalhar.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "Telefone celular",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(Meu celular está sem bateria.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "Aniversário",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(Feliz aniversário!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "Corpo / Saúde",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(Cuide da sua saúde.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "Olho(s)",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(Os olhos dela são muito bonitos.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "Embora",
+    "originalMeaning": "Although",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(Embora cansado, estou muito feliz.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "Ou / Ainda",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(Você bebe chá ou café?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "Juntos",
+    "originalMeaning": "Together",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(Vamos juntos.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "Frequentemente / Com frequência",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(Eu me exercito frequentemente.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "Muito / Extremamente",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(Muito obrigado!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "Talvez / Possível",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(Talvez chova amanhã.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "Definitivamente / Deve",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(Você definitivamente terá sucesso.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "Meio ambiente",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(Devemos proteger o meio ambiente.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "Experiência",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(Você tem experiência de trabalho?)"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "Oportunidade / Chance",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(Esta é uma boa oportunidade.)"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "Escolher / Escolha",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(Qual você escolhe?)"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "Decidir / Decisão",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(Eu decidi ir para a China.)"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "Influenciar / Influência",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(O tempo influenciou meu humor.)"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "Relativamente / Comparar",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(Está relativamente frio hoje.)"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "Especialmente / Especial",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(Este prato é especialmente delicioso.)"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "Na verdade / De fato",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(Na verdade, eu também não sei.)"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "Finalmente / Por fim",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(Eu finalmente encontrei!)"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "Sentimento / Sentir",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(Eu não me sinto muito bem.)"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "Resolver / Solucionar",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(O problema está resolvido.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "Discutir",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Vamos discutir este problema.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "Praticar / Exercício",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(Mais prática leva à melhoria.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "Melhorar / Aumentar",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(Eu quero melhorar meu nível de chinês.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "Aceitar",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(Eu aceito sua sugestão.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "Participar / Juntar-se",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Você vai participar da competição?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "Entender / Saber sobre",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(Eu quero aprender sobre a cultura chinesa.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "Prestar atenção / Ter cuidado",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Por favor, preste atenção à segurança.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "Planejar / Pretender",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(Quando você planeja ir?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "De acordo com / Baseado em",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "preposição",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(De acordo com a previsão do tempo, amanhã vai chover.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "Ou (em declarações)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(Você pode pegar o ônibus ou o metrô.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "Contanto que",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(Contanto que você se esforce, você terá sucesso.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "Não importa / Independentemente",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(Não importa o que aconteça, eu te apoio.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "Atitude",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(A atitude determina tudo.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "Precisar / Necessidades",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(Eu preciso da sua ajuda.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "Dever / Deveria",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "verbo",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(Você deveria descansar mais.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "Satisfeito",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(Estou muito satisfeito com o resultado.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "Ordinário / Comum",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(Eu sou uma pessoa comum.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "Sugerir / Sugestão",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(Eu sugiro que você se exercite mais.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "Expressar",
+    "originalMeaning": "To express",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(Eu não sei como expressar isso.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "Comunicar / Trocar",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "Precisamos nos comunicar mais. (We need to communicate more.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "Provar / Prova",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "Os fatos provaram que ele estava certo. (Facts proved he was right.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Rico / Abundante",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "A cultura chinesa é muito rica. (Chinese culture is very rich.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Complexo / Complicado",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Este problema é muito complexo. (This problem is very complex.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Orgulhoso / Orgulho",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Tenho orgulho de você. (I'm proud of you.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Ativo / Positivo",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Mantenha uma atitude positiva. (Keep a positive attitude.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Dificuldade / Difícil",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Não tenha medo das dificuldades. (Don't be afraid of difficulties.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Gentil / Terno",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Ela é muito gentil. (She is very gentle.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Honesto",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Deve-se ser honesto. (One should be honest.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "Comover-se / Comovente",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "Esta história é muito comovente. (This story is very touching.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "Mal-entendido",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 4,
+    "examples": [
+      "这是一个误会。(Isto é um mal-entendido.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "Efeito / Resultado",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 4,
+    "examples": [
+      "效果很好。(O efeito é muito bom.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "Mesmo se / Ainda que",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 4,
+    "examples": [
+      "即使失败也不放弃。(Mesmo que eu falhe, não vou desistir.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Senão / Caso contrário",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 4,
+    "examples": [
+      "快点，否则会迟到。(Apresse-se, senão chegaremos atrasados.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "Já que / Visto que",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 4,
+    "examples": [
+      "既然来了，就留下吧。(Já que você veio, fique.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "Apesar de / Embora",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 4,
+    "examples": [
+      "尽管很难，我也要试。(Apesar da dificuldade, eu vou tentar.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "Originalmente / Então é assim",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 4,
+    "examples": [
+      "原来是你！(Então era você!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "Inesperadamente / Para surpresa de alguém",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 4,
+    "examples": [
+      "他竟然会说中文！(Ele fala chinês, surpreendentemente!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "Gradualmente",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 4,
+    "examples": [
+      "天气逐渐变暖了。(O tempo está gradualmente ficando mais quente.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "Feliz / Abençoado",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "祝你幸福！(Desejo-lhe felicidade!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "Corajoso / Valente",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Você deve enfrentar isso com coragem. (你要勇敢面对。(You must bravely face it.))"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "Respeitar / Respeito",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "verbo",
+    "hskLevel": 4,
+    "examples": [
+      "Respeite os outros. (要尊重别人。(Respect others.))"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "Responsabilidade",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 4,
+    "examples": [
+      "Esta é minha responsabilidade. (这是我的责任。(This is my responsibility.))"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "Economia / Econômico",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 4,
+    "examples": [
+      "A economia da China está se desenvolvendo rapidamente. (中国经济发展很快。(China's economy is developing rapidly.))"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "Tradição / Tradicional",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 4,
+    "examples": [
+      "Esta é a cultura tradicional chinesa. (这是中国的传统文化。(This is traditional Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "Temporariamente",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 4,
+    "examples": [
+      "Eu não tenho planos temporariamente. (我暂时没有计划。(I don't have plans temporarily.))"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "Totalmente / Amplo",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 4,
+    "examples": [
+      "Esteja totalmente preparado. (做好充分的准备。(Be fully prepared.))"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "Comunicar",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "A comunicação eficaz é importante. (有效沟通很重要。(Effective communication is important.))"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "Coordenar",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "Eu vou coordenar todos os aspectos. (我来协调各方面。(I'll coordinate all aspects.))"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "Contribuição / Contribuir",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "Ele fez uma enorme contribuição. (他做出了巨大贡献。(He made a huge contribution.))"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "Qualidade / Calibre (de uma pessoa)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Melhorar a qualidade pessoal é importante.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "Compensar / Reparar",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Repare os erros com ações.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "Único / Distintivo",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(Este lugar é muito único.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "Obviamente / Evidentemente",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Obviamente, o que ele disse está errado.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "Profundo / Intenso",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(Este livro tem um significado profundo.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "Frequente",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(As horas extras têm sido muito frequentes ultimamente.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "Suportar / Assumir",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(Estou disposto a assumir a responsabilidade.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "Manter / Conservar",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Mantenha a calma.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "Promover / Facilitar",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(O exercício promove a saúde.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "Refletir / Reportar",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(Isto reflete problemas sociais.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "Atualmente / No momento",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(A situação atual não é ruim.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "Razoável / Racional",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(Este preço é muito razoável.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "Flexível / Ágil",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(O horário de trabalho é relativamente flexível.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "Essência / Natureza",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(Qual é a essência do problema?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "Tendência / Direção",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(Esta é a tendência do futuro.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "Campo / Domínio / Área",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(Ele é famoso no campo da tecnologia.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "Possuir / Ter",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(Ele possui capacidade de liderança.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "Superar",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(Superar as dificuldades e seguir em frente.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "Recuperar / Restaurar",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(Ele já recuperou a saúde.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "Formar / Tomar forma",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "verbo",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(Gradualmente formou-se um hábito.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "Prática / Colocar em prática",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(A teoria deve combinar com a prática.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "Escala / Âmbito",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(A escala da empresa está crescendo.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "Inevitável / Certamente",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(O trabalho duro certamente compensa.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "Aproximadamente / Provavelmente",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(Leva aproximadamente duas horas.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "Assim / Desta forma",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(Estude muito, assim conseguindo boas notas.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "Muito menos / Sem mencionar",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "conjunção",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(Adultos não conseguem fazer, muito menos crianças.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "Implícito / Reservado",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(Os chineses expressam sentimentos de forma mais reservada.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "Estranho / Desconhecido",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(Eu sou muito estranho a este lugar.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "Sutil / Delicado",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(A relação entre os dois é sutil.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "Erudito / Profundo (conhecimento)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(O conhecimento dele é muito profundo.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "Ansiar por / Desejo",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(Ela está cheia de desejo pelo futuro.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "Ponderar / Tentar descobrir",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(Estou tentando descobrir o que ele quer dizer.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "Estar embriagado (de alegria)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(Ela estava embriagada pela música.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "Compreender / Entender",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(Eu finalmente entendi essa verdade.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "Estudar intensivamente / Aprofundar-se em",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(Ele estudou isso intensivamente por muitos anos.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "Perspicácia / Perceber",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(Ele tem uma profunda perspicácia sobre a natureza humana.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "Promover / Levar adiante",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(Promover a cultura tradicional.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "Alusão clássica / Anedota histórica",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(Cada idioma tem uma alusão clássica por trás dele.)"
+    ],
+    "notes": "Comumente usado ao discutir a origem de expressões idiomáticas chinesas."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "Conotação / Significado interno",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(Este poema tem ricas conotações.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "Cultivo / Realização",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(Melhorar o cultivo cultural.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "Herança cultural / Profundidade interior",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(Esta cidade tem uma profunda herança cultural.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "Padrão / Layout / Visão",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(Deve-se ter uma visão ampla.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "Reino / Nível de realização",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(Este é o mais alto nível da vida.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "Essência / Quintessência",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Aprendeu a essência da cultura chinesa.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "Origem / Conexão profundamente enraizada",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(Os dois países têm profundas conexões históricas.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "Metáfora",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "substantivo",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Os idiomas frequentemente usam técnicas metafóricas.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "Amplo e profundo",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(A cultura chinesa é ampla e profunda.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "Dominar completamente através da compreensão",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(O aprendizado deve envolver uma compreensão completa.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "Ter uma longa história",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(A cultura chinesa tem uma longa história.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "Que provoca reflexão / Que vale a pena ponderar",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "adjetivo",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(Esta história é instigante.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "Influenciar sutilmente / Influência imperceptível",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(A cultura influencia as pessoas sutilmente.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "Aumentando dia a dia",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(O número de pessoas aprendendo chinês está aumentando dia a dia.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "Inferir muitas coisas a partir de um caso",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(Ao aprender, deve-se inferir muitas coisas a partir de um caso.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "Passo a passo / Progredindo em ordem",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "advérbio",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(Aprender um idioma deve progredir passo a passo.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "Destacar-se / Estilo único",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "verbo",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(Seu estilo de escrita é verdadeiramente único.)"
+    ],
+    "notes": "Este é um idioma (chengyu)!"
+  }
+]

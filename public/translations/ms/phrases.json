@@ -1,0 +1,1212 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "Minta bil / bayar",
+    "context": "Digunakan pada akhir hidangan untuk memberi isyarat bahawa anda ingin membayar. Hanya angkat tangan anda dan katakan ini kepada pelayan. Di beberapa wilayah, 结账 (jié zhàng) digunakan sebagai gantinya.",
+    "examples": [
+      "服务员，买单！(Pelayan, minta bil!)",
+      "Can we 买单? We're ready to go. (Boleh kami minta bil? Kami sudah bersedia untuk pergi.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "Bungkus / bawa balik / pek",
+    "context": "Digunakan apabila anda mempunyai sisa makanan dan ingin membawanya pulang. Sangat biasa dan tidak dianggap biadab sama sekali di China — membazir makanan adalah lebih teruk.",
+    "examples": [
+      "这个菜打包吧。(Mari kita bungkus hidangan ini.)",
+      "可以打包吗？(Bolehkah saya bungkus ini?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "Tidak pedas / jangan pedas",
+    "context": "Frasa penting untuk terus hidup di Sichuan, Hunan, dan wilayah lain yang kaya dengan rempah. Variasi: 少辣 (shǎo là, kurang pedas), 微辣 (wēi là, pedas ringan), 中辣 (zhōng là, sederhana pedas).",
+    "examples": [
+      "不要辣，谢谢。(Tidak pedas, terima kasih.)",
+      "我不能吃辣，少辣可以吗？(Saya tidak boleh makan pedas, bolehkah anda buat kurang pedas?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "Apa yang anda cadangkan?",
+    "context": "Cara terbaik untuk menemui kepakaran tempatan. Kakitangan restoran biasanya suka mengesyorkan hidangan istimewa mereka. Boleh juga digunakan di kedai atau kafe.",
+    "examples": [
+      "你们这儿有什么推荐？(Apa yang anda cadangkan di sini?)",
+      "第一次来，有什么推荐的菜？(Kali pertama di sini, ada cadangan hidangan?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "Saya vegetarian / Saya makan makanan vegetarian",
+    "context": "Penting untuk vegetarian makan di luar. Perhatikan bahawa \"vegetarian\" di China mungkin masih termasuk telur dan tenusu. Untuk vegan, katakan 我是纯素 (wǒ shì chún sù).",
+    "examples": [
+      "我吃素，有素菜吗？(Saya vegetarian, adakah anda mempunyai hidangan sayur-sayuran?)",
+      "这个里面有肉吗？我吃素。(Adakah ini mempunyai daging? Saya vegetarian.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "Bersulang! / Habiskan!",
+    "context": "Secara harfiah \"cawan kering\" — bermaksud menghabiskan minuman anda dalam satu tegukan. Di majlis makan malam formal, anda mungkin mendengar ini berkali-kali. Anda juga boleh berkata 随意 (suí yì, minum mengikut kadar anda sendiri) jika anda tidak dapat mengikutinya.",
+    "examples": [
+      "为我们的友谊干杯！(Bersulang untuk persahabatan kita!)",
+      "来，干杯！(Mari, habiskan!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "Satu lagi / Tambah satu lagi",
+    "context": "Digunakan untuk memesan hidangan, minuman, atau bahagian lain. Berfungsi di restoran, bar, dan gerai makanan jalanan.",
+    "examples": [
+      "这个很好吃，再来一个！(Ini sangat sedap, tambah satu lagi!)",
+      "啤酒再来一个。(Bir, tambah satu lagi.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "Saya kenyang / Saya sudah cukup makan",
+    "context": "Cara sopan untuk menolak lebih banyak makanan. Dalam budaya Cina, tuan rumah akan terus menawarkan makanan. Mengatakan 吃饱了 menunjukkan penghargaan sambil menunjukkan anda sudah cukup makan.",
+    "examples": [
+      "谢谢，我吃饱了。(Terima kasih, saya kenyang.)",
+      "真的吃饱了，不用再加了。(Saya betul-betul kenyang, tidak perlu tambah lagi.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "Kongsi bil / Bayar sendiri-sendiri",
+    "context": "Biasa di kalangan rakan-rakan dan orang muda. Dalam budaya tradisional Cina, seorang biasanya membayar untuk seluruh meja, tetapi AA制 semakin diterima terutamanya di kalangan generasi milenial.",
+    "examples": [
+      "今天AA制吧。(Mari kita kongsi bil hari ini.)",
+      "我们AA还是你请？(Kita kongsi atau awak belanja?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "Macam mana nak makan ini?",
+    "context": "Berguna apabila berhadapan dengan hidangan Cina yang tidak dikenali seperti hotpot, Peking duck wraps, atau xiaolongbao. Tiada siapa akan menghakimi anda kerana bertanya — ia menunjukkan minat yang tulen.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(Macam mana nak makan ini? Perlu celup sos ke?)",
+      "小笼包怎么吃才不会烫？(Macam mana nak makan xiaolongbao supaya tak melecur?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "Terlalu mahal!",
+    "context": "Frasa penting untuk tawar-menawar di pasar. Ucapkan ini dengan ekspresi sedikit kesakitan untuk kesan maksimum. Berfungsi di pasar, kedai kecil, dan dengan penjaja jalanan — tidak di pusat membeli-belah atau kedai rangkaian.",
+    "examples": [
+      "太贵了，便宜点吧！(Terlalu mahal, kurangkan harga!)",
+      "这个太贵了，我再看看。(Ini terlalu mahal, saya akan lihat-lihat lagi.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "Kurangkan sedikit / beri saya diskaun",
+    "context": "Susulan kepada 太贵了. Cara sopan untuk memulakan rundingan. Boleh digabungkan dengan alasan seperti membeli berbilang barang atau menjadi pelanggan tetap.",
+    "examples": [
+      "老板，便宜点嘛！(Bos, beri harga yang lebih baik!)",
+      "买两个能便宜点吗？(Boleh kurang jika saya beli dua?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "Bolehkah saya cuba / Bolehkah saya mencubanya?",
+    "context": "Digunakan di kedai pakaian, kedai kasut, atau ketika mencuba makanan. Kebanyakan kedai akan membenarkan anda mencuba, walaupun sesetengah gerai pasar mungkin tidak.",
+    "examples": [
+      "这件衣服可以试试吗？(Bolehkah saya mencuba pakaian ini?)",
+      "这个口味可以试试吗？(Bolehkah saya mencuba perisa ini?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "Adakah anda mempunyai warna lain?",
+    "context": "Berguna ketika membeli-belah pakaian, aksesori, atau barangan rumah. Anda boleh menggantikan 颜色 dengan 尺码 (chǐ mǎ, saiz) atau 款式 (kuǎn shì, gaya).",
+    "examples": [
+      "这个有没有别的颜色？(Adakah ini datang dalam warna lain?)",
+      "有没有大一号的？(Adakah anda mempunyai satu saiz lebih besar?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "Kad atau tunai?",
+    "context": "Anda akan mendengar ini di kaunter pembayaran. Pada masa kini kebanyakan tempat juga menerima WeChat Pay dan Alipay. Anda mungkin juga mendengar 微信还是支付宝 (WeChat atau Alipay?).",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Kad atau tunai?——Bolehkah saya menggunakan WeChat Pay?)",
+      "可以刷卡吗？(Bolehkah saya membayar dengan kad?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "Diskaun / sedang dijual",
+    "context": "Di China, diskaun dinyatakan sebagai pecahan yang anda bayar: 打八折 bermaksud 80% daripada harga (diskaun 20%), 打五折 bermaksud diskaun 50%. Ini adalah berlawanan dengan cara diskaun berfungsi dalam Bahasa Inggeris.",
+    "examples": [
+      "现在打折吗？(Adakah ada diskaun sekarang?)",
+      "这个打几折？(Berapakah diskaun untuk ini?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "Adakah ini palsu? / Mustahil!",
+    "context": "Digunakan apabila mempersoalkan ketulenan produk di pasar, atau sebagai ungkapan tidak percaya dalam perbualan. Dalam konteks membeli-belah, berhati-hati menggunakan ini terlalu agresif.",
+    "examples": [
+      "这个是真的还是假的？(Adakah ini betul atau palsu?)",
+      "五百块？假的吧！(500 yuan? Mustahil!)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "Adakah ia termasuk penghantaran percuma?",
+    "context": "Penting untuk membeli-belah dalam talian di Taobao, JD.com, dan lain-lain. Salah satu perkara pertama yang pembeli Cina tanya. Boleh juga digunakan secara bergurau secara peribadi.",
+    "examples": [
+      "这个包邮吗？(Adakah ini termasuk penghantaran percuma?)",
+      "满多少包邮？(Berapa banyak yang perlu saya belanjakan untuk penghantaran percuma?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "Memulangkan produk / bayaran balik",
+    "context": "Digunakan apabila anda ingin memulangkan sesuatu yang anda beli. 退款 (tuì kuǎn) secara khusus bermaksud bayaran balik wang. Platform membeli-belah dalam talian biasanya mempunyai polisi pemulangan 7 hari.",
+    "examples": [
+      "这个可以退货吗？(Bolehkah saya memulangkan ini?)",
+      "我想退货退款。(Saya ingin memulangkan ini untuk bayaran balik.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "Berapakah harga terendah? / Apakah tawaran terbaik anda?",
+    "context": "Langkah berkuasa dalam tawar-menawar. Gunakan ini selepas berbalas-balas beberapa kali. Ia menandakan anda serius untuk membeli tetapi memerlukan harga yang lebih baik.",
+    "examples": [
+      "最低多少钱？(Berapakah harga terendah mutlak?)",
+      "不用讲价了，最低多少？(Tidak perlu berunding lagi, berapakah harga terendah anda?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "Macam mana saya nak ke sana? / Ke arah mana?",
+    "context": "Frasa paling asas untuk bertanya arah. Tunjuk pada peta atau sebutkan tanda tempat, kemudian tanya 怎么走. Orang biasanya akan menunjukkan arah yang betul walaupun terdapat halangan bahasa.",
+    "examples": [
+      "请问，地铁站怎么走？(Maaf, macam mana saya nak ke stesen kereta api bawah tanah?)",
+      "去天安门怎么走？(Macam mana saya nak ke Tiananmen?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "Dah sampai ke? / Kita dah sampai?",
+    "context": "Digunakan dalam teksi, bas, atau apabila seseorang memandu anda. Anda juga boleh bertanya kepada pemandu 快到了吗 (kuài dào le ma, kita dah nak sampai ke?).",
+    "examples": [
+      "师傅，到了吗？(Pemandu, dah sampai ke?)",
+      "还没到吗？还有多远？(Belum sampai lagi ke? Berapa jauh lagi?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "Di mana saya patut turun?",
+    "context": "Digunakan di dalam bas dan kereta api bawah tanah. Tunjukkan destinasi anda pada telefon anda kepada pemandu atau penumpang lain dan tanya ini. Di dalam bas, pemandu atau pengumuman automatik akan menyebut perhentian.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Maaf, di mana saya patut turun untuk ke Kota Larangan?)",
+      "我应该在哪一站下车？(Saya patut turun di stesen mana?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "Ada kesesakan lalu lintas / terperangkap dalam kesesakan lalu lintas",
+    "context": "Sangat biasa di bandar-bandar di China, terutamanya semasa waktu puncak. Pemandu teksi sering menyebut ini secara proaktif. Alasan yang berguna untuk lewat juga.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Maaf, terperangkap dalam kesesakan lalu lintas, mungkin akan lewat.)",
+      "这条路总是堵车。(Jalan ini selalu ada kesesakan lalu lintas.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "Pemandu, berhenti di sini",
+    "context": "Digunakan dalam teksi dan perkongsian kenderaan apabila anda mahu diturunkan. 师傅 (shī fu) ialah cara yang sopan untuk memanggil pemandu. Anda juga boleh berkata 前面停 (qián miàn tíng, berhenti di hadapan).",
+    "examples": [
+      "师傅，前面路口停一下。(Pemandu, berhenti di persimpangan di hadapan.)",
+      "师傅，就这里停吧。(Pemandu, berhenti di sini sahaja.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "Saya sesat",
+    "context": "Tunjukkan telefon anda dengan destinasi pada peta dan katakan ini. Kebanyakan orang Cina akan berusaha membantu anda mencari jalan, kadang-kadang sehingga membawa anda ke sana.",
+    "examples": [
+      "不好意思，我迷路了。(Excuse me, I'm lost.) - Maaf, saya sesat.",
+      "我迷路了，这里是哪儿？(I'm lost, where is this?) - Saya sesat, di manakah ini?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "Ada Wi-Fi?",
+    "context": "Penting untuk pelancong. Kebanyakan kafe, restoran dan hotel mempunyai Wi-Fi. Kata laluan selalunya dipaparkan pada papan tanda atau anda boleh bertanya: 密码是什么 (mì mǎ shì shén me, apakah kata laluan?).",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Do you have Wi-Fi? What's the password?) - Maaf, ada Wi-Fi? Apakah kata laluan?",
+      "这里Wi-Fi信号好吗？(Is the Wi-Fi signal good here?) - Adakah isyarat Wi-Fi di sini bagus?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "Berapa lama akan sampai? / Berapa lama masa yang diambil?",
+    "context": "Digunakan dalam teksi, dengan pemandu kongsi kenderaan, atau apabila bertanya tentang masa transit. Juga sesuai untuk anggaran penghantaran dan berjumpa dengan rakan-rakan.",
+    "examples": [
+      "师傅，多久能到？(Driver, how long until we get there?) - Pemandu, berapa lama akan sampai?",
+      "坐地铁多久能到？(How long does it take by subway?) - Berapa lama masa yang diambil dengan kereta api bawah tanah?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "Adakah berdekatan? / Adakah dekat?",
+    "context": "Cara cepat untuk mengukur jarak sebelum memutuskan untuk berjalan ke suatu tempat. Jawapannya selalunya 很近 (hěn jìn, sangat dekat) atau 不远 (bù yuǎn, tidak jauh) — walaupun definisi \"dekat\" orang Cina boleh berbeza-beza.",
+    "examples": [
+      "地铁站近不近？(Is the subway station nearby?) - Adakah stesen kereta api bawah tanah berdekatan?",
+      "走路去近不近？(Is it close enough to walk?) - Adakah cukup dekat untuk berjalan kaki?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "Navigasi GPS / guna aplikasi peta",
+    "context": "Beritahu pemandu teksi untuk mengikuti GPS, atau minta seseorang membantu anda menavigasi. 高德地图 (Gaode/Amap) dan 百度地图 (Baidu Maps) adalah aplikasi navigasi utama di China.",
+    "examples": [
+      "师傅，你开导航吧。(Driver, just follow the GPS.) - Pemandu, ikut sahaja GPS.",
+      "我导航一下。(Let me check the navigation.) - Biar saya semak navigasi."
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "Ada masa lapang? / Awak ada masa?",
+    "context": "Cara biasa untuk mengajak seseorang keluar. Biasanya diikuti dengan rancangan yang spesifik. Boleh digunakan untuk hari ini atau tarikh akan datang — tambahkan perkataan masa seperti 明天 (míng tiān, esok) atau 周末 (zhōu mò, hujung minggu).",
+    "examples": [
+      "周末有空吗？一起吃饭？(Ada masa lapang hujung minggu ini? Nak makan bersama?)",
+      "你明天有空吗？(Awak ada masa esok?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "Lain kali lah / Mari kita buat lain kali",
+    "context": "Cara sopan untuk menolak jemputan tanpa terus terang mengatakan tidak. Dalam budaya sosial Cina, ini adalah penolakan lembut yang menjaga air muka kedua-dua pihak.",
+    "examples": [
+      "今天太忙了，改天吧。(Terlalu sibuk hari ini, lain kali lah.)",
+      "改天再约吧。(Mari kita aturkan untuk lain kali.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "Suka hati / apa-apa pun boleh / Saya tak kisah",
+    "context": "Jawapan yang paling biasa (dan kadang-kadang mengecewakan) apabila membuat rancangan. Digunakan apabila anda benar-benar tidak mempunyai pilihan. Amaran: mengatakan 随便 terlalu banyak boleh kelihatan acuh tak acuh.",
+    "examples": [
+      "吃什么？——随便，都行。(Nak makan apa?——Suka hati, apa-apa pun boleh.)",
+      "你随便选吧。(Awak pilih je apa-apa.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "Terpulang pada awak / awak punya pasal",
+    "context": "Menyerahkan keputusan kepada orang lain. Sama seperti 随便 tetapi meletakkan tanggungjawab pada orang lain. Biasa apabila rakan-rakan membuat keputusan di mana hendak makan, apa yang hendak dilakukan, dan lain-lain.",
+    "examples": [
+      "去哪儿？——看你。(Nak pergi mana?——Terpulang pada awak.)",
+      "想看什么电影？看你吧。(Nak tengok filem apa? Awak punya pasal.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Lupakan saja / tak apalah",
+    "context": "Digunakan apabila berputus asa dengan rancangan, menggugurkan pertengkaran, atau memutuskan sesuatu tidak berbaloi dengan usaha. Boleh menyatakan kekecewaan ringan atau penerimaan.",
+    "examples": [
+      "等了半小时了，算了，走吧。(Dah tunggu setengah jam, lupakan saja, jom pergi.)",
+      "算了算了，不想了。(Tak apalah, tak apalah, saya tak nak fikir.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "Saya tak kisah / Tak mengapa",
+    "context": "Lebih kuat daripada 随便. Boleh kedengaran acuh tak acuh atau benar-benar mudah dibawa bergantung pada nada. Guna dengan berhati-hati — dengan nada yang salah, ia boleh dianggap sebagai menolak.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(Awak dah lambat!——Tak mengapa, saya pun tak buat apa-apa.)",
+      "去不去都无所谓。(Tak kisah sama ada kita pergi atau tidak.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "Lain kali / Mungkin lain kali",
+    "context": "Cara sopan lain untuk menolak atau menangguhkan rancangan. Sama seperti 改天吧 tetapi secara khusus merujuk kepada peluang seterusnya. Kadang-kadang ia benar-benar bermaksud lain kali, kadang-kadang ia adalah penolakan lembut.",
+    "examples": [
+      "今天去不了，下次吧。(Tak dapat pergi hari ini, lain kali ya.)",
+      "下次吧，这次太赶了。(Lain kali ya, kali ini terlalu tergesa-gesa.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "Nak lepak? / Nak jumpa?",
+    "context": "Jemputan kasual, selalunya berasaskan teks. Sangat biasa di kalangan rakan-rakan. Boleh digunakan untuk mencadangkan makan, minum, atau sebarang aktiviti. Kadang-kadang menggoda secara main-main.",
+    "examples": [
+      "周末约吗？(Nak lepak hujung minggu ni?)",
+      "好久不见，约个饭？(Lama tak jumpa, nak makan sama-sama?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "Saya belanja / Saya bayar untuk awak",
+    "context": "Menawarkan untuk membayar adalah bahagian penting dalam budaya sosial Cina. Selalunya ada \"pergaduhan\" mesra tentang siapa yang membayar bil. Mengatakan 我请你 sebelum makan menetapkan jangkaan.",
+    "examples": [
+      "今天我请你，别客气。(Hari ini saya belanja, jangan segan.)",
+      "这顿我请。(Makanan ini saya belanja.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "Awak nak pergi (atau tidak)? / Nak pergi?",
+    "context": "Cara langsung dan kasual untuk bertanya sama ada seseorang mahu menyertai aktiviti. Corak soalan A-bukan-A (去不去, 要不要, 好不好) adalah salah satu struktur yang paling berguna dalam bahasa Cina.",
+    "examples": [
+      "明天爬山，你去不去？(Esok mendaki gunung, awak nak pergi?)",
+      "唱K去不去？(Nak pergi karaoke?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "Betul ke?! / Biar betul? / Tak mungkin!",
+    "context": "Ungkapan terkejut atau tidak percaya. Salah satu reaksi yang paling biasa digunakan dalam perbualan bahasa Cina. Boleh jadi soalan yang tulus atau seruan retorik.",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!)",
+      "Dia berhenti kerja! - Betul ke?!",
+      "真的假的，这么便宜？(No way, this cheap?)",
+      "Tak mungkin, murahnya?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "Terlebih-lebih / Melampau sangat",
+    "context": "Digunakan untuk bertindak balas terhadap sesuatu yang tidak boleh dipercayai, berlebihan, atau dramatik. Boleh jadi negatif (harga, tingkah laku) atau positif dengan rasa kagum (persembahan yang menakjubkan).",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!)",
+      "Beratur dua jam? Melampau sangat!",
+      "这个特效太夸张了。(These special effects are over the top.)",
+      "Kesan khas ini terlebih-lebih."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "Okaylah / Bolehlah / Biasa-biasa saja",
+    "context": "Respons yang suam-suam kuku. Digunakan apabila sesuatu itu tidak hebat mahupun teruk. Orang Cina sering menggunakan ini untuk merendah diri tentang pencapaian atau untuk memberikan pendapat yang tidak komited.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.)",
+      "Macam mana restoran ni? - Okaylah, biasa-biasa saja.",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.)",
+      "Susah ke peperiksaan tadi? - Bolehlah."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "Bergantung pada keadaan / Kita tengoklah nanti",
+    "context": "Jawapan yang tidak komited yang mengelakkan jawapan ya atau tidak yang pasti. Sangat biasa digunakan dalam komunikasi Cina di mana ketegasan kadang-kadang dielakkan.",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.)",
+      "Awak pergi ke? - Bergantung pada keadaan.",
+      "能不能做到？看情况。(Can it be done? We'll see.)",
+      "Boleh ke buat? Kita tengoklah nanti."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "Tak sangka / Saya tak pernah terfikir",
+    "context": "Menyatakan kejutan yang tulus atas hasil yang tidak dijangka. Boleh jadi positif atau negatif. Digunakan apabila realiti berbeza dengan ketara daripada jangkaan.",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!)",
+      "Tak sangka awak pandai cakap Cina!",
+      "真没想到他会来。(I really didn't expect him to come.)",
+      "Saya betul-betul tak sangka dia akan datang."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "Itu masuk akal / Betul juga",
+    "context": "Digunakan untuk bersetuju dengan penaakulan atau logik seseorang. Respons biasa dalam perbincangan yang menunjukkan anda mendengar dan mendapati hujah mereka sah.",
+    "examples": [
+      "你说的有道理。(Apa yang awak cakap itu betul juga.)",
+      "有道理，我没想到这一点。(Betul juga, saya tak terfikir tentang itu.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "Betul juga apa yang awak cakap / Itu betul juga",
+    "context": "Mengakui perspektif seseorang, selalunya apabila mereka telah mengubah fikiran anda atau menambah sudut pandangan yang belum anda pertimbangkan. Sedikit lebih bertolak ansur daripada 有道理.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(Betul juga apa yang awak cakap, kalau macam tu kita tukar tempat.)",
+      "说的也是，我再想想。(Itu betul juga, saya akan fikirkan lagi.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "Macam mana boleh jadi? / Mustahil!",
+    "context": "Ekspresi ketidakpercayaan yang kuat. Lebih bersemangat daripada 真的假的. Digunakan apabila sesuatu kelihatan sangat tidak boleh dipercayai atau menentang logik.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(Dia lari 100km dalam sehari? Mustahil!)",
+      "怎么可能这么快就卖完了？(Macam mana boleh habis dijual secepat ini?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "Tak adalah teruk sangat / takkanlah / tak perlu sampai begitu",
+    "context": "Digunakan untuk menenangkan seseorang atau mencadangkan mereka bertindak balas berlebihan. Ia menetapkan batasan tentang betapa ekstremnya sesuatu situasi itu sebenarnya.",
+    "examples": [
+      "不至于吧，没那么严重。(Alah, tak adalah serius sangat.)",
+      "迟到五分钟而已，不至于发火吧？(Lambat lima minit je, tak perlu nak marah, kan?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "Lebih kurang / hampir sama / boleh tahan",
+    "context": "Salah satu ungkapan Cina yang paling serba boleh. Boleh bermaksud \"hampir,\" \"lebih kurang sama,\" \"cukup baik,\" atau \"lebih kurang macam tu.\" Mencerminkan sikap fleksibel dan tidak perfeksionis.",
+    "examples": [
+      "这两个差不多，买哪个都行。(Dua ni lebih kurang sama je, beli mana-mana pun boleh.)",
+      "快好了吗？——差不多了。(Dah nak siap ke?——Dah nak dekat.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "Anda sudah bekerja keras / terima kasih atas usaha anda",
+    "context": "Frasa yang sangat penting dalam budaya profesional dan sosial Cina. Digunakan untuk mengakui usaha atau kerja keras seseorang. Diucapkan kepada penghantar barang, rakan sekerja selepas mesyuarat yang panjang, atau sesiapa sahaja yang telah membantu anda.",
+    "examples": [
+      "辛苦了，快休息吧。(Anda sudah bekerja keras, berehatlah.)",
+      "今天的会议辛苦大家了。(Terima kasih kepada semua atas kerja keras anda dalam mesyuarat hari ini.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "Tolong jaga saya / Saya berada dalam jagaan anda",
+    "context": "Diucapkan ketika bertemu rakan sekerja baru, rakan niaga, atau menyertai pasukan baru. Menunjukkan kerendahan hati dan rasa hormat. Serupa dengan よろしくお願いします dalam bahasa Jepun.",
+    "examples": [
+      "我是新来的，请多关照。(Saya orang baru di sini, tolong jaga saya.)",
+      "初次见面，请多关照。(Gembira bertemu dengan anda, saya berada dalam jagaan anda.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "Bekerja lebih masa / balik lewat kerja",
+    "context": "Perkataan yang akan anda dengar berterusan dalam budaya kerja Cina. Malangnya sangat biasa, terutamanya dalam bidang teknologi dan kewangan. Boleh digunakan sebagai kata kerja atau kata nama.",
+    "examples": [
+      "今晚又要加班。(Kena kerja lebih masa lagi malam ini.)",
+      "你经常加班吗？(Adakah anda selalu bekerja lebih masa?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "Mengadakan mesyuarat / dalam mesyuarat",
+    "context": "Digunakan untuk menjelaskan anda sibuk, menjadualkan mesyuarat, atau (selalunya) mengadu tentang terlalu banyak mesyuarat. Boleh digunakan sebagai alasan untuk mengelakkan panggilan atau mesej.",
+    "examples": [
+      "我在开会，等会儿再说。(Saya dalam mesyuarat, kita bercakap kemudian.)",
+      "下午三点开会。(Mesyuarat pada pukul 3 petang.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "Lapor / beri kemas kini / taklimat kepada bos",
+    "context": "Digunakan dalam persekitaran tempat kerja ketika membentangkan kemajuan atau hasil kepada pengurus. Aktiviti utama dalam budaya korporat Cina di mana memastikan kepimpinan dimaklumkan adalah penting.",
+    "examples": [
+      "这个项目需要向领导汇报。(Projek ini perlu dilaporkan kepada pihak atasan.)",
+      "每周一汇报工作进展。(Laporkan kemajuan kerja setiap hari Isnin.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "Sesuai tak? / Ada masa yang sesuai?",
+    "context": "Cara sopan untuk bertanya sebelum meminta sesuatu atau menjadualkan. Lebih bertimbang rasa daripada terus membuat permintaan. Penting dalam komunikasi profesional.",
+    "examples": [
+      "现在说话方便吗？(Is it convenient to talk now?) - Sesuai tak nak bercakap sekarang?",
+      "明天见面方便吗？(Is it convenient to meet tomorrow?) - Sesuai tak kalau jumpa esok?"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "Biar saya fikirkan / Saya akan pertimbangkan",
+    "context": "Cara sopan untuk menangguhkan keputusan. Dalam konteks perniagaan, ini sering bermaksud penolakan yang lembut. Dalam konteks peribadi, ia biasanya bermaksud benar-benar memikirkannya.",
+    "examples": [
+      "这个方案我考虑一下。(Let me think about this proposal.) - Biar saya fikirkan tentang cadangan ini.",
+      "考虑一下再决定吧。(Think it over before deciding.) - Fikirkan dulu sebelum membuat keputusan."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "Sentiasa berhubung / kekal berhubung",
+    "context": "Diucapkan pada akhir mesyuarat, makan malam perniagaan, atau ketika berpisah. Sering disertai dengan bertukar kenalan WeChat. Lebih ikhlas daripada padanan bahasa Inggerisnya.",
+    "examples": [
+      "以后保持联系。(Let's keep in touch from now on.) - Mari kita sentiasa berhubung selepas ini.",
+      "加个微信，保持联系。(Let's add each other on WeChat and stay in touch.) - Jom tambah WeChat, sentiasa berhubung."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "Secepat mungkin / ASAP",
+    "context": "Digunakan dalam e-mel kerja, mesej dan perbualan untuk menunjukkan keperluan mendesak. Sangat biasa dalam komunikasi profesional. Boleh dilembutkan dengan 请 (qǐng, please) sebelumnya.",
+    "examples": [
+      "请尽快回复。(Please reply as soon as possible.) - Sila balas secepat mungkin.",
+      "这个需要尽快完成。(This needs to be completed ASAP.) - Ini perlu diselesaikan secepat mungkin."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "Seronok bekerjasama / gembira bekerjasama",
+    "context": "Diucapkan pada akhir perjanjian perniagaan, projek, atau kerjasama. Ucapan penutup yang biasa dalam suasana perniagaan yang menyatakan kepuasan bersama.",
+    "examples": [
+      "合作愉快！期待下次。(Great working together! Looking forward to next time.) - Seronok bekerjasama! Nantikan lain kali.",
+      "感谢大家的努力，合作愉快。(Thanks for everyone's effort, it's been a pleasure working together.) - Terima kasih atas usaha semua, gembira dapat bekerjasama."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "Tolong saya",
+    "context": "Permohonan bantuan secara langsung. Pengulangan 帮 menjadikannya lebih mendesak dan emosi daripada hanya 帮我. Gunakan apabila anda benar-benar memerlukan bantuan seseorang.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(Tolong saya, saya tidak dapat mencari hotel saya.)",
+      "谁能帮帮我？(Bolehkah seseorang tolong saya?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "Saya tidak sihat / Saya tidak selesa",
+    "context": "Digunakan apabila berasa sakit atau tidak selesa secara fizikal. Dalam suasana perubatan, doktor akan bertanya 哪里不舒服 (nǎ lǐ bù shū fu, di mana sakitnya/apa yang tidak kena?).",
+    "examples": [
+      "我不舒服，想休息。(Saya tidak sihat, saya mahu berehat.)",
+      "你哪里不舒服？(Di mana anda rasa tidak selesa?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "Alergi / alahan",
+    "context": "Penting untuk alahan makanan atau ubat. Belajar untuk mengatakan apa yang anda alah: 花生过敏 (huā shēng guò mǐn, alahan kacang), 海鲜过敏 (hǎi xiān guò mǐn, alahan makanan laut).",
+    "examples": [
+      "我对花生过敏。(Saya alah kepada kacang.)",
+      "这个里面有没有海鲜？我过敏。(Adakah ini mengandungi makanan laut? Saya alah.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "Hubungi polis",
+    "context": "Nombor kecemasan di China ialah 110 untuk polis, 120 untuk ambulans, 119 untuk bomba. 报警 secara khusus bermaksud membuat laporan kepada polis.",
+    "examples": [
+      "快报警！(Cepat hubungi polis!)",
+      "要不要报警？(Patutkah kita hubungi polis?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "Hubungi ambulans",
+    "context": "Untuk kecemasan perubatan, hubungi 120 untuk ambulans di China. Pastikan anda tahu alamat dalam bahasa Cina atau simpan di telefon anda untuk ditunjukkan kepada seseorang.",
+    "examples": [
+      "快叫救护车！(Cepat hubungi ambulans!)",
+      "请帮忙叫救护车，有人晕倒了。(Tolong hubungi ambulans, seseorang telah pengsan.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "Barang saya hilang / barang saya hilang",
+    "context": "Digunakan apabila anda kehilangan sesuatu atau mengesyaki kecurian. Nyatakan apa: 手机 (shǒu jī, telefon), 钱包 (qián bāo, dompet), 护照 (hù zhào, pasport).",
+    "examples": [
+      "我的手机丢了！(Telefon saya hilang!)",
+      "我的钱包丢了，怎么办？(Dompet saya hilang, apa yang perlu saya lakukan?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "Boleh awak bercakap lebih perlahan?",
+    "context": "Frasa kelangsungan hidup yang paling penting untuk mana-mana pelajar bahasa Cina. Orang akan menghargai usaha anda untuk memahami dan biasanya akan memperlahankan percakapan dengan ketara.",
+    "examples": [
+      "对不起，能说慢一点吗？(Maaf, boleh awak bercakap lebih perlahan sedikit?)",
+      "请说慢一点，我在学中文。(Sila bercakap perlahan, saya sedang belajar bahasa Cina.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "Saya tidak faham (apa yang saya dengar)",
+    "context": "Secara khusus bermaksud anda tidak dapat memahami perkataan yang dituturkan (berbanding 看不懂 untuk teks bertulis). Sangat berguna untuk pelajar bahasa. Selalunya mendorong orang untuk bertukar kepada perkataan yang lebih mudah atau menggunakan isyarat.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(Maaf, saya tidak faham, boleh awak tuliskan?)",
+      "他说的方言我听不懂。(Saya tidak faham dialek yang dia cakapkan.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "Adakah sesiapa yang boleh berbahasa Inggeris?",
+    "context": "Pilihan terakhir apabila komunikasi terputus sepenuhnya. Di bandar-bandar besar dan kawasan pelancongan, seseorang biasanya bertutur dalam bahasa Inggeris. Di bandar-bandar kecil, golongan muda lebih cenderung untuk tahu sedikit.",
+    "examples": [
+      "请问，有人会说英文吗？(Maaf, adakah sesiapa yang boleh berbahasa Inggeris?)",
+      "这里有会说英文的人吗？(Adakah sesiapa di sini yang boleh berbahasa Inggeris?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "Di manakah farmasi?",
+    "context": "Farmasi (药店/药房) adalah perkara biasa di China dan banyak ubat tersedia tanpa preskripsi. Anda boleh menerangkan simptom dan ahli farmasi selalunya akan mengesyorkan ubat.",
+    "examples": [
+      "请问药店在哪？(Maaf, di manakah farmasi?)",
+      "附近有药店吗？(Adakah farmasi berdekatan?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "Saya sangat penat / penat gila",
+    "context": "Pola 死了 (sǐ le, \"sampai mati\") digunakan sebagai penegas dramatik. 累死了 sangat biasa digunakan selepas seharian bekerja, bersiar-siar, atau bersenam.",
+    "examples": [
+      "今天走了两万步，累死了。(Walked 20,000 steps today, I'm dead tired.) - Hari ini berjalan 20,000 langkah, penat gila.",
+      "加班到十二点，累死了。(Worked overtime until midnight, I'm exhausted.) - Kerja lebih masa sampai pukul dua belas, saya sangat penat."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "Sangat menjengkelkan / Saya sangat kecewa",
+    "context": "Digunakan untuk menyatakan kejengkelan atau kekecewaan. Satu lagi pola penegas 死了. Biasa digunakan apabila berhadapan dengan situasi, orang, atau birokrasi yang menjengkelkan.",
+    "examples": [
+      "这个问题烦死了！(This problem is so annoying!) - Masalah ini sangat menjengkelkan!",
+      "排队排了一小时，烦死了。(Queued for an hour, so frustrating.) - Beratur selama satu jam, sangat mengecewakan."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "Anda boleh melakukannya! / Terus berusaha! / Bersemangat!",
+    "context": "Secara harfiah bermaksud \"tambah minyak/bahan api.\" Salah satu frasa yang paling positif dan menggalakkan dalam bahasa Cina. Digunakan di acara sukan, sebelum peperiksaan, semasa masa sukar, atau untuk memotivasikan sesiapa sahaja.",
+    "examples": [
+      "明天考试，加油！(Exam tomorrow, you got this!) - Peperiksaan esok, anda boleh melakukannya!",
+      "加油，我相信你！(Keep going, I believe in you!) - Terus berusaha, saya percaya pada anda!"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "Ambil masa anda / jangan tergesa-gesa / perlahan-lahan",
+    "context": "Frasa yang menenangkan yang mengurangkan tekanan. Digunakan untuk memberitahu seseorang bahawa tidak perlu tergesa-gesa. Mencerminkan sikap sabar dan memahami. Juga digunakan apabila mempelajari sesuatu yang baru.",
+    "examples": [
+      "别着急，慢慢来。(Don't worry, take your time.) - Jangan risau, ambil masa anda.",
+      "学中文慢慢来，不要急。(Learning Chinese takes time, don't rush.) - Belajar bahasa Cina ambil masa, jangan tergesa-gesa."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "Tiada apa yang boleh kita lakukan / tiada jalan lain / tidak dapat dielakkan",
+    "context": "Menyatakan ketidakberdayaan atau penerimaan terhadap situasi yang tidak dapat dielakkan. Sangat biasa digunakan untuk mengakui bahawa ada perkara yang di luar kawalan anda.",
+    "examples": [
+      "堵车了，没办法，只能等。(Traffic jam, nothing we can do, just have to wait.) - Jem teruk, tiada apa yang boleh kita lakukan, hanya perlu tunggu.",
+      "没办法，规定就是这样。(Can't help it, those are the rules.) - Tidak dapat dielakkan, peraturan memang begitu."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "Saya sudah biasa / Saya sudah terbiasa",
+    "context": "Digunakan apabila sesuatu yang dulunya sukar atau pelik telah menjadi normal. Boleh jadi positif (menyesuaikan diri dengan kehidupan baru) atau pasrah (menerima sesuatu yang tidak menyenangkan).",
+    "examples": [
+      "这里天气很热，但我习惯了。(It's very hot here, but I'm used to it.) - Cuaca di sini sangat panas, tetapi saya sudah biasa.",
+      "加班加习惯了。(I've gotten used to working overtime.) - Saya sudah terbiasa bekerja lebih masa."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "Apa patut saya/kita buat? / Sekarang apa?",
+    "context": "Meminta nasihat atau meluahkan panik apabila menghadapi masalah. Boleh jadi soalan yang tulus atau ungkapan ketidakberdayaan yang retorik.",
+    "examples": [
+      "手机没电了，怎么办？(Phone is dead, what do I do?) - Telefon bimbit kehabisan bateri, apa patut saya buat?",
+      "飞机取消了，怎么办？(Flight cancelled, now what?) - Penerbangan dibatalkan, sekarang apa?"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "Selesai! / Semua sudah diurus / sudah uruskan",
+    "context": "Frasa yang memuaskan untuk digunakan apabila anda telah menyelesaikan tugas atau menyelesaikan masalah. Menunjukkan keyakinan dan kecekapan. Sangat kasual dan ceria.",
+    "examples": [
+      "机票搞定了！(Flight tickets are booked!) - Tiket penerbangan sudah ditempah!",
+      "别担心，我搞定了。(Don't worry, I've got it handled.) - Jangan risau, saya sudah uruskan."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "Tiada masa / sudah terlambat / tidak sempat",
+    "context": "Digunakan apabila anda kehabisan masa atau telah terlepas tarikh akhir/peluang. Mencipta rasa mendesak. Lawannya ialah 来得及 (lái de jí, masih ada masa).",
+    "examples": [
+      "来不及了，快走！(No time, let's go!) - Tiada masa, cepat jalan!",
+      "现在去还来得及吗？——来不及了。(Is there still time to go now?——It's too late.) - Masih sempatkah untuk pergi sekarang?——Sudah terlambat."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "Bosan / membosankan",
+    "context": "Boleh menggambarkan keadaan anda sendiri (Saya bosan) atau sesuatu yang membosankan. Sangat biasa digunakan di kalangan orang muda, terutamanya di media sosial atau semasa menghantar teks.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So bored, is there anything fun to do?) - Bosan betul, ada apa-apa yang seronok untuk dilakukan?",
+      "这个电影太无聊了。(This movie is so boring.) - Filem ini sangat membosankan."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

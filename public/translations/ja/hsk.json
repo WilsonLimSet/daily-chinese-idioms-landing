@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "こんにちは",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "フレーズ",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(こんにちは、私の名前は小明です。)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "ありがとう",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(ご協力ありがとうございます。)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "さようなら",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "フレーズ",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(また明日、さようなら！)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "～です / はい",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(私は学生です。)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "～ない / いいえ",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "副詞",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(私はコーヒーを飲みません。)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "私",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(私はとても嬉しいです。)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "彼",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(彼は私の友達です。)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "彼女",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(彼女はとても綺麗です。)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "良い / 素晴らしい",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(今日の天気はとても良いです。)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "大きい",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(この部屋はとても大きいです。)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "小さい / 少ない",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(小さい猫を飼っています。)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "食べる",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(ご飯を食べに行きましょう。)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "飲む",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(何を飲みたいですか？)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "見る / 観る",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(映画を観ましょう。)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "聞く",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(音楽を聴くのが好きです。)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "話す / 言う",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(中国語を話せますか？)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "読む",
+    "originalMeaning": "To read",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(私は毎日本を読みます。)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "書く",
+    "originalMeaning": "To write",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(あなたの名前を書いてください。)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "勉強する / 習う",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "動詞",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(私は中国語を勉強しています。)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "友達",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(彼は私の良い友達です。)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "家 / 家族",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(私の家にようこそ。)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "水",
+    "originalMeaning": "Water",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(水を一杯ください。)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "お金",
+    "originalMeaning": "Money",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(これはいくらですか？)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "今日",
+    "originalMeaning": "Today",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(今日は何曜日ですか？)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "明日",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(明日、私たちは公園に行きます。)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "昨日",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "名詞",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(昨日は雨が降りました。)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "いくら / どれくらい",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(あなたは何歳ですか？)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "何",
+    "originalMeaning": "What",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(あなたの名前は何ですか？)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "どこ",
+    "originalMeaning": "Where",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(あなたはどこに住んでいますか？)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "誰",
+    "originalMeaning": "Who",
+    "partOfSpeech": "代名詞",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(これは誰ですか？)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "だから / それゆえ",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(彼は病気なので、来ませんでした。)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "しかし / でも",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(高いですが、とても美味しいです。)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "すでに / もう",
+    "originalMeaning": "Already",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(私はもう食べました。)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "～できる / ～してもよい",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(入ってもいいですか？)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "速い / 早い",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(あなたは歩くのが速すぎます。)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "遅い",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(ゆっくり話してください。)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "忙しい",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(最近、私はとても忙しいです。)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "遠い",
+    "originalMeaning": "Far",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(学校はここから遠いです。)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "近い",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(スーパーは私の家から近いです。)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "助ける",
+    "originalMeaning": "To help",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(助けてくれてありがとう。)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "準備する",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(準備できましたか？)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "始める / 開始する",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(試合が始まりました。)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "知っている",
+    "originalMeaning": "To know",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(知りません。)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "思う / 感じる",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(どう思いますか？)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "望む / 希望",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "動詞",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(明日、天気が良いといいな。)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "隣 / そば",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(銀行はスーパーの隣にあります。)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "空港",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(空港までどのくらいかかりますか？)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "地下鉄",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(地下鉄で通勤します。)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "携帯電話",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(携帯電話の電池が切れました。)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "誕生日",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(誕生日おめでとう！)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "体 / 健康",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(体に気を付けてください。)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "目",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "名詞",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(彼女の目はとても綺麗です。)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "～けれども / ～だが",
+    "originalMeaning": "Although",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(疲れているけれども、とても楽しいです。)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "～か / それとも / やっぱり",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(お茶を飲みますか、それともコーヒーを飲みますか？)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "一緒に",
+    "originalMeaning": "Together",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(一緒にいきましょう。)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "よく / しばしば",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(私はよく運動します。)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "とても / 非常に",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(どうもありがとうございます！)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "たぶん / かもしれない",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(明日は雨が降るかもしれません。)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "きっと / 必ず",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "副詞",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(あなたはきっと成功するでしょう。)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "環境",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "名詞",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(私たちは環境を保護しなければなりません。)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "経験",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "名詞",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(仕事の経験はありますか？)"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "機会 / チャンス",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "名詞",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(これは良い機会です。)"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "選ぶ / 選択",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(どちらを選びますか？)"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "決める / 決定",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(中国に行くことに決めました。)"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "影響する / 影響",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(天気が私の気分に影響しました。)"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "比較的 / 比較する",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "副詞",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(今日は比較的寒いです。)"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "特に / 特別",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "副詞",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(この料理は特においしいです。)"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "実は / 実際",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "副詞",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(実は私も知りません。)"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "ついに / 最後に",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "副詞",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(ついに見つけた！)"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "感じ / 感じる",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "名詞",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(少し気分が悪い。)"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "解決する",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "問題は解決しました。(The problem is solved.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "議論する",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "この問題を議論しましょう。(Let's discuss this issue.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "練習する / 練習",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "たくさん練習すれば上達します。(More practice leads to improvement.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "向上させる / 高める",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "中国語のレベルを向上させたいです。(I want to improve my Chinese level.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "受け入れる",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "あなたの提案を受け入れます。(I accept your suggestion.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "参加する",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "試合に参加しますか？(Are you going to join the competition?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "理解する / 知る",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "中国文化について知りたいです。(I want to learn about Chinese culture.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "注意する / 気をつける",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "安全に注意してください。(Please pay attention to safety.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "計画する / つもりである",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "いつ行くつもりですか？(When do you plan to go?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "～によると / ～に基づいて",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "前置詞",
+    "hskLevel": 3,
+    "examples": [
+      "天気予報によると、明日は雨が降るでしょう。(According to the forecast, it will rain tomorrow.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "または（陳述で）",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(バスか地下鉄に乗ることができます。)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "〜である限り",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(努力すれば成功します。)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "〜に関わらず / 関係なく",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(何があっても私はあなたを応援します。)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "態度",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "名詞",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(態度がすべてを決定する。)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "必要とする / 必要",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(あなたの助けが必要です。)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "〜すべき / 〜はずだ",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "動詞",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(もっと休むべきです。)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "満足している",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(結果にとても満足しています。)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "普通 / 一般的",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(私は普通の人です。)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "提案する / 提案",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(もっと運動することをお勧めします。)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "表現する",
+    "originalMeaning": "To express",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(どう表現すればいいかわかりません。)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "コミュニケーションする / 交換する",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(もっとコミュニケーションを取る必要があります。)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "証明する / 証明",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(事実は彼が正しかったことを証明しました。)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "豊か / 豊富",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(中国の文化は非常に豊かです。)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "複雑 / 込み入っている",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(この問題は非常に複雑です。)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "誇らしい / 誇り",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(私はあなたを誇りに思います。)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "積極的 / ポジティブ",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(積極的な態度を保つべきです。)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "困難 / 難しい",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(困難を恐れないでください。)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "優しい / 穏やか",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(彼女はとても優しいです。)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "正直",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(人は正直であるべきです。)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "感動する / 感動的",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(この物語はとても感動的です。)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "誤解",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "名詞",
+    "hskLevel": 4,
+    "examples": [
+      "これは誤解です。(这是一个误会。(This is a misunderstanding.))"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "効果 / 結果",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "名詞",
+    "hskLevel": 4,
+    "examples": [
+      "効果はとても良いです。(效果很好。(The effect is very good.))"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "たとえ～でも",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 4,
+    "examples": [
+      "たとえ失敗しても諦めません。(即使失败也不放弃。(Even if I fail, I won't give up.))"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "さもないと / そうでなければ",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 4,
+    "examples": [
+      "急いで、さもないと遅れるよ。(快点，否则会迟到。(Hurry up, otherwise we'll be late.))"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "～からには / ～以上",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 4,
+    "examples": [
+      "来たからには、泊まっていきなよ。(既然来了，就留下吧。(Since you're here, stay.))"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "～にもかかわらず / ～だけれども",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 4,
+    "examples": [
+      "難しくても、試してみる。(尽管很难，我也要试。(Despite the difficulty, I'll try.))"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "もともと / そうだったのか",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "副詞",
+    "hskLevel": 4,
+    "examples": [
+      "やっぱりあなただったんだ！(原来是你！(So it was you!))"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "意外にも / 驚いたことに",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "副詞",
+    "hskLevel": 4,
+    "examples": [
+      "彼が中国語を話せるとは驚きだ！(他竟然会说中文！(He can speak Chinese, surprisingly!))"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "徐々に / だんだんと",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "副詞",
+    "hskLevel": 4,
+    "examples": [
+      "天気は徐々に暖かくなってきた。(天气逐渐变暖了。(The weather is gradually getting warmer.))"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "幸せ / 幸福",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "ご幸福をお祈りします！(祝你幸福！(Wishing you happiness!))"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "勇敢（ゆうかん）/ 勇敢な",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "あなたは勇敢に立ち向かわなければなりません。（你要勇敢面对。(You must bravely face it.)）"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "尊敬する / 尊敬",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "動詞",
+    "hskLevel": 4,
+    "examples": [
+      "他人を尊敬しなければなりません。（要尊重别人。(Respect others.)）"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "責任",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "名詞",
+    "hskLevel": 4,
+    "examples": [
+      "これは私の責任です。（这是我的责任。(This is my responsibility.)）"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "経済 / 経済的な",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "名詞",
+    "hskLevel": 4,
+    "examples": [
+      "中国の経済発展は非常に速いです。（中国经济发展很快。(China's economy is developing rapidly.)）"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "伝統 / 伝統的な",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "名詞",
+    "hskLevel": 4,
+    "examples": [
+      "これは中国の伝統文化です。（这是中国的传统文化。(This is traditional Chinese culture.)）"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "一時的に",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "副詞",
+    "hskLevel": 4,
+    "examples": [
+      "私は一時的に計画がありません。（我暂时没有计划。(I don't have plans temporarily.)）"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "十分に / 充分な",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 4,
+    "examples": [
+      "十分な準備をしてください。（做好充分的准备。(Be fully prepared.)）"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "コミュニケーションする",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "効果的なコミュニケーションは非常に重要です。（有效沟通很重要。(Effective communication is important.)）"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "調整する",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "私が各方面を調整します。（我来协调各方面。(I'll coordinate all aspects.)）"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "貢献 / 貢献する",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "彼は多大な貢献をしました。（他做出了巨大贡献。(He made a huge contribution.)）"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "資質",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "個人の資質を高めることは重要です。(提高个人素质很重要。(Improving personal quality is important.))"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "埋め合わせる / 補う",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "行動で過ちを埋め合わせる。(用行动弥补过错。(Make up for mistakes with actions.))"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "ユニーク / 独特",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 5,
+    "examples": [
+      "この場所はとてもユニークです。(这个地方很独特。(This place is very unique.))"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "明らかに / 明白に",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "副詞",
+    "hskLevel": 5,
+    "examples": [
+      "明らかに彼の言っていることは間違っています。(显然他说的不对。(Obviously what he said is wrong.))"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "深い / 深刻",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 5,
+    "examples": [
+      "この本は意味が深いです。(这本书意义深刻。(This book has profound meaning.))"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "頻繁",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 5,
+    "examples": [
+      "最近残業が多すぎます。(最近加班太频繁了。(Overtime has been too frequent recently.))"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "負担する / 引き受ける",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "私は責任を負うことを厭いません。(我愿意承担责任。(I'm willing to bear the responsibility.))"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "維持する / 保つ",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "冷静を保つ。(保持冷静。(Stay calm.))"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "促進する",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "運動は健康を促進します。(运动促进健康。(Exercise promotes health.))"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "反映する / 報告する",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "これは社会問題を反映しています。(这反映了社会问题。(This reflects social issues.))"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "現在 / 現在のところ",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "副詞",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(現在の状況は悪くないです。)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "合理的 / 理にかなった",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(この価格はとても合理的です。)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "柔軟な / 機敏な",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(勤務時間は比較的柔軟です。)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "本質 / 性質",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(問題の本質は何ですか？)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "傾向 / トレンド",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(これは未来のトレンドです。)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "分野 / 領域",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(彼はテクノロジー分野で有名です。)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "備える / 持つ",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(彼はリーダーシップ能力を備えています。)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "克服する",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(困難を克服し、前進し続けてください。)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "回復する / 元に戻す",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(彼はすでに健康を回復しました。)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "形成する / 形になる",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "動詞",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(徐々に習慣が形成されました。)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "実践 / 実践する",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "理論は実践と結びつけるべきだ。（理論要与实践结合。(Theory should combine with practice.)）"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "規模",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "名詞",
+    "hskLevel": 5,
+    "examples": [
+      "会社の規模はますます大きくなっている。（公司规模越来越大。(The company's scale is growing.)）"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "必然的に / 必ず",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "副詞",
+    "hskLevel": 5,
+    "examples": [
+      "努力は必然的に報われる。（努力必然有回报。(Hard work inevitably pays off.)）"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "おおよそ / おそらく",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "副詞",
+    "hskLevel": 5,
+    "examples": [
+      "おおよそ2時間かかる。（大概需要两个小时。(It takes roughly two hours.)）"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "それによって / したがって",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 5,
+    "examples": [
+      "一生懸命勉強し、それによって良い成績を収める。（努力学习，从而取得好成绩。(Study hard, thereby achieving good grades.)）"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "まして / 言うまでもなく",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "接続詞",
+    "hskLevel": 5,
+    "examples": [
+      "大人でもできないのに、まして子供には無理だ。（大人都做不到，何况小孩。(Adults can't do it, let alone children.)）"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "含みのある / 奥ゆかしい",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "中国人は感情表現が比較的奥ゆかしい。（中国人表达感情比较含蓄。(Chinese people express feelings in a reserved way.)）"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "見知らぬ / 不慣れな",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "私はここに見覚えがない。（我对这里很陌生。(I'm very unfamiliar with this place.)）"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "微妙な / デリケートな",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "二人の関係は微妙だ。（两人的关系很微妙。(The relationship between them is subtle.)）"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "博識な / 深遠な（知識）",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "彼の知識は非常に博識だ。（他的知识非常渊博。(His knowledge is very profound.)）"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "憧憬 (chōng jǐng): 「楽しみにする / 憧れ」",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(彼女は未来に憧れを抱いている。)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "揣摩 (chuǎi mó): 「推測する / 察する」",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(私は彼の意図を推測している。)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "陶醉 (táo zuì): 「（喜びに）酔いしれる」",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(彼女は音楽に酔いしれていた。)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "领悟 (lǐng wù): 「悟る / 理解する」",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(私はついにこの道理を悟った。)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "钻研 (zuān yán): 「集中的に研究する / 掘り下げる」",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(彼は長年集中的に研究した。)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "洞察 (dòng chá): 「洞察力 / 見抜く」",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(彼は人間性に対する深い洞察力を持っている。)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "弘扬 (hóng yáng): 「広める / 発揚する」",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(伝統文化を発揚する。)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "典故 (diǎn gù): 「故事成句 / 由来」",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(すべての成句の背後には由来がある。)"
+    ],
+    "notes": "中国の成句の起源について議論する際によく使用されます。"
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "内涵 (nèi hán): 「含蓄 / 内在的な意味」",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(この詩は含蓄に富んでいる。)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "素养 (sù yǎng): 「素養 / 教養」",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(文化的な素養を高める。)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "文化的遺産 / 奥深さ",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(この都市は深い文化的遺産を持っている。)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "パターン / レイアウト / ビジョン",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(大きなビジョンを持つべきだ。)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "領域 / 達成のレベル",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(これは人生の最高の境地だ。)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "本質 / 真髄",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(中国文化の本質を学んだ。)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "起源 / 深い繋がり",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(両国は深い歴史的な繋がりがある。)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "比喩",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "名詞",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(成句はよく比喩の手法を使う。)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "広大で奥深い",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(中国文化は広大で奥深い。)"
+    ],
+    "notes": "これはそれ自体が成句（chengyu）です！"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "理解を通して完全に習得する",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(学習は徹底的な理解を伴うべきだ。)"
+    ],
+    "notes": "これはそれ自体が成句（chengyu）です！"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "長い歴史を持つ",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(中国文化は長い歴史を持っている。)"
+    ],
+    "notes": "これはそれ自体が成句（chengyu）です！"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "考えさせられる / 熟考する価値がある",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "形容詞",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(この物語は考えさせられる。)"
+    ],
+    "notes": "これはそれ自体が成句（chengyu）です！"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "徐々に影響を与える / 知らず知らずのうちに影響を与える",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(文化は人々に徐々に影響を与える。)"
+    ],
+    "notes": "これはそれ自体が成語です！"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "日ごとに増加する",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(中国語を学ぶ人の数は日ごとに増加している。)"
+    ],
+    "notes": "これはそれ自体が成語です！"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "一つのことから多くのことを推論する",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(学習する際は、一つのことから多くのことを推論するべきだ。)"
+    ],
+    "notes": "これはそれ自体が成語です！"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "段階的に / 順を追って進む",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "副詞",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(言語の学習は段階的に進めるべきだ。)"
+    ],
+    "notes": "これはそれ自体が成語です！"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "独自性を確立する / ユニークなスタイル",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "動詞",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(彼の文章スタイルは本当にユニークだ。)"
+    ],
+    "notes": "これはそれ自体が成語です！"
+  }
+]

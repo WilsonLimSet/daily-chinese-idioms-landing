@@ -228,6 +228,7 @@ export default async function ThemePage({ params }: { params: Promise<{ theme: s
         })()}
 
         <AdUnit type="display" />
+        <AdUnit type="in-article" />
 
         {/* Related Themes */}
         <section className="mt-16 pt-8 border-t">

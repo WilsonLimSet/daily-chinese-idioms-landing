@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "안녕하세요",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "구",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(안녕하세요, 제 이름은 샤오밍입니다.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "감사합니다",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(당신의 도움에 감사합니다.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "안녕히 가세요 / 안녕",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "구",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(내일 봐요, 안녕!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "이다 / 네",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(저는 학생입니다.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "아니다 / 아니오",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "부사",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(저는 커피를 마시지 않아요.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "나 / 저",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(저는 매우 기쁩니다.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "그",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(그는 제 친구입니다.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "그녀",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(그녀는 매우 예쁩니다.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "좋은 / 좋다",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "형용사",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(오늘 날씨가 매우 좋습니다.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "큰 / 크다",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "형용사",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(이 방은 매우 큽니다.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "작은 / 어린",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "형용사",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(나는 작은 고양이가 한 마리 있습니다.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "먹다",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(우리 밥 먹으러 가자.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "마시다",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(뭐 마시고 싶어?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "보다 / 시청하다",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(우리 영화 보자.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "듣다",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(나는 음악 듣는 것을 좋아합니다.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "말하다",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(중국어 할 수 있어요?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "읽다",
+    "originalMeaning": "To read",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(나는 매일 책을 읽습니다.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "쓰다",
+    "originalMeaning": "To write",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(이름을 써 주세요.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "배우다 / 공부하다",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "동사",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(저는 중국어를 공부하고 있습니다.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "친구",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(그는 나의 좋은 친구입니다.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "집 / 가족",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(우리 집에 오신 것을 환영합니다.)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "물",
+    "originalMeaning": "Water",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(물 한 잔 주세요.)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "돈",
+    "originalMeaning": "Money",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(이거 얼마예요?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "오늘",
+    "originalMeaning": "Today",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(오늘 무슨 요일이에요?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "내일",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(내일 우리는 공원에 가요.)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "어제",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "명사",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(어제 비가 왔어요.)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "얼마 / 몇",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(몇 살이세요?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "무엇",
+    "originalMeaning": "What",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(이름이 무엇입니까?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "어디",
+    "originalMeaning": "Where",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(어디에 사세요?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "누구",
+    "originalMeaning": "Who",
+    "partOfSpeech": "대명사",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(이 사람은 누구예요?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "그래서 / 그러므로",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "접속사",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(그는 아파서 오지 않았어요.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "그러나 / 하지만",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "접속사",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(비싸지만 아주 맛있어요.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "이미",
+    "originalMeaning": "Already",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(저는 이미 먹었어요.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "할 수 있다 / 해도 좋다",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(들어가도 될까요?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "빠른 / 빨리",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "형용사",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(당신은 너무 빨리 걸어요.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "느린 / 느리게",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "형용사",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(천천히 말씀해 주세요.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "바쁜",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "형용사",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(저는 요즘 매우 바빠요.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "먼",
+    "originalMeaning": "Far",
+    "partOfSpeech": "형용사",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(학교는 여기서 멀리 떨어져 있어요.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "가까운",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "형용사",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(슈퍼마켓은 우리 집에서 가까워요.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "돕다",
+    "originalMeaning": "To help",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(저를 도와주셔서 감사합니다.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "준비하다",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(준비됐어요?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "시작하다",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(경기가 시작되었습니다.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "알다",
+    "originalMeaning": "To know",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(저는 몰라요.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "생각하다 / 느끼다",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(어떻게 생각하세요?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "바라다 / 희망",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "동사",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(내일 날씨가 좋기를 바랍니다.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "옆 / 옆에",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(은행은 슈퍼마켓 옆에 있습니다.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "공항",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(공항에 가는 데 얼마나 걸립니까?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "지하철",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(저는 지하철을 타고 출근합니다.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "휴대 전화",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(제 휴대 전화 배터리가 다 됐어요.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "생일",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(생일 축하합니다!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "몸 / 건강",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "身体 (shēn tǐ): 注意身体。(건강 조심하세요.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "눈",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "명사",
+    "hskLevel": 2,
+    "examples": [
+      "眼睛 (yǎn jīng): 她的眼睛很漂亮。(그녀의 눈은 매우 아름답습니다.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "비록 ~이지만",
+    "originalMeaning": "Although",
+    "partOfSpeech": "접속사",
+    "hskLevel": 2,
+    "examples": [
+      "虽然 (suī rán): 虽然很累，但我很开心。(비록 피곤하지만, 저는 매우 행복합니다.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "또는 / 여전히",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "접속사",
+    "hskLevel": 2,
+    "examples": [
+      "还是 (hái shì): 你喝茶还是咖啡？(차를 마시겠어요, 아니면 커피를 마시겠어요?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "함께",
+    "originalMeaning": "Together",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "一起 (yī qǐ): 我们一起去吧。(우리 함께 갑시다.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "자주 / 흔히",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "经常 (jīng cháng): 我经常运动。(저는 자주 운동합니다.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "매우 / 아주",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "非常 (fēi cháng): 非常感谢！(정말 감사합니다!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "아마 / 가능성 있는",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "可能 (kě néng): 明天可能下雨。(내일 비가 올지도 모릅니다.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "반드시 / 꼭",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "부사",
+    "hskLevel": 2,
+    "examples": [
+      "一定 (yī dìng): 你一定会成功。(당신은 반드시 성공할 것입니다.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "환경",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "环境 (huán jìng): 我们要保护环境。(우리는 환경을 보호해야 합니다.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "경험",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(Do you have work experience?) -> 당신은 직장 경험이 있습니까?"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "기회",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(This is a good opportunity.) -> 이것은 좋은 기회입니다."
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "선택하다 / 선택",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(Which one do you choose?) -> 당신은 어느 것을 선택합니까?"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "결정하다 / 결정",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(I decided to go to China.) -> 저는 중국에 가기로 결정했습니다."
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "영향을 주다 / 영향",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(The weather influenced my mood.) -> 날씨가 제 기분에 영향을 미쳤습니다."
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "비교적 / 비교하다",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(It's relatively cold today.) -> 오늘 비교적 춥습니다."
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "특히 / 특별한",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(This dish is especially delicious.) -> 이 요리는 특히 맛있습니다."
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "사실은 / 실제로",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(Actually, I don't know either.) -> 사실 저도 모릅니다."
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "드디어 / 마침내",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(I finally found it!) -> 드디어 찾았습니다!"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "느낌 / 느끼다",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(I feel a bit unwell.) -> 기분이 좀 안 좋습니다."
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "해결하다",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(문제가 해결되었습니다.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "토론하다",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(이 문제를 토론해 봅시다.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "연습하다 / 연습",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(연습을 많이 하면 실력이 늘 거예요.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "향상시키다 / 높이다",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(저는 중국어 실력을 향상시키고 싶습니다.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "받아들이다",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(당신의 제안을 받아들입니다.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "참가하다 / 참여하다",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(당신은 시합에 참가할 건가요?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "이해하다 / 알다",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(저는 중국 문화를 알고 싶습니다.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "주의하다 / 조심하다",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(안전에 주의하세요.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "계획하다 / 작정하다",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(언제 갈 계획이에요?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "～에 따르면 / ～에 근거하여",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "전치사",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(일기 예보에 따르면 내일 비가 올 거예요.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "또는 (진술에서)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "접속사",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(당신은 버스 또는 지하철을 탈 수 있습니다.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "～하기만 하면",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "접속사",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(노력하기만 하면 성공할 것이다.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "～에 상관없이 / 관계없이",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "접속사",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(무슨 일이 있어도 나는 너를 지지한다.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "태도",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(태도가 모든 것을 결정한다.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "필요하다 / 필요",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(나는 당신의 도움이 필요합니다.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "～해야 한다",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(당신은 더 많이 쉬어야 합니다.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "만족스러운",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(나는 결과에 매우 만족합니다.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "보통의 / 평범한",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(나는 평범한 사람입니다.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "제안하다 / 제안",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(나는 당신에게 운동을 더 많이 하라고 제안합니다.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "표현하다",
+    "originalMeaning": "To express",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(나는 어떻게 표현해야 할지 모르겠다.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "소통하다 / 교환하다",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(우리는 소통을 더 많이 해야 합니다.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "증명하다 / 증거",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(사실이 그가 옳았다는 것을 증명했습니다.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "풍부하다",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(중국 문화는 매우 풍부합니다.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "복잡하다",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(이 문제는 매우 복잡합니다.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "자랑스럽다 / 자부심",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(나는 네가 자랑스럽다.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "적극적이다 / 긍정적이다",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(긍정적인 태도를 유지해야 합니다.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "어려움 / 어렵다",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(어려움을 두려워하지 마세요.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "온화하다 / 부드럽다",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(그녀는 매우 온화합니다.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "정직하다",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(사람은 정직해야 합니다.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "감동받다 / 감동적인",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(이 이야기는 매우 감동적입니다.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "오해",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "명사",
+    "hskLevel": 4,
+    "examples": [
+      "这是一个误会。(이것은 오해입니다.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "효과 / 결과",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "명사",
+    "hskLevel": 4,
+    "examples": [
+      "效果很好。(효과가 아주 좋습니다.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "설령 ~일지라도",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "접속사",
+    "hskLevel": 4,
+    "examples": [
+      "即使失败也不放弃。(설령 실패하더라도 포기하지 않겠습니다.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "그렇지 않으면",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "접속사",
+    "hskLevel": 4,
+    "examples": [
+      "快点，否则会迟到。(서둘러, 그렇지 않으면 늦을 거야.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "~한 이상 / ~하는 바에야",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "접속사",
+    "hskLevel": 4,
+    "examples": [
+      "既然来了，就留下吧。(온 김에, 있다 가세요.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "비록 ~일지라도 / ~에도 불구하고",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "접속사",
+    "hskLevel": 4,
+    "examples": [
+      "尽管很难，我也要试。(비록 어렵더라도, 나는 시도할 거야.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "원래 / 알고 보니",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "부사",
+    "hskLevel": 4,
+    "examples": [
+      "原来是你！(알고 보니 너였어!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "뜻밖에 / 의외로",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "부사",
+    "hskLevel": 4,
+    "examples": [
+      "他竟然会说中文！(그가 뜻밖에 중국어를 할 줄 알아!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "점점 / 차츰",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "부사",
+    "hskLevel": 4,
+    "examples": [
+      "天气逐渐变暖了。(날씨가 점점 따뜻해지고 있다.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "행복한 / 복된",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "祝你幸福！(행복하세요!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "용감한",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "你要勇敢面对。(용감하게 맞서야 해.)"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "존경하다 / 존경",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "동사",
+    "hskLevel": 4,
+    "examples": [
+      "要尊重别人。(다른 사람을 존중해야 한다.)"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "책임",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "명사",
+    "hskLevel": 4,
+    "examples": [
+      "这是我的责任。(이것은 내 책임이다.)"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "경제",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "명사",
+    "hskLevel": 4,
+    "examples": [
+      "中国经济发展很快。(중국 경제는 빠르게 발전하고 있다.)"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "전통",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "명사",
+    "hskLevel": 4,
+    "examples": [
+      "这是中国的传统文化。(이것은 중국의 전통 문화이다.)"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "일시적으로, 잠시",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "부사",
+    "hskLevel": 4,
+    "examples": [
+      "我暂时没有计划。(저는 당분간 계획이 없습니다.)"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "충분히",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "형용사",
+    "hskLevel": 4,
+    "examples": [
+      "做好充分的准备。(충분한 준비를 하세요.)"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "소통하다",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "有效沟通很重要。(효과적인 소통은 매우 중요하다.)"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "조정하다",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "我来协调各方面。(제가 각 방면을 조정하겠습니다.)"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "기여 / 기여하다",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "他做出了巨大贡献。(그는 엄청난 기여를 했다.)"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "자질 / 소양 (사람의)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(개인의 자질을 향상시키는 것은 매우 중요하다.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "만회하다 / 보상하다",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(행동으로 잘못을 만회하다.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "독특한",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "형용사",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(이곳은 매우 독특하다.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "분명히 / 명백히",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "부사",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(분명히 그가 말한 것은 틀리다.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "심오한 / 깊은",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "형용사",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(이 책은 의미가 심오하다.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "빈번한",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "형용사",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(최근 야근이 너무 빈번하다.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "떠맡다 / 감당하다",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(나는 책임을 감당할 의향이 있다.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "유지하다 / 지키다",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(침착함을 유지하다.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "촉진하다 / 증진하다",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(운동은 건강을 촉진한다.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "반영하다 / 보고하다",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(이것은 사회 문제를 반영한다.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "현재 / 지금",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "부사",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(현재 상황은 나쁘지 않습니다.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "합리적인",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "형용사",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(이 가격은 매우 합리적입니다.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "유연한 / 융통성 있는",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "형용사",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(근무 시간이 비교적 유연합니다.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "본질",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(문제의 본질은 무엇입니까?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "추세 / 경향",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(이것은 미래의 추세입니다.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "분야",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(그는 과학 기술 분야에서 매우 유명합니다.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "갖추다 / 구비하다",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(그는 리더십을 갖추고 있습니다.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "극복하다",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(어려움을 극복하고 계속 나아가세요.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "회복하다 / 복구하다",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(그는 이미 건강을 회복했습니다.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "형성되다 / 이루어지다",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "동사",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(점점 습관이 형성되었습니다.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "실천 / 실천하다",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(이론은 실천과 결합해야 한다.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "규모",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "명사",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(회사의 규모가 점점 커지고 있다.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "필연적으로 / 반드시",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "부사",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(노력하면 반드시 보상이 있다.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "대략 / 아마",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "부사",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(대략 두 시간이 걸릴 것이다.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "그리하여 / 따라서",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "접속사",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(열심히 공부하여 좋은 성적을 거두다.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "하물며 / ~은 말할 것도 없고",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "접속사",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(어른도 못하는데 하물며 아이랴.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "함축적인 / 내성적인",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(중국인은 감정 표현이 비교적 내성적이다.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "낯선 / 익숙하지 않은",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(저는 이곳이 매우 낯설어요.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "미묘한 / 섬세한",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(두 사람의 관계는 매우 미묘하다.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "박식한 / 심오한 (지식)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(그의 지식은 매우 박식하다.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "동경하다 / 갈망하다",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(그녀는 미래에 대한 갈망으로 가득 차 있다.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "곰곰이 생각하다 / 헤아리다",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(나는 그의 의도를 헤아리고 있다.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "(기쁨에) 도취되다",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(그녀는 음악에 도취되었다.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "이해하다 / 파악하다",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(나는 마침내 이 이치를 깨달았다.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "집중적으로 연구하다 / 깊이 파고들다",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(그는 여러 해 동안 집중적으로 연구했다.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "통찰력 / 꿰뚫어 보다",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(그는 인간 본성에 대한 깊은 통찰력을 가지고 있다.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "고취하다 / 발전시키다",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(전통 문화를 고취하다.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "고전적인 고사 / 역사적 일화",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(모든 성어 뒤에는 고전적인 고사가 있다.)"
+    ],
+    "notes": "중국 성어의 유래를 논할 때 흔히 사용됩니다."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "함축적 의미 / 내적 의미",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(이 시는 함축적 의미가 풍부하다.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "교양 / 소양",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(문화 교양을 높이다.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "문화적 유산 / 내면의 깊이",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(이 도시는 깊은 문화적 유산을 가지고 있다.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "구도 / 레이아웃 / 비전",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(큰 그림을 보는 시각을 가져야 한다.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "경지 / 달성 수준",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(이것은 인생의 최고 경지이다.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "정수 / 진수",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(중국 문화의 정수를 배웠다.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "기원 / 뿌리 깊은 연관",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(양국은 깊은 역사적 연관을 가지고 있다.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "은유",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "명사",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(성어는 종종 은유적 기법을 사용한다.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "광범위하고 심오함",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(중국 문화는 광범위하고 심오하다.)"
+    ],
+    "notes": "이것은 그 자체로 성어입니다!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "이해를 통해 철저히 숙달하다",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(학습은 철저한 이해를 포함해야 한다.)"
+    ],
+    "notes": "이것은 그 자체로 성어입니다!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "유구한 역사를 가지다",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(중국 문화는 유구한 역사를 가지고 있다.)"
+    ],
+    "notes": "이것은 그 자체로 성어입니다!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "생각하게 만드는 / 곱씹어 볼 가치가 있는",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "형용사",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(이 이야기는 생각하게 만든다.)"
+    ],
+    "notes": "이것은 그 자체로 성어입니다!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "미묘하게 영향을 주다 / непостижимое влияние",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(문화는 непостижимое влияние으로 사람들에게 영향을 미친다.)"
+    ],
+    "notes": "이것은 그 자체로 성어(chengyu)입니다!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "날마다 증가하다",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(중국어를 배우는 사람들의 수가 날마다 증가하고 있다.)"
+    ],
+    "notes": "이것은 그 자체로 성어(chengyu)입니다!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "하나를 들어 많은 것을 추론하다",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(배울 때는 하나를 들어 많은 것을 추론해야 한다.)"
+    ],
+    "notes": "이것은 그 자체로 성어(chengyu)입니다!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "단계적으로 / 순서대로 진행하다",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "부사",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(언어를 배우는 것은 단계적으로 진행해야 한다.)"
+    ],
+    "notes": "이것은 그 자체로 성어(chengyu)입니다!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "두각을 나타내다 / 독특한 스타일",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "동사",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(그의 글쓰기 스타일은 정말 독특하다.)"
+    ],
+    "notes": "이것은 그 자체로 성어(chengyu)입니다!"
+  }
+]

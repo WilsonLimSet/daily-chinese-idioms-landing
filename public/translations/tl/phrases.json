@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "Bill, please / Magbabayad na po",
+    "context": "Ginagamit sa dulo ng pagkain para sabihing magbabayad ka na. Itaas lang ang kamay at sabihin ito sa waiter. Sa ibang lugar, 结账 (jié zhàng) ang ginagamit.",
+    "examples": [
+      "服务员，买单！(Waiter, check please!) - Ser, magbabayad na po!",
+      "Can we 买单? We're ready to go. - Pwede na po bang magbayad? Aalis na kami."
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "Pabalot / Take out / Ibalot",
+    "context": "Ginagamit kapag may natirang pagkain at gusto mong iuwi. Karaniwan ito at hindi bastos sa China — mas masama ang magtapon ng pagkain.",
+    "examples": [
+      "这个菜打包吧。(Let's pack up this dish.) - Ibalot na natin itong ulam.",
+      "可以打包吗？(Can I get this to go?) - Pwede bang pabalot?"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "Walang anghang / Huwag maanghang",
+    "context": "Mahalagang parirala sa Sichuan, Hunan, at iba pang rehiyon na maanghang ang pagkain. Mga baryasyon: 少辣 (shǎo là, less spicy), 微辣 (wēi là, mild spice), 中辣 (zhōng là, medium).",
+    "examples": [
+      "不要辣，谢谢。(No spice, thanks.) - Walang anghang po, salamat.",
+      "我不能吃辣，少辣可以吗？(I can't eat spicy, can you make it less spicy?) - Hindi ako kumakain ng maanghang, pwede bang bawasan ang anghang?"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "Ano ang rekomendasyon ninyo?",
+    "context": "Magandang paraan para matuklasan ang mga lokal na espesyalidad. Gustong-gusto ng mga staff ng restaurant na magrekomenda ng kanilang mga signature dish. Pwede ring gamitin sa mga tindahan o cafe.",
+    "examples": [
+      "你们这儿有什么推荐？(What do you recommend here?) - Ano ang rekomendasyon ninyo dito?",
+      "第一次来，有什么推荐的菜？(First time here, any dish recommendations?) - Unang beses ko dito, anong ulam ang nirerekomenda ninyo?"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "Vegetarian ako / Kumakain ako ng vegetarian",
+    "context": "Mahalaga para sa mga vegetarian na kumakain sa labas. Tandaan na ang \"vegetarian\" sa China ay maaaring may kasamang itlog at dairy. Para sa vegan, sabihin 我是纯素 (wǒ shì chún sù).",
+    "examples": [
+      "我吃素，有素菜吗？(I'm vegetarian, do you have vegetable dishes?) - Vegetarian ako, mayroon ba kayong mga pagkaing gulay?",
+      "这个里面有肉吗？我吃素。(Does this have meat? I'm vegetarian.) - May karne ba ito? Vegetarian ako."
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "Mabuhay! / Tagay!",
+    "context": "Literal na \"tuyong baso\" — ibig sabihin ay ubusin ang inumin sa isang lagok. Sa mga pormal na hapunan, madalas mong maririnig ito. Maaari mo ring sabihin ang 随意 (suí yì, inumin sa sarili mong bilis) kung hindi mo kayang makipagsabayan.",
+    "examples": [
+      "为我们的友谊干杯！(Mabuhay ang ating pagkakaibigan!)",
+      "来，干杯！(Sige, tagay!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "Isa pa / isa pa po",
+    "context": "Ginagamit para mag-order ng isa pang putahe, inumin, o bahagi. Gumagana sa mga restawran, bar, at tindahan ng pagkain sa kalye.",
+    "examples": [
+      "这个很好吃，再来一个！(Ang sarap nito, isa pa po!)",
+      "啤酒再来一个。(Isa pa pong beer.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "Busog na ako / Sapat na ang nakain ko",
+    "context": "Magalang na paraan para tumanggi ng karagdagang pagkain. Sa kulturang Tsino, patuloy na mag-aalok ng pagkain ang mga host. Ang pagsasabi ng 吃饱了 ay nagpapakita ng pagpapahalaga habang ipinapahiwatig na marami ka nang nakain.",
+    "examples": [
+      "谢谢，我吃饱了。(Salamat, busog na ako.)",
+      "真的吃饱了，不用再加了。(Busog na talaga ako, hindi na kailangan dagdagan pa.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "Hati tayo sa bayad / Kanya-kanya",
+    "context": "Karaniwan sa mga kaibigan at nakababatang henerasyon. Sa tradisyunal na kulturang Tsino, isang tao ang karaniwang nagbabayad para sa buong mesa, ngunit ang AA制 ay nagiging mas tanggap lalo na sa mga millennial.",
+    "examples": [
+      "今天AA制吧。(Hati tayo sa bayad ngayon.)",
+      "我们AA还是你请？(Hati tayo o ikaw ang manlilibre?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "Paano ito kainin?",
+    "context": "Kapaki-pakinabang kapag nahaharap sa hindi pamilyar na pagkaing Tsino tulad ng hotpot, Peking duck wraps, o xiaolongbao. Walang huhusga sa iyo sa pagtatanong — nagpapakita ito ng tunay na interes.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(Paano ito kainin? Isasawsaw ba sa sarsa?)",
+      "小笼包怎么吃才不会烫？(Paano kainin ang xiaolongbao nang hindi napapaso?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "Masyadong mahal!",
+    "context": "Ang importanteng parirala para sa pagtawad sa mga palengke. Sabihin ito na may bahagyang nasaktang ekspresyon para sa mas malaking epekto. Gumagana sa mga palengke, maliliit na tindahan, at sa mga nagtitinda sa kalye — hindi sa mga mall o chain stores.",
+    "examples": [
+      "太贵了，便宜点吧！(Masyadong mahal, bawasan mo naman!)",
+      "这个太贵了，我再看看。(Masyadong mahal ito, titingin-tingin pa ako.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "Medyo bawasan naman / bigyan mo ako ng discount",
+    "context": "Ang kasunod sa 太贵了. Isang magalang na paraan para magsimula ng negosasyon. Pwedeng isama sa mga dahilan tulad ng pagbili ng maraming item o pagiging regular na customer.",
+    "examples": [
+      "老板，便宜点嘛！(Boss, bigyan mo naman ako ng mas magandang presyo!)",
+      "买两个能便宜点吗？(Pwede bang bawasan kung bibili ako ng dalawa?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "Pwede ko bang sukatin / Pwede ko bang tikman?",
+    "context": "Ginagamit sa mga tindahan ng damit, sapatos, o kapag tumitikim ng pagkain. Karamihan sa mga tindahan ay papayagan kang sukatin ang mga bagay, bagama't maaaring hindi sa ilang mga stall sa palengke.",
+    "examples": [
+      "这件衣服可以试试吗？(Pwede ko bang sukatin itong damit na ito?)",
+      "这个口味可以试试吗？(Pwede ko bang tikman itong lasa na ito?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "Mayroon ba kayong ibang kulay?",
+    "context": "Kapaki-pakinabang kapag namimili ng damit, accessories, o gamit sa bahay. Maaari mong palitan ang 颜色 ng 尺码 (chǐ mǎ, size) o 款式 (kuǎn shì, style).",
+    "examples": [
+      "这个有没有别的颜色？(Mayroon ba itong ibang kulay?)",
+      "有没有大一号的？(Mayroon ba kayong mas malaking size?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "Card o cash?",
+    "context": "Maririnig mo ito sa checkout. Sa ngayon, karamihan sa mga lugar ay tumatanggap din ng WeChat Pay at Alipay. Maaari mo ring marinig ang 微信还是支付宝 (WeChat o Alipay?).",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Card o cash?——Pwede bang WeChat Pay?)",
+      "可以刷卡吗？(Pwede bang magbayad gamit ang card?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "Bawas presyo / Sale",
+    "context": "Sa China, ang mga bawas ay ipinapahayag bilang bahagi ng presyo na babayaran mo: ang 打八折 ay nangangahulugang 80% ng presyo (20% na bawas), ang 打五折 ay nangangahulugang 50% na bawas. Ito ay kabaligtaran ng kung paano gumagana ang mga bawas sa Ingles.",
+    "examples": [
+      "现在打折吗？(Is there a discount now?) - May sale ba ngayon?",
+      "这个打几折？(What's the discount on this?) - Magkano ang bawas dito?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "Peke ba ito? / Imposible!",
+    "context": "Ginagamit kapag pinagdududahan ang pagiging tunay ng mga produkto sa mga palengke, o bilang pagpapahayag ng hindi paniniwala sa usapan. Sa mga konteksto ng pamimili, mag-ingat sa paggamit nito nang masyadong agresibo.",
+    "examples": [
+      "这个是真的还是假的？(Is this real or fake?) - Totoo ba ito o peke?",
+      "五百块？假的吧！(500 yuan? No way!) - 500 yuan? Imposible!"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "Kasama na ba ang libreng shipping?",
+    "context": "Napakahalaga para sa online shopping sa Taobao, JD.com, atbp. Isa sa mga unang bagay na tinatanong ng mga mamimiling Tsino. Maaari ring gamitin nang pabiro sa personal.",
+    "examples": [
+      "这个包邮吗？(Does this include free shipping?) - Kasama na ba ang libreng shipping dito?",
+      "满多少包邮？(How much do I need to spend for free shipping?) - Magkano ang kailangan kong gastusin para magkaroon ng libreng shipping?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "Isauli ang produkto / Refund",
+    "context": "Ginagamit kapag gusto mong isauli ang isang bagay na binili mo. Ang 退款 (tuì kuǎn) ay partikular na nangangahulugang refund ng pera. Ang mga online shopping platform ay karaniwang may 7-araw na patakaran sa pagsasauli.",
+    "examples": [
+      "这个可以退货吗？(Can I return this?) - Pwede ko ba itong isauli?",
+      "我想退货退款。(I want to return this for a refund.) - Gusto kong isauli ito para ma-refund."
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "Magkano ang pinakamababang presyo? / Ano ang pinakamagandang offer mo?",
+    "context": "Ang \"power move\" sa pagtawad. Gamitin ito pagkatapos magpalitan ng presyo nang ilang beses. Nagpapahiwatig ito na seryoso ka sa pagbili ngunit kailangan mo ng mas magandang presyo.",
+    "examples": [
+      "最低多少钱？(What's the absolute lowest price?) - Magkano ang pinakamababang presyo?",
+      "不用讲价了，最低多少？(No more negotiating, what's your bottom price?) - Hindi na kailangan tumawad, magkano ang pinakamababa?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "Paano ako makakarating doon? / Saan ang daan?",
+    "context": "Ang pinakapangunahing parirala sa pagtatanong ng direksyon. Ituro sa mapa o banggitin ang isang landmark, pagkatapos ay itanong ang 怎么走. Kadalasan ituturo sa iyo ng mga tao ang tamang direksyon kahit na may hadlang sa wika.",
+    "examples": [
+      "请问，地铁站怎么走？(Excuse me, how do I get to the subway station?) - Excuse me, paano ako makakarating sa istasyon ng subway?",
+      "去天安门怎么走？(How do I get to Tiananmen?) - Paano ako makakarating sa Tiananmen?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "Nakarating na ba tayo? / Dumating na ba tayo?",
+    "context": "Ginagamit sa mga taxi, bus, o kapag may nagmamaneho para sa iyo. Maaari mo ring tanungin ang drayber ng 快到了吗 (kuài dào le ma, malapit na ba tayo?).",
+    "examples": [
+      "师傅，到了吗？(Driver, are we there?) - Manong, nakarating na ba tayo?",
+      "还没到吗？还有多远？(Haven't we arrived yet? How much further?) - Hindi pa ba tayo nakakarating? Gaano pa kalayo?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "Saan ako bababa?",
+    "context": "Ginagamit sa mga bus at subway. Ipakita sa drayber o sa kapwa pasahero ang iyong destinasyon sa iyong telepono at itanong ito. Sa mga bus, tatawagin ng drayber o ng mga automated na anunsyo ang mga hinto.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Excuse me, where do I get off for the Forbidden City?) - Excuse me, saan ako bababa para sa Forbidden City?",
+      "我应该在哪一站下车？(Which stop should I get off at?) - Saang istasyon ako dapat bumaba?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "Trapik / Na-stuck sa trapik",
+    "context": "Napakarami sa mga lungsod sa Tsina, lalo na sa oras ng rush hour. Madalas itong binabanggit ng mga drayber ng taxi. Isang kapaki-pakinabang na dahilan para mahuli rin.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Sorry, stuck in traffic, might be late.) - Pasensya na, trapik, baka ako mahuli.",
+      "这条路总是堵车。(This road always has traffic jams.) - Laging trapik sa daang ito."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "Manong, para po",
+    "context": "Ginagamit sa mga taxi at ride-shares kapag gusto mong bumaba. Ang 师傅 (shī fu) ay ang magalang na paraan upang tawagin ang isang drayber. Maaari mo ring sabihin ang 前面停 (qián miàn tíng, para sa unahan).",
+    "examples": [
+      "师傅，前面路口停一下。(Driver, please stop at the intersection ahead.) - Manong, para po sa kanto sa unahan.",
+      "师傅，就这里停吧。(Driver, you can stop right here.) - Manong, dito na lang po."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "Nawawala ako",
+    "context": "Ipakita sa isang tao ang iyong telepono na may destinasyon sa mapa at sabihin ito. Karamihan sa mga Tsino ay tutulong sa iyo na hanapin ang iyong daan, minsan ay sasamahan ka pa doon.",
+    "examples": [
+      "不好意思，我迷路了。(Excuse me, I'm lost.) - Pasensya na, nawawala ako.",
+      "我迷路了，这里是哪儿？(I'm lost, where is this?) - Nawawala ako, nasaan ba ito?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "May Wi-Fi ba kayo?",
+    "context": "Mahalaga para sa mga manlalakbay. Karamihan sa mga cafe, restaurant, at hotel ay may Wi-Fi. Ang password ay madalas na nakadisplay sa isang karatula o maaari mong itanong: 密码是什么 (mì mǎ shì shén me, ano ang password?).",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Do you have Wi-Fi? What's the password?) - May Wi-Fi ba kayo? Ano ang password?",
+      "这里Wi-Fi信号好吗？(Is the Wi-Fi signal good here?) - Maganda ba ang signal ng Wi-Fi dito?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "Gaano katagal bago tayo makarating? / Gaano katagal?",
+    "context": "Ginagamit sa mga taxi, sa mga ride-share driver, o kapag nagtatanong tungkol sa mga oras ng pagbiyahe. Gumagana rin para sa mga pagtatantya ng paghahatid at pakikipagkita sa mga kaibigan.",
+    "examples": [
+      "师傅，多久能到？(Driver, how long until we get there?) - Manong, gaano katagal bago tayo makarating?",
+      "坐地铁多久能到？(How long does it take by subway?) - Gaano katagal kung mag-subway?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "Malapit ba ito? / Malapit ba?",
+    "context": "Isang mabilis na paraan upang sukatin ang distansya bago magpasyang maglakad papunta sa isang lugar. Ang sagot ay madalas na 很近 (hěn jìn, napakalapit) o 不远 (bù yuǎn, hindi malayo) — bagaman ang mga kahulugan ng mga Tsino ng \"malapit\" ay maaaring mag-iba nang malaki.",
+    "examples": [
+      "地铁站近不近？(Is the subway station nearby?) - Malapit ba ang istasyon ng subway?",
+      "走路去近不近？(Is it close enough to walk?) - Malapit lang ba kung lalakarin?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "GPS navigation / gamitin ang map app",
+    "context": "Sabihin sa isang taxi driver na sundin ang GPS, o humingi ng tulong sa isang tao upang mag-navigate. 高德地图 (Gaode/Amap) at 百度地图 (Baidu Maps) ang mga pangunahing navigation app sa China.",
+    "examples": [
+      "师傅，你开导航吧。(Driver, just follow the GPS.) - Manong, mag-GPS na lang po kayo.",
+      "我导航一下。(Let me check the navigation.) - Titingnan ko sa navigation."
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "Libre ka ba? / May oras ka ba?",
+    "context": "Ang karaniwang paraan para mag-imbita ng isang tao. Kadalasang sinusundan ng isang tiyak na plano. Maaaring gamitin para sa araw na ito o sa hinaharap — magdagdag ng salita ng oras tulad ng 明天 (míng tiān, bukas) o 周末 (zhōu mò, weekend).",
+    "examples": [
+      "周末有空吗？一起吃饭？(Libre ka ba ngayong weekend? Kain tayo?)",
+      "你明天有空吗？(Libre ka ba bukas?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "Sa ibang araw na lang / Sa susunod na lang",
+    "context": "Isang magalang na paraan para tumanggi sa isang imbitasyon nang hindi direktang sinasabing hindi. Sa kulturang Tsino, ito ay isang malambot na pagtanggi na nagliligtas ng mukha para sa parehong partido.",
+    "examples": [
+      "今天太忙了，改天吧。(Masyadong abala ngayon, sa ibang araw na lang.)",
+      "改天再约吧。(Ayusin natin sa ibang araw.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "Kahit ano / ayos lang / wala akong pakialam",
+    "context": "Ang pinakakaraniwang (at kung minsan nakakainis) na sagot kapag gumagawa ng mga plano. Ginagamit kapag wala kang gustong partikular. Babala: ang pagsasabi ng 随便 nang madalas ay maaaring magmukhang walang pakialam.",
+    "examples": [
+      "吃什么？——随便，都行。(Anong gusto mong kainin?——Kahit ano, ayos lang.)",
+      "你随便选吧。(Pumili ka na lang ng kahit ano.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "Ikaw ang bahala / desisyon mo",
+    "context": "Ipinapasa ang desisyon sa ibang tao. Katulad ng 随便 ngunit inilalagay ang responsibilidad sa ibang tao. Karaniwan kapag nagdedesisyon ang mga kaibigan kung saan kakain, anong gagawin, atbp.",
+    "examples": [
+      "去哪儿？——看你。(Saan tayo pupunta?——Ikaw ang bahala.)",
+      "想看什么电影？看你吧。(Anong pelikula ang gusto mong panoorin? Desisyon mo.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Kalimutan na lang / huwag na lang",
+    "context": "Ginagamit kapag sumusuko sa isang plano, inaalis ang isang argumento, o nagpapasya na hindi sulit ang pagsisikap. Maaaring magpahayag ng bahagyang pagkabigo o pagtanggap.",
+    "examples": [
+      "等了半小时了，算了，走吧。(Naghintay ng kalahating oras, kalimutan na lang, umalis na tayo.)",
+      "算了算了，不想了。(Huwag na lang, huwag na lang, ayaw ko nang isipin.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "Wala akong pakialam / Balewala",
+    "context": "Mas malakas kaysa sa 随便. Pwedeng magtunog walang pakialam o talagang madaling pakisamahan depende sa tono. Gamitin nang maingat — sa maling tono, pwedeng magmukhang mapangmata.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(You're late!——Doesn't matter, I wasn't doing anything anyway.) - Huli ka na! - Balewala, wala rin naman akong ginagawa.",
+      "去不去都无所谓。(It doesn't matter whether we go or not.) - Balewala kung pupunta tayo o hindi."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "Sa susunod na lang / Baka sa susunod",
+    "context": "Isa pang magalang na paraan para tumanggi o ipagpaliban ang mga plano. Katulad ng 改天吧 pero tumutukoy mismo sa susunod na pagkakataon. Minsan, totoong sa susunod, minsan naman, malambot na pagtanggi.",
+    "examples": [
+      "今天去不了，下次吧。(Can't make it today, next time.) - Hindi ako pwede ngayon, sa susunod na lang.",
+      "下次吧，这次太赶了。(Next time, this time is too rushed.) - Sa susunod na lang, masyadong nagmamadali ngayon."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "Gusto mo bang gumala? / Gusto mo bang magkita?",
+    "context": "Isang kaswal, madalas sa text na imbitasyon. Karaniwan sa mga kaibigan. Pwedeng gamitin para mag-suggest na kumain, uminom, o anumang aktibidad. Minsan, may halong paglalandi.",
+    "examples": [
+      "周末约吗？(Want to hang out this weekend?) - Gusto mo bang gumala ngayong weekend?",
+      "好久不见，约个饭？(Long time no see, want to grab food?) - Tagal na nating hindi nagkita, gusto mo bang kumain?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "Libre ko / Ako ang magbabayad para sa'yo",
+    "context": "Ang pag-alok na magbayad ay malaking bahagi ng kulturang Tsino. Madalas may \"labanan\" kung sino ang magbabayad. Ang pagsasabi ng 我请你 bago kumain ay nagtatakda ng inaasahan.",
+    "examples": [
+      "今天我请你，别客气。(Today's my treat, don't be polite.) - Libre kita ngayon, huwag kang mahiya.",
+      "这顿我请。(This meal is on me.) - Ako ang bahala sa pagkain na ito."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "Pupunta ka ba (o hindi)? / Gusto mong pumunta?",
+    "context": "Isang direkta at kaswal na paraan para tanungin kung gusto sumama ang isang tao sa isang aktibidad. Ang A-not-A na pattern ng tanong (去不去, 要不要, 好不好) ay isa sa pinakakapaki-pakinabang na istruktura sa Chinese.",
+    "examples": [
+      "明天爬山，你去不去？(Hiking tomorrow, you going?) - Aakyat tayo ng bundok bukas, sasama ka ba?",
+      "唱K去不去？(Want to go to karaoke?) - Gusto mo bang mag-karaoke?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "Talaga?! / Seryoso ka? / Imposible!",
+    "context": "Ekspresyon ng pagkabigla o hindi paniniwala. Isa sa mga pinakakaraniwang reaksyon sa usapang Tsino. Maaaring tunay na tanong o retorikal na bulalas.",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!) - Nagbitiw siya sa trabaho! - Talaga?!",
+      "真的假的，这么便宜？(No way, this cheap?) - Imposible, ang mura naman?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "Sobrang OA naman / Sobra na 'yan",
+    "context": "Ginagamit para tumugon sa isang bagay na hindi kapani-paniwala, labis, o dramatiko. Maaaring negatibo (presyo, pag-uugali) o positibo na may paghanga (kahanga-hangang pagganap).",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!) - Dalawang oras na pila? Sobra naman!",
+      "这个特效太夸张了。(These special effects are over the top.) - Sobra naman ang special effects na 'to."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "Okay lang / Hindi masama / Ganun-ganun lang",
+    "context": "Isang maligamgam na tugon. Ginagamit kapag ang isang bagay ay hindi mahusay o hindi rin naman terible. Madalas itong ginagamit ng mga Tsino para maging mapagkumbaba tungkol sa mga tagumpay o magbigay ng hindi tiyak na opinyon.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.) - Kumusta ang restaurant na 'to? - Okay lang, karaniwan lang.",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.) - Mahirap ba ang exam? - Okay lang."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "Depende sa sitwasyon / Tignan natin",
+    "context": "Isang hindi tiyak na sagot na umiiwas sa isang tiyak na oo o hindi. Karaniwang ginagamit sa komunikasyong Tsino kung saan minsan iniiwasan ang pagiging direkta.",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.) - Pupunta ka ba? - Depende sa sitwasyon.",
+      "能不能做到？看情况。(Can it be done? We'll see.) - Magagawa ba? Tignan natin."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "Hindi ko inasahan 'yon / Hindi ko naisip",
+    "context": "Nagpapahayag ng tunay na pagkabigla sa isang hindi inaasahang resulta. Maaaring positibo o negatibo. Ginagamit kapag ang realidad ay malaki ang pagkakaiba sa mga inaasahan.",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!) - Hindi ko inasahan na ang galing mo magsalita ng Chinese!",
+      "真没想到他会来。(I really didn't expect him to come.) - Hindi ko talaga naisip na pupunta siya."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "Tama ka / Magandang punto",
+    "context": "Ginagamit para sumang-ayon sa pangangatwiran o lohika ng isang tao. Karaniwang tugon sa mga diskusyon na nagpapakita na nakikinig ka at nakikita mong balido ang kanilang argumento.",
+    "examples": [
+      "你说的有道理。(Tama ka sa sinabi mo.)",
+      "有道理，我没想到这一点。(Magandang punto, hindi ko naisip 'yan.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "May punto ka / Totoo rin 'yan",
+    "context": "Kinikilala ang pananaw ng isang tao, kadalasan kapag nabago nila ang iyong isip o nagdagdag ng pananaw na hindi mo naisip. Bahagyang mas nagpapakumbaba kaysa sa 有道理.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(May punto ka, palitan na lang natin ang lugar.)",
+      "说的也是，我再想想。(Totoo rin 'yan, pag-iisipan ko pa.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "Paano 'yun nangyari? / Imposible 'yan!",
+    "context": "Matinding pagpapahayag ng kawalan ng paniniwala. Mas mariin kaysa sa 真的假的. Ginagamit kapag ang isang bagay ay tila hindi kapani-paniwala o sumasalungat sa lohika.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(Tumakbo siya ng 100km sa isang araw? Imposible 'yan!)",
+      "怎么可能这么快就卖完了？(Paano nangyaring naubos na agad 'yan?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "Hindi naman ganoon kasama / siguro hindi naman / hindi kailangang umabot doon",
+    "context": "Ginagamit para pakalmahin ang isang tao o imungkahi na nag-o-overreact sila. Nagtatakda ito ng hangganan kung gaano kalala ang isang sitwasyon.",
+    "examples": [
+      "不至于吧，没那么严重。(Huwag naman, hindi naman ganoon kaseryoso.)",
+      "迟到五分钟而已，不至于发火吧？(Limang minuto lang naman akong nahuli, hindi naman kailangang magalit, 'di ba?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "Malapit na / higit o kulang / halos pareho",
+    "context": "Isa sa mga pinaka-versatile na ekspresyon sa Chinese. Maaaring mangahulugang \"halos,\" \"halos pareho,\" \"ayos na,\" o \"tama na 'yan.\" Nagpapakita ng isang flexible, hindi perpeksiyonistang pag-uugali.",
+    "examples": [
+      "这两个差不多，买哪个都行。(Halos pareho lang ang dalawang 'to, kahit alin pwede.)",
+      "快好了吗？——差不多了。(Malapit na ba?——Malapit na.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "Nagtrabaho ka nang mabuti / Salamat sa iyong pagsisikap",
+    "context": "Isang napakahalagang parirala sa kulturang propesyonal at sosyal ng mga Tsino. Ginagamit upang kilalanin ang pagsisikap o pagtatrabaho nang mabuti ng isang tao. Sinasabi sa mga delivery driver, kasamahan pagkatapos ng mahabang pagpupulong, o sinumang tumulong sa iyo.",
+    "examples": [
+      "辛苦了，快休息吧。(Nagtrabaho ka nang mabuti, magpahinga ka na.)",
+      "今天的会议辛苦大家了。(Salamat sa lahat sa inyong pagsisikap sa pagpupulong ngayong araw.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "Pakiusap, alagaan mo ako / Nasa pangangalaga mo ako",
+    "context": "Sinasabi kapag nakikipagkita sa mga bagong kasamahan, kasosyo sa negosyo, o sumasali sa isang bagong team. Nagpapakita ng pagpapakumbaba at paggalang. Katulad ng Japanese na よろしくお願いします.",
+    "examples": [
+      "我是新来的，请多关照。(Bago lang ako dito, pakiusap alagaan mo ako.)",
+      "初次见面，请多关照。(Ikinagagalak kitang makilala, nasa pangangalaga mo ako.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "Mag-overtime / magtagal sa trabaho",
+    "context": "Isang salita na madalas mong maririnig sa kulturang Tsino sa trabaho. Sa kasamaang palad, napakakaraniwan, lalo na sa tech at finance. Maaaring gamitin bilang isang pandiwa o pangngalan.",
+    "examples": [
+      "今晚又要加班。(Kailangan na namang mag-overtime ngayong gabi.)",
+      "你经常加班吗？(Madalas ka bang mag-overtime?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "May pulong / nasa pulong",
+    "context": "Ginagamit upang ipaliwanag na abala ka, mag-iskedyul ng mga pulong, o (madalas) magreklamo tungkol sa napakaraming pulong. Maaaring gamitin bilang isang dahilan upang maiwasan ang mga tawag o mensahe.",
+    "examples": [
+      "我在开会，等会儿再说。(Nasa pulong ako, mag-usap tayo mamaya.)",
+      "下午三点开会。(Pulong sa 3pm.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "Mag-ulat / magbigay ng update / magbigay ng briefing sa boss",
+    "context": "Ginagamit sa mga setting ng trabaho kapag nagpapakita ng pag-unlad o mga resulta sa isang manager. Isang mahalagang aktibidad sa kulturang korporasyon ng Tsino kung saan mahalaga ang pagpapanatiling may kaalaman sa pamunuan.",
+    "examples": [
+      "这个项目需要向领导汇报。(Kailangang iulat ang proyektong ito sa pamunuan.)",
+      "每周一汇报工作进展。(Mag-ulat ng pag-unlad ng trabaho tuwing Lunes.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "Pwede ba? / Magandang oras ba?",
+    "context": "Isang magalang na paraan para magtanong kung pwede kang manghingi ng pabor o mag-iskedyul. Mas mapagbigay kaysa sa direktang paghingi. Mahalaga sa propesyonal na komunikasyon.",
+    "examples": [
+      "现在说话方便吗？(Is it convenient to talk now?) - Pwede ba akong makipag-usap ngayon?",
+      "明天见面方便吗？(Is it convenient to meet tomorrow?) - Pwede ba tayong magkita bukas?"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "Pag-iisipan ko / Ikokonsidera ko",
+    "context": "Isang magalang na paraan para ipagpaliban ang isang desisyon. Sa konteksto ng negosyo, madalas itong nangangahulugang hindi. Sa personal na konteksto, karaniwan itong nangangahulugang totoong pag-iisipan ito.",
+    "examples": [
+      "这个方案我考虑一下。(Let me think about this proposal.) - Pag-iisipan ko ang panukalang ito.",
+      "考虑一下再决定吧。(Think it over before deciding.) - Pag-isipan mo muna bago ka magdesisyon."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "Mag-ingat ka / Manatiling konektado",
+    "context": "Sinasabi sa pagtatapos ng mga pagpupulong, hapunan ng negosyo, o kapag naghihiwalay. Madalas na sinasamahan ng pagpapalitan ng mga contact sa WeChat. Mas sinsero kaysa sa katumbas nito sa Ingles.",
+    "examples": [
+      "以后保持联系。(Let's keep in touch from now on.) - Mag-ingat ka sa susunod.",
+      "加个微信，保持联系。(Let's add each other on WeChat and stay in touch.) - Mag-add tayo sa WeChat para magkausap pa rin."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "Sa lalong madaling panahon / ASAP",
+    "context": "Ginagamit sa mga email, mensahe, at pag-uusap sa trabaho upang ipahiwatig ang pagkaapurahan. Napaka-karaniwan sa propesyonal na komunikasyon. Maaaring palambutin gamit ang 请 (qǐng, please) bago ito.",
+    "examples": [
+      "请尽快回复。(Please reply as soon as possible.) - Paki-sagot po sa lalong madaling panahon.",
+      "这个需要尽快完成。(This needs to be completed ASAP.) - Kailangang matapos ito ASAP."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "Nasiyahan akong makipag-negosyo / Masayang magtrabaho kasama",
+    "context": "Sinasabi sa pagtatapos ng isang deal sa negosyo, proyekto, o pakikipagtulungan. Isang karaniwang pagbati sa mga setting ng negosyo na nagpapahayag ng kasiyahan.",
+    "examples": [
+      "合作愉快！期待下次。(Great working together! Looking forward to next time.) - Masayang makatrabaho kayo! Umaasa ako sa susunod.",
+      "感谢大家的努力，合作愉快。(Thanks for everyone's effort, it's been a pleasure working together.) - Salamat sa pagsisikap ng lahat, masayang makatrabaho kayo."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "Tulungan mo ako, please",
+    "context": "Direktang pakiusap para sa tulong. Ang pag-uulit ng 帮 ay nagpapahiwatig ng pagmamadali at emosyon kaysa sa simpleng 帮我. Gamitin kapag talagang kailangan mo ang tulong ng isang tao.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(Tulungan mo ako, hindi ko mahanap ang hotel ko.)",
+      "谁能帮帮我？(May makakatulong ba sa akin?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "Hindi ako maganda ang pakiramdam / Hindi ako komportable",
+    "context": "Ginagamit kapag masama ang pakiramdam o hindi komportable sa katawan. Sa isang medikal na setting, itatanong ng doktor ang 哪里不舒服 (nǎ lǐ bù shū fu, saan masakit/anong problema?).",
+    "examples": [
+      "我不舒服，想休息。(Hindi ako maganda ang pakiramdam, gusto kong magpahinga.)",
+      "你哪里不舒服？(Saan ka hindi komportable?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "Allergic / allergy",
+    "context": "Napakahalaga para sa mga allergy sa pagkain o gamot. Alamin kung ano ang iyong allergy: 花生过敏 (huā shēng guò mǐn, peanut allergy), 海鲜过敏 (hǎi xiān guò mǐn, seafood allergy).",
+    "examples": [
+      "我对花生过敏。(Allergic ako sa mani.)",
+      "这个里面有没有海鲜？我过敏。(May lamang seafood ba ito? Allergic ako.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "Tumawag ng pulis",
+    "context": "Ang emergency number sa China ay 110 para sa pulis, 120 para sa ambulansya, 119 para sa sunog. Ang 报警 ay partikular na nangangahulugang mag-report sa pulis.",
+    "examples": [
+      "快报警！(Tumawag ng pulis agad!)",
+      "要不要报警？(Tatawag ba tayo ng pulis?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "Tumawag ng ambulansya",
+    "context": "Para sa mga emergency medikal, tumawag sa 120 para sa ambulansya sa China. Siguraduhing alam mo ang address sa Chinese o nasa iyong telepono upang ipakita sa isang tao.",
+    "examples": [
+      "快叫救护车！(Tumawag ng ambulansya agad!)",
+      "请帮忙叫救护车，有人晕倒了。(Pakiusap, tumawag ng ambulansya, may nahimatay.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "Nawala ang mga gamit ko / Nawawala ang gamit ko",
+    "context": "Ginagamit kapag may nawala sa iyo o naghihinala kang nanakawan ka. Tukuyin kung ano: 手机 (shǒu jī, cellphone), 钱包 (qián bāo, wallet), 护照 (hù zhào, passport).",
+    "examples": [
+      "我的手机丢了！(Nawala ang cellphone ko!)",
+      "我的钱包丢了，怎么办？(Nawala ang wallet ko, anong gagawin ko?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "Pwede bang magsalita ka nang mas mabagal?",
+    "context": "Ang pinakamahalagang parirala para sa sinumang nag-aaral ng Chinese. Mapapahalagahan ng mga tao ang iyong pagsisikap na umunawa at karaniwang babagalan nila ang kanilang pagsasalita.",
+    "examples": [
+      "对不起，能说慢一点吗？(Pasensya na, pwede bang magsalita ka nang mas mabagal?)",
+      "请说慢一点，我在学中文。(Pakiusap, magsalita ka nang mabagal, nag-aaral ako ng Chinese.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "Hindi ko maintindihan (ang naririnig ko)",
+    "context": "Partikular na nangangahulugang hindi mo maintindihan ang mga sinasalitang salita (kumpara sa 看不懂 para sa nakasulat na teksto). Napakakinabang para sa mga nag-aaral ng wika. Kadalasang nagtutulak sa mga tao na lumipat sa mas simpleng salita o gumamit ng mga senyas.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(Pasensya na, hindi ko maintindihan, pwede mo bang isulat?)",
+      "他说的方言我听不懂。(Hindi ko maintindihan ang diyalektong sinasalita niya.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "May nakakapagsalita ba ng Ingles?",
+    "context": "Huling paraan kapag tuluyang nabigo ang komunikasyon. Sa mga pangunahing lungsod at lugar ng turista, karaniwang may nakakapagsalita ng Ingles. Sa mas maliliit na lungsod, mas malamang na may alam ang mga nakababatang henerasyon.",
+    "examples": [
+      "请问，有人会说英文吗？(Excuse me, may nakakapagsalita ba ng Ingles?)",
+      "这里有会说英文的人吗？(Mayroon bang nakakapagsalita ng Ingles dito?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "Nasaan ang botika?",
+    "context": "Ang mga botika (药店/药房) ay karaniwan sa China at maraming gamot ang available nang walang reseta. Maaari mong ilarawan ang mga sintomas at madalas na magrerekomenda ang mga parmasyutiko ng gamot.",
+    "examples": [
+      "请问药店在哪？(Excuse me, nasaan ang botika?)",
+      "附近有药店吗？(May botika ba malapit dito?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "Pagod na pagod ako / Sobrang pagod",
+    "context": "Ang pattern na 死了 (sǐ le, \"hanggang kamatayan\") ay ginagamit bilang isang dramatikong intensifier. Ang 累死了 ay karaniwang ginagamit pagkatapos ng mahabang araw ng trabaho, pamamasyal, o ehersisyo.",
+    "examples": [
+      "今天走了两万步，累死了。(Naglakad ng 20,000 hakbang ngayon, sobrang pagod ako.)",
+      "加班到十二点，累死了。(Nag-overtime hanggang alas dose, pagod na pagod ako.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "Nakakainis / Sobrang frustrated ako",
+    "context": "Ginagamit upang ipahayag ang inis o pagkabigo. Isa pang 死了 intensifier pattern. Karaniwan kapag nakikitungo sa mga nakakainis na sitwasyon, tao, o burukrasya.",
+    "examples": [
+      "这个问题烦死了！(Nakakainis ang problemang ito!)",
+      "排队排了一小时，烦死了。(Pumila ng isang oras, sobrang frustrating.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "Kaya mo yan! / Sige lang! / Go!",
+    "context": "Literal na nangangahulugang \"magdagdag ng langis/gasolina.\" Isa sa mga pinaka-positibo at nakapagpapatibay na parirala sa Chinese. Ginagamit sa mga kaganapang pampalakasan, bago ang mga pagsusulit, sa mahihirap na panahon, o upang mag-udyok ng sinuman.",
+    "examples": [
+      "明天考试，加油！(Pagsusulit bukas, kaya mo yan!)",
+      "加油，我相信你！(Sige lang, naniniwala ako sa'yo!)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "Dahan-dahan lang / Walang madali / Unti-unti lang",
+    "context": "Isang nakakaaliw na parirala na nagpapabawas ng presyon. Ginagamit upang sabihin sa isang tao na walang pagmamadali. Nagpapakita ng isang matiyaga at maunawaing pag-uugali. Ginagamit din kapag natututo ng isang bagong bagay.",
+    "examples": [
+      "别着急，慢慢来。(Huwag mag-alala, dahan-dahan lang.)",
+      "学中文慢慢来，不要急。(Ang pag-aaral ng Chinese ay nangangailangan ng oras, huwag magmadali.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "Walang tayong magagawa / Walang paraan / Wala tayong magagawa",
+    "context": "Nagpapahayag ng kawalan ng kakayahan o pagtanggap sa isang hindi maiiwasang sitwasyon. Karaniwang ginagamit upang kilalanin na ang ilang mga bagay ay lampas sa iyong kontrol.",
+    "examples": [
+      "堵车了，没办法，只能等。(Trapik, walang tayong magagawa, kailangan lang maghintay.)",
+      "没办法，规定就是这样。(Wala tayong magagawa, ganyan ang patakaran.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "Sanay na ako / Nakasanayan ko na",
+    "context": "Ginagamit kapag ang isang bagay na mahirap o kakaiba noon ay naging normal na. Maaaring positibo (pag-aadjust sa bagong buhay) o pagtanggap (pagtanggap sa isang hindi kanais-nais na bagay).",
+    "examples": [
+      "这里天气很热，但我习惯了。(It's very hot here, but I'm used to it.) - Mainit dito, pero sanay na ako.",
+      "加班加习惯了。(I've gotten used to working overtime.) - Nakasanayan ko na ang mag-overtime."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "Anong gagawin ko/natin? / Paano na?",
+    "context": "Humihingi ng payo o nagpapahayag ng pagkatakot kapag nahaharap sa isang problema. Maaaring isang tunay na tanong o isang retorikal na pagpapahayag ng kawalan ng pag-asa.",
+    "examples": [
+      "手机没电了，怎么办？(Phone is dead, what do I do?) - Lowbat ang cellphone ko, anong gagawin ko?",
+      "飞机取消了，怎么办？(Flight cancelled, now what?) - Kinansela ang flight, paano na?"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "Tapos na! / Ayos na / Naayos ko na",
+    "context": "Isang kasiya-siyang parirala na gagamitin kapag natapos mo na ang isang gawain o nalutas ang isang problema. Nagpapakita ng kumpiyansa at kakayahan. Napaka-casual at masigla.",
+    "examples": [
+      "机票搞定了！(Flight tickets are booked!) - Naka-book na ang ticket!",
+      "别担心，我搞定了。(Don't worry, I've got it handled.) - Huwag kang mag-alala, ayos na sa akin."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "Wala nang oras / huli na / hindi na aabot",
+    "context": "Ginagamit kapag nauubusan ka ng oras o nakaligtaan ang isang deadline/oportunidad. Lumilikha ng pakiramdam ng pagkaapurado. Ang kabaligtaran ay 来得及 (lái de jí, may oras pa).",
+    "examples": [
+      "来不及了，快走！(No time, let's go!) - Wala nang oras, bilisan na natin!",
+      "现在去还来得及吗？——来不及了。(Is there still time to go now?——It's too late.) - May oras pa ba para pumunta ngayon? - Huli na."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "Naiinip / nakakainip",
+    "context": "Maaaring ilarawan ang iyong sariling estado (Naiinip ako) o isang bagay na nakakainip. Karaniwang ginagamit sa mga kabataan, lalo na sa social media o kapag nagte-text.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So bored, is there anything fun to do?) - Sobrang bored ako, may magandang gawin ba?",
+      "这个电影太无聊了。(This movie is so boring.) - Nakakainip ang pelikulang ito."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

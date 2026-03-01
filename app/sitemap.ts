@@ -2,6 +2,8 @@ import { MetadataRoute } from 'next';
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
 import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles';
+import { getAllSlangTerms } from '@/src/lib/slang';
+import { getAllPhrases } from '@/src/lib/phrases';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -92,7 +94,57 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages];
+    // Slang pages
+    const slangTerms = getAllSlangTerms();
+    const slangPages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/slang`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...slangTerms.map(term => ({
+        url: `${baseUrl}/slang/${term.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+    ];
+
+    // HSK pages
+    const hskPages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/hsk`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...['1', '2', '3', '4', '5', '6'].map(level => ({
+        url: `${baseUrl}/hsk/${level}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.85,
+      })),
+    ];
+
+    // Phrases pages
+    const phraseTerms = getAllPhrases();
+    const phrasePages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/phrases`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...phraseTerms.map(term => ({
+        url: `${baseUrl}/phrases/${term.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+    ];
+
+    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages];
   }
 
   // Sitemap 1: English listicles
@@ -162,6 +214,59 @@ export default async function sitemap(props: {
     }
   } catch {
     console.warn(`Could not generate blog sitemap entries for language: ${lang}`);
+  }
+
+  // Language slang pages
+  entries.push({
+    url: `${baseUrl}/${lang}/slang`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  const slangTerms = getAllSlangTerms();
+  for (const term of slangTerms) {
+    entries.push({
+      url: `${baseUrl}/${lang}/slang/${term.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    });
+  }
+
+  // Language HSK pages
+  entries.push({
+    url: `${baseUrl}/${lang}/hsk`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  for (const level of ['1', '2', '3', '4', '5', '6']) {
+    entries.push({
+      url: `${baseUrl}/${lang}/hsk/${level}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    });
+  }
+
+  // Language phrases pages
+  entries.push({
+    url: `${baseUrl}/${lang}/phrases`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  const phraseTerms = getAllPhrases();
+  for (const term of phraseTerms) {
+    entries.push({
+      url: `${baseUrl}/${lang}/phrases/${term.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    });
   }
 
   // Language listicle pages

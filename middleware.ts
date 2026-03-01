@@ -61,8 +61,10 @@ export const config = {
   matcher: [
     // Homepage (language detection)
     '/',
-    // Blog paths (dated URL redirects)
-    '/blog/:path*',
-    '/:lang/blog/:path*',
+    // Blog paths (dated URL redirects) - only match date-prefixed slugs
+    '/blog/2025-:path*',
+    '/blog/2026-:path*',
+    '/:lang/blog/2025-:path*',
+    '/:lang/blog/2026-:path*',
   ],
 };

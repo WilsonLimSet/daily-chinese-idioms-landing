@@ -1,5 +1,10 @@
 import { Analytics } from "@vercel/analytics/react";
+import { notFound } from "next/navigation";
 import "../globals.css";
+
+const SUPPORTED_LANGUAGES = new Set([
+  'es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'tl', 'ms', 'ru'
+]);
 
 export default async function LangLayout({
   children,
@@ -9,6 +14,10 @@ export default async function LangLayout({
   params: Promise<{ lang: string }>;
 }) {
   const { lang } = await params;
+
+  if (!SUPPORTED_LANGUAGES.has(lang)) {
+    notFound();
+  }
 
   return (
     <html lang={lang}>

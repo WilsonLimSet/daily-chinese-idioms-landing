@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "مرحباً",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "عبارة",
+    "hskLevel": 1,
+    "examples": [
+      "مرحباً، اسمي شياو مينغ. (你好，我叫小明。(Hello, my name is Xiao Ming.))"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "شكراً",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "شكراً لمساعدتك. (谢谢你的帮助。(Thank you for your help.))"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "وداعاً",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "عبارة",
+    "hskLevel": 1,
+    "examples": [
+      "أراك غداً، وداعاً! (明天见，再见！(See you tomorrow, goodbye!))"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "يكون / نعم",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "أنا طالب. (我是学生。(I am a student.))"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "لا",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 1,
+    "examples": [
+      "أنا لا أشرب القهوة. (我不喝咖啡。(I don't drink coffee.))"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "أنا / لي",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "أنا سعيد جداً. (我很高兴。(I am very happy.))"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "هو / له",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "هو صديقي. (他是我朋友。(He is my friend.))"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "هي / لها",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "هي جميلة جداً. (她很漂亮。(She is very beautiful.))"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "جيد / بخير",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "صفة",
+    "hskLevel": 1,
+    "examples": [
+      "الطقس جيد جداً اليوم. (今天天气很好。(The weather is great today.))"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "كبير",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "صفة",
+    "hskLevel": 1,
+    "examples": [
+      "هذه الغرفة كبيرة جداً. (这个房间很大。(This room is very big.))"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "صغير / قليل",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "صفة",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(لدي قطة صغيرة.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "يأكل",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(لنذهب لتناول الطعام.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "يشرب",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(ماذا تود أن تشرب؟)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "ينظر / يشاهد",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(لنشاهد فيلمًا.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "يستمع",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(أحب الاستماع إلى الموسيقى.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "يتكلم / يقول",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(هل تتحدث الصينية؟)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "يقرأ",
+    "originalMeaning": "To read",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(أنا أقرأ كل يوم.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "يكتب",
+    "originalMeaning": "To write",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(الرجاء كتابة اسمك.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "يدرس / يتعلم",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "فعل",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(أنا أدرس اللغة الصينية.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "صديق",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(هو صديقي الجيد.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "بيت / عائلة",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "مرحباً بك في بيتي. (欢迎来我家。(Welcome to my home.))"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "ماء",
+    "originalMeaning": "Water",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "من فضلك أعطني كوباً من الماء. (请给我一杯水。(Please give me a glass of water.))"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "مال",
+    "originalMeaning": "Money",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "كم سعر هذا؟ (这个多少钱？(How much is this?))"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "اليوم",
+    "originalMeaning": "Today",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "ما هو اليوم؟ (今天星期几？(What day is today?))"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "غداً",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "غداً نذهب إلى الحديقة. (明天我们去公园。(Tomorrow we go to the park.))"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "أمس",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "اسم",
+    "hskLevel": 1,
+    "examples": [
+      "أمس أمطرت. (昨天下雨了。(It rained yesterday.))"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "كم / كم عدد",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "كم عمرك؟ (你多少岁？(How old are you?))"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "ماذا",
+    "originalMeaning": "What",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "ما اسمك؟ (你叫什么名字？(What is your name?))"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "أين",
+    "originalMeaning": "Where",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "أين تسكن؟ (你住在哪里？(Where do you live?))"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "من",
+    "originalMeaning": "Who",
+    "partOfSpeech": "ضمير",
+    "hskLevel": 1,
+    "examples": [
+      "من هذا؟ (这是谁？(Who is this?))"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "لذا / لذلك",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(He's sick, so he didn't come.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "لكن / مع ذلك",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Expensive, but very delicious.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "بالفعل",
+    "originalMeaning": "Already",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(I have already eaten.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "يستطيع / يمكن",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(May I come in?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "سريع",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "صفة",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(You walk too fast.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "بطيء",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "صفة",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Please speak slower.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "مشغول",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "صفة",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(I've been busy recently.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "بعيد",
+    "originalMeaning": "Far",
+    "partOfSpeech": "صفة",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(The school is far from here.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "قريب",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "صفة",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(The supermarket is close to my home.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "يساعد",
+    "originalMeaning": "To help",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Thank you for helping me.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "ليجهز / يستعد",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "هل أنت مستعد؟ (你准备好了吗？(Are you ready?))"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "يبدأ / يباشر",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "بدأت المباراة. (比赛开始了。(The game has started.))"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "يعرف",
+    "originalMeaning": "To know",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "أنا لا أعرف. (我不知道。(I don't know.))"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "يعتقد / يشعر",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "ما رأيك؟ (你觉得怎么样？(What do you think?))"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "يأمل / أمل",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "فعل",
+    "hskLevel": 2,
+    "examples": [
+      "آمل أن يكون الطقس جيدًا غدًا. (我希望明天天气好。(I hope the weather is good tomorrow.))"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "بجانب / بجوار",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "البنك بجوار السوبر ماركت. (银行在超市旁边。(The bank is next to the supermarket.))"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "مطار",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "كم يستغرق الوصول إلى المطار؟ (去机场要多久？(How long does it take to get to the airport?))"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "مترو الانفاق",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "أنا أذهب إلى العمل بالمترو. (我坐地铁去上班。(I take the subway to work.))"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "هاتف محمول",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "بطارية هاتفي نفدت. (我的手机没电了。(My phone is out of battery.))"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "عيد ميلاد",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "عيد ميلاد سعيد! (生日快乐！(Happy birthday!))"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "الجسم / الصحة",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "اعتني بصحتك. (注意身体。(Take care of your health.))"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "عين/عيون",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "اسم",
+    "hskLevel": 2,
+    "examples": [
+      "عيناها جميلتان جداً. (她的眼睛很漂亮。(Her eyes are very beautiful.))"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "على الرغم من",
+    "originalMeaning": "Although",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 2,
+    "examples": [
+      "على الرغم من أنني متعب، إلا أنني سعيد جداً. (虽然很累，但我很开心。(Although tired, I'm very happy.))"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "أو / لا يزال",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 2,
+    "examples": [
+      "هل تشرب شاي أم قهوة؟ (你喝茶还是咖啡？(Do you drink tea or coffee?))"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "معاً",
+    "originalMeaning": "Together",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "لنذهب معاً. (我们一起去吧。(Let's go together.))"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "غالباً / بشكل متكرر",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "أنا أمارس الرياضة غالباً. (我经常运动。(I exercise often.))"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "جداً / للغاية",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "شكراً جزيلاً! (非常感谢！(Thank you very much!))"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "ربما / ممكن",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "ربما تمطر غداً. (明天可能下雨。(It might rain tomorrow.))"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "بالتأكيد / يجب",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 2,
+    "examples": [
+      "ستنجح بالتأكيد. (你一定会成功。(You will definitely succeed.))"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "بيئة",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "اسم",
+    "hskLevel": 3,
+    "examples": [
+      "يجب علينا حماية البيئة. (我们要保护环境。(We must protect the environment.))"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "خبرة",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "اسم",
+    "hskLevel": 3,
+    "examples": [
+      "هل لديك خبرة في العمل؟ (你有工作经验吗？(Do you have work experience?))"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "فرصة",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "اسم",
+    "hskLevel": 3,
+    "examples": [
+      "هذه فرصة جيدة. (这是一个好机会。(This is a good opportunity.))"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "يختار / اختيار",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "أي واحد تختار؟ (你选择哪个？(Which one do you choose?))"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "يقرر / قرار",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "قررت الذهاب إلى الصين. (我决定去中国。(I decided to go to China.))"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "يؤثر / تأثير",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "الطقس أثر على مزاجي. (天气影响了我的心情。(The weather influenced my mood.))"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "نسبيا / يقارن",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 3,
+    "examples": [
+      "الجو بارد نسبيا اليوم. (今天比较冷。(It's relatively cold today.))"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "خاصة / خاص",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 3,
+    "examples": [
+      "هذا الطبق لذيذ بشكل خاص. (这道菜特别好吃。(This dish is especially delicious.))"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "في الواقع / في الحقيقة",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 3,
+    "examples": [
+      "في الواقع، أنا أيضاً لا أعرف. (其实我也不知道。(Actually, I don't know either.))"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "أخيرا",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 3,
+    "examples": [
+      "وجدتها أخيراً! (我终于找到了！(I finally found it!))"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "شعور / يشعر",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "اسم",
+    "hskLevel": 3,
+    "examples": [
+      "أشعر أنني لست على ما يرام. (我感觉不太舒服。(I feel a bit unwell.))"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "أن يحل / أن يحل مشكلة",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "المشكلة حُلَّت. (问题解决了。(The problem is solved.))"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "أن يناقش",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "دعونا نناقش هذه القضية. (我们来讨论这个问题。(Let's discuss this issue.))"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "أن يتدرب / تمرين",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "المزيد من التدريب يؤدي إلى التحسن. (多练习就会进步。(More practice leads to improvement.))"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "أن يحسن / أن يرفع",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "أريد أن أحسن مستواي في اللغة الصينية. (我要提高中文水平。(I want to improve my Chinese level.))"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "أن يقبل",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "أنا أقبل اقتراحك. (我接受你的建议。(I accept your suggestion.))"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "أن يشارك / أن ينضم",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "هل ستشارك في المسابقة؟ (你要参加比赛吗？(Are you going to join the competition?))"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "أن يفهم / أن يعرف عن",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "أريد أن أتعرف على الثقافة الصينية. (我想了解中国文化。(I want to learn about Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "أن ينتبه / كن حذرا",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "الرجاء الانتباه للسلامة. (请注意安全。(Please pay attention to safety.))"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "أن يخطط / أن ينوي",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "متى تخطط للذهاب؟ (你打算什么时候去？(When do you plan to go?))"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "وفقا لـ / بناء على",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "حرف جر",
+    "hskLevel": 3,
+    "examples": [
+      "وفقا لتوقعات الطقس، ستمطر غدا. (根据天气预报，明天会下雨。(According to the forecast, it will rain tomorrow.))"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "أو (في العبارات)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 3,
+    "examples": [
+      "يمكنك ركوب الحافلة أو المترو. (你可以坐公交或者地铁。(You can take the bus or the subway.))"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "طالما",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 3,
+    "examples": [
+      "طالما أنك تعمل بجد، فسوف تنجح. (只要努力就会成功。(As long as you work hard, you will succeed.))"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "بغض النظر عن / مهما",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 3,
+    "examples": [
+      "مهما حدث، أنا أدعمك. (无论如何我都支持你。(No matter what, I support you.))"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "موقف / سلوك",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "اسم",
+    "hskLevel": 3,
+    "examples": [
+      "الموقف يحدد كل شيء. (态度决定一切。(Attitude determines everything.))"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "يحتاج / احتياجات",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "أنا بحاجة إلى مساعدتك. (我需要你的帮助。(I need your help.))"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "ينبغي / يجب",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "فعل",
+    "hskLevel": 3,
+    "examples": [
+      "يجب أن ترتاح أكثر. (你应该多休息。(You should rest more.))"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "راض",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "صفة",
+    "hskLevel": 3,
+    "examples": [
+      "أنا راض جدا عن النتيجة. (我对结果很满意。(I'm very satisfied with the result.))"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "عادي / شائع",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "صفة",
+    "hskLevel": 3,
+    "examples": [
+      "أنا شخص عادي. (我是一个普通人。(I'm an ordinary person.))"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "يقترح / اقتراح",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "أقترح عليك ممارسة المزيد من الرياضة. (我建议你多运动。(I suggest you exercise more.))"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "يعبر عن",
+    "originalMeaning": "To express",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "أنا لا أعرف كيف أعبر عن ذلك. (我不知道怎么表达。(I don't know how to express it.))"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "للتواصل / تبادل",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "نحن بحاجة إلى التواصل أكثر. (我们需要多交流。(We need to communicate more.))"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "يثبت / إثبات",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "الحقائق أثبتت أنه كان على حق. (事实证明他是对的。(Facts proved he was right.))"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "غني / وفير",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "الثقافة الصينية غنية جدا. (中国文化非常丰富。(Chinese culture is very rich.))"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "معقد / صعب",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "هذه المشكلة معقدة جدا. (这个问题很复杂。(This problem is very complex.))"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "فخور / فخر",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "أنا فخور بك. (我为你感到骄傲。(I'm proud of you.))"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "نشيط / إيجابي",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "يجب الحفاظ على موقف إيجابي. (要保持积极的态度。(Keep a positive attitude.))"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "صعوبة / صعب",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "لا تخف من الصعوبات. (别怕困难。(Don't be afraid of difficulties.))"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "لطيف / حنون",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "إنها لطيفة جدا. (她很温柔。(She is very gentle.))"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "صادق",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "يجب أن يكون المرء صادقا. (做人要诚实。(One should be honest.))"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "أن يتأثر / مؤثر",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "هذه القصة مؤثرة جدا. (这个故事很感动。(This story is very touching.))"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "سوء فهم",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "اسم",
+    "hskLevel": 4,
+    "examples": [
+      "هذا سوء فهم. (这是一个误会。(This is a misunderstanding.))"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "تأثير / نتيجة",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "اسم",
+    "hskLevel": 4,
+    "examples": [
+      "التأثير جيد جداً. (效果很好。(The effect is very good.))"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "حتى لو",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 4,
+    "examples": [
+      "حتى لو فشلت، لن أستسلم. (即使失败也不放弃。(Even if I fail, I won't give up.))"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "وإلا",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 4,
+    "examples": [
+      "أسرع، وإلا سنتأخر. (快点，否则会迟到。(Hurry up, otherwise we'll be late.))"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "بما أن / الآن بعد أن",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 4,
+    "examples": [
+      "بما أنك هنا، ابقَ. (既然来了，就留下吧。(Since you're here, stay.))"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "على الرغم من / مع أن",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 4,
+    "examples": [
+      "على الرغم من الصعوبة، سأحاول. (尽管很难，我也要试。(Despite the difficulty, I'll try.))"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "أصلاً / إذن هكذا الأمر",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 4,
+    "examples": [
+      "إذن أنت! (原来是你！(So it was you!))"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "بشكل غير متوقع / لدهشة المرء",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 4,
+    "examples": [
+      "إنه يتحدث الصينية، ويا للعجب! (他竟然会说中文！(He can speak Chinese, surprisingly!))"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "تدريجياً",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 4,
+    "examples": [
+      "الطقس يزداد دفئاً تدريجياً. (天气逐渐变暖了。(The weather is gradually getting warmer.))"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "سعيد / مبارك",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "أتمنى لك السعادة! (祝你幸福！(Wishing you happiness!))"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "شجاع / جريء",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "يجب أن تواجه الأمر بشجاعة. (你要勇敢面对。(You must bravely face it.))"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "يحترم / احترام",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "فعل",
+    "hskLevel": 4,
+    "examples": [
+      "احترم الآخرين. (要尊重别人。(Respect others.))"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "مسؤولية",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "اسم",
+    "hskLevel": 4,
+    "examples": [
+      "هذه مسؤوليتي. (这是我的责任。(This is my responsibility.))"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "اقتصاد / اقتصادي",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "اسم",
+    "hskLevel": 4,
+    "examples": [
+      "الاقتصاد الصيني يتطور بسرعة. (中国经济发展很快。(China's economy is developing rapidly.))"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "تقليد / تقليدي",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "اسم",
+    "hskLevel": 4,
+    "examples": [
+      "هذه هي الثقافة الصينية التقليدية. (这是中国的传统文化。(This is traditional Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "مؤقتا",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 4,
+    "examples": [
+      "ليس لدي خطط مؤقتًا. (我暂时没有计划。(I don't have plans temporarily.))"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "بشكل كامل / وافر",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "صفة",
+    "hskLevel": 4,
+    "examples": [
+      "كن مستعدًا تمامًا. (做好充分的准备。(Be fully prepared.))"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "يتواصل",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "التواصل الفعال مهم جدا. (有效沟通很重要。(Effective communication is important.))"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "ينسق",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "سأقوم بتنسيق جميع الجوانب. (我来协调各方面。(I'll coordinate all aspects.))"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "مساهمة / يساهم",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "لقد قدم مساهمة كبيرة. (他做出了巨大贡献。(He made a huge contribution.))"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "جودة / كفاءة (شخص)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Improving personal quality is important.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "يعوض / يجبر",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Make up for mistakes with actions.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "فريد / مميز",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "صفة",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(This place is very unique.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "بشكل واضح / من البديهي",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Obviously what he said is wrong.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "عميق / بالغ الأثر",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "صفة",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(This book has profound meaning.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "متكرر",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "صفة",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(Overtime has been too frequent recently.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "يتحمل / يتعهد",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(I'm willing to bear the responsibility.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "يحافظ على / يبقي",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Stay calm.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "يعزز / يسهل",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(Exercise promotes health.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "يعكس / يبلغ",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(This reflects social issues.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "في الوقت الحاضر / حاليا",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 5,
+    "examples": [
+      "الوضع الحالي ليس سيئا. (目前情况还不错。(The current situation is not bad.))"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "معقول / منطقي",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "صفة",
+    "hskLevel": 5,
+    "examples": [
+      "هذا السعر معقول جدا. (这个价格很合理。(This price is very reasonable.))"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "مرن / رشيق",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "صفة",
+    "hskLevel": 5,
+    "examples": [
+      "ساعات العمل مرنة نسبيا. (工作时间比较灵活。(Working hours are relatively flexible.))"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "جوهر / طبيعة",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "ما هو جوهر المشكلة؟ (问题的本质是什么？(What is the essence of the problem?))"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "اتجاه / نزعة",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "هذا هو اتجاه المستقبل. (这是未来的趋势。(This is the trend of the future.))"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "مجال / نطاق",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "إنه مشهور في مجال التكنولوجيا. (他在科技领域很有名。(He is famous in the technology field.))"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "يمتلك / لديه",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "إنه يمتلك قدرة قيادية. (他具备领导能力。(He possesses leadership ability.))"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "يتغلب على",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "تغلب على الصعوبات واستمر في المضي قدما. (克服困难，继续前进。(Overcome difficulties and keep going.))"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "يتعافى / يستعيد",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "لقد استعاد صحته بالفعل. (他已经恢复健康了。(He has recovered his health.))"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "يتشكل / يأخذ شكل",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "فعل",
+    "hskLevel": 5,
+    "examples": [
+      "تشكلت عادة تدريجيا. (慢慢形成了习惯。(Gradually formed a habit.))"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "ممارسة / يمارس",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "يجب أن يقترن التنظير بالممارسة. (Theory should combine with practice.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "حجم / نطاق",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "اسم",
+    "hskLevel": 5,
+    "examples": [
+      "حجم الشركة يزداد. (The company's scale is growing.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "حتمي / بالتأكيد",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 5,
+    "examples": [
+      "العمل الجاد يؤتي ثماره حتما. (Hard work inevitably pays off.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "تقريبا / على الأرجح",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 5,
+    "examples": [
+      "يستغرق الأمر ساعتين تقريبا. (It takes roughly two hours.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "وبالتالي / وهكذا",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 5,
+    "examples": [
+      "ادرس بجد ، وبالتالي حقق درجات جيدة. (Study hard, thereby achieving good grades.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "ناهيك عن / فضلا عن",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "حرف عطف",
+    "hskLevel": 5,
+    "examples": [
+      "الكبار لا يستطيعون فعل ذلك ، ناهيك عن الأطفال. (Adults can't do it, let alone children.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "ضمني / متحفظ",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "يعبر الصينيون عن مشاعرهم بطريقة متحفظة. (Chinese people express feelings in a reserved way.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "غريب / غير مألوف",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "أنا غير مألوف جدا هنا. (I'm very unfamiliar with this place.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "دقيق / حساس",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "العلاقة بينهما دقيقة للغاية. (The relationship between them is subtle.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "واسع المعرفة / عميق (المعرفة)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "معرفته واسعة جدا. (His knowledge is very profound.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "يتطلع إلى / شوق",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(هي مليئة بالشوق للمستقبل.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "يتأمل / يحاول أن يفهم",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(أحاول أن أفهم ما يعنيه.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "ينتشي (بالفرح)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(كانت منتشية بالموسيقى.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "يفهم / يستوعب",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(أخيرًا استوعبت هذه الحقيقة.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "يدرس بشكل مكثف / يتعمق في",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(درسها بشكل مكثف لسنوات عديدة.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "تبصر / يرى من خلال",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(لديه تبصر عميق في الطبيعة البشرية.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "يروج / يحمل إلى الأمام",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(الترويج للثقافة التقليدية.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "إشارة كلاسيكية / حكاية تاريخية",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(كل مصطلح له إشارة كلاسيكية وراءه.)"
+    ],
+    "notes": "يشيع استخدامه عند مناقشة أصل التعابير الصينية."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "دلالة / معنى داخلي",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(هذه القصيدة لها دلالات غنية.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "تهذيب / إنجاز",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(تحسين التهذيب الثقافي.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "تراث ثقافي / عمق داخلي",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(This city has deep cultural heritage.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "نمط / تخطيط / رؤية",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(One should have a big-picture vision.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "عالم / مستوى التحقيق",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(This is the highest realm of life.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "جوهر / خلاصة",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Learned the essence of Chinese culture.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "أصل / اتصال عميق الجذور",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(The two countries have deep historical connections.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "استعارة",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "اسم",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Idioms often use metaphorical techniques.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "واسع وعميق",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Chinese culture is broad and profound.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "لإتقان شامل من خلال الفهم",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Learning should involve thorough understanding.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "له تاريخ طويل",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Chinese culture has a long history.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "يثير التفكير / يستحق التأمل",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "صفة",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(This story is thought-provoking.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "للتأثير بخفاء / تأثير غير محسوس",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(الثقافة تؤثر على الناس بخفاء.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "يزداد يومًا بعد يوم",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(عدد الأشخاص الذين يتعلمون اللغة الصينية يزداد يومًا بعد يوم.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "الاستدلال بأشياء كثيرة من حالة واحدة",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(عند التعلم، يجب على المرء أن يستدل بأشياء كثيرة من حالة واحدة.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "خطوة بخطوة / التقدم بالترتيب",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "ظرف",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(يجب أن يتقدم تعلم اللغة خطوة بخطوة.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "أن يتميز / أسلوب فريد",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "فعل",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(أسلوبه في الكتابة فريد حقًا.)"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  }
+]

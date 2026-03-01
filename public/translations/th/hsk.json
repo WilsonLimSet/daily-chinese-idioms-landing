@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "สวัสดี",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "วลี",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(สวัสดี ฉันชื่อเสี่ยวหมิง)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "ขอบคุณ",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(ขอบคุณสำหรับความช่วยเหลือของคุณ)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "ลาก่อน",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "วลี",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(เจอกันพรุ่งนี้ ลาก่อน!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "เป็น / ใช่",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(ฉันเป็นนักเรียน)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "ไม่",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "กริยาวิเศษณ์",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(ฉันไม่ดื่มกาแฟ)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "ฉัน / ผม / ดิฉัน",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(ฉัน/ผม/ดิฉันมีความสุขมาก)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "เขา",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(เขาเป็นเพื่อนของฉัน)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "เธอ / หล่อน",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(เธอสวยมาก)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "ดี",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(วันนี้อากาศดีมาก)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "ใหญ่",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(ห้องนี้ใหญ่มาก)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "เล็ก / น้อย",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(I have a small cat.) -> ฉันมีแมวตัวเล็กหนึ่งตัว"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "กิน",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Let's go eat.) -> พวกเราไปกินข้าวกันเถอะ"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "ดื่ม",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(What would you like to drink?) -> คุณอยากดื่มอะไร"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "ดู / มอง",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Let's watch a movie.) -> พวกเราไปดูหนังกันเถอะ"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "ฟัง",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(I like listening to music.) -> ฉันชอบฟังเพลง"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "พูด / บอก",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Can you speak Chinese?) -> คุณพูดภาษาจีนได้ไหม"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "อ่าน",
+    "originalMeaning": "To read",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(I read every day.) -> ฉันอ่านหนังสือทุกวัน"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "เขียน",
+    "originalMeaning": "To write",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Please write your name.) -> กรุณาเขียนชื่อของคุณ"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "เรียน / ศึกษา",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(I am studying Chinese.) -> ฉันกำลังเรียนภาษาจีน"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "เพื่อน",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(He is my good friend.) -> เขาเป็นเพื่อนที่ดีของฉัน"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "บ้าน / ครอบครัว",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(ยินดีต้อนรับสู่บ้านของฉัน)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "น้ำ",
+    "originalMeaning": "Water",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(ขอน้ำให้ฉันแก้วหนึ่ง)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "เงิน",
+    "originalMeaning": "Money",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(อันนี้ราคาเท่าไหร่)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "วันนี้",
+    "originalMeaning": "Today",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(วันนี้วันอะไร)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "พรุ่งนี้",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(พรุ่งนี้เราไปสวนสาธารณะ)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "เมื่อวาน",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(เมื่อวานฝนตก)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "เท่าไหร่ / จำนวนเท่าไหร่",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(คุณอายุเท่าไหร่)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "อะไร",
+    "originalMeaning": "What",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(คุณชื่ออะไร)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "ที่ไหน",
+    "originalMeaning": "Where",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(คุณอาศัยอยู่ที่ไหน)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "ใคร",
+    "originalMeaning": "Who",
+    "partOfSpeech": "คำสรรพนาม",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(นี่คือใคร)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "ดังนั้น / เพราะฉะนั้น",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "สันธาน",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(เขาป่วย ดังนั้นเขาจึงไม่ได้มา)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "แต่ / อย่างไรก็ตาม",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "สันธาน",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(แพง แต่ก็อร่อยมาก)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "แล้ว / เรียบร้อยแล้ว",
+    "originalMeaning": "Already",
+    "partOfSpeech": "กริยาวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(ฉันกินแล้ว)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "สามารถ / ได้",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(ฉันเข้าไปได้ไหม)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "เร็ว",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(คุณเดินเร็วเกินไป)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "ช้า",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(กรุณาพูดช้าๆ หน่อย)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "ยุ่ง",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(ช่วงนี้ฉันยุ่งมาก)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "ไกล",
+    "originalMeaning": "Far",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(โรงเรียนอยู่ไกลจากที่นี่)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "ใกล้",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(ซูเปอร์มาร์เก็ตอยู่ใกล้บ้านฉันมาก)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "ช่วยเหลือ",
+    "originalMeaning": "To help",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(ขอบคุณที่ช่วยเหลือฉัน)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "เตรียม",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Are you ready?) -> คุณเตรียมพร้อมหรือยัง"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "เริ่มต้น / เริ่ม",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(The game has started.) -> การแข่งขันเริ่มต้นแล้ว"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "รู้",
+    "originalMeaning": "To know",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(I don't know.) -> ฉันไม่รู้"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "คิด / รู้สึก",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(What do you think?) -> คุณคิดว่าอย่างไร"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "หวัง / ความหวัง",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(I hope the weather is good tomorrow.) -> ฉันหวังว่าพรุ่งนี้อากาศจะดี"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "ข้างๆ / ถัดจาก",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(The bank is next to the supermarket.) -> ธนาคารอยู่ข้างๆซุปเปอร์มาร์เก็ต"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "สนามบิน",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(How long does it take to get to the airport?) -> ไปสนามบินใช้เวลานานเท่าไหร่"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "รถไฟใต้ดิน",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(I take the subway to work.) -> ฉันนั่งรถไฟใต้ดินไปทำงาน"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "โทรศัพท์มือถือ",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(My phone is out of battery.) -> โทรศัพท์ของฉันแบตหมดแล้ว"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "วันเกิด",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(Happy birthday!) -> สุขสันต์วันเกิด!"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "ร่างกาย / สุขภาพ",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(ดูแลสุขภาพด้วย)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "ตา",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(ดวงตาของเธอสวยมาก)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "ถึงแม้ว่า",
+    "originalMeaning": "Although",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(ถึงแม้จะเหนื่อย แต่ฉันก็มีความสุขมาก)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "หรือ / ยังคง",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(คุณจะดื่มชาหรือกาแฟ)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "ด้วยกัน",
+    "originalMeaning": "Together",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(พวกเราไปด้วยกันเถอะ)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "บ่อยๆ / เป็นประจำ",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(ฉันออกกำลังกายบ่อยๆ)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "มาก / อย่างยิ่ง",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(ขอบคุณมาก! / ขอบคุณอย่างยิ่ง!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "อาจจะ / เป็นไปได้",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(พรุ่งนี้ฝนอาจจะตก)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "แน่นอน / ต้อง",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(คุณจะต้องประสบความสำเร็จอย่างแน่นอน)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "สิ่งแวดล้อม",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(พวกเราต้องปกป้องสิ่งแวดล้อม)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "ประสบการณ์",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(Do you have work experience?) -> คุณมีประสบการณ์ทำงานไหม?"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "โอกาส",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(This is a good opportunity.) -> นี่เป็นโอกาสที่ดี"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "เลือก / การเลือก",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(Which one do you choose?) -> คุณเลือกอันไหน?"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "ตัดสินใจ / การตัดสินใจ",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(I decided to go to China.) -> ฉันตัดสินใจไปประเทศจีน"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "มีอิทธิพล / อิทธิพล",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(The weather influenced my mood.) -> สภาพอากาศมีอิทธิพลต่ออารมณ์ของฉัน"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "ค่อนข้าง / เปรียบเทียบ",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(It's relatively cold today.) -> วันนี้ค่อนข้างหนาว"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "โดยเฉพาะ / พิเศษ",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(This dish is especially delicious.) -> อาหารจานนี้อร่อยเป็นพิเศษ"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "ที่จริงแล้ว / อันที่จริง",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(Actually, I don't know either.) -> ที่จริงแล้วฉันก็ไม่รู้เหมือนกัน"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "ในที่สุด / ในที่สุด",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(I finally found it!) -> ในที่สุดฉันก็เจอแล้ว!"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "ความรู้สึก / รู้สึก",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(I feel a bit unwell.) -> ฉันรู้สึกไม่ค่อยสบาย"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "แก้ปัญหา / คลี่คลาย",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(The problem is solved.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "อภิปราย / ถกเถียง",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Let's discuss this issue.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "ฝึกฝน / แบบฝึกหัด",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(More practice leads to improvement.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "พัฒนา / ยกขึ้น",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(I want to improve my Chinese level.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "ยอมรับ",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(I accept your suggestion.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "เข้าร่วม",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Are you going to join the competition?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "เข้าใจ / รู้จัก",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(I want to learn about Chinese culture.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "ระมัดระวัง / ใส่ใจ",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Please pay attention to safety.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "วางแผน / ตั้งใจ",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(When do you plan to go?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "ตามที่ / อ้างอิงจาก",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "คำบุพบท",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(According to the forecast, it will rain tomorrow.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "หรือ (ในประโยค)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "สันธาน",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(You can take the bus or the subway.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "ตราบใดที่",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "สันธาน",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(As long as you work hard, you will succeed.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "ไม่ว่า / โดยไม่คำนึงถึง",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "สันธาน",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(No matter what, I support you.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "ทัศนคติ",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(Attitude determines everything.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "ต้องการ / ความต้องการ",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(I need your help.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "ควร / พึงจะ",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(You should rest more.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "พอใจ",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(I'm very satisfied with the result.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "ธรรมดา / ทั่วไป",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(I'm an ordinary person.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "แนะนำ / ข้อเสนอแนะ",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(I suggest you exercise more.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "แสดงออก",
+    "originalMeaning": "To express",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(I don't know how to express it.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "สื่อสาร / แลกเปลี่ยน",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(เราต้องสื่อสารกันให้มากขึ้น)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "พิสูจน์ / หลักฐาน",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(ข้อเท็จจริงพิสูจน์ว่าเขาถูก)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "รวย / อุดมสมบูรณ์",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(วัฒนธรรมจีนอุดมสมบูรณ์มาก)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "ซับซ้อน / ยุ่งยาก",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(ปัญหานี้ซับซ้อนมาก)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "ภูมิใจ / ความภาคภูมิใจ",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(ฉันภูมิใจในตัวคุณ)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "กระตือรือร้น / เชิงบวก",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(รักษามุมมองที่เป็นบวกไว้)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "ความยากลำบาก / ยาก",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(อย่ากลัวความยากลำบาก)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "อ่อนโยน",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(เธออ่อนโยนมาก)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "ซื่อสัตย์",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "คุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(คนเราต้องซื่อสัตย์)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "ซาบซึ้ง / ซึ่งกินใจ",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(เรื่องนี้กินใจมาก)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "ความเข้าใจผิด",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 4,
+    "examples": [
+      "นี่คือความเข้าใจผิด (This is a misunderstanding.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "ผล / ผลลัพธ์",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 4,
+    "examples": [
+      "ผลดีมาก (The effect is very good.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "ถึงแม้ว่า",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 4,
+    "examples": [
+      "ถึงแม้จะล้มเหลวก็ไม่ยอมแพ้ (Even if I fail, I won't give up.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "มิฉะนั้น / ไม่เช่นนั้น",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 4,
+    "examples": [
+      "รีบหน่อย มิฉะนั้นจะสาย (Hurry up, otherwise we'll be late.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "ในเมื่อ / เมื่อเป็นเช่นนี้",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 4,
+    "examples": [
+      "ในเมื่อมาแล้ว ก็อยู่ต่อเถอะ (Since you're here, stay.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "ถึงแม้ว่า / แม้ว่า",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 4,
+    "examples": [
+      "ถึงแม้จะยาก ฉันก็จะลอง (Despite the difficulty, I'll try.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "แต่เดิม / ที่แท้ก็",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 4,
+    "examples": [
+      "ที่แท้ก็เธอเอง! (So it was you!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "อย่างไม่คาดคิด / น่าประหลาดใจ",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 4,
+    "examples": [
+      "เขาพูดภาษาจีนได้ด้วย น่าประหลาดใจ! (He can speak Chinese, surprisingly!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "ค่อยๆ / ทีละน้อย",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 4,
+    "examples": [
+      "อากาศค่อยๆ อุ่นขึ้น (The weather is gradually getting warmer.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "มีความสุข / เป็นสุข",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "ขอให้มีความสุข! (Wishing you happiness!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "กล้าหาญ",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "คุณต้องเผชิญหน้าอย่างกล้าหาญ (你要勇敢面对。(You must bravely face it.))"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "เคารพ / ความเคารพ",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 4,
+    "examples": [
+      "ต้องเคารพผู้อื่น (要尊重别人。(Respect others.))"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "ความรับผิดชอบ",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 4,
+    "examples": [
+      "นี่คือความรับผิดชอบของฉัน (这是我的责任。(This is my responsibility.))"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "เศรษฐกิจ",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 4,
+    "examples": [
+      "เศรษฐกิจของจีนพัฒนาอย่างรวดเร็ว (中国经济发展很快。(China's economy is developing rapidly.))"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "ประเพณี / แบบดั้งเดิม",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 4,
+    "examples": [
+      "นี่คือวัฒนธรรมดั้งเดิมของจีน (这是中国的传统文化。(This is traditional Chinese culture.))"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "ชั่วคราว",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 4,
+    "examples": [
+      "ฉันยังไม่มีแผนชั่วคราว (我暂时没有计划。(I don't have plans temporarily.))"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "อย่างเต็มที่ / เพียงพอ",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 4,
+    "examples": [
+      "เตรียมตัวให้พร้อมอย่างเต็มที่ (做好充分的准备。(Be fully prepared.))"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "สื่อสาร",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "การสื่อสารที่มีประสิทธิภาพเป็นสิ่งสำคัญมาก (有效沟通很重要。(Effective communication is important.))"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "ประสานงาน",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "ฉันจะประสานงานทุกด้าน (我来协调各方面。(I'll coordinate all aspects.))"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "การมีส่วนร่วม / มีส่วนร่วม",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "เขามีส่วนร่วมอย่างมาก (他做出了巨大贡献。(He made a huge contribution.))"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "คุณภาพ / คุณสมบัติ (ของบุคคล)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "การพัฒนาคุณภาพส่วนบุคคลเป็นสิ่งสำคัญมาก (提高个人素质很重要。(Improving personal quality is important.))"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "ชดเชย / ทดแทน",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "ชดเชยความผิดพลาดด้วยการกระทำ (用行动弥补过错。(Make up for mistakes with actions.))"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "เป็นเอกลักษณ์ / โดดเด่น",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 5,
+    "examples": [
+      "สถานที่แห่งนี้มีเอกลักษณ์มาก (这个地方很独特。(This place is very unique.))"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "อย่างเห็นได้ชัด / อย่างชัดเจน",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 5,
+    "examples": [
+      "เห็นได้ชัดว่าสิ่งที่เขาพูดไม่ถูกต้อง (显然他说的不对。(Obviously what he said is wrong.))"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "ลึกซึ้ง / ลึก",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 5,
+    "examples": [
+      "หนังสือเล่มนี้มีความหมายลึกซึ้ง (这本书意义深刻。(This book has profound meaning.))"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "บ่อย",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 5,
+    "examples": [
+      "ช่วงนี้ทำงานล่วงเวลาบ่อยเกินไป (最近加班太频繁了。(Overtime has been too frequent recently.))"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "รับ / แบกรับ",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "ฉันยินดีที่จะรับผิดชอบ (我愿意承担责任。(I'm willing to bear the responsibility.))"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "รักษา / คงไว้",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "ใจเย็นไว้ (保持冷静。(Stay calm.))"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "ส่งเสริม / สนับสนุน",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "การออกกำลังกายส่งเสริมสุขภาพ (运动促进健康。(Exercise promotes health.))"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "สะท้อน / รายงาน",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "สิ่งนี้สะท้อนให้เห็นถึงปัญหาสังคม (这反映了社会问题。(This reflects social issues.))"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "ในปัจจุบัน / ขณะนี้",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "กริยาวิเศษณ์",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(สถานการณ์ปัจจุบันยังไม่เลวร้าย)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "สมเหตุสมผล / มีเหตุผล",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(ราคานี้สมเหตุสมผลมาก)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "ยืดหยุ่น / คล่องตัว",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(เวลาทำงานค่อนข้างยืดหยุ่น)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "แก่นแท้ / ธรรมชาติ",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(แก่นแท้ของปัญหาคืออะไร)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "แนวโน้ม / ทิศทาง",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(นี่คือแนวโน้มของอนาคต)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "สาขา / ขอบเขต",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(เขามีชื่อเสียงในสาขาเทคโนโลยี)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "มี / ครอบครอง",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(เขามีความสามารถในการเป็นผู้นำ)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "เอาชนะ",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(เอาชนะความยากลำบากและก้าวต่อไป)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "ฟื้นตัว / กลับคืน",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(เขาสุขภาพแข็งแรงเป็นปกติแล้ว)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "ก่อตัว / ก่อร่างสร้างตัว",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(ค่อยๆ ก่อตัวเป็นนิสัย)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "การปฏิบัติ / นำไปปฏิบัติ",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(ทฤษฎีควรผสมผสานกับการปฏิบัติ)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "ขนาด / ขอบเขต",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(ขนาดของบริษัทกำลังเติบโตขึ้นเรื่อยๆ)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "อย่างหลีกเลี่ยงไม่ได้ / อย่างแน่นอน",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(ความพยายามย่อมมีผลตอบแทนอย่างแน่นอน)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "โดยประมาณ / อาจจะ",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "คำวิเศษณ์",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(ใช้เวลาประมาณสองชั่วโมง)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "ด้วยเหตุนี้ / ดังนั้น",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(ตั้งใจเรียน จึงได้ผลการเรียนที่ดี)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "ไม่ต้องพูดถึง / นับประสาอะไรกับ",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "คำสันธาน",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(ผู้ใหญ่ยังทำไม่ได้ นับประสาอะไรกับเด็ก)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "โดยนัย / สงวนท่าที",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(คนจีนแสดงความรู้สึกค่อนข้างสงวนท่าที)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "แปลก / ไม่คุ้นเคย",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(ฉันไม่คุ้นเคยกับที่นี่มาก)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "ละเอียดอ่อน / บอบบาง",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(ความสัมพันธ์ของคนสองคนนั้นละเอียดอ่อนมาก)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "รอบรู้ / ลึกซึ้ง (ความรู้)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(ความรู้ของเขานั้นลึกซึ้งมาก)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "ตั้งตารอ / ปรารถนา",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(เธอเต็มไปด้วยความปรารถนาสำหรับอนาคต)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "ไตร่ตรอง / พยายามทำความเข้าใจ",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(ฉันกำลังพยายามทำความเข้าใจความหมายของเขา)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "ดื่มด่ำ (ด้วยความสุข)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(เธอเคลิบเคลิ้มไปกับเสียงเพลง)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "เข้าใจ / เข้าใจอย่างถ่องแท้",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(ในที่สุดฉันก็เข้าใจความจริงข้อนี้)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "ศึกษาอย่างเข้มข้น / เจาะลึก",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(เขาศึกษาอย่างเข้มข้นมาหลายปี)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "ญาณทัสนะ / มองทะลุ",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(เขามีญาณทัสนะที่ลึกซึ้งเกี่ยวกับธรรมชาติของมนุษย์)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "ส่งเสริม / สืบสาน",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(ส่งเสริมวัฒนธรรมดั้งเดิม)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "อ้างอิงจากเรื่องราวในอดีต / เกร็ดประวัติศาสตร์",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(สำนวนทุกสำนวนมีอ้างอิงจากเรื่องราวในอดีตอยู่เบื้องหลัง)"
+    ],
+    "notes": "Commonly used when discussing the origin of Chinese idioms."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "ความหมายโดยนัย / ความหมายภายใน",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(บทกวีนี้มีความหมายโดยนัยที่หลากหลาย)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "การอบรมบ่มนิสัย / ความสำเร็จ",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(พัฒนาการอบรมบ่มนิสัยทางวัฒนธรรม)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "มรดกทางวัฒนธรรม / ความลึกซึ้งภายใน",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(This city has deep cultural heritage.) → เมืองนี้มีมรดกทางวัฒนธรรมที่ลึกซึ้ง"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "รูปแบบ / โครงสร้าง / วิสัยทัศน์",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(One should have a big-picture vision.) → ควรมีวิสัยทัศน์ที่กว้างไกล"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "ขอบเขต / ระดับของการบรรลุ",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(This is the highest realm of life.) → นี่คือขอบเขตสูงสุดของชีวิต"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "แก่นแท้ / สาระสำคัญ",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Learned the essence of Chinese culture.) → ได้เรียนรู้แก่นแท้ของวัฒนธรรมจีน"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "ที่มา / ความสัมพันธ์ที่หยั่งรากลึก",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(The two countries have deep historical connections.) → ทั้งสองประเทศมีความสัมพันธ์ทางประวัติศาสตร์ที่หยั่งรากลึก"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "อุปมา",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "คำนาม",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Idioms often use metaphorical techniques.) → สำนวนมักใช้วิธีการอุปมา"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "กว้างขวางและลึกซึ้ง",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Chinese culture is broad and profound.) → วัฒนธรรมจีนกว้างขวางและลึกซึ้ง"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "เข้าใจอย่างถ่องแท้ผ่านความเข้าใจ",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "คำกริยา",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Learning should involve thorough understanding.) → การเรียนรู้ควรเกี่ยวข้องกับความเข้าใจอย่างถ่องแท้"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "มีประวัติศาสตร์อันยาวนาน",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Chinese culture has a long history.) → วัฒนธรรมจีนมีประวัติศาสตร์อันยาวนาน"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "ชวนให้คิด / คุ้มค่าแก่การพิจารณา",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "คำคุณศัพท์",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(This story is thought-provoking.) → เรื่องนี้ชวนให้คิด"
+    ],
+    "notes": "This is itself an idiom (chengyu)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "มีอิทธิพลอย่างละเอียดอ่อน / อิทธิพลที่มองไม่เห็น",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(วัฒนธรรมมีอิทธิพลต่อผู้คนอย่างละเอียดอ่อน)"
+    ],
+    "notes": "สำนวน (เฉิงยหวี่)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "เพิ่มขึ้นทุกวัน",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(จำนวนคนที่เรียนภาษาจีนเพิ่มขึ้นทุกวัน)"
+    ],
+    "notes": "สำนวน (เฉิงยหวี่)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "อนุมานหลายสิ่งจากกรณีเดียว",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(เมื่อเรียนรู้ ควรอนุมานหลายสิ่งจากกรณีเดียว)"
+    ],
+    "notes": "สำนวน (เฉิงยหวี่)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "ทีละขั้นตอน / ก้าวหน้าตามลำดับ",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "กริยาวิเศษณ์",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(การเรียนภาษาควรเป็นไปทีละขั้นตอน)"
+    ],
+    "notes": "สำนวน (เฉิงยหวี่)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "โดดเด่น / สไตล์ที่เป็นเอกลักษณ์",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "กริยา",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(สไตล์การเขียนของเขามีเอกลักษณ์อย่างแท้จริง)"
+    ],
+    "notes": "สำนวน (เฉิงยหวี่)!"
+  }
+]

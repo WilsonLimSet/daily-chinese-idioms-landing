@@ -231,6 +231,39 @@ export default async function Home() {
         </div>
       </section>
 
+      {/* More Resources */}
+      <section className="bg-white py-8 border-b border-gray-100">
+        <div className="container mx-auto px-6">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">More Resources</h2>
+          <div className="grid sm:grid-cols-3 gap-4 max-w-3xl">
+            <Link
+              href="/slang"
+              className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-purple-600 transition-colors">Chinese Internet Slang</p>
+              <p className="text-sm text-gray-600 mt-1">Decode 50 popular terms from YYDS to 内卷</p>
+              <p className="text-xs text-purple-600 font-medium mt-2">Explore slang →</p>
+            </Link>
+            <Link
+              href="/hsk"
+              className="p-5 bg-emerald-50 rounded-xl border border-emerald-100 hover:shadow-md hover:border-emerald-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-emerald-600 transition-colors">HSK Vocabulary Lists</p>
+              <p className="text-sm text-gray-600 mt-1">Essential words for HSK levels 1-6</p>
+              <p className="text-xs text-emerald-600 font-medium mt-2">Browse HSK →</p>
+            </Link>
+            <Link
+              href="/phrases"
+              className="p-5 bg-teal-50 rounded-xl border border-teal-100 hover:shadow-md hover:border-teal-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-teal-600 transition-colors">Common Chinese Phrases</p>
+              <p className="text-sm text-gray-600 mt-1">80 practical phrases for real situations</p>
+              <p className="text-xs text-teal-600 font-medium mt-2">Browse phrases →</p>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* App Promo - Compact */}
       <section className="bg-gray-50 py-8 border-t border-gray-100">
         <div className="container mx-auto px-6">

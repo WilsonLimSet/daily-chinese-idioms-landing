@@ -240,6 +240,7 @@ export default async function InternationalThemePage({ params }: { params: Promi
         })()}
 
         <AdUnit type="display" />
+        <AdUnit type="in-article" />
 
         {/* Related Themes */}
         <section className="mt-16 pt-8 border-t">

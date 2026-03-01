@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "お会計お願いします / 勘定してください",
+    "context": "食事の終わりに、支払いをしたい時に使います。手を挙げてウェイターにこう言いましょう。地域によっては、结账 (jié zhàng) が代わりに使われます。",
+    "examples": [
+      "服务员，买单！(ウェイター、お会計お願いします！)",
+      "Can we 买单? We're ready to go. (お会計できますか？もう行きます。)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "持ち帰り / パックしてください",
+    "context": "食べ残しを持ち帰りたい時に使います。中国ではごく普通で、失礼だとは全く思われません。食べ物を無駄にする方が悪いとされます。",
+    "examples": [
+      "这个菜打包吧。(この料理は持ち帰りにしましょう。)",
+      "可以打包吗？(持ち帰りにできますか？)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "辛くしないでください / 辛さ控えめでお願いします",
+    "context": "四川、湖南など、辛い料理が多い地域での必須フレーズ。バリエーション：少辣 (shǎo là, 少し辛く)、微辣 (wēi là, ほんの少し辛く)、中辣 (zhōng là, 普通の辛さ)。",
+    "examples": [
+      "不要辣，谢谢。(辛くしないでください、ありがとう。)",
+      "我不能吃辣，少辣可以吗？(辛いものが食べられないので、少し辛くしてもらえますか？)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "おすすめは何ですか？",
+    "context": "地元の名物を知るのに最適な方法です。レストランのスタッフは通常、自慢の料理を勧めるのが大好きです。お店やカフェでも使えます。",
+    "examples": [
+      "你们这儿有什么推荐？(こちらのおすすめは何ですか？)",
+      "第一次来，有什么推荐的菜？(初めて来たのですが、おすすめの料理はありますか？)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "ベジタリアンです / 菜食主義です",
+    "context": "外食するベジタリアンにとって重要です。中国の「ベジタリアン」には、卵や乳製品が含まれる場合があることに注意してください。ヴィーガンの場合は、我是纯素 (wǒ shì chún sù) と言います。",
+    "examples": [
+      "我吃素，有素菜吗？(ベジタリアンですが、野菜料理はありますか？)",
+      "这个里面有肉吗？我吃素。(これには肉が入っていますか？私はベジタリアンです。)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "乾杯！",
+    "context": "文字通り「杯を乾かす」という意味で、飲み物を一気に飲み干すことを意味します。フォーマルな夕食会では、何度も耳にするかもしれません。もしついていけない場合は、随意 (suí yì, 自分のペースで飲む) と言っても大丈夫です。",
+    "examples": [
+      "为我们的友谊干杯！(私たちの友情に乾杯！)",
+      "来，干杯！(さあ、乾杯！)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "もう一つください",
+    "context": "料理、飲み物、または一人前をもう一つ注文するときに使います。レストラン、バー、屋台で使えます。",
+    "examples": [
+      "这个很好吃，再来一个！(これとても美味しい、もう一つください！)",
+      "啤酒再来一个。(ビールもう一つください。)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "お腹いっぱいです",
+    "context": "これ以上食べられないことを丁寧に伝える言い方です。中国文化では、ホストは食べ物を勧め続けます。「吃饱了」と言うことで、感謝の気持ちを示しつつ、もう十分であることを伝えます。",
+    "examples": [
+      "谢谢，我吃饱了。(ありがとう、お腹いっぱいです。)",
+      "真的吃饱了，不用再加了。(本当にお腹いっぱいなので、もう結構です。)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "割り勘",
+    "context": "友人や若い人たちの間で一般的です。伝統的な中国文化では、通常一人がテーブル全体の代金を支払いますが、AA制は特にミレニアル世代の間で受け入れられつつあります。",
+    "examples": [
+      "今天AA制吧。(今日は割り勘にしましょう。)",
+      "我们AA还是你请？(割り勘にしますか、それともご馳走してくれますか？)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "これはどうやって食べるのですか？",
+    "context": "火鍋、北京ダックの包み、小籠包など、見慣れない中華料理に直面したときに役立ちます。誰もあなたを非難しません。それは純粋な興味を示すからです。",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(これはどうやって食べるのですか？ソースにつけますか？)",
+      "小笼包怎么吃才不会烫？(小籠包はどうやって食べたら火傷しないですか？)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "高すぎる！",
+    "context": "市場で値切るための必須フレーズ。少し困った表情で言うと効果的。市場、小さなお店、露店で使えます。モールやチェーン店では使えません。",
+    "examples": [
+      "太贵了，便宜点吧！(高すぎる、安くしてください！)",
+      "这个太贵了，我再看看。(これは高すぎる、もう少し見てみます。)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "もう少し安くしてください / 割引してください",
+    "context": "太贵了の後に続く言葉。交渉を始めるための丁寧な言い方。複数購入したり、常連客であることを理由に組み合わせることができます。",
+    "examples": [
+      "老板，便宜点嘛！(店長、安くしてください！)",
+      "买两个能便宜点吗？(2つ買ったら安くなりますか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "試着できますか / 試せますか？",
+    "context": "洋服店、靴屋、または食品を試食するときに使用します。ほとんどのお店で試着できますが、市場の屋台ではできない場合があります。",
+    "examples": [
+      "这件衣服可以试试吗？(この服は試着できますか？)",
+      "这个口味可以试试吗？(この味は試せますか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "他の色はありますか？",
+    "context": "洋服、アクセサリー、または家庭用品を購入するときに役立ちます。颜色を尺码 (chǐ mǎ, サイズ) または 款式 (kuǎn shì, スタイル) に置き換えることができます。",
+    "examples": [
+      "这个有没有别的颜色？(これの他の色はありますか？)",
+      "有没有大一号的？(もう一つ大きいサイズはありますか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "カードですか、現金ですか？",
+    "context": "レジで聞かれます。最近では、ほとんどの場所で WeChat Pay と Alipay も利用できます。微信还是支付宝 (WeChat か Alipay?) と聞かれることもあります。",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(カードですか、現金ですか？——WeChat Payは使えますか？)",
+      "可以刷卡吗？(カードで支払えますか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "割引 / セール",
+    "context": "中国では、割引は支払う割合で表現されます。打八折は価格の80％（20％オフ）、打五折は50％オフを意味します。これは英語での割引の仕組みとは逆です。",
+    "examples": [
+      "现在打折吗？(今、セールですか？)",
+      "这个打几折？(これは何割引ですか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "これって偽物？ / まさか！",
+    "context": "市場で製品の信憑性を疑う場合や、会話で信じられない気持ちを表す場合に使用されます。買い物をする際は、あまり攻撃的に使いすぎないように注意してください。",
+    "examples": [
+      "这个是真的还是假的？(これは本物ですか、それとも偽物ですか？)",
+      "五百块？假的吧！(500元？まさか！)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "送料無料ですか？",
+    "context": "淘宝（タオバオ）や京東（JD.com）などのオンラインショッピングに不可欠です。中国の買い物客が最初に尋ねることの一つです。冗談めかして直接会って使うこともできます。",
+    "examples": [
+      "这个包邮吗？(これは送料無料ですか？)",
+      "满多少包邮？(いくら以上で送料無料になりますか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "返品する / 返金",
+    "context": "購入したものを返品したい場合に使用します。退款 (tuì kuǎn) は、特にお金の払い戻しを意味します。オンラインショッピングプラットフォームには通常、7日間の返品ポリシーがあります。",
+    "examples": [
+      "这个可以退货吗？(これは返品できますか？)",
+      "我想退货退款。(返品して返金してほしいです。)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "最低価格はいくらですか？ / 一番安い値段は？",
+    "context": "交渉におけるパワープレイ。何度かやり取りした後で使用します。あなたが真剣に購入を考えているが、より良い価格が必要であることを示します。",
+    "examples": [
+      "最低多少钱？(一番安い値段はいくらですか？)",
+      "不用讲价了，最低多少？(もう交渉しません、底値はいくらですか？)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "どう行けばいいですか？ / どちらの道ですか？",
+    "context": "最も基本的な道順を尋ねるフレーズです。地図を指したり、目印を伝えたりしてから、怎么走と尋ねます。言葉が通じなくても、たいていの人は正しい方向を教えてくれます。",
+    "examples": [
+      "请问，地铁站怎么走？(すみません、地下鉄の駅までどう行けばいいですか？)",
+      "去天安门怎么走？(天安門までどう行けばいいですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "もう着きましたか？ / 到着しましたか？",
+    "context": "タクシーやバスの中、または誰かに運転してもらっているときに使います。運転手に快到了吗 (kuài dào le ma, もうすぐ着きますか？)と尋ねることもできます。",
+    "examples": [
+      "师傅，到了吗？(運転手さん、着きましたか？)",
+      "还没到吗？还有多远？(まだ着いてないんですか？あとどれくらいですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "どこで降りればいいですか？",
+    "context": "バスや地下鉄の中で使います。運転手や他の乗客にスマートフォンの目的地を見せて、これを尋ねます。バスでは、運転手または自動アナウンスが停留所をアナウンスします。",
+    "examples": [
+      "请问，去故宫在哪里下车？(すみません、故宮へ行くにはどこで降りればいいですか？)",
+      "我应该在哪一站下车？(どの駅で降りるべきですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "渋滞しています / 渋滞に巻き込まれています",
+    "context": "中国の都市では非常に一般的で、特にラッシュアワーに多いです。タクシーの運転手はよく積極的に言及します。遅刻の言い訳にも使えます。",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(すみません、渋滞で遅れるかもしれません。)",
+      "这条路总是堵车。(この道はいつも渋滞しています。)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "運転手さん、ここで止めてください",
+    "context": "タクシーやライドシェアで降りたいときに使います。师傅 (shī fu) は運転手を敬意を払って呼ぶ言い方です。前面停 (qián miàn tíng, 前で止めて)と言うこともできます。",
+    "examples": [
+      "师傅，前面路口停一下。(運転手さん、前の交差点で止めてください。)",
+      "师傅，就这里停吧。(運転手さん、ここで止めてください。)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "道に迷いました",
+    "context": "目的地が地図に表示された携帯電話を誰かに見せて、こう言いましょう。ほとんどの中国人は親切に道案内をしてくれます。場合によっては、そこまで案内してくれることもあります。",
+    "examples": [
+      "不好意思，我迷路了。(すみません、道に迷いました。)",
+      "我迷路了，这里是哪儿？(道に迷いました。ここはどこですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "Wi-Fiはありますか？",
+    "context": "旅行者にとって必須です。ほとんどのカフェ、レストラン、ホテルにはWi-Fiがあります。パスワードはサインに表示されているか、密码是什么 (mì mǎ shì shén me, パスワードは何ですか？)と尋ねることができます。",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(すみません、Wi-Fiはありますか？パスワードは何ですか？)",
+      "这里Wi-Fi信号好吗？(ここのWi-Fiの電波は良いですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "どれくらいで着きますか？ / どれくらいかかりますか？",
+    "context": "タクシー、ライドシェアの運転手、または交通機関の所要時間を尋ねる際に使用します。配達の見積もりや友達との待ち合わせにも使えます。",
+    "examples": [
+      "师傅，多久能到？(運転手さん、どれくらいで着きますか？)",
+      "坐地铁多久能到？(地下鉄でどれくらいかかりますか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "近いですか？",
+    "context": "どこかに歩いて行く前に、距離を測るための簡単な方法です。答えは通常、很近 (hěn jìn, とても近い) または 不远 (bù yuǎn, 遠くない) ですが、中国語の「近い」の定義は大きく異なる場合があります。",
+    "examples": [
+      "地铁站近不近？(地下鉄の駅は近いですか？)",
+      "走路去近不近？(歩いて行ける距離ですか？)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "GPSナビ / 地図アプリを使う",
+    "context": "タクシーの運転手にGPSに従うように指示したり、誰かにナビを手伝ってもらったりします。高德地图 (Gaode/Amap) と 百度地图 (Baidu Maps) は、中国の主要なナビゲーションアプリです。",
+    "examples": [
+      "师傅，你开导航吧。(運転手さん、ナビをつけてください。)",
+      "我导航一下。(ちょっとナビで確認します。)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "時間ありますか？ / 空いてますか？",
+    "context": "誰かを誘う時の一般的な言い方。通常、具体的な計画が続きます。今日または将来の日付に使用できます。 明天 (míng tiān, 明日) や 周末 (zhōu mò, 週末) などの時間に関する言葉を追加します。",
+    "examples": [
+      "周末有空吗？一起吃饭？(週末、時間ありますか？一緒にご飯でもどうですか？)",
+      "你明天有空吗？(明日、時間ありますか？)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "また今度 / また別の機会に",
+    "context": "はっきりと断らずに、丁寧に誘いを断る方法。中国の社会文化では、これは双方のメンツを保つための婉曲的な拒否です。",
+    "examples": [
+      "今天太忙了，改天吧。(今日は忙しすぎるので、また今度。)",
+      "改天再约吧。(また別の機会に約束しましょう。)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "何でもいい / どちらでも構いません / お任せします",
+    "context": "計画を立てる際に最も一般的な（そして時にはイライラする）答え。本当にこだわりがない場合に使用されます。注意：随便を使いすぎると、無関心に見えることがあります。",
+    "examples": [
+      "吃什么？——随便，都行。(何を食べたい？——何でもいい、どちらでも構いません。)",
+      "你随便选吧。(好きなものを選んでください。)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "あなた次第 / あなたの判断に任せます",
+    "context": "決定を相手に委ねること。随便と似ていますが、責任を相手に負わせます。友達がどこで食事をするか、何をするかを決めるときによく使われます。",
+    "examples": [
+      "去哪儿？——看你。(どこに行きましょうか？——あなた次第です。)",
+      "想看什么电影？看你吧。(どんな映画を見たいですか？あなたの判断に任せます。)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "もういいや / やっぱりいいです",
+    "context": "計画を諦めたり、議論をやめたり、何かが努力する価値がないと判断した場合に使用されます。軽い不満や諦めを表すことがあります。",
+    "examples": [
+      "等了半小时了，算了，走吧。(30分も待った、もういいや、行こう。)",
+      "算了算了，不想了。(もういいや、もういいや、考えたくない。)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "気にしない / どうでもいい",
+    "context": "随便よりも強い表現。無関心にも、本当に気楽な性格にも聞こえる。口調に注意が必要。間違った口調だと、冷たく聞こえることがある。",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(You're late!——Doesn't matter, I wasn't doing anything anyway.) → 遅刻した！——別にいいよ、私も何もなかったし。",
+      "去不去都无所谓。(It doesn't matter whether we go or not.) → 行くか行かないか、どっちでもいい。"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "今度ね / また今度",
+    "context": "予定を断ったり、延期したりする時の丁寧な言い方。改天吧と似ているが、具体的に次の機会を指す。本当に次の機会を意味することもあれば、婉曲的な断りであることもある。",
+    "examples": [
+      "今天去不了，下次吧。(Can't make it today, next time.) → 今日は行けない、また今度ね。",
+      "下次吧，这次太赶了。(Next time, this time is too rushed.) → 今度ね、今回は急すぎる。"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "遊ばない？ / 会わない？",
+    "context": "カジュアルで、テキストベースで使われることが多い誘い方。友達同士でよく使う。食事や飲み、または何かアクティビティに誘う時に使える。冗談めかして、または少し誘惑的に使うこともある。",
+    "examples": [
+      "周末约吗？(Want to hang out this weekend?) → 週末、遊ばない？",
+      "好久不见，约个饭？(Long time no see, want to grab food?) → 久しぶり、ご飯でもどう？"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "おごるよ / 私が払うよ",
+    "context": "中国の社会文化では、おごることは非常に重要。誰が支払うかで、よく友好的な「争い」が起こる。食事の前に我请你と言うことで、支払う意思を示す。",
+    "examples": [
+      "今天我请你，别客气。(Today's my treat, don't be polite.) → 今日はおごるから、遠慮しないで。",
+      "这顿我请。(This meal is on me.) → この食事は私のおごりです。"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "行くの？ / 行く？",
+    "context": "何かのアクティビティに誰かを誘う時の、直接的でカジュアルな言い方。A-not-Aの質問パターン（去不去, 要不要, 好不好）は、中国語で最も便利な構造の一つ。",
+    "examples": [
+      "明天爬山，你去不去？(Hiking tomorrow, you going?) → 明日、山登りに行くけど、行く？",
+      "唱K去不去？(Want to go to karaoke?) → カラオケ行かない？"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "マジで？！/ 本当ですか？/ うそでしょ！",
+    "context": "驚きや疑いを表す表現。中国語の会話で最もよく使われる反応の一つ。純粋な質問にも、修辞的な感嘆にもなり得る。",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!)  → 彼、辞めたんだ！——マジで？！",
+      "真的假的，这么便宜？(No way, this cheap?) → うそでしょ、こんなに安いの？"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "それは大げさすぎる/ それはやりすぎだ",
+    "context": "信じられないこと、過度なこと、劇的なことに反応するときに使う。ネガティブ（価格、行動）にも、畏敬の念を込めたポジティブ（素晴らしいパフォーマンス）にもなり得る。",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!) → 2時間待ち？それはありえない！",
+      "这个特效太夸张了。(These special effects are over the top.) → この特殊効果はやりすぎだ。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "まあまあかな/ 悪くない/ そこそこ",
+    "context": "生ぬるい反応。素晴らしいともひどいとも言えないときに使う。中国人は、成果について謙遜したり、曖昧な意見を述べたりするために、これを使うことが多い。",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.) → このレストランどう？——まあまあかな、普通。",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.) → 試験は難しかった？——まあまあかな。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "場合による/ 状況次第",
+    "context": "明確なイエスかノーを避ける、曖昧な答え。直接的な表現が避けられる中国語のコミュニケーションで非常によく使われる。",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.) → 行くの？——場合によるかな。",
+      "能不能做到？看情况。(Can it be done? We'll see.) → できるかどうか？状況次第。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "思わなかった/ まさか～とは",
+    "context": "予想外の結果に純粋な驚きを表す。ポジティブにもネガティブにもなり得る。現実が期待と大きく異なる場合に使う。",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!) → あなたの中国語がこんなに上手だとは思わなかった！",
+      "真没想到他会来。(I really didn't expect him to come.) → 彼が来るとは本当に思わなかった。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "なるほど / 確かに",
+    "context": "相手の理屈や論理に同意するときに使う。議論の中で、相手の話を聞いていて、その主張が妥当だと感じたことを示す一般的な返答。",
+    "examples": [
+      "你说的有道理。(What you said makes sense.) → あなたの言うことはなるほどね。",
+      "有道理，我没想到这一点。(Good point, I hadn't thought of that.) → 確かに、その点は思いつかなかった。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "それもそうだね / 確かにそうだ",
+    "context": "相手の視点を認めるときに使う。多くの場合、相手が自分の考えを変えさせたり、自分が考えていなかった視点を付け加えたりした場合に使う。有道理よりもやや譲歩的なニュアンス。",
+    "examples": [
+      "说的也是，那我们换个地方吧。(You have a point, let's change the place then.) → それもそうだね、じゃあ場所を変えよう。",
+      "说的也是，我再想想。(That's true too, let me think about it more.) → 確かにそうだね、もう少し考えてみる。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "まさか / そんなはずはない / ありえない",
+    "context": "強い不信感を表す表現。真的假的よりも強調的。何かが全く信じられない、または論理に反するように思われるときに使う。",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(He ran 100km in a day? That's impossible!) → 彼が一日で100キロも走った？まさか！",
+      "怎么可能这么快就卖完了？(How can it be sold out already?) → そんなに早く売り切れるなんてありえない！"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "そこまでではない / まさか / そこまでする必要はない",
+    "context": "誰かを落ち着かせたり、過剰反応しているのではないかと示唆するときに使う。状況が実際にはどれほど極端であるかについて、境界線を引く。",
+    "examples": [
+      "不至于吧，没那么严重。(Come on, it's not that serious.) → そこまでではないでしょう、そんなに深刻じゃないよ。",
+      "迟到五分钟而已，不至于发火吧？(Just five minutes late, no need to get angry, right?) → 5分遅れただけなのに、怒るほどのことじゃないでしょう？"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "だいたい / ほぼ同じ / まあまあ",
+    "context": "最も汎用性の高い中国語表現の一つ。「ほとんど」、「ほぼ同じ」、「まあまあ」、「だいたい合っている」などの意味を持つ。柔軟で完璧主義ではない態度を反映している。",
+    "examples": [
+      "这两个差不多，买哪个都行。(These two are about the same, either one works.) → この二つはだいたい同じだから、どちらを買ってもいいよ。",
+      "快好了吗？——差不多了。(Almost done?——Just about.) → もうすぐ終わる？——だいたいね。"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "お疲れ様でした / ご苦労様でした",
+    "context": "中国の職場や社会文化で非常に重要なフレーズです。誰かの努力や苦労を認めるときに使われます。配達員、長時間の会議後の同僚、またはあなたを助けてくれた人に言います。",
+    "examples": [
+      "辛苦了，快休息吧。(お疲れ様でした、ゆっくり休んでください。)",
+      "今天的会议辛苦大家了。(今日の会議、皆さんお疲れ様でした。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "どうぞよろしくお願いします",
+    "context": "新しい同僚やビジネスパートナーに会うとき、または新しいチームに参加するときに言います。謙虚さと敬意を示します。日本の「よろしくお願いします」に似ています。",
+    "examples": [
+      "我是新来的，请多关照。(新しく来ました、どうぞよろしくお願いします。)",
+      "初次见面，请多关照。(はじめまして、どうぞよろしくお願いします。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "残業する",
+    "context": "中国の職場文化で常に耳にする言葉です。残念ながら非常に一般的で、特にテクノロジーや金融業界でよく使われます。動詞または名詞として使用できます。",
+    "examples": [
+      "今晚又要加班。(今夜もまた残業だ。)",
+      "你经常加班吗？(あなたはよく残業しますか？)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "会議をする / 会議中",
+    "context": "忙しいことを説明したり、会議のスケジュールを立てたり、（多くの場合）会議が多すぎることを不満に思ったりするときに使用します。電話やメッセージを避けるための言い訳として使用できます。",
+    "examples": [
+      "我在开会，等会儿再说。(会議中なので、後で話しましょう。)",
+      "下午三点开会。(午後3時に会議があります。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "報告する / 状況をアップデートする / 上司に報告する",
+    "context": "進捗状況や結果をマネージャーに提示するときに、職場で使用されます。リーダーシップに情報を伝えることが重要な中国の企業文化における重要な活動です。",
+    "examples": [
+      "这个项目需要向领导汇报。(このプロジェクトはリーダーシップに報告する必要があります。)",
+      "每周一汇报工作进展。(毎週月曜日に業務の進捗状況を報告します。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "都合がいいですか？ / 今、大丈夫ですか？",
+    "context": "何かを頼んだり、予定を立てたりする前に確認する丁寧な言い方。直接要求するよりも配慮があります。ビジネスコミュニケーションでは不可欠です。",
+    "examples": [
+      "现在说话方便吗？(今、お話できますか？)",
+      "明天见面方便吗？(明日、お会いできますか？)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "検討させてください / 検討します",
+    "context": "決定を先延ばしにする丁寧な言い方。ビジネスの場では、婉曲的な拒否を意味することが多いです。個人的な状況では、本当に検討することを意味することが多いです。",
+    "examples": [
+      "这个方案我考虑一下。(この提案について検討させてください。)",
+      "考虑一下再决定吧。(よく考えてから決めてください。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "連絡を取り合いましょう / 連絡を保ちましょう",
+    "context": "会議、ビジネスディナーの終わり、または別れ際に言われます。 WeChatの連絡先を交換することがよくあります。英語の同等の表現よりも誠実です。",
+    "examples": [
+      "以后保持联系。(今後も連絡を取り合いましょう。)",
+      "加个微信，保持联系。(WeChatで連絡先を交換して、連絡を取り合いましょう。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "できるだけ早く / 至急",
+    "context": "仕事のメール、メッセージ、会話で、緊急性を示すために使用されます。ビジネスコミュニケーションで非常に一般的です。前に 请 (qǐng, どうぞ) を付けると、柔らかくなります。",
+    "examples": [
+      "请尽快回复。(できるだけ早く返信してください。)",
+      "这个需要尽快完成。(これは至急完了する必要があります。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "ご一緒できて光栄です / 良い協力関係でした",
+    "context": "ビジネス取引、プロジェクト、またはコラボレーションの終わりに言われます。相互の満足を表すビジネスシーンでの一般的な締めくくりです。",
+    "examples": [
+      "合作愉快！期待下次。(ご一緒できて光栄です！次回を楽しみにしています。)",
+      "感谢大家的努力，合作愉快。(皆様の努力に感謝します。良い協力関係でした。)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "助けてください",
+    "context": "直接的な助けを求める表現。「帮」を繰り返すことで、「帮我」よりも緊急性や感情が強くなります。本当に誰かの助けが必要な時に使います。",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(助けてください、ホテルが見つかりません。)",
+      "谁能帮帮我？(誰か助けてくれませんか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "気分が悪い / 体調が悪い",
+    "context": "気分が悪い時や、体の調子が悪い時に使います。医療現場では、医者が「哪里不舒服 (nǎ lǐ bù shū fu, どこが痛いですか/どうしましたか？)」と尋ねます。",
+    "examples": [
+      "我不舒服，想休息。(気分が悪いので、休みたいです。)",
+      "你哪里不舒服？(どこか具合が悪いですか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "アレルギー",
+    "context": "食物アレルギーや薬のアレルギーにとって非常に重要です。何のアレルギーがあるかを言えるようにしましょう: 花生过敏 (huā shēng guò mǐn, ピーナッツアレルギー), 海鲜过敏 (hǎi xiān guò mǐn, シーフードアレルギー)。",
+    "examples": [
+      "我对花生过敏。(私はピーナッツアレルギーです。)",
+      "这个里面有没有海鲜？我过敏。(これの中にシーフードは入っていますか？アレルギーなんです。)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "警察を呼ぶ",
+    "context": "中国の緊急電話番号は、警察が110番、救急車が120番、消防が119番です。「报警」は特に警察に通報することを意味します。",
+    "examples": [
+      "快报警！(早く警察を呼んで！)",
+      "要不要报警？(警察を呼ぶべきですか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "救急車を呼ぶ",
+    "context": "緊急医療の場合は、中国では120番に電話して救急車を呼びます。中国語で住所を知っているか、誰かに見せるために携帯電話に保存しておきましょう。",
+    "examples": [
+      "快叫救护车！(早く救急車を呼んで！)",
+      "请帮忙叫救护车，有人晕倒了。(救急車を呼んでください、誰かが倒れました。)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "持ち物をなくしました / 私の物がなくなりました",
+    "context": "物をなくしたときや盗まれた疑いがあるときに使います。具体的に何をなくしたか指定します：手机 (shǒu jī, 電話), 钱包 (qián bāo, 財布), 护照 (hù zhào, パスポート)。",
+    "examples": [
+      "我的手机丢了！(携帯をなくしました！)",
+      "我的钱包丢了，怎么办？(財布をなくしてしまいました。どうすればいいですか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "もう少しゆっくり話していただけますか？",
+    "context": "中国語学習者にとって最も重要なサバイバルフレーズです。理解しようとするあなたの努力は感謝され、通常、相手はかなりゆっくり話してくれます。",
+    "examples": [
+      "对不起，能说慢一点吗？(すみません、もう少しゆっくり話していただけますか？)",
+      "请说慢一点，我在学中文。(ゆっくり話してください。中国語を勉強しています。)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "（言っていることが）わかりません",
+    "context": "特に、書かれたテキストに対する「看不懂」とは対照的に、話された言葉を理解できないことを意味します。言語学習者にとって非常に役立ちます。多くの場合、人々はより簡単な言葉に切り替えたり、ジェスチャーを使用したりするよう促します。",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(すみません、わかりません。書き留めていただけますか？)",
+      "他说的方言我听不懂。(彼が話している方言はわかりません。)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "誰か英語を話せますか？",
+    "context": "コミュニケーションが完全に途絶えたときの最後の手段です。主要都市や観光地では、誰かが英語を話せるのが普通です。小さな都市では、若い人の方が知っている可能性が高くなります。",
+    "examples": [
+      "请问，有人会说英文吗？(すみません、誰か英語を話せますか？)",
+      "这里有会说英文的人吗？(ここに英語を話せる人はいますか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "薬局はどこですか？",
+    "context": "薬局（药店/药房）は中国では一般的であり、多くの薬は処方箋なしで入手できます。症状を説明すると、薬剤師が薬を勧めてくれることがよくあります。",
+    "examples": [
+      "请问药店在哪？(すみません、薬局はどこですか？)",
+      "附近有药店吗？(近くに薬局はありますか？)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "疲れ果てた／死ぬほど疲れた",
+    "context": "「死了 (sǐ le, \"死ぬ\")」のパターンは、劇的な強調として使用されます。「累死了」は、長い一日の仕事、観光、または運動の後に非常によく使用されます。",
+    "examples": [
+      "今天走了两万步，累死了。(Walked 20,000 steps today, I'm dead tired.) → 今日は2万歩も歩いた、疲れ果てた。",
+      "加班到十二点，累死了。(Worked overtime until midnight, I'm exhausted.) → 残業で12時まで働いた、死ぬほど疲れた。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "イライラする／うんざりする",
+    "context": "いら立ちや不満を表現するために使用されます。これも「死了」の強調パターンです。面倒な状況、人々、または官僚主義に対処するときによく使われます。",
+    "examples": [
+      "这个问题烦死了！(This problem is so annoying!) → この問題、本当にイライラする！",
+      "排队排了一小时，烦死了。(Queued for an hour, so frustrating.) → 1時間も並んだ、うんざりする。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "頑張って！／その調子！／ファイト！",
+    "context": "文字通りには「油/燃料を追加する」という意味です。中国語で最もポジティブで励みになるフレーズの1つです。スポーツイベント、試験前、困難な時期、または誰かを励ますために使用されます。",
+    "examples": [
+      "明天考试，加油！(Exam tomorrow, you got this!) → 明日は試験だ、頑張って！",
+      "加油，我相信你！(Keep going, I believe in you!) → 頑張って、私はあなたを信じている！"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "ゆっくりでいいよ／焦らないで／ぼちぼちやろう",
+    "context": "プレッシャーを軽減する慰めのフレーズです。急ぐ必要はないと誰かに伝えるために使用されます。辛抱強く、理解のある態度を反映しています。何か新しいことを学ぶときにも使用されます。",
+    "examples": [
+      "别着急，慢慢来。(Don't worry, take your time.) → 心配しないで、ゆっくりでいいよ。",
+      "学中文慢慢来，不要急。(Learning Chinese takes time, don't rush.) → 中国語の学習は時間がかかるから、焦らないで。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "どうしようもない／仕方ない／どうにもならない",
+    "context": "避けられない状況に対する無力感や受け入れを表現します。自分のコントロールを超えたことを認めるためによく使用されます。",
+    "examples": [
+      "堵车了，没办法，只能等。(Traffic jam, nothing we can do, just have to wait.) → 渋滞だ、どうしようもない、待つしかない。",
+      "没办法，规定就是这样。(Can't help it, those are the rules.) → 仕方ない、規則はそうなっている。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "慣れた / もう慣れた",
+    "context": "かつて難しかったり奇妙だったりしたことが普通になった時に使う。新しい生活に適応したというポジティブな意味でも、不快なことを受け入れたという諦めの意味でも使える。",
+    "examples": [
+      "这里天气很热，但我习惯了。(It's very hot here, but I'm used to it.)  ここはとても暑いけど、もう慣れた。",
+      "加班加习惯了。(I've gotten used to working overtime.)  残業続きで慣れてしまった。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "どうしよう？ / さあ、どうしよう？",
+    "context": "問題に直面したときに、アドバイスを求めたり、パニックになったりする時に使う。 純粋な質問の場合もあれば、どうしようもないというレトリック表現の場合もある。",
+    "examples": [
+      "手机没电了，怎么办？(Phone is dead, what do I do?)  携帯の充電が切れた、どうしよう？",
+      "飞机取消了，怎么办？(Flight cancelled, now what?)  飛行機がキャンセルされた、さあ、どうしよう？"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "できた！ / 終わった！ / 片付けた！",
+    "context": "タスクを完了したり、問題を解決したりしたときに使う満足感のあるフレーズ。 自信と能力を示す。 とてもカジュアルで明るい。",
+    "examples": [
+      "机票搞定了！(Flight tickets are booked!)  航空券、手配完了！",
+      "别担心，我搞定了。(Don't worry, I've got it handled.)  心配しないで、私が片付けたよ。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "間に合わない / 遅すぎる",
+    "context": "時間が足りなくなったり、締め切り/機会を逃したりした場合に使用される。 緊急性を生み出す。 反対は来得及 (lái de jí, まだ間に合う)。",
+    "examples": [
+      "来不及了，快走！(No time, let's go!)  間に合わない、早く行こう！",
+      "现在去还来得及吗？——来不及了。(Is there still time to go now?——It's too late.)  今から行っても間に合いますか？——もう間に合わない。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "退屈 / つまらない",
+    "context": "自分の状態（退屈だ）または退屈なものを表現できる。 特にソーシャルメディアやテキストメッセージで、若者の間で非常によく使われる。",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So bored, is there anything fun to do?)  ああ、退屈だ。何か面白いことない？",
+      "这个电影太无聊了。(This movie is so boring.)  この映画はとてもつまらない。"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

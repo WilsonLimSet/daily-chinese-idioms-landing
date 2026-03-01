@@ -1,0 +1,747 @@
+[
+  {
+    "slug": "yyds",
+    "originalSlug": "yyds",
+    "characters": "YYDS (永远的神)",
+    "pinyin": "yǒng yuǎn de shén",
+    "meaning": "Tuyệt đỉnh (Greatest of All Time). Dùng để khen ai đó hoặc cái gì đó là tuyệt vời nhất.",
+    "origin": "Bắt nguồn từ streamer game Shiny (山泥若) vào năm 2020 khi khen một người chơi, sau đó lan rộng ra văn hóa internet chính thống.",
+    "examples": [
+      "Nhà hàng này YYDS! Mì ngon nhất tôi từng ăn.",
+      "这家奶茶店YYDS！(Quán trà sữa này là đỉnh của chóp!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2020s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "nei-juan",
+    "originalSlug": "nei-juan",
+    "characters": "内卷",
+    "pinyin": "nèi juǎn",
+    "meaning": "Nội quyển — cạnh tranh quá mức, thường vô nghĩa, nơi mọi người làm việc chăm chỉ hơn nhưng không ai đạt được nhiều hơn.",
+    "origin": "Ban đầu là một thuật ngữ nhân chủng học, nó trở nên lan truyền vào năm 2020 khi những bức ảnh sinh viên Thanh Hoa học trên máy tính xách tay khi đang đạp xe lan truyền trên mạng.",
+    "examples": [
+      "Ngành công nghệ ở Trung Quốc quá 内卷 — mọi người làm việc 996 chỉ để theo kịp.",
+      "现在考研太内卷了。(Việc thi cao học bây giờ quá nội quyển.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "tang-ping",
+    "originalSlug": "tang-ping",
+    "characters": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "Nằm thẳng — từ chối cuộc đua chuột, chọn làm mức tối thiểu thay vì làm việc quá sức.",
+    "origin": "Được đặt ra trong một bài đăng lan truyền năm 2021 bởi một công nhân nhà máy đã bỏ việc và đi du lịch với số tiền tiết kiệm tối thiểu, từ chối áp lực xã hội phải thành công vượt trội.",
+    "examples": [
+      "Tôi không muốn cạnh tranh nữa — tôi sẽ 躺平.",
+      "年轻人选择躺平。(Những người trẻ đang chọn nằm thẳng.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "bai-lan",
+    "originalSlug": "bai-lan",
+    "characters": "摆烂",
+    "pinyin": "bǎi làn",
+    "meaning": "Kệ xác — hoàn toàn từ bỏ việc cố gắng, chấp nhận thất bại hoặc tầm thường.",
+    "origin": "Từ văn hóa bóng rổ NBA, nơi các đội thua cuộc cố tình \"tank\". Được cư dân mạng Trung Quốc chấp nhận như một phiên bản cực đoan hơn của 躺平.",
+    "examples": [
+      "Ngày mai thi rồi mà tôi chưa học gì cả — đến lúc 摆烂.",
+      "这学期我直接摆烂了。(Học kỳ này tôi kệ xác luôn.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "jue-jue-zi",
+    "originalSlug": "jue-jue-zi",
+    "characters": "绝绝子",
+    "pinyin": "jué jué zǐ",
+    "meaning": "Tuyệt vời / Tồi tệ — một biểu cảm nhấn mạnh có thể tích cực hoặc tiêu cực tùy thuộc vào ngữ cảnh.",
+    "origin": "Phổ biến trên các nền tảng truyền thông xã hội Trung Quốc như Douyin và Xiaohongshu vào khoảng năm 2021 như một từ để tăng cường.",
+    "examples": [
+      "Hoàng hôn này 绝绝子! Đẹp quá!",
+      "这个味道绝绝子！(Hương vị này tuyệt vời!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fan-er-sai",
+    "originalSlug": "fan-er-sai",
+    "characters": "凡尔赛",
+    "pinyin": "fán ěr sài",
+    "meaning": "Khoe khoang một cách khiêm tốn — khoe của cải hoặc thành tích trong khi giả vờ khiêm tốn hoặc phàn nàn.",
+    "origin": "Đặt theo tên Cung điện Versailles. Được phổ biến bởi blogger 小奶球 vào năm 2020, người đã chia sẻ những câu chuyện về những người vô tình đề cập đến lối sống sang trọng.",
+    "examples": [
+      "\"Ugh, bạn trai tôi chỉ mua cho tôi một chiếc BMW, không phải Porsche\" — thật là 凡尔赛.",
+      "她发朋友圈太凡尔赛了。(Cô ấy đăng trên Moments WeChat khoe khoang một cách khiêm tốn quá.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "she-si",
+    "originalSlug": "she-si",
+    "characters": "社死",
+    "pinyin": "shè sǐ",
+    "meaning": "Chết xã hội — một khoảnh khắc cực kỳ xấu hổ khiến bạn muốn biến mất.",
+    "origin": "Viết tắt của 社会性死亡 (chết xã hội). Trở nên phổ biến vào khoảng năm 2020-2021 khi Gen Z thích chia sẻ những khoảnh khắc xấu hổ trên mạng.",
+    "examples": [
+      "I called my teacher \"mom\" in class — total 社死.(Tôi gọi giáo viên là \"mẹ\" trong lớp - chết xã hội.)",
+      "我当众摔了一跤，社死了。(Tôi bị ngã trước đám đông - chết xã hội.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-gong-ren",
+    "originalSlug": "da-gong-ren",
+    "characters": "打工人",
+    "pinyin": "dǎ gōng rén",
+    "meaning": "Dân văn phòng / nô lệ lương bổng — một thuật ngữ tự ti mà người lao động dùng để mô tả bản thân.",
+    "origin": "Lan truyền vào cuối năm 2020 thông qua những lời chào buổi sáng mang tính động viên nhưng đầy mỉa mai được chia sẻ giữa các nhân viên văn phòng trên mạng xã hội.",
+    "examples": [
+      "Good morning, 打工人! Time to make money for the boss.(Chào buổi sáng, dân văn phòng! Đến giờ kiếm tiền cho ông chủ rồi.)",
+      "打工人打工魂，打工都是人上人。(Dân văn phòng có tâm hồn dân văn phòng, làm công ăn lương đều là người giỏi.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "gan-fan-ren",
+    "originalSlug": "gan-fan-ren",
+    "characters": "干饭人",
+    "pinyin": "gān fàn rén",
+    "meaning": "Cỗ máy ăn / chiến binh ẩm thực — người ăn với sự nhiệt tình và đam mê lớn.",
+    "origin": "Phát triển cùng với 打工人 vào cuối năm 2020. Tôn vinh niềm vui đơn giản của việc ăn uống như một hình thức tự chăm sóc bản thân giữa những căng thẳng trong công việc.",
+    "examples": [
+      "Lunch break! 干饭人 mode activated!(Giờ nghỉ trưa! Kích hoạt chế độ chiến binh ẩm thực!)",
+      "干饭人干饭魂！(Người sành ăn có tâm hồn sành ăn!)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fo-xi",
+    "originalSlug": "fo-xi",
+    "characters": "佛系",
+    "pinyin": "fó xì",
+    "meaning": "Giống như Phật — có thái độ sống thiền, chuyện gì đến sẽ đến. Không quan tâm đến kết quả.",
+    "origin": "Bắt nguồn từ một bài báo trên tạp chí Nhật Bản năm 2014 về \"những người đàn ông giống như Phật\", được du nhập vào văn hóa internet Trung Quốc vào khoảng năm 2017.",
+    "examples": [
+      "I have a 佛系 approach to dating — if it happens, it happens.(Tôi có một cách tiếp cận 佛系 với việc hẹn hò - nếu nó xảy ra thì nó xảy ra.)",
+      "佛系青年什么都无所谓。(Thanh niên 佛系 không quan tâm đến bất cứ điều gì.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhen-xiang",
+    "originalSlug": "zhen-xiang",
+    "characters": "真香",
+    "pinyin": "zhēn xiāng",
+    "meaning": "Thơm quá / Ngon quá — dùng khi ai đó cuối cùng lại thích một điều mà trước đó họ nói sẽ không bao giờ làm.",
+    "origin": "Từ một chương trình thực tế năm 2014, nơi người chơi Wang Jingze thề rằng anh ta sẽ không bao giờ ăn đồ ăn vùng quê, sau đó bị quay lại cảnh nói \"真香\" khi đang ăn.",
+    "examples": [
+      "I said I'd never use TikTok... 真香.",
+      "说好不吃零食的，结果真香了。(Đã nói là không ăn vặt rồi, kết quả là... ngon quá.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "996",
+    "originalSlug": "996",
+    "characters": "996",
+    "pinyin": "jiǔ jiǔ liù",
+    "meaning": "Làm việc từ 9 giờ sáng đến 9 giờ tối, 6 ngày một tuần — mô tả văn hóa làm việc khắc nghiệt trong các công ty công nghệ Trung Quốc.",
+    "origin": "Trở thành một chủ đề bàn tán lớn vào năm 2019 khi công nhân công nghệ tạo ra \"996.ICU\" trên GitHub để phản đối văn hóa làm việc quá sức.",
+    "examples": [
+      "I can't meet up this week — my company does 996.",
+      "996工作制让人身心疲惫。(Chế độ làm việc 996 khiến người ta kiệt quệ cả về thể chất lẫn tinh thần.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "pua",
+    "originalSlug": "pua",
+    "characters": "PUA",
+    "pinyin": "PUA",
+    "meaning": "Thao túng tâm lý — được sử dụng rộng rãi để mô tả việc lừa dối, thao túng cảm xúc hoặc hành vi độc hại của sếp, đối tác, v.v.",
+    "origin": "Ban đầu từ tiếng Anh \"Pick-Up Artist\", nhưng trong bối cảnh Trung Quốc, nó mở rộng ra có nghĩa là bất kỳ hình thức thao túng tâm lý nào, đặc biệt là ở nơi làm việc.",
+    "examples": [
+      "My boss is totally PUA-ing me by saying I'm not good enough.",
+      "别被老板PUA了。(Đừng để sếp thao túng tâm lý bạn.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "i-ren-e-ren",
+    "originalSlug": "i-ren-e-ren",
+    "characters": "i人/e人",
+    "pinyin": "i rén / e rén",
+    "meaning": "Hướng nội/Hướng ngoại — ám chỉ các loại tính cách MBTI, được sử dụng một cách thông thường để mô tả sở thích giao tiếp xã hội.",
+    "origin": "Kiểm tra tính cách MBTI trở nên cực kỳ phổ biến ở Trung Quốc vào khoảng năm 2022-2023, với i人 (hướng nội) và e人 (hướng ngoại) trở thành những nhãn hiệu hàng ngày.",
+    "examples": [
+      "I'm such an i人 — parties drain my energy.",
+      "作为一个i人，我周末只想在家待着。(Là một người hướng nội, tôi chỉ muốn ở nhà vào cuối tuần.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xiu-gou",
+    "originalSlug": "xiu-gou",
+    "characters": "秀狗/秀恩爱",
+    "pinyin": "xiù ēn ài",
+    "meaning": "Thể hiện tình cảm / PDA — các cặp đôi công khai thể hiện mối quan hệ của họ một cách thái quá.",
+    "origin": "Tiếng lóng trên internet phổ biến chỉ trích những màn thể hiện tình cảm công khai quá mức, đặc biệt là trên mạng xã hội.",
+    "examples": [
+      "Stop 秀恩爱 on WeChat Moments, we get it, you're in love.",
+      "秀恩爱，死得快。(Thể hiện tình cảm, chết sớm — một lời cảnh báo hài hước.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-wa",
+    "originalSlug": "ji-wa",
+    "characters": "鸡娃",
+    "pinyin": "jī wá",
+    "meaning": "Nuôi dạy con kiểu \"hổ\" phiên bản cực đoan — thúc ép con cái học hành cực kỳ vất vả với vô số lớp học thêm và hoạt động.",
+    "origin": "Kết hợp giữa 打鸡血 (tiêm máu gà, nghĩa là tiếp thêm năng lượng) với 娃 (đứa trẻ). Phản ánh sự lo lắng về cạnh tranh giáo dục ở Trung Quốc.",
+    "examples": [
+      "Beijing parents are known for 鸡娃 — kids have no free time.",
+      "别太鸡娃了，孩子需要玩耍。(Đừng \"gà\" con quá, trẻ con cần được vui chơi.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-yi-e",
+    "originalSlug": "e-yi-e",
+    "characters": "EMO/emo",
+    "pinyin": "emo",
+    "meaning": "Cảm thấy buồn bã, chán nản hoặc u sầu — được sử dụng khi trải qua một làn sóng cảm xúc tiêu cực.",
+    "origin": "Mượn từ tiếng Anh \"emo\" nhưng được sử dụng rộng rãi hơn ở Trung Quốc để chỉ bất kỳ nỗi buồn tạm thời hoặc điểm xuống cảm xúc nào.",
+    "examples": [
+      "Rainy days make me so emo.",
+      "今天又emo了。(Hôm nay lại \"emo\" rồi.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gao-qing-shang",
+    "originalSlug": "gao-qing-shang",
+    "characters": "高情商",
+    "pinyin": "gāo qíng shāng",
+    "meaning": "EQ cao — khéo léo, ngoại giao hoặc biết chính xác điều gì nên nói.",
+    "origin": "Được sử dụng trong các meme lan truyền so sánh \"EQ thấp\" (phản hồi thẳng thừng/thô lỗ) với \"EQ cao\" (phản hồi khéo léo/thông minh) trong cùng một tình huống.",
+    "examples": [
+      "Low EQ: \"You're fat.\" High EQ: \"You look prosperous!\"",
+      "高情商说法：你不是胖，你是可爱。(Cách nói EQ cao: Bạn không béo, bạn đáng yêu.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "shuang-jian",
+    "originalSlug": "shuang-jian",
+    "characters": "双减",
+    "pinyin": "shuāng jiǎn",
+    "meaning": "Giảm kép — chính sách của chính phủ nhằm giảm gánh nặng bài tập về nhà và dạy kèm sau giờ học cho học sinh.",
+    "origin": "Chính sách chính thức được đưa ra vào tháng 7 năm 2021, trở thành tiếng lóng được bàn tán rộng rãi vì nó đã thay đổi đáng kể văn hóa giáo dục.",
+    "examples": [
+      "After 双减, kids finally have time to play.",
+      "双减政策改变了教育行业。(Chính sách giảm kép đã thay đổi ngành giáo dục.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2021",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yan-zhi",
+    "originalSlug": "yan-zhi",
+    "characters": "颜值",
+    "pinyin": "yán zhí",
+    "meaning": "Điểm hấp dẫn / giá trị khuôn mặt — một đánh giá bằng số về ngoại hình của ai đó.",
+    "origin": "Được phổ biến thông qua mạng xã hội và các chương trình giải trí của Trung Quốc, nơi ngoại hình được thảo luận công khai và \"chấm điểm\".",
+    "examples": [
+      "That actor has insane 颜值.",
+      "颜值即正义。(Ngoại hình là công lý — vẻ ngoài là tất cả.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2015",
+    "formality": "informal"
+  },
+  {
+    "slug": "cp",
+    "originalSlug": "cp",
+    "characters": "CP (嗑CP)",
+    "pinyin": "kè CP",
+    "meaning": "Gán ghép / ghép đôi — ủng hộ hoặc mơ mộng về một cặp đôi lãng mạn, dù là thật hay hư cấu.",
+    "origin": "Từ tiếng Anh \"couple\" viết tắt thành CP. 嗑CP có nghĩa là \"tiêu thụ\" hoặc ám ảnh về một cặp đôi lãng mạn.",
+    "examples": [
+      "I'm 嗑CP-ing these two actors so hard!",
+      "这对CP好甜！(This couple is so sweet!) - Cặp đôi này ngọt ngào quá!"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "very informal"
+  },
+  {
+    "slug": "da-call",
+    "originalSlug": "da-call",
+    "characters": "打call",
+    "pinyin": "dǎ call",
+    "meaning": "Ủng hộ / cổ vũ — nhiệt tình ủng hộ ai đó hoặc điều gì đó.",
+    "origin": "Từ văn hóa thần tượng Nhật Bản, nơi người hâm mộ thực hiện các hoạt động cổ vũ phối hợp (\"call\") tại các buổi hòa nhạc. Được chấp nhận vào văn hóa internet Trung Quốc.",
+    "examples": [
+      "I'm 打call for my favorite singer!",
+      "为中国女排打call！(Cheering for the Chinese women's volleyball team!) - Cổ vũ cho đội tuyển bóng chuyền nữ Trung Quốc!"
+    ],
+    "category": "Internet Culture",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "fan-quan",
+    "originalSlug": "fan-quan",
+    "characters": "饭圈",
+    "pinyin": "fàn quān",
+    "meaning": "Vòng fan / cộng đồng người hâm mộ — cộng đồng người hâm mộ có tổ chức xung quanh một người nổi tiếng hoặc thần tượng.",
+    "origin": "Từ văn hóa 粉丝 (fan). Cộng đồng người hâm mộ ở Trung Quốc trở nên có tổ chức cao với các hoạt động phối hợp, gây quỹ và các chiến dịch trực tuyến.",
+    "examples": [
+      "饭圈 culture can be pretty intense in China.",
+      "饭圈文化影响了年轻人。(Fan circle culture has influenced young people.) - Văn hóa vòng fan đã ảnh hưởng đến giới trẻ."
+    ],
+    "category": "Youth Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-tou",
+    "originalSlug": "xia-tou",
+    "characters": "虾头",
+    "pinyin": "xiā tóu",
+    "meaning": "Đầu tôm — mô tả một người hấp dẫn từ phía sau nhưng gây thất vọng từ phía trước.",
+    "origin": "Giống như một con tôm, nơi đuôi (thân) là phần ngon và đầu bị vứt bỏ. Trở nên lan truyền trên Douyin.",
+    "examples": [
+      "I thought he was so handsome from behind, turned out to be a 虾头.",
+      "背影杀手，结果是个虾头。(Back-view killer, but turned out to be a shrimp head.) - Sát thủ bóng lưng, hóa ra lại là đầu tôm."
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "very informal"
+  },
+  {
+    "slug": "lao-liu-bi",
+    "originalSlug": "lao-liu-bi",
+    "characters": "老六",
+    "pinyin": "lǎo liù",
+    "meaning": "Người chơi lén lút / cắm trại — một người chơi bẩn hoặc trốn và chờ người khác đánh nhau trước.",
+    "origin": "Từ trò chơi CS:GO, nơi có 5 người chơi trong một đội và \"người chơi thứ 6\" là người đang trốn / cắm trại thay vì chơi đúng cách.",
+    "examples": [
+      "Stop being an 老六 and fight properly!",
+      "你怎么又当老六！(Why are you being a camper again!) - Sao bạn lại chơi kiểu cắm trại nữa vậy!"
+    ],
+    "category": "Internet Culture",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gua",
+    "originalSlug": "gua",
+    "characters": "吃瓜",
+    "pinyin": "chī guā",
+    "meaning": "Ăn dưa hấu — là người xem, quan sát diễn biến sự việc, hóng hớt chuyện mà không can dự vào.",
+    "origin": "Bắt nguồn từ một bức ảnh một người đàn ông ăn dưa hấu trong khi xem một cuộc tranh cãi trên đường phố. 吃瓜群众 (quần chúng ăn dưa) là những người ngoài cuộc thụ động.",
+    "examples": [
+      "I'm just here to 吃瓜, don't drag me into this.",
+      "Tôi chỉ đến đây để ăn dưa thôi, đừng lôi tôi vào.",
+      "吃瓜群众已就位。(The melon-eating spectators are in position.)",
+      "Quần chúng ăn dưa đã vào vị trí."
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "niu",
+    "originalSlug": "niu",
+    "characters": "牛/牛逼",
+    "pinyin": "niú / niú bī",
+    "meaning": "Tuyệt vời / ngầu lòi — lời khen mạnh mẽ cho một điều gì đó ấn tượng hoặc một người nào đó có kỹ năng.",
+    "origin": "Một trong những thuật ngữ lóng trên internet lâu đời nhất của Trung Quốc, 牛 (bò) từ lâu đã được liên kết với việc gây ấn tượng hoặc mạnh mẽ.",
+    "examples": [
+      "You got into Tsinghua? 牛!",
+      "Bạn đậu vào Thanh Hoa á? Ngầu!",
+      "这个设计太牛了！(This design is so awesome!)",
+      "Thiết kế này quá tuyệt vời!"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2000s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gan",
+    "originalSlug": "gan",
+    "characters": "尬",
+    "pinyin": "gà",
+    "meaning": "Khó xử / sượng trân — mô tả một tình huống khó chịu, xấu hổ gián tiếp.",
+    "origin": "Viết tắt của 尴尬 (khó xử). Trở thành cách viết tắt phổ biến trong tin nhắn văn bản và bài đăng trên mạng xã hội.",
+    "examples": [
+      "That conversation was so 尬.",
+      "Cuộc trò chuyện đó thật là sượng.",
+      "好尬啊，不知道说什么好。(So awkward, I don't know what to say.)",
+      "Khó xử quá, không biết nói gì cho phải."
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xue-ba",
+    "originalSlug": "xue-ba",
+    "characters": "学霸",
+    "pinyin": "xué bà",
+    "meaning": "Trùm học bá / thánh học — người học giỏi và luôn đạt điểm cao nhất.",
+    "origin": "Kết hợp 学 (học) với 霸 (bá chủ). Ngược lại là 学渣 (xuézhā, học dốt).",
+    "examples": [
+      "She's such a 学霸, always getting perfect scores.",
+      "Cô ấy đúng là trùm học bá, luôn đạt điểm tuyệt đối.",
+      "学霸的世界我们不懂。(We can't understand the world of academic overachievers.)",
+      "Thế giới của học bá chúng ta không hiểu được."
+    ],
+    "category": "Youth Culture",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ti-geng",
+    "originalSlug": "ti-geng",
+    "characters": "梗",
+    "pinyin": "gěng",
+    "meaning": "Meme / trò đùa dai — một trò đùa trên internet, một tham chiếu hoặc một câu cửa miệng mà mọi người liên tục sử dụng.",
+    "origin": "Ban đầu từ 哏 (gén, một câu nói hài hước trong tấu hài). Phát triển để bao gồm tất cả các meme trên internet và các tham chiếu lan truyền.",
+    "examples": [
+      "I don't get this 梗, can someone explain?",
+      "Tôi không hiểu cái meme này, ai đó giải thích được không?",
+      "这个梗已经过时了。(This meme is already outdated.)",
+      "Cái meme này lỗi thời rồi."
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-tang",
+    "originalSlug": "ji-tang",
+    "characters": "鸡汤/毒鸡汤",
+    "pinyin": "jī tāng / dú jī tāng",
+    "meaning": "Súp gà (cho tâm hồn) / súp gà độc hại — những câu trích dẫn truyền cảm hứng so với những câu trích dẫn phản động lực hài hước đen tối.",
+    "origin": "Từ bộ sách \"Chicken Soup for the Soul\" của Mỹ. 毒鸡汤 là phiên bản nhại lại đầy mỉa mai trên internet của Trung Quốc.",
+    "examples": [
+      "Câu trích dẫn đó thuần túy là 鸡汤 — nghe hay nhưng vô nghĩa.",
+      "毒鸡汤：你不努力，别人替你努力。(Súp gà độc hại: Nếu bạn không nỗ lực, người khác sẽ nỗ lực thay bạn.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-ren-xian-gao-zhuang",
+    "originalSlug": "e-ren-xian-gao-zhuang",
+    "characters": "内耗",
+    "pinyin": "nèi hào",
+    "meaning": "Nội hao — suy nghĩ quá nhiều, nghi ngờ bản thân và tiêu hao năng lượng tinh thần do lo lắng quá mức.",
+    "origin": "Trở nên phổ biến vào khoảng năm 2022 khi các cuộc thảo luận về sức khỏe tinh thần gia tăng trong giới trẻ Trung Quốc.",
+    "examples": [
+      "Stop 内耗 and just do it!",
+      "别再内耗了，做就对了。(Đừng nội hao nữa, cứ làm đi là được.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "te-zhong-bing",
+    "originalSlug": "te-zhong-bing",
+    "characters": "特种兵旅游",
+    "pinyin": "tè zhǒng bīng lǚ yóu",
+    "meaning": "Du lịch đặc chủng — du lịch tốc độ cực cao, nhồi nhét tối đa các điểm tham quan trong thời gian tối thiểu với ngân sách eo hẹp.",
+    "origin": "Xu hướng trong giới sinh viên đại học Trung Quốc năm 2023, những người sẽ ghé thăm 5+ thành phố trong một ngày cuối tuần bằng cách sử dụng tàu đêm để tiết kiệm chi phí khách sạn.",
+    "examples": [
+      "We did a 特种兵旅游 — visited 3 cities in 2 days!",
+      "大学生特种兵旅游攻略。(Hướng dẫn du lịch đặc chủng cho sinh viên đại học.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-lian",
+    "originalSlug": "da-lian",
+    "characters": "搭子",
+    "pinyin": "dā zi",
+    "meaning": "Bạn đồng hành hoạt động — một người bạn ghép cặp với bạn cho các hoạt động cụ thể (bạn ăn, bạn học, bạn du lịch).",
+    "origin": "Trở nên thịnh hành vào năm 2023 khi những người trẻ tuổi tìm kiếm các kết nối xã hội cụ thể theo hoạt động, ít ràng buộc.",
+    "examples": [
+      "I need a 饭搭子 (meal buddy) for lunch today.",
+      "找个学习搭子一起去图书馆。(Tìm một bạn học để cùng nhau đến thư viện.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "di-san-kong-jian",
+    "originalSlug": "di-san-kong-jian",
+    "characters": "第三空间",
+    "pinyin": "dì sān kōng jiān",
+    "meaning": "Không gian thứ ba — một nơi không phải là nhà cũng không phải là nơi làm việc, nơi bạn có thể thư giãn (quán cà phê, thư viện, công viên).",
+    "origin": "Từ khái niệm của nhà xã hội học Ray Oldenburg, được phổ biến ở Trung Quốc khi những người trẻ tuổi tìm kiếm sự thoát ly khỏi không gian sống và làm việc chật chội.",
+    "examples": [
+      "This cafe is my 第三空间.",
+      "年轻人需要第三空间来放松。(Những người trẻ tuổi cần một không gian thứ ba để thư giãn.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2023",
+    "formality": "neutral"
+  },
+  {
+    "slug": "song-si-rui",
+    "originalSlug": "song-si-rui",
+    "characters": "松弛感",
+    "pinyin": "sōng chí gǎn",
+    "meaning": "Phong thái thư thái — phẩm chất của sự bình tĩnh và không lo lắng một cách tự nhiên, không bận tâm về mọi thứ.",
+    "origin": "Trở thành một hình mẫu lý tưởng lan truyền vào năm 2022 như một sự phản kháng lại văn hóa lo âu, tôn vinh những người giữ được bình tĩnh dưới áp lực.",
+    "examples": [
+      "She has such 松弛感 — nothing seems to bother her.",
+      "我要学习她的松弛感。(Tôi muốn học theo phong thái thư thái của cô ấy.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "ka-dian",
+    "originalSlug": "ka-dian",
+    "characters": "卡点",
+    "pinyin": "kǎ diǎn",
+    "meaning": "Đến vào đúng khoảnh khắc cuối cùng có thể — chính xác đúng giờ mà không có bất kỳ sai số nào.",
+    "origin": "Mô tả thói quen đẩy thời hạn và thời gian đến mức giới hạn tuyệt đối, phổ biến trong giới trẻ.",
+    "examples": [
+      "He always 卡点 arrives — one second later and he'd be late.",
+      "每次上班都卡点到。(Lúc nào đi làm cũng đến sát giờ.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "dian-zan",
+    "originalSlug": "dian-zan",
+    "characters": "点赞",
+    "pinyin": "diǎn zàn",
+    "meaning": "Thích / cho một ngón tay cái lên — nhấn nút thích, hoặc rộng hơn, là tán thành điều gì đó.",
+    "origin": "Từ nút thích của mạng xã hội. Đã đi vào lời nói hàng ngày để có nghĩa là đưa ra sự chấp thuận hoặc khen ngợi.",
+    "examples": [
+      "给你点赞! (Thích bạn!)",
+      "这个操作我要点赞。(Tôi phải cho một ngón tay cái lên cho hành động này.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2012",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ji",
+    "originalSlug": "gao-ji",
+    "characters": "割韭菜",
+    "pinyin": "gē jiǔ cài",
+    "meaning": "Thu hoạch rau hẹ — lừa đảo hoặc bóc lột người tiêu dùng/nhà đầu tư, đặc biệt thông qua các sản phẩm giá quá cao hoặc các khoản đầu tư tồi.",
+    "origin": "Rau hẹ mọc lại sau khi bị cắt, tượng trưng cho việc người tiêu dùng/nhà đầu tư tiếp tục quay lại để bị bóc lột một lần nữa.",
+    "examples": [
+      "That crypto project is just 割韭菜.",
+      "别被割韭菜了。(Đừng để bị lừa.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "hua-zi",
+    "originalSlug": "hua-zi",
+    "characters": "画大饼",
+    "pinyin": "huà dà bǐng",
+    "meaning": "Vẽ bánh lớn — đưa ra những lời hứa suông, đặc biệt là bởi các ông chủ hứa tăng lương hoặc thăng chức mà không bao giờ thực hiện.",
+    "origin": "Thành ngữ truyền thống được tái sử dụng cho văn hóa công sở hiện đại, mô tả những lời hứa rỗng tuếch từ ban quản lý.",
+    "examples": [
+      "My boss loves to 画大饼 but never delivers.",
+      "又画大饼了，这次我不信了。(Lại vẽ bánh lớn rồi, lần này tôi không tin nữa.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "shai-tai-yang",
+    "originalSlug": "shai-tai-yang",
+    "characters": "晒",
+    "pinyin": "shài",
+    "meaning": "Khoe khoang / chia sẻ công khai — đăng ảnh về những món đồ đã mua, chuyến đi hoặc thành tích lên mạng xã hội.",
+    "origin": "Ban đầu có nghĩa là \"phơi nắng\". Nghĩa mở rộng: phơi bày/trưng bày điều gì đó công khai, đặc biệt là trên mạng xã hội.",
+    "examples": [
+      "She's always 晒-ing her luxury bags on Instagram. (Cô ấy luôn 晒 túi xách hàng hiệu của mình trên Instagram.)",
+      "朋友圈晒美食。(Chia sẻ ảnh đồ ăn trên WeChat Moments.) (Chia sẻ ảnh đồ ăn trên khoảnh khắc WeChat.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "bao-fu-xing-xiao-fei",
+    "originalSlug": "bao-fu-xing-xiao-fei",
+    "characters": "报复性消费",
+    "pinyin": "bào fù xìng xiāo fèi",
+    "meaning": "Tiêu dùng trả thù — vung tiền quá mức sau một thời gian không thể tiêu (ví dụ: sau thời gian phong tỏa).",
+    "origin": "Trở nên phổ biến sau khi các lệnh phong tỏa COVID kết thúc và mọi người bắt đầu mua sắm và ăn uống thả ga.",
+    "examples": [
+      "After lockdown, everyone went on a 报复性消费 spree. (Sau phong tỏa, mọi người bắt đầu một đợt tiêu dùng trả thù.)",
+      "解封后开始报复性消费。(Started revenge spending after restrictions were lifted.) (Bắt đầu tiêu dùng trả thù sau khi các hạn chế được dỡ bỏ.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tian-hua-ban",
+    "originalSlug": "tian-hua-ban",
+    "characters": "天花板",
+    "pinyin": "tiān huā bǎn",
+    "meaning": "Trần nhà — đỉnh cao tuyệt đối hoặc mức cao nhất của một cái gì đó. Được sử dụng như một tính từ so sánh nhất.",
+    "origin": "Mượn từ khái niệm \"glass ceiling\" (trần kính) nhưng được sử dụng tích cực để có nghĩa là \"tốt nhất\" trong tiếng lóng trên internet Trung Quốc.",
+    "examples": [
+      "This is the 天花板 of hotpot restaurants. (Đây là 天花板 của các nhà hàng lẩu.)",
+      "颜值天花板。(The ceiling of attractiveness — the most attractive person.) (Nhan sắc 天花板 — người hấp dẫn nhất.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "ci-sheng-ren",
+    "originalSlug": "ci-sheng-ren",
+    "characters": "刺客",
+    "pinyin": "cì kè",
+    "meaning": "Sát thủ giá — một sản phẩm trông rẻ nhưng khiến bạn sốc với mức giá cao bất ngờ khi thanh toán.",
+    "origin": "Bắt đầu với \"雪糕刺客\" (sát thủ kem) vào năm 2022 khi các thương hiệu kem đắt tiền đánh lừa những người mong đợi giá rẻ.",
+    "examples": [
+      "That ice cream was a 刺客 — looked normal but cost $8! (Cây kem đó là một 刺客 — trông bình thường nhưng có giá 8 đô la!)",
+      "小心超市里的雪糕刺客。(Watch out for ice cream assassins in the supermarket.) (Cẩn thận với những sát thủ kem trong siêu thị.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-ban-nao",
+    "originalSlug": "xia-ban-nao",
+    "characters": "下班脑",
+    "pinyin": "xià bān nǎo",
+    "meaning": "Não tan làm — trạng thái tinh thần chỉ nghĩ đến việc tan làm, không có động lực.",
+    "origin": "Xu hướng lan truyền vào năm 2023 mô tả những người lao động có mặt về thể chất nhưng tinh thần đã rời đi.",
+    "examples": [
+      "I have serious 下班脑 today — can't focus on anything. (Hôm nay tôi bị 下班脑 nghiêm trọng — không thể tập trung vào bất cứ điều gì.)",
+      "一到下午三点就开始下班脑了。(Off-work brain kicks in at 3pm.) (Não tan làm bắt đầu vào lúc 3 giờ chiều.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "suan-le",
+    "originalSlug": "suan-le",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Thôi bỏ đi / Kệ đi — diễn tả sự cam chịu hoặc quyết định không bận tâm đến điều gì đó.",
+    "origin": "Một cụm từ truyền thống trở thành tâm trạng/thái độ của giới trẻ, thường được sử dụng như một triết lý sống.",
+    "examples": [
+      "Want to argue about it? 算了.",
+      "算了算了，不想了。(Thôi bỏ đi, thôi bỏ đi, không muốn nghĩ nữa.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ye-sheng-de",
+    "originalSlug": "ye-sheng-de",
+    "characters": "野生",
+    "pinyin": "yě shēng",
+    "meaning": "Hoang dã / không chính thức — một cái gì đó hoặc ai đó tự tạo, không chính thức hoặc được khám phá ở một nơi bất ngờ.",
+    "origin": "Được sử dụng để mô tả những người nghiệp dư nhưng tài năng được tìm thấy \"trong tự nhiên\" — giống như một ca sĩ đường phố hát rất hay.",
+    "examples": [
+      "I found a 野生 singer on the subway who was amazing!",
+      "野生程序员。(Một lập trình viên \"hoang dã\" tự học.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhuan-zhuan",
+    "originalSlug": "zhuan-zhuan",
+    "characters": "润",
+    "pinyin": "rùn",
+    "meaning": "Di cư / rời khỏi Trung Quốc — từ chữ \"run\" trong tiếng Anh, dùng để mô tả những người rời khỏi đất nước.",
+    "origin": "Trở nên phổ biến vào năm 2022 khi các cuộc thảo luận về di cư gia tăng. Sử dụng chữ 润 (ẩm/mượt) như một cách chơi chữ cho \"run\".",
+    "examples": [
+      "Many tech workers are thinking about 润.",
+      "他润到加拿大了。(Anh ấy đã di cư đến Canada.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-di",
+    "originalSlug": "da-di",
+    "characters": "大地/大爹",
+    "pinyin": "dà dì / dà diē",
+    "meaning": "Đại ca / Bố già — dùng một cách mỉa mai để mô tả hành vi kiêu ngạo hoặc hống hách.",
+    "origin": "Tiếng lóng trên mạng chế nhạo những người hành xử như thể họ vượt trội hoặc có quyền, đặc biệt là những khách hàng \"Karen\" trong dịch vụ khách hàng.",
+    "examples": [
+      "Who do you think you are, 大爹?",
+      "又来了一个大爹顾客。(Lại đến một vị khách \"bố già\" nữa.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2022",
+    "formality": "very informal"
+  }
+]

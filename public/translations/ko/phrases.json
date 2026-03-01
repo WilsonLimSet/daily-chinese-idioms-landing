@@ -1,0 +1,1202 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "계산해주세요 / 계산서 주세요",
+    "context": "식사를 마치고 계산을 요청할 때 사용합니다. 손을 들고 웨이터에게 이 말을 하면 됩니다. 일부 지역에서는 结账 (jié zhàng)을 대신 사용합니다.",
+    "examples": [
+      "服务员，买单！(웨이터, 계산해주세요!)",
+      "Can we 买单? We're ready to go.(계산해도 될까요? 이제 가려고요.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "포장 / 남은 음식 포장",
+    "context": "남은 음식을 집에 가져가고 싶을 때 사용합니다. 중국에서는 매우 흔하며 무례하게 여겨지지 않습니다. 음식을 낭비하는 것이 더 나쁘다고 생각합니다.",
+    "examples": [
+      "这个菜打包吧。(이 요리 포장해 주세요.)",
+      "可以打包吗？(포장 가능할까요?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "맵지 않게 해주세요 / 안 맵게 해주세요",
+    "context": "쓰촨, 후난 및 기타 매운 음식이 많은 지역에서 필수적인 표현입니다. 변형: 少辣 (shǎo là, 덜 맵게), 微辣 (wēi là, 약간 맵게), 中辣 (zhōng là, 중간 맵게).",
+    "examples": [
+      "不要辣，谢谢。(맵지 않게 해주세요, 감사합니다.)",
+      "我不能吃辣，少辣可以吗？(저는 매운 것을 못 먹는데, 덜 맵게 해주실 수 있나요?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "뭐 추천해주세요?",
+    "context": "지역 특선 요리를 발견하는 좋은 방법입니다. 레스토랑 직원들은 보통 자신들의 대표 요리를 추천하는 것을 좋아합니다. 상점이나 카페에서도 사용할 수 있습니다.",
+    "examples": [
+      "你们这儿有什么推荐？(여기 뭐 추천해주세요?)",
+      "第一次来，有什么推荐的菜？(처음 왔는데, 추천하는 요리 있나요?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "저는 채식주의자입니다 / 저는 채식을 합니다",
+    "context": "외식하는 채식주의자에게 중요합니다. 중국에서 \"채식\"은 여전히 계란과 유제품을 포함할 수 있습니다. 비건의 경우 我是纯素 (wǒ shì chún sù)라고 말합니다.",
+    "examples": [
+      "我吃素，有素菜吗？(저는 채식주의자인데, 채식 요리가 있나요?)",
+      "这个里面有肉吗？我吃素。(이 안에 고기가 들어있나요? 저는 채식주의자입니다.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "건배! / 원샷!",
+    "context": "직역하면 \"잔을 비우다\" — 한 번에 술을 다 마시는 것을 의미합니다. 공식적인 저녁 식사에서 이 말을 많이 들을 수 있습니다. 술을 잘 못 마시면 随意 (suí yì, 편하게 마셔요)라고 말할 수도 있습니다.",
+    "examples": [
+      "为我们的友谊干杯！(우리 우정을 위해 건배!)",
+      "来，干杯！(자, 원샷!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "하나 더 주세요 / 하나 더",
+    "context": "음식, 음료 또는 1인분을 더 주문할 때 사용됩니다. 식당, 술집, 길거리 음식점에서 사용할 수 있습니다.",
+    "examples": [
+      "这个很好吃，再来一个！(이거 정말 맛있네요, 하나 더 주세요!)",
+      "啤酒再来一个。(맥주 하나 더 주세요.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "배불러요 / 충분히 먹었어요",
+    "context": "음식을 더 정중하게 거절하는 방법입니다. 중국 문화에서는 주인이 계속 음식을 권할 것입니다. 吃饱了라고 말하는 것은 감사를 표하면서 충분히 먹었다는 것을 나타냅니다.",
+    "examples": [
+      "谢谢，我吃饱了。(감사합니다, 배불러요.)",
+      "真的吃饱了，不用再加了。(정말 배불러서 더 안 주셔도 돼요.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "각자 내기 / 더치페이",
+    "context": "친구와 젊은 사람들 사이에서 흔합니다. 전통적인 중국 문화에서는 보통 한 사람이 테이블 전체 비용을 지불하지만, AA制는 특히 밀레니얼 세대 사이에서 점점 더 받아들여지고 있습니다.",
+    "examples": [
+      "今天AA制吧。(오늘 각자 내죠.)",
+      "我们AA还是你请？(우리 더치페이 할까요 아니면 당신이 살 건가요?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "이거 어떻게 먹어요?",
+    "context": "훠궈, 북경 오리 쌈, 샤오롱바오와 같이 익숙하지 않은 중국 음식을 마주했을 때 유용합니다. 아무도 당신을 판단하지 않을 것입니다. 그것은 진정한 관심을 보여줍니다.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(이거 어떻게 먹어요? 소스에 찍어 먹어야 하나요?)",
+      "小笼包怎么吃才不会烫？(샤오롱바오를 어떻게 먹어야 데지 않을까요?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "너무 비싸요!",
+    "context": "시장에서 흥정할 때 필수적인 표현입니다. 약간 고통스러운 표정으로 말하면 효과가 극대화됩니다. 시장, 작은 가게, 길거리 상인에게는 통하지만 쇼핑몰이나 체인점에서는 통하지 않습니다.",
+    "examples": [
+      "太贵了，便宜点吧！(Too expensive, make it cheaper!) -> 너무 비싸요, 좀 깎아주세요!",
+      "这个太贵了，我再看看。(This is too expensive, I'll look around more.) -> 이거 너무 비싸네요, 좀 더 둘러볼게요."
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "좀 더 싸게 해주세요 / 할인해주세요",
+    "context": "太贵了의 후속 표현입니다. 정중하게 협상을 시작하는 방법입니다. 여러 개를 사거나 단골이라는 이유와 함께 사용할 수 있습니다.",
+    "examples": [
+      "老板，便宜点嘛！(Boss, give me a better price!) -> 사장님, 좀 싸게 해주세요!",
+      "买两个能便宜点吗？(Can it be cheaper if I buy two?) -> 두 개 사면 좀 더 싸게 해주실 수 있나요?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "입어봐도 돼요? / 먹어봐도 돼요?",
+    "context": "옷 가게, 신발 가게 또는 음식을 시식할 때 사용됩니다. 대부분의 상점에서 입어보는 것을 허용하지만 일부 시장 가판대에서는 허용하지 않을 수 있습니다.",
+    "examples": [
+      "这件衣服可以试试吗？(Can I try on this piece of clothing?) -> 이 옷 입어봐도 돼요?",
+      "这个口味可以试试吗？(Can I try this flavor?) -> 이 맛 먹어봐도 돼요?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "다른 색깔 있어요?",
+    "context": "옷, 액세서리 또는 가정 용품을 쇼핑할 때 유용합니다. 颜色 대신 尺码 (chǐ mǎ, 사이즈) 또는 款式 (kuǎn shì, 스타일)을 사용할 수 있습니다.",
+    "examples": [
+      "这个有没有别的颜色？(Does this come in other colors?) -> 이거 다른 색깔 있어요?",
+      "有没有大一号的？(Do you have one size bigger?) -> 더 큰 사이즈 있어요?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "카드로 하시겠어요, 현금으로 하시겠어요?",
+    "context": "계산대에서 듣게 될 것입니다. 요즘은 대부분의 장소에서 WeChat Pay와 Alipay도 허용합니다. 微信还是支付宝 (WeChat or Alipay?)라고 들을 수도 있습니다.",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Card or cash?——Can I use WeChat Pay?) -> 카드로 하시겠어요, 현금으로 하시겠어요?——위챗페이 되나요?",
+      "可以刷卡吗？(Can I pay by card?) -> 카드 결제 되나요?"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "할인 / 세일 중",
+    "context": "중국에서는 할인을 지불하는 비율로 표현합니다. 打八折는 가격의 80%(20% 할인)를 의미하고, 打五折는 50% 할인을 의미합니다. 이는 영어에서의 할인 방식과는 반대입니다.",
+    "examples": [
+      "现在打折吗？(지금 할인 중인가요?)",
+      "这个打几折？(이거 몇 퍼센트 할인이에요?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "이거 가짜 아니야? / 설마!",
+    "context": "시장에서 제품의 진위 여부를 의심할 때나 대화에서 믿기지 않는다는 표현으로 사용됩니다. 쇼핑 상황에서는 너무 공격적으로 사용하지 않도록 주의하세요.",
+    "examples": [
+      "这个是真的还是假的？(이거 진짜예요, 가짜예요?)",
+      "五百块？假的吧！(500위안? 설마!)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "무료 배송인가요?",
+    "context": "타오바오, 징둥닷컴 등 온라인 쇼핑에 필수적인 표현입니다. 중국 쇼핑객들이 가장 먼저 묻는 질문 중 하나입니다. 농담으로 직접 만나서도 사용할 수 있습니다.",
+    "examples": [
+      "这个包邮吗？(이거 무료 배송인가요?)",
+      "满多少包邮？(얼마 이상 구매해야 무료 배송인가요?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "반품하다 / 환불",
+    "context": "구매한 물건을 반품하고 싶을 때 사용합니다. 退款 (tuì kuǎn)은 구체적으로 돈을 환불받는 것을 의미합니다. 온라인 쇼핑 플랫폼은 보통 7일 반품 정책을 가지고 있습니다.",
+    "examples": [
+      "这个可以退货吗？(이거 반품할 수 있나요?)",
+      "我想退货退款。(반품하고 환불받고 싶어요.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "최저 가격이 얼마예요? / 얼마까지 해줄 수 있어요?",
+    "context": "흥정의 핵심 기술입니다. 몇 번 주고받은 후에 사용하세요. 구매 의사가 있지만 더 나은 가격이 필요하다는 것을 나타냅니다.",
+    "examples": [
+      "最低多少钱？(최저 가격이 얼마예요?)",
+      "不用讲价了，最低多少？(더 이상 흥정하지 않을게요, 최저 가격이 얼마예요?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "거기 어떻게 가요? / 어느 쪽이에요?",
+    "context": "가장 기본적인 길 묻는 표현입니다. 지도나 랜드마크를 가리키며 怎么走라고 물어보세요. 언어가 통하지 않아도 보통은 올바른 방향을 가리켜 줄 겁니다.",
+    "examples": [
+      "请问，地铁站怎么走？(Excuse me, how do I get to the subway station?) -> 실례합니다, 지하철역 어떻게 가요?",
+      "去天安门怎么走？(How do I get to Tiananmen?) -> 천안문 어떻게 가요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "다 왔어요? / 도착했어요?",
+    "context": "택시, 버스, 또는 누군가가 운전해 줄 때 사용합니다. 운전자에게 快到了吗 (kuài dào le ma, 거의 다 왔어요?)라고 물어볼 수도 있습니다.",
+    "examples": [
+      "师傅，到了吗？(Driver, are we there?) -> 기사님, 다 왔어요?",
+      "还没到吗？还有多远？(Haven't we arrived yet? How much further?) -> 아직 안 왔어요? 얼마나 더 가야 해요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "어디에서 내려야 하나요?",
+    "context": "버스나 지하철에서 사용합니다. 운전기사나 다른 승객에게 휴대폰으로 목적지를 보여주고 물어보세요. 버스에서는 운전기사나 자동 안내 방송에서 정류장을 알려줍니다.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Excuse me, where do I get off for the Forbidden City?) -> 실례합니다, 자금성에 가려면 어디에서 내려야 하나요?",
+      "我应该在哪一站下车？(Which stop should I get off at?) -> 저는 어느 역에서 내려야 하나요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "차가 막혀요 / 교통 체증이에요",
+    "context": "특히 출퇴근 시간에 중국 도시에서 매우 흔합니다. 택시 기사들이 종종 먼저 언급할 것입니다. 늦었을 때 유용한 변명이기도 합니다.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Sorry, stuck in traffic, might be late.) -> 죄송합니다, 차가 막혀서 늦을 것 같아요.",
+      "这条路总是堵车。(This road always has traffic jams.) -> 이 길은 항상 차가 막혀요."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "기사님, 잠깐 세워주세요",
+    "context": "택시나 차량 공유 서비스에서 내리고 싶을 때 사용합니다. 师傅 (shī fu)는 운전기사를 존경하는 방식으로 부르는 것입니다. 前面停 (qián miàn tíng, 앞에 세워주세요)라고 말할 수도 있습니다.",
+    "examples": [
+      "师傅，前面路口停一下。(Driver, please stop at the intersection ahead.) -> 기사님, 앞 사거리에서 세워주세요.",
+      "师傅，就这里停吧。(Driver, you can stop right here.) -> 기사님, 여기 세워주세요."
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "길을 잃었어요.",
+    "context": "지도 앱에 목적지를 보여주면서 이 말을 하세요. 대부분의 중국인들은 길을 찾도록 도와주려고 할 것이고, 심지어는 데려다 줄 수도 있습니다.",
+    "examples": [
+      "不好意思，我迷路了。(Excuse me, I'm lost.) -> 죄송합니다, 길을 잃었어요.",
+      "我迷路了，这里是哪儿？(I'm lost, where is this?) -> 길을 잃었어요, 여기는 어디인가요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "와이파이 있나요?",
+    "context": "여행자에게 필수적입니다. 대부분의 카페, 식당, 호텔에 와이파이가 있습니다. 비밀번호는 종종 표지판에 표시되어 있거나 密码是什么 (mì mǎ shì shén me, 비밀번호가 뭐에요?)라고 물어볼 수 있습니다.",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Do you have Wi-Fi? What's the password?) -> 와이파이 있나요? 비밀번호는 뭐에요?",
+      "这里Wi-Fi信号好吗？(Is the Wi-Fi signal good here?) -> 여기 와이파이 신호가 좋나요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "얼마나 걸려요? / 얼마나 있으면 도착해요?",
+    "context": "택시, 차량 공유 운전자에게 사용하거나 대중교통 시간을 물어볼 때 사용합니다. 배달 예상 시간이나 친구들과 만날 때도 사용할 수 있습니다.",
+    "examples": [
+      "师傅，多久能到？(Driver, how long until we get there?) -> 기사님, 얼마나 걸려요?",
+      "坐地铁多久能到？(How long does it take by subway?) -> 지하철로 얼마나 걸려요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "가까워요? / 가까운가요?",
+    "context": "어딘가 걸어가기 전에 거리를 가늠하는 빠른 방법입니다. 대답은 종종 很近 (hěn jìn, 매우 가까워요) 또는 不远 (bù yuǎn, 멀지 않아요)입니다. 하지만 중국에서 \"가깝다\"의 정의는 매우 다양할 수 있습니다.",
+    "examples": [
+      "地铁站近不近？(Is the subway station nearby?) -> 지하철역이 가까워요?",
+      "走路去近不近？(Is it close enough to walk?) -> 걸어가기에 가까운가요?"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "GPS 네비게이션 / 지도 앱을 사용하다",
+    "context": "택시 운전사에게 GPS를 따라가라고 하거나, 다른 사람에게 길 안내를 도와달라고 요청하세요. 高德地图 (Gaode/Amap)과 百度地图 (Baidu Maps)는 중국의 주요 네비게이션 앱입니다.",
+    "examples": [
+      "师傅，你开导航吧。(Driver, just follow the GPS.) -> 기사님, 네비게이션 켜세요.",
+      "我导航一下。(Let me check the navigation.) -> 제가 네비게이션을 켜볼게요."
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "시간 있으세요? / 시간 되세요?",
+    "context": "누군가를 초대하는 일반적인 방법입니다. 보통 구체적인 계획이 뒤따릅니다. 오늘이나 미래의 날짜에 사용할 수 있습니다. 예를 들어 明天 (míng tiān, 내일) 또는 周末 (zhōu mò, 주말)과 같은 시간 단어를 추가하세요.",
+    "examples": [
+      "周末有空吗？一起吃饭？(이번 주말에 시간 있으세요? 같이 밥 먹을래요?)",
+      "你明天有空吗？(내일 시간 되세요?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "다음에 해요 / 다음에 봐요",
+    "context": "직접적으로 거절하지 않고 초대를 정중하게 거절하는 방법입니다. 중국 사회 문화에서는 이것이 양측의 체면을 살려주는 부드러운 거절입니다.",
+    "examples": [
+      "今天太忙了，改天吧。(오늘 너무 바빠서 다음에 해요.)",
+      "改天再约吧。(다음에 다시 약속 잡아요.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "아무거나 / 아무거나 좋아요 / 상관없어요",
+    "context": "계획을 세울 때 가장 흔한 (그리고 때로는 답답한) 대답입니다. 정말로 선호하는 것이 없을 때 사용됩니다. 경고: 随便를 너무 많이 말하면 무관심해 보일 수 있습니다.",
+    "examples": [
+      "吃什么？——随便，都行。(뭐 먹을래? —— 아무거나, 다 괜찮아.)",
+      "你随便选吧。(아무거나 골라봐.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "네가 알아서 해 / 네 마음대로 해",
+    "context": "결정을 다른 사람에게 미루는 것입니다. 随便와 비슷하지만 책임을 다른 사람에게 넘깁니다. 친구들이 어디에서 밥을 먹을지, 무엇을 할지 등을 결정할 때 흔히 사용됩니다.",
+    "examples": [
+      "去哪儿？——看你。(어디 갈까? —— 네가 알아서 해.)",
+      "想看什么电影？看你吧。(무슨 영화 보고 싶어? 네 마음대로 해.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "됐어 / 신경 쓰지 마",
+    "context": "계획을 포기하거나, 논쟁을 그만두거나, 어떤 것이 노력할 가치가 없다고 판단할 때 사용됩니다. 약간의 좌절감이나 수용을 표현할 수 있습니다.",
+    "examples": [
+      "等了半小时了，算了，走吧。(30분이나 기다렸어, 됐어, 가자.)",
+      "算了算了，不想了。(됐어 됐어, 생각하고 싶지 않아.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "상관 없어 / 괜찮아",
+    "context": "随便보다 강한 표현. 무관심하게 들릴 수도 있고, 정말로 느긋하게 들릴 수도 있습니다. 어조에 따라 무시하는 것처럼 들릴 수 있으니 주의해서 사용하세요.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(You're late!——Doesn't matter, I wasn't doing anything anyway.) -> 너 늦었어! - 상관 없어, 나도 별일 없었어.",
+      "去不去都无所谓。(It doesn't matter whether we go or not.) -> 가든 안 가든 상관 없어."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "다음에 / 다음에 보자",
+    "context": "계획을 정중하게 거절하거나 미루는 또 다른 방법. 改天吧와 비슷하지만, 특히 다음 기회를 언급합니다. 때로는 정말로 다음을 의미하고, 때로는 부드러운 거절입니다.",
+    "examples": [
+      "今天去不了，下次吧。(Can't make it today, next time.) -> 오늘 못 가, 다음에 보자.",
+      "下次吧，这次太赶了。(Next time, this time is too rushed.) -> 다음에 하자, 이번에는 너무 촉박해."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "만날래? / 데이트 할래?",
+    "context": "가볍고, 종종 문자 기반의 초대. 친구들 사이에서 매우 흔합니다. 밥, 술 또는 어떤 활동이든 제안하는 데 사용할 수 있습니다. 때로는 장난스럽게 추파를 던지는 의미도 있습니다.",
+    "examples": [
+      "周末约吗？(Want to hang out this weekend?) -> 주말에 만날래?",
+      "好久不见，约个饭？(Long time no see, want to grab food?) -> 오랜만이네, 밥 한번 먹을까?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "내가 살게 / 내가 낼게",
+    "context": "계산을 하겠다는 제안은 중국 사회 문화에서 큰 부분을 차지합니다. 누가 계산할지를 두고 종종 친근한 \"싸움\"이 벌어집니다. 식사 전에 我请你라고 말하면 기대감을 설정합니다.",
+    "examples": [
+      "今天我请你，别客气。(Today's my treat, don't be polite.) -> 오늘 내가 살게, 사양하지 마.",
+      "这顿我请。(This meal is on me.) -> 이 밥은 내가 낼게."
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "갈 거야? / 가고 싶어?",
+    "context": "누군가가 활동에 참여하고 싶어하는지 묻는 직접적이고 캐주얼한 방법. A-not-A 질문 패턴 (去不去, 要不要, 好不好)은 중국어에서 가장 유용한 구조 중 하나입니다.",
+    "examples": [
+      "明天爬山，你去不去？(Hiking tomorrow, you going?) -> 내일 등산하는데, 갈 거야?",
+      "唱K去不去？(Want to go to karaoke?) -> 노래방 갈래?"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "정말?! / 진심이에요? / 설마!",
+    "context": "놀라움이나 불신을 표현하는 말. 중국어 대화에서 가장 흔하게 사용되는 반응 중 하나입니다. 진정한 질문이거나 수사적인 외침일 수 있습니다.",
+    "examples": [
+      "他辞职了！——真的假的？！(He quit his job!——Are you serious?!) -> 그가 사직했대! - 정말요?!",
+      "真的假的，这么便宜？(No way, this cheap?) -> 설마, 이렇게 싸다고요?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "너무 과장됐어 / 너무 오버했어",
+    "context": "믿을 수 없거나 과도하거나 극적인 것에 반응하는 데 사용됩니다. 부정적(가격, 행동)이거나 경외심을 동반한 긍정적(놀라운 공연)일 수 있습니다.",
+    "examples": [
+      "排队两小时？太夸张了吧！(Two hour queue? That's ridiculous!) -> 두 시간 줄을 서야 한다고? 너무 심하잖아!",
+      "这个特效太夸张了。(These special effects are over the top.) -> 이 특수 효과는 너무 과장됐어."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "괜찮아요 / 나쁘지 않아요 / 그저 그래요",
+    "context": "미지근한 반응. 좋지도 나쁘지도 않을 때 사용됩니다. 중국인들은 종종 성과에 대해 겸손하거나 확정적이지 않은 의견을 제시하기 위해 이 표현을 사용합니다.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(How's this restaurant?——It's okay, nothing special.) -> 이 식당 어때요? - 그냥 그래요, 평범해요.",
+      "考试难吗？——还好吧。(Was the exam hard?——It was okay.) -> 시험 어려웠어요? - 괜찮았어요."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "상황에 따라 달라요 / 두고 봐야 해요",
+    "context": "확실한 예 또는 아니오를 피하는 비 확정적인 답변. 직접적인 표현을 피하는 중국어 의사 소통에서 매우 일반적으로 사용됩니다.",
+    "examples": [
+      "你去吗？——看情况吧。(Are you going?——Depends on the situation.) -> 가세요? - 상황 봐서요.",
+      "能不能做到？看情况。(Can it be done? We'll see.) -> 할 수 있어요? 두고 봐야 해요."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "생각지도 못했어 / 전혀 생각 못 했어",
+    "context": "예상치 못한 결과에 대한 진정한 놀라움을 표현합니다. 긍정적일 수도 있고 부정적일 수도 있습니다. 현실이 예상과 크게 다를 때 사용됩니다.",
+    "examples": [
+      "没想到你中文说得这么好！(I didn't expect your Chinese to be so good!) -> 중국어를 그렇게 잘하는 줄 몰랐어요!",
+      "真没想到他会来。(I really didn't expect him to come.) -> 그가 올 줄은 정말 몰랐어요."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "말이 되네 / 일리 있네",
+    "context": "상대방의 추론이나 논리에 동의할 때 사용합니다. 대화 중에 상대방의 말을 경청하고 그 주장이 타당하다고 생각할 때 흔히 사용하는 표현입니다.",
+    "examples": [
+      "你说的有道理。(What you said makes sense.) -> 네 말이 일리 있네.",
+      "有道理，我没想到这一点。(Good point, I hadn't thought of that.) -> 말이 되네, 그 점은 생각 못 했어."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "그것도 그러네 / 네 말도 맞아",
+    "context": "상대방의 관점을 인정할 때, 특히 상대방이 당신의 생각을 바꾸거나 당신이 고려하지 못했던 관점을 추가했을 때 사용합니다. 有道理보다 약간 더 양보하는 뉘앙스입니다.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(You have a point, let's change the place then.) -> 그것도 그러네, 그럼 우리 장소를 바꾸자.",
+      "说的也是，我再想想。(That's true too, let me think about it more.) -> 네 말도 맞아, 내가 다시 생각해 볼게."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "어떻게 그럴 수가 있어? / 말도 안 돼!",
+    "context": "강한 불신을 표현하는 말입니다. 真的假的보다 더 강조하는 표현입니다. 무언가가 완전히 믿을 수 없거나 논리에 어긋날 때 사용합니다.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(He ran 100km in a day? That's impossible!) -> 그가 하루에 100km를 뛰었다고? 말도 안 돼!",
+      "怎么可能这么快就卖完了？(How can it be sold out already?) -> 어떻게 이렇게 빨리 다 팔릴 수가 있어?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "그 정도는 아니야 / 설마 / 그렇게까지 할 필요는 없어",
+    "context": "상대방을 진정시키거나 과민 반응한다고 생각될 때 사용합니다. 상황이 실제로 얼마나 심각한지에 대한 경계를 설정합니다.",
+    "examples": [
+      "不至于吧，没那么严重。(Come on, it's not that serious.) -> 설마, 그렇게 심각한 건 아니잖아.",
+      "迟到五分钟而已，不至于发火吧？(Just five minutes late, no need to get angry, right?) -> 5분 늦었을 뿐인데, 그렇게 화낼 필요는 없잖아?"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "거의 비슷해 / 대략 / 거의 같아",
+    "context": "가장 다재다능한 중국어 표현 중 하나입니다. \"거의\", \"대략 비슷함\", \"충분함\", 또는 \"거의 맞음\"을 의미할 수 있습니다. 유연하고 완벽주의적이지 않은 태도를 반영합니다.",
+    "examples": [
+      "这两个差不多，买哪个都行。(These two are about the same, either one works.) -> 이 두 개는 거의 비슷해, 아무거나 사도 돼.",
+      "快好了吗？——差不多了。(Almost done?——Just about.) -> 거의 다 됐어? - 거의 다 됐어."
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "수고하셨습니다 / 노고에 감사합니다",
+    "context": "중국 직장 및 사회 문화에서 매우 중요한 표현입니다. 누군가의 노력이나 노고를 인정할 때 사용됩니다. 배달 기사, 긴 회의 후 동료, 또는 당신을 도운 모든 사람에게 말합니다.",
+    "examples": [
+      "辛苦了，快休息吧。(수고하셨습니다, 어서 쉬세요.)",
+      "今天的会议辛苦大家了。(오늘 회의에 모두 수고하셨습니다.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "잘 부탁드립니다 / 보살펴 주세요",
+    "context": "새로운 동료, 비즈니스 파트너를 만나거나 새로운 팀에 합류할 때 말합니다. 겸손과 존경을 나타냅니다. 일본어의 よろしくお願いします와 유사합니다.",
+    "examples": [
+      "我是新来的，请多关照。(새로 왔습니다, 잘 부탁드립니다.)",
+      "初次见面，请多关照。(처음 뵙겠습니다, 잘 부탁드립니다.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "야근하다 / 늦게까지 일하다",
+    "context": "중국 직장 문화에서 끊임없이 듣게 될 단어입니다. 특히 기술 및 금융 분야에서 매우 흔합니다. 동사 또는 명사로 사용될 수 있습니다.",
+    "examples": [
+      "今晚又要加班。(오늘 밤 또 야근해야 해.)",
+      "你经常加班吗？(자주 야근하세요?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "회의하다 / 회의 중이다",
+    "context": "바쁘다는 것을 설명하거나, 회의를 예약하거나, (종종) 너무 많은 회의에 대해 불평하는 데 사용됩니다. 전화나 메시지를 피하기 위한 변명으로 사용될 수 있습니다.",
+    "examples": [
+      "我在开会，等会儿再说。(회의 중이라서, 나중에 다시 얘기해요.)",
+      "下午三点开会。(오후 3시에 회의가 있어요.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "보고하다 / 업데이트하다 / 상사에게 브리핑하다",
+    "context": "진행 상황이나 결과를 관리자에게 발표할 때 직장 환경에서 사용됩니다. 리더십에게 정보를 제공하는 것이 중요한 중국 기업 문화의 핵심 활동입니다.",
+    "examples": [
+      "这个项目需要向领导汇报。(이 프로젝트는 리더십에게 보고해야 합니다.)",
+      "每周一汇报工作进展。(매주 월요일 업무 진행 상황을 보고합니다.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "괜찮으세요? / 지금 통화 괜찮으세요?",
+    "context": "무언가를 요청하거나 일정을 잡기 전에 정중하게 확인하는 방법입니다. 직접적으로 요청하는 것보다 더 배려하는 표현입니다. 특히 업무상 소통에서 중요합니다.",
+    "examples": [
+      "现在说话方便吗？(Is it convenient to talk now?) - 지금 통화 괜찮으세요?",
+      "明天见面方便吗？(Is it convenient to meet tomorrow?) - 내일 만나는 거 괜찮으세요?"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "생각해 볼게요 / 고려해 볼게요",
+    "context": "결정을 미루는 정중한 방법입니다. 비즈니스 상황에서는 종종 완곡한 거절을 의미합니다. 개인적인 상황에서는 진심으로 고려해 보겠다는 의미입니다.",
+    "examples": [
+      "这个方案我考虑一下。(Let me think about this proposal.) - 이 제안은 제가 생각해 볼게요.",
+      "考虑一下再决定吧。(Think it over before deciding.) - 생각해 보고 결정하세요."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "계속 연락해요 / 연락하고 지내요",
+    "context": "회의, 비즈니스 저녁 식사 또는 헤어질 때 하는 말입니다. 종종 WeChat 연락처 교환과 함께 사용됩니다. 영어 표현보다 더 진심이 담긴 표현입니다.",
+    "examples": [
+      "以后保持联系。(Let's keep in touch from now on.) - 앞으로 계속 연락해요.",
+      "加个微信，保持联系。(Let's add each other on WeChat and stay in touch.) - 위챗 추가하고 계속 연락해요."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "최대한 빨리 / 가능한 한 빨리",
+    "context": "업무 이메일, 메시지 및 대화에서 긴급함을 나타내는 데 사용됩니다. 업무상 소통에서 매우 흔하게 사용됩니다. 请 (qǐng, 부탁드립니다)를 앞에 붙여서 부드럽게 만들 수 있습니다.",
+    "examples": [
+      "请尽快回复。(Please reply as soon as possible.) - 최대한 빨리 회신 부탁드립니다.",
+      "这个需要尽快完成。(This needs to be completed ASAP.) - 이건 최대한 빨리 완료해야 합니다."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "함께 일하게 되어 즐거웠습니다 / 협조해 주셔서 감사합니다",
+    "context": "비즈니스 거래, 프로젝트 또는 협업이 끝날 때 하는 말입니다. 상호 만족을 표현하는 비즈니스 환경에서 흔히 사용되는 마무리 인사입니다.",
+    "examples": [
+      "合作愉快！期待下次。(Great working together! Looking forward to next time.) - 함께 일하게 되어 즐거웠습니다! 다음에 또 뵙기를 바랍니다.",
+      "感谢大家的努力，合作愉快。(Thanks for everyone's effort, it's been a pleasure working together.) - 여러분의 노력에 감사드립니다. 함께 일하게 되어 즐거웠습니다."
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "제발 도와주세요",
+    "context": "도움을 직접적으로 요청하는 표현입니다. 帮을 반복함으로써 帮我보다 더 긴급하고 감정적인 느낌을 줍니다. 정말로 누군가의 도움이 필요할 때 사용하세요.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(도와주세요, 제 호텔을 찾을 수 없어요.)",
+      "谁能帮帮我？(누가 저 좀 도와주실 수 있나요?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "몸이 안 좋아요 / 불편해요",
+    "context": "아프거나 몸이 불편할 때 사용합니다. 병원에서는 의사가 哪里不舒服 (nǎ lǐ bù shū fu, 어디가 아프세요/어디가 불편하세요?)라고 물어볼 것입니다.",
+    "examples": [
+      "我不舒服，想休息。(몸이 안 좋아서 쉬고 싶어요.)",
+      "你哪里不舒服？(어디가 불편하세요?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "알레르기 / 알레르기가 있다",
+    "context": "음식 알레르기나 약물 알레르기에 대해 말할 때 중요합니다. 알레르기가 있는 것을 말하는 법을 배우세요: 花生过敏 (huā shēng guò mǐn, 땅콩 알레르기), 海鲜过敏 (hǎi xiān guò mǐn, 해산물 알레르기).",
+    "examples": [
+      "我对花生过敏。(저는 땅콩 알레르기가 있어요.)",
+      "这个里面有没有海鲜？我过敏。(이 안에 해산물이 들어있나요? 저는 알레르기가 있어요.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "경찰에 신고하다",
+    "context": "중국의 긴급 전화번호는 경찰 110, 구급차 120, 소방 119입니다. 报警은 특히 경찰에 신고하는 것을 의미합니다.",
+    "examples": [
+      "快报警！(빨리 경찰에 신고하세요!)",
+      "要不要报警？(경찰에 신고해야 할까요?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "구급차를 부르다",
+    "context": "응급 상황 시 중국에서는 구급차를 부르기 위해 120으로 전화하세요. 중국어로 주소를 알거나 휴대폰에 주소를 저장하여 보여줄 수 있도록 하세요.",
+    "examples": [
+      "快叫救护车！(빨리 구급차를 불러주세요!)",
+      "请帮忙叫救护车，有人晕倒了。(구급차 좀 불러주세요, 누가 쓰러졌어요.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "내 물건을 잃어버렸어요 / 제 물건이 없어졌어요",
+    "context": "무언가를 잃어버렸거나 도난을 의심할 때 사용합니다. 무엇을 잃어버렸는지 구체적으로 말하세요: 手机 (shǒu jī, 핸드폰), 钱包 (qián bāo, 지갑), 护照 (hù zhào, 여권).",
+    "examples": [
+      "我的手机丢了！(내 핸드폰을 잃어버렸어요!)",
+      "我的钱包丢了，怎么办？(지갑을 잃어버렸는데, 어떻게 해야 하죠?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "좀 더 천천히 말씀해 주시겠어요?",
+    "context": "중국어 학습자에게 가장 중요한 생존 표현입니다. 상대방은 당신이 이해하려고 노력하는 것에 감사하며 보통 속도를 상당히 늦출 것입니다.",
+    "examples": [
+      "对不起，能说慢一点吗？(죄송하지만, 좀 더 천천히 말씀해 주시겠어요?)",
+      "请说慢一点，我在学中文。(천천히 말씀해 주세요, 저는 중국어를 배우고 있어요.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "무슨 말인지 못 알아듣겠어요",
+    "context": "특히 들리는 말을 이해할 수 없다는 의미입니다 (글을 이해할 수 없다는 看不懂와 반대). 언어 학습자에게 매우 유용합니다. 종종 사람들이 더 간단한 단어를 사용하거나 제스처를 사용하도록 유도합니다.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(죄송하지만, 못 알아듣겠어요. 적어 주실 수 있나요?)",
+      "他说的方言我听不懂。(그가 말하는 방언은 알아들을 수 없어요.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "영어를 할 줄 아는 사람 있나요?",
+    "context": "의사 소통이 완전히 막혔을 때 최후의 수단입니다. 주요 도시와 관광지에서는 보통 누군가가 영어를 조금 할 줄 압니다. 작은 도시에서는 젊은 사람들이 영어를 조금 더 알 가능성이 높습니다.",
+    "examples": [
+      "请问，有人会说英文吗？(실례합니다, 영어를 할 줄 아는 사람 있나요?)",
+      "这里有会说英文的人吗？(여기 영어를 할 줄 아는 사람이 있나요?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "약국은 어디에 있나요?",
+    "context": "약국 (药店/药房)은 중국에서 흔하며 많은 약을 처방전 없이 구할 수 있습니다. 증상을 설명하면 약사가 종종 약을 추천해 줄 것입니다.",
+    "examples": [
+      "请问药店在哪？(실례합니다, 약국은 어디에 있나요?)",
+      "附近有药店吗？(근처에 약국이 있나요?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "너무 지쳤어 / 완전 녹초가 됐어",
+    "context": "\"死了 (sǐ le, \"죽을 정도로\")\" 패턴은 과장된 강조 표현으로 사용됩니다. 累死了는 긴 하루의 일, 관광, 운동 후에 아주 흔하게 사용됩니다.",
+    "examples": [
+      "今天走了两万步，累死了。(오늘 2만 걸음 걸었더니, 완전 녹초가 됐어.)",
+      "加班到十二点，累死了。(밤 12시까지 야근했더니, 너무 지쳤어.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "정말 짜증나 / 너무 답답해",
+    "context": "짜증이나 답답함을 표현할 때 사용됩니다. 또 다른 死了 강조 패턴입니다. 짜증나는 상황, 사람, 또는 관료주의를 다룰 때 흔히 사용됩니다.",
+    "examples": [
+      "这个问题烦死了！(이 문제 정말 짜증나!)",
+      "排队排了一小时，烦死了。(한 시간 동안 줄 섰더니, 너무 답답해.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "힘내! / 계속해! / 잘 해봐!",
+    "context": "직역하면 \"기름/연료를 더하다\"입니다. 중국어에서 가장 긍정적이고 격려적인 표현 중 하나입니다. 스포츠 경기, 시험 전, 힘든 시기, 또는 누구든 동기 부여를 할 때 사용됩니다.",
+    "examples": [
+      "明天考试，加油！(내일 시험인데, 힘내!)",
+      "加油，我相信你！(계속해, 널 믿어!)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "천천히 해 / 서두르지 마 / 느긋하게 해",
+    "context": "압박감을 줄여주는 편안한 표현입니다. 서두를 필요가 없다고 말할 때 사용됩니다. 참을성 있고 이해심 있는 태도를 반영합니다. 새로운 것을 배울 때도 사용됩니다.",
+    "examples": [
+      "别着急，慢慢来。(걱정 마, 천천히 해.)",
+      "学中文慢慢来，不要急。(중국어 배우는 건 시간이 걸리니, 서두르지 마.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "어쩔 수 없어 / 방법이 없어 / 어쩔 도리가 없어",
+    "context": "피할 수 없는 상황에 대한 무력감이나 수용을 표현합니다. 어떤 것들은 당신의 통제 밖에 있다는 것을 인정할 때 매우 흔하게 사용됩니다.",
+    "examples": [
+      "堵车了，没办法，只能等。(차가 막혀서, 어쩔 수 없어, 그냥 기다려야 해.)",
+      "没办法，规定就是这样。(어쩔 수 없어, 규정이 그래.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "익숙해졌어 / 적응됐어",
+    "context": "예전에는 어렵거나 이상했던 것이 평범해졌을 때 사용합니다. 긍정적(새로운 삶에 적응)이거나 체념적(불쾌한 것을 받아들임)일 수 있습니다.",
+    "examples": [
+      "这里天气很热，但我习惯了。(여기 날씨가 너무 더운데, 익숙해졌어.)",
+      "加班加习惯了。(야근하는 것에 익숙해졌어.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "어떻게 해야 하지? / 이제 어떡해?",
+    "context": "문제에 직면했을 때 조언을 구하거나 당황함을 표현합니다. 진정한 질문이거나 무력감을 표현하는 수사적 표현일 수 있습니다.",
+    "examples": [
+      "手机没电了，怎么办？(핸드폰 배터리가 다 됐어, 어떻게 해야 하지?)",
+      "飞机取消了，怎么办？(비행기가 취소됐어, 이제 어떡해?)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "해결했어! / 다 처리했어 / 끝냈어",
+    "context": "과제를 완료하거나 문제를 해결했을 때 사용하는 만족스러운 표현입니다. 자신감과 능력을 보여줍니다. 매우 캐주얼하고 쾌활합니다.",
+    "examples": [
+      "机票搞定了！(비행기 티켓 예매 완료!)",
+      "别担心，我搞定了。(걱정 마, 내가 다 처리했어.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "시간 없어 / 너무 늦었어 / 제시간에 못 맞춰",
+    "context": "시간이 부족하거나 마감일/기회를 놓쳤을 때 사용합니다. 긴박감을 조성합니다. 반대말은 来得及 (lái de jí, 아직 시간이 있어)입니다.",
+    "examples": [
+      "来不及了，快走！(시간 없어, 빨리 가자!)",
+      "现在去还来得及吗？——来不及了。(지금 가면 아직 늦지 않았을까?——너무 늦었어.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "지루해 / 심심해 / 재미없어",
+    "context": "자신의 상태(나는 지루해) 또는 지루한 것을 설명할 수 있습니다. 특히 소셜 미디어나 문자 메시지를 보낼 때 젊은이들 사이에서 매우 일반적으로 사용됩니다.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(너무 심심한데, 뭐 재미있는 거 없어?)",
+      "这个电影太无聊了。(이 영화 너무 재미없어.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  }
+]

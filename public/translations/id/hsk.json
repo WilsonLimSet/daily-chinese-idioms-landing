@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "Halo",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "frasa",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(Halo, nama saya Xiao Ming.)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "Terima kasih",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(Terima kasih atas bantuanmu.)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "Selamat tinggal",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "frasa",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(Sampai jumpa besok, selamat tinggal!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "Adalah / Ya",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(Saya adalah seorang siswa.)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "Tidak",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(Saya tidak minum kopi.)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "Saya",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(Saya sangat senang.)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "Dia (laki-laki)",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(Dia adalah teman saya.)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "Dia (perempuan)",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(Dia sangat cantik.)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "Baik / Bagus",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(Cuaca hari ini sangat bagus.)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "Besar",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(Kamar ini sangat besar.)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "Kecil / Sedikit",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(Saya punya seekor kucing kecil.)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "Makan",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(Mari kita pergi makan.)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "Minum",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(Kamu ingin minum apa?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "Melihat / Menonton",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(Mari kita menonton film.)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "Mendengarkan",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(Saya suka mendengarkan musik.)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "Berbicara / Mengatakan",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(Apakah kamu bisa berbicara bahasa Mandarin?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "Membaca",
+    "originalMeaning": "To read",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(Saya membaca setiap hari.)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "Menulis",
+    "originalMeaning": "To write",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(Silakan tulis nama Anda.)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "Belajar",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(Saya sedang belajar bahasa Mandarin.)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "Teman",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(Dia adalah teman baik saya.)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "Rumah / Keluarga",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(Selamat datang di rumahku.)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "Air",
+    "originalMeaning": "Water",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(Tolong beri saya segelas air.)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "Uang",
+    "originalMeaning": "Money",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(Berapa harga ini?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "Hari ini",
+    "originalMeaning": "Today",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(Hari ini hari apa?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "Besok",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(Besok kita pergi ke taman.)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "Kemarin",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(Kemarin hujan.)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "Berapa banyak",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(Berapa umurmu?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "Apa",
+    "originalMeaning": "What",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(Siapa namamu?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "Di mana",
+    "originalMeaning": "Where",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(Di mana kamu tinggal?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "Siapa",
+    "originalMeaning": "Who",
+    "partOfSpeech": "kata ganti",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(Siapa ini?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "Jadi / Oleh karena itu",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "konjungsi",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(Dia sakit, jadi dia tidak datang.)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "Tetapi / Namun",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "konjungsi",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(Mahal, tetapi sangat enak.)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "Sudah",
+    "originalMeaning": "Already",
+    "partOfSpeech": "adverbia",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(Saya sudah makan.)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "Bisa / Boleh",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "verba",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(Bolehkah saya masuk?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "Cepat",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(Kamu berjalan terlalu cepat.)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "Lambat",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(Tolong bicara lebih lambat.)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "Sibuk",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(Saya sibuk akhir-akhir ini.)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "Jauh",
+    "originalMeaning": "Far",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(Sekolah jauh dari sini.)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "Dekat",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(Supermarket dekat dari rumah saya.)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "Membantu",
+    "originalMeaning": "To help",
+    "partOfSpeech": "verba",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(Terima kasih sudah membantu saya.)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "Mempersiapkan / Bersiap",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 2,
+    "examples": [
+      "你准备好了吗？(Apakah kamu sudah siap?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "Memulai / Mulai",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 2,
+    "examples": [
+      "比赛开始了。(Pertandingan sudah dimulai.)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "Mengetahui / Tahu",
+    "originalMeaning": "To know",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 2,
+    "examples": [
+      "我不知道。(Saya tidak tahu.)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "Berpikir / Merasa",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 2,
+    "examples": [
+      "你觉得怎么样？(Bagaimana menurutmu?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "Berharap / Harapan",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 2,
+    "examples": [
+      "我希望明天天气好。(Saya berharap cuaca besok bagus.)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "Di samping / Sebelah",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "银行在超市旁边。(Bank berada di sebelah supermarket.)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "Bandara",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "去机场要多久？(Berapa lama untuk pergi ke bandara?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "Kereta bawah tanah / Metro",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "我坐地铁去上班。(Saya naik kereta bawah tanah untuk bekerja.)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "Telepon seluler",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "我的手机没电了。(Telepon saya kehabisan baterai.)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "Ulang tahun",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "生日快乐！(Selamat ulang tahun!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "Tubuh / Kesehatan",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(Jaga kesehatanmu.)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "Mata",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(Matanya sangat cantik.)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "Meskipun",
+    "originalMeaning": "Although",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(Meskipun lelah, saya sangat senang.)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "Atau / Masih",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(Apakah kamu minum teh atau kopi?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "Bersama",
+    "originalMeaning": "Together",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(Mari kita pergi bersama.)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "Sering / Kerapkali",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(Saya sering berolahraga.)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "Sangat / Luar biasa",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(Terima kasih banyak!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "Mungkin / Bisa jadi",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(Besok mungkin hujan.)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "Pasti / Harus",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(Kamu pasti akan berhasil.)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "Lingkungan",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(Kita harus melindungi lingkungan.)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "Pengalaman",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 3,
+    "examples": [
+      "你有工作经验吗？(Apakah kamu punya pengalaman kerja?)"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "Kesempatan / Peluang",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 3,
+    "examples": [
+      "这是一个好机会。(Ini adalah kesempatan yang baik.)"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "Memilih / Pilihan",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "你选择哪个？(Kamu memilih yang mana?)"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "Memutuskan / Keputusan",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我决定去中国。(Saya memutuskan untuk pergi ke Cina.)"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "Mempengaruhi / Pengaruh",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "天气影响了我的心情。(Cuaca memengaruhi suasana hati saya.)"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "Relatif / Membandingkan",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 3,
+    "examples": [
+      "今天比较冷。(Hari ini relatif dingin.)"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "Terutama / Istimewa",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜特别好吃。(Masakan ini sangat lezat.)"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "Sebenarnya / Kenyataannya",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 3,
+    "examples": [
+      "其实我也不知道。(Sebenarnya, saya juga tidak tahu.)"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "Akhirnya / Pada akhirnya",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 3,
+    "examples": [
+      "我终于找到了！(Akhirnya saya menemukannya!)"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "Perasaan / Merasa",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 3,
+    "examples": [
+      "我感觉不太舒服。(Saya merasa kurang enak badan.)"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "Menyelesaikan / Memecahkan",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "问题解决了。(Masalahnya sudah selesai.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "Membahas",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我们来讨论这个问题。(Mari kita membahas masalah ini.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "Berlatih / Latihan",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "多练习就会进步。(Semakin banyak berlatih, semakin maju.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "Meningkatkan",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我要提高中文水平。(Saya ingin meningkatkan kemampuan bahasa Mandarin saya.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "Menerima",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我接受你的建议。(Saya menerima saranmu.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "Berpartisipasi / Bergabung",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "你要参加比赛吗？(Apakah kamu akan mengikuti kompetisi?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "Memahami / Mengetahui tentang",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我想了解中国文化。(Saya ingin mempelajari tentang budaya Tiongkok.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "Memperhatikan / Hati-hati",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "请注意安全。(Harap perhatikan keselamatan.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "Merencanakan / Berniat",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "你打算什么时候去？(Kapan kamu berencana untuk pergi?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "Menurut / Berdasarkan",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "kata depan",
+    "hskLevel": 3,
+    "examples": [
+      "根据天气预报，明天会下雨。(Menurut perkiraan cuaca, besok akan hujan.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "Atau (dalam pernyataan)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "konjungsi",
+    "hskLevel": 3,
+    "examples": [
+      "你可以坐公交或者地铁。(Kamu bisa naik bus atau kereta bawah tanah.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "Asalkan",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "konjungsi",
+    "hskLevel": 3,
+    "examples": [
+      "只要努力就会成功。(Asalkan kamu bekerja keras, kamu akan berhasil.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "Tidak peduli / Terlepas dari",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "konjungsi",
+    "hskLevel": 3,
+    "examples": [
+      "无论如何我都支持你。(Tidak peduli apa pun, aku mendukungmu.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "Sikap",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 3,
+    "examples": [
+      "态度决定一切。(Sikap menentukan segalanya.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "Membutuhkan / Kebutuhan",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "我需要你的帮助。(Aku membutuhkan bantuanmu.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "Seharusnya / Seyogianya",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 3,
+    "examples": [
+      "你应该多休息。(Kamu seharusnya lebih banyak istirahat.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "Puas",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 3,
+    "examples": [
+      "我对结果很满意。(Aku sangat puas dengan hasilnya.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "Biasa / Umum",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 3,
+    "examples": [
+      "我是一个普通人。(Aku adalah orang biasa.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "Menyarankan / Saran",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "我建议你多运动。(Aku menyarankanmu untuk lebih banyak berolahraga.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "Mengungkapkan",
+    "originalMeaning": "To express",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "我不知道怎么表达。(Aku tidak tahu bagaimana mengungkapkannya.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "Berkomunikasi / Bertukar",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(Kita perlu lebih banyak berkomunikasi.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "Membuktikan / Bukti",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(Fakta membuktikan dia benar.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Kaya / Berlimpah",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(Budaya Tiongkok sangat kaya.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Kompleks / Rumit",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(Masalah ini sangat kompleks.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Bangga / Kebanggaan",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(Aku bangga padamu.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Aktif / Positif",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(Pertahankan sikap positif.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Kesulitan / Sulit",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(Jangan takut kesulitan.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Lembut / Halus",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(Dia sangat lembut.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Jujur",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(Seseorang harus jujur.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "Terharu / Menyentuh",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(Cerita ini sangat menyentuh.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "Kesalahpahaman",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 4,
+    "examples": [
+      "这是一个误会。(Ini adalah kesalahpahaman.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "Efek / Hasil",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 4,
+    "examples": [
+      "效果很好。(Efeknya sangat bagus.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "Bahkan jika",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 4,
+    "examples": [
+      "即使失败也不放弃。(Bahkan jika saya gagal, saya tidak akan menyerah.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "Jika tidak",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 4,
+    "examples": [
+      "快点，否则会迟到。(Cepat, jika tidak kita akan terlambat.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "Karena / Sekarang karena",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 4,
+    "examples": [
+      "既然来了，就留下吧。(Karena kamu sudah di sini, tinggallah.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "Meskipun / Walaupun",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "kata hubung",
+    "hskLevel": 4,
+    "examples": [
+      "尽管很难，我也要试。(Meskipun sulit, saya akan mencoba.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "Awalnya / Jadi begitu",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 4,
+    "examples": [
+      "原来是你！(Jadi itu kamu!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "Tak terduga / Mengejutkan",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 4,
+    "examples": [
+      "他竟然会说中文！(Dia bisa berbicara bahasa Mandarin, sungguh mengejutkan!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "Berangsur-angsur",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 4,
+    "examples": [
+      "天气逐渐变暖了。(Cuaca berangsur-angsur menjadi lebih hangat.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "Bahagia / Diberkati",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "祝你幸福！(Semoga kamu bahagia!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "Berani",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "你要勇敢面对。(Kamu harus menghadapinya dengan berani.)"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "Menghormati / Hormat",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 4,
+    "examples": [
+      "要尊重别人。(Hormati orang lain.)"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "Tanggung jawab",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 4,
+    "examples": [
+      "这是我的责任。(Ini adalah tanggung jawabku.)"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "Ekonomi / Ekonomis",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 4,
+    "examples": [
+      "中国经济发展很快。(Ekonomi Tiongkok berkembang pesat.)"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "Tradisi / Tradisional",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 4,
+    "examples": [
+      "这是中国的传统文化。(Ini adalah budaya tradisional Tiongkok.)"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "Sementara",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 4,
+    "examples": [
+      "我暂时没有计划。(Saya tidak punya rencana untuk sementara waktu.)"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "Sepenuhnya / Cukup",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 4,
+    "examples": [
+      "做好充分的准备。(Bersiaplah sepenuhnya.)"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "Berkomunikasi",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "有效沟通很重要。(Komunikasi yang efektif sangat penting.)"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "Mengkoordinasi",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "我来协调各方面。(Saya akan mengkoordinasikan semua aspek.)"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "Kontribusi / Berkontribusi",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 5,
+    "examples": [
+      "他做出了巨大贡献。(Dia membuat kontribusi yang besar.)"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "Kualitas / Kaliber (seseorang)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(Meningkatkan kualitas pribadi sangat penting.)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "Untuk menutupi / Untuk mengkompensasi",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(Tutupilah kesalahan dengan tindakan.)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "Unik / Khas",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(Tempat ini sangat unik.)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "Jelas / Terbukti",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(Jelas apa yang dia katakan salah.)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "Mendalam / Dalam",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(Buku ini memiliki makna yang mendalam.)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "Sering",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(Lembur terlalu sering baru-baru ini.)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "Untuk menanggung / Untuk melakukan",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(Saya bersedia menanggung tanggung jawab.)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "Untuk mempertahankan / Untuk menjaga",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(Tetap tenang.)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "Untuk mempromosikan / Untuk memfasilitasi",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(Olahraga meningkatkan kesehatan.)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "Untuk mencerminkan / Untuk melaporkan",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(Ini mencerminkan masalah sosial.)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "Saat ini / Sekarang",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "adverbia",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(Situasi saat ini tidak buruk.)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "Masuk akal / Rasional",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(Harga ini sangat masuk akal.)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "Fleksibel / Lincah",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "adjektiva",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(Jam kerja relatif fleksibel.)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "Esensi / Hakikat",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "nomina",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(Apa esensi dari masalah ini?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "Tren / Kecenderungan",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "nomina",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(Ini adalah tren masa depan.)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "Bidang / Domain",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "nomina",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(Dia terkenal di bidang teknologi.)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "Memiliki / Mempunyai",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "verba",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(Dia memiliki kemampuan kepemimpinan.)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "Mengatasi",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "verba",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(Atasi kesulitan dan terus maju.)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "Memulihkan / Mengembalikan",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "verba",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(Dia sudah memulihkan kesehatannya.)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "Membentuk / Terbentuk",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "verba",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(Perlahan-lahan terbentuk kebiasaan.)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "Praktik / Mempraktikkan",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 5,
+    "examples": [
+      "理论要与实践结合。(Teori harus digabungkan dengan praktik.)"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "Skala / Lingkup",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 5,
+    "examples": [
+      "公司规模越来越大。(Skala perusahaan semakin besar.)"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "Tak terhindarkan / Pasti",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 5,
+    "examples": [
+      "努力必然有回报。(Kerja keras pasti membuahkan hasil.)"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "Kira-kira / Mungkin",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "kata keterangan",
+    "hskLevel": 5,
+    "examples": [
+      "大概需要两个小时。(Kira-kira membutuhkan dua jam.)"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "Dengan demikian / Sehingga",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "kata penghubung",
+    "hskLevel": 5,
+    "examples": [
+      "努力学习，从而取得好成绩。(Belajar dengan giat, sehingga mencapai nilai yang baik.)"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "Apalagi / Jangankan",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "kata penghubung",
+    "hskLevel": 5,
+    "examples": [
+      "大人都做不到，何况小孩。(Orang dewasa saja tidak bisa melakukannya, apalagi anak-anak.)"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "Implisit / Tertutup",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "中国人表达感情比较含蓄。(Orang Tiongkok mengekspresikan perasaan dengan cara yang lebih tertutup.)"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "Asing / Tidak dikenal",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "我对这里很陌生。(Saya sangat asing dengan tempat ini.)"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "Halus / Rumit",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "两人的关系很微妙。(Hubungan antara keduanya sangat halus.)"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "Berpengetahuan luas / Mendalam (pengetahuan)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "他的知识非常渊博。(Pengetahuannya sangat mendalam.)"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "Menantikan / Kerinduan",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(Dia penuh kerinduan akan masa depan.)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "Merenungkan / Mencoba mencari tahu",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(Saya mencoba mencari tahu apa maksudnya.)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "Terbuai (dalam kegembiraan)",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(Dia terbuai dalam musik.)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "Memahami / Menangkap",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(Saya akhirnya memahami kebenaran ini.)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "Mempelajari secara intensif / Mendalami",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(Dia mempelajarinya secara intensif selama bertahun-tahun.)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "Wawasan / Melihat menembus",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(Dia memiliki wawasan mendalam tentang sifat manusia.)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "Mempromosikan / Meneruskan",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(Mempromosikan budaya tradisional.)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "Alusi klasik / Anekdot sejarah",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(Setiap idiom memiliki alusi klasik di baliknya.)"
+    ],
+    "notes": "Umumnya digunakan ketika membahas asal usul idiom Cina."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "Konotasi / Makna batin",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(Puisi ini memiliki konotasi yang kaya.)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "Pembinaan / Pencapaian",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(Meningkatkan pembinaan budaya.)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "Warisan budaya / Kedalaman batin",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(Kota ini memiliki warisan budaya yang mendalam.)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "Pola / Tata letak / Visi",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(Seseorang harus memiliki visi yang luas.)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "Ranah / Tingkat pencapaian",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(Ini adalah ranah tertinggi dalam hidup.)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "Esensi / Intisari",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(Mempelajari esensi budaya Tiongkok.)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "Asal / Hubungan yang berakar dalam",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(Kedua negara memiliki hubungan sejarah yang mendalam.)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "Metafora",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "kata benda",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(Idiom sering menggunakan teknik metafora.)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "Luas dan mendalam",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(Budaya Tiongkok luas dan mendalam.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "Menguasai secara menyeluruh melalui pemahaman",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "kata kerja",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(Belajar harus melibatkan pemahaman yang menyeluruh.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "Memiliki sejarah yang panjang",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(Budaya Tiongkok memiliki sejarah yang panjang.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "Merangsang pemikiran / Layak direnungkan",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "kata sifat",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(Cerita ini merangsang pemikiran.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "Mempengaruhi secara halus / Pengaruh yang tak terasa",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "verba",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(Budaya secara halus memengaruhi orang-orang.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "Meningkat dari hari ke hari",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "verba",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(Jumlah orang yang belajar bahasa Mandarin meningkat dari hari ke hari.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "Menyimpulkan banyak hal dari satu kasus",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "verba",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(Saat belajar, seseorang harus menyimpulkan banyak hal dari satu kasus.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "Langkah demi langkah / Maju secara teratur",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "adverbia",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(Belajar bahasa harus maju selangkah demi selangkah.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "Menonjol / Gaya unik",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "verba",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(Gaya penulisannya benar-benar unik.)"
+    ],
+    "notes": "Ini sendiri adalah idiom (chengyu)!"
+  }
+]

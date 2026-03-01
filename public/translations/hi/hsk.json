@@ -1,0 +1,1937 @@
+[
+  {
+    "characters": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "नमस्ते",
+    "originalMeaning": "Hello",
+    "partOfSpeech": "वाक्यांश",
+    "hskLevel": 1,
+    "examples": [
+      "你好，我叫小明。(नमस्ते, मेरा नाम श्याओ मिंग है।)"
+    ]
+  },
+  {
+    "characters": "谢谢",
+    "pinyin": "xiè xie",
+    "meaning": "धन्यवाद",
+    "originalMeaning": "Thank you",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你的帮助。(तुम्हारी मदद के लिए धन्यवाद।)"
+    ]
+  },
+  {
+    "characters": "再见",
+    "pinyin": "zài jiàn",
+    "meaning": "अलविदा",
+    "originalMeaning": "Goodbye",
+    "partOfSpeech": "वाक्यांश",
+    "hskLevel": 1,
+    "examples": [
+      "明天见，再见！(कल मिलते हैं, अलविदा!)"
+    ]
+  },
+  {
+    "characters": "是",
+    "pinyin": "shì",
+    "meaning": "होना / हाँ",
+    "originalMeaning": "To be / Yes",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我是学生。(मैं एक छात्र हूँ।)"
+    ]
+  },
+  {
+    "characters": "不",
+    "pinyin": "bù",
+    "meaning": "नहीं",
+    "originalMeaning": "Not / No",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 1,
+    "examples": [
+      "我不喝咖啡。(मैं कॉफ़ी नहीं पीता/पीती हूँ।)"
+    ]
+  },
+  {
+    "characters": "我",
+    "pinyin": "wǒ",
+    "meaning": "मैं / मुझे",
+    "originalMeaning": "I / Me",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(मैं बहुत खुश हूँ।)"
+    ]
+  },
+  {
+    "characters": "他",
+    "pinyin": "tā",
+    "meaning": "वह / उसे (पु.)",
+    "originalMeaning": "He / Him",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "他是我朋友。(वह मेरा दोस्त है।)"
+    ]
+  },
+  {
+    "characters": "她",
+    "pinyin": "tā",
+    "meaning": "वह / उसे (स्त्री.)",
+    "originalMeaning": "She / Her",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "她很漂亮。(वह बहुत सुंदर है।)"
+    ]
+  },
+  {
+    "characters": "好",
+    "pinyin": "hǎo",
+    "meaning": "अच्छा",
+    "originalMeaning": "Good / Well",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(आज मौसम बहुत अच्छा है।)"
+    ]
+  },
+  {
+    "characters": "大",
+    "pinyin": "dà",
+    "meaning": "बड़ा",
+    "originalMeaning": "Big / Large",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 1,
+    "examples": [
+      "这个房间很大。(यह कमरा बहुत बड़ा है।)"
+    ]
+  },
+  {
+    "characters": "小",
+    "pinyin": "xiǎo",
+    "meaning": "छोटा",
+    "originalMeaning": "Small / Little",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只小猫。(मेरे पास एक छोटी बिल्ली है।)"
+    ]
+  },
+  {
+    "characters": "吃",
+    "pinyin": "chī",
+    "meaning": "खाना",
+    "originalMeaning": "To eat",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我们去吃饭吧。(चलो खाना खाने चलते हैं।)"
+    ]
+  },
+  {
+    "characters": "喝",
+    "pinyin": "hē",
+    "meaning": "पीना",
+    "originalMeaning": "To drink",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "你想喝什么？(आप क्या पीना चाहेंगे?)"
+    ]
+  },
+  {
+    "characters": "看",
+    "pinyin": "kàn",
+    "meaning": "देखना",
+    "originalMeaning": "To look / To watch",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我们看电影吧。(चलो फिल्म देखते हैं।)"
+    ]
+  },
+  {
+    "characters": "听",
+    "pinyin": "tīng",
+    "meaning": "सुनना",
+    "originalMeaning": "To listen",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢听音乐。(मुझे संगीत सुनना पसंद है।)"
+    ]
+  },
+  {
+    "characters": "说",
+    "pinyin": "shuō",
+    "meaning": "बोलना / कहना",
+    "originalMeaning": "To speak / To say",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "你会说中文吗？(क्या आप चीनी बोल सकते हैं?)"
+    ]
+  },
+  {
+    "characters": "读",
+    "pinyin": "dú",
+    "meaning": "पढ़ना",
+    "originalMeaning": "To read",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我每天读书。(मैं हर दिन पढ़ता हूँ।)"
+    ]
+  },
+  {
+    "characters": "写",
+    "pinyin": "xiě",
+    "meaning": "लिखना",
+    "originalMeaning": "To write",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "请写你的名字。(कृपया अपना नाम लिखें।)"
+    ]
+  },
+  {
+    "characters": "学",
+    "pinyin": "xué",
+    "meaning": "अध्ययन करना / सीखना",
+    "originalMeaning": "To study / To learn",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 1,
+    "examples": [
+      "我在学中文。(मैं चीनी सीख रहा हूँ।)"
+    ]
+  },
+  {
+    "characters": "朋友",
+    "pinyin": "péng you",
+    "meaning": "दोस्त",
+    "originalMeaning": "Friend",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的好朋友。(वह मेरा अच्छा दोस्त है।)"
+    ]
+  },
+  {
+    "characters": "家",
+    "pinyin": "jiā",
+    "meaning": "घर / परिवार",
+    "originalMeaning": "Home / Family",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "欢迎来我家。(मेरे घर में आपका स्वागत है।)"
+    ]
+  },
+  {
+    "characters": "水",
+    "pinyin": "shuǐ",
+    "meaning": "पानी",
+    "originalMeaning": "Water",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "请给我一杯水。(कृपया मुझे एक गिलास पानी दीजिये।)"
+    ]
+  },
+  {
+    "characters": "钱",
+    "pinyin": "qián",
+    "meaning": "पैसे",
+    "originalMeaning": "Money",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "这个多少钱？(यह कितने पैसे का है?)"
+    ]
+  },
+  {
+    "characters": "今天",
+    "pinyin": "jīn tiān",
+    "meaning": "आज",
+    "originalMeaning": "Today",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "今天星期几？(आज कौन सा दिन है?)"
+    ]
+  },
+  {
+    "characters": "明天",
+    "pinyin": "míng tiān",
+    "meaning": "कल",
+    "originalMeaning": "Tomorrow",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "明天我们去公园。(कल हम पार्क जाएंगे।)"
+    ]
+  },
+  {
+    "characters": "昨天",
+    "pinyin": "zuó tiān",
+    "meaning": "कल (बीता हुआ)",
+    "originalMeaning": "Yesterday",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 1,
+    "examples": [
+      "昨天下雨了。(कल बारिश हुई थी।)"
+    ]
+  },
+  {
+    "characters": "多少",
+    "pinyin": "duō shǎo",
+    "meaning": "कितना / कितने",
+    "originalMeaning": "How much / How many",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "你多少岁？(आप कितने साल के हैं?)"
+    ]
+  },
+  {
+    "characters": "什么",
+    "pinyin": "shén me",
+    "meaning": "क्या",
+    "originalMeaning": "What",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "你叫什么名字？(आपका क्या नाम है?)"
+    ]
+  },
+  {
+    "characters": "哪里",
+    "pinyin": "nǎ lǐ",
+    "meaning": "कहाँ",
+    "originalMeaning": "Where",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "你住在哪里？(आप कहाँ रहते हैं?)"
+    ]
+  },
+  {
+    "characters": "谁",
+    "pinyin": "shéi",
+    "meaning": "कौन",
+    "originalMeaning": "Who",
+    "partOfSpeech": "सर्वनाम",
+    "hskLevel": 1,
+    "examples": [
+      "这是谁？(यह कौन है?)"
+    ]
+  },
+  {
+    "characters": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "इसलिए / अतः",
+    "originalMeaning": "So / Therefore",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 2,
+    "examples": [
+      "他病了，所以没来。(वह बीमार है, इसलिए नहीं आया।)"
+    ]
+  },
+  {
+    "characters": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "लेकिन / हालाँकि",
+    "originalMeaning": "But / However",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 2,
+    "examples": [
+      "贵，但是很好吃。(महंगा, लेकिन बहुत स्वादिष्ट।)"
+    ]
+  },
+  {
+    "characters": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "पहले से ही",
+    "originalMeaning": "Already",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "我已经吃过了。(मैं पहले ही खा चुका हूँ।)"
+    ]
+  },
+  {
+    "characters": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "सकता / सकते हैं",
+    "originalMeaning": "Can / May",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "我可以进来吗？(क्या मैं अंदर आ सकता हूँ?)"
+    ]
+  },
+  {
+    "characters": "快",
+    "pinyin": "kuài",
+    "meaning": "तेज़ / जल्दी",
+    "originalMeaning": "Fast / Quick",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "你走得太快了。(तुम बहुत तेज़ चलते हो।)"
+    ]
+  },
+  {
+    "characters": "慢",
+    "pinyin": "màn",
+    "meaning": "धीमा",
+    "originalMeaning": "Slow",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "请说慢一点。(कृपया धीरे बोलें।)"
+    ]
+  },
+  {
+    "characters": "忙",
+    "pinyin": "máng",
+    "meaning": "व्यस्त",
+    "originalMeaning": "Busy",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "最近我很忙。(मैं हाल ही में व्यस्त हूँ।)"
+    ]
+  },
+  {
+    "characters": "远",
+    "pinyin": "yuǎn",
+    "meaning": "दूर",
+    "originalMeaning": "Far",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "学校离这里很远。(स्कूल यहाँ से बहुत दूर है।)"
+    ]
+  },
+  {
+    "characters": "近",
+    "pinyin": "jìn",
+    "meaning": "पास / करीब",
+    "originalMeaning": "Near / Close",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "超市离我家很近。(सुपरमार्केट मेरे घर के पास है।)"
+    ]
+  },
+  {
+    "characters": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "मदद करना",
+    "originalMeaning": "To help",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "谢谢你帮助我。(मेरी मदद करने के लिए धन्यवाद।)"
+    ]
+  },
+  {
+    "characters": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "तैयार करना",
+    "originalMeaning": "To prepare",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "क्या तुम तैयार हो? (क्या आप तैयार हैं?)"
+    ]
+  },
+  {
+    "characters": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "शुरू करना / आरंभ करना",
+    "originalMeaning": "To begin / To start",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "खेल शुरू हो गया है। (मैच शुरू हो गया है।)"
+    ]
+  },
+  {
+    "characters": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "जानना",
+    "originalMeaning": "To know",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "मुझे नहीं पता। (मुझे नहीं पता।)"
+    ]
+  },
+  {
+    "characters": "觉得",
+    "pinyin": "jué de",
+    "meaning": "सोचना / महसूस करना",
+    "originalMeaning": "To think / To feel",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "तुम्हें कैसा लगता है? (आपको कैसा लगता है?)"
+    ]
+  },
+  {
+    "characters": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "आशा करना / आशा",
+    "originalMeaning": "To hope / Hope",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 2,
+    "examples": [
+      "मुझे उम्मीद है कि कल मौसम अच्छा होगा। (मुझे उम्मीद है कि कल मौसम अच्छा रहेगा।)"
+    ]
+  },
+  {
+    "characters": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "बगल में / के बगल में",
+    "originalMeaning": "Beside / Next to",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "बैंक सुपरमार्केट के बगल में है। (बैंक सुपरमार्केट के बगल में है।)"
+    ]
+  },
+  {
+    "characters": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "हवाई अड्डा",
+    "originalMeaning": "Airport",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "हवाई अड्डे तक जाने में कितना समय लगता है? (हवाई अड्डे जाने में कितना समय लगता है?)"
+    ]
+  },
+  {
+    "characters": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "भूमिगत मार्ग / मेट्रो",
+    "originalMeaning": "Subway / Metro",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "मैं मेट्रो से काम पर जाता हूँ। (मैं मेट्रो से काम पर जाता हूँ।)"
+    ]
+  },
+  {
+    "characters": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "मोबाइल फोन",
+    "originalMeaning": "Mobile phone",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "मेरे फोन की बैटरी खत्म हो गई है। (मेरे फोन की बैटरी खत्म हो गई है।)"
+    ]
+  },
+  {
+    "characters": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "जन्मदिन",
+    "originalMeaning": "Birthday",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "जन्मदिन मुबारक हो! (जन्मदिन मुबारक हो!)"
+    ]
+  },
+  {
+    "characters": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "शरीर / स्वास्थ्य",
+    "originalMeaning": "Body / Health",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "注意身体。(अपने स्वास्थ्य का ध्यान रखें।)"
+    ]
+  },
+  {
+    "characters": "眼睛",
+    "pinyin": "yǎn jīng",
+    "meaning": "आँखें",
+    "originalMeaning": "Eye(s)",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 2,
+    "examples": [
+      "她的眼睛很漂亮。(उसकी आँखें बहुत सुंदर हैं।)"
+    ]
+  },
+  {
+    "characters": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "हालांकि",
+    "originalMeaning": "Although",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 2,
+    "examples": [
+      "虽然很累，但我很开心。(हालांकि थका हुआ, मैं बहुत खुश हूँ।)"
+    ]
+  },
+  {
+    "characters": "还是",
+    "pinyin": "hái shì",
+    "meaning": "या / अभी भी",
+    "originalMeaning": "Or / Still",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 2,
+    "examples": [
+      "你喝茶还是咖啡？(क्या आप चाय या कॉफी पीते हैं?)"
+    ]
+  },
+  {
+    "characters": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "एक साथ",
+    "originalMeaning": "Together",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "我们一起去吧。(चलो एक साथ चलते हैं।)"
+    ]
+  },
+  {
+    "characters": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "अक्सर / बार बार",
+    "originalMeaning": "Often / Frequently",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "我经常运动。(मैं अक्सर व्यायाम करता हूँ।)"
+    ]
+  },
+  {
+    "characters": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "बहुत / अत्यंत",
+    "originalMeaning": "Very / Extremely",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "非常感谢！(बहुत धन्यवाद!)"
+    ]
+  },
+  {
+    "characters": "可能",
+    "pinyin": "kě néng",
+    "meaning": "शायद / संभव",
+    "originalMeaning": "Maybe / Possible",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "明天可能下雨。(कल बारिश हो सकती है।)"
+    ]
+  },
+  {
+    "characters": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "निश्चित रूप से / अवश्य",
+    "originalMeaning": "Definitely / Must",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 2,
+    "examples": [
+      "你一定会成功。(आप निश्चित रूप से सफल होंगे।)"
+    ]
+  },
+  {
+    "characters": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "पर्यावरण",
+    "originalMeaning": "Environment",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 3,
+    "examples": [
+      "我们要保护环境。(हमें पर्यावरण की रक्षा करनी चाहिए।)"
+    ]
+  },
+  {
+    "characters": "经验",
+    "pinyin": "jīng yàn",
+    "meaning": "अनुभव",
+    "originalMeaning": "Experience",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 3,
+    "examples": [
+      "क्या आपके पास कार्य अनुभव है? (你有工作经验吗？(Do you have work experience?))"
+    ]
+  },
+  {
+    "characters": "机会",
+    "pinyin": "jī huì",
+    "meaning": "अवसर / मौका",
+    "originalMeaning": "Opportunity / Chance",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 3,
+    "examples": [
+      "यह एक अच्छा अवसर है। (这是一个好机会。(This is a good opportunity.))"
+    ]
+  },
+  {
+    "characters": "选择",
+    "pinyin": "xuǎn zé",
+    "meaning": "चुनना / चुनाव",
+    "originalMeaning": "To choose / Choice",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "आप कौन सा चुनते हैं? (你选择哪个？(Which one do you choose?))"
+    ]
+  },
+  {
+    "characters": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "तय करना / निर्णय",
+    "originalMeaning": "To decide / Decision",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मैंने चीन जाने का फैसला किया। (我决定去中国。(I decided to go to China.))"
+    ]
+  },
+  {
+    "characters": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "प्रभावित करना / प्रभाव",
+    "originalMeaning": "To influence / Influence",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मौसम ने मेरे मूड को प्रभावित किया। (天气影响了我的心情。(The weather influenced my mood.))"
+    ]
+  },
+  {
+    "characters": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "तुलनात्मक रूप से / तुलना करना",
+    "originalMeaning": "Relatively / To compare",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "आज अपेक्षाकृत ठंड है। (今天比较冷。(It's relatively cold today.))"
+    ]
+  },
+  {
+    "characters": "特别",
+    "pinyin": "tè bié",
+    "meaning": "विशेष रूप से / विशेष",
+    "originalMeaning": "Especially / Special",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "यह व्यंजन विशेष रूप से स्वादिष्ट है। (这道菜特别好吃。(This dish is especially delicious.))"
+    ]
+  },
+  {
+    "characters": "其实",
+    "pinyin": "qí shí",
+    "meaning": "वास्तव में / असल में",
+    "originalMeaning": "Actually / In fact",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "वास्तव में, मुझे भी नहीं पता। (其实我也不知道。(Actually, I don't know either.))"
+    ]
+  },
+  {
+    "characters": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "आखिरकार / अंत में",
+    "originalMeaning": "Finally / At last",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "मुझे आखिरकार यह मिल गया! (我终于找到了！(I finally found it!))"
+    ]
+  },
+  {
+    "characters": "感觉",
+    "pinyin": "gǎn jué",
+    "meaning": "भावना / महसूस करना",
+    "originalMeaning": "Feeling / To feel",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 3,
+    "examples": [
+      "मुझे थोड़ा अस्वस्थ महसूस हो रहा है। (我感觉不太舒服。(I feel a bit unwell.))"
+    ]
+  },
+  {
+    "characters": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "हल करना / सुलझाना",
+    "originalMeaning": "To solve / To resolve",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "समस्या हल हो गई। (The problem is solved.)"
+    ]
+  },
+  {
+    "characters": "讨论",
+    "pinyin": "tǎo lùn",
+    "meaning": "चर्चा करना",
+    "originalMeaning": "To discuss",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "हम इस मुद्दे पर चर्चा करते हैं। (Let's discuss this issue.)"
+    ]
+  },
+  {
+    "characters": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "अभ्यास करना / व्यायाम",
+    "originalMeaning": "To practice / Exercise",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "अधिक अभ्यास से सुधार होता है। (More practice leads to improvement.)"
+    ]
+  },
+  {
+    "characters": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "सुधार करना / बढ़ाना",
+    "originalMeaning": "To improve / To raise",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मैं अपना चीनी स्तर सुधारना चाहता हूँ। (I want to improve my Chinese level.)"
+    ]
+  },
+  {
+    "characters": "接受",
+    "pinyin": "jiē shòu",
+    "meaning": "स्वीकार करना",
+    "originalMeaning": "To accept",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मैं आपका सुझाव स्वीकार करता हूँ। (I accept your suggestion.)"
+    ]
+  },
+  {
+    "characters": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "भाग लेना / शामिल होना",
+    "originalMeaning": "To participate / To join",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "क्या आप प्रतियोगिता में भाग लेने जा रहे हैं? (Are you going to join the competition?)"
+    ]
+  },
+  {
+    "characters": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "समझना / के बारे में जानना",
+    "originalMeaning": "To understand / To know about",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मैं चीनी संस्कृति के बारे में जानना चाहता हूँ। (I want to learn about Chinese culture.)"
+    ]
+  },
+  {
+    "characters": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "ध्यान देना / सावधान रहना",
+    "originalMeaning": "To pay attention / Be careful",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "कृपया सुरक्षा पर ध्यान दें। (Please pay attention to safety.)"
+    ]
+  },
+  {
+    "characters": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "योजना बनाना / इरादा करना",
+    "originalMeaning": "To plan / To intend",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "आप कब जाने की योजना बना रहे हैं? (When do you plan to go?)"
+    ]
+  },
+  {
+    "characters": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "के अनुसार / पर आधारित",
+    "originalMeaning": "According to / Based on",
+    "partOfSpeech": "पूर्वसर्ग",
+    "hskLevel": 3,
+    "examples": [
+      "मौसम के पूर्वानुमान के अनुसार, कल बारिश होगी। (According to the forecast, it will rain tomorrow.)"
+    ]
+  },
+  {
+    "characters": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "या (कथनों में)",
+    "originalMeaning": "Or (in statements)",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 3,
+    "examples": [
+      "आप बस या मेट्रो ले सकते हैं।(You can take the bus or the subway.)"
+    ]
+  },
+  {
+    "characters": "只要",
+    "pinyin": "zhǐ yào",
+    "meaning": "जब तक",
+    "originalMeaning": "As long as",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 3,
+    "examples": [
+      "जब तक आप कड़ी मेहनत करेंगे, आप सफल होंगे।(As long as you work hard, you will succeed.)"
+    ]
+  },
+  {
+    "characters": "无论",
+    "pinyin": "wú lùn",
+    "meaning": "कोई फर्क नहीं पड़ता / बावजूद",
+    "originalMeaning": "No matter / Regardless",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 3,
+    "examples": [
+      "कोई फर्क नहीं पड़ता, मैं आपका समर्थन करता हूं।(No matter what, I support you.)"
+    ]
+  },
+  {
+    "characters": "态度",
+    "pinyin": "tài dù",
+    "meaning": "रवैया",
+    "originalMeaning": "Attitude",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 3,
+    "examples": [
+      "रवैया सब कुछ तय करता है।(Attitude determines everything.)"
+    ]
+  },
+  {
+    "characters": "需要",
+    "pinyin": "xū yào",
+    "meaning": "ज़रूरत होना / ज़रूरतें",
+    "originalMeaning": "To need / Needs",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "मुझे आपकी मदद की ज़रूरत है।(I need your help.)"
+    ]
+  },
+  {
+    "characters": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "चाहिए / उचित",
+    "originalMeaning": "Should / Ought to",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 3,
+    "examples": [
+      "आपको अधिक आराम करना चाहिए।(You should rest more.)"
+    ]
+  },
+  {
+    "characters": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "संतुष्ट",
+    "originalMeaning": "Satisfied",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "मैं परिणाम से बहुत संतुष्ट हूं।(I'm very satisfied with the result.)"
+    ]
+  },
+  {
+    "characters": "普通",
+    "pinyin": "pǔ tōng",
+    "meaning": "साधारण / सामान्य",
+    "originalMeaning": "Ordinary / Common",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 3,
+    "examples": [
+      "मैं एक साधारण इंसान हूं।(I'm an ordinary person.)"
+    ]
+  },
+  {
+    "characters": "建议",
+    "pinyin": "jiàn yì",
+    "meaning": "सुझाव देना / सुझाव",
+    "originalMeaning": "To suggest / Suggestion",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 4,
+    "examples": [
+      "मेरा सुझाव है कि आप अधिक व्यायाम करें।(I suggest you exercise more.)"
+    ]
+  },
+  {
+    "characters": "表达",
+    "pinyin": "biǎo dá",
+    "meaning": "व्यक्त करना",
+    "originalMeaning": "To express",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 4,
+    "examples": [
+      "मुझे नहीं पता कि इसे कैसे व्यक्त किया जाए।(I don't know how to express it.)"
+    ]
+  },
+  {
+    "characters": "交流",
+    "pinyin": "jiāo liú",
+    "meaning": "To communicate / Exchange",
+    "originalMeaning": "To communicate / Exchange",
+    "partOfSpeech": "verb",
+    "hskLevel": 4,
+    "examples": [
+      "我们需要多交流。(We need to communicate more.)"
+    ]
+  },
+  {
+    "characters": "证明",
+    "pinyin": "zhèng míng",
+    "meaning": "To prove / Proof",
+    "originalMeaning": "To prove / Proof",
+    "partOfSpeech": "verb",
+    "hskLevel": 4,
+    "examples": [
+      "事实证明他是对的。(Facts proved he was right.)"
+    ]
+  },
+  {
+    "characters": "丰富",
+    "pinyin": "fēng fù",
+    "meaning": "Rich / Abundant",
+    "originalMeaning": "Rich / Abundant",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "中国文化非常丰富。(Chinese culture is very rich.)"
+    ]
+  },
+  {
+    "characters": "复杂",
+    "pinyin": "fù zá",
+    "meaning": "Complex / Complicated",
+    "originalMeaning": "Complex / Complicated",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "这个问题很复杂。(This problem is very complex.)"
+    ]
+  },
+  {
+    "characters": "骄傲",
+    "pinyin": "jiāo ào",
+    "meaning": "Proud / Pride",
+    "originalMeaning": "Proud / Pride",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "我为你感到骄傲。(I'm proud of you.)"
+    ]
+  },
+  {
+    "characters": "积极",
+    "pinyin": "jī jí",
+    "meaning": "Active / Positive",
+    "originalMeaning": "Active / Positive",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "要保持积极的态度。(Keep a positive attitude.)"
+    ]
+  },
+  {
+    "characters": "困难",
+    "pinyin": "kùn nán",
+    "meaning": "Difficulty / Difficult",
+    "originalMeaning": "Difficulty / Difficult",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "别怕困难。(Don't be afraid of difficulties.)"
+    ]
+  },
+  {
+    "characters": "温柔",
+    "pinyin": "wēn róu",
+    "meaning": "Gentle / Tender",
+    "originalMeaning": "Gentle / Tender",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "她很温柔。(She is very gentle.)"
+    ]
+  },
+  {
+    "characters": "诚实",
+    "pinyin": "chéng shí",
+    "meaning": "Honest",
+    "originalMeaning": "Honest",
+    "partOfSpeech": "adjective",
+    "hskLevel": 4,
+    "examples": [
+      "做人要诚实。(One should be honest.)"
+    ]
+  },
+  {
+    "characters": "感动",
+    "pinyin": "gǎn dòng",
+    "meaning": "To be moved / Touching",
+    "originalMeaning": "To be moved / Touching",
+    "partOfSpeech": "verb",
+    "hskLevel": 4,
+    "examples": [
+      "这个故事很感动。(This story is very touching.)"
+    ]
+  },
+  {
+    "characters": "误会",
+    "pinyin": "wù huì",
+    "meaning": "गलतफहमी",
+    "originalMeaning": "Misunderstanding",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 4,
+    "examples": [
+      "यह एक गलतफहमी है।(This is a misunderstanding.)"
+    ]
+  },
+  {
+    "characters": "效果",
+    "pinyin": "xiào guǒ",
+    "meaning": "प्रभाव / परिणाम",
+    "originalMeaning": "Effect / Result",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 4,
+    "examples": [
+      "प्रभाव बहुत अच्छा है।(The effect is very good.)"
+    ]
+  },
+  {
+    "characters": "即使",
+    "pinyin": "jí shǐ",
+    "meaning": "भले ही",
+    "originalMeaning": "Even if",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 4,
+    "examples": [
+      "भले ही मैं विफल हो जाऊं, मैं हार नहीं मानूंगा।(Even if I fail, I won't give up.)"
+    ]
+  },
+  {
+    "characters": "否则",
+    "pinyin": "fǒu zé",
+    "meaning": "अन्यथा",
+    "originalMeaning": "Otherwise",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 4,
+    "examples": [
+      "जल्दी करो, अन्यथा हम देर हो जाएंगे।(Hurry up, otherwise we'll be late.)"
+    ]
+  },
+  {
+    "characters": "既然",
+    "pinyin": "jì rán",
+    "meaning": "चूंकि / अब जब कि",
+    "originalMeaning": "Since / Now that",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 4,
+    "examples": [
+      "चूंकि तुम यहाँ हो, रुक जाओ।(Since you're here, stay.)"
+    ]
+  },
+  {
+    "characters": "尽管",
+    "pinyin": "jǐn guǎn",
+    "meaning": "बावजूद / भले ही",
+    "originalMeaning": "Despite / Even though",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 4,
+    "examples": [
+      "कठिनाई के बावजूद, मैं कोशिश करूंगा।(Despite the difficulty, I'll try.)"
+    ]
+  },
+  {
+    "characters": "原来",
+    "pinyin": "yuán lái",
+    "meaning": "मूल रूप से / तो यह ऐसे है",
+    "originalMeaning": "Originally / So that's how it is",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "तो यह तुम थे!(So it was you!)"
+    ]
+  },
+  {
+    "characters": "竟然",
+    "pinyin": "jìng rán",
+    "meaning": "अप्रत्याशित रूप से / आश्चर्यजनक रूप से",
+    "originalMeaning": "Unexpectedly / To one's surprise",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "वह आश्चर्यजनक रूप से चीनी बोल सकता है!(He can speak Chinese, surprisingly!)"
+    ]
+  },
+  {
+    "characters": "逐渐",
+    "pinyin": "zhú jiàn",
+    "meaning": "धीरे-धीरे",
+    "originalMeaning": "Gradually",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "मौसम धीरे-धीरे गर्म हो रहा है।(The weather is gradually getting warmer.)"
+    ]
+  },
+  {
+    "characters": "幸福",
+    "pinyin": "xìng fú",
+    "meaning": "खुश / धन्य",
+    "originalMeaning": "Happy / Blessed",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "मैं आपको खुशी की शुभकामनाएं देता हूं!(Wishing you happiness!)"
+    ]
+  },
+  {
+    "characters": "勇敢",
+    "pinyin": "yǒng gǎn",
+    "meaning": "बहादुर / साहसी",
+    "originalMeaning": "Brave / Courageous",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "तुम्हें बहादुरी से सामना करना होगा। (You must bravely face it.)"
+    ]
+  },
+  {
+    "characters": "尊重",
+    "pinyin": "zūn zhòng",
+    "meaning": "आदर करना / आदर",
+    "originalMeaning": "To respect / Respect",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 4,
+    "examples": [
+      "दूसरों का आदर करना चाहिए। (Respect others.)"
+    ]
+  },
+  {
+    "characters": "责任",
+    "pinyin": "zé rèn",
+    "meaning": "जिम्मेदारी",
+    "originalMeaning": "Responsibility",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 4,
+    "examples": [
+      "यह मेरी जिम्मेदारी है। (This is my responsibility.)"
+    ]
+  },
+  {
+    "characters": "经济",
+    "pinyin": "jīng jì",
+    "meaning": "अर्थव्यवस्था / आर्थिक",
+    "originalMeaning": "Economy / Economic",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 4,
+    "examples": [
+      "चीन की अर्थव्यवस्था तेजी से विकसित हो रही है। (China's economy is developing rapidly.)"
+    ]
+  },
+  {
+    "characters": "传统",
+    "pinyin": "chuán tǒng",
+    "meaning": "परंपरा / पारंपरिक",
+    "originalMeaning": "Tradition / Traditional",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 4,
+    "examples": [
+      "यह पारंपरिक चीनी संस्कृति है। (This is traditional Chinese culture.)"
+    ]
+  },
+  {
+    "characters": "暂时",
+    "pinyin": "zàn shí",
+    "meaning": "अस्थायी रूप से",
+    "originalMeaning": "Temporarily",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "मेरे पास अस्थायी रूप से कोई योजना नहीं है। (I don't have plans temporarily.)"
+    ]
+  },
+  {
+    "characters": "充分",
+    "pinyin": "chōng fèn",
+    "meaning": "पूरी तरह से / पर्याप्त",
+    "originalMeaning": "Fully / Ample",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 4,
+    "examples": [
+      "पूरी तैयारी करें। (Be fully prepared.)"
+    ]
+  },
+  {
+    "characters": "沟通",
+    "pinyin": "gōu tōng",
+    "meaning": "बातचीत करना",
+    "originalMeaning": "To communicate",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "प्रभावी संचार बहुत महत्वपूर्ण है। (Effective communication is important.)"
+    ]
+  },
+  {
+    "characters": "协调",
+    "pinyin": "xié tiáo",
+    "meaning": "समन्वय करना",
+    "originalMeaning": "To coordinate",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "मैं सभी पहलुओं का समन्वय करूंगा। (I'll coordinate all aspects.)"
+    ]
+  },
+  {
+    "characters": "贡献",
+    "pinyin": "gòng xiàn",
+    "meaning": "योगदान / योगदान करना",
+    "originalMeaning": "Contribution / To contribute",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "उन्होंने बहुत बड़ा योगदान दिया। (He made a huge contribution.)"
+    ]
+  },
+  {
+    "characters": "素质",
+    "pinyin": "sù zhì",
+    "meaning": "गुणवत्ता / क्षमता (किसी व्यक्ति की)",
+    "originalMeaning": "Quality / Caliber (of a person)",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "提高个人素质很重要。(व्यक्तिगत गुणवत्ता में सुधार करना महत्वपूर्ण है।)"
+    ]
+  },
+  {
+    "characters": "弥补",
+    "pinyin": "mí bǔ",
+    "meaning": "भरपाई करना / क्षतिपूर्ति करना",
+    "originalMeaning": "To make up for / To compensate",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "用行动弥补过错。(कार्यों से गलतियों की भरपाई करें।)"
+    ]
+  },
+  {
+    "characters": "独特",
+    "pinyin": "dú tè",
+    "meaning": "अद्वितीय / विशिष्ट",
+    "originalMeaning": "Unique / Distinctive",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "这个地方很独特。(यह जगह बहुत अनोखी है।)"
+    ]
+  },
+  {
+    "characters": "显然",
+    "pinyin": "xiǎn rán",
+    "meaning": "जाहिर तौर पर / स्पष्ट रूप से",
+    "originalMeaning": "Obviously / Evidently",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "显然他说的不对。(जाहिर है कि उसने जो कहा वह गलत है।)"
+    ]
+  },
+  {
+    "characters": "深刻",
+    "pinyin": "shēn kè",
+    "meaning": "गहरा / गंभीर",
+    "originalMeaning": "Profound / Deep",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "这本书意义深刻。(इस पुस्तक का अर्थ गहरा है।)"
+    ]
+  },
+  {
+    "characters": "频繁",
+    "pinyin": "pín fán",
+    "meaning": "बार-बार / लगातार",
+    "originalMeaning": "Frequent",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "最近加班太频繁了。(हाल ही में ओवरटाइम बहुत बार हो रहा है।)"
+    ]
+  },
+  {
+    "characters": "承担",
+    "pinyin": "chéng dān",
+    "meaning": "वहन करना / उठाना / जिम्मेदारी लेना",
+    "originalMeaning": "To bear / To undertake",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "我愿意承担责任。(मैं जिम्मेदारी लेने को तैयार हूं।)"
+    ]
+  },
+  {
+    "characters": "保持",
+    "pinyin": "bǎo chí",
+    "meaning": "बनाए रखना / रखना",
+    "originalMeaning": "To maintain / To keep",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "保持冷静。(शांत रहें।)"
+    ]
+  },
+  {
+    "characters": "促进",
+    "pinyin": "cù jìn",
+    "meaning": "बढ़ावा देना / सुविधा देना",
+    "originalMeaning": "To promote / To facilitate",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "运动促进健康。(व्यायाम स्वास्थ्य को बढ़ावा देता है।)"
+    ]
+  },
+  {
+    "characters": "反映",
+    "pinyin": "fǎn yìng",
+    "meaning": "प्रतिबिंबित करना / रिपोर्ट करना",
+    "originalMeaning": "To reflect / To report",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "这反映了社会问题。(यह सामाजिक मुद्दों को दर्शाता है।)"
+    ]
+  },
+  {
+    "characters": "目前",
+    "pinyin": "mù qián",
+    "meaning": "वर्तमान में / अभी",
+    "originalMeaning": "At present / Currently",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "目前情况还不错。(वर्तमान स्थिति ठीक है।)"
+    ]
+  },
+  {
+    "characters": "合理",
+    "pinyin": "hé lǐ",
+    "meaning": "उचित / तर्कसंगत",
+    "originalMeaning": "Reasonable / Rational",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "这个价格很合理。(यह कीमत बहुत उचित है।)"
+    ]
+  },
+  {
+    "characters": "灵活",
+    "pinyin": "líng huó",
+    "meaning": "लचीला / फुर्तीला",
+    "originalMeaning": "Flexible / Agile",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "工作时间比较灵活。(काम करने के घंटे अपेक्षाकृत लचीले हैं।)"
+    ]
+  },
+  {
+    "characters": "本质",
+    "pinyin": "běn zhì",
+    "meaning": "सार / प्रकृति",
+    "originalMeaning": "Essence / Nature",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "问题的本质是什么？(समस्या का सार क्या है?)"
+    ]
+  },
+  {
+    "characters": "趋势",
+    "pinyin": "qū shì",
+    "meaning": "प्रवृत्ति / रुझान",
+    "originalMeaning": "Trend / Tendency",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "这是未来的趋势。(यह भविष्य की प्रवृत्ति है।)"
+    ]
+  },
+  {
+    "characters": "领域",
+    "pinyin": "lǐng yù",
+    "meaning": "क्षेत्र / डोमेन",
+    "originalMeaning": "Field / Domain",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "他在科技领域很有名。(वह प्रौद्योगिकी क्षेत्र में बहुत प्रसिद्ध है।)"
+    ]
+  },
+  {
+    "characters": "具备",
+    "pinyin": "jù bèi",
+    "meaning": "पास होना / होना",
+    "originalMeaning": "To possess / To have",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "他具备领导能力。(उसमें नेतृत्व क्षमता है।)"
+    ]
+  },
+  {
+    "characters": "克服",
+    "pinyin": "kè fú",
+    "meaning": "दूर करना",
+    "originalMeaning": "To overcome",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "克服困难，继续前进。(कठिनाइयों को दूर करें और आगे बढ़ते रहें।)"
+    ]
+  },
+  {
+    "characters": "恢复",
+    "pinyin": "huī fù",
+    "meaning": "ठीक होना / बहाल करना",
+    "originalMeaning": "To recover / To restore",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "他已经恢复健康了。(वह स्वस्थ हो गया है।)"
+    ]
+  },
+  {
+    "characters": "形成",
+    "pinyin": "xíng chéng",
+    "meaning": "बनना / आकार लेना",
+    "originalMeaning": "To form / To take shape",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 5,
+    "examples": [
+      "慢慢形成了习惯。(धीरे-धीरे आदत बन गई।)"
+    ]
+  },
+  {
+    "characters": "实践",
+    "pinyin": "shí jiàn",
+    "meaning": "अभ्यास / अभ्यास में लाना",
+    "originalMeaning": "Practice / To put into practice",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "सिद्धांत को अभ्यास के साथ जोड़ना चाहिए। (理论要与实践结合。(Theory should combine with practice.))"
+    ]
+  },
+  {
+    "characters": "规模",
+    "pinyin": "guī mó",
+    "meaning": "पैमाना / दायरा",
+    "originalMeaning": "Scale / Scope",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 5,
+    "examples": [
+      "कंपनी का पैमाना बढ़ता जा रहा है। (公司规模越来越大。(The company's scale is growing.))"
+    ]
+  },
+  {
+    "characters": "必然",
+    "pinyin": "bì rán",
+    "meaning": "अनिवार्य / निश्चित रूप से",
+    "originalMeaning": "Inevitable / Certainly",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "मेहनत का फल अवश्य मिलता है। (努力必然有回报。(Hard work inevitably pays off.))"
+    ]
+  },
+  {
+    "characters": "大概",
+    "pinyin": "dà gài",
+    "meaning": "लगभग / शायद",
+    "originalMeaning": "Roughly / Probably",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 5,
+    "examples": [
+      "लगभग दो घंटे लगेंगे। (大概需要两个小时。(It takes roughly two hours.))"
+    ]
+  },
+  {
+    "characters": "从而",
+    "pinyin": "cóng ér",
+    "meaning": "इस प्रकार / इसलिए",
+    "originalMeaning": "Thereby / Thus",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 5,
+    "examples": [
+      "मेहनत से पढ़ाई करो, इस प्रकार अच्छे अंक प्राप्त करो। (努力学习，从而取得好成绩。(Study hard, thereby achieving good grades.))"
+    ]
+  },
+  {
+    "characters": "何况",
+    "pinyin": "hé kuàng",
+    "meaning": "दूर की बात / उल्लेख नहीं करना",
+    "originalMeaning": "Let alone / Not to mention",
+    "partOfSpeech": "संयोजक",
+    "hskLevel": 5,
+    "examples": [
+      "बड़े लोग भी नहीं कर सकते, बच्चों की तो बात ही क्या। (大人都做不到，何况小孩。(Adults can't do it, let alone children.))"
+    ]
+  },
+  {
+    "characters": "含蓄",
+    "pinyin": "hán xù",
+    "meaning": "अप्रत्यक्ष / आरक्षित",
+    "originalMeaning": "Implicit / Reserved",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "चीनी लोग भावनाओं को आरक्षित तरीके से व्यक्त करते हैं। (中国人表达感情比较含蓄。(Chinese people express feelings in a reserved way.))"
+    ]
+  },
+  {
+    "characters": "陌生",
+    "pinyin": "mò shēng",
+    "meaning": "अजीब / अपरिचित",
+    "originalMeaning": "Strange / Unfamiliar",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "मैं यहाँ से बहुत अपरिचित हूँ। (我对这里很陌生。(I'm very unfamiliar with this place.))"
+    ]
+  },
+  {
+    "characters": "微妙",
+    "pinyin": "wēi miào",
+    "meaning": "सूक्ष्म / नाजुक",
+    "originalMeaning": "Subtle / Delicate",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "दोनों के बीच संबंध बहुत सूक्ष्म है। (两人的关系很微妙。(The relationship between them is subtle.))"
+    ]
+  },
+  {
+    "characters": "渊博",
+    "pinyin": "yuān bó",
+    "meaning": "विद्वान / गहरा (ज्ञान)",
+    "originalMeaning": "Erudite / Profound (knowledge)",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "उनका ज्ञान बहुत गहरा है। (他的知识非常渊博。(His knowledge is very profound.))"
+    ]
+  },
+  {
+    "characters": "憧憬",
+    "pinyin": "chōng jǐng",
+    "meaning": "आशा करना / लालसा",
+    "originalMeaning": "To look forward to / Yearning",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "她对未来充满憧憬。(वह भविष्य के लिए लालसा से भरी है।)"
+    ]
+  },
+  {
+    "characters": "揣摩",
+    "pinyin": "chuǎi mó",
+    "meaning": "विचार करना / समझने की कोशिश करना",
+    "originalMeaning": "To ponder / To try to figure out",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "我在揣摩他的意思。(मैं उसका मतलब समझने की कोशिश कर रहा हूँ।)"
+    ]
+  },
+  {
+    "characters": "陶醉",
+    "pinyin": "táo zuì",
+    "meaning": "आनंद से मुग्ध होना",
+    "originalMeaning": "To be intoxicated (with joy)",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "她陶醉在音乐中。(वह संगीत में मुग्ध थी।)"
+    ]
+  },
+  {
+    "characters": "领悟",
+    "pinyin": "lǐng wù",
+    "meaning": "समझना / ग्रहण करना",
+    "originalMeaning": "To comprehend / To grasp",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "我终于领悟了这个道理。(मैंने आखिरकार इस सच्चाई को समझ लिया।)"
+    ]
+  },
+  {
+    "characters": "钻研",
+    "pinyin": "zuān yán",
+    "meaning": "गहन अध्ययन करना / गहराई से अध्ययन करना",
+    "originalMeaning": "To study intensively / To delve into",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "他钻研了多年。(उन्होंने कई वर्षों तक इसका गहन अध्ययन किया।)"
+    ]
+  },
+  {
+    "characters": "洞察",
+    "pinyin": "dòng chá",
+    "meaning": "अंतर्दृष्टि / भेदना",
+    "originalMeaning": "Insight / To see through",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "他对人性有深刻的洞察。(उन्हें मानव स्वभाव की गहरी अंतर्दृष्टि है।)"
+    ]
+  },
+  {
+    "characters": "弘扬",
+    "pinyin": "hóng yáng",
+    "meaning": "बढ़ावा देना / आगे बढ़ाना",
+    "originalMeaning": "To promote / To carry forward",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "弘扬传统文化。(पारंपरिक संस्कृति को बढ़ावा देना।)"
+    ]
+  },
+  {
+    "characters": "典故",
+    "pinyin": "diǎn gù",
+    "meaning": "शास्त्रीय दृष्टांत / ऐतिहासिक उपाख्यान",
+    "originalMeaning": "Classical allusion / Historical anecdote",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "成语背后都有一个典故。(प्रत्येक मुहावरे के पीछे एक शास्त्रीय दृष्टांत होता है।)"
+    ],
+    "notes": "Commonly used when discussing the origin of Chinese idioms."
+  },
+  {
+    "characters": "内涵",
+    "pinyin": "nèi hán",
+    "meaning": "अर्थ / आंतरिक अर्थ",
+    "originalMeaning": "Connotation / Inner meaning",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "这首诗内涵丰富。(इस कविता में समृद्ध अर्थ हैं।)"
+    ]
+  },
+  {
+    "characters": "素养",
+    "pinyin": "sù yǎng",
+    "meaning": "संस्कार / उपलब्धि",
+    "originalMeaning": "Cultivation / Accomplishment",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "提高文化素养。(सांस्कृतिक संस्कार में सुधार करें।)"
+    ]
+  },
+  {
+    "characters": "底蕴",
+    "pinyin": "dǐ yùn",
+    "meaning": "सांस्कृतिक विरासत / आंतरिक गहराई",
+    "originalMeaning": "Cultural heritage / Inner depth",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "这个城市有深厚的文化底蕴。(इस शहर में गहरी सांस्कृतिक विरासत है।)"
+    ]
+  },
+  {
+    "characters": "格局",
+    "pinyin": "gé jú",
+    "meaning": "पैटर्न / लेआउट / विजन",
+    "originalMeaning": "Pattern / Layout / Vision",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "要有大格局。(किसी को एक बड़े परिप्रेक्ष्य की दृष्टि होनी चाहिए।)"
+    ]
+  },
+  {
+    "characters": "境界",
+    "pinyin": "jìng jiè",
+    "meaning": "क्षेत्र / प्राप्ति का स्तर",
+    "originalMeaning": "Realm / Level of attainment",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "这是人生的最高境界。(यह जीवन का उच्चतम क्षेत्र है।)"
+    ]
+  },
+  {
+    "characters": "精髓",
+    "pinyin": "jīng suǐ",
+    "meaning": "सार / मूल तत्व",
+    "originalMeaning": "Essence / Quintessence",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "学到了中国文化的精髓。(चीनी संस्कृति का सार सीखा।)"
+    ]
+  },
+  {
+    "characters": "渊源",
+    "pinyin": "yuān yuán",
+    "meaning": "उत्पत्ति / गहरा संबंध",
+    "originalMeaning": "Origin / Deep-rooted connection",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "两国有深厚的历史渊源。(दोनों देशों के बीच गहरे ऐतिहासिक संबंध हैं।)"
+    ]
+  },
+  {
+    "characters": "隐喻",
+    "pinyin": "yǐn yù",
+    "meaning": "रूपक",
+    "originalMeaning": "Metaphor",
+    "partOfSpeech": "संज्ञा",
+    "hskLevel": 6,
+    "examples": [
+      "成语常用隐喻的手法。(मुहावरे अक्सर लाक्षणिक तकनीकों का उपयोग करते हैं।)"
+    ]
+  },
+  {
+    "characters": "博大精深",
+    "pinyin": "bó dà jīng shēn",
+    "meaning": "व्यापक और गहरा",
+    "originalMeaning": "Broad and profound",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化博大精深。(चीनी संस्कृति व्यापक और गहरी है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "融会贯通",
+    "pinyin": "róng huì guàn tōng",
+    "meaning": "समझ के माध्यम से पूरी तरह से महारत हासिल करना",
+    "originalMeaning": "To master thoroughly through understanding",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "学习要融会贯通。(सीखने में पूरी समझ शामिल होनी चाहिए।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "源远流长",
+    "pinyin": "yuán yuǎn liú cháng",
+    "meaning": "एक लंबा इतिहास होना",
+    "originalMeaning": "Having a long history",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "中国文化源远流长。(चीनी संस्कृति का एक लंबा इतिहास है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "耐人寻味",
+    "pinyin": "nài rén xún wèi",
+    "meaning": "विचारोत्तेजक / विचार करने योग्य",
+    "originalMeaning": "Thought-provoking / Worth pondering",
+    "partOfSpeech": "विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "这个故事耐人寻味。(यह कहानी विचारोत्तेजक है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "潜移默化",
+    "pinyin": "qián yí mò huà",
+    "meaning": "धीरे-धीरे प्रभावित करना / अदृश्य प्रभाव",
+    "originalMeaning": "To influence subtly / Imperceptible influence",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "文化潜移默化地影响人们。(संस्कृति धीरे-धीरे लोगों को प्रभावित करती है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "与日俱增",
+    "pinyin": "yǔ rì jù zēng",
+    "meaning": "दिन-ब-दिन बढ़ना",
+    "originalMeaning": "Increasing day by day",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "学中文的人与日俱增。(चीनी सीखने वाले लोगों की संख्या दिन-ब-दिन बढ़ रही है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "举一反三",
+    "pinyin": "jǔ yī fǎn sān",
+    "meaning": "एक मामले से कई चीजें निकालना",
+    "originalMeaning": "To infer many things from one case",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "学习要举一反三。(सीखते समय, एक मामले से कई चीजें निकालनी चाहिए।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "循序渐进",
+    "pinyin": "xún xù jiàn jìn",
+    "meaning": "कदम दर कदम / क्रम में प्रगति करना",
+    "originalMeaning": "Step by step / Progressing in order",
+    "partOfSpeech": "क्रिया विशेषण",
+    "hskLevel": 6,
+    "examples": [
+      "学习语言要循序渐进。(भाषा सीखना कदम दर कदम आगे बढ़ना चाहिए।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  },
+  {
+    "characters": "独树一帜",
+    "pinyin": "dú shù yī zhì",
+    "meaning": "अलग दिखना / अनोखी शैली",
+    "originalMeaning": "To stand out / Unique style",
+    "partOfSpeech": "क्रिया",
+    "hskLevel": 6,
+    "examples": [
+      "他的写作风格独树一帜。(उनकी लेखन शैली वास्तव में अनोखी है।)"
+    ],
+    "notes": "यह स्वयं एक मुहावरा (chengyu) है!"
+  }
+]

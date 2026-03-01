@@ -1,0 +1,742 @@
+[
+  {
+    "slug": "yyds",
+    "originalSlug": "yyds",
+    "characters": "YYDS (永远的神)",
+    "pinyin": "yǒng yuǎn de shén",
+    "meaning": "GOAT (Greatest of All Time). Digunakan untuk memuji seseorang atau sesuatu sebagai yang terbaik mutlak.",
+    "origin": "Berasal dari penstrim permainan Shiny (山泥若) pada tahun 2020 ketika memuji seorang pemain, kemudian tersebar ke budaya internet arus perdana.",
+    "examples": [
+      "This restaurant is YYDS! Best noodles I've ever had.",
+      "这家奶茶店YYDS！(This bubble tea shop is the GOAT!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2020s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "nei-juan",
+    "originalSlug": "nei-juan",
+    "characters": "内卷",
+    "pinyin": "nèi juǎn",
+    "meaning": "Involusi — persaingan yang berlebihan, seringkali tidak bermakna di mana semua orang bekerja lebih keras tetapi tiada siapa yang mendapat lebih banyak.",
+    "origin": "Pada asalnya istilah antropologi, ia menjadi viral pada tahun 2020 apabila gambar pelajar Tsinghua belajar di komputer riba sambil berbasikal tersebar dalam talian.",
+    "examples": [
+      "The tech industry in China is so 内卷 — everyone works 996 just to keep up.",
+      "现在考研太内卷了。(Peperiksaan kemasukan sekolah siswazah kini sangat involusi.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "tang-ping",
+    "originalSlug": "tang-ping",
+    "characters": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "Berbaring rata — menolak perlumbaan tikus, memilih untuk melakukan yang paling minimum dan bukannya bekerja lebih masa.",
+    "origin": "Dicipta dalam catatan viral 2021 oleh seorang pekerja kilang yang berhenti kerja dan mengembara dengan simpanan minimum, menolak tekanan masyarakat untuk mencapai lebih daripada yang sepatutnya.",
+    "examples": [
+      "I'm done competing — I'm just going to 躺平.",
+      "年轻人选择躺平。(Orang muda memilih untuk berbaring rata.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "bai-lan",
+    "originalSlug": "bai-lan",
+    "characters": "摆烂",
+    "pinyin": "bǎi làn",
+    "meaning": "Biarkan ia reput — menyerah sepenuhnya untuk mencuba, menerima kegagalan atau kesederhanaan.",
+    "origin": "Daripada budaya bola keranjang NBA di mana pasukan yang kalah \"tank\" dengan sengaja. Diguna pakai oleh netizen Cina sebagai versi 躺平 yang lebih ekstrem.",
+    "examples": [
+      "Exams are tomorrow and I haven't studied — time to 摆烂.",
+      "这学期我直接摆烂了。(Saya hanya membiarkannya reput semester ini.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "jue-jue-zi",
+    "originalSlug": "jue-jue-zi",
+    "characters": "绝绝子",
+    "pinyin": "jué jué zǐ",
+    "meaning": "Sangat menakjubkan / Sangat teruk — ungkapan yang menekankan yang boleh menjadi positif atau negatif bergantung pada konteks.",
+    "origin": "Dipopularkan di platform media sosial Cina seperti Douyin dan Xiaohongshu sekitar tahun 2021 sebagai penguat.",
+    "examples": [
+      "This sunset is 绝绝子! So beautiful!",
+      "这个味道绝绝子！(Rasa ini sangat menakjubkan!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fan-er-sai",
+    "originalSlug": "fan-er-sai",
+    "characters": "凡尔赛",
+    "pinyin": "fán ěr sài",
+    "meaning": "Menunjuk-nunjuk secara merendah diri — menunjuk-nunjuk kekayaan atau pencapaian sambil berpura-pura sederhana atau mengeluh.",
+    "origin": "Dinamakan sempena Istana Versailles. Dipopularkan oleh blogger 小奶球 pada tahun 2020 yang berkongsi kisah orang yang secara kasual menyebut gaya hidup mewah.",
+    "examples": [
+      "\"Aduh, teman lelaki saya hanya membelikan saya BMW, bukan Porsche\" — sungguh 凡尔赛.",
+      "她发朋友圈太凡尔赛了。(Hantaran WeChat Moments dia sangat menunjuk-nunjuk secara merendah diri.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "she-si",
+    "originalSlug": "she-si",
+    "characters": "社死",
+    "pinyin": "shè sǐ",
+    "meaning": "Kematian sosial — momen yang sangat memalukan yang membuatkan anda ingin menghilang.",
+    "origin": "Singkatan untuk 社会性死亡 (kematian sosial). Menjadi popular sekitar 2020-2021 apabila Gen Z mula berkongsi momen memalukan dalam talian.",
+    "examples": [
+      "Saya memanggil guru saya \"ibu\" di dalam kelas — sungguh 社死.",
+      "我当众摔了一跤，社死了。(Saya jatuh di khalayak ramai — kematian sosial.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-gong-ren",
+    "originalSlug": "da-gong-ren",
+    "characters": "打工人",
+    "pinyin": "dǎ gōng rén",
+    "meaning": "Orang yang bekerja / hamba gaji — istilah merendah diri yang digunakan oleh pekerja untuk menggambarkan diri mereka sendiri.",
+    "origin": "Menjadi tular pada akhir tahun 2020 melalui ucapan selamat pagi yang bermotivasi tetapi ironis yang dikongsi di kalangan pekerja pejabat di media sosial.",
+    "examples": [
+      "Selamat pagi, 打工人! Masa untuk membuat duit untuk bos.",
+      "打工人打工魂，打工都是人上人。(Pekerja mempunyai jiwa pekerja, pekerja adalah orang yang terbaik.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "gan-fan-ren",
+    "originalSlug": "gan-fan-ren",
+    "characters": "干饭人",
+    "pinyin": "gān fàn rén",
+    "meaning": "Mesin makan / pahlawan makanan — seseorang yang makan dengan penuh semangat dan ghairah.",
+    "origin": "Berkembang seiring dengan 打工人 pada akhir tahun 2020. Meraikan kegembiraan sederhana makan sebagai satu bentuk penjagaan diri di tengah-tengah tekanan kerja.",
+    "examples": [
+      "Waktu makan tengah hari! Mod 干饭人 diaktifkan!",
+      "干饭人干饭魂！(Penggemar makanan mempunyai jiwa penggemar makanan!)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fo-xi",
+    "originalSlug": "fo-xi",
+    "characters": "佛系",
+    "pinyin": "fó xì",
+    "meaning": "Seperti Buddha — mempunyai sikap zen, apa sahaja yang berlaku, berlakulah terhadap kehidupan. Tidak mengambil berat tentang hasil.",
+    "origin": "Berasal dari artikel majalah Jepun 2014 tentang \"lelaki seperti Buddha,\" diterima pakai ke dalam budaya internet Cina sekitar 2017.",
+    "examples": [
+      "Saya mempunyai pendekatan 佛系 terhadap dating — jika ia berlaku, ia berlaku.",
+      "佛系青年什么都无所谓。(Belia seperti Buddha tidak kisah tentang apa-apa.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhen-xiang",
+    "originalSlug": "zhen-xiang",
+    "characters": "真香",
+    "pinyin": "zhēn xiāng",
+    "meaning": "Sedap / Memang sedap — digunakan apabila seseorang akhirnya menyukai sesuatu yang sebelum ini mereka kata tidak akan mereka lakukan.",
+    "origin": "Berasal dari rancangan realiti 2014 di mana peserta Wang Jingze bersumpah dia tidak akan makan makanan kampung, kemudian dirakam berkata \"真香\" sambil memakannya.",
+    "examples": [
+      "Saya kata saya tidak akan menggunakan TikTok... 真香.",
+      "说好不吃零食的，结果真香了。(Kata saya tidak akan makan makanan ringan, kemudian... memang sedap.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "996",
+    "originalSlug": "996",
+    "characters": "996",
+    "pinyin": "jiǔ jiǔ liù",
+    "meaning": "Bekerja dari 9 pagi hingga 9 malam, 6 hari seminggu — menggambarkan budaya kerja yang memenatkan di syarikat teknologi China.",
+    "origin": "Menjadi topik perbincangan utama pada tahun 2019 apabila pekerja teknologi mencipta \"996.ICU\" di GitHub untuk membantah budaya kerja lebih masa.",
+    "examples": [
+      "Saya tidak boleh berjumpa minggu ini — syarikat saya mengamalkan 996.",
+      "996工作制让人身心疲惫。(Jadual kerja 996 meletihkan fizikal dan mental.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "pua",
+    "originalSlug": "pua",
+    "characters": "PUA",
+    "pinyin": "PUA",
+    "meaning": "Manipulasi psikologi — digunakan secara meluas untuk menggambarkan gaslighting, manipulasi emosi, atau tingkah laku toksik oleh bos, pasangan, dan lain-lain.",
+    "origin": "Asalnya daripada bahasa Inggeris \"Pick-Up Artist,\" tetapi dalam konteks Cina ia berkembang menjadi sebarang bentuk manipulasi psikologi, terutamanya di tempat kerja.",
+    "examples": [
+      "Bos saya betul-betul PUA saya dengan mengatakan saya tidak cukup bagus.",
+      "别被老板PUA了。(Jangan biarkan bos anda gaslighting anda.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "i-ren-e-ren",
+    "originalSlug": "i-ren-e-ren",
+    "characters": "i人/e人",
+    "pinyin": "i rén / e rén",
+    "meaning": "Introvert/Ekstrovert — merujuk kepada jenis personaliti MBTI, digunakan secara santai untuk menggambarkan pilihan sosial.",
+    "origin": "Ujian personaliti MBTI menjadi sangat popular di China sekitar 2022-2023, dengan i人 (introvert) dan e人 (ekstrovert) menjadi label harian.",
+    "examples": [
+      "Saya seorang i人 — parti menghabiskan tenaga saya.",
+      "作为一个i人，我周末只想在家待着。(Sebagai seorang introvert, saya hanya mahu tinggal di rumah pada hujung minggu.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xiu-gou",
+    "originalSlug": "xiu-gou",
+    "characters": "秀狗/秀恩爱",
+    "pinyin": "xiù ēn ài",
+    "meaning": "Menunjuk-nunjuk kemesraan / PDA — pasangan yang mempamerkan hubungan mereka secara terbuka dengan cara yang berlebihan.",
+    "origin": "Slanga internet biasa yang mengkritik paparan kemesraan awam yang berlebihan, terutamanya di media sosial.",
+    "examples": [
+      "Berhenti 秀恩爱 di WeChat Moments, kami faham, anda sedang bercinta.",
+      "秀恩爱，死得快。(Menunjuk-nunjuk cinta, mati cepat — amaran lucu.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-wa",
+    "originalSlug": "ji-wa",
+    "characters": "鸡娃",
+    "pinyin": "jī wá",
+    "meaning": "Amalan keibubapaan harimau yang melampau — menekan anak-anak secara akademik dengan tuisyen dan aktiviti yang tidak berkesudahan.",
+    "origin": "Menggabungkan 打鸡血 (suntik darah ayam, bermaksud memberi tenaga) dengan 娃 (anak). Mencerminkan kebimbangan tentang persaingan pendidikan di China.",
+    "examples": [
+      "Ibu bapa di Beijing terkenal dengan 鸡娃 — kanak-kanak tidak mempunyai masa lapang.",
+      "别太鸡娃了，孩子需要玩耍。(Jangan terlalu menekan anak-anak anda, kanak-kanak perlu bermain.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-yi-e",
+    "originalSlug": "e-yi-e",
+    "characters": "EMO/emo",
+    "pinyin": "emo",
+    "meaning": "Berasa sedih, murung, atau melankolik — digunakan apabila mengalami gelombang emosi negatif.",
+    "origin": "Dipinjam dari Bahasa Inggeris \"emo\" tetapi digunakan secara lebih meluas dalam Bahasa Cina untuk bermaksud sebarang kesedihan sementara atau titik rendah emosi.",
+    "examples": [
+      "Rainy days make me so emo.",
+      "今天又emo了。(Saya berasa emo lagi hari ini.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gao-qing-shang",
+    "originalSlug": "gao-qing-shang",
+    "characters": "高情商",
+    "pinyin": "gāo qíng shāng",
+    "meaning": "EQ tinggi — bersikap bertimbang rasa, diplomatik, atau mengetahui perkara yang betul untuk dikatakan.",
+    "origin": "Digunakan dalam meme viral yang membandingkan \"EQ rendah\" (respons yang tumpul/kasar) berbanding \"EQ tinggi\" (respons yang bertimbang rasa/bijak) kepada situasi yang sama.",
+    "examples": [
+      "Low EQ: \"You're fat.\" High EQ: \"You look prosperous!\"",
+      "高情商说法：你不是胖，你是可爱。(EQ tinggi: Anda tidak gemuk, anda comel.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "shuang-jian",
+    "originalSlug": "shuang-jian",
+    "characters": "双减",
+    "pinyin": "shuāng jiǎn",
+    "meaning": "Pengurangan berganda — dasar kerajaan mengurangkan beban kerja rumah dan tuisyen selepas sekolah untuk pelajar.",
+    "origin": "Dasar rasmi yang dilancarkan pada Julai 2021, menjadi slanga yang dibincangkan secara meluas kerana ia mengubah budaya pendidikan secara dramatik.",
+    "examples": [
+      "After 双减, kids finally have time to play.",
+      "双减政策改变了教育行业。(Dasar pengurangan berganda mengubah industri pendidikan.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2021",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yan-zhi",
+    "originalSlug": "yan-zhi",
+    "characters": "颜值",
+    "pinyin": "yán zhí",
+    "meaning": "Skor daya tarikan / nilai rupa — penilaian berangka penampilan fizikal seseorang.",
+    "origin": "Dipopularkan melalui media sosial dan rancangan hiburan Cina di mana penampilan menjadi dibincangkan secara terbuka dan \"diskorkan.\"",
+    "examples": [
+      "That actor has insane 颜值.",
+      "颜值即正义。(Daya tarikan adalah keadilan — rupa adalah segalanya.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2015",
+    "formality": "informal"
+  },
+  {
+    "slug": "cp",
+    "originalSlug": "cp",
+    "characters": "CP (嗑CP)",
+    "pinyin": "kè CP",
+    "meaning": "Menyokong / memasangkan — menyokong atau berfantasi tentang pasangan romantik, sama ada benar atau fiksyen.",
+    "origin": "Daripada Bahasa Inggeris \"couple\" diringkaskan kepada CP. 嗑CP bermaksud \"mengambil\" atau taksub terhadap pasangan romantik.",
+    "examples": [
+      "I'm 嗑CP-ing these two actors so hard!",
+      "这对CP好甜！(This couple is so sweet!)",
+      "Pasangan pelakon ini saya sokong habis-habisan!"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "very informal"
+  },
+  {
+    "slug": "da-call",
+    "originalSlug": "da-call",
+    "characters": "打call",
+    "pinyin": "dǎ call",
+    "meaning": "Memberi sokongan / bersorak untuk — menyokong seseorang atau sesuatu dengan penuh semangat.",
+    "origin": "Daripada budaya idola Jepun di mana peminat melakukan sorakan yang diselaraskan (\"call\") di konsert. Diguna pakai ke dalam budaya internet Cina.",
+    "examples": [
+      "I'm 打call for my favorite singer!",
+      "为中国女排打call！(Cheering for the Chinese women's volleyball team!)",
+      "Saya menyokong penyanyi kegemaran saya!"
+    ],
+    "category": "Internet Culture",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "fan-quan",
+    "originalSlug": "fan-quan",
+    "characters": "饭圈",
+    "pinyin": "fàn quān",
+    "meaning": "Lingkaran peminat / fandom — komuniti peminat yang teratur di sekitar selebriti atau idola.",
+    "origin": "Daripada budaya 粉丝 (peminat). Fandom di China menjadi sangat teratur dengan aktiviti yang diselaraskan, pengumpulan dana, dan kempen dalam talian.",
+    "examples": [
+      "饭圈 culture can be pretty intense in China.",
+      "饭圈文化影响了年轻人。(Fan circle culture has influenced young people.)",
+      "Budaya lingkaran peminat boleh menjadi agak tegang di China."
+    ],
+    "category": "Youth Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-tou",
+    "originalSlug": "xia-tou",
+    "characters": "虾头",
+    "pinyin": "xiā tóu",
+    "meaning": "Kepala udang — menggambarkan seseorang yang menarik dari belakang tetapi mengecewakan dari depan.",
+    "origin": "Seperti udang di mana ekor (badan) adalah bahagian yang baik dan kepala dibuang. Menjadi viral di Douyin.",
+    "examples": [
+      "I thought he was so handsome from behind, turned out to be a 虾头.",
+      "背影杀手，结果是个虾头。(Back-view killer, but turned out to be a shrimp head.)",
+      "Saya ingatkan dia sangat kacak dari belakang, rupanya kepala udang."
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "very informal"
+  },
+  {
+    "slug": "lao-liu-bi",
+    "originalSlug": "lao-liu-bi",
+    "characters": "老六",
+    "pinyin": "lǎo liù",
+    "meaning": "Pemain licik / berkhemah — seseorang yang bermain kotor atau bersembunyi dan menunggu orang lain bergaduh dahulu.",
+    "origin": "Daripada permainan CS:GO di mana 5 pemain berada dalam satu pasukan, dan \"pemain ke-6\" adalah seseorang yang bersembunyi/berkhemah dan bukannya bermain dengan betul.",
+    "examples": [
+      "Stop being an 老六 and fight properly!",
+      "你怎么又当老六！(Why are you being a camper again!)",
+      "Jangan jadi pemain licik dan berlawan dengan betul!"
+    ],
+    "category": "Internet Culture",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gua",
+    "originalSlug": "gua",
+    "characters": "吃瓜",
+    "pinyin": "chī guā",
+    "meaning": "Makan tembikai — menjadi penonton yang memerhatikan drama berlaku, menikmati gosip tanpa terlibat.",
+    "origin": "Berasal daripada gambar seorang lelaki makan tembikai sambil menonton pertengkaran di jalanan. 吃瓜群众 (orang ramai yang makan tembikai) adalah pemerhati pasif.",
+    "examples": [
+      "Saya hanya di sini untuk 吃瓜, jangan heret saya ke dalam hal ini.",
+      "吃瓜群众已就位。(Para penonton yang makan tembikai sudah bersedia.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "niu",
+    "originalSlug": "niu",
+    "characters": "牛/牛逼",
+    "pinyin": "niú / niú bī",
+    "meaning": "Hebat / gempak — pujian yang kuat untuk sesuatu yang mengagumkan atau seseorang yang mahir.",
+    "origin": "Salah satu istilah slanga internet Cina yang tertua, 牛 (lembu/banteng) sudah lama dikaitkan dengan menjadi mengagumkan atau berkuasa.",
+    "examples": [
+      "Awak masuk Tsinghua? 牛!",
+      "这个设计太牛了！(Reka bentuk ini sangat hebat!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2000s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gan",
+    "originalSlug": "gan",
+    "characters": "尬",
+    "pinyin": "gà",
+    "meaning": "Kekok / geli hati — menggambarkan situasi yang tidak selesa, rasa malu untuk orang lain.",
+    "origin": "Singkatan untuk 尴尬 (kekok). Menjadi singkatan popular dalam mesej teks dan catatan media sosial.",
+    "examples": [
+      "Perbualan itu sangat 尬.",
+      "好尬啊，不知道说什么好。(Sangat kekok, saya tidak tahu apa yang hendak dikatakan.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xue-ba",
+    "originalSlug": "xue-ba",
+    "characters": "学霸",
+    "pinyin": "xué bà",
+    "meaning": "Pelajar cemerlang / dewa belajar — seseorang yang cemerlang dalam belajar dan sentiasa mendapat gred tertinggi.",
+    "origin": "Menggabungkan 学 (belajar) dengan 霸 (zalim/penguasa). Lawannya ialah 学渣 (xuézhā, kegagalan akademik).",
+    "examples": [
+      "Dia seorang 学霸, sentiasa mendapat markah sempurna.",
+      "学霸的世界我们不懂。(Kita tidak faham dunia pelajar cemerlang.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ti-geng",
+    "originalSlug": "ti-geng",
+    "characters": "梗",
+    "pinyin": "gěng",
+    "meaning": "Meme / jenaka berulang — jenaka internet, rujukan, atau frasa tangkapan yang orang ramai gunakan berulang kali.",
+    "origin": "Asalnya daripada 哏 (gén, punchline komedi dalam crosstalk). Berkembang untuk merangkumi semua meme internet dan rujukan viral.",
+    "examples": [
+      "Saya tidak faham 梗 ini, boleh seseorang jelaskan?",
+      "这个梗已经过时了。(Meme ini sudah lapuk.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-tang",
+    "originalSlug": "ji-tang",
+    "characters": "鸡汤/毒鸡汤",
+    "pinyin": "jī tāng / dú jī tāng",
+    "meaning": "Sup ayam (untuk jiwa) / sup ayam beracun — petikan inspirasi vs. petikan anti-motivasi yang lucu dan sinis.",
+    "origin": "Daripada siri buku Amerika \"Chicken Soup for the Soul.\" 毒鸡汤 adalah versi parodi internet Cina yang sinis.",
+    "examples": [
+      "Petikan itu hanyalah 鸡汤 — kedengaran bagus tetapi tidak bermakna apa-apa.",
+      "毒鸡汤：你不努力，别人替你努力。(Sup ayam beracun: Jika anda tidak berusaha, orang lain akan berusaha untuk anda.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-ren-xian-gao-zhuang",
+    "originalSlug": "e-ren-xian-gao-zhuang",
+    "characters": "内耗",
+    "pinyin": "nèi hào",
+    "meaning": "Geseran dalaman — terlalu berfikir, keraguan diri, dan tenaga mental yang terkuras akibat terlalu risau.",
+    "origin": "Menjadi popular sekitar tahun 2022 apabila perbincangan tentang kesihatan mental meningkat di kalangan golongan muda Cina.",
+    "examples": [
+      "Berhenti 内耗 dan lakukan sahaja!",
+      "别再内耗了，做就对了。(Berhenti terlalu berfikir dan teruskan sahaja.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "te-zhong-bing",
+    "originalSlug": "te-zhong-bing",
+    "characters": "特种兵旅游",
+    "pinyin": "tè zhǒng bīng lǚ yóu",
+    "meaning": "Pelancongan pasukan khas — perjalanan berkelajuan ekstrem, memuatkan sebanyak mungkin tempat menarik dalam masa yang singkat dengan bajet yang kecil.",
+    "origin": "Trend di kalangan pelajar kolej Cina pada tahun 2023 yang akan melawat 5+ bandar dalam hujung minggu menggunakan kereta api semalaman untuk menjimatkan kos hotel.",
+    "examples": [
+      "Kami melakukan 特种兵旅游 — melawat 3 bandar dalam 2 hari!",
+      "大学生特种兵旅游攻略。(Panduan pelancongan pasukan khas pelajar kolej.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-lian",
+    "originalSlug": "da-lian",
+    "characters": "搭子",
+    "pinyin": "dā zi",
+    "meaning": "Rakan aktiviti — seseorang yang anda berpasangan dengannya untuk aktiviti tertentu (rakan makan, rakan belajar, rakan melancong).",
+    "origin": "Menjadi trend pada tahun 2023 apabila golongan muda mencari hubungan sosial khusus aktiviti yang tidak memerlukan komitmen yang tinggi.",
+    "examples": [
+      "Saya memerlukan 饭搭子 (rakan makan) untuk makan tengah hari hari ini.",
+      "找个学习搭子一起去图书馆。(Mencari rakan belajar untuk pergi ke perpustakaan bersama-sama.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "di-san-kong-jian",
+    "originalSlug": "di-san-kong-jian",
+    "characters": "第三空间",
+    "pinyin": "dì sān kōng jiān",
+    "meaning": "Ruang ketiga — tempat yang bukan rumah atau tempat kerja di mana anda boleh berehat (kafe, perpustakaan, taman).",
+    "origin": "Daripada konsep ahli sosiologi Ray Oldenburg, dipopularkan di China apabila golongan muda mencari tempat untuk melarikan diri daripada ruang hidup dan kerja yang sempit.",
+    "examples": [
+      "Kafe ini adalah 第三空间 saya.",
+      "年轻人需要第三空间来放松。(Golongan muda memerlukan ruang ketiga untuk berehat.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2023",
+    "formality": "neutral"
+  },
+  {
+    "slug": "song-si-rui",
+    "originalSlug": "song-si-rui",
+    "characters": "松弛感",
+    "pinyin": "sōng chí gǎn",
+    "meaning": "Suasana santai — kualiti menjadi tenang dan tidak terganggu tanpa usaha, tidak risau tentang segala-galanya.",
+    "origin": "Menjadi ideal yang viral pada tahun 2022 sebagai penentang kepada budaya yang didorong oleh kebimbangan, meraikan orang yang kekal tenang di bawah tekanan.",
+    "examples": [
+      "She has such 松弛感 — nothing seems to bother her. (Dia mempunyai 松弛感 — nampaknya tiada apa yang mengganggunya.)",
+      "我要学习她的松弛感。(Saya mahu mempelajari suasana santainya.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "ka-dian",
+    "originalSlug": "ka-dian",
+    "characters": "卡点",
+    "pinyin": "kǎ diǎn",
+    "meaning": "Tiba tepat pada saat terakhir yang mungkin — menepati masa dengan tepat tanpa sebarang ruang.",
+    "origin": "Menggambarkan tabiat menangguhkan tarikh akhir dan masa ketibaan sehingga had mutlak, yang biasa di kalangan orang muda.",
+    "examples": [
+      "He always 卡点 arrives — one second later and he'd be late. (Dia sentiasa tiba 卡点 — satu saat kemudian dan dia akan lewat.)",
+      "每次上班都卡点到。(Sentiasa tiba di tempat kerja pada saat terakhir.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "dian-zan",
+    "originalSlug": "dian-zan",
+    "characters": "点赞",
+    "pinyin": "diǎn zàn",
+    "meaning": "Untuk suka / memberi ibu jari ke atas — menekan butang suka, atau secara lebih luas, untuk menyetujui sesuatu.",
+    "origin": "Daripada butang suka media sosial. Telah memasuki pertuturan seharian untuk bermaksud memberi kelulusan atau pujian.",
+    "examples": [
+      "给你点赞! (Memberi anda 点赞!)",
+      "这个操作我要点赞。(Saya perlu memberi ibu jari ke atas untuk tindakan ini.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2012",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ji",
+    "originalSlug": "gao-ji",
+    "characters": "割韭菜",
+    "pinyin": "gē jiǔ cài",
+    "meaning": "Menuai daun bawang — menipu atau mengeksploitasi pengguna/pelabur, terutamanya melalui produk yang terlalu mahal atau pelaburan yang buruk.",
+    "origin": "Daun bawang tumbuh semula selepas dipotong, melambangkan bagaimana pengguna/pelabur terus kembali untuk dieksploitasi lagi.",
+    "examples": [
+      "That crypto project is just 割韭菜. (Projek kripto itu hanya 割韭菜.)",
+      "别被割韭菜了。(Jangan ditipu.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "hua-zi",
+    "originalSlug": "hua-zi",
+    "characters": "画大饼",
+    "pinyin": "huà dà bǐng",
+    "meaning": "Melukis lempeng besar — membuat janji kosong, terutamanya oleh bos yang menjanjikan kenaikan gaji atau kenaikan pangkat yang tidak pernah datang.",
+    "origin": "Idiom tradisional yang diubah suai untuk budaya tempat kerja moden, menggambarkan janji kosong daripada pihak pengurusan.",
+    "examples": [
+      "My boss loves to 画大饼 but never delivers. (Bos saya suka 画大饼 tetapi tidak pernah menunaikannya.)",
+      "又画大饼了，这次我不信了。(Melukis lempeng besar lagi, tetapi kali ini saya tidak percaya.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "shai-tai-yang",
+    "originalSlug": "shai-tai-yang",
+    "characters": "晒",
+    "pinyin": "shài",
+    "meaning": "Menunjuk-nunjuk / berkongsi secara terbuka — memuat naik foto pembelian, percutian, atau pencapaian di media sosial.",
+    "origin": "Asalnya bermaksud \"menjemur di bawah matahari.\" Maksud lanjutan: mendedahkan/memaparkan sesuatu secara terbuka, terutamanya di media sosial.",
+    "examples": [
+      "She's always 晒-ing her luxury bags on Instagram.",
+      "朋友圈晒美食。(Berkongsi foto makanan di WeChat Moments.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "bao-fu-xing-xiao-fei",
+    "originalSlug": "bao-fu-xing-xiao-fei",
+    "characters": "报复性消费",
+    "pinyin": "bào fù xìng xiāo fèi",
+    "meaning": "Perbelanjaan balas dendam — berbelanja secara berlebihan selepas tempoh tidak dapat berbelanja (contohnya, selepas perintah berkurung).",
+    "origin": "Menjadi popular selepas perintah berkurung COVID berakhir dan orang ramai berbelanja dan makan dengan boros.",
+    "examples": [
+      "After lockdown, everyone went on a 报复性消费 spree.",
+      "解封后开始报复性消费。(Mula berbelanja balas dendam selepas sekatan ditarik balik.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tian-hua-ban",
+    "originalSlug": "tian-hua-ban",
+    "characters": "天花板",
+    "pinyin": "tiān huā bǎn",
+    "meaning": "Siling — puncak mutlak atau tahap tertinggi sesuatu. Digunakan sebagai superlatif.",
+    "origin": "Dipinjam daripada konsep \"siling kaca\" tetapi digunakan secara positif untuk bermaksud \"yang terbaik\" dalam slanga internet Cina.",
+    "examples": [
+      "This is the 天花板 of hotpot restaurants.",
+      "颜值天花板。(Siling daya tarikan — orang yang paling menarik.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "ci-sheng-ren",
+    "originalSlug": "ci-sheng-ren",
+    "characters": "刺客",
+    "pinyin": "cì kè",
+    "meaning": "Pembunuh harga — produk yang kelihatan murah tetapi mengejutkan anda dengan harga yang sangat tinggi yang tidak dijangka semasa pembayaran.",
+    "origin": "Bermula dengan \"雪糕刺客\" (pembunuh aiskrim) pada tahun 2022 apabila jenama aiskrim mahal memperdayakan orang yang menjangkakan harga murah.",
+    "examples": [
+      "That ice cream was a 刺客 — looked normal but cost $8!",
+      "小心超市里的雪糕刺客。(Berhati-hati dengan pembunuh aiskrim di pasar raya.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-ban-nao",
+    "originalSlug": "xia-ban-nao",
+    "characters": "下班脑",
+    "pinyin": "xià bān nǎo",
+    "meaning": "Otak lepas kerja — keadaan mental hanya memikirkan tentang meninggalkan kerja, tidak mempunyai motivasi.",
+    "origin": "Trend viral pada tahun 2023 yang menggambarkan pekerja yang hadir secara fizikal tetapi mentalnya sudah pun keluar.",
+    "examples": [
+      "I have serious 下班脑 today — can't focus on anything.",
+      "一到下午三点就开始下班脑了。(Otak lepas kerja bermula pada pukul 3 petang.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "suan-le",
+    "originalSlug": "suan-le",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Lupakan saja / tak apalah — menyatakan rasa pasrah atau memutuskan untuk tidak bersusah payah dengan sesuatu.",
+    "origin": "Frasa tradisional yang menjadi suasana/sikap di kalangan anak muda, sering digunakan sebagai falsafah hidup.",
+    "examples": [
+      "Want to argue about it? 算了.",
+      "算了算了，不想了。(Lupakan saja, lupakan saja, saya tak mahu fikirkan lagi.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ye-sheng-de",
+    "originalSlug": "ye-sheng-de",
+    "characters": "野生",
+    "pinyin": "yě shēng",
+    "meaning": "Liar / tidak rasmi — sesuatu atau seseorang yang dihasilkan sendiri, tidak rasmi, atau ditemui di tempat yang tidak dijangka.",
+    "origin": "Digunakan untuk menggambarkan orang amatur tetapi berbakat yang ditemui \"di alam liar\" — seperti penyanyi jalanan yang sangat bagus.",
+    "examples": [
+      "I found a 野生 singer on the subway who was amazing!",
+      "野生程序员。(Seorang pengaturcara \"liar\" yang belajar sendiri.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhuan-zhuan",
+    "originalSlug": "zhuan-zhuan",
+    "characters": "润",
+    "pinyin": "rùn",
+    "meaning": "Berhijrah / meninggalkan China — daripada perkataan Inggeris \"run,\" digunakan untuk menggambarkan orang yang meninggalkan negara ini.",
+    "origin": "Menjadi meluas pada tahun 2022 apabila perbincangan mengenai penghijrahan meningkat. Menggunakan aksara 润 (lembab/licin) sebagai permainan kata untuk \"run.\"",
+    "examples": [
+      "Many tech workers are thinking about 润.",
+      "他润到加拿大了。(Dia telah berhijrah ke Kanada.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-di",
+    "originalSlug": "da-di",
+    "characters": "大地/大爹",
+    "pinyin": "dà dì / dà diē",
+    "meaning": "Bapa besar — digunakan secara sinis untuk menggambarkan tingkah laku yang angkuh atau mendominasi.",
+    "origin": "Slanga internet yang mengejek orang yang bertindak lebih tinggi atau berhak, terutamanya pelanggan perkhidmatan pelanggan yang cerewet.",
+    "examples": [
+      "Who do you think you are, 大爹?",
+      "又来了一个大爹顾客。(Datang lagi seorang pelanggan \"bapa besar\".)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2022",
+    "formality": "very informal"
+  }
+]

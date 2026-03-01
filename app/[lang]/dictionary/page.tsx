@@ -305,6 +305,10 @@ export default async function DictionaryPage({
         </div>
       </section>
 
+      <div className="max-w-4xl mx-auto px-4">
+        <AdUnit type="in-article" />
+      </div>
+
       {/* Features */}
       <section className="py-12 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -340,6 +344,31 @@ export default async function DictionaryPage({
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <AdUnit type="multiplex" />
       </div>
+
+      {/* More Resources */}
+      <section className="py-12 bg-white border-b">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">{getTranslation(lang, 'slangMoreResources')}</h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <Link href={`/${lang}/slang`} className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group">
+              <p className="font-bold text-gray-900 group-hover:text-purple-600 transition-colors">{getTranslation(lang, 'slangTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'slangSubtitle')}</p>
+            </Link>
+            <Link href={`/${lang}/hsk`} className="p-5 bg-emerald-50 rounded-xl border border-emerald-100 hover:shadow-md hover:border-emerald-200 transition-all group">
+              <p className="font-bold text-gray-900 group-hover:text-emerald-600 transition-colors">{getTranslation(lang, 'hskTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'hskSubtitle')}</p>
+            </Link>
+            <Link href={`/${lang}/phrases`} className="p-5 bg-teal-50 rounded-xl border border-teal-100 hover:shadow-md hover:border-teal-200 transition-all group">
+              <p className="font-bold text-gray-900 group-hover:text-teal-600 transition-colors">{getTranslation(lang, 'phrasesTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'phrasesSubtitle')}</p>
+            </Link>
+            <Link href={`/${lang}/blog/lists`} className="p-5 bg-red-50 rounded-xl border border-red-100 hover:shadow-md hover:border-red-200 transition-all group">
+              <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">{getTranslation(lang, 'curatedCollections')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'viewAllLists')}</p>
+            </Link>
+          </div>
+        </div>
+      </section>
 
       {/* Footer */}
       <footer className="bg-white py-8 border-t">

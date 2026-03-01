@@ -1,0 +1,737 @@
+[
+  {
+    "slug": "yyds",
+    "originalSlug": "yyds",
+    "characters": "YYDS (永远的神)",
+    "pinyin": "yǒng yuǎn de shén",
+    "meaning": "GOAT (Greatest of All Time). Usado para elogiar alguém ou algo como o melhor absoluto.",
+    "origin": "Originou-se com o streamer de jogos Shiny (山泥若) em 2020 ao elogiar um jogador, depois se espalhou para a cultura da internet mainstream.",
+    "examples": [
+      "This restaurant is YYDS! Best noodles I've ever had.",
+      "这家奶茶店YYDS！(Esta loja de bubble tea é o GOAT!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2020s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "nei-juan",
+    "originalSlug": "nei-juan",
+    "characters": "内卷",
+    "pinyin": "nèi juǎn",
+    "meaning": "Involução — competição excessiva, muitas vezes inútil, onde todos trabalham mais, mas ninguém ganha mais.",
+    "origin": "Originalmente um termo antropológico, tornou-se viral em 2020 quando fotos de estudantes de Tsinghua estudando em laptops enquanto andavam de bicicleta circularam online.",
+    "examples": [
+      "The tech industry in China is so 内卷 — everyone works 996 just to keep up.",
+      "现在考研太内卷了。(O exame de admissão para pós-graduação está tão involuído agora.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "tang-ping",
+    "originalSlug": "tang-ping",
+    "characters": "躺平",
+    "pinyin": "tǎng píng",
+    "meaning": "Deitar reto — rejeitar a corrida de ratos, escolher fazer o mínimo em vez de trabalhar demais.",
+    "origin": "Criado em uma postagem viral de 2021 por um operário de fábrica que largou o emprego e viajou com economias mínimas, rejeitando a pressão social para ter um desempenho superior.",
+    "examples": [
+      "I'm done competing — I'm just going to 躺平.",
+      "年轻人选择躺平。(Os jovens estão escolhendo deitar reto.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "bai-lan",
+    "originalSlug": "bai-lan",
+    "characters": "摆烂",
+    "pinyin": "bǎi làn",
+    "meaning": "Deixar apodrecer — desistir completamente de tentar, abraçando o fracasso ou a mediocridade.",
+    "origin": "Da cultura do basquete da NBA, onde equipes perdedoras \"entregam\" de propósito. Adotado por internautas chineses como uma versão ainda mais extrema de 躺平.",
+    "examples": [
+      "Exams are tomorrow and I haven't studied — time to 摆烂.",
+      "这学期我直接摆烂了。(Eu estou simplesmente deixando apodrecer este semestre.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "jue-jue-zi",
+    "originalSlug": "jue-jue-zi",
+    "characters": "绝绝子",
+    "pinyin": "jué jué zǐ",
+    "meaning": "Absolutamente incrível / Absolutamente terrível — uma expressão enfática que pode ser positiva ou negativa dependendo do contexto.",
+    "origin": "Popularizado em plataformas de mídia social chinesas como Douyin e Xiaohongshu por volta de 2021 como um intensificador.",
+    "examples": [
+      "This sunset is 绝绝子! So beautiful!",
+      "这个味道绝绝子！(Este sabor é absolutamente incrível!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fan-er-sai",
+    "originalSlug": "fan-er-sai",
+    "characters": "凡尔赛",
+    "pinyin": "fán ěr sài",
+    "meaning": "Humble-bragging — exibir riqueza ou conquistas enquanto finge ser modesto ou reclamar.",
+    "origin": "Nomeado após o Palácio de Versalhes. Popularizado pela blogueira 小奶球 em 2020, que compartilhou histórias de pessoas mencionando casualmente estilos de vida luxuosos.",
+    "examples": [
+      "\"Ugh, meu namorado só me comprou uma BMW, não um Porsche\" — tão 凡尔赛.",
+      "她发朋友圈太凡尔赛了。(As postagens dela no WeChat Moments são tão exibicionistas.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "she-si",
+    "originalSlug": "she-si",
+    "characters": "社死",
+    "pinyin": "shè sǐ",
+    "meaning": "Morte social — um momento extremamente embaraçoso que faz você querer desaparecer.",
+    "origin": "Abreviação de 社会性死亡 (morte social). Tornou-se popular por volta de 2020-2021, quando a Geração Z abraçou o compartilhamento de momentos embaraçosos online.",
+    "examples": [
+      "I called my teacher \"mom\" in class — total 社死.",
+      "我当众摔了一跤，社死了。(Eu caí em público — morte social.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-gong-ren",
+    "originalSlug": "da-gong-ren",
+    "characters": "打工人",
+    "pinyin": "dǎ gōng rén",
+    "meaning": "Trabalhadores / escravos assalariados — um termo autodepreciativo que os trabalhadores usam para se descrever.",
+    "origin": "Tornou-se viral no final de 2020 através de saudações matinais motivacionais, mas irônicas, compartilhadas entre funcionários de escritório nas redes sociais.",
+    "examples": [
+      "Good morning, 打工人! Time to make money for the boss.",
+      "打工人打工魂，打工都是人上人。(Trabalhadores têm uma alma de trabalhador, trabalhadores são os melhores das pessoas.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
+    "slug": "gan-fan-ren",
+    "originalSlug": "gan-fan-ren",
+    "characters": "干饭人",
+    "pinyin": "gān fàn rén",
+    "meaning": "Máquina de comer / guerreiro gourmet — alguém que come com grande entusiasmo e paixão.",
+    "origin": "Evoluiu junto com 打工人 no final de 2020. Celebra a simples alegria de comer como uma forma de autocuidado em meio ao estresse do trabalho.",
+    "examples": [
+      "Lunch break! 干饭人 mode activated!",
+      "干饭人干饭魂！(Gourmets têm uma alma gourmet!)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "very informal"
+  },
+  {
+    "slug": "fo-xi",
+    "originalSlug": "fo-xi",
+    "characters": "佛系",
+    "pinyin": "fó xì",
+    "meaning": "Como Buda — ter uma atitude zen, aconteça o que acontecer, em relação à vida. Não se importar com os resultados.",
+    "origin": "Originou-se de um artigo de revista japonesa de 2014 sobre \"homens como Buda\", adotado na cultura da internet chinesa por volta de 2017.",
+    "examples": [
+      "I have a 佛系 approach to dating — if it happens, it happens.",
+      "佛系青年什么都无所谓。(Jovens como Buda não se importam com nada.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhen-xiang",
+    "originalSlug": "zhen-xiang",
+    "characters": "真香",
+    "pinyin": "zhēn xiāng",
+    "meaning": "Cheira bem / Tão bom — usado quando alguém acaba gostando de algo que antes dizia que nunca faria.",
+    "origin": "De um reality show de 2014 onde o participante Wang Jingze jurou que nunca comeria a comida rural, e então foi filmado dizendo \"真香\" enquanto comia.",
+    "examples": [
+      "Eu disse que nunca usaria o TikTok... 真香.",
+      "说好不吃零食的，结果真香了。(Disse que não comeria lanches, e então... tão bom.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "996",
+    "originalSlug": "996",
+    "characters": "996",
+    "pinyin": "jiǔ jiǔ liù",
+    "meaning": "Trabalhar das 9h às 21h, 6 dias por semana — descreve a cultura de trabalho exaustiva em empresas de tecnologia chinesas.",
+    "origin": "Tornou-se um ponto de discussão importante em 2019 quando trabalhadores de tecnologia criaram o \"996.ICU\" no GitHub para protestar contra a cultura de excesso de trabalho.",
+    "examples": [
+      "Não posso encontrar vocês esta semana — minha empresa faz 996.",
+      "996工作制让人身心疲惫。(O horário de trabalho 996 é física e mentalmente exaustivo.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "pua",
+    "originalSlug": "pua",
+    "characters": "PUA",
+    "pinyin": "PUA",
+    "meaning": "Manipulação psicológica — usado amplamente para descrever gaslighting, manipulação emocional ou comportamento tóxico por chefes, parceiros, etc.",
+    "origin": "Originalmente do inglês \"Pick-Up Artist\", mas no contexto chinês expandiu-se para significar qualquer forma de manipulação psicológica, especialmente em locais de trabalho.",
+    "examples": [
+      "Meu chefe está totalmente me PUA-ando dizendo que eu não sou bom o suficiente.",
+      "别被老板PUA了。(Não deixe seu chefe fazer gaslighting com você.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "i-ren-e-ren",
+    "originalSlug": "i-ren-e-ren",
+    "characters": "i人/e人",
+    "pinyin": "i rén / e rén",
+    "meaning": "Introvertido/Extrovertido — referenciando os tipos de personalidade MBTI, usado casualmente para descrever preferências sociais.",
+    "origin": "O teste de personalidade MBTI tornou-se extremamente popular na China por volta de 2022-2023, com i人 (introvertido) e e人 (extrovertido) tornando-se rótulos cotidianos.",
+    "examples": [
+      "Eu sou tão i人 — festas drenam minha energia.",
+      "作为一个i人，我周末只想在家待着。(Como um introvertido, eu só quero ficar em casa nos fins de semana.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xiu-gou",
+    "originalSlug": "xiu-gou",
+    "characters": "秀狗/秀恩爱",
+    "pinyin": "xiù ēn ài",
+    "meaning": "Exibindo afeto / PDA (Public Display of Affection) — casais que exibem publicamente seu relacionamento de forma exagerada.",
+    "origin": "Gíria comum da internet criticando demonstrações públicas excessivas de afeto, especialmente nas redes sociais.",
+    "examples": [
+      "Pare de 秀恩爱 no WeChat Moments, nós entendemos, você está apaixonado.",
+      "秀恩爱，死得快。(Exibir amor, morrer rápido — um aviso humorístico.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-wa",
+    "originalSlug": "ji-wa",
+    "characters": "鸡娃",
+    "pinyin": "jī wá",
+    "meaning": "Criação de filhos estilo \"mãe tigre\" turbinada — pressionar as crianças academicamente ao extremo com aulas particulares e atividades sem fim.",
+    "origin": "Combina 打鸡血 (injetar sangue de galinha, significando energizar) com 娃 (criança). Reflete a ansiedade sobre a competição educacional na China.",
+    "examples": [
+      "Pais de Pequim são conhecidos por 鸡娃 — as crianças não têm tempo livre.",
+      "别太鸡娃了，孩子需要玩耍。(Não pressione seus filhos demais, as crianças precisam brincar.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-yi-e",
+    "originalSlug": "e-yi-e",
+    "characters": "EMO/emo",
+    "pinyin": "emo",
+    "meaning": "Sentindo-se para baixo, triste ou melancólico — usado ao experimentar uma onda de emoções negativas.",
+    "origin": "Emprestado do inglês \"emo\", mas usado de forma mais ampla em chinês para significar qualquer tristeza temporária ou ponto baixo emocional.",
+    "examples": [
+      "Rainy days make me so emo.",
+      "今天又emo了。(Estou me sentindo emo de novo hoje.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2021",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gao-qing-shang",
+    "originalSlug": "gao-qing-shang",
+    "characters": "高情商",
+    "pinyin": "gāo qíng shāng",
+    "meaning": "Alto QE — ser atencioso, diplomático ou saber exatamente a coisa certa a dizer.",
+    "origin": "Usado em memes virais contrastando \"baixo QE\" (resposta direta/rude) vs \"alto QE\" (resposta atenciosa/inteligente) para a mesma situação.",
+    "examples": [
+      "Low EQ: \"You're fat.\" High EQ: \"You look prosperous!\"",
+      "高情商说法：你不是胖，你是可爱。(Alta inteligência emocional: você não é gordo, você é adorável.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "shuang-jian",
+    "originalSlug": "shuang-jian",
+    "characters": "双减",
+    "pinyin": "shuāng jiǎn",
+    "meaning": "Redução dupla — a política governamental que reduz a carga de lição de casa e aulas particulares extracurriculares para os alunos.",
+    "origin": "Política oficial lançada em julho de 2021, tornou-se gíria amplamente discutida, pois mudou drasticamente a cultura educacional.",
+    "examples": [
+      "After 双减, kids finally have time to play.",
+      "双减政策改变了教育行业。(A política de redução dupla mudou o setor de educação.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2021",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yan-zhi",
+    "originalSlug": "yan-zhi",
+    "characters": "颜值",
+    "pinyin": "yán zhí",
+    "meaning": "Pontuação de atratividade / valor facial — uma classificação numérica da aparência física de alguém.",
+    "origin": "Popularizado através da mídia social chinesa e programas de entretenimento onde a aparência passou a ser abertamente discutida e \"pontuada\".",
+    "examples": [
+      "That actor has insane 颜值.",
+      "颜值即正义。(A atratividade é justiça — a aparência é tudo.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2015",
+    "formality": "informal"
+  },
+  {
+    "slug": "cp",
+    "originalSlug": "cp",
+    "characters": "CP (嗑CP)",
+    "pinyin": "kè CP",
+    "meaning": "Shippar / emparelhar — apoiar ou fantasiar sobre um casal romântico, seja real ou fictício.",
+    "origin": "Do inglês \"couple\" abreviado para CP. 嗑CP significa \"consumir\" ou ter obsessão por um emparelhamento romântico.",
+    "examples": [
+      "Estou 嗑CP-ing esses dois atores demais!",
+      "这对CP好甜！(Este casal é tão fofo!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "very informal"
+  },
+  {
+    "slug": "da-call",
+    "originalSlug": "da-call",
+    "characters": "打call",
+    "pinyin": "dǎ call",
+    "meaning": "Mostrar apoio / torcer por — apoiar entusiasticamente alguém ou algo.",
+    "origin": "Da cultura idol japonesa, onde os fãs fazem torcidas coordenadas (\"call\") em shows. Adotado na cultura da internet chinesa.",
+    "examples": [
+      "Estou 打call para meu cantor favorito!",
+      "为中国女排打call！(Torcendo pela seleção chinesa feminina de vôlei!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2017",
+    "formality": "informal"
+  },
+  {
+    "slug": "fan-quan",
+    "originalSlug": "fan-quan",
+    "characters": "饭圈",
+    "pinyin": "fàn quān",
+    "meaning": "Círculo de fãs / fandom — a comunidade organizada de fãs em torno de uma celebridade ou ídolo.",
+    "origin": "Da cultura de 粉丝 (fãs). Os fandoms na China se tornaram altamente organizados com atividades coordenadas, arrecadação de fundos e campanhas online.",
+    "examples": [
+      "A cultura 饭圈 pode ser bem intensa na China.",
+      "饭圈文化影响了年轻人。(A cultura do círculo de fãs influenciou os jovens.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-tou",
+    "originalSlug": "xia-tou",
+    "characters": "虾头",
+    "pinyin": "xiā tóu",
+    "meaning": "Cabeça de camarão — descreve alguém que é atraente por trás, mas decepcionante pela frente.",
+    "origin": "Como um camarão onde a cauda (corpo) é a parte boa e a cabeça é descartada. Viralizou no Douyin.",
+    "examples": [
+      "Achei que ele fosse tão bonito por trás, mas acabou sendo um 虾头.",
+      "背影杀手，结果是个虾头。(Assassino de costas, mas acabou sendo uma cabeça de camarão.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "very informal"
+  },
+  {
+    "slug": "lao-liu-bi",
+    "originalSlug": "lao-liu-bi",
+    "characters": "老六",
+    "pinyin": "lǎo liù",
+    "meaning": "Jogador sorrateiro / camper — alguém que joga sujo ou se esconde e espera que os outros lutem primeiro.",
+    "origin": "Do jogo CS:GO, onde 5 jogadores estão em um time, e o \"6º jogador\" é alguém escondido/acamapando em vez de jogar corretamente.",
+    "examples": [
+      "Pare de ser um 老六 e lute corretamente!",
+      "你怎么又当老六！(Por que você está sendo um camper de novo!)"
+    ],
+    "category": "Internet Culture",
+    "era": "2022",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gua",
+    "originalSlug": "gua",
+    "characters": "吃瓜",
+    "pinyin": "chī guā",
+    "meaning": "Comer melão — ser um espectador assistindo ao desenrolar de um drama, apreciando fofocas sem se envolver.",
+    "origin": "De uma foto de um homem comendo melancia enquanto assistia a uma discussão de rua. Os 吃瓜群众 (massas comedoras de melão) são espectadores passivos.",
+    "examples": [
+      "Eu só estou aqui para 吃瓜, não me arraste para isso.",
+      "吃瓜群众已就位。(Os espectadores comedores de melão estão em posição.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "niu",
+    "originalSlug": "niu",
+    "characters": "牛/牛逼",
+    "pinyin": "niú / niú bī",
+    "meaning": "Incrível / fodão — forte elogio para algo impressionante ou alguém habilidoso.",
+    "origin": "Um dos termos de gíria da internet chinesa mais antigos, 牛 (vaca/touro) há muito tempo está associado a ser impressionante ou poderoso.",
+    "examples": [
+      "Você entrou para Tsinghua? 牛!",
+      "这个设计太牛了！(Este design é tão incrível!)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2000s",
+    "formality": "very informal"
+  },
+  {
+    "slug": "gan",
+    "originalSlug": "gan",
+    "characters": "尬",
+    "pinyin": "gà",
+    "meaning": "Estranho / constrangedor — descreve uma situação desconfortável, de vergonha alheia.",
+    "origin": "Abreviatura de 尴尬 (estranho). Tornou-se uma abreviação popular em mensagens de texto e postagens de mídia social.",
+    "examples": [
+      "That conversation was so 尬.",
+      "好尬啊，不知道说什么好。(Tão estranho, não sei o que dizer.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "xue-ba",
+    "originalSlug": "xue-ba",
+    "characters": "学霸",
+    "pinyin": "xué bà",
+    "meaning": "Superdotado acadêmico / deus do estudo — alguém que se destaca nos estudos e sempre obtém as melhores notas.",
+    "origin": "Combina 学 (estudo) com 霸 (tirano/dominador). O oposto é 学渣 (xuézhā, fracasso acadêmico).",
+    "examples": [
+      "She's such a 学霸, always getting perfect scores.",
+      "学霸的世界我们不懂。(Não podemos entender o mundo dos superdotados acadêmicos.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ti-geng",
+    "originalSlug": "ti-geng",
+    "characters": "梗",
+    "pinyin": "gěng",
+    "meaning": "Meme / piada recorrente — uma piada da internet, referência ou frase de efeito que as pessoas usam repetidamente.",
+    "origin": "Originalmente de 哏 (gén, uma piada cômica em crosstalk). Evoluiu para cobrir todos os memes da internet e referências virais.",
+    "examples": [
+      "I don't get this 梗, can someone explain?",
+      "这个梗已经过时了。(Este meme já está desatualizado.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "ji-tang",
+    "originalSlug": "ji-tang",
+    "characters": "鸡汤/毒鸡汤",
+    "pinyin": "jī tāng / dú jī tāng",
+    "meaning": "Sopa de galinha (para a alma) / sopa de galinha tóxica — citações inspiradoras vs. citações anti-motivacionais sombriamente humorísticas.",
+    "origin": "Da série de livros americana \"Chicken Soup for the Soul\". 毒鸡汤 é a versão paródia cínica da internet chinesa.",
+    "examples": [
+      "Essa citação é pura 鸡汤 — soa bem, mas não significa nada.",
+      "毒鸡汤：你不努力，别人替你努力。(Sopa de galinha tóxica: Se você não se esforçar, outros se esforçarão por você.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2016",
+    "formality": "informal"
+  },
+  {
+    "slug": "e-ren-xian-gao-zhuang",
+    "originalSlug": "e-ren-xian-gao-zhuang",
+    "characters": "内耗",
+    "pinyin": "nèi hào",
+    "meaning": "Fricção interna — excesso de reflexão, auto-dúvida e dreno de energia mental devido à preocupação excessiva.",
+    "origin": "Tornou-se popular por volta de 2022, à medida que as discussões sobre saúde mental aumentaram entre os jovens chineses.",
+    "examples": [
+      "Pare de 内耗 e simplesmente faça!",
+      "别再内耗了，做就对了。(Pare de pensar demais e simplesmente faça.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "te-zhong-bing",
+    "originalSlug": "te-zhong-bing",
+    "characters": "特种兵旅游",
+    "pinyin": "tè zhǒng bīng lǚ yóu",
+    "meaning": "Turismo de forças especiais — viagem de velocidade extrema, comprimindo o máximo de passeios turísticos no mínimo de tempo com um orçamento minúsculo.",
+    "origin": "Tendência entre estudantes universitários chineses em 2023 que visitavam mais de 5 cidades em um fim de semana usando trens noturnos para economizar em hotéis.",
+    "examples": [
+      "Fizemos um 特种兵旅游 — visitamos 3 cidades em 2 dias!",
+      "大学生特种兵旅游攻略。(Guia de turismo de forças especiais para estudantes universitários.)"
+    ],
+    "category": "Youth Culture",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-lian",
+    "originalSlug": "da-lian",
+    "characters": "搭子",
+    "pinyin": "dā zi",
+    "meaning": "Companheiro de atividade — uma pessoa com quem você se junta para atividades específicas (companheiro de refeição, companheiro de estudo, companheiro de viagem).",
+    "origin": "Tornou-se moda em 2023, à medida que os jovens buscavam conexões sociais de baixo compromisso e específicas para atividades.",
+    "examples": [
+      "Preciso de um 饭搭子 (companheiro de refeição) para o almoço hoje.",
+      "找个学习搭子一起去图书馆。(Procurando um companheiro de estudo para ir à biblioteca juntos.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "di-san-kong-jian",
+    "originalSlug": "di-san-kong-jian",
+    "characters": "第三空间",
+    "pinyin": "dì sān kōng jiān",
+    "meaning": "Terceiro espaço — um lugar que não é nem casa nem trabalho, onde você pode relaxar (cafés, bibliotecas, parques).",
+    "origin": "Do conceito do sociólogo Ray Oldenburg, popularizado na China à medida que os jovens buscam escapar de espaços de vida e trabalho apertados.",
+    "examples": [
+      "Este café é meu 第三空间.",
+      "年轻人需要第三空间来放松。(Jovens precisam de um terceiro espaço para relaxar.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2023",
+    "formality": "neutral"
+  },
+  {
+    "slug": "song-si-rui",
+    "originalSlug": "song-si-rui",
+    "characters": "松弛感",
+    "pinyin": "sōng chí gǎn",
+    "meaning": "Vibe relaxante — a qualidade de ser calmo e despreocupado sem esforço, não ansioso com tudo.",
+    "origin": "Tornou-se um ideal viral em 2022 como uma reação à cultura impulsionada pela ansiedade, celebrando pessoas que permanecem calmas sob pressão.",
+    "examples": [
+      "She has such 松弛感 — nothing seems to bother her.",
+      "我要学习她的松弛感。(Eu quero aprender essa vibe relaxante dela.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "ka-dian",
+    "originalSlug": "ka-dian",
+    "characters": "卡点",
+    "pinyin": "kǎ diǎn",
+    "meaning": "Chegar exatamente no último momento possível — ser precisamente pontual, sem margem alguma.",
+    "origin": "Descreve o hábito de empurrar prazos e horários de chegada até o limite absoluto, comum entre os jovens.",
+    "examples": [
+      "He always 卡点 arrives — one second later and he'd be late.",
+      "每次上班都卡点到。(Sempre chegando no trabalho no último segundo possível.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "dian-zan",
+    "originalSlug": "dian-zan",
+    "characters": "点赞",
+    "pinyin": "diǎn zàn",
+    "meaning": "Curtir / dar um joinha — pressionar o botão de curtir, ou, de forma mais ampla, aprovar algo.",
+    "origin": "Do botão de curtir das redes sociais. Entrou na fala cotidiana para significar dar aprovação ou elogio.",
+    "examples": [
+      "给你点赞! (Te dando um joinha!)",
+      "这个操作我要点赞。(Tenho que dar um joinha para essa jogada.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2012",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ji",
+    "originalSlug": "gao-ji",
+    "characters": "割韭菜",
+    "pinyin": "gē jiǔ cài",
+    "meaning": "Colher alho-poró — enganar ou explorar consumidores/investidores, especialmente através de produtos superfaturados ou investimentos ruins.",
+    "origin": "O alho-poró cresce novamente depois de ser cortado, simbolizando como os consumidores/investidores continuam voltando para serem explorados novamente.",
+    "examples": [
+      "That crypto project is just 割韭菜.",
+      "别被割韭菜了。(Não seja enganado.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2018",
+    "formality": "informal"
+  },
+  {
+    "slug": "hua-zi",
+    "originalSlug": "hua-zi",
+    "characters": "画大饼",
+    "pinyin": "huà dà bǐng",
+    "meaning": "Desenhar um bolo grande — fazer promessas vazias, especialmente por chefes prometendo aumentos ou promoções que nunca acontecem.",
+    "origin": "Expressão idiomática tradicional reaproveitada para a cultura moderna do local de trabalho, descrevendo promessas vazias da gerência.",
+    "examples": [
+      "My boss loves to 画大饼 but never delivers.",
+      "又画大饼了，这次我不信了。(Desenhando outro bolo grande, mas não vou acreditar desta vez.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2020s",
+    "formality": "informal"
+  },
+  {
+    "slug": "shai-tai-yang",
+    "originalSlug": "shai-tai-yang",
+    "characters": "晒",
+    "pinyin": "shài",
+    "meaning": "Exibir / compartilhar publicamente — postar fotos de compras, viagens ou conquistas nas redes sociais.",
+    "origin": "Originalmente significa \"secar ao sol\". Significado estendido: expor/mostrar algo publicamente, especialmente nas redes sociais.",
+    "examples": [
+      "She's always 晒-ing her luxury bags on Instagram.",
+      "朋友圈晒美食。(Compartilhando fotos de comida nos Momentos do WeChat.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "bao-fu-xing-xiao-fei",
+    "originalSlug": "bao-fu-xing-xiao-fei",
+    "characters": "报复性消费",
+    "pinyin": "bào fù xìng xiāo fèi",
+    "meaning": "Gastos de vingança — gastar excessivamente após um período sem poder gastar (por exemplo, após lockdowns).",
+    "origin": "Tornou-se popular após o fim dos lockdowns da COVID e as pessoas saíram em compras e banquetes.",
+    "examples": [
+      "After lockdown, everyone went on a 报复性消费 spree.",
+      "解封后开始报复性消费。(Começou a gastar por vingança após o fim das restrições.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2020",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tian-hua-ban",
+    "originalSlug": "tian-hua-ban",
+    "characters": "天花板",
+    "pinyin": "tiān huā bǎn",
+    "meaning": "Teto — o pico absoluto ou o nível mais alto de algo. Usado como um superlativo.",
+    "origin": "Emprestado do conceito de \"teto de vidro\", mas usado positivamente para significar \"o melhor\" na gíria da internet chinesa.",
+    "examples": [
+      "This is the 天花板 of hotpot restaurants.",
+      "颜值天花板。(O teto da atratividade — a pessoa mais atraente.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "ci-sheng-ren",
+    "originalSlug": "ci-sheng-ren",
+    "characters": "刺客",
+    "pinyin": "cì kè",
+    "meaning": "Assassino de preços — um produto que parece barato, mas choca você com um preço inesperadamente alto no checkout.",
+    "origin": "Começou com \"雪糕刺客\" (assassino de sorvete) em 2022, quando marcas de sorvete caras enganaram pessoas que esperavam preços baratos.",
+    "examples": [
+      "That ice cream was a 刺客 — looked normal but cost $8!",
+      "小心超市里的雪糕刺客。(Cuidado com os assassinos de sorvete no supermercado.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "xia-ban-nao",
+    "originalSlug": "xia-ban-nao",
+    "characters": "下班脑",
+    "pinyin": "xià bān nǎo",
+    "meaning": "Cérebro de saída do trabalho — o estado mental de só pensar em sair do trabalho, sem nenhuma motivação.",
+    "origin": "Tendência viral em 2023 descrevendo trabalhadores que estão fisicamente presentes, mas mentalmente já desligados.",
+    "examples": [
+      "I have serious 下班脑 today — can't focus on anything.",
+      "一到下午三点就开始下班脑了。(O cérebro de saída do trabalho começa às 15h.)"
+    ],
+    "category": "Work & Hustle",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "suan-le",
+    "originalSlug": "suan-le",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Esquece / Deixa pra lá — expressa resignação ou a decisão de não se incomodar com algo.",
+    "origin": "Frase tradicional que se tornou um estado de espírito/atitude entre os jovens, frequentemente usada como uma filosofia de vida.",
+    "examples": [
+      "Quer discutir sobre isso? 算了.",
+      "算了算了，不想了。(Esquece, esquece, não quero pensar nisso.)"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "ye-sheng-de",
+    "originalSlug": "ye-sheng-de",
+    "characters": "野生",
+    "pinyin": "yě shēng",
+    "meaning": "Selvagem / não oficial — algo ou alguém que é auto-didata, não oficial ou descoberto em um lugar inesperado.",
+    "origin": "Usado para descrever pessoas amadoras, mas talentosas, encontradas \"na natureza\" — como um cantor de rua que é incrivelmente bom.",
+    "examples": [
+      "Encontrei um 野生 cantor no metrô que era incrível!",
+      "野生程序员。(Um programador \"selvagem\" autodidata.)"
+    ],
+    "category": "Internet Culture",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhuan-zhuan",
+    "originalSlug": "zhuan-zhuan",
+    "characters": "润",
+    "pinyin": "rùn",
+    "meaning": "Emigrar / sair da China — da palavra inglesa \"run\", usada para descrever pessoas que estão deixando o país.",
+    "origin": "Tornou-se generalizado em 2022, à medida que as discussões sobre emigração aumentaram. Usa o caractere 润 (úmido/suave) como um trocadilho para \"run\".",
+    "examples": [
+      "Muitos trabalhadores de tecnologia estão pensando em 润.",
+      "他润到加拿大了。(Ele emigrou para o Canadá.)"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "da-di",
+    "originalSlug": "da-di",
+    "characters": "大地/大爹",
+    "pinyin": "dà dì / dà diē",
+    "meaning": "Paizão — usado sarcasticamente para descrever comportamento arrogante ou dominador.",
+    "origin": "Gíria da internet que zomba de pessoas que agem de forma superior ou com direitos, especialmente \"karens\" no atendimento ao cliente.",
+    "examples": [
+      "Quem você pensa que é, 大爹?",
+      "又来了一个大爹顾客。(Lá vem outro cliente \"paizão\".)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2022",
+    "formality": "very informal"
+  }
+]
