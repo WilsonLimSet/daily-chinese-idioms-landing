@@ -1,8 +1,9 @@
-import { format } from 'date-fns';
 import fs from 'fs';
 import path from 'path';
 import { getTranslation } from './translations';
 import { pinyinToSlug } from './utils/pinyin';
+
+const PUBLISHED_DATE = '2025-01-01';
 
 interface Idiom {
   id: string;
@@ -35,7 +36,7 @@ function processContentTemplate(content: string, lang: string = 'en'): string {
   });
 }
 
-export function generateBlogPost(idiom: Idiom, date: Date, lang?: string): BlogPost {
+export function generateBlogPost(idiom: Idiom, lang?: string): BlogPost {
   const slug = pinyinToSlug(idiom.pinyin);
 
   // Use translated content if available
@@ -50,13 +51,11 @@ export function generateBlogPost(idiom: Idiom, date: Date, lang?: string): BlogP
 
 ${idiom.description}
 
-## {{whenToUse}}
+## {{examples}}
 
-**{{situation}}:** ${idiom.example}
+**{{englishExample}}:** "${idiom.example}"
 
----
-
-*{{discoverDaily}}*
+**{{chineseExample}}:** ${idiom.chineseExample}
 `;
 
   // Process the content template with translations
@@ -65,7 +64,7 @@ ${idiom.description}
   return {
     slug,
     title: `${idiom.characters} - ${metaphoric}`,
-    date: format(date, 'yyyy-MM-dd'),
+    date: PUBLISHED_DATE,
     idiom,
     content: processedContent
   };
@@ -89,13 +88,9 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
   }
 
   // Generate posts from JSON for all idioms
-  const startDate = new Date('2025-01-01');
-
-  idioms.forEach((idiom: Idiom, index: number) => {
-    const postDate = new Date(startDate);
-    postDate.setDate(postDate.getDate() + index);
-    posts.push(generateBlogPost(idiom, postDate, lang));
-  });
+  for (const idiom of idioms) {
+    posts.push(generateBlogPost(idiom, lang));
+  }
 
   return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }

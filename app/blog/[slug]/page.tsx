@@ -14,21 +14,9 @@ import '../blog.css';
 // Allow dynamic params for older posts not pre-generated
 export const dynamicParams = true;
 
-// Only pre-generate last 60 days of posts for faster builds
-// Older posts will be generated on-demand with ISR
-const DAYS_TO_PREGENERATE = 60;
-
 export async function generateStaticParams() {
   const posts = await getAllBlogPosts();
-  const cutoffDate = new Date();
-  cutoffDate.setDate(cutoffDate.getDate() - DAYS_TO_PREGENERATE);
-
-  // Only return recent posts for static generation
-  const recentPosts = posts.filter((post: BlogPost) =>
-    new Date(post.date) >= cutoffDate
-  );
-
-  return recentPosts.map((post: BlogPost) => ({
+  return posts.map((post: BlogPost) => ({
     slug: post.slug,
   }));
 }
@@ -46,12 +34,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // Compute pinyin without tones for search matching (people search "ma dao cheng gong" not "mǎ dào chéng gōng")
   const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
 
-  // SEO title: characters + pinyin + "Meaning" + English meaning
+  // SEO title: characters + pinyin + metaphoric meaning — Chinese Idiom
   // Targets: "[pinyin] meaning", "[characters] meaning", "[characters] 英文"
-  const title = `${post.idiom.characters} (${pinyinNoTones}) - Meaning & English Translation | Chengyu`;
+  const title = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom`;
 
-  // Lead with English meaning for 英文 searches - searchers need to see the translation in the snippet
-  const description = `${post.idiom.characters} (${post.idiom.pinyin}) English meaning: "${post.idiom.metaphoric_meaning}". Literally "${post.idiom.meaning}". Learn origin, usage & examples of this Chinese idiom (chengyu).`;
+  // Lead with a hook question for higher CTR
+  const description = `What does ${post.idiom.characters} mean? "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Learn the origin, usage & examples of this Chinese idiom (chengyu).`;
 
   return {
     title,

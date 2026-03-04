@@ -4,6 +4,7 @@ import { getAllBlogPosts as getAllIntlBlogPosts } from '@/src/lib/blog-intl';
 import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles';
 import { getAllSlangTerms } from '@/src/lib/slang';
 import { getAllPhrases } from '@/src/lib/phrases';
+import { getAllCharacterPages } from '@/src/lib/characters';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -144,7 +145,24 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages];
+    // Character pages
+    const characterPages = getAllCharacterPages();
+    const charPages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/characters`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...characterPages.map(char => ({
+        url: `${baseUrl}/characters/${char.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+    ];
+
+    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages];
   }
 
   // Sitemap 1: English listicles
@@ -263,6 +281,24 @@ export default async function sitemap(props: {
   for (const term of phraseTerms) {
     entries.push({
       url: `${baseUrl}/${lang}/phrases/${term.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    });
+  }
+
+  // Language character pages
+  entries.push({
+    url: `${baseUrl}/${lang}/characters`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  const langCharPages = getAllCharacterPages();
+  for (const char of langCharPages) {
+    entries.push({
+      url: `${baseUrl}/${lang}/characters/${char.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.75,

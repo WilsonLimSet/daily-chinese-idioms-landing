@@ -9126,5 +9126,33 @@
     "traditionalCharacters": "匠心獨運",
     "description_tr": "This idiom describes the craftsman's (匠) heart (心) uniquely (獨) operating (運). A variant of 獨具匠心, it emphasizes the active application of creative genius. The phrase depicts original creativity in action. Modern usage describes the exercise of creative genius in producing distinctive work.",
     "chineseExample_tr": "電影導演匠心獨運，創作出一部傑作。"
+  },
+  {
+    "id": "ID681",
+    "characters": "卧虎藏龙",
+    "pinyin": "wò hǔ cáng lóng",
+    "meaning": "Crouching tiger, hidden dragon",
+    "example": "This quiet neighborhood is full of hidden talent — a true case of crouching tiger, hidden dragon.",
+    "chineseExample": "江湖里卧虎藏龙，人心里何尝不是？",
+    "theme": "Wisdom & Learning",
+    "description": "This idiom describes a crouching (卧) tiger (虎) and a hidden (藏) dragon (龙). It originates from the Northern Zhou poet Yu Xin's (庾信, 513–581) poem '同会河阳公新造山地聊得寓目', which contains the line '暗石疑藏虎，盘根似卧龙' (dark stones seem to conceal tigers, gnarled roots resemble a reclining dragon). The phrase describes a place where extraordinary talent lies hidden and unnoticed. A famous example is Zhuge Liang, who lived in seclusion on Wolong Hill (卧龙岗) until Liu Bei visited three times to recruit him. The idiom became internationally known through Ang Lee's 2000 film 'Crouching Tiger, Hidden Dragon' (卧虎藏龙), where the characters' names — Xiaohu (小虎, little tiger) and Jiaolong (蛟龙, delicate dragon) — directly reference it. Modern usage describes any situation where hidden talent or power exists beneath a calm surface.",
+    "metaphoric_meaning": "Hidden talents or extraordinary people in an unassuming place",
+    "traditionalCharacters": "臥虎藏龍",
+    "description_tr": "This idiom describes a crouching (臥) tiger (虎) and a hidden (藏) dragon (龍). It originates from the Northern Zhou poet Yu Xin's (庾信, 513–581) poem, which contains the line '暗石疑藏虎，盤根似臥龍'. The phrase describes a place where extraordinary talent lies hidden and unnoticed. The idiom became internationally known through Ang Lee's 2000 film 'Crouching Tiger, Hidden Dragon' (臥虎藏龍).",
+    "chineseExample_tr": "江湖裡臥虎藏龍，人心裡何嘗不是？"
+  },
+  {
+    "id": "ID682",
+    "characters": "心诚则灵",
+    "pinyin": "xīn chéng zé líng",
+    "meaning": "A sincere heart achieves the divine",
+    "example": "She believed that if she studied with genuine dedication, results would follow — a sincere heart achieves the divine.",
+    "chineseExample": "真心的，就会实现。我问过汉人，他们说是——心诚则灵。",
+    "theme": "Life Philosophy",
+    "description": "This idiom states that the heart (心), when sincere (诚), then (则) achieves spiritual efficacy (灵). It originates from Buddhist devotional practice, where worshippers are taught that sincere prayer brings genuine results. The concept also connects to Confucian ideas in the Classic of Rites (礼记) about 'rectifying the heart' (正心) and 'making intentions sincere' (诚意) as foundations for self-cultivation. In Ang Lee's 2000 film 'Crouching Tiger, Hidden Dragon', the character Lo (罗小虎) uses this idiom when recounting a desert legend to Jen Yu: '真心的，就会实现。我问过汉人，他们说是——心诚则灵。' (If it's from the heart, it will come true. I asked the Han people, they call it — a faithful heart makes wishes come true.) Modern usage extends beyond religion to mean that genuine sincerity and wholehearted commitment in any endeavor will bring results.",
+    "metaphoric_meaning": "Genuine sincerity brings results; a faithful heart makes wishes come true",
+    "traditionalCharacters": "心誠則靈",
+    "description_tr": "This idiom states that the heart (心), when sincere (誠), then (則) achieves spiritual efficacy (靈). It originates from Buddhist devotional practice and connects to Confucian ideas in the Classic of Rites (禮記). The character Lo uses this idiom in Ang Lee's 2000 film 'Crouching Tiger, Hidden Dragon' (臥虎藏龍).",
+    "chineseExample_tr": "真心的，就會實現。我問過漢人，他們說是——心誠則靈。"
   }
 ]

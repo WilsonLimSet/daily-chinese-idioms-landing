@@ -42,7 +42,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for business', 'business chinese phrases', 'chengyu for work', 'professional chinese idioms', 'mandarin business expressions'],
     intro: 'In Chinese business culture, using the right idiom (成语, chéng yǔ) can demonstrate cultural understanding and linguistic sophistication. These 10 idioms are particularly valued in professional contexts, from boardroom presentations to client negotiations.',
     idiomIds: ['ID001', 'ID005', 'ID009', 'ID014', 'ID017', 'ID020', 'ID026', 'ID057', 'ID082', 'ID087'],
-    category: 'Business',
+    category: 'Success & Career',
     publishedDate: '2025-01-15'
   },
   {
@@ -53,7 +53,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about love', 'romantic chinese phrases', 'chengyu for love', 'chinese love expressions', 'mandarin romance idioms'],
     intro: 'Chinese idioms about love are among the most poetic in the language. These expressions have been used for centuries to describe the depths of human affection, from first meetings to lifelong devotion.',
     idiomIds: ['ID056', 'ID008', 'ID035', 'ID031', 'ID118', 'ID102', 'ID027', 'ID040'],
-    category: 'Love & Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-01-16'
   },
   {
@@ -64,7 +64,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for students', 'learning chinese phrases', 'chengyu for education', 'academic chinese idioms', 'study motivation chinese'],
     intro: 'Education has always been highly valued in Chinese culture. These idioms about learning and knowledge have motivated students for centuries and remain relevant for anyone pursuing academic or personal growth.',
     idiomIds: ['ID002', 'ID003', 'ID006', 'ID010', 'ID016', 'ID021', 'ID025', 'ID028', 'ID009', 'ID014'],
-    category: 'Education',
+    category: 'Learning & Education',
     publishedDate: '2025-01-17'
   },
   {
@@ -75,7 +75,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about friendship', 'friendship chinese phrases', 'chengyu for friends', 'chinese loyalty idioms', 'mandarin friendship expressions'],
     intro: 'Friendship is a cornerstone of Chinese social values. These idioms capture the essence of true companionship - from sharing hardships to celebrating successes together.',
     idiomIds: ['ID031', 'ID035', 'ID043', 'ID082', 'ID102', 'ID118', 'ID080', 'ID022'],
-    category: 'Friendship',
+    category: 'Relationships & Family',
     publishedDate: '2025-01-18'
   },
   {
@@ -86,7 +86,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about success', 'success chinese phrases', 'chengyu for achievement', 'motivational chinese idioms', 'mandarin success expressions'],
     intro: 'Chinese culture has a rich tradition of idioms that celebrate success and the qualities needed to achieve it. These expressions offer timeless wisdom about perseverance, strategy, and the nature of achievement.',
     idiomIds: ['ID001', 'ID005', 'ID009', 'ID011', 'ID014', 'ID017', 'ID021', 'ID026', 'ID020', 'ID082'],
-    category: 'Success',
+    category: 'Success & Career',
     publishedDate: '2025-01-19'
   },
   {
@@ -97,7 +97,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about hard work', 'perseverance chinese phrases', 'chengyu for diligence', 'chinese work ethic idioms', 'mandarin persistence expressions'],
     intro: 'The Chinese work ethic is legendary, and these idioms reflect centuries of wisdom about the value of diligence and persistence. Whether you\'re facing challenges at work or pursuing personal goals, these expressions offer encouragement.',
     idiomIds: ['ID009', 'ID014', 'ID005', 'ID026', 'ID017', 'ID020', 'ID006', 'ID003'],
-    category: 'Hard Work',
+    category: 'Character & Values',
     publishedDate: '2025-01-20'
   },
   {
@@ -108,7 +108,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about life', 'philosophy chinese phrases', 'chengyu for wisdom', 'chinese life lessons', 'mandarin philosophical idioms'],
     intro: 'Chinese philosophy has produced some of the most profound observations about life and human nature. These idioms distill centuries of wisdom into memorable four-character expressions that remain relevant today.',
     idiomIds: ['ID007', 'ID012', 'ID015', 'ID018', 'ID019', 'ID023', 'ID024', 'ID027', 'ID022', 'ID040'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-01-21'
   },
   {
@@ -119,7 +119,7 @@ export const listicles: Listicle[] = [
     keywords: ['motivational chinese idioms', 'inspiring chinese phrases', 'chengyu for motivation', 'chinese determination idioms', 'mandarin inspiration expressions'],
     intro: 'Need a boost of motivation? These Chinese idioms have inspired generations to push through difficulties and pursue their dreams. Each carries centuries of wisdom about human potential and perseverance.',
     idiomIds: ['ID001', 'ID005', 'ID009', 'ID014', 'ID017', 'ID021', 'ID026', 'ID018', 'ID006', 'ID082'],
-    category: 'Motivation',
+    category: 'Success & Career',
     publishedDate: '2025-01-22'
   },
   {
@@ -130,7 +130,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about patience', 'patience chinese phrases', 'chengyu for patience', 'chinese perseverance idioms', 'mandarin waiting expressions'],
     intro: 'Chinese culture deeply values patience as a virtue. These idioms capture centuries of wisdom about the power of persistence, the importance of timing, and why gradual progress often leads to lasting success.',
     idiomIds: ['ID009', 'ID005', 'ID032', 'ID018', 'ID026', 'ID015', 'ID007', 'ID014'],
-    category: 'Patience',
+    category: 'Character & Values',
     publishedDate: '2025-01-23'
   },
   {
@@ -141,7 +141,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about teamwork', 'teamwork chinese phrases', 'chengyu for cooperation', 'chinese collaboration idioms', 'mandarin unity expressions'],
     intro: 'From navigating treacherous rivers to building great empires, Chinese history is filled with stories of successful collaboration. These idioms capture the essence of working together and the strength found in unity.',
     idiomIds: ['ID031', 'ID035', 'ID022', 'ID027', 'ID008', 'ID030', 'ID033', 'ID034'],
-    category: 'Teamwork',
+    category: 'Success & Career',
     publishedDate: '2025-01-24'
   },
   {
@@ -152,7 +152,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about change', 'change chinese phrases', 'chengyu for transformation', 'chinese adaptation idioms', 'mandarin personal growth expressions'],
     intro: 'Change is the only constant in life, and Chinese philosophy has long embraced this truth. These idioms offer profound insights into how we can navigate life\'s transitions and transform challenges into opportunities.',
     idiomIds: ['ID015', 'ID018', 'ID012', 'ID007', 'ID024', 'ID029', 'ID036', 'ID033'],
-    category: 'Change & Growth',
+    category: 'Character & Values',
     publishedDate: '2025-01-25'
   },
   {
@@ -163,7 +163,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for speeches', 'speech chinese phrases', 'chengyu for presentations', 'chinese toasts idioms', 'mandarin formal expressions'],
     intro: 'Whether you\'re giving a wedding toast, business presentation, or graduation speech, incorporating the right Chinese idiom can elevate your message and demonstrate cultural sophistication. These idioms are particularly effective for inspiring and motivating audiences.',
     idiomIds: ['ID001', 'ID025', 'ID030', 'ID017', 'ID021', 'ID011', 'ID026', 'ID082', 'ID014', 'ID036'],
-    category: 'Communication',
+    category: 'Numbers & Language',
     publishedDate: '2025-01-26'
   },
   {
@@ -174,7 +174,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about courage', 'courage chinese phrases', 'chengyu for bravery', 'chinese fearlessness idioms', 'mandarin brave expressions'],
     intro: 'Throughout Chinese history, courage has been celebrated as a fundamental virtue. These idioms capture different aspects of bravery - from the courage to commit fully to a cause, to the strength needed to persist against overwhelming odds.',
     idiomIds: ['ID005', 'ID017', 'ID029', 'ID026', 'ID032', 'ID001', 'ID009', 'ID014'],
-    category: 'Courage',
+    category: 'Character & Values',
     publishedDate: '2025-01-27'
   },
   // AI-native listicles targeting conversational queries
@@ -186,7 +186,7 @@ export const listicles: Listicle[] = [
     keywords: ['easy chinese idioms', 'chinese idioms for beginners', 'simple chengyu', 'first chinese idioms to learn', 'beginner mandarin idioms', 'hsk chinese idioms'],
     intro: 'Learning Chinese idioms can seem daunting, but starting with these common, straightforward expressions will build your confidence. These idioms are frequently used in daily conversation and are easier to remember thanks to their vivid imagery.',
     idiomIds: ['ID004', 'ID008', 'ID009', 'ID010', 'ID001', 'ID002', 'ID006', 'ID014', 'ID017', 'ID020'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-01-28'
   },
   {
@@ -197,7 +197,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idiom tattoo', 'chinese tattoo ideas', 'chengyu tattoo meaning', 'meaningful chinese characters tattoo', 'chinese phrase tattoo', 'chinese quote tattoo'],
     intro: 'Chinese idioms make powerful tattoos because they pack profound meaning into just four characters. These carefully selected chengyu carry timeless wisdom about life, perseverance, and personal growth - perfect for permanent body art that tells your story.',
     idiomIds: ['ID005', 'ID009', 'ID014', 'ID006', 'ID015', 'ID018', 'ID026', 'ID003', 'ID001', 'ID007'],
-    category: 'Inspiration',
+    category: 'Success & Career',
     publishedDate: '2025-01-29'
   },
   {
@@ -208,18 +208,18 @@ export const listicles: Listicle[] = [
     keywords: ['funny chinese idioms', 'hilarious chengyu', 'weird chinese sayings', 'amusing chinese phrases', 'chinese idioms literal meaning', 'strange chinese expressions'],
     intro: 'Chinese idioms often have wonderfully absurd literal meanings that make them memorable and fun to learn. These expressions sound bizarre when translated word-for-word but carry practical wisdom that Chinese speakers use every day.',
     idiomIds: ['ID004', 'ID013', 'ID019', 'ID022', 'ID037', 'ID041', 'ID056', 'ID080'],
-    category: 'Entertainment',
+    category: 'History & Culture',
     publishedDate: '2025-01-30'
   },
   {
     slug: 'chinese-new-year-idioms',
-    title: '10 Lucky Chinese Idioms for Chinese New Year Greetings 2026',
-    description: 'What are the best Chinese New Year greetings? These auspicious idioms are perfect for CNY 2026 wishes, red envelopes, and celebrations.',
-    metaDescription: 'What are the most popular Chinese New Year greetings? These 10 auspicious chengyu (成语) are the best phrases for CNY 2026 wishes, red envelopes, and bringing good luck.',
+    title: '10 Best Chinese New Year Greetings for 2026 (With Pinyin & Meaning)',
+    description: 'The 10 most popular Chinese New Year greetings for 2026 — complete with pinyin, meaning, and when to use each. Perfect for wishes, red envelopes & WeChat messages.',
+    metaDescription: 'The 10 most popular Chinese New Year greetings for 2026 with pinyin & meaning. Use these auspicious chengyu for wishes, red envelopes & WeChat messages.',
     keywords: ['chinese new year greetings 2026', 'what to say chinese new year', 'best cny wishes', 'popular lunar new year phrases', 'gong xi fa cai alternatives', '新年快乐 other greetings', 'auspicious chinese new year sayings', 'spring festival 2026 greetings', 'how to wish happy new year in chinese', 'traditional cny blessings'],
     intro: 'What should you say during Chinese New Year? Using the right idioms (成语, chéng yǔ) shows cultural knowledge and brings good fortune. These auspicious four-character expressions are the most popular greetings for CNY 2026 - perfect for wishes, decorations, and red envelope messages.',
     idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID021', 'ID025', 'ID026', 'ID030', 'ID082', 'ID087'],
-    category: 'Celebrations',
+    category: 'Occasions',
     publishedDate: '2025-01-31'
   },
   {
@@ -230,7 +230,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese graduation idioms', 'graduation chinese phrases', 'chengyu for graduates', 'chinese congratulations sayings', 'graduation card chinese', 'commencement speech chinese'],
     intro: 'Graduation marks a pivotal moment deserving of profound words. These Chinese idioms capture the essence of achievement, the excitement of new beginnings, and wishes for future success - perfect for speeches, cards, and celebrations.',
     idiomIds: ['ID001', 'ID002', 'ID003', 'ID014', 'ID017', 'ID021', 'ID025', 'ID026'],
-    category: 'Celebrations',
+    category: 'Occasions',
     publishedDate: '2025-02-01'
   },
   {
@@ -241,7 +241,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese family idioms', 'family chinese phrases', 'chengyu about parents', 'chinese filial piety sayings', 'home chinese expressions', 'chinese family values'],
     intro: 'Family is the cornerstone of Chinese culture, and these idioms reflect centuries of wisdom about familial bonds. From filial piety to sibling love, these expressions capture the deep respect and affection that define Chinese family relationships.',
     idiomIds: ['ID008', 'ID027', 'ID031', 'ID035', 'ID040', 'ID043', 'ID056', 'ID080', 'ID102', 'ID118'],
-    category: 'Family',
+    category: 'Relationships & Family',
     publishedDate: '2025-02-02'
   },
   {
@@ -252,7 +252,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese time idioms', 'chinese sayings about age', 'chengyu about life', 'time flies chinese', 'carpe diem chinese', 'chinese philosophy time'],
     intro: 'Chinese culture has long contemplated the nature of time and its passage. These idioms distill centuries of philosophical observation about aging, the value of each moment, and how we should approach our limited time on earth.',
     idiomIds: ['ID007', 'ID015', 'ID018', 'ID023', 'ID024', 'ID029', 'ID033', 'ID036'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-02-03'
   },
   {
@@ -263,19 +263,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese nature idioms', 'nature chinese phrases', 'chengyu about water', 'chinese mountain sayings', 'bamboo chinese idiom', 'seasons chinese expressions'],
     intro: 'Nature has always been central to Chinese philosophy and poetry. These idioms draw their wisdom from observations of the natural world - from the persistence of water to the resilience of bamboo - offering timeless lessons through beautiful imagery.',
     idiomIds: ['ID005', 'ID009', 'ID015', 'ID018', 'ID007', 'ID024', 'ID032', 'ID033', 'ID036', 'ID029'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-04'
-  },
-  {
-    slug: 'chinese-idioms-for-instagram',
-    title: '10 Short Chinese Idioms Perfect for Instagram Captions',
-    description: 'Concise, impactful Chinese idioms that make perfect social media captions and bios.',
-    metaDescription: 'Level up your Instagram with these 10 Chinese idioms. Short, meaningful, and visually striking - perfect for captions, bios, and showing off your cultural knowledge.',
-    keywords: ['chinese instagram captions', 'chinese captions for photos', 'short chinese quotes', 'aesthetic chinese phrases', 'chinese bio ideas', 'chengyu for social media'],
-    intro: 'Looking for meaningful captions that stand out? These Chinese idioms are short enough for social media but carry profound meaning. Each four-character phrase packs wisdom about life, success, and self-improvement into a visually striking format.',
-    idiomIds: ['ID001', 'ID005', 'ID006', 'ID009', 'ID014', 'ID017', 'ID018', 'ID020', 'ID021', 'ID026'],
-    category: 'Social Media',
-    publishedDate: '2025-02-05'
   },
   {
     slug: 'chinese-idioms-about-money',
@@ -285,7 +274,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese money idioms', 'wealth chinese phrases', 'chengyu about prosperity', 'chinese financial wisdom', 'rich chinese sayings', 'money chinese culture'],
     intro: 'Chinese culture has nuanced views on wealth - valuing prosperity while warning against greed. These idioms reflect centuries of wisdom about earning, spending, and understanding money\'s proper role in a well-lived life.',
     idiomIds: ['ID011', 'ID013', 'ID017', 'ID020', 'ID025', 'ID030', 'ID057', 'ID087'],
-    category: 'Wealth',
+    category: 'Success & Career',
     publishedDate: '2025-02-06'
   },
   // Chinese New Year 2025 - Year of the Snake
@@ -347,9 +336,9 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-new-year-prosperity-blessings',
-    title: '10 Chinese Idioms for Prosperity & Wealth - Beyond 恭喜发财',
-    description: 'How to wish prosperity in Chinese besides gong xi fa cai? These powerful idioms wish wealth, career success, and fortune for CNY.',
-    metaDescription: 'What are other ways to wish prosperity in Chinese besides 恭喜发财? These 10 powerful chengyu convey wishes for wealth, career success, and fortune - perfect alternatives for CNY.',
+    title: '10 Prosperity Idioms Beyond 恭喜发财 for Chinese New Year 2026',
+    description: 'Tired of just saying 恭喜发财? These 10 powerful chengyu wish wealth, career success, and fortune — stand out with unique CNY 2026 prosperity greetings.',
+    metaDescription: 'Tired of just saying 恭喜发财? These 10 powerful chengyu wish wealth, career success, and fortune — unique CNY 2026 prosperity greetings that impress.',
     keywords: ['prosperity chinese idioms besides gong xi fa cai', 'how to wish wealth in chinese', '恭喜发财 alternatives', 'chinese new year money wishes', 'career success chinese phrases', 'wealth blessing chinese', 'fortune idioms mandarin', 'financial success chinese sayings', 'getting rich chinese expressions', 'business prosperity cny greetings'],
     intro: 'How do you wish prosperity in Chinese besides saying 恭喜发财 (gōng xǐ fā cái)? These powerful idioms convey wishes for wealth, career success, and achievement - perfect alternatives for blessing friends, family, and colleagues with prosperity in the new year.',
     idiomIds: ['ID651', 'ID652', 'ID647', 'ID648', 'ID653', 'ID482', 'ID260', 'ID167', 'ID636', 'ID619'],
@@ -369,9 +358,9 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-new-year-first-day-chu-yi-greetings',
-    title: '10 Chinese Idioms for Chu Yi 初一 - First Day of Chinese New Year',
-    description: 'What to say on Chu Yi (初一)? Special Chinese idioms for the first day of Chinese New Year, the most auspicious day for greetings.',
-    metaDescription: 'What should I say on Chu Yi (初一), the first day of Chinese New Year? These 10 auspicious chengyu are the perfect greetings when every word brings extra luck.',
+    title: 'What to Say on Chu Yi 初一: 10 Must-Know First Day Greetings',
+    description: 'Not sure what to say on Chu Yi (初一)? These 10 auspicious idioms are the perfect greetings for the first day of Chinese New Year — when every word brings extra luck.',
+    metaDescription: 'Not sure what to say on Chu Yi (初一)? These 10 auspicious idioms are the perfect first-day-of-CNY greetings — when every word brings extra luck.',
     keywords: ['what to say on chu yi', 'first day chinese new year greetings', '初一说什么吉祥话', 'chu yi auspicious words', 'cny day one what to say', 'spring festival first day phrases', 'lunar new year january 29 2025', 'most lucky chinese new year sayings', 'da nian chu yi greetings', 'what do chinese say on new years day'],
     intro: 'What should you say on Chu Yi (初一, dà nián chū yī), the first day of Chinese New Year? This is the most auspicious day for exchanging greetings - every word spoken carries extra weight and brings maximum good fortune. These expressions are perfect for this special day.',
     idiomIds: ['ID001', 'ID386', 'ID644', 'ID436', 'ID025', 'ID517', 'ID586', 'ID084', 'ID076', 'ID054'],
@@ -391,7 +380,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-new-year-wishes-for-students',
-    title: '10 Chinese Idioms for Wishing Students Success in the New Year',
+    title: '9 Chinese Idioms for Wishing Students Success in the New Year',
     description: 'Encouraging Chinese idioms for students entering the new year, perfect for academic success and learning wishes.',
     metaDescription: 'Wish students academic success with these 10 Chinese idioms. Perfect for Chinese New Year blessings about learning, exams, and achieving educational dreams.',
     keywords: ['chinese new year student wishes', 'academic success idioms', 'exam blessing chinese', '学业有成', 'student cny greetings', 'school success chinese', 'study motivation new year'],
@@ -410,17 +399,6 @@ export const listicles: Listicle[] = [
     idiomIds: ['ID027', 'ID091', 'ID134', 'ID033', 'ID141', 'ID050', 'ID129', 'ID137', 'ID173', 'ID566'],
     category: 'Chinese New Year',
     publishedDate: '2025-02-16'
-  },
-  {
-    slug: 'chinese-new-year-idioms-for-grandparents',
-    title: '10 Sweet Chinese Idioms to Say to Grandparents at Chinese New Year',
-    description: 'What to say to grandparents in Chinese at CNY? These heartfelt idioms wish health, longevity, and happiness to 爷爷奶奶 or 外公外婆.',
-    metaDescription: 'What should I say to my Chinese grandparents at New Year? These 10 loving chengyu express filial respect and wish 爷爷奶奶 health, longevity, and happiness during CNY.',
-    keywords: ['what to say to grandparents chinese new year', 'chinese new year wishes for grandma grandpa', 'how to wish grandparents in chinese', '给爷爷奶奶拜年说什么', 'longevity blessing chinese grandparents', 'chinese phrases for elderly relatives', 'cny greetings for 外公外婆', 'respectful chinese sayings for grandparents', 'filial piety phrases chinese', 'health wishes grandparents mandarin'],
-    intro: 'What should you say to grandparents (爷爷奶奶 or 外公外婆) at Chinese New Year? Grandparents hold a special place in Chinese family culture, and these heartfelt idioms express your love, respect, and wishes for their continued health and happiness - perfect for making their Chinese New Year extra special.',
-    idiomIds: ['ID222', 'ID262', 'ID134', 'ID133', 'ID303', 'ID616', 'ID617', 'ID566', 'ID050', 'ID040'],
-    category: 'Chinese New Year',
-    publishedDate: '2025-02-17'
   },
   {
     slug: 'chinese-new-year-idioms-for-aunties-uncles',
@@ -497,7 +475,7 @@ export const listicles: Listicle[] = [
     keywords: ['perseverance in chinese', 'chinese idioms about perseverance', 'persistence chinese phrases', 'never give up chinese', 'determination chengyu', 'chinese perseverance sayings', 'resilience chinese idiom', 'keep going chinese phrase'],
     intro: 'How do you express perseverance in Chinese? These powerful idioms capture the spirit of persistence and determination that has inspired generations. From water wearing through stone to slow birds flying first, Chinese culture has profound wisdom about the power of never giving up.',
     idiomIds: ['ID005', 'ID009', 'ID090', 'ID106', 'ID107', 'ID201', 'ID224', 'ID233', 'ID032', 'ID154'],
-    category: 'Perseverance',
+    category: 'Character & Values',
     publishedDate: '2025-02-24'
   },
   {
@@ -508,7 +486,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese beauty idioms', 'bi yue xiu hua meaning', 'chen yu luo yan meaning', 'four beauties chinese idiom', 'beautiful chinese phrases', 'chinese idioms about beauty', 'moon hides flowers shy'],
     intro: 'What does 闭月羞花 (bì yuè xiū huā) mean? This iconic idiom describes beauty so stunning that the moon hides and flowers feel shy. Together with 沉鱼落雁, these phrases honor the legendary Four Beauties of ancient China whose grace became immortalized in language.',
     idiomIds: ['ID114', 'ID341', 'ID056', 'ID040', 'ID118', 'ID196', 'ID084', 'ID248'],
-    category: 'Beauty & Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-25'
   },
   {
@@ -519,7 +497,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idiom english translation', 'chengyu in english', 'chinese idioms translated', 'chinese proverbs english meaning', 'mandarin idioms english'],
     intro: 'Looking for Chinese idiom English translations? Whether you are a student, translator, or language enthusiast, this guide provides accurate English translations for the most commonly searched Chinese idioms, complete with pinyin pronunciation and usage examples.',
     idiomIds: ['ID102', 'ID010', 'ID134', 'ID048', 'ID053', 'ID033', 'ID295', 'ID234', 'ID037', 'ID200', 'ID042', 'ID249', 'ID131', 'ID084', 'ID114'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-02-26'
   },
   {
@@ -530,7 +508,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese fable idioms', 'shou zhu dai tu meaning', 'hu jia hu wei meaning', 'jing di zhi wa meaning', 'chinese idiom stories', 'ye gong hao long meaning', 'fox tiger chinese idiom', 'frog well chinese idiom'],
     intro: 'The best Chinese idioms come from memorable fables and stories passed down for thousands of years. These tales contain profound wisdom wrapped in entertaining narratives that have captivated generations.',
     idiomIds: ['ID074', 'ID042', 'ID234', 'ID271', 'ID200', 'ID079', 'ID135', 'ID225', 'ID249', 'ID233'],
-    category: 'Stories & Fables',
+    category: 'History & Culture',
     publishedDate: '2025-02-27'
   },
   {
@@ -541,7 +519,7 @@ export const listicles: Listicle[] = [
     keywords: ['wei yu chou mou meaning', 'chinese idioms about planning', 'preparation chinese phrases', 'be prepared chinese idiom', 'chinese foresight idioms', 'planning ahead chinese'],
     intro: 'What does 未雨绸缪 (wèi yǔ chóu móu) mean? Literally "repair the roof before rain," this idiom captures the Chinese wisdom of preparation and foresight. These idioms about planning ahead offer timeless advice for anyone who wants to be ready for whatever comes.',
     idiomIds: ['ID037', 'ID053', 'ID154', 'ID036', 'ID018', 'ID026', 'ID084', 'ID014'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-02-28'
   },
   {
@@ -552,30 +530,30 @@ export const listicles: Listicle[] = [
     keywords: ['most popular chinese idioms', 'wu ji bi fan meaning', 'liu an hua ming meaning', 'people mountain people sea meaning', 'ren shan ren hai meaning', 'common chinese idioms', 'popular chengyu', 'famous chinese idioms'],
     intro: 'What are the most searched Chinese idioms in the world? Based on search data, these 12 chengyu capture universal themes that resonate across cultures - from philosophical observations about balance to vivid imagery describing crowds.',
     idiomIds: ['ID015', 'ID084', 'ID255', 'ID009', 'ID102', 'ID134', 'ID042', 'ID234', 'ID033', 'ID200', 'ID074', 'ID114'],
-    category: 'Popular',
+    category: 'History & Culture',
     publishedDate: '2025-03-01'
   },
   // === PROGRAMMATIC LISTICLES: Animals & Zodiac ===
   {
     slug: 'chinese-idioms-with-dragon',
-    title: '8 Powerful Chinese Idioms With Dragon (龙)',
+    title: '6 Powerful Chinese Idioms With Dragon (龙)',
     description: 'Discover Chinese idioms featuring the dragon (龙), a symbol of power, luck, and imperial authority in Chinese culture.',
     metaDescription: 'Learn 8 powerful Chinese idioms with dragon (龙). These chengyu represent strength, success, and good fortune - perfect for Chinese New Year and celebrations.',
     keywords: ['chinese idioms with dragon', 'dragon chengyu', '龙 idioms', 'chinese dragon sayings', 'year of the dragon idioms'],
     intro: 'The dragon (龙, lóng) is the most revered creature in Chinese mythology, symbolizing power, strength, and good fortune. These idioms featuring the dragon are especially popular during Chinese New Year and celebrations.',
     idiomIds: ['ID025', 'ID262', 'ID271', 'ID294', 'ID375', 'ID431'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-01'
   },
   {
     slug: 'chinese-idioms-with-tiger',
-    title: '10 Fierce Chinese Idioms With Tiger (虎)',
+    title: '9 Fierce Chinese Idioms With Tiger (虎)',
     description: 'Explore powerful Chinese idioms featuring the tiger (虎), representing courage, power, and authority.',
     metaDescription: 'Discover 10 fierce Chinese idioms with tiger (虎). Learn chengyu about courage, power, and authority - essential for the Year of the Tiger.',
     keywords: ['chinese idioms with tiger', 'tiger chengyu', '虎 idioms', 'chinese tiger sayings', 'year of the tiger idioms'],
     intro: 'The tiger (虎, hǔ) represents courage, power, and authority in Chinese culture. Known as the king of beasts, tiger idioms often describe bravery, danger, or formidable opponents.',
     idiomIds: ['ID042', 'ID130', 'ID131', 'ID253', 'ID278', 'ID284', 'ID375', 'ID377', 'ID550'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-02'
   },
   {
@@ -586,29 +564,29 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with horse', 'horse chengyu', '马 idioms', 'chinese horse sayings', 'year of the horse idioms', 'ma dao cheng gong'],
     intro: 'The horse (马, mǎ) symbolizes speed, success, and perseverance in Chinese culture. Horse idioms are particularly popular for wishing success in new ventures.',
     idiomIds: ['ID018', 'ID093', 'ID116', 'ID133', 'ID192', 'ID195', 'ID202', 'ID208', 'ID248', 'ID262', 'ID274', 'ID278'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-03'
   },
   {
     slug: 'chinese-idioms-with-snake',
-    title: '6 Clever Chinese Idioms With Snake (蛇)',
+    title: '3 Clever Chinese Idioms With Snake (蛇)',
     description: 'Learn Chinese idioms featuring the snake (蛇), representing wisdom, caution, and hidden dangers.',
     metaDescription: 'Explore 6 clever Chinese idioms with snake (蛇). These chengyu teach wisdom about caution, hidden dangers, and strategic thinking.',
     keywords: ['chinese idioms with snake', 'snake chengyu', '蛇 idioms', 'chinese snake sayings', 'year of the snake idioms'],
     intro: 'The snake (蛇, shé) represents wisdom, caution, and sometimes hidden danger in Chinese culture. These idioms often teach valuable lessons about awareness and strategy.',
     idiomIds: ['ID079', 'ID135', 'ID377'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-04'
   },
   {
     slug: 'chinese-idioms-with-ox',
-    title: '8 Strong Chinese Idioms With Ox (牛)',
+    title: '5 Strong Chinese Idioms With Ox (牛)',
     description: 'Discover Chinese idioms featuring the ox (牛), symbolizing hard work, strength, and determination.',
     metaDescription: 'Learn 8 strong Chinese idioms with ox (牛). These chengyu celebrate hard work, perseverance, and quiet strength.',
     keywords: ['chinese idioms with ox', 'ox chengyu', '牛 idioms', 'chinese ox sayings', 'year of the ox idioms'],
     intro: 'The ox (牛, niú) symbolizes hard work, strength, and determination in Chinese culture. Ox idioms celebrate diligence and steady progress.',
     idiomIds: ['ID100', 'ID147', 'ID200', 'ID269', 'ID383'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-05'
   },
   // === PROGRAMMATIC LISTICLES: Body & Mind ===
@@ -620,7 +598,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with heart', 'heart chengyu', '心 idioms', 'chinese heart expressions', 'xin idioms'],
     intro: 'The heart (心, xīn) in Chinese represents not just emotions but also the mind, intentions, and core of a person. These idioms express the full range of human feeling and determination.',
     idiomIds: ['ID008', 'ID136', 'ID151', 'ID166', 'ID183', 'ID208', 'ID256', 'ID313', 'ID316', 'ID318', 'ID340', 'ID393', 'ID398', 'ID403', 'ID409'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-06'
   },
   {
@@ -631,7 +609,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with eye', 'eye chengyu', '目 idioms', '眼 idioms', 'chinese eye expressions'],
     intro: 'The eye (目, mù or 眼, yǎn) in Chinese idioms represents vision, insight, and understanding. These expressions teach about perception and seeing truth beyond appearances.',
     idiomIds: ['ID072', 'ID110', 'ID147', 'ID153', 'ID214', 'ID219', 'ID223', 'ID266', 'ID336', 'ID395'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-07'
   },
   {
@@ -642,7 +620,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with hand', 'hand chengyu', '手 idioms', 'chinese hand expressions'],
     intro: 'The hand (手, shǒu) in Chinese idioms represents action, skill, and capability. These expressions describe expertise, taking initiative, and the relationship between intention and action.',
     idiomIds: ['ID170', 'ID185', 'ID207', 'ID219', 'ID299', 'ID317', 'ID334', 'ID405', 'ID482', 'ID515'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-08'
   },
   // === PROGRAMMATIC LISTICLES: Numbers ===
@@ -654,7 +632,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with one', 'number one chengyu', '一 idioms', 'chinese number idioms', 'yi idioms'],
     intro: 'The number one (一, yī) in Chinese represents unity, singularity, and completeness. These idioms often express wholeness, consistency, or being singular in purpose.',
     idiomIds: ['ID001', 'ID004', 'ID006', 'ID007', 'ID010', 'ID034', 'ID057', 'ID065', 'ID072', 'ID086', 'ID097', 'ID122', 'ID141', 'ID157', 'ID188'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-09'
   },
   {
@@ -665,7 +643,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with three', 'number three chengyu', '三 idioms', 'chinese number idioms', 'san idioms'],
     intro: 'The number three (三, sān) represents completeness and multiplicity in Chinese culture. In idioms, three often means "many" or emphasizes repetition and thoroughness.',
     idiomIds: ['ID007', 'ID010', 'ID039', 'ID112', 'ID131', 'ID171', 'ID206', 'ID247', 'ID250', 'ID353'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-10'
   },
   {
@@ -676,7 +654,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms with eight', 'number eight chengyu', '八 idioms', 'lucky chinese idioms', 'ba idioms'],
     intro: 'The number eight (八, bā) is considered the luckiest number in Chinese culture because it sounds like "prosperity" (发, fā). These idioms featuring eight carry special significance.',
     idiomIds: ['ID220', 'ID308', 'ID317', 'ID319', 'ID322', 'ID376', 'ID384', 'ID388'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-02-11'
   },
   // === PROGRAMMATIC LISTICLES: Nature ===
@@ -688,7 +666,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about wind', 'wind chengyu', '风 idioms', 'chinese wind expressions', 'feng idioms'],
     intro: 'Wind (风, fēng) in Chinese idioms represents change, influence, reputation, and natural forces. These expressions describe everything from swift action to social trends.',
     idiomIds: ['ID035', 'ID040', 'ID046', 'ID054', 'ID064', 'ID127', 'ID187', 'ID203', 'ID264', 'ID265', 'ID327', 'ID342'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-12'
   },
   {
@@ -699,7 +677,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about water', 'water chengyu', '水 idioms', 'chinese water expressions', 'shui idioms'],
     intro: 'Water (水, shuǐ) embodies adaptability, persistence, and life itself in Chinese philosophy. Inspired by Taoist teachings, these idioms reveal profound wisdom about going with the flow.',
     idiomIds: ['ID009', 'ID019', 'ID026', 'ID076', 'ID104', 'ID113', 'ID134', 'ID172', 'ID196', 'ID227', 'ID311', 'ID382'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-13'
   },
   {
@@ -710,46 +688,35 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about mountain', 'mountain chengyu', '山 idioms', 'chinese mountain expressions', 'shan idioms'],
     intro: 'Mountains (山, shān) represent stability, challenges, and eternal grandeur in Chinese culture. These idioms draw on mountain imagery to express perseverance and perspective.',
     idiomIds: ['ID117', 'ID196', 'ID233', 'ID255', 'ID305', 'ID354', 'ID428', 'ID499', 'ID627', 'ID628'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-14'
   },
   {
     slug: 'chinese-idioms-about-fire',
-    title: '10 Fiery Chinese Idioms About Fire (火)',
+    title: '9 Fiery Chinese Idioms About Fire (火)',
     description: 'Discover Chinese idioms featuring fire (火), representing passion, urgency, and transformation.',
     metaDescription: 'Master 10 Chinese idioms about fire (火). Learn chengyu about passion, anger, urgency, and the transformative power of fire.',
     keywords: ['chinese idioms about fire', 'fire chengyu', '火 idioms', 'chinese fire expressions', 'huo idioms'],
     intro: 'Fire (火, huǒ) represents passion, urgency, anger, and transformation in Chinese culture. These idioms capture the intensity and power of fire in human experience.',
     idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-15'
   },
   {
     slug: 'chinese-idioms-about-sky-heaven',
-    title: '12 Chinese Idioms About Sky & Heaven (天)',
+    title: '11 Chinese Idioms About Sky & Heaven (天)',
     description: 'Learn Chinese idioms featuring sky/heaven (天), representing the divine, fate, and limitless possibility.',
     metaDescription: 'Discover 12 Chinese idioms about sky and heaven (天). These chengyu explore fate, divine providence, and boundless potential.',
     keywords: ['chinese idioms about sky', 'heaven chengyu', '天 idioms', 'chinese heaven expressions', 'tian idioms'],
     intro: 'The sky/heaven (天, tiān) represents the divine order, fate, and limitless possibility in Chinese thought. These idioms explore the relationship between humans and the cosmos.',
     idiomIds: ['ID014', 'ID094', 'ID175', 'ID197', 'ID211', 'ID251', 'ID352', 'ID385', 'ID400', 'ID485', 'ID510'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-16'
   },
   // === PROGRAMMATIC LISTICLES: Occasions ===
   {
-    slug: 'chinese-idioms-for-new-year',
-    title: '15 Auspicious Chinese Idioms for New Year Wishes',
-    description: 'Master the best Chinese idioms for New Year greetings, blessings, and celebrations.',
-    metaDescription: 'Learn 15 auspicious Chinese idioms for New Year. Perfect chengyu for CNY greetings, red envelopes, and holiday wishes.',
-    keywords: ['chinese new year idioms', 'cny greetings chengyu', 'lunar new year phrases', 'chinese new year wishes', 'spring festival idioms'],
-    intro: 'Chinese New Year is the perfect time to use auspicious idioms (吉祥成语). These expressions bring good fortune, prosperity, and happiness - ideal for greetings and red envelope messages.',
-    idiomIds: ['ID154', 'ID307', 'ID436'],
-    category: 'Occasions',
-    publishedDate: '2025-02-17'
-  },
-  {
     slug: 'chinese-idioms-for-weddings',
-    title: '10 Romantic Chinese Idioms for Weddings & Marriage',
+    title: '7 Romantic Chinese Idioms for Weddings & Marriage',
     description: 'Beautiful Chinese idioms perfect for wedding wishes, toasts, and celebrating love.',
     metaDescription: 'Discover 10 romantic Chinese idioms for weddings. Perfect chengyu for wedding wishes, invitations, and celebrating eternal love.',
     keywords: ['chinese wedding idioms', 'marriage chengyu', 'wedding wishes chinese', 'romantic chinese sayings', 'love idioms chinese'],
@@ -772,35 +739,35 @@ export const listicles: Listicle[] = [
   // === BATCH 2: More Animals ===
   {
     slug: 'chinese-idioms-with-rooster',
-    title: '8 Bold Chinese Idioms With Rooster (鸡)',
+    title: '5 Bold Chinese Idioms With Rooster (鸡)',
     description: 'Explore Chinese idioms featuring the rooster (鸡), representing punctuality, courage, and vigilance.',
     metaDescription: 'Learn 8 bold Chinese idioms with rooster (鸡). These chengyu celebrate alertness, courage, and the dawn of new beginnings.',
     keywords: ['chinese idioms with rooster', 'rooster chengyu', '鸡 idioms', 'year of the rooster idioms', 'chinese rooster sayings'],
     intro: 'The rooster (鸡, jī) represents punctuality, courage, and vigilance in Chinese culture. Crowing at dawn, the rooster symbolizes new beginnings and reliability.',
     idiomIds: ['ID063', 'ID108', 'ID312', 'ID347', 'ID402'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-21'
   },
   {
     slug: 'chinese-idioms-with-bird',
-    title: '10 Soaring Chinese Idioms With Bird (鸟)',
+    title: '7 Soaring Chinese Idioms With Bird (鸟)',
     description: 'Explore Chinese idioms featuring birds (鸟), representing freedom, aspiration, and natural beauty.',
     metaDescription: 'Learn 10 soaring Chinese idioms with bird (鸟). These chengyu celebrate freedom, high aspirations, and the beauty of nature.',
     keywords: ['chinese idioms with bird', 'bird chengyu', '鸟 idioms', 'chinese bird sayings', 'phoenix idioms'],
     intro: 'Birds (鸟, niǎo) in Chinese idioms represent freedom, aspiration, and natural beauty. From the phoenix to the crane, bird imagery carries profound cultural meaning.',
     idiomIds: ['ID032', 'ID034', 'ID046', 'ID108', 'ID126', 'ID222', 'ID527'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-27'
   },
   {
     slug: 'chinese-idioms-with-fish',
-    title: '8 Abundant Chinese Idioms With Fish (鱼)',
+    title: '4 Abundant Chinese Idioms With Fish (鱼)',
     description: 'Discover Chinese idioms featuring fish (鱼), symbolizing abundance, prosperity, and good fortune.',
     metaDescription: 'Learn 8 abundant Chinese idioms with fish (鱼). These chengyu bring luck and prosperity - essential for Chinese New Year celebrations.',
     keywords: ['chinese idioms with fish', 'fish chengyu', '鱼 idioms', 'chinese fish sayings', 'nian nian you yu'],
     intro: 'Fish (鱼, yú) symbolizes abundance and prosperity in Chinese culture because it sounds like "surplus" (余). Fish idioms are especially popular during New Year.',
     idiomIds: ['ID113', 'ID223', 'ID286', 'ID341'],
-    category: 'Animals & Zodiac',
+    category: 'Nature & Animals',
     publishedDate: '2025-02-28'
   },
   // === BATCH 2: More Occasions ===
@@ -928,7 +895,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-idioms-for-new-baby',
-    title: '8 Joyful Chinese Idioms for New Baby Congratulations',
+    title: '7 Joyful Chinese Idioms for New Baby Congratulations',
     description: 'Heartwarming Chinese idioms to congratulate new parents and bless newborn babies.',
     metaDescription: 'Learn 8 joyful Chinese idioms for new baby congratulations. Perfect chengyu for blessing newborns and celebrating new parents.',
     keywords: ['new baby idioms chinese', 'baby congratulations chengyu', 'newborn wishes chinese', 'birth celebration phrases'],
@@ -972,19 +939,8 @@ export const listicles: Listicle[] = [
   },
   // === NEW LISTICLES: Emotions ===
   {
-    slug: 'chinese-idioms-about-anger',
-    title: '10 Chinese Idioms About Anger & Losing Your Temper',
-    description: 'Expressive Chinese idioms about anger, rage, and losing one\'s temper - learn how Chinese culture describes fury.',
-    metaDescription: 'Learn 10 Chinese idioms about anger and rage. These chengyu vividly describe fury, losing temper, and emotional outbursts in Mandarin.',
-    keywords: ['chinese idioms about anger', 'angry chinese phrases', 'chengyu for rage', 'chinese temper expressions', 'mandarin anger idioms'],
-    intro: 'Chinese idioms offer vivid and poetic ways to describe anger and emotional outbursts. From flames shooting from one\'s head to thunder and lightning, these expressions capture the intensity of human fury.',
-    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID357', 'ID380', 'ID460', 'ID544', 'ID569'],
-    category: 'Emotions',
-    publishedDate: '2025-03-16'
-  },
-  {
     slug: 'chinese-idioms-about-happiness',
-    title: '10 Joyful Chinese Idioms About Happiness & Delight',
+    title: '9 Joyful Chinese Idioms About Happiness & Delight',
     description: 'Beautiful Chinese idioms expressing happiness, joy, and contentment - discover how Chinese culture celebrates positive emotions.',
     metaDescription: 'Discover 10 joyful Chinese idioms about happiness and delight. These chengyu express joy, contentment, and positive emotions in Mandarin.',
     keywords: ['chinese idioms about happiness', 'happy chinese phrases', 'chengyu for joy', 'chinese delight expressions', 'mandarin happiness idioms'],
@@ -1024,7 +980,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about spring', 'spring chinese phrases', 'chengyu for renewal', 'chinese new beginnings expressions', 'mandarin spring idioms'],
     intro: 'Spring holds special significance in Chinese culture as a time of renewal and hope. These idioms capture the essence of the season - from gentle spring rains nurturing growth to bamboo shoots emerging after the thaw.',
     idiomIds: ['ID040', 'ID095', 'ID185', 'ID395', 'ID414', 'ID517', 'ID586', 'ID037', 'ID179', 'ID265'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-03-20'
   },
   {
@@ -1035,7 +991,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about autumn', 'fall chinese phrases', 'chengyu for autumn', 'chinese harvest expressions', 'mandarin fall idioms'],
     intro: 'Autumn in Chinese culture symbolizes harvest, maturity, and contemplation. These idioms draw from the season\'s imagery of clear skies, falling leaves, and the subtle signs of change.',
     idiomIds: ['ID089', 'ID097', 'ID382', 'ID587', 'ID075', 'ID088', 'ID154', 'ID109'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-03-21'
   },
   {
@@ -1046,7 +1002,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about winter', 'cold chinese phrases', 'chengyu for snow', 'chinese ice expressions', 'mandarin winter idioms'],
     intro: 'Winter imagery in Chinese idioms often represents purity, resilience, and the strength to endure hardship. These expressions draw from snow, ice, and the stark beauty of the cold season.',
     idiomIds: ['ID058', 'ID101', 'ID102', 'ID145', 'ID240', 'ID275', 'ID343', 'ID490'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-03-22'
   },
   // === NEW LISTICLES: Numbers ===
@@ -1058,7 +1014,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms number two', 'number 2 chinese phrases', 'chengyu with two', 'chinese duality expressions', 'mandarin pair idioms'],
     intro: 'The number two in Chinese culture represents pairs, balance, and duality. These idioms often express the idea of achieving multiple goals or the relationship between two entities.',
     idiomIds: ['ID034', 'ID130', 'ID308', 'ID470', 'ID541', 'ID182', 'ID399', 'ID236'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-23'
   },
   {
@@ -1069,7 +1025,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms number four', 'number 4 chinese phrases', 'chengyu with four', 'chinese directions expressions', 'mandarin four idioms'],
     intro: 'Despite four being considered unlucky in some contexts, it appears in many powerful idioms representing completeness and universality - the four directions, four seas, and comprehensive scope.',
     idiomIds: ['ID029', 'ID121', 'ID353', 'ID384', 'ID616', 'ID220', 'ID317', 'ID319'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-24'
   },
   {
@@ -1080,7 +1036,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms number seven', 'number 7 chinese phrases', 'chengyu with seven', 'chinese chaos expressions', 'mandarin seven idioms'],
     intro: 'Seven often appears alongside eight in Chinese idioms, creating vivid expressions of disorder, busy activity, or emotional turmoil. These pairings create memorable images of chaos and complexity.',
     idiomIds: ['ID220', 'ID317', 'ID319', 'ID410', 'ID322', 'ID353', 'ID308', 'ID384'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-25'
   },
   {
@@ -1091,7 +1047,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms number nine', 'number 9 chinese phrases', 'chengyu with nine', 'chinese lucky expressions', 'mandarin nine idioms'],
     intro: 'Nine is one of the most auspicious numbers in Chinese culture, associated with the emperor, longevity, and eternity. These idioms harness its powerful symbolism of abundance and permanence.',
     idiomIds: ['ID057', 'ID322', 'ID383', 'ID141', 'ID186', 'ID451', 'ID496', 'ID625'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-26'
   },
   {
@@ -1102,7 +1058,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms hundred', 'bai chinese phrases', 'chengyu with hundred', 'chinese perseverance expressions', 'mandarin hundred idioms'],
     intro: 'Hundred (百) in Chinese idioms represents completeness, numerous attempts, or vast quantities. These expressions often emphasize perseverance through many trials or achieving perfection.',
     idiomIds: ['ID005', 'ID022', 'ID038', 'ID186', 'ID307', 'ID438', 'ID496', 'ID543', 'ID308', 'ID032'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-27'
   },
   {
@@ -1113,7 +1069,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms thousand', 'qian chinese phrases', 'chengyu with thousand', 'chinese scale expressions', 'mandarin ten thousand idioms'],
     intro: 'Thousand (千) and ten thousand (万) appear in idioms expressing vast quantities, immense value, or endless variety. These powerful expressions capture the grandeur of scale in Chinese thought.',
     idiomIds: ['ID141', 'ID186', 'ID451', 'ID625', 'ID629', 'ID383', 'ID496', 'ID385', 'ID510', 'ID307'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-03-28'
   },
   // === NEW LISTICLES: High-Value Themes ===
@@ -1125,7 +1081,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about wisdom', 'smart chinese phrases', 'chengyu for intelligence', 'chinese clever expressions', 'mandarin wisdom idioms'],
     intro: 'Chinese culture has long valued wisdom and intellectual insight. These idioms capture different aspects of intelligence - from keen perception to strategic thinking and the humility of true wisdom.',
     idiomIds: ['ID010', 'ID045', 'ID055', 'ID073', 'ID084', 'ID089', 'ID091', 'ID104', 'ID177', 'ID298'],
-    category: 'Wisdom',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-03-29'
   },
   {
@@ -1136,7 +1092,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about honesty', 'integrity chinese phrases', 'chengyu for truth', 'chinese moral expressions', 'mandarin honesty idioms'],
     intro: 'Honesty and integrity are foundational virtues in Chinese ethics. These idioms celebrate truthfulness, keeping promises, and maintaining moral character even in difficult circumstances.',
     idiomIds: ['ID087', 'ID123', 'ID141', 'ID180', 'ID207', 'ID209', 'ID389', 'ID421', 'ID501', 'ID593'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-03-30'
   },
   {
@@ -1147,7 +1103,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about karma', 'karma chinese phrases', 'chengyu for consequences', 'chinese cause effect expressions', 'mandarin karma idioms'],
     intro: 'The concept of karma - that actions have consequences - runs deep in Chinese philosophy. These idioms express the idea that good and bad deeds eventually return to their source.',
     idiomIds: ['ID024', 'ID227', 'ID242', 'ID356', 'ID362', 'ID504', 'ID015', 'ID105'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-03-31'
   },
   {
@@ -1158,7 +1114,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about health', 'wellness chinese phrases', 'chengyu for healing', 'chinese wellbeing expressions', 'mandarin health idioms'],
     intro: 'Health and longevity have always been prized in Chinese culture. These idioms offer wisdom about maintaining wellness, remarkable healing, and the connection between mind and body.',
     idiomIds: ['ID161', 'ID185', 'ID222', 'ID238', 'ID301', 'ID303', 'ID536', 'ID589'],
-    category: 'Health',
+    category: 'Emotions',
     publishedDate: '2025-04-01'
   },
   {
@@ -1169,7 +1125,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for teachers', 'education chinese phrases', 'chengyu for educators', 'chinese teaching expressions', 'mandarin teacher idioms'],
     intro: 'Teaching is one of the most respected professions in Chinese culture. These idioms celebrate educators, the art of teaching, and the profound impact mentors have on their students.',
     idiomIds: ['ID021', 'ID040', 'ID095', 'ID129', 'ID137', 'ID143', 'ID173', 'ID300', 'ID010', 'ID016'],
-    category: 'Education',
+    category: 'Learning & Education',
     publishedDate: '2025-04-02'
   },
   {
@@ -1180,7 +1136,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for couples', 'romantic chinese phrases', 'chengyu for marriage', 'chinese wedding expressions', 'mandarin love idioms'],
     intro: 'Chinese culture has beautiful expressions for romantic love and lifelong partnership. These idioms celebrate the bond between couples, from mutual respect to growing old together.',
     idiomIds: ['ID056', 'ID248', 'ID323', 'ID385', 'ID420', 'ID600', 'ID601', 'ID602', 'ID603', 'ID118'],
-    category: 'Love & Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-04-03'
   },
   {
@@ -1191,7 +1147,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for parents', 'parenting chinese phrases', 'chengyu for family', 'chinese child-raising expressions', 'mandarin parent idioms'],
     intro: 'Parenting wisdom runs deep in Chinese culture. These idioms offer insights about raising children, the balance between nurturing and discipline, and the enduring bond between parents and children.',
     idiomIds: ['ID021', 'ID038', 'ID040', 'ID075', 'ID119', 'ID137', 'ID190', 'ID248', 'ID300', 'ID315'],
-    category: 'Family',
+    category: 'Relationships & Family',
     publishedDate: '2025-04-04'
   },
   {
@@ -1202,7 +1158,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about aging', 'elderly chinese phrases', 'chengyu for old age', 'chinese wisdom expressions', 'mandarin aging idioms'],
     intro: 'Chinese culture deeply respects the elderly and values the wisdom that comes with age. These idioms honor the journey of aging, from maintaining vitality to the dignity of experience.',
     idiomIds: ['ID018', 'ID133', 'ID154', 'ID222', 'ID295', 'ID301', 'ID603', 'ID088'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-04-05'
   },
   // === NEW LISTICLES: AI-Query Targeted ===
@@ -1214,7 +1170,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms english equivalent', 'chinese proverbs like english', 'chengyu translation', 'chinese sayings english meaning', 'similar proverbs chinese english'],
     intro: 'Many Chinese idioms express wisdom similar to English proverbs, showing how different cultures arrived at the same insights. These parallels help learners connect new concepts to familiar ideas.',
     idiomIds: ['ID009', 'ID014', 'ID015', 'ID018', 'ID034', 'ID074', 'ID075', 'ID076', 'ID088', 'ID091', 'ID097', 'ID141'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-06'
   },
   {
@@ -1225,7 +1181,7 @@ export const listicles: Listicle[] = [
     keywords: ['blessing in disguise chinese', 'silver lining chinese idiom', 'chengyu for hope', 'chinese optimism expressions', 'sai weng shi ma similar'],
     intro: 'The famous story of Sai Weng losing his horse teaches that misfortune can become blessing. These idioms share this optimistic wisdom about finding unexpected good in difficult situations.',
     idiomIds: ['ID018', 'ID060', 'ID084', 'ID127', 'ID156', 'ID168', 'ID260', 'ID236'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-04-07'
   },
   {
@@ -1236,7 +1192,7 @@ export const listicles: Listicle[] = [
     keywords: ['famous chinese idioms', 'most popular chengyu', 'essential chinese idioms', 'must know chinese expressions', 'common mandarin idioms'],
     intro: 'These are the Chinese idioms that native speakers use most frequently and expect others to know. Mastering these expressions is essential for anyone serious about Chinese language and culture.',
     idiomIds: ['ID001', 'ID005', 'ID009', 'ID010', 'ID014', 'ID017', 'ID018', 'ID021', 'ID025', 'ID042', 'ID053', 'ID074', 'ID076', 'ID084', 'ID141'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-08'
   },
   {
@@ -1247,32 +1203,10 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idiom stories', 'chengyu origins', 'chinese idiom history', 'interesting chinese expressions', 'mandarin idiom tales'],
     intro: 'Every Chinese idiom has a story, but some are particularly captivating. These idioms come with memorable tales from Chinese history, literature, and folklore that make them unforgettable.',
     idiomIds: ['ID017', 'ID018', 'ID023', 'ID025', 'ID042', 'ID049', 'ID059', 'ID074', 'ID123', 'ID131', 'ID138', 'ID271'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-09'
   },
   // === NEW LISTICLES: More Animals ===
-  {
-    slug: 'chinese-idioms-with-rabbit',
-    title: '8 Chinese Idioms With Rabbit (兔)',
-    description: 'Chinese idioms featuring the rabbit - expressions about cleverness, caution, and unexpected outcomes.',
-    metaDescription: 'Learn 8 Chinese idioms featuring the rabbit. These chengyu use rabbit imagery to express cleverness in Mandarin.',
-    keywords: ['chinese idioms rabbit', 'rabbit chinese phrases', 'chengyu with rabbit', 'chinese hare expressions', 'year of rabbit idioms'],
-    intro: 'The rabbit in Chinese idioms often represents cleverness, caution, and the unexpected. These expressions draw from the rabbit\'s reputation for being quick-witted and always having an escape plan.',
-    idiomIds: ['ID074', 'ID247', 'ID031', 'ID035', 'ID082', 'ID182', 'ID236', 'ID399'],
-    category: 'Animals',
-    publishedDate: '2025-04-10'
-  },
-  {
-    slug: 'chinese-idioms-with-sheep',
-    title: '8 Chinese Idioms With Sheep & Goat (羊)',
-    description: 'Chinese idioms featuring sheep and goats - expressions about gentleness, herding, and learning from mistakes.',
-    metaDescription: 'Discover 8 Chinese idioms with sheep and goat. These chengyu express gentleness and wisdom in Mandarin.',
-    keywords: ['chinese idioms sheep', 'goat chinese phrases', 'chengyu with sheep', 'chinese lamb expressions', 'year of sheep idioms'],
-    intro: 'Sheep and goats appear in Chinese idioms representing gentleness, following the group, and importantly, learning from mistakes. The famous "mending the pen after losing sheep" teaches timeless wisdom.',
-    idiomIds: ['ID138', 'ID082', 'ID043', 'ID091', 'ID161', 'ID075', 'ID088', 'ID109'],
-    category: 'Animals',
-    publishedDate: '2025-04-11'
-  },
   // === NEW LISTICLES: More High-Value ===
   {
     slug: 'chinese-idioms-about-humility',
@@ -1282,7 +1216,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms humility', 'modest chinese phrases', 'chengyu for humble', 'chinese modesty expressions', 'mandarin humble idioms'],
     intro: 'Humility is highly valued in Chinese culture as a sign of true wisdom and good character. These idioms teach the importance of staying modest, learning from others, and avoiding the pitfalls of arrogance.',
     idiomIds: ['ID030', 'ID091', 'ID129', 'ID184', 'ID209', 'ID300', 'ID301', 'ID459', 'ID032', 'ID045'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-04-12'
   },
   {
@@ -1293,7 +1227,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms opportunity', 'timing chinese phrases', 'chengyu for chance', 'chinese seize moment expressions', 'mandarin opportunity idioms'],
     intro: 'Chinese philosophy emphasizes the importance of timing and being prepared for opportunities. These idioms teach the art of recognizing the right moment and being ready to act when it arrives.',
     idiomIds: ['ID019', 'ID037', 'ID053', 'ID060', 'ID075', 'ID076', 'ID127', 'ID154', 'ID156', 'ID168'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-04-13'
   },
   {
@@ -1304,7 +1238,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms unity', 'solidarity chinese phrases', 'chengyu for together', 'chinese teamwork expressions', 'mandarin unity idioms'],
     intro: 'Unity and collective strength are central themes in Chinese culture. These idioms express the power of working together, supporting each other, and achieving through solidarity what individuals cannot.',
     idiomIds: ['ID022', 'ID027', 'ID031', 'ID035', 'ID043', 'ID045', 'ID082', 'ID102', 'ID236', 'ID317'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-04-14'
   },
   {
@@ -1315,7 +1249,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms revenge', 'vengeance chinese phrases', 'chengyu for payback', 'chinese retribution expressions', 'mandarin revenge idioms'],
     intro: 'While Chinese philosophy often counsels forgiveness, these idioms capture the human desire for justice and retribution. They express determined patience and the eventual settling of accounts.',
     idiomIds: ['ID024', 'ID154', 'ID224', 'ID227', 'ID356', 'ID362', 'ID504', 'ID570'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-04-15'
   },
   {
@@ -1326,7 +1260,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms loyalty', 'devotion chinese phrases', 'chengyu for faithful', 'chinese commitment expressions', 'mandarin loyalty idioms'],
     intro: 'Loyalty is one of the most celebrated virtues in Chinese culture, essential to relationships, family, and society. These idioms honor unwavering faithfulness and steadfast devotion.',
     idiomIds: ['ID031', 'ID035', 'ID043', 'ID087', 'ID095', 'ID102', 'ID141', 'ID180', 'ID600', 'ID601'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-04-16'
   },
   {
@@ -1337,7 +1271,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms deception', 'trickery chinese phrases', 'chengyu for lies', 'chinese cunning expressions', 'mandarin deception idioms'],
     intro: 'Chinese idioms about deception serve as warnings and lessons in discernment. These expressions teach us to recognize tricks, see through false appearances, and protect ourselves from manipulation.',
     idiomIds: ['ID042', 'ID055', 'ID062', 'ID072', 'ID083', 'ID131', 'ID135', 'ID271', 'ID438', 'ID516'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-04-17'
   },
   {
@@ -1348,7 +1282,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms determination', 'willpower chinese phrases', 'chengyu for resolve', 'chinese persistence expressions', 'mandarin determination idioms'],
     intro: 'Determination and unwavering willpower are celebrated throughout Chinese history. These idioms capture the spirit of those who refuse to give up, who persist against all odds, and who achieve through sheer force of will.',
     idiomIds: ['ID005', 'ID009', 'ID014', 'ID017', 'ID026', 'ID032', 'ID063', 'ID082', 'ID096', 'ID119', 'ID156', 'ID168'],
-    category: 'Success & Perseverance',
+    category: 'Success & Career',
     publishedDate: '2025-04-18'
   },
   // === NICHE LISTICLES: Job & Career ===
@@ -1360,7 +1294,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms job interview', 'professional chinese phrases', 'chengyu for career', 'impress chinese employer', 'mandarin interview tips'],
     intro: 'Using the right Chinese idiom in a job interview can demonstrate cultural fluency and leave a lasting impression. These expressions showcase professionalism, capability, and the right attitude for success.',
     idiomIds: ['ID044', 'ID068', 'ID078', 'ID098', 'ID128', 'ID140', 'ID144', 'ID178', 'ID199', 'ID288'],
-    category: 'Career',
+    category: 'Success & Career',
     publishedDate: '2025-04-19'
   },
   {
@@ -1371,7 +1305,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms leadership', 'management chinese phrases', 'chengyu for leaders', 'chinese boss expressions', 'mandarin management idioms'],
     intro: 'Chinese philosophy offers profound insights on leadership that remain relevant today. These idioms capture the essence of effective leadership - from strategic thinking to inspiring others.',
     idiomIds: ['ID077', 'ID150', 'ID165', 'ID176', 'ID189', 'ID191', 'ID204', 'ID218', 'ID228', 'ID229'],
-    category: 'Leadership',
+    category: 'Success & Career',
     publishedDate: '2025-04-20'
   },
   {
@@ -1382,7 +1316,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms bad boss', 'toxic boss chinese', 'chengyu terrible manager', 'chinese workplace complaints', 'mandarin boss idioms'],
     intro: 'Chinese has wonderfully expressive idioms for describing bad bosses - from those who abuse power to those who take credit for others\' work. These colorful expressions have described workplace villains for centuries.',
     idiomIds: ['ID261', 'ID281', 'ID328', 'ID330', 'ID344', 'ID423', 'ID539', 'ID560'],
-    category: 'Workplace',
+    category: 'Success & Career',
     publishedDate: '2025-04-21'
   },
   {
@@ -1393,7 +1327,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms workplace', 'office chinese phrases', 'chengyu for work', 'professional mandarin expressions', 'chinese corporate idioms'],
     intro: 'Navigating the Chinese workplace requires understanding the right expressions. These idioms cover everything from demonstrating diligence to handling office dynamics with grace.',
     idiomIds: ['ID067', 'ID111', 'ID178', 'ID194', 'ID205', 'ID239', 'ID254', 'ID276', 'ID277', 'ID288'],
-    category: 'Workplace',
+    category: 'Success & Career',
     publishedDate: '2025-04-22'
   },
   // === NICHE LISTICLES: HSK Exam Prep ===
@@ -1405,7 +1339,7 @@ export const listicles: Listicle[] = [
     keywords: ['hsk 4 idioms', 'chinese idioms hsk4', 'chengyu for hsk', 'intermediate chinese idioms', 'hsk exam chengyu'],
     intro: 'Preparing for HSK 4? These idioms frequently appear in intermediate-level Chinese exams and conversations. Mastering them will boost both your test scores and real-world communication.',
     idiomIds: ['ID044', 'ID047', 'ID061', 'ID067', 'ID068', 'ID069', 'ID077', 'ID078', 'ID081', 'ID092', 'ID098', 'ID099'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-23'
   },
   {
@@ -1416,7 +1350,7 @@ export const listicles: Listicle[] = [
     keywords: ['hsk 5 idioms', 'chinese idioms hsk5', 'advanced chengyu', 'upper intermediate chinese', 'hsk 5 vocabulary'],
     intro: 'HSK 5 requires a broader range of idiomatic expressions. These chengyu represent the sophistication expected at upper-intermediate level, appearing in reading passages and listening comprehension.',
     idiomIds: ['ID204', 'ID205', 'ID210', 'ID212', 'ID213', 'ID215', 'ID216', 'ID217', 'ID218', 'ID226', 'ID228', 'ID229'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-24'
   },
   {
@@ -1427,7 +1361,7 @@ export const listicles: Listicle[] = [
     keywords: ['hsk 6 idioms', 'chinese idioms hsk6', 'advanced mandarin chengyu', 'native chinese expressions', 'hsk 6 preparation'],
     intro: 'HSK 6 represents near-native proficiency in Mandarin. These sophisticated idioms demonstrate the depth of cultural and linguistic knowledge expected at the highest level of Chinese language certification.',
     idiomIds: ['ID401', 'ID404', 'ID406', 'ID408', 'ID411', 'ID412', 'ID413', 'ID416', 'ID417', 'ID419', 'ID422', 'ID424'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-04-25'
   },
   // === NICHE LISTICLES: Strategy ===
@@ -1439,7 +1373,7 @@ export const listicles: Listicle[] = [
     keywords: ['art of war idioms', 'sun tzu chinese phrases', 'military strategy chengyu', 'chinese war expressions', 'strategic mandarin idioms'],
     intro: 'Sun Tzu\'s Art of War has influenced strategy for over 2,500 years. These idioms capture military wisdom that applies equally to business, competition, and life\'s challenges.',
     idiomIds: ['ID077', 'ID111', 'ID165', 'ID189', 'ID191', 'ID270', 'ID291', 'ID292', 'ID306', 'ID329'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-04-26'
   },
   {
@@ -1450,7 +1384,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms competition', 'rivalry chinese phrases', 'chengyu for winning', 'chinese contest expressions', 'mandarin competitive idioms'],
     intro: 'Competition has driven human achievement throughout history. These Chinese idioms capture the intensity of rivalry, the thrill of victory, and the strategies for coming out ahead.',
     idiomIds: ['ID047', 'ID081', 'ID124', 'ID140', 'ID164', 'ID181', 'ID193', 'ID204', 'ID229', 'ID232'],
-    category: 'Competition',
+    category: 'Success & Career',
     publishedDate: '2025-04-27'
   },
   {
@@ -1461,7 +1395,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms planning', 'strategy chinese phrases', 'chengyu for foresight', 'chinese preparation expressions', 'mandarin planning idioms'],
     intro: 'The ability to plan strategically and anticipate challenges has always been valued in Chinese culture. These idioms teach the art of thinking several moves ahead.',
     idiomIds: ['ID044', 'ID077', 'ID092', 'ID111', 'ID204', 'ID245', 'ID261', 'ID292', 'ID306', 'ID329'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-04-28'
   },
   // === NICHE LISTICLES: Self-Improvement ===
@@ -1473,7 +1407,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms mistakes', 'learning from failure chinese', 'chengyu for errors', 'chinese growth mindset expressions', 'mandarin mistake idioms'],
     intro: 'Chinese wisdom recognizes that mistakes are essential teachers. These idioms offer perspectives on failure that transform setbacks into stepping stones for success.',
     idiomIds: ['ID098', 'ID124', 'ID125', 'ID132', 'ID193', 'ID218', 'ID229', 'ID259', 'ID273', 'ID306'],
-    category: 'Self-Improvement',
+    category: 'Character & Values',
     publishedDate: '2025-04-29'
   },
   {
@@ -1484,7 +1418,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms self improvement', 'personal growth chinese', 'chengyu for development', 'chinese betterment expressions', 'mandarin growth idioms'],
     intro: 'The pursuit of self-improvement is a cornerstone of Chinese philosophy. These idioms inspire continuous growth, learning, and the journey toward becoming your best self.',
     idiomIds: ['ID044', 'ID047', 'ID068', 'ID098', 'ID128', 'ID140', 'ID165', 'ID263', 'ID277', 'ID280'],
-    category: 'Self-Improvement',
+    category: 'Character & Values',
     publishedDate: '2025-04-30'
   },
   {
@@ -1495,7 +1429,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms adversity', 'overcoming hardship chinese', 'chengyu for struggles', 'chinese resilience expressions', 'mandarin adversity idioms'],
     intro: 'Life\'s greatest lessons often come through adversity. These powerful idioms capture the Chinese spirit of resilience - facing hardship with courage and emerging stronger.',
     idiomIds: ['ID061', 'ID092', 'ID164', 'ID205', 'ID235', 'ID246', 'ID252', 'ID277', 'ID292', 'ID297'],
-    category: 'Resilience',
+    category: 'Character & Values',
     publishedDate: '2025-05-01'
   },
   // === NICHE LISTICLES: Relationships ===
@@ -1507,7 +1441,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms betrayal', 'backstab chinese phrases', 'chengyu for traitors', 'chinese trust expressions', 'mandarin betrayal idioms'],
     intro: 'Betrayal cuts deep in any culture. These Chinese idioms vividly describe those who break trust, abandon allies, and reveal their true treacherous nature.',
     idiomIds: ['ID069', 'ID081', 'ID235', 'ID243', 'ID252', 'ID309', 'ID321', 'ID355', 'ID408', 'ID539'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-05-02'
   },
   {
@@ -1518,7 +1452,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms gratitude', 'thankful chinese phrases', 'chengyu for appreciation', 'chinese kindness expressions', 'mandarin gratitude idioms'],
     intro: 'Gratitude is deeply valued in Chinese culture, with strong traditions of remembering and repaying kindness. These idioms express the many dimensions of thankfulness and appreciation.',
     idiomIds: ['ID134', 'ID149', 'ID277', 'ID300', 'ID315', 'ID422', 'ID332', 'ID467', 'ID577', 'ID436'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-05-03'
   },
   {
@@ -1529,7 +1463,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms forgiveness', 'letting go chinese', 'chengyu for mercy', 'chinese compassion expressions', 'mandarin forgiveness idioms'],
     intro: 'While revenge features in many idioms, Chinese wisdom also teaches the value of forgiveness and moving forward. These expressions capture the peace that comes from letting go.',
     idiomIds: ['ID091', 'ID209', 'ID242', 'ID362', 'ID546', 'ID556', 'ID589', 'ID600'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-05-04'
   },
   // === NICHE LISTICLES: Finance ===
@@ -1541,7 +1475,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms wealth', 'prosperity chinese phrases', 'chengyu for fortune', 'chinese rich expressions', 'mandarin wealth idioms'],
     intro: 'Wealth and prosperity have always been celebrated in Chinese culture, but with an emphasis on earning fortune through virtue and wisdom. These idioms reflect both aspirations and warnings about riches.',
     idiomIds: ['ID067', 'ID068', 'ID103', 'ID162', 'ID181', 'ID199', 'ID257', 'ID277', 'ID523', 'ID583'],
-    category: 'Finance',
+    category: 'Success & Career',
     publishedDate: '2025-05-05'
   },
   {
@@ -1552,7 +1486,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms frugal', 'saving money chinese', 'chengyu for thrift', 'chinese financial wisdom expressions', 'mandarin saving idioms'],
     intro: 'Chinese culture has long valued frugality and careful management of resources. These idioms teach the wisdom of saving, avoiding waste, and planning for the future.',
     idiomIds: ['ID088', 'ID109', 'ID154', 'ID215', 'ID235', 'ID328', 'ID532', 'ID537'],
-    category: 'Finance',
+    category: 'Success & Career',
     publishedDate: '2025-05-06'
   },
   // === NICHE LISTICLES: Cultural Interest ===
@@ -1564,19 +1498,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms hidden meaning', 'surprising chinese phrases', 'chengyu double meaning', 'chinese linguistic surprises', 'mandarin hidden idioms'],
     intro: 'Some Chinese idioms say one thing but mean something entirely different. These fascinating expressions reveal how context and history transform literal meanings into profound wisdom.',
     idiomIds: ['ID044', 'ID047', 'ID069', 'ID081', 'ID125', 'ID146', 'ID152', 'ID162', 'ID252', 'ID271'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-05-07'
-  },
-  {
-    slug: 'chinese-idioms-about-speaking-words',
-    title: '10 Chinese Idioms About Speaking & The Power of Words',
-    description: 'Eloquent Chinese idioms about speech, communication, and the immense power words hold in shaping reality.',
-    metaDescription: 'Master communication with 10 Chinese idioms about speaking and words. These chengyu reveal the power of language in Mandarin.',
-    keywords: ['chinese idioms speaking', 'words chinese phrases', 'chengyu for communication', 'chinese eloquence expressions', 'mandarin speech idioms'],
-    intro: 'Words have immense power in Chinese culture - to build or destroy, to heal or harm. These idioms explore the art of speaking well, knowing when to stay silent, and the lasting impact of what we say.',
-    idiomIds: ['ID061', 'ID069', 'ID078', 'ID132', 'ID146', 'ID149', 'ID178', 'ID213', 'ID226', 'ID280'],
-    category: 'Communication',
-    publishedDate: '2025-05-08'
   },
   // === NEW BATCH: 100 Additional Listicles (Feb 2026) ===
   {
@@ -1587,7 +1510,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms in movies', 'cdrama chinese phrases', 'chengyu in tv shows', 'chinese drama idioms', 'mandarin movie expressions', 'learn chinese from dramas'],
     intro: 'Love watching C-dramas? You\'ve probably heard these idioms dozens of times without realizing it. These 12 chengyu appear constantly in Chinese films and TV shows, from historical epics to modern romances.',
     idiomIds: ['ID001', 'ID005', 'ID014', 'ID018', 'ID042', 'ID056', 'ID074', 'ID102', 'ID131', 'ID134', 'ID141', 'ID271'],
-    category: 'Pop Culture',
+    category: 'History & Culture',
     publishedDate: '2025-05-09'
   },
   {
@@ -1598,7 +1521,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms tiktok', 'douyin captions chinese', 'short chinese quotes tiktok', 'viral chinese phrases', 'chinese caption ideas', 'aesthetic chinese tiktok'],
     intro: 'Looking for the perfect Chinese caption for your TikTok or Douyin video? These short, powerful idioms pack maximum meaning into four characters - perfect for short-form content that stands out.',
     idiomIds: ['ID001', 'ID006', 'ID009', 'ID014', 'ID017', 'ID020', 'ID021', 'ID026', 'ID082', 'ID141'],
-    category: 'Social Media',
+    category: 'History & Culture',
     publishedDate: '2025-05-10'
   },
   {
@@ -1609,7 +1532,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms linkedin', 'resume chinese phrases', 'professional chinese bio', 'chengyu for cv', 'chinese professional expressions', 'mandarin linkedin profile'],
     intro: 'Want to stand out on LinkedIn or impress with your resume? These professional Chinese idioms demonstrate cultural fluency and convey your work ethic, leadership qualities, and professional values.',
     idiomIds: ['ID001', 'ID006', 'ID009', 'ID014', 'ID044', 'ID077', 'ID082', 'ID111', 'ID141', 'ID154'],
-    category: 'Career',
+    category: 'Success & Career',
     publishedDate: '2025-05-11'
   },
   {
@@ -1620,7 +1543,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idiom email signature', 'chinese motto ideas', 'chengyu for bio', 'personal motto chinese', 'chinese quote signature', 'elegant chinese phrases'],
     intro: 'A well-chosen Chinese idiom in your email signature or bio can leave a lasting impression. These elegant expressions serve as powerful personal mottos that convey your values and philosophy.',
     idiomIds: ['ID006', 'ID009', 'ID014', 'ID018', 'ID026', 'ID082', 'ID141', 'ID154'],
-    category: 'Professional',
+    category: 'Success & Career',
     publishedDate: '2025-05-12'
   },
   {
@@ -1631,7 +1554,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms innovation', 'technology chinese phrases', 'startup chengyu', 'chinese disruption expressions', 'mandarin innovation idioms', 'chinese tech sayings'],
     intro: 'Ancient Chinese wisdom meets modern innovation. These idioms about creating new things, breaking boundaries, and transforming the world are surprisingly relevant to today\'s tech and startup culture.',
     idiomIds: ['ID001', 'ID012', 'ID015', 'ID029', 'ID036', 'ID060', 'ID085', 'ID154', 'ID267', 'ID525'],
-    category: 'Modern',
+    category: 'History & Culture',
     publishedDate: '2025-05-13'
   },
   {
@@ -1642,19 +1565,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms new year resolutions', 'goal setting chinese', 'new year goals chengyu', 'self improvement chinese phrases', 'resolution chinese expressions'],
     intro: 'Need inspiration for your New Year resolutions? These Chinese idioms capture the spirit of self-improvement, goal-setting, and making meaningful changes - the perfect companions for your fresh start.',
     idiomIds: ['ID005', 'ID006', 'ID009', 'ID014', 'ID026', 'ID044', 'ID060', 'ID085', 'ID154', 'ID267'],
-    category: 'Self-Improvement',
+    category: 'Character & Values',
     publishedDate: '2025-05-14'
-  },
-  {
-    slug: 'chinese-idioms-for-daily-conversation',
-    title: '15 Chinese Idioms Used in Everyday Conversation',
-    description: 'The most practical Chinese idioms native speakers actually use in daily conversation - master these for fluent Mandarin.',
-    metaDescription: 'Sound like a native with these 15 Chinese idioms for daily conversation. These are the chengyu Chinese speakers actually use every day in real life.',
-    keywords: ['chinese idioms daily conversation', 'everyday chinese phrases', 'common chengyu spoken', 'practical chinese idioms', 'native speaker chengyu', 'real life chinese expressions'],
-    intro: 'Forget rare literary idioms - these are the chengyu Chinese speakers actually use in everyday conversation. Master these 15 expressions and you\'ll sound noticeably more natural in daily Mandarin.',
-    idiomIds: ['ID001', 'ID004', 'ID008', 'ID009', 'ID010', 'ID014', 'ID017', 'ID018', 'ID020', 'ID034', 'ID042', 'ID053', 'ID074', 'ID076', 'ID141'],
-    category: 'Learning',
-    publishedDate: '2025-05-15'
   },
   {
     slug: 'chinese-idioms-about-creativity',
@@ -1664,7 +1576,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms creativity', 'imagination chinese phrases', 'chengyu for artists', 'chinese creative expressions', 'mandarin imagination idioms'],
     intro: 'Chinese culture celebrates creativity in unique ways - from painting that brings dragons to life to writing that makes flowers bloom. These idioms honor the power of imagination and creative expression.',
     idiomIds: ['ID012', 'ID029', 'ID036', 'ID084', 'ID114', 'ID196', 'ID248', 'ID341', 'ID395', 'ID525'],
-    category: 'Creativity',
+    category: 'History & Culture',
     publishedDate: '2025-05-16'
   },
   {
@@ -1675,7 +1587,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms freedom', 'liberation chinese phrases', 'chengyu for independence', 'chinese free spirit expressions', 'mandarin freedom idioms'],
     intro: 'Freedom takes many forms in Chinese idioms - from birds soaring above clouds to fish leaping in vast oceans. These expressions celebrate the human spirit\'s desire for liberation.',
     idiomIds: ['ID032', 'ID034', 'ID046', 'ID126', 'ID175', 'ID197', 'ID400', 'ID485'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-05-17'
   },
   {
@@ -1686,7 +1598,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms discipline', 'self control chinese phrases', 'chengyu for restraint', 'chinese discipline expressions', 'mandarin self-mastery idioms'],
     intro: 'Discipline and self-control are foundational virtues in Chinese philosophy. These idioms teach that true strength comes not from dominating others, but from mastering oneself.',
     idiomIds: ['ID006', 'ID009', 'ID014', 'ID026', 'ID030', 'ID032', 'ID091', 'ID129', 'ID184', 'ID209'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-05-18'
   },
   {
@@ -1697,7 +1609,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms apology', 'how to say sorry chinese', 'chengyu for apologizing', 'chinese making amends expressions', 'mandarin sorry idioms', 'apologize in chinese'],
     intro: 'Apologizing in Chinese culture requires more than just saying sorry. These idioms demonstrate genuine remorse, the humility to admit mistakes, and the commitment to make things right.',
     idiomIds: ['ID030', 'ID091', 'ID098', 'ID125', 'ID132', 'ID138', 'ID209', 'ID259'],
-    category: 'Communication',
+    category: 'Numbers & Language',
     publishedDate: '2025-05-19'
   },
   {
@@ -1719,7 +1631,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese toasting idioms', 'cheers in chinese idiom', 'chinese drinking culture phrases', 'banquet toast chinese', 'gan bei alternatives chinese', 'chinese dinner toast expressions'],
     intro: 'Chinese banquet culture involves elaborate toasting rituals. These idioms are perfect for making impressive toasts, whether at a business dinner, wedding reception, or family celebration.',
     idiomIds: ['ID001', 'ID011', 'ID027', 'ID031', 'ID035', 'ID082', 'ID087', 'ID303', 'ID517', 'ID586'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-05-21'
   },
   {
@@ -1774,7 +1686,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms promotion', 'career advancement chinese', 'chengyu for success at work', 'chinese congratulations promotion', 'mandarin promotion wishes'],
     intro: 'Career advancement deserves celebration! These idioms are perfect for congratulating someone on a promotion, expressing wishes for continued success, and acknowledging their hard work.',
     idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID036', 'ID052', 'ID076', 'ID082', 'ID106', 'ID119'],
-    category: 'Career',
+    category: 'Success & Career',
     publishedDate: '2025-05-26'
   },
   {
@@ -1785,7 +1697,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms thank you', 'grateful chinese phrases', 'chengyu beyond xie xie', 'chinese appreciation expressions', 'mandarin thank you idioms', 'express gratitude chinese'],
     intro: 'Saying 谢谢 (xiè xie) is just the beginning. These Chinese idioms express gratitude on a deeper level - from acknowledging life-changing kindness to honoring those who helped you succeed.',
     idiomIds: ['ID031', 'ID087', 'ID134', 'ID149', 'ID277', 'ID300', 'ID422', 'ID577'],
-    category: 'Communication',
+    category: 'Numbers & Language',
     publishedDate: '2025-05-27'
   },
   {
@@ -1796,7 +1708,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms valentines day', 'romantic chinese phrases february 14', 'chengyu for valentine', 'chinese love expressions valentines', 'mandarin valentines wishes', 'i love you chinese idiom'],
     intro: 'Make Valentine\'s Day special with Chinese idioms that express love more poetically than any English phrase. These romantic chengyu describe eternal devotion, perfect love, and soulmates.',
     idiomIds: ['ID008', 'ID056', 'ID118', 'ID136', 'ID151', 'ID166', 'ID183', 'ID256', 'ID286', 'ID420'],
-    category: 'Love',
+    category: 'Relationships & Family',
     publishedDate: '2025-05-28'
   },
   {
@@ -1807,7 +1719,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms wedding anniversary', 'anniversary chinese phrases', 'chengyu for marriage celebration', 'chinese lasting love expressions', 'mandarin anniversary wishes'],
     intro: 'Wedding anniversaries celebrate the beauty of enduring love. These Chinese idioms honor the journey of growing together, weathering storms, and the deepening bond between life partners.',
     idiomIds: ['ID056', 'ID102', 'ID118', 'ID248', 'ID420', 'ID600', 'ID601', 'ID603'],
-    category: 'Love',
+    category: 'Relationships & Family',
     publishedDate: '2025-05-29'
   },
   {
@@ -1818,7 +1730,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms for doctors', 'medical chinese phrases', 'chengyu for healing', 'chinese medicine expressions', 'mandarin doctor idioms', 'chinese medical proverbs'],
     intro: 'Traditional Chinese medicine and philosophy have always revered the healing arts. These idioms honor doctors, celebrate healing, and express the deep respect Chinese culture holds for medical professionals.',
     idiomIds: ['ID045', 'ID073', 'ID091', 'ID161', 'ID185', 'ID222', 'ID238', 'ID301', 'ID536', 'ID589'],
-    category: 'Profession',
+    category: 'Success & Career',
     publishedDate: '2025-05-30'
   },
   {
@@ -1829,7 +1741,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms entrepreneur', 'startup chinese phrases', 'chengyu for business owner', 'chinese founder expressions', 'mandarin entrepreneur idioms', 'chinese startup wisdom'],
     intro: 'Building a business from scratch requires the same qualities celebrated in ancient Chinese wisdom - vision, persistence, calculated risk, and the courage to do what others won\'t.',
     idiomIds: ['ID001', 'ID005', 'ID009', 'ID012', 'ID017', 'ID029', 'ID036', 'ID060', 'ID077', 'ID154'],
-    category: 'Career',
+    category: 'Success & Career',
     publishedDate: '2025-05-31'
   },
   {
@@ -1840,19 +1752,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms justice', 'law chinese phrases', 'chengyu for lawyers', 'chinese legal expressions', 'mandarin justice idioms', 'chinese fairness sayings'],
     intro: 'Justice and fairness have been central to Chinese governance philosophy since ancient times. These idioms capture the ideals of righteous judgment, impartial law, and the pursuit of truth.',
     idiomIds: ['ID087', 'ID091', 'ID123', 'ID141', 'ID180', 'ID207', 'ID209', 'ID389', 'ID501', 'ID593'],
-    category: 'Profession',
+    category: 'Success & Career',
     publishedDate: '2025-06-01'
-  },
-  {
-    slug: 'chinese-idioms-for-athletes',
-    title: '10 Chinese Idioms for Athletes & Sports',
-    description: 'Competitive Chinese idioms about athletic achievement, sportsmanship, and pushing physical limits.',
-    metaDescription: 'Fuel your athletic spirit with 10 Chinese idioms for sports. These chengyu inspire competition, endurance, and victory in Mandarin.',
-    keywords: ['chinese idioms athletes', 'sports chinese phrases', 'chengyu for competition', 'chinese athletic expressions', 'mandarin sports idioms', 'chinese fitness sayings'],
-    intro: 'Whether you\'re training for the Olympics or running your first 5K, these Chinese idioms capture the spirit of athletic excellence - from pushing beyond limits to the glory of victory.',
-    idiomIds: ['ID005', 'ID009', 'ID017', 'ID026', 'ID032', 'ID063', 'ID082', 'ID096', 'ID119', 'ID168'],
-    category: 'Profession',
-    publishedDate: '2025-06-02'
   },
   {
     slug: 'chinese-idioms-for-writers',
@@ -1862,7 +1763,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms writers', 'writing chinese phrases', 'chengyu for authors', 'chinese literary expressions', 'mandarin writing idioms', 'chinese storytelling sayings'],
     intro: 'Writing is deeply honored in Chinese culture - the brush is mightier than the sword. These idioms celebrate the art of writing, from effortless literary brilliance to the power of a single well-chosen word.',
     idiomIds: ['ID012', 'ID036', 'ID061', 'ID078', 'ID084', 'ID114', 'ID146', 'ID178', 'ID213', 'ID280'],
-    category: 'Profession',
+    category: 'Success & Career',
     publishedDate: '2025-06-03'
   },
   {
@@ -1873,41 +1774,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms about food', 'eating chinese phrases', 'chengyu for cooking', 'chinese culinary expressions', 'mandarin food idioms', 'chinese food sayings'],
     intro: 'Food is life in Chinese culture, so it\'s no surprise that many idioms use food imagery. From describing situations as "adding flowers to brocade" to warning about "drinking poison to quench thirst," food idioms are everywhere.',
     idiomIds: ['ID013', 'ID019', 'ID037', 'ID041', 'ID053', 'ID070', 'ID088', 'ID105', 'ID109', 'ID159', 'ID198', 'ID357'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-06-04'
-  },
-  {
-    slug: 'chinese-idioms-about-tea-culture',
-    title: '8 Chinese Idioms About Tea & Tea Culture',
-    description: 'Elegant Chinese idioms about tea, tea ceremony, and the philosophical traditions of Chinese tea culture.',
-    metaDescription: 'Explore 8 Chinese idioms about tea and tea culture. These elegant chengyu connect tea traditions with wisdom in Mandarin.',
-    keywords: ['chinese idioms tea', 'tea culture chinese phrases', 'chengyu about tea', 'chinese tea ceremony expressions', 'mandarin tea idioms', 'chinese tea wisdom'],
-    intro: 'Tea is more than a drink in Chinese culture - it\'s a philosophy. These idioms connect the ancient art of tea with deeper truths about life, friendship, and mindfulness.',
-    idiomIds: ['ID007', 'ID015', 'ID018', 'ID023', 'ID024', 'ID040', 'ID091', 'ID173'],
-    category: 'Culture',
-    publishedDate: '2025-06-05'
-  },
-  {
-    slug: 'chinese-idioms-about-drinking-wine',
-    title: '10 Chinese Idioms About Drinking & Wine (酒)',
-    description: 'Spirited Chinese idioms about drinking, wine culture, and the role of alcohol in Chinese social traditions.',
-    metaDescription: 'Raise a glass with 10 Chinese idioms about drinking and wine. These spirited chengyu explore Chinese alcohol culture in Mandarin.',
-    keywords: ['chinese idioms drinking', 'wine chinese phrases', 'chengyu about alcohol', 'chinese drinking culture expressions', 'mandarin wine idioms', 'jiu chinese sayings'],
-    intro: 'Wine and alcohol have played an important role in Chinese social culture for millennia. These idioms explore the joys of drinking, the art of toasting, and the wisdom of knowing your limits.',
-    idiomIds: ['ID019', 'ID023', 'ID027', 'ID031', 'ID035', 'ID070', 'ID159', 'ID174', 'ID198', 'ID460'],
-    category: 'Culture',
-    publishedDate: '2025-06-06'
-  },
-  {
-    slug: 'chinese-idioms-about-music',
-    title: '8 Melodious Chinese Idioms About Music & Sound',
-    description: 'Harmonious Chinese idioms about music, sound, and the deep connection between melody and human emotion.',
-    metaDescription: 'Listen to 8 Chinese idioms about music and sound. These harmonious chengyu connect melody with emotion in Mandarin.',
-    keywords: ['chinese idioms music', 'sound chinese phrases', 'chengyu about melody', 'chinese musical expressions', 'mandarin music idioms', 'chinese harmony sayings'],
-    intro: 'Music has been central to Chinese culture since ancient times - Confucius himself was an accomplished musician. These idioms use musical imagery to express harmony, discord, and the power of sound.',
-    idiomIds: ['ID001', 'ID027', 'ID031', 'ID033', 'ID034', 'ID040', 'ID200', 'ID303'],
-    category: 'Culture',
-    publishedDate: '2025-06-07'
   },
   {
     slug: 'chinese-idioms-about-dreams',
@@ -1917,7 +1785,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms dreams', 'aspirations chinese phrases', 'chengyu about dreams', 'chinese dream expressions', 'mandarin dream idioms', 'chinese ambition sayings'],
     intro: 'Dreams in Chinese idioms represent both literal visions and life aspirations. These expressions capture the magic of dreaming - from fleeting fantasies to the burning ambitions that drive us forward.',
     idiomIds: ['ID001', 'ID007', 'ID012', 'ID017', 'ID023', 'ID029', 'ID036', 'ID060', 'ID175', 'ID197'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-06-08'
   },
   {
@@ -1928,7 +1796,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms chess', 'go weiqi chinese phrases', 'chengyu strategy games', 'chinese tactical expressions', 'mandarin chess idioms', 'chinese game theory sayings'],
     intro: 'Chess (象棋) and Go (围棋) have shaped Chinese strategic thinking for millennia. These idioms from the game board apply equally to business, relationships, and life decisions.',
     idiomIds: ['ID044', 'ID053', 'ID077', 'ID092', 'ID111', 'ID165', 'ID189', 'ID204', 'ID229', 'ID329'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-06-09'
   },
   {
@@ -1939,7 +1807,7 @@ export const listicles: Listicle[] = [
     keywords: ['three kingdoms idioms', 'romance three kingdoms chengyu', 'zhuge liang idioms', 'guan yu chinese phrases', 'chinese war strategy idioms', 'sanguo yanyi chengyu'],
     intro: 'Romance of the Three Kingdoms is one of the greatest sources of Chinese idioms. These expressions from the era of Zhuge Liang, Guan Yu, and Cao Cao have shaped Chinese culture for centuries.',
     idiomIds: ['ID005', 'ID017', 'ID042', 'ID077', 'ID111', 'ID131', 'ID165', 'ID189', 'ID191', 'ID270', 'ID291', 'ID329'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-10'
   },
   {
@@ -1950,7 +1818,7 @@ export const listicles: Listicle[] = [
     keywords: ['confucius idioms', 'analects chengyu', 'kong zi chinese phrases', 'chinese virtue expressions', 'mandarin confucian idioms', 'chinese philosophy sayings'],
     intro: 'Confucius (孔子, Kǒng Zǐ) shaped Chinese civilization like no other figure. These idioms from the Analects (论语) carry his teachings about virtue, learning, and harmonious living.',
     idiomIds: ['ID002', 'ID003', 'ID006', 'ID010', 'ID016', 'ID021', 'ID030', 'ID091', 'ID129', 'ID141'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-11'
   },
   {
@@ -1961,7 +1829,7 @@ export const listicles: Listicle[] = [
     keywords: ['taoist idioms', 'laozi chengyu', 'tao te ching phrases', 'chinese philosophy taoism', 'mandarin taoist expressions', 'wu wei chinese idioms'],
     intro: 'Taoism teaches us to flow with nature, embrace paradox, and find strength in softness. These idioms from Laozi (老子) and Taoist philosophy capture the essence of the Way (道).',
     idiomIds: ['ID007', 'ID009', 'ID015', 'ID018', 'ID019', 'ID024', 'ID026', 'ID032', 'ID040', 'ID076'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-12'
   },
   {
@@ -1972,7 +1840,7 @@ export const listicles: Listicle[] = [
     keywords: ['tang dynasty idioms', 'li bai chengyu', 'du fu chinese phrases', 'chinese poetry idioms', 'mandarin tang poetry expressions', 'ancient chinese poem idioms'],
     intro: 'The Tang Dynasty (618-907 CE) was China\'s golden age of poetry. These idioms originated from the masterworks of Li Bai (李白), Du Fu (杜甫), and other legendary poets whose words still resonate today.',
     idiomIds: ['ID007', 'ID023', 'ID029', 'ID036', 'ID055', 'ID084', 'ID089', 'ID114', 'ID196', 'ID341'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-13'
   },
   {
@@ -1983,7 +1851,7 @@ export const listicles: Listicle[] = [
     keywords: ['journey to the west idioms', 'sun wukong chengyu', 'monkey king chinese phrases', 'xi you ji idioms', 'chinese mythology expressions', 'chinese classic novel idioms'],
     intro: 'Journey to the West (西游记) gave us the legendary Monkey King and some of China\'s most colorful idioms. These expressions from the epic adventure novel blend mythology with timeless wisdom.',
     idiomIds: ['ID012', 'ID025', 'ID042', 'ID049', 'ID074', 'ID108', 'ID135', 'ID175', 'ID271', 'ID375'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-14'
   },
   {
@@ -1994,63 +1862,8 @@ export const listicles: Listicle[] = [
     keywords: ['warring states idioms', 'ancient chinese chengyu', 'chinese history idioms', 'zhanguo strategy phrases', 'mandarin ancient expressions', 'chinese historical sayings'],
     intro: 'The Warring States period (475-221 BCE) was an era of brilliant strategists, fierce competition, and revolutionary philosophy. Many of China\'s most famous idioms were born during this transformative age.',
     idiomIds: ['ID005', 'ID017', 'ID018', 'ID025', 'ID042', 'ID049', 'ID059', 'ID074', 'ID077', 'ID111', 'ID131', 'ID271'],
-    category: 'Historical',
+    category: 'History & Culture',
     publishedDate: '2025-06-15'
-  },
-  {
-    slug: 'chinese-idioms-with-dog',
-    title: '10 Chinese Idioms With Dog (犬/狗)',
-    description: 'Chinese idioms featuring dogs - expressions about loyalty, vigilance, and surprisingly, some negative connotations.',
-    metaDescription: 'Learn 10 Chinese idioms with dog (犬/狗). These chengyu range from loyal companions to cautionary tales in Mandarin.',
-    keywords: ['chinese idioms with dog', 'dog chengyu', '狗 idioms', 'chinese dog sayings', 'year of the dog idioms', 'quan chinese expressions'],
-    intro: 'Dogs in Chinese idioms have a complex reputation - representing both loyalty and, in some expressions, negative qualities. These idioms show the full range of canine imagery in Chinese culture.',
-    idiomIds: ['ID042', 'ID049', 'ID059', 'ID074', 'ID131', 'ID135', 'ID278', 'ID377', 'ID402', 'ID550'],
-    category: 'Animals & Zodiac',
-    publishedDate: '2025-06-16'
-  },
-  {
-    slug: 'chinese-idioms-with-pig',
-    title: '8 Chinese Idioms With Pig (猪)',
-    description: 'Chinese idioms featuring pigs - from lazy pigs to prosperous piggies, discover the pig in Chinese language.',
-    metaDescription: 'Discover 8 Chinese idioms with pig (猪). These chengyu show how pigs represent both fortune and folly in Mandarin.',
-    keywords: ['chinese idioms with pig', 'pig chengyu', '猪 idioms', 'chinese pig sayings', 'year of the pig idioms'],
-    intro: 'Pigs in Chinese culture symbolize wealth and good fortune (the pig is a zodiac animal!), but in idioms, they often represent laziness or foolishness. These expressions show both sides of the porcine coin.',
-    idiomIds: ['ID042', 'ID074', 'ID131', 'ID200', 'ID271', 'ID347', 'ID402', 'ID550'],
-    category: 'Animals & Zodiac',
-    publishedDate: '2025-06-17'
-  },
-  {
-    slug: 'chinese-idioms-with-monkey',
-    title: '8 Clever Chinese Idioms With Monkey (猴)',
-    description: 'Playful Chinese idioms featuring monkeys - expressing cleverness, mischief, and quick thinking.',
-    metaDescription: 'Learn 8 clever Chinese idioms with monkey (猴). These playful chengyu express mischief and quick wits in Mandarin.',
-    keywords: ['chinese idioms with monkey', 'monkey chengyu', '猴 idioms', 'chinese monkey sayings', 'year of the monkey idioms', 'sun wukong idioms'],
-    intro: 'Monkeys in Chinese idioms represent cleverness, agility, and sometimes mischief - much like the legendary Monkey King. These expressions celebrate quick thinking and resourcefulness.',
-    idiomIds: ['ID042', 'ID049', 'ID074', 'ID108', 'ID131', 'ID175', 'ID271', 'ID375'],
-    category: 'Animals & Zodiac',
-    publishedDate: '2025-06-18'
-  },
-  {
-    slug: 'chinese-idioms-with-rat-mouse',
-    title: '8 Chinese Idioms With Rat & Mouse (鼠)',
-    description: 'Cunning Chinese idioms featuring rats and mice - about resourcefulness, caution, and survival instincts.',
-    metaDescription: 'Explore 8 Chinese idioms with rat and mouse (鼠). These cunning chengyu express resourcefulness and caution in Mandarin.',
-    keywords: ['chinese idioms with rat', 'mouse chengyu', '鼠 idioms', 'chinese rat sayings', 'year of the rat idioms'],
-    intro: 'As the first animal in the Chinese zodiac, the rat/mouse represents resourcefulness and survival. In idioms, rats often symbolize cunning behavior, small-mindedness, or the ability to thrive anywhere.',
-    idiomIds: ['ID042', 'ID074', 'ID079', 'ID131', 'ID135', 'ID271', 'ID377', 'ID550'],
-    category: 'Animals & Zodiac',
-    publishedDate: '2025-06-19'
-  },
-  {
-    slug: 'chinese-idioms-about-moon',
-    title: '10 Luminous Chinese Idioms About the Moon (月)',
-    description: 'Poetic Chinese idioms about the moon - symbolizing reunion, beauty, and the passage of time.',
-    metaDescription: 'Gaze at 10 Chinese idioms about the moon. These luminous chengyu connect moonlight with reunion and beauty in Mandarin.',
-    keywords: ['chinese idioms moon', 'moon chinese phrases', 'yue chengyu', 'chinese moonlight expressions', 'mandarin moon idioms', 'mid autumn moon idioms'],
-    intro: 'The moon holds special significance in Chinese culture - it symbolizes reunion, completeness, and the beauty of nature. These idioms use moonlight to illuminate timeless truths about life.',
-    idiomIds: ['ID023', 'ID055', 'ID084', 'ID088', 'ID089', 'ID097', 'ID104', 'ID114', 'ID120', 'ID177'],
-    category: 'Nature',
-    publishedDate: '2025-06-20'
   },
   {
     slug: 'chinese-idioms-about-rain',
@@ -2060,7 +1873,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms rain', 'rain chinese phrases', 'yu chengyu', 'chinese weather expressions', 'mandarin rain idioms', 'chinese storm sayings'],
     intro: 'Rain in Chinese idioms represents everything from nourishing growth to testing one\'s character. These atmospheric expressions use weather imagery to describe life\'s challenges and blessings.',
     idiomIds: ['ID035', 'ID037', 'ID040', 'ID046', 'ID054', 'ID095', 'ID127', 'ID179', 'ID265', 'ID414'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-06-21'
   },
   {
@@ -2071,7 +1884,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms flowers', 'flower chinese phrases', 'hua chengyu', 'chinese floral expressions', 'mandarin flower idioms', 'chinese blossom sayings'],
     intro: 'Flowers have inspired Chinese poetry and idioms for millennia. From plum blossoms symbolizing resilience to peonies representing prosperity, floral imagery permeates Chinese language beautifully.',
     idiomIds: ['ID040', 'ID084', 'ID095', 'ID114', 'ID185', 'ID196', 'ID248', 'ID265', 'ID341', 'ID395', 'ID414', 'ID517'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-06-22'
   },
   {
@@ -2082,7 +1895,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms bamboo', 'tree chinese phrases', 'zhu chengyu', 'chinese bamboo expressions', 'mandarin tree idioms', 'chinese wood sayings'],
     intro: 'Bamboo is one of the most powerful symbols in Chinese culture - flexible yet unbreakable, hollow yet strong. These idioms draw from trees and bamboo to teach about resilience and growth.',
     idiomIds: ['ID005', 'ID009', 'ID015', 'ID032', 'ID033', 'ID036', 'ID095', 'ID185', 'ID233', 'ID305'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-06-23'
   },
   {
@@ -2093,30 +1906,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms sun', 'light chinese phrases', 'guang chengyu', 'chinese sunshine expressions', 'mandarin light idioms', 'chinese brightness sayings'],
     intro: 'Light and sunshine in Chinese idioms represent truth, hope, and clarity. These expressions use the imagery of brightness to describe understanding, optimism, and the triumph of good.',
     idiomIds: ['ID007', 'ID012', 'ID015', 'ID023', 'ID036', 'ID060', 'ID084', 'ID154', 'ID169', 'ID298'],
-    category: 'Nature',
+    category: 'Nature & Animals',
     publishedDate: '2025-06-24'
-  },
-  {
-    slug: 'chinese-idioms-about-summer',
-    title: '8 Sizzling Chinese Idioms About Summer & Heat',
-    description: 'Hot Chinese idioms about summer, scorching heat, and surviving the season - seasonal wisdom for the warmest months.',
-    metaDescription: 'Beat the heat with 8 Chinese idioms about summer. These sizzling chengyu describe the hottest season in Mandarin.',
-    keywords: ['chinese idioms summer', 'heat chinese phrases', 'chengyu about summer', 'chinese hot weather expressions', 'mandarin summer idioms', 'chinese season sayings'],
-    intro: 'Summer in Chinese idioms evokes scorching heat, thriving life, and the intensity of the season. These expressions capture both the challenges and the vibrant energy of the warmest months.',
-    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID198', 'ID380', 'ID460', 'ID544'],
-    category: 'Nature',
-    publishedDate: '2025-06-25'
-  },
-  {
-    slug: 'chinese-idioms-about-jealousy',
-    title: '8 Chinese Idioms About Jealousy & Envy',
-    description: 'Green-eyed Chinese idioms about jealousy, envy, and the destructive power of covetousness.',
-    metaDescription: 'Understand jealousy through 8 Chinese idioms about envy. These chengyu describe the green-eyed monster in Mandarin.',
-    keywords: ['chinese idioms jealousy', 'envy chinese phrases', 'chengyu for jealous', 'chinese covet expressions', 'mandarin jealousy idioms'],
-    intro: 'Jealousy and envy are universal human emotions, and Chinese idioms capture their many shades - from mild admiration to destructive obsession. These expressions warn about the dangers of comparison.',
-    idiomIds: ['ID070', 'ID105', 'ID159', 'ID174', 'ID227', 'ID356', 'ID504', 'ID570'],
-    category: 'Emotions',
-    publishedDate: '2025-06-26'
   },
   {
     slug: 'chinese-idioms-about-loneliness',
@@ -2159,7 +1950,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms pride', 'arrogance chinese phrases', 'chengyu for overconfident', 'chinese hubris expressions', 'mandarin pride idioms'],
     intro: 'Chinese philosophy strongly warns against arrogance. These idioms describe the many faces of excessive pride and its inevitable consequences - a timeless reminder that humility is strength.',
     idiomIds: ['ID030', 'ID062', 'ID072', 'ID083', 'ID152', 'ID261', 'ID281', 'ID330', 'ID516', 'ID560'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-06-30'
   },
   {
@@ -2185,39 +1976,6 @@ export const listicles: Listicle[] = [
     publishedDate: '2025-07-02'
   },
   {
-    slug: 'chinese-idioms-about-heartbreak',
-    title: '10 Chinese Idioms About Heartbreak & Lost Love',
-    description: 'Poignant Chinese idioms about heartbreak, breakups, and the pain of love lost.',
-    metaDescription: 'Heal your heart with 10 Chinese idioms about heartbreak and lost love. These poignant chengyu express romantic pain in Mandarin.',
-    keywords: ['chinese idioms heartbreak', 'breakup chinese phrases', 'chengyu for broken heart', 'chinese lost love expressions', 'mandarin heartbreak idioms', 'chinese breakup sayings'],
-    intro: 'Heartbreak has inspired some of the most poignant Chinese poetry and idioms. These expressions capture the agony of lost love, the pain of separation, and the slow process of healing.',
-    idiomIds: ['ID029', 'ID055', 'ID160', 'ID183', 'ID188', 'ID227', 'ID382', 'ID385', 'ID574', 'ID600'],
-    category: 'Emotions',
-    publishedDate: '2025-07-03'
-  },
-  {
-    slug: 'chinese-idioms-about-embarrassment',
-    title: '8 Chinese Idioms About Embarrassment & Losing Face',
-    description: 'Awkward Chinese idioms about embarrassment, losing face, and those cringe-worthy moments we all experience.',
-    metaDescription: 'Don\'t lose face! 8 Chinese idioms about embarrassment explain why "face" matters so much in Chinese culture.',
-    keywords: ['chinese idioms embarrassment', 'losing face chinese', 'chengyu for awkward', 'chinese face culture expressions', 'mandarin embarrassment idioms', 'mianzi chinese idioms'],
-    intro: 'Face (面子, miàn zi) is central to Chinese social culture. These idioms describe embarrassment, awkwardness, and the culturally significant concept of losing face - relevant for anyone navigating Chinese social situations.',
-    idiomIds: ['ID030', 'ID062', 'ID072', 'ID098', 'ID125', 'ID152', 'ID261', 'ID539'],
-    category: 'Culture',
-    publishedDate: '2025-07-04'
-  },
-  {
-    slug: 'chinese-idioms-about-love-at-first-sight',
-    title: '8 Chinese Idioms About Love at First Sight',
-    description: 'Romantic Chinese idioms about instant attraction, falling in love at first glance, and fateful first meetings.',
-    metaDescription: 'Fall in love instantly with 8 Chinese idioms about love at first sight. These romantic chengyu describe fateful first meetings in Mandarin.',
-    keywords: ['chinese idioms love at first sight', 'yi jian zhong qing meaning', 'instant love chinese', 'chengyu first meeting love', 'chinese attraction idioms', 'chinese love expressions first sight'],
-    intro: 'Love at first sight is a universal experience, and Chinese has beautiful ways to describe that magical moment when two souls connect instantly. These romantic idioms capture the lightning bolt of first love.',
-    idiomIds: ['ID008', 'ID056', 'ID118', 'ID136', 'ID151', 'ID166', 'ID256', 'ID286'],
-    category: 'Love',
-    publishedDate: '2025-07-05'
-  },
-  {
     slug: 'chinese-idioms-about-fate-destiny',
     title: '10 Chinese Idioms About Fate & Destiny',
     description: 'Philosophical Chinese idioms about fate, destiny, and the eternal question of whether our lives are predetermined.',
@@ -2225,7 +1983,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms fate', 'destiny chinese phrases', 'chengyu for karma', 'chinese destiny expressions', 'mandarin fate idioms', 'chinese predetermined sayings'],
     intro: 'Is our destiny written in the stars? Chinese philosophy explores this question through idioms that examine fate, chance, and the interplay between human will and cosmic design.',
     idiomIds: ['ID007', 'ID015', 'ID018', 'ID024', 'ID029', 'ID060', 'ID127', 'ID175', 'ID197', 'ID400'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-06'
   },
   {
@@ -2236,7 +1994,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms appearance reality', 'deceptive looks chinese', 'chengyu for things not what they seem', 'chinese illusion expressions', 'mandarin truth appearance idioms'],
     intro: 'Chinese wisdom teaches us to look beyond the surface. These idioms warn about deceptive appearances, hidden intentions, and the importance of seeing things as they truly are.',
     idiomIds: ['ID042', 'ID055', 'ID062', 'ID072', 'ID079', 'ID083', 'ID131', 'ID135', 'ID152', 'ID271'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-07'
   },
   {
@@ -2247,7 +2005,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms balance', 'harmony chinese phrases', 'chengyu for yin yang', 'chinese equilibrium expressions', 'mandarin harmony idioms', 'chinese peace sayings'],
     intro: 'Harmony (和, hé) is perhaps the most important concept in Chinese philosophy. These idioms teach the art of balance - between work and rest, giving and receiving, action and patience.',
     idiomIds: ['ID007', 'ID015', 'ID019', 'ID024', 'ID027', 'ID033', 'ID040', 'ID076', 'ID303', 'ID304'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-08'
   },
   {
@@ -2258,7 +2016,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms truth', 'reality chinese phrases', 'chengyu for honest', 'chinese wisdom expressions', 'mandarin truth idioms'],
     intro: 'Finding truth requires both courage and wisdom. These Chinese idioms celebrate those who seek reality, see through deception, and have the integrity to speak and live truthfully.',
     idiomIds: ['ID006', 'ID045', 'ID055', 'ID072', 'ID084', 'ID087', 'ID091', 'ID123', 'ID207', 'ID209'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-09'
   },
   {
@@ -2269,7 +2027,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms silence', 'quiet chinese phrases', 'chengyu for silence', 'chinese still expressions', 'mandarin silence idioms'],
     intro: 'In a world of constant noise, Chinese wisdom reminds us of silence\'s power. These idioms teach that sometimes the strongest response is no response at all.',
     idiomIds: ['ID007', 'ID015', 'ID018', 'ID030', 'ID032', 'ID091', 'ID129', 'ID184'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-10'
   },
   {
@@ -2280,7 +2038,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms reading', 'books chinese phrases', 'chengyu about studying', 'chinese literature expressions', 'mandarin reading idioms', 'chinese book wisdom'],
     intro: 'Books have been revered in Chinese culture for millennia. These idioms celebrate the joy of reading, the power of knowledge, and the transformative effect that great literature has on the mind.',
     idiomIds: ['ID002', 'ID003', 'ID006', 'ID010', 'ID016', 'ID021', 'ID025', 'ID028', 'ID036', 'ID073'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-07-11'
   },
   {
@@ -2291,7 +2049,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms mindfulness', 'meditation chinese phrases', 'chengyu for inner peace', 'chinese calm expressions', 'mandarin mindfulness idioms', 'chinese zen sayings'],
     intro: 'Long before mindfulness became trendy, Chinese and Buddhist philosophy taught the art of present-moment awareness. These idioms capture the wisdom of stillness and inner peace.',
     idiomIds: ['ID006', 'ID007', 'ID015', 'ID018', 'ID024', 'ID030', 'ID040', 'ID091'],
-    category: 'Wellness',
+    category: 'Emotions',
     publishedDate: '2025-07-12'
   },
   {
@@ -2302,7 +2060,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms power', 'authority chinese phrases', 'chengyu for leadership', 'chinese rule expressions', 'mandarin power idioms'],
     intro: 'Power and authority have fascinated Chinese thinkers for millennia. These idioms examine the nature of leadership, the responsibilities of those in power, and the inevitable cycles of rise and fall.',
     idiomIds: ['ID025', 'ID042', 'ID077', 'ID111', 'ID150', 'ID165', 'ID189', 'ID204', 'ID271', 'ID329'],
-    category: 'Leadership',
+    category: 'Success & Career',
     publishedDate: '2025-07-13'
   },
   {
@@ -2313,7 +2071,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms mouth', 'mouth chengyu', '口 idioms', 'chinese speaking expressions', 'mandarin mouth idioms'],
     intro: 'The mouth (口, kǒu) in Chinese idioms represents speech, appetite, and the gateway between inner thoughts and the outside world. These expressions explore the power - and danger - of what comes out of our mouths.',
     idiomIds: ['ID061', 'ID069', 'ID078', 'ID132', 'ID146', 'ID149', 'ID178', 'ID213', 'ID226', 'ID280'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-07-14'
   },
   {
@@ -2324,7 +2082,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms face', 'face culture chengyu', '面 idioms', 'mianzi chinese expressions', 'saving face mandarin', 'chinese reputation idioms'],
     intro: 'Face (面子, miàn zi) is one of the most important concepts in Chinese social culture. These idioms reveal why reputation, dignity, and social standing matter so deeply in Chinese society.',
     idiomIds: ['ID030', 'ID062', 'ID072', 'ID083', 'ID098', 'ID125', 'ID152', 'ID261', 'ID281', 'ID539'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-07-15'
   },
   {
@@ -2335,7 +2093,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms five', 'number 5 chinese phrases', 'chengyu with five', 'chinese five elements', 'wu xing idioms'],
     intro: 'The number five (五, wǔ) connects to the five elements (木金水火土), five senses, and five directions. These idioms harness the symbolic completeness of five in Chinese philosophy.',
     idiomIds: ['ID220', 'ID308', 'ID319', 'ID353', 'ID384', 'ID410', 'ID376', 'ID388'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-07-16'
   },
   {
@@ -2346,7 +2104,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms six', 'number 6 chinese phrases', 'chengyu with six', 'chinese lucky number six', 'liu liu da shun meaning'],
     intro: 'Six (六, liù) is considered lucky in Chinese culture because it sounds like "flow" (流), suggesting everything going smoothly (六六大顺). These idioms feature this auspicious number.',
     idiomIds: ['ID220', 'ID308', 'ID317', 'ID319', 'ID322', 'ID353', 'ID376', 'ID384'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-07-17'
   },
   {
@@ -2357,7 +2115,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms ten', 'number 10 chinese phrases', 'chengyu with ten', 'chinese perfection expressions', 'shi quan shi mei meaning'],
     intro: 'Ten (十, shí) represents completeness and perfection in Chinese culture - the most "complete" single number. These idioms use ten to express absolute certainty, total coverage, or complete mastery.',
     idiomIds: ['ID057', 'ID186', 'ID308', 'ID317', 'ID319', 'ID322', 'ID376', 'ID384', 'ID388', 'ID451'],
-    category: 'Numbers',
+    category: 'Numbers & Language',
     publishedDate: '2025-07-18'
   },
   {
@@ -2368,7 +2126,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms vs japanese', 'chengyu kotowaza comparison', 'chinese japanese proverbs', 'east asian idiom parallels', 'mandarin japanese similar sayings'],
     intro: 'Many Japanese proverbs (ことわざ, kotowaza) share roots with Chinese idioms, since Japan historically adopted Chinese characters and philosophy. These fascinating parallels reveal shared East Asian wisdom.',
     idiomIds: ['ID005', 'ID009', 'ID014', 'ID015', 'ID018', 'ID042', 'ID074', 'ID076', 'ID088', 'ID141'],
-    category: 'Cross-Cultural',
+    category: 'History & Culture',
     publishedDate: '2025-07-19'
   },
   {
@@ -2379,7 +2137,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms vs korean', 'chengyu korean comparison', 'chinese korean proverbs', 'sajaseongeo chinese', 'mandarin korean similar sayings'],
     intro: 'Korean four-character idioms (사자성어, sajaseong-eo) share deep roots with Chinese chengyu. These cross-cultural parallels show how Chinese wisdom traveled across East Asia.',
     idiomIds: ['ID001', 'ID005', 'ID006', 'ID009', 'ID010', 'ID014', 'ID018', 'ID021', 'ID042', 'ID076'],
-    category: 'Cross-Cultural',
+    category: 'History & Culture',
     publishedDate: '2025-07-20'
   },
   {
@@ -2390,7 +2148,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms anime', 'manga chinese phrases', 'donghua chengyu', 'chinese otaku expressions', 'mandarin anime idioms', 'chinese idioms in anime'],
     intro: 'Love anime and manga? Many Chinese idioms appear in donghua (Chinese animation) and are shared across Japanese and Chinese media. These chengyu will level up your understanding of East Asian pop culture.',
     idiomIds: ['ID001', 'ID005', 'ID014', 'ID017', 'ID025', 'ID042', 'ID049', 'ID074', 'ID131', 'ID271'],
-    category: 'Pop Culture',
+    category: 'History & Culture',
     publishedDate: '2025-07-21'
   },
   {
@@ -2401,7 +2159,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms speed', 'fast chinese phrases', 'chengyu for quick', 'chinese swift expressions', 'mandarin speed idioms'],
     intro: 'Speed is celebrated in Chinese idioms through vivid imagery - from galloping horses to lightning strikes. These expressions describe swift action, quick thinking, and impressive efficiency.',
     idiomIds: ['ID017', 'ID018', 'ID026', 'ID046', 'ID054', 'ID063', 'ID096', 'ID119', 'ID133', 'ID195'],
-    category: 'Descriptive',
+    category: 'Numbers & Language',
     publishedDate: '2025-07-22'
   },
   {
@@ -2412,7 +2170,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms danger', 'risk chinese phrases', 'chengyu for peril', 'chinese dangerous expressions', 'mandarin danger idioms'],
     intro: 'Life is full of risks, and Chinese idioms offer wisdom for navigating dangerous situations. These expressions teach when to be cautious, when to be bold, and how to survive against the odds.',
     idiomIds: ['ID042', 'ID046', 'ID053', 'ID079', 'ID131', 'ID135', 'ID155', 'ID211', 'ID272', 'ID293'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-07-23'
   },
   {
@@ -2423,7 +2181,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms poverty', 'hardship chinese phrases', 'chengyu for struggle', 'chinese poor expressions', 'mandarin poverty idioms'],
     intro: 'Chinese history is filled with stories of people rising from poverty to greatness. These idioms acknowledge the reality of hardship while celebrating the resilience and dignity of those who endure.',
     idiomIds: ['ID005', 'ID009', 'ID014', 'ID026', 'ID061', 'ID092', 'ID164', 'ID235', 'ID246', 'ID252'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-24'
   },
   {
@@ -2434,7 +2192,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms travel', 'journey chinese phrases', 'chengyu for adventure', 'chinese exploration expressions', 'mandarin travel idioms', 'chinese road trip sayings'],
     intro: 'Chinese culture has always valued travel as a form of education - "reading ten thousand books is not as good as traveling ten thousand miles." These idioms celebrate the wisdom of the open road.',
     idiomIds: ['ID003', 'ID007', 'ID012', 'ID017', 'ID023', 'ID029', 'ID036', 'ID060', 'ID127', 'ID175', 'ID197', 'ID233'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-07-25'
   },
   {
@@ -2445,19 +2203,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms war', 'battle chinese phrases', 'chengyu for military', 'chinese warfare expressions', 'mandarin war idioms', 'chinese battle strategy'],
     intro: 'China\'s long military history produced brilliant strategic thinking that remains relevant today. These battle-tested idioms teach tactics, leadership, and the art of winning.',
     idiomIds: ['ID005', 'ID017', 'ID026', 'ID042', 'ID077', 'ID111', 'ID131', 'ID165', 'ID189', 'ID270', 'ID291', 'ID306'],
-    category: 'Strategy',
+    category: 'Success & Career',
     publishedDate: '2025-07-26'
-  },
-  {
-    slug: 'chinese-idioms-about-color-red',
-    title: '8 Auspicious Chinese Idioms About the Color Red (红)',
-    description: 'Lucky Chinese idioms featuring the color red - the most auspicious color in Chinese culture.',
-    metaDescription: 'Discover 8 lucky Chinese idioms about the color red. These auspicious chengyu celebrate China\'s luckiest color in Mandarin.',
-    keywords: ['chinese idioms red', 'red color chinese phrases', 'hong chengyu', 'chinese lucky color expressions', 'mandarin red idioms', 'chinese auspicious color'],
-    intro: 'Red (红, hóng) is the most auspicious color in Chinese culture, symbolizing luck, happiness, and prosperity. These idioms featuring red carry extra significance during celebrations.',
-    idiomIds: ['ID011', 'ID020', 'ID025', 'ID082', 'ID087', 'ID303', 'ID436', 'ID517'],
-    category: 'Culture',
-    publishedDate: '2025-07-27'
   },
   {
     slug: 'chinese-idioms-about-gold-treasure',
@@ -2467,7 +2214,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms gold', 'treasure chinese phrases', 'jin chengyu', 'chinese value expressions', 'mandarin gold idioms', 'chinese precious sayings'],
     intro: 'Gold (金, jīn) in Chinese idioms represents not just material wealth but also moral value, reliability, and preciousness. These expressions explore what truly constitutes treasure.',
     idiomIds: ['ID011', 'ID057', 'ID082', 'ID087', 'ID141', 'ID162', 'ID199', 'ID257', 'ID523', 'ID583'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-07-28'
   },
   {
@@ -2478,7 +2225,7 @@ export const listicles: Listicle[] = [
     keywords: ['hsk 3 idioms', 'chinese idioms hsk3', 'simple chengyu', 'pre-intermediate chinese idioms', 'hsk 3 vocabulary', 'beginner chengyu list'],
     intro: 'HSK 3 is where you start encountering Chinese idioms in everyday contexts. These 10 simple, commonly-used chengyu are perfect for pre-intermediate learners - easy to understand and frequently used.',
     idiomIds: ['ID001', 'ID004', 'ID008', 'ID009', 'ID010', 'ID014', 'ID017', 'ID020', 'ID034', 'ID042'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-07-29'
   },
   {
@@ -2489,7 +2236,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms greed', 'excess chinese phrases', 'chengyu for greedy', 'chinese desire expressions', 'mandarin greed idioms'],
     intro: 'Chinese wisdom strongly warns against greed and excess. These idioms describe the many faces of avarice and its inevitable consequences - from never being satisfied to losing everything.',
     idiomIds: ['ID013', 'ID019', 'ID062', 'ID072', 'ID083', 'ID152', 'ID261', 'ID330'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-07-30'
   },
   {
@@ -2504,17 +2251,6 @@ export const listicles: Listicle[] = [
     publishedDate: '2025-07-31'
   },
   {
-    slug: 'chinese-idioms-about-knowledge-learning',
-    title: '12 Chinese Idioms About Knowledge & Lifelong Learning',
-    description: 'Scholarly Chinese idioms celebrating knowledge, intellectual curiosity, and the never-ending pursuit of learning.',
-    metaDescription: 'Never stop learning with 12 Chinese idioms about knowledge. These scholarly chengyu celebrate intellectual growth in Mandarin.',
-    keywords: ['chinese idioms knowledge', 'learning chinese phrases', 'chengyu for education', 'chinese wisdom expressions', 'mandarin knowledge idioms', 'chinese study sayings'],
-    intro: 'Knowledge is a boundless ocean in Chinese philosophy. These idioms celebrate the joy of learning, the humility of the truly wise, and the transformative power of education.',
-    idiomIds: ['ID002', 'ID003', 'ID006', 'ID010', 'ID016', 'ID021', 'ID025', 'ID028', 'ID036', 'ID045', 'ID073', 'ID084'],
-    category: 'Learning',
-    publishedDate: '2025-08-01'
-  },
-  {
     slug: 'chinese-idioms-about-simplicity',
     title: '8 Chinese Idioms About Simplicity & Minimalism',
     description: 'Elegant Chinese idioms about simplicity, minimalism, and the beauty of a less-is-more approach to life.',
@@ -2522,7 +2258,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms simplicity', 'minimalism chinese phrases', 'chengyu for simple living', 'chinese less is more expressions', 'mandarin simplicity idioms'],
     intro: 'In a world of excess, Chinese philosophy offers elegant simplicity. These idioms celebrate the beauty of restraint, the wisdom of doing less, and the power of keeping things pure and uncluttered.',
     idiomIds: ['ID006', 'ID007', 'ID015', 'ID018', 'ID024', 'ID030', 'ID040', 'ID076'],
-    category: 'Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-02'
   },
   {
@@ -2533,7 +2269,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms ear', 'ear chengyu', '耳 idioms', 'chinese listening expressions', 'mandarin ear idioms'],
     intro: 'The ear (耳, ěr) in Chinese idioms represents listening, awareness, and the wisdom gained through paying attention. These expressions teach that hearing is different from truly listening.',
     idiomIds: ['ID061', 'ID069', 'ID078', 'ID132', 'ID146', 'ID213', 'ID226', 'ID280'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-08-03'
   },
   {
@@ -2544,19 +2280,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms foot', 'foot chengyu', '足 idioms', 'chinese walking expressions', 'mandarin foot idioms'],
     intro: 'The foot (足, zú) in Chinese idioms represents journeys, foundations, and the importance of taking action. These expressions teach about standing firm and taking that crucial first step.',
     idiomIds: ['ID013', 'ID017', 'ID026', 'ID036', 'ID096', 'ID119', 'ID133', 'ID195'],
-    category: 'Body & Mind',
+    category: 'Numbers & Language',
     publishedDate: '2025-08-04'
-  },
-  {
-    slug: 'chinese-idioms-for-opening-ceremony',
-    title: '10 Chinese Idioms for Grand Openings & New Beginnings',
-    description: 'Auspicious Chinese idioms for business openings, store launches, and grand beginnings.',
-    metaDescription: 'Launch with luck! 10 Chinese idioms for grand openings and new beginnings. Perfect chengyu for business launches in Mandarin.',
-    keywords: ['chinese idioms opening ceremony', 'new business chinese phrases', 'chengyu for launch', 'chinese grand opening expressions', 'mandarin new beginning idioms'],
-    intro: 'Opening a new business or starting a new venture? These auspicious idioms bring good fortune and positive energy to grand openings, ribbon cuttings, and launch celebrations.',
-    idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID025', 'ID060', 'ID082', 'ID087', 'ID154', 'ID436'],
-    category: 'Occasions',
-    publishedDate: '2025-08-05'
   },
   {
     slug: 'chinese-idioms-about-laziness',
@@ -2566,7 +2291,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms laziness', 'procrastination chinese phrases', 'chengyu for lazy', 'chinese slacker expressions', 'mandarin laziness idioms'],
     intro: 'Chinese culture values diligence, so its idioms have plenty to say about laziness and procrastination. These colorful expressions warn about the consequences of not putting in the effort.',
     idiomIds: ['ID037', 'ID053', 'ID074', 'ID088', 'ID109', 'ID200', 'ID247', 'ID269'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-08-06'
   },
   {
@@ -2577,7 +2302,7 @@ export const listicles: Listicle[] = [
     keywords: ['untranslatable chinese idioms', 'chinese concepts no english word', 'unique chengyu', 'chinese cultural expressions', 'mandarin untranslatable', 'chinese idioms hard to translate'],
     intro: 'Some Chinese idioms express concepts so unique that no English equivalent exists. These untranslatable expressions reveal how Chinese culture sees the world differently - and expand how you think about language itself.',
     idiomIds: ['ID007', 'ID012', 'ID015', 'ID018', 'ID019', 'ID023', 'ID024', 'ID040', 'ID076', 'ID134'],
-    category: 'Culture',
+    category: 'History & Culture',
     publishedDate: '2025-08-07'
   },
   {
@@ -2588,7 +2313,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms true friendship', 'loyalty friends chinese', 'chengyu for best friend', 'chinese companion expressions', 'mandarin friendship loyalty idioms', 'chinese best friend sayings'],
     intro: 'True friendship is one of life\'s greatest treasures. These Chinese idioms celebrate the friends who stand by you through thick and thin - the loyal companions who make life worth living.',
     idiomIds: ['ID022', 'ID027', 'ID031', 'ID035', 'ID043', 'ID082', 'ID087', 'ID095', 'ID102', 'ID180'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-08-08'
   },
   {
@@ -2599,7 +2324,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms study abroad', 'international student chinese', 'chengyu for foreigners in china', 'studying in china expressions', 'mandarin study abroad idioms'],
     intro: 'Heading to China to study? These idioms will help you connect with classmates, impress professors, and show your commitment to truly understanding Chinese culture beyond textbooks.',
     idiomIds: ['ID002', 'ID003', 'ID006', 'ID010', 'ID014', 'ID021', 'ID025', 'ID028', 'ID044', 'ID082'],
-    category: 'Learning',
+    category: 'Learning & Education',
     publishedDate: '2025-08-09'
   },
   {
@@ -2610,7 +2335,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms old age', 'elder wisdom chinese', 'chengyu for elderly', 'chinese aging expressions', 'mandarin old age idioms', 'chinese respect elders sayings'],
     intro: 'Chinese culture deeply reveres the wisdom that comes with age. These idioms honor the elderly, celebrate the value of experience, and remind younger generations to respect and learn from their elders.',
     idiomIds: ['ID018', 'ID091', 'ID133', 'ID134', 'ID154', 'ID222', 'ID262', 'ID295', 'ID301', 'ID603'],
-    category: 'Life Philosophy',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-10'
   },
   {
@@ -2621,41 +2346,8 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms persistence', 'water stone chinese', 'shui di shi chuan meaning', 'gradual progress chengyu', 'chinese persistent effort', 'mandarin persistence water idioms'],
     intro: 'Water drops can pierce stone (水滴石穿) - this famous Chinese concept teaches that consistent small efforts overcome even the greatest obstacles. These water-themed idioms celebrate patient persistence.',
     idiomIds: ['ID005', 'ID009', 'ID015', 'ID019', 'ID026', 'ID032', 'ID076', 'ID154'],
-    category: 'Perseverance',
+    category: 'Character & Values',
     publishedDate: '2025-08-11'
-  },
-  {
-    slug: 'chinese-idioms-about-eating-humble-pie',
-    title: '10 Chinese Idioms About Enduring Hardship (吃苦)',
-    description: 'Tough Chinese idioms about eating bitterness, enduring hardship, and the Chinese concept of 吃苦 (chī kǔ).',
-    metaDescription: 'Understand 吃苦 with 10 Chinese idioms about enduring hardship. These tough chengyu teach resilience through suffering in Mandarin.',
-    keywords: ['chi ku chinese idiom', 'eating bitterness chinese', 'endure hardship chengyu', 'chinese suffering expressions', 'mandarin chi ku meaning', 'chinese tough it out idioms'],
-    intro: 'The Chinese concept of 吃苦 (chī kǔ, "eating bitterness") is central to Chinese values. These idioms celebrate the ability to endure hardship, a quality deeply admired in Chinese culture.',
-    idiomIds: ['ID005', 'ID009', 'ID014', 'ID026', 'ID032', 'ID061', 'ID092', 'ID164', 'ID235', 'ID246'],
-    category: 'Culture',
-    publishedDate: '2025-08-12'
-  },
-  {
-    slug: 'chinese-idioms-for-wishing-good-luck',
-    title: '12 Chinese Idioms for Wishing Someone Good Luck',
-    description: 'Lucky Chinese idioms for wishing someone good fortune before exams, job interviews, competitions, and new ventures.',
-    metaDescription: 'Wish good luck with 12 Chinese idioms! These lucky chengyu are perfect for exams, interviews, and new ventures in Mandarin.',
-    keywords: ['chinese idioms good luck', 'wish luck chinese phrases', 'chengyu for blessing', 'chinese fortune expressions', 'mandarin good luck idioms', 'chinese exam wishes'],
-    intro: 'Need to wish someone good luck in Chinese? Whether they\'re facing an exam, job interview, or starting a new venture, these lucky idioms convey your best wishes powerfully.',
-    idiomIds: ['ID001', 'ID011', 'ID017', 'ID020', 'ID021', 'ID025', 'ID082', 'ID087', 'ID154', 'ID303', 'ID436', 'ID517'],
-    category: 'Occasions',
-    publishedDate: '2025-08-13'
-  },
-  {
-    slug: 'chinese-idioms-positive-affirmations',
-    title: '10 Chinese Idioms as Daily Positive Affirmations',
-    description: 'Transform Chinese idioms into daily affirmations for confidence, growth mindset, and self-belief.',
-    metaDescription: 'Boost confidence with 10 Chinese idioms as daily affirmations. These empowering chengyu build a growth mindset in Mandarin.',
-    keywords: ['chinese idioms affirmations', 'positive chinese phrases', 'chengyu for confidence', 'chinese self belief expressions', 'mandarin affirmation idioms', 'chinese motivational quotes daily'],
-    intro: 'Start each day with ancient Chinese wisdom. These idioms work perfectly as daily affirmations - short, powerful reminders of your potential, resilience, and the growth mindset that leads to success.',
-    idiomIds: ['ID001', 'ID005', 'ID006', 'ID009', 'ID014', 'ID017', 'ID021', 'ID026', 'ID044', 'ID082'],
-    category: 'Self-Improvement',
-    publishedDate: '2025-08-14'
   },
   {
     slug: 'chinese-idioms-about-marriage',
@@ -2665,7 +2357,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms marriage', 'married life chinese phrases', 'chengyu for husband wife', 'chinese marriage expressions', 'mandarin marriage idioms', 'chinese spouse sayings'],
     intro: 'Marriage in Chinese culture is both a personal journey and a family affair. These idioms capture the full spectrum of married life - from blissful harmony to the realistic challenges every couple faces.',
     idiomIds: ['ID008', 'ID027', 'ID031', 'ID056', 'ID118', 'ID248', 'ID420', 'ID597', 'ID603', 'ID605'],
-    category: 'Relationships',
+    category: 'Relationships & Family',
     publishedDate: '2025-08-15'
   },
   {
@@ -2676,7 +2368,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese idioms reputation', 'legacy chinese phrases', 'chengyu for name', 'chinese honor expressions', 'mandarin reputation idioms', 'chinese legacy sayings'],
     intro: 'Your reputation follows you forever in Chinese culture. These idioms explore how reputations are built, damaged, and preserved - and why the legacy you leave matters more than temporary gains.',
     idiomIds: ['ID001', 'ID030', 'ID062', 'ID082', 'ID087', 'ID091', 'ID123', 'ID141', 'ID207', 'ID209'],
-    category: 'Character',
+    category: 'Character & Values',
     publishedDate: '2025-08-16'
   },
   {
@@ -2687,7 +2379,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese proverbs about life', 'ancient chinese proverbs', 'chinese life wisdom', 'chinese sayings about living', 'traditional chinese proverbs', 'chinese wisdom quotes life'],
     intro: 'For thousands of years, Chinese proverbs have distilled life\'s greatest truths into just four characters. These 15 ancient sayings about life, balance, and contentment remain as relevant today as when they were first spoken.',
     idiomIds: ['ID007', 'ID015', 'ID018', 'ID075', 'ID084', 'ID121', 'ID229', 'ID295', 'ID301', 'ID303', 'ID310', 'ID335', 'ID495', 'ID433', 'ID566'],
-    category: 'Proverbs',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-17'
   },
   {
@@ -2698,7 +2390,7 @@ export const listicles: Listicle[] = [
     keywords: ['best chinese proverbs', 'chinese proverbs with meanings', 'famous chinese proverbs explained', 'chinese proverbs translation', 'chinese sayings meaning', 'popular chinese proverbs'],
     intro: 'What makes a Chinese proverb truly great? It\'s the ability to compress profound wisdom into just a few characters. Here are 12 of the most celebrated Chinese proverbs, each with its full meaning, origin story, and cultural context explained.',
     idiomIds: ['ID005', 'ID009', 'ID018', 'ID022', 'ID084', 'ID106', 'ID141', 'ID196', 'ID233', 'ID295', 'ID514', 'ID603'],
-    category: 'Proverbs',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-18'
   },
   {
@@ -2709,7 +2401,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese proverbs about strength', 'chinese resilience sayings', 'chinese proverbs perseverance', 'chinese courage quotes', 'strong chinese proverbs', 'chinese sayings about overcoming'],
     intro: 'Chinese culture deeply values inner strength - the kind that bends but never breaks. These 10 proverbs have inspired generations to face adversity with courage, push through impossible odds, and emerge stronger on the other side.',
     idiomIds: ['ID005', 'ID092', 'ID155', 'ID156', 'ID201', 'ID224', 'ID268', 'ID426', 'ID444', 'ID627'],
-    category: 'Proverbs',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-19'
   },
   {
@@ -2720,7 +2412,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese proverbs about family', 'chinese family sayings', 'filial piety proverbs', 'chinese proverbs parents', 'chinese family wisdom', 'chinese sayings about elders'],
     intro: 'Family is the cornerstone of Chinese culture, and filial piety (孝, xiào) remains one of its highest virtues. These 10 proverbs celebrate family bonds, respect for elders, and the deep roots that connect us to where we came from.',
     idiomIds: ['ID134', 'ID300', 'ID343', 'ID420', 'ID584', 'ID601', 'ID602', 'ID603', 'ID613', 'ID614'],
-    category: 'Proverbs',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-20'
   },
   {
@@ -2731,7 +2423,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese proverbs for students', 'chinese education sayings', 'chinese proverbs about learning', 'chinese study motivation', 'chinese wisdom education', 'chinese sayings about knowledge'],
     intro: 'Education has been revered in Chinese culture for millennia, producing some of the world\'s most powerful sayings about learning. Whether you\'re a student or a lifelong learner, these 10 proverbs will inspire you to keep pushing forward.',
     idiomIds: ['ID003', 'ID010', 'ID016', 'ID058', 'ID098', 'ID099', 'ID390', 'ID577', 'ID582', 'ID583'],
-    category: 'Proverbs',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-21'
   },
   {
@@ -2742,7 +2434,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese sayings about love', 'chinese love quotes', 'romantic chinese sayings', 'chinese devotion expressions', 'mandarin love phrases', 'chinese sayings romance'],
     intro: 'Chinese literature and poetry have given us some of the most beautiful expressions of love ever written. These 10 sayings capture every facet of devotion - from childhood sweethearts to eternal promises that outlast the stars.',
     idiomIds: ['ID248', 'ID385', 'ID531', 'ID605', 'ID606', 'ID608', 'ID610', 'ID611', 'ID612', 'ID602'],
-    category: 'Sayings',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-22'
   },
   {
@@ -2753,7 +2445,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese sayings about success', 'chinese hard work quotes', 'chinese success proverbs', 'mandarin sayings achievement', 'chinese work ethic sayings', 'chinese sayings about effort'],
     intro: 'In Chinese culture, success is never accidental - it\'s earned through relentless effort and unwavering dedication. These 10 sayings celebrate the work ethic and determination that turn ordinary people into extraordinary achievers.',
     idiomIds: ['ID014', 'ID120', 'ID143', 'ID154', 'ID166', 'ID358', 'ID482', 'ID507', 'ID579', 'ID653'],
-    category: 'Sayings',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-23'
   },
   {
@@ -2764,7 +2456,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese sayings about friendship', 'chinese friendship quotes', 'chinese loyalty sayings', 'mandarin friendship expressions', 'chinese best friend sayings', 'chinese sayings about trust'],
     intro: 'True friendship in Chinese culture goes beyond casual companionship - it means standing together through storms, sharing complete trust, and forming bonds so deep they become legendary. These 10 sayings capture that spirit.',
     idiomIds: ['ID031', 'ID035', 'ID118', 'ID196', 'ID534', 'ID594', 'ID596', 'ID598', 'ID599', 'ID600'],
-    category: 'Sayings',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-24'
   },
   {
@@ -2775,7 +2467,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese sayings about patience', 'chinese perseverance quotes', 'chinese patience proverbs', 'mandarin sayings persistence', 'chinese sayings about endurance', 'chinese wisdom patience'],
     intro: 'The Chinese have a saying: water drops can pierce stone. That philosophy of patient, persistent effort runs deep through Chinese wisdom. These 10 sayings remind us that the greatest achievements come not from speed, but from never giving up.',
     idiomIds: ['ID009', 'ID088', 'ID090', 'ID106', 'ID107', 'ID109', 'ID233', 'ID287', 'ID469', 'ID390'],
-    category: 'Sayings',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-25'
   },
   {
@@ -2786,7 +2478,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese sayings about change', 'chinese new beginnings quotes', 'chinese transformation sayings', 'mandarin sayings about change', 'chinese sayings fresh start', 'chinese wisdom change'],
     intro: 'Change is the only constant, and Chinese wisdom has always embraced this truth. Whether you\'re starting fresh after a setback or simply seeking growth, these 10 sayings about transformation and new beginnings will light your way forward.',
     idiomIds: ['ID060', 'ID064', 'ID085', 'ID267', 'ID335', 'ID354', 'ID395', 'ID414', 'ID451', 'ID525'],
-    category: 'Sayings',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-26'
   },
   {
@@ -2797,7 +2489,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese quotes motivation', 'motivational chinese quotes', 'chinese daily inspiration', 'chinese quotes for encouragement', 'mandarin motivational sayings', 'chinese quotes to live by'],
     intro: 'Need a daily dose of motivation? Chinese four-character quotes deliver maximum inspiration in minimum words. These 12 powerful expressions have motivated scholars, warriors, and dreamers for centuries - and they\'ll do the same for you.',
     idiomIds: ['ID001', 'ID014', 'ID021', 'ID032', 'ID049', 'ID201', 'ID221', 'ID260', 'ID289', 'ID354', 'ID514', 'ID576'],
-    category: 'Quotes',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-27'
   },
   {
@@ -2808,7 +2500,7 @@ export const listicles: Listicle[] = [
     keywords: ['ancient chinese wisdom', 'chinese wisdom quotes', 'confucius quotes chinese', 'taoist wisdom sayings', 'chinese philosophy quotes', 'ancient chinese quotes wisdom'],
     intro: 'The greatest minds in Chinese history - Confucius, Laozi, Zhuangzi, and countless others - left behind wisdom so profound it still guides millions today. These 15 ancient quotes distill thousands of years of philosophy into truths you can live by.',
     idiomIds: ['ID006', 'ID015', 'ID024', 'ID039', 'ID091', 'ID094', 'ID112', 'ID131', 'ID133', 'ID137', 'ID229', 'ID269', 'ID474', 'ID631', 'ID655'],
-    category: 'Quotes',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-28'
   },
   {
@@ -2819,7 +2511,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese quotes happiness', 'chinese inner peace quotes', 'chinese contentment sayings', 'chinese quotes about peace', 'mandarin happiness expressions', 'chinese serenity wisdom'],
     intro: 'In a world obsessed with more, Chinese philosophy offers a radical alternative: happiness through contentment, peace through simplicity. These 10 quotes reveal the ancient Chinese secret to lasting happiness - and it\'s not what you might expect.',
     idiomIds: ['ID103', 'ID104', 'ID295', 'ID303', 'ID325', 'ID340', 'ID363', 'ID409', 'ID462', 'ID566'],
-    category: 'Quotes',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-29'
   },
   {
@@ -2830,7 +2522,7 @@ export const listicles: Listicle[] = [
     keywords: ['inspirational chinese quotes', 'chinese quotes perspective', 'chinese inspirational sayings', 'powerful chinese quotes', 'chinese quotes about life', 'inspiring chinese wisdom'],
     intro: 'Sometimes all it takes is a single phrase to shift your entire perspective. These 12 inspirational Chinese quotes have been doing exactly that for centuries - challenging assumptions, revealing hidden truths, and inspiring people to see the world differently.',
     idiomIds: ['ID076', 'ID084', 'ID108', 'ID154', 'ID168', 'ID221', 'ID261', 'ID268', 'ID342', 'ID444', 'ID468', 'ID545'],
-    category: 'Quotes',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-30'
   },
   {
@@ -2841,7 +2533,7 @@ export const listicles: Listicle[] = [
     keywords: ['chinese philosophy quotes', 'chinese life lessons', 'chinese philosophical sayings', 'chinese wisdom life lessons', 'confucian philosophy quotes', 'chinese quotes about wisdom'],
     intro: 'Chinese philosophy doesn\'t just offer abstract ideas - it offers practical life lessons tested over millennia. These 10 philosophical quotes teach timeless truths about consequences, timing, and the wisdom that comes from honest self-reflection.',
     idiomIds: ['ID024', 'ID075', 'ID097', 'ID138', 'ID145', 'ID157', 'ID227', 'ID282', 'ID504', 'ID631'],
-    category: 'Quotes',
+    category: 'Philosophy & Wisdom',
     publishedDate: '2025-08-31'
   },
   // CNY 2026 - Year of the Horse content push
@@ -2878,7 +2570,218 @@ export const listicles: Listicle[] = [
     category: 'Chinese New Year',
     publishedDate: '2025-09-03'
   },
+  // Qingming Festival 2026 (April 4-5)
+  {
+    slug: 'chinese-idioms-qingming-festival-tomb-sweeping-day',
+    title: '10 Chinese Idioms for Qingming Festival (Tomb Sweeping Day)',
+    description: 'Honor tradition with these Chinese idioms perfect for Qingming Festival (清明节). Expressions about remembrance, reflection, and respecting ancestors for Tomb Sweeping Day.',
+    metaDescription: 'Learn 10 Chinese idioms for Qingming Festival (Tomb Sweeping Day). These chengyu about remembrance, reflection, and honoring ancestors are perfect for 清明节.',
+    keywords: ['qingming festival idioms', 'tomb sweeping day chinese idioms', 'qingming chengyu', '清明节成语', 'chinese idioms remembrance', 'tomb sweeping day phrases', 'qingming festival 2026', 'chinese memorial day idioms', 'qingming expressions', 'ancestor worship idioms'],
+    intro: 'Qingming Festival (清明节, qīng míng jié), also known as Tomb Sweeping Day, falls on April 4-5 each year. It\'s a time for Chinese families to honor deceased ancestors, sweep tombs, and reflect on family heritage. These 10 idioms capture the spirit of remembrance, contemplation, and respect for one\'s roots that define this meaningful festival.',
+    idiomIds: ['ID612', 'ID320', 'ID524', 'ID047', 'ID137', 'ID091', 'ID045', 'ID039', 'ID024', 'ID613'],
+    category: 'Occasions',
+    publishedDate: '2025-09-04'
+  },
+  {
+    slug: 'chinese-idioms-remembering-family-ancestors',
+    title: '9 Chinese Idioms About Remembering Family & Ancestors',
+    description: 'Meaningful Chinese idioms about filial piety, family bonds, and honoring ancestors. These timeless expressions celebrate the deep respect for family in Chinese culture.',
+    metaDescription: 'Discover 9 Chinese idioms about family and ancestors. These chengyu celebrate filial piety, family heritage, and the deep respect for elders in Chinese tradition.',
+    keywords: ['chinese idioms family', 'chinese idioms ancestors', 'filial piety chengyu', 'chinese family expressions', 'honoring ancestors chinese', 'chinese idioms about parents', 'family heritage idioms', 'chinese filial piety', 'remembering family chinese', 'ancestor worship phrases'],
+    intro: 'In Chinese culture, respect for family and ancestors is one of the highest virtues. Filial piety (孝, xiào) forms the foundation of social harmony, and these 9 idioms beautifully express the deep bonds between generations — from remembering one\'s roots to cherishing family traditions that endure across centuries.',
+    idiomIds: ['ID134', 'ID365', 'ID369', 'ID482', 'ID121', 'ID142', 'ID083', 'ID601', 'ID300'],
+    category: 'Relationships & Family',
+    publishedDate: '2025-09-05'
+  },
+  {
+    slug: 'chinese-idioms-about-spring-renewal',
+    title: '10 Chinese Idioms About Spring & Renewal',
+    description: 'Celebrate the beauty of spring with these Chinese idioms about renewal, growth, and fresh beginnings. Perfect for the spring season and new chapters in life.',
+    metaDescription: 'Explore 10 Chinese idioms about spring and renewal. These chengyu celebrate nature\'s rebirth, growth, and fresh starts — ideal for spring season inspiration.',
+    keywords: ['chinese idioms spring', 'chinese idioms renewal', 'spring chinese expressions', 'chengyu about nature', 'chinese idioms new beginnings', 'spring festival idioms', 'chinese idioms growth', 'nature chinese proverbs', 'chinese spring sayings', 'renewal transformation idioms'],
+    intro: 'Spring has always held special meaning in Chinese culture — a time of renewal, hope, and new possibilities. From the gentle spring rain that nourishes the earth to bamboo shoots emerging with unstoppable energy, these 10 idioms capture the transformative spirit of spring and the promise of fresh beginnings.',
+    idiomIds: ['ID040', 'ID085', 'ID084', 'ID414', 'ID525', 'ID586', 'ID185', 'ID016', 'ID114', 'ID395'],
+    category: 'Nature & Animals',
+    publishedDate: '2025-09-06'
+  },
+  // Evergreen listicles
+  {
+    slug: 'chinese-idioms-for-graduation',
+    title: '10 Chinese Idioms for Graduation & Commencement',
+    description: 'Celebrate graduation with these inspiring Chinese idioms about achievement, bright futures, and the journey ahead. Perfect for commencement speeches and cards.',
+    metaDescription: 'Inspire graduates with 10 Chinese idioms for graduation. These chengyu about achievement, perseverance, and bright futures are perfect for commencement speeches and gifts.',
+    keywords: ['chinese idioms graduation', 'graduation chinese phrases', 'commencement chinese idioms', 'chinese idioms achievement', 'graduation speech chinese', 'chinese sayings for graduates', 'chinese idioms bright future', 'graduation card chinese'],
+    intro: 'Graduation marks the culmination of years of hard work and the beginning of a new chapter. These 10 Chinese idioms capture the spirit of achievement, perseverance, and the exciting journey ahead — perfect for commencement speeches, graduation cards, or simply honoring a graduate\'s accomplishments.',
+    idiomIds: ['ID001', 'ID009', 'ID025', 'ID038', 'ID063', 'ID071', 'ID076', 'ID090', 'ID109', 'ID167'],
+    category: 'Occasions',
+    publishedDate: '2025-09-07'
+  },
+  {
+    slug: 'chinese-idioms-for-resume-professional',
+    title: '9 Chinese Idioms for Your Resume & Professional Profile',
+    description: 'Showcase your skills with these powerful Chinese idioms about expertise, excellence, and professional ambition. Ideal for resumes, LinkedIn, and career contexts.',
+    metaDescription: 'Stand out professionally with 9 Chinese idioms for resumes and LinkedIn. These chengyu about expertise, excellence, and ambition elevate your professional profile.',
+    keywords: ['chinese idioms resume', 'professional chinese phrases', 'linkedin chinese idioms', 'chinese idioms career', 'chinese idioms expertise', 'business chinese expressions', 'chinese idioms standing out', 'professional mandarin phrases'],
+    intro: 'In a competitive professional landscape, the right Chinese idiom can convey volumes about your character and capabilities. These 9 chengyu encapsulate qualities every employer values — from deep expertise to natural leadership. Whether for your resume, LinkedIn profile, or professional correspondence, these expressions add cultural depth and sophistication.',
+    idiomIds: ['ID002', 'ID021', 'ID108', 'ID147', 'ID175', 'ID207', 'ID221', 'ID261', 'ID264'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-08'
+  },
+  {
+    slug: 'chinese-idioms-daily-inspiration',
+    title: '10 Chinese Idioms for Daily Inspiration & Wisdom',
+    description: 'Start each day with wisdom from these Chinese idioms about contentment, self-reflection, and finding joy in simplicity. Everyday inspiration from ancient Chinese culture.',
+    metaDescription: 'Find daily inspiration in 10 Chinese idioms about wisdom and contentment. These chengyu offer timeless guidance for living well, self-reflection, and inner peace.',
+    keywords: ['chinese idioms daily inspiration', 'chinese quotes daily life', 'daily wisdom chinese', 'chinese idioms contentment', 'chinese idioms self reflection', 'everyday chinese wisdom', 'chinese idioms simple living', 'inspirational chinese phrases daily'],
+    intro: 'The best wisdom doesn\'t just inspire — it transforms how you approach each day. These 10 Chinese idioms offer daily guidance drawn from centuries of philosophical tradition, covering everything from contentment and self-reflection to finding beauty in life\'s simple moments.',
+    idiomIds: ['ID030', 'ID103', 'ID112', 'ID132', 'ID133', 'ID209', 'ID295', 'ID301', 'ID303', 'ID304'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-09'
+  },
+  {
+    slug: 'chinese-idioms-for-leadership',
+    title: '10 Chinese Idioms About Leadership & Strategy',
+    description: 'Master the art of leadership with these Chinese idioms about vision, strategic thinking, and commanding respect. Wisdom for managers and leaders at every level.',
+    metaDescription: 'Lead with wisdom using 10 Chinese idioms about leadership and strategy. These chengyu teach vision, tactical thinking, and how great leaders inspire and command respect.',
+    keywords: ['chinese idioms leadership', 'leadership chinese phrases', 'chinese idioms strategy', 'chinese idioms for managers', 'chinese leadership wisdom', 'strategic chinese idioms', 'chinese idioms commanding respect', 'leadership mandarin expressions'],
+    intro: 'Chinese history is rich with legendary leaders and military strategists whose wisdom was distilled into four-character idioms. These 10 chengyu cover the full spectrum of leadership — from careful strategic planning to knowing when to advance and when to retreat. Essential wisdom for leaders at every level.',
+    idiomIds: ['ID053', 'ID068', 'ID077', 'ID165', 'ID171', 'ID176', 'ID189', 'ID191', 'ID263', 'ID270'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-10'
+  },
+  {
+    slug: 'chinese-idioms-for-teachers',
+    title: '10 Chinese Idioms for Teacher Appreciation',
+    description: 'Honor educators with these Chinese idioms about teaching, mentorship, and the profound impact of great teachers. Perfect for Teacher\'s Day and appreciation gifts.',
+    metaDescription: 'Show gratitude with 10 Chinese idioms for teacher appreciation. These chengyu honor mentorship, dedication to teaching, and the lasting impact of great educators.',
+    keywords: ['chinese idioms teachers', 'teacher appreciation chinese', 'chinese idioms mentorship', 'chinese idioms education', 'teachers day chinese phrases', 'chinese sayings about teachers', 'chinese idioms guidance', 'teacher gift chinese wisdom'],
+    intro: 'In Chinese culture, teachers hold one of the most respected positions in society — the saying "一日为师，终身为父" (a teacher for one day is a father for life) reflects this deep reverence. These 10 idioms celebrate the art of teaching, the humility of learning, and the transformative power of great mentorship.',
+    idiomIds: ['ID006', 'ID021', 'ID028', 'ID100', 'ID129', 'ID133', 'ID147', 'ID207', 'ID343', 'ID002'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-11'
+  },
+  {
+    slug: 'chinese-idioms-for-kids',
+    title: '10 Chinese Idioms to Teach Children',
+    description: 'Fun and meaningful Chinese idioms perfect for teaching kids about hard work, kindness, honesty, and the love of learning. Great for parents and teachers.',
+    metaDescription: 'Teach children wisdom with 10 kid-friendly Chinese idioms. These chengyu about learning, kindness, and effort are perfect for young learners and family education.',
+    keywords: ['chinese idioms for kids', 'chinese idioms children', 'teach kids chinese proverbs', 'children chinese wisdom', 'kid friendly chinese idioms', 'chinese idioms about learning kids', 'chinese sayings for children', 'family education chinese idioms'],
+    intro: 'Chinese idioms aren\'t just for adults — many carry powerful lessons that resonate with children. From the determined slow bird who flies first to the friend who delivers coal in a snowstorm, these 10 chengyu teach timeless values in vivid, memorable imagery that kids can understand and carry with them for life.',
+    idiomIds: ['ID003', 'ID010', 'ID012', 'ID032', 'ID043', 'ID058', 'ID065', 'ID087', 'ID098', 'ID102'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-12'
+  },
+  {
+    slug: 'chinese-idioms-for-housewarming',
+    title: '10 Chinese Idioms for Housewarming & New Home',
+    description: 'Bless a new home with these Chinese idioms about prosperity, harmony, and fresh beginnings. Perfect for housewarming gifts, cards, and celebrations.',
+    metaDescription: 'Celebrate a new home with 10 Chinese idioms for housewarming. These chengyu about prosperity, harmony, and fresh starts are ideal for gifts and congratulations.',
+    keywords: ['chinese idioms housewarming', 'new home chinese phrases', 'housewarming chinese sayings', 'chinese idioms new home', 'chinese idioms prosperity home', 'housewarming gift chinese', 'chinese blessings new house', 'moving chinese idioms'],
+    intro: 'Moving into a new home is a major milestone in Chinese culture, often celebrated with gifts and well-wishes. These 10 idioms capture the hopes we have for a new home — peace, prosperity, community, and the promise of a beautiful new beginning.',
+    idiomIds: ['ID018', 'ID027', 'ID060', 'ID103', 'ID173', 'ID289', 'ID301', 'ID303', 'ID304', 'ID315'],
+    category: 'Occasions',
+    publishedDate: '2025-09-13'
+  },
+  {
+    slug: 'chinese-idioms-for-new-job',
+    title: '10 Chinese Idioms for Starting a New Job',
+    description: 'Begin your new career chapter with these Chinese idioms about diligence, ambition, and making a strong first impression. Essential motivation for any new role.',
+    metaDescription: 'Start strong at your new job with 10 Chinese idioms about diligence and ambition. These chengyu inspire confidence, hard work, and making great first impressions.',
+    keywords: ['chinese idioms new job', 'starting new job chinese', 'chinese idioms career beginning', 'new beginnings chinese idioms work', 'chinese idioms diligence', 'first day chinese sayings', 'chinese idioms ambition', 'new role chinese wisdom'],
+    intro: 'Starting a new job is both exciting and challenging — you want to make a strong impression while building genuine expertise. These 10 Chinese idioms have been motivating professionals for centuries, offering wisdom about commitment, continuous improvement, and the dedication that turns a new beginning into lasting success.',
+    idiomIds: ['ID014', 'ID017', 'ID026', 'ID032', 'ID036', 'ID052', 'ID086', 'ID143', 'ID166', 'ID201'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-14'
+  },
+  {
+    slug: 'chinese-idioms-in-crouching-tiger-hidden-dragon',
+    title: '2 Chinese Idioms from Crouching Tiger, Hidden Dragon (卧虎藏龙)',
+    description: 'The chengyu spoken in Ang Lee\'s Crouching Tiger, Hidden Dragon — the title idiom itself and 心诚则灵 from Lo\'s desert legend.',
+    metaDescription: '2 Chinese idioms from Crouching Tiger, Hidden Dragon (卧虎藏龙). Learn the chengyu behind the title and Lo\'s desert legend in Ang Lee\'s wuxia classic.',
+    keywords: ['crouching tiger hidden dragon idioms', '卧虎藏龙 chengyu', 'chinese idioms in movies', 'ang lee film chinese', 'wuxia movie idioms', '心诚则灵 crouching tiger', 'crouching tiger hidden dragon meaning', 'chinese idioms in film', 'crouching tiger chinese phrases', 'wuxia chinese expressions'],
+    intro: 'Ang Lee\'s 2000 wuxia classic Crouching Tiger, Hidden Dragon (卧虎藏龙) is named after a chengyu — and weaves another into its dialogue. The characters\' names — Xiaohu (小虎, little tiger) and Jiaolong (蛟龙, delicate dragon) — mirror the title\'s hidden tiger and dragon.',
+    idiomIds: ['ID681', 'ID682'],
+    category: 'History & Culture',
+    publishedDate: '2025-09-15'
+  },
 ];
+
+export function getRelatedListicles(slug: string, limit = 4): Listicle[] {
+  const current = listicles.find(l => l.slug === slug);
+  if (!current) return listicles.slice(0, limit);
+
+  const candidates = listicles.filter(l => l.slug !== slug);
+  const scored = candidates.map(candidate => {
+    let score = 0;
+    // Same category: +3
+    if (candidate.category === current.category) score += 3;
+    // Shared idiom IDs: +1 each
+    for (const id of candidate.idiomIds) {
+      if (current.idiomIds.includes(id)) score += 1;
+    }
+    // Overlapping keywords: +0.5 each
+    for (const kw of candidate.keywords) {
+      if (current.keywords.some(ck => ck === kw || ck.includes(kw) || kw.includes(ck))) score += 0.5;
+    }
+    return { listicle: candidate, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+  const results = scored.slice(0, limit).map(s => s.listicle);
+
+  // Fill remaining slots with random if not enough scored results
+  if (results.length < limit) {
+    const remaining = candidates.filter(c => !results.includes(c));
+    const shuffled = remaining.sort(() => Math.random() - 0.5);
+    results.push(...shuffled.slice(0, limit - results.length));
+  }
+
+  return results;
+}
+
+export function getRelatedListiclesTranslated(slug: string, lang: string, limit = 4): (Listicle | TranslatedListicle)[] {
+  if (!lang || lang === 'en') return getRelatedListicles(slug, limit);
+
+  const allTranslated = getAllListiclesTranslated(lang);
+  const current = allTranslated.find(l => l.slug === slug);
+  if (!current) return allTranslated.slice(0, limit);
+
+  // Find original slug for matching against English listicle data
+  const originalSlug = (current as TranslatedListicle).originalSlug || current.slug;
+  const originalListicle = listicles.find(l => l.slug === originalSlug);
+
+  const candidates = allTranslated.filter(l => l.slug !== slug);
+  const scored = candidates.map(candidate => {
+    let score = 0;
+    const candidateOriginalSlug = (candidate as TranslatedListicle).originalSlug || candidate.slug;
+    const candidateOriginal = listicles.find(l => l.slug === candidateOriginalSlug);
+
+    // Same category: +3
+    if (candidate.category === current.category) score += 3;
+    // Shared idiom IDs: +1 each (use original English data for accurate matching)
+    if (originalListicle && candidateOriginal) {
+      for (const id of candidateOriginal.idiomIds) {
+        if (originalListicle.idiomIds.includes(id)) score += 1;
+      }
+    }
+    // Overlapping keywords: +0.5 each
+    for (const kw of candidate.keywords) {
+      if (current.keywords.some(ck => ck === kw || ck.includes(kw) || kw.includes(ck))) score += 0.5;
+    }
+    return { listicle: candidate, score };
+  });
+
+  scored.sort((a, b) => b.score - a.score);
+  const results = scored.slice(0, limit).map(s => s.listicle);
+
+  if (results.length < limit) {
+    const remaining = candidates.filter(c => !results.includes(c));
+    const shuffled = remaining.sort(() => Math.random() - 0.5);
+    results.push(...shuffled.slice(0, limit - results.length));
+  }
+
+  return results;
+}
 
 export function getListiclesForIdiom(idiomId: string, limit = 3): Listicle[] {
   return listicles.filter(l => l.idiomIds.includes(idiomId)).slice(0, limit);

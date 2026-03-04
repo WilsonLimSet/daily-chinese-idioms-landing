@@ -25,7 +25,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "ビジネス",
+    "category": "戦略",
     "publishedDate": "2025-01-15"
   },
   {
@@ -52,7 +52,7 @@
       "ID027",
       "ID040"
     ],
-    "category": "愛と人間関係",
+    "category": "人間関係",
     "publishedDate": "2025-01-16"
   },
   {
@@ -81,7 +81,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "教育",
+    "category": "学習",
     "publishedDate": "2025-01-17"
   },
   {
@@ -108,7 +108,7 @@
       "ID080",
       "ID022"
     ],
-    "category": "友情",
+    "category": "人間関係",
     "publishedDate": "2025-01-18"
   },
   {
@@ -137,7 +137,7 @@
       "ID020",
       "ID082"
     ],
-    "category": "成功",
+    "category": "戦略",
     "publishedDate": "2025-01-19"
   },
   {
@@ -164,7 +164,7 @@
       "ID006",
       "ID003"
     ],
-    "category": "勤勉",
+    "category": "性格",
     "publishedDate": "2025-01-20"
   },
   {
@@ -193,7 +193,7 @@
       "ID022",
       "ID040"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-01-21"
   },
   {
@@ -222,7 +222,7 @@
       "ID006",
       "ID082"
     ],
-    "category": "モチベーション",
+    "category": "戦略",
     "publishedDate": "2025-01-22"
   },
   {
@@ -249,7 +249,7 @@
       "ID007",
       "ID014"
     ],
-    "category": "忍耐",
+    "category": "性格",
     "publishedDate": "2025-01-23"
   },
   {
@@ -276,7 +276,7 @@
       "ID033",
       "ID034"
     ],
-    "category": "チームワーク",
+    "category": "戦略",
     "publishedDate": "2025-01-24"
   },
   {
@@ -303,7 +303,7 @@
       "ID036",
       "ID033"
     ],
-    "category": "変化と成長",
+    "category": "性格",
     "publishedDate": "2025-01-25"
   },
   {
@@ -332,7 +332,7 @@
       "ID014",
       "ID036"
     ],
-    "category": "コミュニケーション",
+    "category": "数字",
     "publishedDate": "2025-01-26"
   },
   {
@@ -359,7 +359,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "勇気",
+    "category": "性格",
     "publishedDate": "2025-01-27"
   },
   {
@@ -419,7 +419,7 @@
       "ID001",
       "ID007"
     ],
-    "category": "インスピレーション",
+    "category": "戦略",
     "publishedDate": "2025-01-29"
   },
   {
@@ -447,7 +447,7 @@
       "ID056",
       "ID080"
     ],
-    "category": "エンターテイメント",
+    "category": "歴史",
     "publishedDate": "2025-01-30"
   },
   {
@@ -481,7 +481,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "お祝い",
+    "category": "Occasions",
     "publishedDate": "2025-01-31"
   },
   {
@@ -509,7 +509,7 @@
       "ID025",
       "ID026"
     ],
-    "category": "お祝い",
+    "category": "Occasions",
     "publishedDate": "2025-02-01"
   },
   {
@@ -539,7 +539,7 @@
       "ID102",
       "ID118"
     ],
-    "category": "家族",
+    "category": "人間関係",
     "publishedDate": "2025-02-02"
   },
   {
@@ -601,36 +601,6 @@
     "publishedDate": "2025-02-04"
   },
   {
-    "slug": "instagram-ni-pittari-no-mijikai-chuugokugo-no-kotowaza-10-sen",
-    "originalSlug": "chinese-idioms-for-instagram",
-    "title": "Instagramにピッタリの短い中国語のことわざ10選",
-    "description": "簡潔でインパクトのある中国語のことわざは、ソーシャルメディアのキャプションや自己紹介に最適です。",
-    "metaDescription": "これらの10の中国語のことわざでInstagramをレベルアップしましょう。短く、意味深く、視覚的に印象的 - キャプション、自己紹介、そしてあなたの文化的知識を披露するのに最適です。",
-    "keywords": [
-      "中国語のInstagramキャプション",
-      "写真の中国語キャプション",
-      "短い中国語の引用",
-      "美的中国語のフレーズ",
-      "中国語の自己紹介のアイデア",
-      "ソーシャルメディアの成語"
-    ],
-    "intro": "目立つ意味のあるキャプションをお探しですか？これらの中国語のことわざは、ソーシャルメディアに十分な長さですが、深遠な意味を持っています。それぞれの四字熟語は、人生、成功、自己改善に関する知恵を視覚的に印象的な形式に詰め込んでいます。",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID021",
-      "ID026"
-    ],
-    "category": "ソーシャルメディア",
-    "publishedDate": "2025-02-05"
-  },
-  {
     "slug": "okane-fuyuu-seikou-ni-tsuite-no-chuugokugo-no-kotowaza-8-sen",
     "originalSlug": "chinese-idioms-about-money",
     "title": "お金、富、成功についての中国語のことわざ8選",
@@ -655,7 +625,7 @@
       "ID057",
       "ID087"
     ],
-    "category": "富",
+    "category": "戦略",
     "publishedDate": "2025-02-06"
   },
   {
@@ -689,7 +659,7 @@
       "ID009",
       "ID010"
     ],
-    "category": "旧正月",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-03"
   },
   {
@@ -723,7 +693,7 @@
       "ID648",
       "ID647"
     ],
-    "category": "旧正月",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-07"
   },
   {
@@ -757,7 +727,7 @@
       "ID014",
       "ID001"
     ],
-    "category": "旧正月",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-08"
   },
   {
@@ -1023,40 +993,6 @@
     "publishedDate": "2025-02-16"
   },
   {
-    "slug": "sofu-sobo-ni-tsutawaru-juu-no-seiku",
-    "originalSlug": "chinese-new-year-idioms-for-grandparents",
-    "title": "中国の旧正月におじいちゃんとおばあちゃんに伝える10の甘い中国語の成句",
-    "description": "旧正月に中国語でおじいちゃんとおばあちゃんに何を言えばいいですか？これらの心のこもった成句は、爷爷奶奶または外公外婆に健康、長寿、幸福を祈ります。",
-    "metaDescription": "新年に中国人の祖父母に何を言うべきですか？これらの10の愛情のある成句は、親孝行の敬意を表し、旧正月の間に爷爷奶奶の健康、長寿、幸福を祈ります。",
-    "keywords": [
-      "what to say to grandparents chinese new year",
-      "chinese new year wishes for grandma grandpa",
-      "how to wish grandparents in chinese",
-      "给爷爷奶奶拜年说什么",
-      "longevity blessing chinese grandparents",
-      "chinese phrases for elderly relatives",
-      "cny greetings for 外公外婆",
-      "respectful chinese sayings for grandparents",
-      "filial piety phrases chinese",
-      "health wishes grandparents mandarin"
-    ],
-    "intro": "中国の旧正月におじいちゃんとおばあちゃん（爷爷奶奶または外公外婆）に何を言うべきですか？祖父母は中国の家族文化において特別な場所を占めており、これらの心のこもった成句は、あなたの愛、敬意、そして彼らの継続的な健康と幸福への願いを表現します。彼らの中国の旧正月を特別なものにするのに最適です。",
-    "idiomIds": [
-      "ID222",
-      "ID262",
-      "ID134",
-      "ID133",
-      "ID303",
-      "ID616",
-      "ID617",
-      "ID566",
-      "ID050",
-      "ID040"
-    ],
-    "category": "Chinese New Year",
-    "publishedDate": "2025-02-17"
-  },
-  {
     "slug": "oba-oji-e-no-aisatsu-ni-tsukau-juu-no-seiku",
     "originalSlug": "chinese-new-year-idioms-for-aunties-uncles",
     "title": "旧正月に叔母と叔父に挨拶するための10の中国語の成句（阿姨叔叔）",
@@ -1121,7 +1057,7 @@
       "ID009",
       "ID517"
     ],
-    "category": "春節",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-19"
   },
   {
@@ -1152,7 +1088,7 @@
       "ID014",
       "ID036"
     ],
-    "category": "春節",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-20"
   },
   {
@@ -1185,7 +1121,7 @@
       "ID059",
       "ID192"
     ],
-    "category": "春節",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-21"
   },
   {
@@ -1216,7 +1152,7 @@
       "ID040",
       "ID566"
     ],
-    "category": "春節",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-22"
   },
   {
@@ -1250,7 +1186,7 @@
       "ID517",
       "ID586"
     ],
-    "category": "春節",
+    "category": "Chinese New Year",
     "publishedDate": "2025-02-23"
   },
   {
@@ -1282,7 +1218,7 @@
       "ID032",
       "ID154"
     ],
-    "category": "忍耐",
+    "category": "性格",
     "publishedDate": "2025-02-24"
   },
   {
@@ -1311,7 +1247,7 @@
       "ID084",
       "ID248"
     ],
-    "category": "美と自然",
+    "category": "自然",
     "publishedDate": "2025-02-25"
   },
   {
@@ -1377,7 +1313,7 @@
       "ID249",
       "ID233"
     ],
-    "category": "物語と寓話",
+    "category": "歴史",
     "publishedDate": "2025-02-27"
   },
   {
@@ -1439,7 +1375,7 @@
       "ID074",
       "ID114"
     ],
-    "category": "人気",
+    "category": "歴史",
     "publishedDate": "2025-03-01"
   },
   {
@@ -1464,7 +1400,7 @@
       "ID375",
       "ID431"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-01"
   },
   {
@@ -1492,7 +1428,7 @@
       "ID377",
       "ID550"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-02"
   },
   {
@@ -1524,7 +1460,7 @@
       "ID274",
       "ID278"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-03"
   },
   {
@@ -1546,7 +1482,7 @@
       "ID135",
       "ID377"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-04"
   },
   {
@@ -1570,7 +1506,7 @@
       "ID269",
       "ID383"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-05"
   },
   {
@@ -1604,7 +1540,7 @@
       "ID403",
       "ID409"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-02-06"
   },
   {
@@ -1633,7 +1569,7 @@
       "ID336",
       "ID395"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-02-07"
   },
   {
@@ -1661,7 +1597,7 @@
       "ID482",
       "ID515"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-02-08"
   },
   {
@@ -1904,28 +1840,6 @@
     "publishedDate": "2025-02-16"
   },
   {
-    "slug": "oshougatsu-no-chuugokugo-no-kanyouku",
-    "originalSlug": "chinese-idioms-for-new-year",
-    "title": "新年の願いに最適な縁起の良い中国語の慣用句15選",
-    "description": "新年の挨拶、祝福、お祝いに最適な中国語の慣用句をマスターしましょう。",
-    "metaDescription": "新年に最適な縁起の良い中国語の慣用句15選を学びましょう。春節の挨拶、お年玉、そして休日の願いに最適な成語です。",
-    "keywords": [
-      "中国の旧正月の慣用句",
-      "春節の挨拶の成語",
-      "旧正月のフレーズ",
-      "中国の旧正月の願い",
-      "春節の慣用句"
-    ],
-    "intro": "中国の旧正月は、縁起の良い慣用句 (吉祥成语) を使うのに最適な時期です。これらの表現は、幸運、繁栄、そして幸福をもたらし、挨拶やお年玉のメッセージに最適です。",
-    "idiomIds": [
-      "ID154",
-      "ID307",
-      "ID436"
-    ],
-    "category": "行事",
-    "publishedDate": "2025-02-17"
-  },
-  {
     "slug": "kekkonshiki-no-chuugokugo-no-kanyouku",
     "originalSlug": "chinese-idioms-for-weddings",
     "title": "結婚式と結婚に最適なロマンチックな中国語の慣用句10選",
@@ -1948,7 +1862,7 @@
       "ID603",
       "ID605"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-02-18"
   },
   {
@@ -1977,7 +1891,7 @@
       "ID221",
       "ID260"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-02-19"
   },
   {
@@ -2001,7 +1915,7 @@
       "ID347",
       "ID402"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-21"
   },
   {
@@ -2027,7 +1941,7 @@
       "ID222",
       "ID527"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-27"
   },
   {
@@ -2050,7 +1964,7 @@
       "ID286",
       "ID341"
     ],
-    "category": "動物と干支",
+    "category": "自然",
     "publishedDate": "2025-02-28"
   },
   {
@@ -2079,7 +1993,7 @@
       "ID385",
       "ID415"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-01"
   },
   {
@@ -2106,7 +2020,7 @@
       "ID137",
       "ID180"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-02"
   },
   {
@@ -2135,7 +2049,7 @@
       "ID120",
       "ID177"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-03"
   },
   {
@@ -2162,7 +2076,7 @@
       "ID262",
       "ID271"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-04"
   },
   {
@@ -2191,7 +2105,7 @@
       "ID496",
       "ID525"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-05"
   },
   {
@@ -2217,7 +2131,7 @@
       "ID177",
       "ID298"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-06"
   },
   {
@@ -2243,7 +2157,7 @@
       "ID089",
       "ID091"
     ],
-    "category": "行事",
+    "category": "Occasions",
     "publishedDate": "2025-03-07"
   },
   {
@@ -2465,35 +2379,6 @@
     "publishedDate": "2025-03-15"
   },
   {
-    "slug": "chuugokugo-kotowaza-ikari",
-    "originalSlug": "chinese-idioms-about-anger",
-    "title": "怒りや逆上に関する中国の故事成句10選",
-    "description": "怒り、激怒、そして自制心を失うことについての表現力豊かな中国の故事成句。",
-    "metaDescription": "怒りや激怒に関する中国の故事成句10選を学びましょう。これらの成語は、激怒、逆上、感情的な爆発を鮮やかに描写します。",
-    "keywords": [
-      "怒りに関する中国の故事成句",
-      "怒りの中国語フレーズ",
-      "激怒の成語",
-      "中国語 気性 表現",
-      "北京語 怒り 故事成句"
-    ],
-    "intro": "中国の故事成句は、怒りや感情的な爆発を表現するための鮮やかで詩的な方法を提供します。頭から炎が吹き出すことから雷鳴や稲妻まで、これらの表現は人間の怒りの激しさを捉えています。",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID357",
-      "ID380",
-      "ID460",
-      "ID544",
-      "ID569"
-    ],
-    "category": "Emotions",
-    "publishedDate": "2025-03-16"
-  },
-  {
     "slug": "chuugokugo-kotowaza-koufuku",
     "originalSlug": "chinese-idioms-about-happiness",
     "title": "幸福と喜びに関する、楽しい中国の故事成句10選",
@@ -2518,7 +2403,7 @@
       "ID489",
       "ID517"
     ],
-    "category": "Emotions",
+    "category": "感情",
     "publishedDate": "2025-03-17"
   },
   {
@@ -2852,7 +2737,7 @@
       "ID177",
       "ID298"
     ],
-    "category": "知恵",
+    "category": "哲学",
     "publishedDate": "2025-03-29"
   },
   {
@@ -2908,7 +2793,7 @@
       "ID015",
       "ID105"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-03-31"
   },
   {
@@ -2935,7 +2820,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "健康",
+    "category": "感情",
     "publishedDate": "2025-04-01"
   },
   {
@@ -2964,7 +2849,7 @@
       "ID010",
       "ID016"
     ],
-    "category": "教育",
+    "category": "学習",
     "publishedDate": "2025-04-02"
   },
   {
@@ -2993,7 +2878,7 @@
       "ID603",
       "ID118"
     ],
-    "category": "恋愛と人間関係",
+    "category": "人間関係",
     "publishedDate": "2025-04-03"
   },
   {
@@ -3022,7 +2907,7 @@
       "ID300",
       "ID315"
     ],
-    "category": "家族",
+    "category": "人間関係",
     "publishedDate": "2025-04-04"
   },
   {
@@ -3049,7 +2934,7 @@
       "ID603",
       "ID088"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-04-05"
   },
   {
@@ -3107,7 +2992,7 @@
       "ID260",
       "ID236"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-04-07"
   },
   {
@@ -3174,60 +3059,6 @@
     ],
     "category": "学習",
     "publishedDate": "2025-04-09"
-  },
-  {
-    "slug": "usagi-no-tsuku-chuugokugo-kotowaza",
-    "originalSlug": "chinese-idioms-with-rabbit",
-    "title": "ウサギ（兔）のつく中国のことわざ8選",
-    "description": "ウサギをフィーチャーした中国のことわざ - 賢さ、用心深さ、予期せぬ結果についての表現。",
-    "metaDescription": "ウサギをフィーチャーした中国のことわざ8選を学びましょう。これらの成語は、ウサギのイメージを使って中国語で賢さを表現しています。",
-    "keywords": [
-      "chuugokugo kotowaza usagi",
-      "usagi chuugokugo fureezu",
-      "chengyu usagi",
-      "chuugokugo usagi hyougen",
-      "usagi doshi kotowaza"
-    ],
-    "intro": "中国のことわざのウサギは、しばしば賢さ、用心深さ、そして予期せぬことを表しています。これらの表現は、機知に富み、常に脱出計画を持っているというウサギの評判から引き出されています。",
-    "idiomIds": [
-      "ID074",
-      "ID247",
-      "ID031",
-      "ID035",
-      "ID082",
-      "ID182",
-      "ID236",
-      "ID399"
-    ],
-    "category": "動物",
-    "publishedDate": "2025-04-10"
-  },
-  {
-    "slug": "hitsuji-no-tsuku-chuugokugo-kotowaza",
-    "originalSlug": "chinese-idioms-with-sheep",
-    "title": "ヒツジとヤギ（羊）のつく中国のことわざ8選",
-    "description": "ヒツジとヤギをフィーチャーした中国のことわざ - 優しさ、群れ、そして過ちから学ぶことについての表現。",
-    "metaDescription": "ヒツジとヤギのつく中国のことわざ8選をご紹介。これらの成語は、中国語で優しさと知恵を表現しています。",
-    "keywords": [
-      "chuugokugo kotowaza hitsuji",
-      "yagi chuugokugo fureezu",
-      "chengyu hitsuji",
-      "chuugokugo kohitsuji hyougen",
-      "hitsuji doshi kotowaza"
-    ],
-    "intro": "ヒツジとヤギは、優しさ、グループに従うこと、そして重要なことに、過ちから学ぶことを表す中国のことわざに登場します。有名な「羊を失ってから囲いを繕う」は、時代を超越した知恵を教えてくれます。",
-    "idiomIds": [
-      "ID138",
-      "ID082",
-      "ID043",
-      "ID091",
-      "ID161",
-      "ID075",
-      "ID088",
-      "ID109"
-    ],
-    "category": "動物",
-    "publishedDate": "2025-04-11"
   },
   {
     "slug": "kenkyo-ni-tsuite-no-chuugokugo-no-kotowaza",
@@ -3340,7 +3171,7 @@
       "ID504",
       "ID570"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-04-15"
   },
   {
@@ -3429,7 +3260,7 @@
       "ID156",
       "ID168"
     ],
-    "category": "成功と忍耐",
+    "category": "戦略",
     "publishedDate": "2025-04-18"
   },
   {
@@ -3458,7 +3289,7 @@
       "ID199",
       "ID288"
     ],
-    "category": "キャリア",
+    "category": "戦略",
     "publishedDate": "2025-04-19"
   },
   {
@@ -3487,7 +3318,7 @@
       "ID228",
       "ID229"
     ],
-    "category": "リーダーシップ",
+    "category": "戦略",
     "publishedDate": "2025-04-20"
   },
   {
@@ -3514,7 +3345,7 @@
       "ID539",
       "ID560"
     ],
-    "category": "職場",
+    "category": "戦略",
     "publishedDate": "2025-04-21"
   },
   {
@@ -3543,7 +3374,7 @@
       "ID277",
       "ID288"
     ],
-    "category": "Workplace",
+    "category": "戦略",
     "publishedDate": "2025-04-22"
   },
   {
@@ -3574,7 +3405,7 @@
       "ID098",
       "ID099"
     ],
-    "category": "Learning",
+    "category": "学習",
     "publishedDate": "2025-04-23"
   },
   {
@@ -3605,7 +3436,7 @@
       "ID228",
       "ID229"
     ],
-    "category": "Learning",
+    "category": "学習",
     "publishedDate": "2025-04-24"
   },
   {
@@ -3636,7 +3467,7 @@
       "ID422",
       "ID424"
     ],
-    "category": "Learning",
+    "category": "学習",
     "publishedDate": "2025-04-25"
   },
   {
@@ -3665,7 +3496,7 @@
       "ID306",
       "ID329"
     ],
-    "category": "Strategy",
+    "category": "戦略",
     "publishedDate": "2025-04-26"
   },
   {
@@ -3694,7 +3525,7 @@
       "ID229",
       "ID232"
     ],
-    "category": "競争",
+    "category": "戦略",
     "publishedDate": "2025-04-27"
   },
   {
@@ -3752,7 +3583,7 @@
       "ID273",
       "ID306"
     ],
-    "category": "自己啓発",
+    "category": "性格",
     "publishedDate": "2025-04-29"
   },
   {
@@ -3781,7 +3612,7 @@
       "ID277",
       "ID280"
     ],
-    "category": "自己啓発",
+    "category": "性格",
     "publishedDate": "2025-04-30"
   },
   {
@@ -3810,7 +3641,7 @@
       "ID292",
       "ID297"
     ],
-    "category": "レジリエンス",
+    "category": "性格",
     "publishedDate": "2025-05-01"
   },
   {
@@ -3924,7 +3755,7 @@
       "ID523",
       "ID583"
     ],
-    "category": "金融",
+    "category": "戦略",
     "publishedDate": "2025-05-05"
   },
   {
@@ -3951,7 +3782,7 @@
       "ID532",
       "ID537"
     ],
-    "category": "金融",
+    "category": "戦略",
     "publishedDate": "2025-05-06"
   },
   {
@@ -3980,37 +3811,8 @@
       "ID252",
       "ID271"
     ],
-    "category": "文化",
+    "category": "歴史",
     "publishedDate": "2025-05-07"
-  },
-  {
-    "slug": "hanasu-koto-kotoba-no-chikara-ni-tsuite-no-juu-no-chuugokugo-no-kanyouku",
-    "originalSlug": "chinese-idioms-about-speaking-words",
-    "title": "話すことと言葉の力についての10個の中国語慣用句",
-    "description": "スピーチ、コミュニケーション、そして言葉が現実を形作る上で持つ計り知れない力についての雄弁な中国語の慣用句。",
-    "metaDescription": "話すことと言葉についての10個の中国語慣用句でコミュニケーションをマスターしましょう。これらの成語は、北京語における言語の力を明らかにします。",
-    "keywords": [
-      "話す中国語の慣用句",
-      "言葉の中国語のフレーズ",
-      "コミュニケーションのための成語",
-      "中国語の雄弁な表現",
-      "スピーチの慣用句を持つ北京語"
-    ],
-    "intro": "言葉は中国文化において、築き、破壊し、癒し、傷つける計り知れない力を持っています。これらの慣用句は、上手に話す技術、いつ黙っているべきか、そして私たちが言うことの永続的な影響を探求します。",
-    "idiomIds": [
-      "ID061",
-      "ID069",
-      "ID078",
-      "ID132",
-      "ID146",
-      "ID149",
-      "ID178",
-      "ID213",
-      "ID226",
-      "ID280"
-    ],
-    "category": "コミュニケーション",
-    "publishedDate": "2025-05-08"
   },
   {
     "slug": "chuugoku-eiga-dorama-seigo",
@@ -4041,7 +3843,7 @@
       "ID141",
       "ID271"
     ],
-    "category": "ポップカルチャー",
+    "category": "歴史",
     "publishedDate": "2025-05-09"
   },
   {
@@ -4071,7 +3873,7 @@
       "ID082",
       "ID141"
     ],
-    "category": "ソーシャルメディア",
+    "category": "歴史",
     "publishedDate": "2025-05-10"
   },
   {
@@ -4101,7 +3903,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "キャリア",
+    "category": "戦略",
     "publishedDate": "2025-05-11"
   },
   {
@@ -4129,7 +3931,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "プロフェッショナル",
+    "category": "戦略",
     "publishedDate": "2025-05-12"
   },
   {
@@ -4159,7 +3961,7 @@
       "ID267",
       "ID525"
     ],
-    "category": "モダン",
+    "category": "歴史",
     "publishedDate": "2025-05-13"
   },
   {
@@ -4188,43 +3990,8 @@
       "ID154",
       "ID267"
     ],
-    "category": "自己啓発",
+    "category": "性格",
     "publishedDate": "2025-05-14"
-  },
-  {
-    "slug": "nichijou-kaiwa-de-tsukawareru-chuugokugo-no-ijimu-15-sen",
-    "originalSlug": "chinese-idioms-for-daily-conversation",
-    "title": "日常会話で使われる中国語のイディオム15選",
-    "description": "ネイティブスピーカーが実際に日常会話で使用する最も実用的な中国語のイディオム - これらをマスターして流暢な北京語を。",
-    "metaDescription": "日常会話のためのこれらの15個の中国語のイディオムで、ネイティブのように聞こえましょう。これらは、中国語話者が実際に日常生活で使用する成語です。",
-    "keywords": [
-      "日常会話 中国語 イディオム",
-      "日常 中国語 フレーズ",
-      "一般的な成語 スピーキング",
-      "実用的な中国語 イディオム",
-      "ネイティブスピーカー 成語",
-      "実生活 中国語 表現"
-    ],
-    "intro": "珍しい文学的なイディオムは忘れてください - これらは中国語話者が実際に日常会話で使用する成語です。これらの15個の表現をマスターすれば、日常の北京語で著しく自然に聞こえるでしょう。",
-    "idiomIds": [
-      "ID001",
-      "ID004",
-      "ID008",
-      "ID009",
-      "ID010",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID034",
-      "ID042",
-      "ID053",
-      "ID074",
-      "ID076",
-      "ID141"
-    ],
-    "category": "学習",
-    "publishedDate": "2025-05-15"
   },
   {
     "slug": "souzousei-ni-kansuru-chuugokugo-no-ijimu-10-sen",
@@ -4252,7 +4019,7 @@
       "ID395",
       "ID525"
     ],
-    "category": "創造性",
+    "category": "歴史",
     "publishedDate": "2025-05-16"
   },
   {
@@ -4308,7 +4075,7 @@
       "ID184",
       "ID209"
     ],
-    "category": "人格",
+    "category": "性格",
     "publishedDate": "2025-05-18"
   },
   {
@@ -4336,7 +4103,7 @@
       "ID209",
       "ID259"
     ],
-    "category": "コミュニケーション",
+    "category": "数字",
     "publishedDate": "2025-05-19"
   },
   {
@@ -4368,7 +4135,7 @@
       "ID436",
       "ID517"
     ],
-    "category": "機会",
+    "category": "Occasions",
     "publishedDate": "2025-05-20"
   },
   {
@@ -4398,7 +4165,7 @@
       "ID517",
       "ID586"
     ],
-    "category": "文化",
+    "category": "歴史",
     "publishedDate": "2025-05-21"
   },
   {
@@ -4428,7 +4195,7 @@
       "ID190",
       "ID300"
     ],
-    "category": "機会",
+    "category": "Occasions",
     "publishedDate": "2025-05-22"
   },
   {
@@ -4458,7 +4225,7 @@
       "ID154",
       "ID190"
     ],
-    "category": "機会",
+    "category": "Occasions",
     "publishedDate": "2025-05-23"
   },
   {
@@ -4547,7 +4314,7 @@
       "ID106",
       "ID119"
     ],
-    "category": "Career",
+    "category": "戦略",
     "publishedDate": "2025-05-26"
   },
   {
@@ -4575,7 +4342,7 @@
       "ID422",
       "ID577"
     ],
-    "category": "Communication",
+    "category": "数字",
     "publishedDate": "2025-05-27"
   },
   {
@@ -4605,7 +4372,7 @@
       "ID286",
       "ID420"
     ],
-    "category": "Love",
+    "category": "人間関係",
     "publishedDate": "2025-05-28"
   },
   {
@@ -4632,7 +4399,7 @@
       "ID601",
       "ID603"
     ],
-    "category": "愛",
+    "category": "人間関係",
     "publishedDate": "2025-05-29"
   },
   {
@@ -4662,7 +4429,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "職業",
+    "category": "戦略",
     "publishedDate": "2025-05-30"
   },
   {
@@ -4692,7 +4459,7 @@
       "ID077",
       "ID154"
     ],
-    "category": "キャリア",
+    "category": "戦略",
     "publishedDate": "2025-05-31"
   },
   {
@@ -4722,38 +4489,8 @@
       "ID501",
       "ID593"
     ],
-    "category": "職業",
+    "category": "戦略",
     "publishedDate": "2025-06-01"
-  },
-  {
-    "slug": "asuriito-supootsu-no-tame-no-chuugokugo-ijiumu",
-    "originalSlug": "chinese-idioms-for-athletes",
-    "title": "アスリートとスポーツのための10の中国語イディオム",
-    "description": "運動能力の達成、スポーツマンシップ、および身体的限界の押し上げに関する競争力のある中国語のイディオム。",
-    "metaDescription": "スポーツのための10の中国語のイディオムであなたのアスリート精神を燃やしてください。これらの成語は、北京語での競争、持久力、そして勝利を鼓舞します。",
-    "keywords": [
-      "アスリートの中国語イディオム",
-      "スポーツ中国語フレーズ",
-      "競争のための成語",
-      "中国の運動表現",
-      "北京語のスポーツイディオム",
-      "中国のフィットネスのことわざ"
-    ],
-    "intro": "オリンピックに向けてトレーニングしている場合でも、最初の5Kを走っている場合でも、これらの中国語のイディオムは、限界を超えることから勝利の栄光まで、運動能力の卓越性の精神を捉えています。",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID017",
-      "ID026",
-      "ID032",
-      "ID063",
-      "ID082",
-      "ID096",
-      "ID119",
-      "ID168"
-    ],
-    "category": "職業",
-    "publishedDate": "2025-06-02"
   },
   {
     "slug": "sakka-no-tame-no-chuugokugo-ijimu",
@@ -4782,7 +4519,7 @@
       "ID213",
       "ID280"
     ],
-    "category": "職業",
+    "category": "戦略",
     "publishedDate": "2025-06-03"
   },
   {
@@ -4814,94 +4551,8 @@
       "ID198",
       "ID357"
     ],
-    "category": "文化",
+    "category": "歴史",
     "publishedDate": "2025-06-04"
-  },
-  {
-    "slug": "cha-bunka-ni-tsuite-no-chuugokugo-ijimu",
-    "originalSlug": "chinese-idioms-about-tea-culture",
-    "title": "お茶と茶文化に関する8個の中国語イディオム",
-    "description": "お茶、茶道、中国茶文化の哲学的伝統に関する優雅な中国語イディオム。",
-    "metaDescription": "お茶と茶文化に関する8個の中国語イディオムを探求しましょう。これらの優雅な成語は、北京語でお茶の伝統を知恵と結びつけています。",
-    "keywords": [
-      "お茶 中国語イディオム",
-      "茶文化 中国語フレーズ",
-      "お茶に関する成語",
-      "中国茶道表現",
-      "北京語 お茶イディオム",
-      "中国茶の知恵"
-    ],
-    "intro": "中国文化ではお茶は単なる飲み物ではなく、哲学です。これらのイディオムは、古代のお茶の芸術を、人生、友情、マインドフルネスに関するより深い真実と結びつけています。",
-    "idiomIds": [
-      "ID007",
-      "ID015",
-      "ID018",
-      "ID023",
-      "ID024",
-      "ID040",
-      "ID091",
-      "ID173"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-06-05"
-  },
-  {
-    "slug": "inshu-to-wain-ni-tsuite-no-chuugokugo-ijimu",
-    "originalSlug": "chinese-idioms-about-drinking-wine",
-    "title": "飲酒とワイン（酒）に関する10個の中国語イディオム",
-    "description": "飲酒、ワイン文化、中国の社会的な伝統におけるアルコールの役割に関する活気に満ちた中国語イディオム。",
-    "metaDescription": "飲酒とワインに関する10個の中国語イディオムで乾杯しましょう。これらの活気に満ちた成語は、北京語で中国のアルコール文化を探求します。",
-    "keywords": [
-      "飲酒 中国語イディオム",
-      "ワイン 中国語フレーズ",
-      "アルコールに関する成語",
-      "中国飲酒文化表現",
-      "北京語 ワインイディオム",
-      "酒 中国のことわざ"
-    ],
-    "intro": "ワインとアルコールは、何千年もの間、中国の社会文化において重要な役割を果たしてきました。これらのイディオムは、飲酒の喜び、乾杯の芸術、そして自分の限界を知ることの知恵を探求します。",
-    "idiomIds": [
-      "ID019",
-      "ID023",
-      "ID027",
-      "ID031",
-      "ID035",
-      "ID070",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID460"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-06-06"
-  },
-  {
-    "slug": "ongaku-ni-tsuite-no-chuugokugo-ijimu",
-    "originalSlug": "chinese-idioms-about-music",
-    "title": "音楽と音に関する8個のメロディアスな中国語イディオム",
-    "description": "音楽、音、そしてメロディーと人間の感情の深いつながりに関する調和のとれた中国語イディオム。",
-    "metaDescription": "音楽と音に関する8個の中国語イディオムを聞いてください。これらの調和のとれた成語は、北京語でメロディーと感情を結びつけています。",
-    "keywords": [
-      "音楽 中国語イディオム",
-      "音 中国語フレーズ",
-      "メロディーに関する成語",
-      "中国音楽表現",
-      "北京語 音楽イディオム",
-      "中国の調和のことわざ"
-    ],
-    "intro": "音楽は古代から中国文化の中心であり、孔子自身も熟練した音楽家でした。これらのイディオムは、音楽的なイメージを使用して、調和、不協和音、そして音の力を表現します。",
-    "idiomIds": [
-      "ID001",
-      "ID027",
-      "ID031",
-      "ID033",
-      "ID034",
-      "ID040",
-      "ID200",
-      "ID303"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-06-07"
   },
   {
     "slug": "yume-to-kibou-ni-tsuite-no-chuugokugo-no-ijisamu",
@@ -5148,148 +4799,6 @@
     "publishedDate": "2025-06-15"
   },
   {
-    "slug": "inu-no-chuugokugo-kanyouku",
-    "originalSlug": "chinese-idioms-with-dog",
-    "title": "犬（犬/狗）を使った中国語慣用句10選",
-    "description": "犬をフィーチャーした中国語の慣用句 - 忠誠心、警戒心、そして驚くべきことに、いくつかの否定的な意味合いについての表現。",
-    "metaDescription": "犬（犬/狗）を使った10個の中国語慣用句を学びましょう。これらの成語は、忠実な仲間から北京語での注意を促す物語まで多岐にわたります。",
-    "keywords": [
-      "犬を使った中国語慣用句",
-      "犬 成語",
-      "狗 慣用句",
-      "中国の犬のことわざ",
-      "犬の年 慣用句",
-      "犬 中国語 表現"
-    ],
-    "intro": "中国の慣用句の犬は複雑な評判を持っており、忠誠心と、いくつかの表現では否定的な資質の両方を表しています。これらの慣用句は、中国文化における犬のイメージの全範囲を示しています。",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID059",
-      "ID074",
-      "ID131",
-      "ID135",
-      "ID278",
-      "ID377",
-      "ID402",
-      "ID550"
-    ],
-    "category": "動物と干支",
-    "publishedDate": "2025-06-16"
-  },
-  {
-    "slug": "buta-no-chuugokugo-kanyouku",
-    "originalSlug": "chinese-idioms-with-pig",
-    "title": "豚（猪）を使った中国語慣用句8選",
-    "description": "怠惰な豚から繁栄している豚まで、豚をフィーチャーした中国語の慣用句 - 中国語の豚を発見してください。",
-    "metaDescription": "豚（猪）を使った8個の中国語慣用句を発見してください。これらの成語は、豚が北京語で幸運と愚かさの両方をどのように表しているかを示しています。",
-    "keywords": [
-      "豚を使った中国語慣用句",
-      "豚 成語",
-      "猪 慣用句",
-      "中国の豚のことわざ",
-      "豚の年 慣用句"
-    ],
-    "intro": "中国文化の豚は富と幸運を象徴していますが（豚は干支の動物です！）、慣用句では、しばしば怠惰や愚かさを表しています。これらの表現は、豚のコインの両面を示しています。",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID131",
-      "ID200",
-      "ID271",
-      "ID347",
-      "ID402",
-      "ID550"
-    ],
-    "category": "動物と干支",
-    "publishedDate": "2025-06-17"
-  },
-  {
-    "slug": "saru-no-aru-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-with-monkey",
-    "title": "猿 (猴) を使った賢い中国語のイディオム8選",
-    "description": "猿をフィーチャーした遊び心のある中国語のイディオム - 賢さ、いたずら、そして素早い思考を表現します。",
-    "metaDescription": "猿 (猴) を使った賢い中国語のイディオム8選を学びましょう。これらの遊び心のある成語は、北京語でいたずらと機転の良さを表現しています。",
-    "keywords": [
-      "猿を使った中国語のイディオム",
-      "猿の成語",
-      "猴 idioms",
-      "中国の猿のことわざ",
-      "猿の年のイディオム",
-      "孫悟空のイディオム"
-    ],
-    "intro": "中国語のイディオムにおける猿は、伝説的な孫悟空のように、賢さ、敏捷性、そして時にはいたずらを表します。これらの表現は、素早い思考と機転を称賛しています。",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID074",
-      "ID108",
-      "ID131",
-      "ID175",
-      "ID271",
-      "ID375"
-    ],
-    "category": "動物と干支",
-    "publishedDate": "2025-06-18"
-  },
-  {
-    "slug": "nezumi-no-aru-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-with-rat-mouse",
-    "title": "ネズミ (鼠) を使った中国語のイディオム8選",
-    "description": "ネズミをフィーチャーした狡猾な中国語のイディオム - 機転、用心深さ、そして生存本能について。",
-    "metaDescription": "ネズミ (鼠) を使った中国語のイディオム8選を探求しましょう。これらの狡猾な成語は、北京語で機転と用心深さを表現しています。",
-    "keywords": [
-      "ネズミを使った中国語のイディオム",
-      "ネズミの成語",
-      "鼠 idioms",
-      "中国のネズミのことわざ",
-      "ネズミの年のイディオム"
-    ],
-    "intro": "干支の最初の動物であるネズミは、機転と生存を表します。イディオムでは、ネズミはしばしば狡猾な行動、心の狭さ、またはどこでも繁栄する能力を象徴しています。",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID079",
-      "ID131",
-      "ID135",
-      "ID271",
-      "ID377",
-      "ID550"
-    ],
-    "category": "動物と干支",
-    "publishedDate": "2025-06-19"
-  },
-  {
-    "slug": "tsuki-ni-tsuite-no-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-about-moon",
-    "title": "月 (月) についての輝かしい中国語のイディオム10選",
-    "description": "月についての詩的な中国語のイディオム - 再会、美しさ、そして時の流れを象徴しています。",
-    "metaDescription": "月についての中国語のイディオム10選を見つめましょう。これらの輝かしい成語は、北京語で月の光と再会と美しさを結びつけています。",
-    "keywords": [
-      "月の中国語のイディオム",
-      "月の中国語のフレーズ",
-      "yue chengyu",
-      "中国の月光の表現",
-      "北京語の月のイディオム",
-      "中秋の名月のイディオム"
-    ],
-    "intro": "月は中国文化において特別な意味を持ちます - それは再会、完全性、そして自然の美しさを象徴しています。これらのイディオムは、月の光を使って人生についての時代を超越した真実を照らします。",
-    "idiomIds": [
-      "ID023",
-      "ID055",
-      "ID084",
-      "ID088",
-      "ID089",
-      "ID097",
-      "ID104",
-      "ID114",
-      "ID120",
-      "ID177"
-    ],
-    "category": "自然",
-    "publishedDate": "2025-06-20"
-  },
-  {
     "slug": "ame-ni-tsuite-no-chuugokugo-no-ijimu",
     "originalSlug": "chinese-idioms-about-rain",
     "title": "雨 (雨) についての中国語のイディオム10選",
@@ -5410,61 +4919,6 @@
     ],
     "category": "自然",
     "publishedDate": "2025-06-24"
-  },
-  {
-    "slug": "natsu-ni-tsuite-no-chuugokugo-no-ijisamu",
-    "originalSlug": "chinese-idioms-about-summer",
-    "title": "夏と暑さについての8つの焼け付くような中国語のイディオム",
-    "description": "夏、焼け付くような暑さ、そして季節を乗り切ることについての熱い中国語のイディオム - 最も暖かい月々の季節の知恵。",
-    "metaDescription": "夏についての8つの中国語のイディオムで暑さをしのぎましょう。これらの焼け付くような成語は、北京語で最も暑い季節を表現しています。",
-    "keywords": [
-      "chinese idioms summer",
-      "heat chinese phrases",
-      "chengyu about summer",
-      "chinese hot weather expressions",
-      "mandarin summer idioms",
-      "chinese season sayings"
-    ],
-    "intro": "中国語のイディオムにおける夏は、焼け付くような暑さ、繁栄する生命、そして季節の激しさを呼び起こします。これらの表現は、最も暖かい月々の課題と活気に満ちたエネルギーの両方を捉えています。",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID380",
-      "ID460",
-      "ID544"
-    ],
-    "category": "自然",
-    "publishedDate": "2025-06-25"
-  },
-  {
-    "slug": "jerashi-to-netami-ni-tsuite-no-chuugokugo-no-ijisamu",
-    "originalSlug": "chinese-idioms-about-jealousy",
-    "title": "嫉妬と羨望についての8つの中国語のイディオム",
-    "description": "嫉妬、羨望、そして貪欲の破壊的な力についての緑色の目の中国語のイディオム。",
-    "metaDescription": "羨望についての8つの中国語のイディオムを通して嫉妬を理解しましょう。これらの成語は、北京語で緑色の目の怪物について説明しています。",
-    "keywords": [
-      "chinese idioms jealousy",
-      "envy chinese phrases",
-      "chengyu for jealous",
-      "chinese covet expressions",
-      "mandarin jealousy idioms"
-    ],
-    "intro": "嫉妬と羨望は普遍的な人間の感情であり、中国語のイディオムは、穏やかな称賛から破壊的な執着まで、その多くの色合いを捉えています。これらの表現は、比較の危険性について警告しています。",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID227",
-      "ID356",
-      "ID504",
-      "ID570"
-    ],
-    "category": "感情",
-    "publishedDate": "2025-06-26"
   },
   {
     "slug": "kodoku-to-soritudo-ni-tsuite-no-chuugokugo-no-ijisamu",
@@ -5637,92 +5091,6 @@
     ],
     "category": "感情",
     "publishedDate": "2025-07-02"
-  },
-  {
-    "slug": "shitsuren-kanren-chuugokugo-seigo",
-    "originalSlug": "chinese-idioms-about-heartbreak",
-    "title": "失恋に関する中国語成語10選：心の痛みを癒す",
-    "description": "失恋、別れ、そして失われた愛の痛みを表現する、心に響く中国語の成語。",
-    "metaDescription": "失恋と失われた愛に関する10個の中国語成語で心を癒しましょう。これらの痛切な成語は、ロマンチックな痛みを中国語で表現します。",
-    "keywords": [
-      "中国語 成語 失恋",
-      "別れ 中国語 フレーズ",
-      "失恋 成語",
-      "中国語 失恋 表現",
-      "中国語 失恋 成句",
-      "中国語 別れ 言葉"
-    ],
-    "intro": "失恋は、最も痛切な中国の詩や成語にインスピレーションを与えてきました。これらの表現は、失われた愛の苦しみ、別れの痛み、そして癒しの遅いプロセスを捉えています。",
-    "idiomIds": [
-      "ID029",
-      "ID055",
-      "ID160",
-      "ID183",
-      "ID188",
-      "ID227",
-      "ID382",
-      "ID385",
-      "ID574",
-      "ID600"
-    ],
-    "category": "感情",
-    "publishedDate": "2025-07-03"
-  },
-  {
-    "slug": "batsu-ga-warui-chuugokugo-seigo",
-    "originalSlug": "chinese-idioms-about-embarrassment",
-    "title": "恥ずかしさや面子を失うことに関する中国語成語8選",
-    "description": "気まずい中国語の成語。恥ずかしさ、面子を失うこと、そして私たちが経験する気まずい瞬間について。",
-    "metaDescription": "恥ずかしさや面子を失うことに関する8つの中国語成語で、気まずい瞬間を乗り越えましょう。",
-    "keywords": [
-      "中国語 成語 恥ずかしさ",
-      "面子を失う 中国語",
-      "気まずい 成語",
-      "中国の面子文化 表現",
-      "中国語 恥ずかしさ 成句",
-      "面子 中国語 成語"
-    ],
-    "intro": "面子（面子、miàn zi）は中国の社会文化の中心です。これらの成語は、恥ずかしさ、気まずさ、そして文化的に重要な面子を失うという概念を説明しています。中国の社会状況をナビゲートするすべての人に関連しています。",
-    "idiomIds": [
-      "ID030",
-      "ID062",
-      "ID072",
-      "ID098",
-      "ID125",
-      "ID152",
-      "ID261",
-      "ID539"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-07-04"
-  },
-  {
-    "slug": "hitomebore-chuugokugo-seigo",
-    "originalSlug": "chinese-idioms-about-love-at-first-sight",
-    "title": "一目惚れに関する中国語成語8選",
-    "description": "一瞬の魅力、一目で恋に落ちること、そして運命的な出会いに関するロマンチックな中国語の成語。",
-    "metaDescription": "一目惚れに関する8つの中国語成語で、すぐに恋に落ちましょう。これらのロマンチックな成語は、中国語での運命的な出会いを表現しています。",
-    "keywords": [
-      "中国語 成語 一目惚れ",
-      "一見鍾情 意味",
-      "一瞬の愛 中国語",
-      "成語 初めての出会い 愛",
-      "中国語 魅力 成句",
-      "中国語 愛 表現 初めての出会い"
-    ],
-    "intro": "一目惚れは普遍的な経験であり、中国語には、2つの魂が一瞬でつながる魔法のような瞬間を表現する美しい方法があります。これらのロマンチックな成語は、最初の愛の稲妻を捉えています。",
-    "idiomIds": [
-      "ID008",
-      "ID056",
-      "ID118",
-      "ID136",
-      "ID151",
-      "ID166",
-      "ID256",
-      "ID286"
-    ],
-    "category": "愛",
-    "publishedDate": "2025-07-05"
   },
   {
     "slug": "unmei-sadame-chuugokugo-seigo",
@@ -5924,7 +5292,7 @@
       "ID040",
       "ID091"
     ],
-    "category": "ウェルネス",
+    "category": "感情",
     "publishedDate": "2025-07-12"
   },
   {
@@ -5953,7 +5321,7 @@
       "ID271",
       "ID329"
     ],
-    "category": "リーダーシップ",
+    "category": "戦略",
     "publishedDate": "2025-07-13"
   },
   {
@@ -5982,7 +5350,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-07-14"
   },
   {
@@ -6012,7 +5380,7 @@
       "ID281",
       "ID539"
     ],
-    "category": "文化",
+    "category": "歴史",
     "publishedDate": "2025-07-15"
   },
   {
@@ -6124,7 +5492,7 @@
       "ID088",
       "ID141"
     ],
-    "category": "異文化",
+    "category": "歴史",
     "publishedDate": "2025-07-19"
   },
   {
@@ -6153,7 +5521,7 @@
       "ID042",
       "ID076"
     ],
-    "category": "異文化",
+    "category": "歴史",
     "publishedDate": "2025-07-20"
   },
   {
@@ -6183,7 +5551,7 @@
       "ID131",
       "ID271"
     ],
-    "category": "ポップカルチャー",
+    "category": "歴史",
     "publishedDate": "2025-07-21"
   },
   {
@@ -6212,7 +5580,7 @@
       "ID133",
       "ID195"
     ],
-    "category": "記述的",
+    "category": "数字",
     "publishedDate": "2025-07-22"
   },
   {
@@ -6270,7 +5638,7 @@
       "ID246",
       "ID252"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-07-24"
   },
   {
@@ -6302,7 +5670,7 @@
       "ID197",
       "ID233"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-07-25"
   },
   {
@@ -6338,34 +5706,6 @@
     "publishedDate": "2025-07-26"
   },
   {
-    "slug": "iro-aka-ni-tsuite-no-engi-no-ii-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-about-color-red",
-    "title": "色「赤」（红）についての縁起の良い中国語のイディオム8選",
-    "description": "中国文化で最も縁起の良い色である赤色を特徴とする、幸運な中国語のイディオム。",
-    "metaDescription": "赤色に関する8つの幸運な中国語のイディオムを発見してください。これらの縁起の良い成語は中国を祝います。",
-    "keywords": [
-      "中国語 イディオム 赤",
-      "赤色 中国語 フレーズ",
-      "红 成語",
-      "中国語 幸運の色 表現",
-      "北京語 赤 イディオム",
-      "中国語 縁起の良い色"
-    ],
-    "intro": "赤（红, hóng）は中国文化で最も縁起の良い色であり、幸運、幸福、繁栄を象徴しています。赤を特徴とするこれらのイディオムは、お祝いの際に特別な意味を持ちます。",
-    "idiomIds": [
-      "ID011",
-      "ID020",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-07-27"
-  },
-  {
     "slug": "kin-okane-ni-tsuite-no-chuugokugo-no-ijimu",
     "originalSlug": "chinese-idioms-about-gold-treasure",
     "title": "金(きん)・お金(かね)についての中国語(ちゅうごくご)のイディオム10選",
@@ -6392,7 +5732,7 @@
       "ID523",
       "ID583"
     ],
-    "category": "文化(ぶんか)",
+    "category": "歴史",
     "publishedDate": "2025-07-28"
   },
   {
@@ -6422,7 +5762,7 @@
       "ID034",
       "ID042"
     ],
-    "category": "学習(がくしゅう)",
+    "category": "学習",
     "publishedDate": "2025-07-29"
   },
   {
@@ -6449,7 +5789,7 @@
       "ID261",
       "ID330"
     ],
-    "category": "性格(せいかく)",
+    "category": "性格",
     "publishedDate": "2025-07-30"
   },
   {
@@ -6476,40 +5816,8 @@
       "ID363",
       "ID374"
     ],
-    "category": "感情(かんじょう)",
+    "category": "感情",
     "publishedDate": "2025-07-31"
-  },
-  {
-    "slug": "chishiki-gakushuu-ni-tsuite-no-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-about-knowledge-learning",
-    "title": "知識(ちしき)と生涯学習(しょうがいがくしゅう)についての12個(こ)の中国語(ちゅうごくご)のイディオム",
-    "description": "知識(ちしき)、知的(ちてき)好奇心(こうきしん)、そして終(お)わりのない学習(がくしゅう)の追求(ついきゅう)を祝(いわ)う学術的(がくじゅつてき)な中国語(ちゅうごくご)のイディオム。",
-    "metaDescription": "知識(ちしき)についての12個(こ)の中国語(ちゅうごくご)のイディオムで学習(がくしゅう)を決(けっ)して止(と)めないでください。これらの学術的(がくじゅつてき)な成語(せいご)は、北京語(ペキンご)で知的(ちてき)な成長(せいちょう)を祝(いわ)います。",
-    "keywords": [
-      "chinese idioms knowledge",
-      "learning chinese phrases",
-      "chengyu for education",
-      "chinese wisdom expressions",
-      "mandarin knowledge idioms",
-      "chinese study sayings"
-    ],
-    "intro": "知識(ちしき)は中国(ちゅうごく)の哲学(てつがく)における無限(むげん)の海(うみ)です。これらのイディオムは、学習(がくしゅう)の喜(よろこ)び、真(しん)に賢(かしこ)い人(ひと)の謙虚(けんきょ)さ、そして教育(きょういく)の変革力(へんかくりょく)を祝(いわ)います。",
-    "idiomIds": [
-      "ID002",
-      "ID003",
-      "ID006",
-      "ID010",
-      "ID016",
-      "ID021",
-      "ID025",
-      "ID028",
-      "ID036",
-      "ID045",
-      "ID073",
-      "ID084"
-    ],
-    "category": "学習(がくしゅう)",
-    "publishedDate": "2025-08-01"
   },
   {
     "slug": "chinago-no-kotowaza-kanryakusa-ni-tsuite",
@@ -6562,7 +5870,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-08-03"
   },
   {
@@ -6589,37 +5897,8 @@
       "ID133",
       "ID195"
     ],
-    "category": "心身",
+    "category": "数字",
     "publishedDate": "2025-08-04"
-  },
-  {
-    "slug": "kaikai-shiki-no-tame-no-chinago-no-kotowaza",
-    "originalSlug": "chinese-idioms-for-opening-ceremony",
-    "title": "グランドオープンと新たな始まりのための10の中国語の成句",
-    "description": "ビジネスの開店、店舗の立ち上げ、そして壮大な始まりのための縁起の良い中国語の成句。",
-    "metaDescription": "幸運と共にスタート！グランドオープンと新たな始まりのための10の中国語の成句。北京語でのビジネスの立ち上げに最適な成語。",
-    "keywords": [
-      "開会式に関する中国語の成句",
-      "新しいビジネスに関する中国語のフレーズ",
-      "立ち上げのための成語",
-      "グランドオープンに関する中国語の表現",
-      "新たな始まりに関する北京語の成句"
-    ],
-    "intro": "新しいビジネスを始めたり、新しい事業を始めたりしますか？これらの縁起の良い成句は、グランドオープン、テープカット、そして立ち上げのお祝いに幸運とポジティブなエネルギーをもたらします。",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID025",
-      "ID060",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID436"
-    ],
-    "category": "機会",
-    "publishedDate": "2025-08-05"
   },
   {
     "slug": "taida-ni-tsuite-no-chinago-no-kotowaza",
@@ -6675,7 +5954,7 @@
       "ID076",
       "ID134"
     ],
-    "category": "文化",
+    "category": "歴史",
     "publishedDate": "2025-08-07"
   },
   {
@@ -6764,7 +6043,7 @@
       "ID301",
       "ID603"
     ],
-    "category": "人生哲学",
+    "category": "哲学",
     "publishedDate": "2025-08-10"
   },
   {
@@ -6792,100 +6071,8 @@
       "ID076",
       "ID154"
     ],
-    "category": "忍耐",
+    "category": "性格",
     "publishedDate": "2025-08-11"
-  },
-  {
-    "slug": "kunan-o-shinobu-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-about-eating-humble-pie",
-    "title": "苦難を忍ぶことについての10の中国語のイディオム（吃苦）",
-    "description": "苦味を味わい、苦難を忍び、中国の吃苦（chī kǔ）の概念についての厳しい中国語のイディオム。",
-    "metaDescription": "10の苦難を忍ぶことについての中国語のイディオムで吃苦を理解する。これらの厳しい成語は、北京語で苦しみを通して回復力を教えます。",
-    "keywords": [
-      "chi ku chinese idiom",
-      "eating bitterness chinese",
-      "endure hardship chengyu",
-      "chinese suffering expressions",
-      "mandarin chi ku meaning",
-      "chinese tough it out idioms"
-    ],
-    "intro": "中国の吃苦（chī kǔ、「苦味を味わう」）の概念は、中国の価値観の中心です。これらのイディオムは、苦難を忍ぶ能力を称賛しており、中国文化で深く賞賛されている資質です。",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID014",
-      "ID026",
-      "ID032",
-      "ID061",
-      "ID092",
-      "ID164",
-      "ID235",
-      "ID246"
-    ],
-    "category": "文化",
-    "publishedDate": "2025-08-12"
-  },
-  {
-    "slug": "kouun-o-inoru-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-for-wishing-good-luck",
-    "title": "誰かの幸運を祈るための12の中国語のイディオム",
-    "description": "試験、就職の面接、競技会、および新しいベンチャーの前に、誰かの幸運を祈るための幸運な中国語のイディオム。",
-    "metaDescription": "12の中国語のイディオムで幸運を祈りましょう！これらの幸運な成語は、北京語での試験、面接、および新しいベンチャーに最適です。",
-    "keywords": [
-      "chinese idioms good luck",
-      "wish luck chinese phrases",
-      "chengyu for blessing",
-      "chinese fortune expressions",
-      "mandarin good luck idioms",
-      "chinese exam wishes"
-    ],
-    "intro": "中国語で誰かの幸運を祈る必要がありますか？彼らが試験、就職の面接に直面しているか、新しいベンチャーを始めているかにかかわらず、これらの幸運なイディオムはあなたの最高の願いを強力に伝えます。",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID021",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "機会",
-    "publishedDate": "2025-08-13"
-  },
-  {
-    "slug": "poseitibu-afumeeshon-chuugokugo-no-ijimu",
-    "originalSlug": "chinese-idioms-positive-affirmations",
-    "title": "毎日の肯定的なアファメーションとしての10の中国語のイディオム",
-    "description": "自信、成長の考え方、および自己信念のために、中国語のイディオムを毎日のアファメーションに変えます。",
-    "metaDescription": "毎日の肯定的なアファメーションとして10の中国語のイディオムで自信を高めます。これらの力を与える成語は、北京語で成長の考え方を構築します。",
-    "keywords": [
-      "chinese idioms affirmations",
-      "positive chinese phrases",
-      "chengyu for confidence",
-      "chinese self belief expressions",
-      "mandarin affirmation idioms",
-      "chinese motivational quotes daily"
-    ],
-    "intro": "古代中国の知恵で毎日を始めましょう。これらのイディオムは、毎日のアファメーションとして完璧に機能します。あなたの可能性、回復力、そして成功につながる成長の考え方を短く、強力に思い出させます。",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID021",
-      "ID026",
-      "ID044",
-      "ID082"
-    ],
-    "category": "自己改善",
-    "publishedDate": "2025-08-14"
   },
   {
     "slug": "kekkon-ni-tsuite-no-chuugokugo-no-ijimu",
@@ -6979,7 +6166,7 @@
       "ID433",
       "ID566"
     ],
-    "category": "ことわざ",
+    "category": "哲学",
     "publishedDate": "2025-08-17"
   },
   {
@@ -7011,7 +6198,7 @@
       "ID514",
       "ID603"
     ],
-    "category": "ことわざ",
+    "category": "哲学",
     "publishedDate": "2025-08-18"
   },
   {
@@ -7041,7 +6228,7 @@
       "ID444",
       "ID627"
     ],
-    "category": "ことわざ",
+    "category": "哲学",
     "publishedDate": "2025-08-19"
   },
   {
@@ -7071,7 +6258,7 @@
       "ID613",
       "ID614"
     ],
-    "category": "ことわざ",
+    "category": "哲学",
     "publishedDate": "2025-08-20"
   },
   {
@@ -7101,7 +6288,7 @@
       "ID582",
       "ID583"
     ],
-    "category": "ことわざ",
+    "category": "哲学",
     "publishedDate": "2025-08-21"
   },
   {
@@ -7131,7 +6318,7 @@
       "ID612",
       "ID602"
     ],
-    "category": "格言",
+    "category": "哲学",
     "publishedDate": "2025-08-22"
   },
   {
@@ -7161,7 +6348,7 @@
       "ID579",
       "ID653"
     ],
-    "category": "格言",
+    "category": "哲学",
     "publishedDate": "2025-08-23"
   },
   {
@@ -7191,7 +6378,7 @@
       "ID599",
       "ID600"
     ],
-    "category": "格言",
+    "category": "哲学",
     "publishedDate": "2025-08-24"
   },
   {
@@ -7221,7 +6408,7 @@
       "ID469",
       "ID390"
     ],
-    "category": "格言",
+    "category": "哲学",
     "publishedDate": "2025-08-25"
   },
   {
@@ -7251,7 +6438,7 @@
       "ID451",
       "ID525"
     ],
-    "category": "格言",
+    "category": "哲学",
     "publishedDate": "2025-08-26"
   },
   {
@@ -7283,7 +6470,7 @@
       "ID514",
       "ID576"
     ],
-    "category": "名言",
+    "category": "哲学",
     "publishedDate": "2025-08-27"
   },
   {
@@ -7318,7 +6505,7 @@
       "ID631",
       "ID655"
     ],
-    "category": "名言",
+    "category": "哲学",
     "publishedDate": "2025-08-28"
   },
   {
@@ -7348,7 +6535,7 @@
       "ID462",
       "ID566"
     ],
-    "category": "名言",
+    "category": "哲学",
     "publishedDate": "2025-08-29"
   },
   {
@@ -7380,7 +6567,7 @@
       "ID468",
       "ID545"
     ],
-    "category": "名言",
+    "category": "哲学",
     "publishedDate": "2025-08-30"
   },
   {
@@ -7410,7 +6597,7 @@
       "ID504",
       "ID631"
     ],
-    "category": "名言",
+    "category": "哲学",
     "publishedDate": "2025-08-31"
   },
   {
@@ -7440,7 +6627,7 @@
       "旧正月 富 フレーズ"
     ],
     "intro": "午年（马年）で最も人気のある挨拶は马上发财（mǎ shàng fā cái）です。马上は「馬の上で」と「すぐに」の両方の意味を持つ巧みな言葉遊びで、「すぐに金持ちになれ！」という意味になります。ここでは、马上发财の願いにぴったりな、富、幸運、成功に関する10の本格的な中国語の成句（成语）をご紹介します。",
-    "category": "旧正月"
+    "category": "Chinese New Year"
   },
   {
     "originalSlug": "chinese-horse-idioms-complete-guide",
@@ -7467,7 +6654,7 @@
       "馬の中国語 成句 2026"
     ],
     "intro": "马到成功（即座の成功）や龙马精神（龍馬の活力）はご存知でしょうが、中国語にはもっと多くの馬の成句があり、魅力的な文化的知恵を明らかにしています。幼なじみの恋（青梅竹马）から政治的欺瞞（指鹿为马）まで、これらの8つの馬の成句は人間の経験のあらゆる範囲をカバーしています。",
-    "category": "旧正月"
+    "category": "Chinese New Year"
   },
   {
     "originalSlug": "spring-festival-prosperity-idioms-2026",
@@ -7496,6 +6683,6 @@
       "旧正月 新しい始まり フレーズ"
     ],
     "intro": "春節（春节）は再生、希望、新しいスタートの時です。2026年の午年を迎えるにあたり、これらの10の成句は新春（新しい春）の精神を捉えています - 喜びの祝いから、繁栄と前向きな変化への願いまで。",
-    "category": "旧正月"
+    "category": "Chinese New Year"
   }
 ]

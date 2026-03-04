@@ -2,10 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Calendar, Filter, ChevronLeft, ChevronRight, Search } from 'lucide-react';
+import { Filter, ChevronLeft, ChevronRight, Search } from 'lucide-react';
 import type { BlogPost } from '@/src/lib/blog';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
-import { LOCALE_MAP } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 const POSTS_PER_PAGE = 24;
@@ -146,10 +145,6 @@ export default function BlogClient({ posts, themes, lang = 'en' }: BlogClientPro
                     <span className="text-3xl font-bold text-gray-900 group-hover:text-red-600 transition-colors">
                       {post.idiom.characters}
                     </span>
-                    <div className="flex items-center text-gray-400 text-xs">
-                      <Calendar className="w-3 h-3 mr-1" />
-                      {new Date(post.date).toLocaleDateString(LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US', { month: 'short', day: 'numeric' })}
-                    </div>
                   </div>
                   
                   <h2 className="text-sm font-semibold text-gray-900 mb-1 line-clamp-2">

@@ -25,7 +25,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "Bisnis",
+    "category": "Strategi",
     "publishedDate": "2025-01-15"
   },
   {
@@ -52,7 +52,7 @@
       "ID027",
       "ID040"
     ],
-    "category": "Cinta & Hubungan",
+    "category": "Hubungan",
     "publishedDate": "2025-01-16"
   },
   {
@@ -81,7 +81,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "Pendidikan",
+    "category": "Pembelajaran",
     "publishedDate": "2025-01-17"
   },
   {
@@ -108,7 +108,7 @@
       "ID080",
       "ID022"
     ],
-    "category": "Persahabatan",
+    "category": "Hubungan",
     "publishedDate": "2025-01-18"
   },
   {
@@ -137,7 +137,7 @@
       "ID020",
       "ID082"
     ],
-    "category": "Kesuksesan",
+    "category": "Strategi",
     "publishedDate": "2025-01-19"
   },
   {
@@ -164,7 +164,7 @@
       "ID006",
       "ID003"
     ],
-    "category": "Kerja Keras",
+    "category": "Karakter",
     "publishedDate": "2025-01-20"
   },
   {
@@ -193,7 +193,7 @@
       "ID022",
       "ID040"
     ],
-    "category": "Filosofi Kehidupan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-01-21"
   },
   {
@@ -222,7 +222,7 @@
       "ID006",
       "ID082"
     ],
-    "category": "Motivasi",
+    "category": "Strategi",
     "publishedDate": "2025-01-22"
   },
   {
@@ -249,7 +249,7 @@
       "ID007",
       "ID014"
     ],
-    "category": "Kesabaran",
+    "category": "Karakter",
     "publishedDate": "2025-01-23"
   },
   {
@@ -276,7 +276,7 @@
       "ID033",
       "ID034"
     ],
-    "category": "Kerja Tim",
+    "category": "Strategi",
     "publishedDate": "2025-01-24"
   },
   {
@@ -303,7 +303,7 @@
       "ID036",
       "ID033"
     ],
-    "category": "Perubahan & Pertumbuhan",
+    "category": "Karakter",
     "publishedDate": "2025-01-25"
   },
   {
@@ -332,7 +332,7 @@
       "ID014",
       "ID036"
     ],
-    "category": "Komunikasi",
+    "category": "Angka",
     "publishedDate": "2025-01-26"
   },
   {
@@ -359,7 +359,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "Keberanian",
+    "category": "Karakter",
     "publishedDate": "2025-01-27"
   },
   {
@@ -419,7 +419,7 @@
       "ID001",
       "ID007"
     ],
-    "category": "Inspirasi",
+    "category": "Strategi",
     "publishedDate": "2025-01-29"
   },
   {
@@ -447,7 +447,7 @@
       "ID056",
       "ID080"
     ],
-    "category": "Hiburan",
+    "category": "Budaya",
     "publishedDate": "2025-01-30"
   },
   {
@@ -481,7 +481,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "Perayaan",
+    "category": "Acara",
     "publishedDate": "2025-01-31"
   },
   {
@@ -509,7 +509,7 @@
       "ID025",
       "ID026"
     ],
-    "category": "Perayaan",
+    "category": "Acara",
     "publishedDate": "2025-02-01"
   },
   {
@@ -539,7 +539,7 @@
       "ID102",
       "ID118"
     ],
-    "category": "Keluarga",
+    "category": "Hubungan",
     "publishedDate": "2025-02-02"
   },
   {
@@ -567,7 +567,7 @@
       "ID033",
       "ID036"
     ],
-    "category": "Filsafat",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-02-03"
   },
   {
@@ -601,36 +601,6 @@
     "publishedDate": "2025-02-04"
   },
   {
-    "slug": "idiom-cina-untuk-instagram",
-    "originalSlug": "chinese-idioms-for-instagram",
-    "title": "10 Idiom Cina Singkat yang Sempurna untuk Keterangan Instagram",
-    "description": "Idiom Cina yang ringkas dan berdampak, yang menjadikannya keterangan dan bio media sosial yang sempurna.",
-    "metaDescription": "Tingkatkan Instagram Anda dengan 10 idiom Cina ini. Singkat, bermakna, dan mencolok secara visual - sempurna untuk keterangan, bio, dan memamerkan pengetahuan budaya Anda.",
-    "keywords": [
-      "keterangan instagram cina",
-      "keterangan cina untuk foto",
-      "kutipan cina singkat",
-      "frasa cina estetis",
-      "ide bio cina",
-      "chengyu untuk media sosial"
-    ],
-    "intro": "Mencari keterangan bermakna yang menonjol? Idiom Cina ini cukup pendek untuk media sosial tetapi membawa makna yang mendalam. Setiap frasa empat karakter mengemas kebijaksanaan tentang kehidupan, kesuksesan, dan peningkatan diri ke dalam format yang mencolok secara visual.",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID021",
-      "ID026"
-    ],
-    "category": "Media Sosial",
-    "publishedDate": "2025-02-05"
-  },
-  {
     "slug": "idiom-cina-tentang-uang",
     "originalSlug": "chinese-idioms-about-money",
     "title": "8 Idiom Cina Tentang Uang, Kekayaan & Kemakmuran",
@@ -655,7 +625,7 @@
       "ID057",
       "ID087"
     ],
-    "category": "Kekayaan",
+    "category": "Strategi",
     "publishedDate": "2025-02-06"
   },
   {
@@ -689,7 +659,7 @@
       "ID009",
       "ID010"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-03"
   },
   {
@@ -791,7 +761,7 @@
       "ID597",
       "ID603"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-09"
   },
   {
@@ -822,7 +792,7 @@
       "ID514",
       "ID001"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-10"
   },
   {
@@ -856,7 +826,7 @@
       "ID636",
       "ID619"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-11"
   },
   {
@@ -887,7 +857,7 @@
       "ID566",
       "ID040"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-12"
   },
   {
@@ -921,7 +891,7 @@
       "ID076",
       "ID054"
     ],
-    "category": "Tahun Baru Imlek",
+    "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-13"
   },
   {
@@ -961,9 +931,9 @@
   {
     "slug": "ucapan-tahun-baru-cina-untuk-siswa",
     "originalSlug": "chinese-new-year-wishes-for-students",
-    "title": "10 Idiom Cina untuk Mengucapkan Kesuksesan kepada Siswa di Tahun Baru",
+    "title": "9 Idiom Cina untuk Mengucapkan Kesuksesan kepada Siswa di Tahun Baru",
     "description": "Idiom Cina yang memotivasi untuk siswa memasuki tahun baru, sempurna untuk kesuksesan akademis dan harapan belajar.",
-    "metaDescription": "Ucapkan kesuksesan akademis kepada siswa dengan 10 idiom Cina ini. Sempurna untuk berkat Tahun Baru Cina tentang belajar, ujian, dan mencapai impian pendidikan.",
+    "metaDescription": "Ucapkan kesuksesan akademis kepada siswa dengan 9 idiom Cina ini. Sempurna untuk berkat Tahun Baru Cina tentang belajar, ujian, dan mencapai impian pendidikan.",
     "keywords": [
       "ucapan tahun baru cina untuk siswa",
       "idiom kesuksesan akademis",
@@ -1021,40 +991,6 @@
     ],
     "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-16"
-  },
-  {
-    "slug": "idiom-tahun-baru-cina-untuk-kakek-nenek",
-    "originalSlug": "chinese-new-year-idioms-for-grandparents",
-    "title": "10 Idiom Cina Manis untuk Diucapkan kepada Kakek-Nenek di Tahun Baru Cina",
-    "description": "Apa yang harus dikatakan kepada kakek-nenek dalam bahasa Mandarin saat CNY? Idiom-idiom yang tulus ini mengharapkan kesehatan, umur panjang, dan kebahagiaan kepada 爷爷奶奶 atau 外公外婆.",
-    "metaDescription": "Apa yang harus saya katakan kepada kakek-nenek Cina saya saat Tahun Baru? 10 chengyu penuh kasih ini mengungkapkan rasa hormat dan mengharapkan 爷爷奶奶 kesehatan, umur panjang, dan kebahagiaan selama CNY.",
-    "keywords": [
-      "apa yang harus dikatakan kepada kakek-nenek saat tahun baru cina",
-      "ucapan tahun baru cina untuk kakek nenek",
-      "cara mengucapkan selamat kepada kakek-nenek dalam bahasa cina",
-      "给爷爷奶奶拜年说什么",
-      "berkah umur panjang untuk kakek-nenek cina",
-      "frasa cina untuk kerabat lansia",
-      "ucapan cny untuk 外公外婆",
-      "ucapan cina sopan untuk kakek-nenek",
-      "frasa kesalehan anak cina",
-      "harapan kesehatan kakek-nenek mandarin"
-    ],
-    "intro": "Apa yang harus Anda katakan kepada kakek-nenek (爷爷奶奶 atau 外公外婆) saat Tahun Baru Cina? Kakek-nenek memegang tempat khusus dalam budaya keluarga Cina, dan idiom-idiom yang tulus ini mengungkapkan cinta, rasa hormat, dan harapan Anda untuk kesehatan dan kebahagiaan mereka yang berkelanjutan - sempurna untuk membuat Tahun Baru Cina mereka menjadi lebih istimewa.",
-    "idiomIds": [
-      "ID222",
-      "ID262",
-      "ID134",
-      "ID133",
-      "ID303",
-      "ID616",
-      "ID617",
-      "ID566",
-      "ID050",
-      "ID040"
-    ],
-    "category": "Tahun Baru Cina",
-    "publishedDate": "2025-02-17"
   },
   {
     "slug": "idiom-tahun-baru-cina-untuk-bibi-paman",
@@ -1282,7 +1218,7 @@
       "ID032",
       "ID154"
     ],
-    "category": "Ketekunan",
+    "category": "Karakter",
     "publishedDate": "2025-02-24"
   },
   {
@@ -1311,7 +1247,7 @@
       "ID084",
       "ID248"
     ],
-    "category": "Kecantikan & Alam",
+    "category": "Alam",
     "publishedDate": "2025-02-25"
   },
   {
@@ -1377,7 +1313,7 @@
       "ID249",
       "ID233"
     ],
-    "category": "Cerita & Fabel",
+    "category": "Budaya",
     "publishedDate": "2025-02-27"
   },
   {
@@ -1439,15 +1375,15 @@
       "ID074",
       "ID114"
     ],
-    "category": "Populer",
+    "category": "Budaya",
     "publishedDate": "2025-03-01"
   },
   {
     "slug": "idiom-cina-dengan-naga",
     "originalSlug": "chinese-idioms-with-dragon",
-    "title": "8 Idiom Cina Kuat Dengan Naga (龙)",
+    "title": "6 Idiom Cina Kuat Dengan Naga (龙)",
     "description": "Temukan idiom Cina yang menampilkan naga (龙), simbol kekuatan, keberuntungan, dan otoritas kekaisaran dalam budaya Cina.",
-    "metaDescription": "Pelajari 8 idiom Cina kuat dengan naga (龙). Chengyu ini mewakili kekuatan, kesuksesan, dan keberuntungan - cocok untuk Tahun Baru Imlek dan perayaan.",
+    "metaDescription": "Pelajari 6 idiom Cina kuat dengan naga (龙). Chengyu ini mewakili kekuatan, kesuksesan, dan keberuntungan - cocok untuk Tahun Baru Imlek dan perayaan.",
     "keywords": [
       "idiom cina dengan naga",
       "chengyu naga",
@@ -1464,15 +1400,15 @@
       "ID375",
       "ID431"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-01"
   },
   {
     "slug": "idiom-cina-dengan-harimau",
     "originalSlug": "chinese-idioms-with-tiger",
-    "title": "10 Idiom Cina Ganas Dengan Harimau (虎)",
+    "title": "9 Idiom Cina Ganas Dengan Harimau (虎)",
     "description": "Jelajahi idiom Cina yang kuat yang menampilkan harimau (虎), yang mewakili keberanian, kekuatan, dan otoritas.",
-    "metaDescription": "Temukan 10 idiom Cina ganas dengan harimau (虎). Pelajari chengyu tentang keberanian, kekuatan, dan otoritas - penting untuk Tahun Harimau.",
+    "metaDescription": "Temukan 9 idiom Cina ganas dengan harimau (虎). Pelajari chengyu tentang keberanian, kekuatan, dan otoritas - penting untuk Tahun Harimau.",
     "keywords": [
       "idiom cina dengan harimau",
       "chengyu harimau",
@@ -1492,7 +1428,7 @@
       "ID377",
       "ID550"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-02"
   },
   {
@@ -1524,15 +1460,15 @@
       "ID274",
       "ID278"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-03"
   },
   {
     "slug": "idiom-cina-dengan-ular",
     "originalSlug": "chinese-idioms-with-snake",
-    "title": "6 Idiom Cina Cerdas Dengan Ular (蛇)",
+    "title": "3 Idiom Cina Cerdas Dengan Ular (蛇)",
     "description": "Pelajari idiom Cina yang menampilkan ular (蛇), yang mewakili kebijaksanaan, kehati-hatian, dan bahaya tersembunyi.",
-    "metaDescription": "Jelajahi 6 idiom Cina cerdas dengan ular (蛇). Chengyu ini mengajarkan kebijaksanaan tentang kehati-hatian, bahaya tersembunyi, dan pemikiran strategis.",
+    "metaDescription": "Jelajahi 3 idiom Cina cerdas dengan ular (蛇). Chengyu ini mengajarkan kebijaksanaan tentang kehati-hatian, bahaya tersembunyi, dan pemikiran strategis.",
     "keywords": [
       "idiom cina dengan ular",
       "chengyu ular",
@@ -1546,15 +1482,15 @@
       "ID135",
       "ID377"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-04"
   },
   {
     "slug": "idiom-bahasa-cina-dengan-lembu",
     "originalSlug": "chinese-idioms-with-ox",
-    "title": "8 Idiom Bahasa Cina yang Kuat dengan Lembu (牛)",
+    "title": "5 Idiom Bahasa Cina yang Kuat dengan Lembu (牛)",
     "description": "Temukan idiom bahasa Cina yang menampilkan lembu (牛), melambangkan kerja keras, kekuatan, dan tekad.",
-    "metaDescription": "Pelajari 8 idiom bahasa Cina yang kuat dengan lembu (牛). Chengyu ini merayakan kerja keras, ketekunan, dan kekuatan yang tenang.",
+    "metaDescription": "Pelajari 5 idiom bahasa Cina yang kuat dengan lembu (牛). Chengyu ini merayakan kerja keras, ketekunan, dan kekuatan yang tenang.",
     "keywords": [
       "idiom bahasa cina dengan lembu",
       "chengyu lembu",
@@ -1570,7 +1506,7 @@
       "ID269",
       "ID383"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-05"
   },
   {
@@ -1604,7 +1540,7 @@
       "ID403",
       "ID409"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-02-06"
   },
   {
@@ -1633,7 +1569,7 @@
       "ID336",
       "ID395"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-02-07"
   },
   {
@@ -1661,7 +1597,7 @@
       "ID482",
       "ID515"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-02-08"
   },
   {
@@ -1848,9 +1784,9 @@
   {
     "slug": "idiom-cina-tentang-api",
     "originalSlug": "chinese-idioms-about-fire",
-    "title": "10 Idiom Cina Berapi-api Tentang Api (火)",
+    "title": "9 Idiom Cina Berapi-api Tentang Api (火)",
     "description": "Temukan idiom Cina yang menampilkan api (火), mewakili semangat, urgensi, dan transformasi.",
-    "metaDescription": "Kuasai 10 idiom Cina tentang api (火). Pelajari chengyu tentang semangat, kemarahan, urgensi, dan kekuatan transformatif api.",
+    "metaDescription": "Kuasai 9 idiom Cina tentang api (火). Pelajari chengyu tentang semangat, kemarahan, urgensi, dan kekuatan transformatif api.",
     "keywords": [
       "idiom cina tentang api",
       "chengyu api",
@@ -1876,9 +1812,9 @@
   {
     "slug": "idiom-cina-tentang-langit-surga",
     "originalSlug": "chinese-idioms-about-sky-heaven",
-    "title": "12 Idiom Cina Tentang Langit & Surga (天)",
+    "title": "11 Idiom Cina Tentang Langit & Surga (天)",
     "description": "Pelajari idiom Cina yang menampilkan langit/surga (天), mewakili yang ilahi, takdir, dan kemungkinan tak terbatas.",
-    "metaDescription": "Temukan 12 idiom Cina tentang langit dan surga (天). Chengyu ini mengeksplorasi takdir, ketentuan ilahi, dan potensi tak terbatas.",
+    "metaDescription": "Temukan 11 idiom Cina tentang langit dan surga (天). Chengyu ini mengeksplorasi takdir, ketentuan ilahi, dan potensi tak terbatas.",
     "keywords": [
       "idiom cina tentang langit",
       "chengyu surga",
@@ -1904,33 +1840,11 @@
     "publishedDate": "2025-02-16"
   },
   {
-    "slug": "idiom-cina-untuk-tahun-baru",
-    "originalSlug": "chinese-idioms-for-new-year",
-    "title": "15 Idiom Cina Menguntungkan untuk Ucapan Tahun Baru",
-    "description": "Kuasai idiom Cina terbaik untuk salam, berkah, dan perayaan Tahun Baru.",
-    "metaDescription": "Pelajari 15 idiom Cina menguntungkan untuk Tahun Baru. Chengyu yang sempurna untuk salam CNY, amplop merah, dan ucapan liburan.",
-    "keywords": [
-      "idiom tahun baru cina",
-      "chengyu salam cny",
-      "frasa tahun baru imlek",
-      "ucapan tahun baru cina",
-      "idiom festival musim semi"
-    ],
-    "intro": "Tahun Baru Imlek adalah waktu yang tepat untuk menggunakan idiom yang menguntungkan (吉祥成语). Ungkapan-ungkapan ini membawa keberuntungan, kemakmuran, dan kebahagiaan - ideal untuk salam dan pesan amplop merah.",
-    "idiomIds": [
-      "ID154",
-      "ID307",
-      "ID436"
-    ],
-    "category": "Acara",
-    "publishedDate": "2025-02-17"
-  },
-  {
     "slug": "idiom-cina-untuk-pernikahan",
     "originalSlug": "chinese-idioms-for-weddings",
-    "title": "10 Idiom Cina Romantis untuk Pernikahan",
+    "title": "7 Idiom Cina Romantis untuk Pernikahan",
     "description": "Idiom Cina yang indah sempurna untuk ucapan pernikahan, toast, dan merayakan cinta.",
-    "metaDescription": "Temukan 10 idiom Cina romantis untuk pernikahan. Chengyu yang sempurna untuk ucapan pernikahan, undangan, dan merayakan cinta abadi.",
+    "metaDescription": "Temukan 7 idiom Cina romantis untuk pernikahan. Chengyu yang sempurna untuk ucapan pernikahan, undangan, dan merayakan cinta abadi.",
     "keywords": [
       "idiom pernikahan cina",
       "chengyu pernikahan",
@@ -1983,9 +1897,9 @@
   {
     "slug": "idiom-cina-dengan-ayam-jantan",
     "originalSlug": "chinese-idioms-with-rooster",
-    "title": "8 Idiom Cina yang Berani dengan Ayam Jantan (鸡)",
+    "title": "5 Idiom Cina yang Berani dengan Ayam Jantan (鸡)",
     "description": "Jelajahi idiom Cina yang menampilkan ayam jantan (鸡), yang mewakili ketepatan waktu, keberanian, dan kewaspadaan.",
-    "metaDescription": "Pelajari 8 idiom Cina yang berani dengan ayam jantan (鸡). Chengyu ini merayakan kewaspadaan, keberanian, dan fajar permulaan baru.",
+    "metaDescription": "Pelajari 5 idiom Cina yang berani dengan ayam jantan (鸡). Chengyu ini merayakan kewaspadaan, keberanian, dan fajar permulaan baru.",
     "keywords": [
       "idiom cina dengan ayam jantan",
       "chengyu ayam jantan",
@@ -2001,15 +1915,15 @@
       "ID347",
       "ID402"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-21"
   },
   {
     "slug": "idiom-cina-dengan-burung",
     "originalSlug": "chinese-idioms-with-bird",
-    "title": "10 Idiom Cina yang Melambung Tinggi dengan Burung (鸟)",
+    "title": "7 Idiom Cina yang Melambung Tinggi dengan Burung (鸟)",
     "description": "Jelajahi idiom Cina yang menampilkan burung (鸟), yang mewakili kebebasan, aspirasi, dan keindahan alam.",
-    "metaDescription": "Pelajari 10 idiom Cina yang melambung tinggi dengan burung (鸟). Chengyu ini merayakan kebebasan, aspirasi tinggi, dan keindahan alam.",
+    "metaDescription": "Pelajari 7 idiom Cina yang melambung tinggi dengan burung (鸟). Chengyu ini merayakan kebebasan, aspirasi tinggi, dan keindahan alam.",
     "keywords": [
       "idiom cina dengan burung",
       "chengyu burung",
@@ -2027,15 +1941,15 @@
       "ID222",
       "ID527"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-27"
   },
   {
     "slug": "idiom-cina-dengan-ikan",
     "originalSlug": "chinese-idioms-with-fish",
-    "title": "8 Idiom Cina yang Berlimpah dengan Ikan (鱼)",
+    "title": "4 Idiom Cina yang Berlimpah dengan Ikan (鱼)",
     "description": "Temukan idiom Cina yang menampilkan ikan (鱼), yang melambangkan kelimpahan, kemakmuran, dan keberuntungan.",
-    "metaDescription": "Pelajari 8 idiom Cina yang berlimpah dengan ikan (鱼). Chengyu ini membawa keberuntungan dan kemakmuran - penting untuk perayaan Tahun Baru Cina.",
+    "metaDescription": "Pelajari 4 idiom Cina yang berlimpah dengan ikan (鱼). Chengyu ini membawa keberuntungan dan kemakmuran - penting untuk perayaan Tahun Baru Cina.",
     "keywords": [
       "idiom cina dengan ikan",
       "chengyu ikan",
@@ -2050,7 +1964,7 @@
       "ID286",
       "ID341"
     ],
-    "category": "Hewan & Zodiak",
+    "category": "Alam",
     "publishedDate": "2025-02-28"
   },
   {
@@ -2362,9 +2276,9 @@
   {
     "slug": "idiom-cina-untuk-bayi-baru-lahir",
     "originalSlug": "chinese-idioms-for-new-baby",
-    "title": "8 Idiom Cina Gembira untuk Ucapan Selamat Bayi Baru Lahir",
+    "title": "7 Idiom Cina Gembira untuk Ucapan Selamat Bayi Baru Lahir",
     "description": "Idiom Cina yang menghangatkan hati untuk memberi selamat kepada orang tua baru dan memberkati bayi yang baru lahir.",
-    "metaDescription": "Pelajari 8 idiom Cina gembira untuk ucapan selamat bayi baru lahir. Chengyu yang sempurna untuk memberkati bayi baru lahir dan merayakan orang tua baru.",
+    "metaDescription": "Pelajari 7 idiom Cina gembira untuk ucapan selamat bayi baru lahir. Chengyu yang sempurna untuk memberkati bayi baru lahir dan merayakan orang tua baru.",
     "keywords": [
       "idiom bayi baru lahir cina",
       "chengyu ucapan selamat bayi",
@@ -2465,40 +2379,11 @@
     "publishedDate": "2025-03-15"
   },
   {
-    "slug": "idiom-cina-tentang-kemarahan",
-    "originalSlug": "chinese-idioms-about-anger",
-    "title": "10 Idiom Cina Tentang Kemarahan & Kehilangan Kesabaran",
-    "description": "Idiom Cina ekspresif tentang kemarahan, amarah, dan kehilangan kesabaran.",
-    "metaDescription": "Pelajari 10 idiom Cina tentang kemarahan dan amarah. Chengyu ini menggambarkan dengan jelas kemarahan, kehilangan kesabaran, dan ledakan emosi dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina tentang kemarahan",
-      "frasa marah cina",
-      "chengyu untuk amarah",
-      "ungkapan temperamen cina",
-      "idiom kemarahan mandarin"
-    ],
-    "intro": "Idiom Cina menawarkan cara yang jelas dan puitis untuk menggambarkan kemarahan dan ledakan emosi. Dari api yang keluar dari kepala seseorang hingga guntur dan kilat, ungkapan-ungkapan ini menangkap intensitas amarah manusia.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID357",
-      "ID380",
-      "ID460",
-      "ID544",
-      "ID569"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-03-16"
-  },
-  {
     "slug": "idiom-cina-tentang-kebahagiaan",
     "originalSlug": "chinese-idioms-about-happiness",
-    "title": "10 Idiom Cina Gembira Tentang Kebahagiaan & Kegembiraan",
+    "title": "9 Idiom Cina Gembira Tentang Kebahagiaan & Kegembiraan",
     "description": "Idiom Cina yang indah yang mengungkapkan kebahagiaan, kegembiraan, dan kepuasan - temukan bagaimana budaya Cina merayakan emosi positif.",
-    "metaDescription": "Temukan 10 idiom Cina gembira tentang kebahagiaan dan kegembiraan. Chengyu ini mengungkapkan kegembiraan, kepuasan, dan emosi positif dalam bahasa Mandarin.",
+    "metaDescription": "Temukan 9 idiom Cina gembira tentang kebahagiaan dan kegembiraan. Chengyu ini mengungkapkan kegembiraan, kepuasan, dan emosi positif dalam bahasa Mandarin.",
     "keywords": [
       "idiom cina tentang kebahagiaan",
       "frasa bahagia cina",
@@ -2852,7 +2737,7 @@
       "ID177",
       "ID298"
     ],
-    "category": "Kebijaksanaan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-03-29"
   },
   {
@@ -2935,7 +2820,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "Kesehatan",
+    "category": "Emosi",
     "publishedDate": "2025-04-01"
   },
   {
@@ -2964,7 +2849,7 @@
       "ID010",
       "ID016"
     ],
-    "category": "Pendidikan",
+    "category": "Pembelajaran",
     "publishedDate": "2025-04-02"
   },
   {
@@ -2993,7 +2878,7 @@
       "ID603",
       "ID118"
     ],
-    "category": "Cinta & Hubungan",
+    "category": "Hubungan",
     "publishedDate": "2025-04-03"
   },
   {
@@ -3022,7 +2907,7 @@
       "ID300",
       "ID315"
     ],
-    "category": "Keluarga",
+    "category": "Hubungan",
     "publishedDate": "2025-04-04"
   },
   {
@@ -3107,7 +2992,7 @@
       "ID260",
       "ID236"
     ],
-    "category": "Filsafat Hidup",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-04-07"
   },
   {
@@ -3174,60 +3059,6 @@
     ],
     "category": "Pembelajaran",
     "publishedDate": "2025-04-09"
-  },
-  {
-    "slug": "idiom-cina-dengan-kelinci",
-    "originalSlug": "chinese-idioms-with-rabbit",
-    "title": "8 Idiom Cina Dengan Kelinci (兔)",
-    "description": "Idiom Cina yang menampilkan kelinci - ekspresi tentang kecerdikan, kehati-hatian, dan hasil yang tak terduga.",
-    "metaDescription": "Pelajari 8 idiom Cina yang menampilkan kelinci. Chengyu ini menggunakan citra kelinci untuk mengekspresikan kecerdikan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina kelinci",
-      "frasa cina kelinci",
-      "chengyu dengan kelinci",
-      "ekspresi kelinci cina",
-      "idiom tahun kelinci"
-    ],
-    "intro": "Kelinci dalam idiom Cina sering kali mewakili kecerdikan, kehati-hatian, dan hal tak terduga. Ekspresi ini diambil dari reputasi kelinci yang cerdas dan selalu memiliki rencana pelarian.",
-    "idiomIds": [
-      "ID074",
-      "ID247",
-      "ID031",
-      "ID035",
-      "ID082",
-      "ID182",
-      "ID236",
-      "ID399"
-    ],
-    "category": "Hewan",
-    "publishedDate": "2025-04-10"
-  },
-  {
-    "slug": "idiom-cina-dengan-domba",
-    "originalSlug": "chinese-idioms-with-sheep",
-    "title": "8 Idiom Cina Dengan Domba & Kambing (羊)",
-    "description": "Idiom Cina yang menampilkan domba dan kambing - ekspresi tentang kelembutan, penggembalaan, dan belajar dari kesalahan.",
-    "metaDescription": "Temukan 8 idiom Cina dengan domba dan kambing. Chengyu ini mengekspresikan kelembutan dan kebijaksanaan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina domba",
-      "frasa cina kambing",
-      "chengyu dengan domba",
-      "ekspresi domba cina",
-      "idiom tahun domba"
-    ],
-    "intro": "Domba dan kambing muncul dalam idiom Cina yang mewakili kelembutan, mengikuti kelompok, dan yang terpenting, belajar dari kesalahan. Ungkapan terkenal \"menambal pena setelah kehilangan domba\" mengajarkan kebijaksanaan abadi.",
-    "idiomIds": [
-      "ID138",
-      "ID082",
-      "ID043",
-      "ID091",
-      "ID161",
-      "ID075",
-      "ID088",
-      "ID109"
-    ],
-    "category": "Hewan",
-    "publishedDate": "2025-04-11"
   },
   {
     "slug": "idiom-cina-tentang-kerendahan-hati",
@@ -3429,7 +3260,7 @@
       "ID156",
       "ID168"
     ],
-    "category": "Kesuksesan & Ketekunan",
+    "category": "Strategi",
     "publishedDate": "2025-04-18"
   },
   {
@@ -3458,7 +3289,7 @@
       "ID199",
       "ID288"
     ],
-    "category": "Karir",
+    "category": "Strategi",
     "publishedDate": "2025-04-19"
   },
   {
@@ -3487,7 +3318,7 @@
       "ID228",
       "ID229"
     ],
-    "category": "Kepemimpinan",
+    "category": "Strategi",
     "publishedDate": "2025-04-20"
   },
   {
@@ -3514,7 +3345,7 @@
       "ID539",
       "ID560"
     ],
-    "category": "Tempat Kerja",
+    "category": "Strategi",
     "publishedDate": "2025-04-21"
   },
   {
@@ -3543,7 +3374,7 @@
       "ID277",
       "ID288"
     ],
-    "category": "Tempat Kerja",
+    "category": "Strategi",
     "publishedDate": "2025-04-22"
   },
   {
@@ -3694,7 +3525,7 @@
       "ID229",
       "ID232"
     ],
-    "category": "Persaingan",
+    "category": "Strategi",
     "publishedDate": "2025-04-27"
   },
   {
@@ -3752,7 +3583,7 @@
       "ID273",
       "ID306"
     ],
-    "category": "Pengembangan Diri",
+    "category": "Karakter",
     "publishedDate": "2025-04-29"
   },
   {
@@ -3781,7 +3612,7 @@
       "ID277",
       "ID280"
     ],
-    "category": "Pengembangan Diri",
+    "category": "Karakter",
     "publishedDate": "2025-04-30"
   },
   {
@@ -3810,7 +3641,7 @@
       "ID292",
       "ID297"
     ],
-    "category": "Ketahanan",
+    "category": "Karakter",
     "publishedDate": "2025-05-01"
   },
   {
@@ -3924,7 +3755,7 @@
       "ID523",
       "ID583"
     ],
-    "category": "Keuangan",
+    "category": "Strategi",
     "publishedDate": "2025-05-05"
   },
   {
@@ -3951,7 +3782,7 @@
       "ID532",
       "ID537"
     ],
-    "category": "Keuangan",
+    "category": "Strategi",
     "publishedDate": "2025-05-06"
   },
   {
@@ -3984,35 +3815,6 @@
     "publishedDate": "2025-05-07"
   },
   {
-    "slug": "idiom-cina-tentang-berbicara-kata-kata",
-    "originalSlug": "chinese-idioms-about-speaking-words",
-    "title": "10 Idiom Cina Tentang Berbicara & Kekuatan Kata-kata",
-    "description": "Idiom Cina yang fasih tentang ucapan, komunikasi, dan kekuatan besar yang dimiliki kata-kata dalam membentuk realitas.",
-    "metaDescription": "Kuasai komunikasi dengan 10 idiom Cina tentang berbicara dan kata-kata. Chengyu ini mengungkapkan kekuatan bahasa dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina berbicara",
-      "kata-kata frasa cina",
-      "chengyu untuk komunikasi",
-      "ungkapan kefasihan cina",
-      "idiom ucapan mandarin"
-    ],
-    "intro": "Kata-kata memiliki kekuatan besar dalam budaya Cina - untuk membangun atau menghancurkan, untuk menyembuhkan atau melukai. Idiom ini mengeksplorasi seni berbicara dengan baik, mengetahui kapan harus diam, dan dampak abadi dari apa yang kita katakan.",
-    "idiomIds": [
-      "ID061",
-      "ID069",
-      "ID078",
-      "ID132",
-      "ID146",
-      "ID149",
-      "ID178",
-      "ID213",
-      "ID226",
-      "ID280"
-    ],
-    "category": "Komunikasi",
-    "publishedDate": "2025-05-08"
-  },
-  {
     "slug": "idiom-cina-dalam-film-drama-cina",
     "originalSlug": "chinese-idioms-in-movies-cdrama",
     "title": "12 Idiom Cina yang Sering Anda Dengar di Setiap C-Drama & Film",
@@ -4041,7 +3843,7 @@
       "ID141",
       "ID271"
     ],
-    "category": "Budaya Populer",
+    "category": "Budaya",
     "publishedDate": "2025-05-09"
   },
   {
@@ -4071,7 +3873,7 @@
       "ID082",
       "ID141"
     ],
-    "category": "Media Sosial",
+    "category": "Budaya",
     "publishedDate": "2025-05-10"
   },
   {
@@ -4101,7 +3903,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "Karir",
+    "category": "Strategi",
     "publishedDate": "2025-05-11"
   },
   {
@@ -4129,7 +3931,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "Profesional",
+    "category": "Strategi",
     "publishedDate": "2025-05-12"
   },
   {
@@ -4159,7 +3961,7 @@
       "ID267",
       "ID525"
     ],
-    "category": "Modern",
+    "category": "Budaya",
     "publishedDate": "2025-05-13"
   },
   {
@@ -4188,43 +3990,8 @@
       "ID154",
       "ID267"
     ],
-    "category": "Peningkatan Diri",
+    "category": "Karakter",
     "publishedDate": "2025-05-14"
-  },
-  {
-    "slug": "idiom-cina-untuk-percakapan-sehari-hari",
-    "originalSlug": "chinese-idioms-for-daily-conversation",
-    "title": "15 Idiom Cina yang Digunakan dalam Percakapan Sehari-hari",
-    "description": "Idiom Cina paling praktis yang benar-benar digunakan oleh penutur asli dalam percakapan sehari-hari - kuasai ini untuk Mandarin yang lancar.",
-    "metaDescription": "Terdengar seperti penutur asli dengan 15 idiom Cina ini untuk percakapan sehari-hari. Ini adalah chengyu yang benar-benar digunakan oleh penutur bahasa Cina setiap hari dalam kehidupan nyata.",
-    "keywords": [
-      "idiom cina percakapan sehari-hari",
-      "frasa cina sehari-hari",
-      "chengyu umum diucapkan",
-      "idiom cina praktis",
-      "chengyu penutur asli",
-      "ekspresi cina kehidupan nyata"
-    ],
-    "intro": "Lupakan idiom sastra yang langka - ini adalah chengyu yang benar-benar digunakan oleh penutur bahasa Cina dalam percakapan sehari-hari. Kuasai 15 ekspresi ini dan Anda akan terdengar jauh lebih alami dalam bahasa Mandarin sehari-hari.",
-    "idiomIds": [
-      "ID001",
-      "ID004",
-      "ID008",
-      "ID009",
-      "ID010",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID034",
-      "ID042",
-      "ID053",
-      "ID074",
-      "ID076",
-      "ID141"
-    ],
-    "category": "Pembelajaran",
-    "publishedDate": "2025-05-15"
   },
   {
     "slug": "idiom-cina-tentang-kreativitas",
@@ -4252,7 +4019,7 @@
       "ID395",
       "ID525"
     ],
-    "category": "Kreativitas",
+    "category": "Budaya",
     "publishedDate": "2025-05-16"
   },
   {
@@ -4279,7 +4046,7 @@
       "ID400",
       "ID485"
     ],
-    "category": "Filsafat",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-05-17"
   },
   {
@@ -4336,7 +4103,7 @@
       "ID209",
       "ID259"
     ],
-    "category": "Komunikasi",
+    "category": "Angka",
     "publishedDate": "2025-05-19"
   },
   {
@@ -4547,7 +4314,7 @@
       "ID106",
       "ID119"
     ],
-    "category": "Karir",
+    "category": "Strategi",
     "publishedDate": "2025-05-26"
   },
   {
@@ -4575,7 +4342,7 @@
       "ID422",
       "ID577"
     ],
-    "category": "Komunikasi",
+    "category": "Angka",
     "publishedDate": "2025-05-27"
   },
   {
@@ -4605,7 +4372,7 @@
       "ID286",
       "ID420"
     ],
-    "category": "Cinta",
+    "category": "Hubungan",
     "publishedDate": "2025-05-28"
   },
   {
@@ -4632,7 +4399,7 @@
       "ID601",
       "ID603"
     ],
-    "category": "Cinta",
+    "category": "Hubungan",
     "publishedDate": "2025-05-29"
   },
   {
@@ -4662,7 +4429,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "Profesi",
+    "category": "Strategi",
     "publishedDate": "2025-05-30"
   },
   {
@@ -4692,7 +4459,7 @@
       "ID077",
       "ID154"
     ],
-    "category": "Karir",
+    "category": "Strategi",
     "publishedDate": "2025-05-31"
   },
   {
@@ -4722,38 +4489,8 @@
       "ID501",
       "ID593"
     ],
-    "category": "Profesi",
+    "category": "Strategi",
     "publishedDate": "2025-06-01"
-  },
-  {
-    "slug": "idiom-cina-untuk-atlet",
-    "originalSlug": "chinese-idioms-for-athletes",
-    "title": "10 Idiom Cina untuk Atlet & Olahraga",
-    "description": "Idiom Cina kompetitif tentang pencapaian atletik, sportivitas, dan mendorong batasan fisik.",
-    "metaDescription": "Bakar semangat atletik Anda dengan 10 idiom Cina untuk olahraga. Chengyu ini menginspirasi kompetisi, ketahanan, dan kemenangan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina atlet",
-      "frasa olahraga cina",
-      "chengyu untuk kompetisi",
-      "ungkapan atletik cina",
-      "idiom olahraga mandarin",
-      "pepatah kebugaran cina"
-    ],
-    "intro": "Baik Anda berlatih untuk Olimpiade atau menjalankan 5K pertama Anda, idiom Cina ini menangkap semangat keunggulan atletik - mulai dari mendorong melampaui batas hingga kemuliaan kemenangan.",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID017",
-      "ID026",
-      "ID032",
-      "ID063",
-      "ID082",
-      "ID096",
-      "ID119",
-      "ID168"
-    ],
-    "category": "Profesi",
-    "publishedDate": "2025-06-02"
   },
   {
     "slug": "idiom-cina-untuk-penulis",
@@ -4782,7 +4519,7 @@
       "ID213",
       "ID280"
     ],
-    "category": "Profesi",
+    "category": "Strategi",
     "publishedDate": "2025-06-03"
   },
   {
@@ -4818,92 +4555,6 @@
     "publishedDate": "2025-06-04"
   },
   {
-    "slug": "idiom-cina-tentang-budaya-teh",
-    "originalSlug": "chinese-idioms-about-tea-culture",
-    "title": "8 Idiom Cina Tentang Teh & Budaya Teh",
-    "description": "Idiom Cina yang elegan tentang teh, upacara minum teh, dan tradisi filosofis budaya teh Cina.",
-    "metaDescription": "Jelajahi 8 idiom Cina tentang teh dan budaya teh. Chengyu elegan ini menghubungkan tradisi teh dengan kebijaksanaan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina teh",
-      "frasa budaya teh cina",
-      "chengyu tentang teh",
-      "ungkapan upacara teh cina",
-      "idiom teh mandarin",
-      "kebijaksanaan teh cina"
-    ],
-    "intro": "Teh lebih dari sekadar minuman dalam budaya Cina - ini adalah filosofi. Idiom-idiom ini menghubungkan seni kuno teh dengan kebenaran yang lebih dalam tentang kehidupan, persahabatan, dan kesadaran.",
-    "idiomIds": [
-      "ID007",
-      "ID015",
-      "ID018",
-      "ID023",
-      "ID024",
-      "ID040",
-      "ID091",
-      "ID173"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-06-05"
-  },
-  {
-    "slug": "idiom-cina-tentang-minum-anggur",
-    "originalSlug": "chinese-idioms-about-drinking-wine",
-    "title": "10 Idiom Cina Tentang Minum & Anggur (酒)",
-    "description": "Idiom Cina yang bersemangat tentang minum, budaya anggur, dan peran alkohol dalam tradisi sosial Cina.",
-    "metaDescription": "Angkat gelas dengan 10 idiom Cina tentang minum dan anggur. Chengyu bersemangat ini mengeksplorasi budaya alkohol Cina dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina minum",
-      "frasa anggur cina",
-      "chengyu tentang alkohol",
-      "ungkapan budaya minum cina",
-      "idiom anggur mandarin",
-      "ungkapan jiu cina"
-    ],
-    "intro": "Anggur dan alkohol telah memainkan peran penting dalam budaya sosial Cina selama ribuan tahun. Idiom-idiom ini mengeksplorasi kegembiraan minum, seni bersulang, dan kebijaksanaan mengetahui batasan Anda.",
-    "idiomIds": [
-      "ID019",
-      "ID023",
-      "ID027",
-      "ID031",
-      "ID035",
-      "ID070",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID460"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-06-06"
-  },
-  {
-    "slug": "idiom-cina-tentang-musik",
-    "originalSlug": "chinese-idioms-about-music",
-    "title": "8 Idiom Cina Merdu Tentang Musik & Suara",
-    "description": "Idiom Cina yang harmonis tentang musik, suara, dan hubungan mendalam antara melodi dan emosi manusia.",
-    "metaDescription": "Dengarkan 8 idiom Cina tentang musik dan suara. Chengyu harmonis ini menghubungkan melodi dengan emosi dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina musik",
-      "frasa suara cina",
-      "chengyu tentang melodi",
-      "ungkapan musik cina",
-      "idiom musik mandarin",
-      "ungkapan harmoni cina"
-    ],
-    "intro": "Musik telah menjadi pusat budaya Cina sejak zaman kuno - Konfusius sendiri adalah seorang musisi yang ulung. Idiom-idiom ini menggunakan citra musik untuk mengekspresikan harmoni, perselisihan, dan kekuatan suara.",
-    "idiomIds": [
-      "ID001",
-      "ID027",
-      "ID031",
-      "ID033",
-      "ID034",
-      "ID040",
-      "ID200",
-      "ID303"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-06-07"
-  },
-  {
     "slug": "idiom-cina-tentang-mimpi",
     "originalSlug": "chinese-idioms-about-dreams",
     "title": "10 Idiom Cina Tentang Mimpi & Aspirasi",
@@ -4930,7 +4581,7 @@
       "ID175",
       "ID197"
     ],
-    "category": "Filosofi",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-06-08"
   },
   {
@@ -4992,7 +4643,7 @@
       "ID291",
       "ID329"
     ],
-    "category": "Sejarah",
+    "category": "Budaya",
     "publishedDate": "2025-06-10"
   },
   {
@@ -5022,7 +4673,7 @@
       "ID129",
       "ID141"
     ],
-    "category": "Sejarah",
+    "category": "Budaya",
     "publishedDate": "2025-06-11"
   },
   {
@@ -5052,7 +4703,7 @@
       "ID040",
       "ID076"
     ],
-    "category": "Sejarah",
+    "category": "Budaya",
     "publishedDate": "2025-06-12"
   },
   {
@@ -5082,7 +4733,7 @@
       "ID196",
       "ID341"
     ],
-    "category": "Historical",
+    "category": "Budaya",
     "publishedDate": "2025-06-13"
   },
   {
@@ -5112,7 +4763,7 @@
       "ID271",
       "ID375"
     ],
-    "category": "Historical",
+    "category": "Budaya",
     "publishedDate": "2025-06-14"
   },
   {
@@ -5144,150 +4795,8 @@
       "ID131",
       "ID271"
     ],
-    "category": "Historical",
+    "category": "Budaya",
     "publishedDate": "2025-06-15"
-  },
-  {
-    "slug": "idiom-cina-dengan-anjing",
-    "originalSlug": "chinese-idioms-with-dog",
-    "title": "10 Idiom Cina Dengan Anjing (犬/狗)",
-    "description": "Idiom Cina yang menampilkan anjing - ekspresi tentang kesetiaan, kewaspadaan, dan yang mengejutkan, beberapa konotasi negatif.",
-    "metaDescription": "Pelajari 10 idiom Cina dengan anjing (犬/狗). Chengyu ini berkisar dari teman setia hingga kisah peringatan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina dengan anjing",
-      "anjing chengyu",
-      "狗 idiom",
-      "pepatah anjing cina",
-      "idiom tahun anjing",
-      "quan ekspresi cina"
-    ],
-    "intro": "Anjing dalam idiom Cina memiliki reputasi yang kompleks - mewakili kesetiaan dan, dalam beberapa ekspresi, kualitas negatif. Idiom-idiom ini menunjukkan berbagai citra anjing dalam budaya Cina.",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID059",
-      "ID074",
-      "ID131",
-      "ID135",
-      "ID278",
-      "ID377",
-      "ID402",
-      "ID550"
-    ],
-    "category": "Animals & Zodiac",
-    "publishedDate": "2025-06-16"
-  },
-  {
-    "slug": "idiom-cina-dengan-babi",
-    "originalSlug": "chinese-idioms-with-pig",
-    "title": "8 Idiom Cina Dengan Babi (猪)",
-    "description": "Idiom Cina yang menampilkan babi - dari babi malas hingga babi makmur, temukan babi dalam bahasa Cina.",
-    "metaDescription": "Temukan 8 idiom Cina dengan babi (猪). Chengyu ini menunjukkan bagaimana babi mewakili keberuntungan dan kebodohan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina dengan babi",
-      "babi chengyu",
-      "猪 idiom",
-      "pepatah babi cina",
-      "idiom tahun babi"
-    ],
-    "intro": "Babi dalam budaya Cina melambangkan kekayaan dan keberuntungan (babi adalah hewan zodiak!), tetapi dalam idiom, mereka sering mewakili kemalasan atau kebodohan. Ekspresi ini menunjukkan kedua sisi koin babi.",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID131",
-      "ID200",
-      "ID271",
-      "ID347",
-      "ID402",
-      "ID550"
-    ],
-    "category": "Animals & Zodiac",
-    "publishedDate": "2025-06-17"
-  },
-  {
-    "slug": "idiom-cina-dengan-monyet",
-    "originalSlug": "chinese-idioms-with-monkey",
-    "title": "8 Idiom Cina Cerdas dengan Monyet (猴)",
-    "description": "Idiom Cina lucu yang menampilkan monyet - mengekspresikan kecerdasan, kenakalan, dan pemikiran cepat.",
-    "metaDescription": "Pelajari 8 idiom Cina cerdas dengan monyet (猴). Chengyu lucu ini mengekspresikan kenakalan dan kecerdasan cepat dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina dengan monyet",
-      "monyet chengyu",
-      "猴 idiom",
-      "ungkapan monyet cina",
-      "idiom tahun monyet",
-      "idiom sun wukong"
-    ],
-    "intro": "Monyet dalam idiom Cina mewakili kecerdasan, kelincahan, dan terkadang kenakalan - seperti Raja Kera yang legendaris. Ungkapan-ungkapan ini merayakan pemikiran cepat dan akal.",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID074",
-      "ID108",
-      "ID131",
-      "ID175",
-      "ID271",
-      "ID375"
-    ],
-    "category": "Hewan & Zodiak",
-    "publishedDate": "2025-06-18"
-  },
-  {
-    "slug": "idiom-cina-dengan-tikus",
-    "originalSlug": "chinese-idioms-with-rat-mouse",
-    "title": "8 Idiom Cina dengan Tikus (鼠)",
-    "description": "Idiom Cina licik yang menampilkan tikus - tentang akal, kehati-hatian, dan naluri bertahan hidup.",
-    "metaDescription": "Jelajahi 8 idiom Cina dengan tikus (鼠). Chengyu licik ini mengekspresikan akal dan kehati-hatian dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina dengan tikus",
-      "tikus chengyu",
-      "鼠 idiom",
-      "ungkapan tikus cina",
-      "idiom tahun tikus"
-    ],
-    "intro": "Sebagai hewan pertama dalam zodiak Cina, tikus melambangkan akal dan kelangsungan hidup. Dalam idiom, tikus sering melambangkan perilaku licik, berpikiran sempit, atau kemampuan untuk berkembang di mana saja.",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID079",
-      "ID131",
-      "ID135",
-      "ID271",
-      "ID377",
-      "ID550"
-    ],
-    "category": "Hewan & Zodiak",
-    "publishedDate": "2025-06-19"
-  },
-  {
-    "slug": "idiom-cina-tentang-bulan",
-    "originalSlug": "chinese-idioms-about-moon",
-    "title": "10 Idiom Cina Bercahaya Tentang Bulan (月)",
-    "description": "Idiom Cina puitis tentang bulan - melambangkan reuni, keindahan, dan berlalunya waktu.",
-    "metaDescription": "Perhatikan 10 idiom Cina tentang bulan. Chengyu bercahaya ini menghubungkan cahaya bulan dengan reuni dan keindahan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina bulan",
-      "frasa cina bulan",
-      "yue chengyu",
-      "ungkapan cahaya bulan cina",
-      "idiom bulan mandarin",
-      "idiom bulan pertengahan musim gugur"
-    ],
-    "intro": "Bulan memiliki makna khusus dalam budaya Cina - melambangkan reuni, kelengkapan, dan keindahan alam. Idiom-idiom ini menggunakan cahaya bulan untuk menerangi kebenaran abadi tentang kehidupan.",
-    "idiomIds": [
-      "ID023",
-      "ID055",
-      "ID084",
-      "ID088",
-      "ID089",
-      "ID097",
-      "ID104",
-      "ID114",
-      "ID120",
-      "ID177"
-    ],
-    "category": "Alam",
-    "publishedDate": "2025-06-20"
   },
   {
     "slug": "idiom-cina-tentang-hujan",
@@ -5410,61 +4919,6 @@
     ],
     "category": "Alam",
     "publishedDate": "2025-06-24"
-  },
-  {
-    "slug": "idiom-cina-tentang-musim-panas",
-    "originalSlug": "chinese-idioms-about-summer",
-    "title": "8 Idiom Cina Membara Tentang Musim Panas & Panas",
-    "description": "Idiom Cina panas tentang musim panas, panas terik, dan bertahan hidup di musim ini - kebijaksanaan musiman untuk bulan-bulan terpanas.",
-    "metaDescription": "Kalahkan panasnya dengan 8 idiom Cina tentang musim panas. Chengyu yang membara ini menggambarkan musim terpanas dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina musim panas",
-      "frasa panas cina",
-      "chengyu tentang musim panas",
-      "ungkapan cuaca panas cina",
-      "idiom musim panas mandarin",
-      "pepatah musim cina"
-    ],
-    "intro": "Musim panas dalam idiom Cina membangkitkan panas terik, kehidupan yang berkembang, dan intensitas musim. Ungkapan-ungkapan ini menangkap baik tantangan maupun energi yang hidup dari bulan-bulan terpanas.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID380",
-      "ID460",
-      "ID544"
-    ],
-    "category": "Alam",
-    "publishedDate": "2025-06-25"
-  },
-  {
-    "slug": "idiom-cina-tentang-kecemburuan",
-    "originalSlug": "chinese-idioms-about-jealousy",
-    "title": "8 Idiom Cina Tentang Kecemburuan & Iri Hati",
-    "description": "Idiom Cina bermata hijau tentang kecemburuan, iri hati, dan kekuatan destruktif dari ketamakan.",
-    "metaDescription": "Pahami kecemburuan melalui 8 idiom Cina tentang iri hati. Chengyu ini menggambarkan monster bermata hijau dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina kecemburuan",
-      "frasa iri hati cina",
-      "chengyu untuk cemburu",
-      "ungkapan ketamakan cina",
-      "idiom kecemburuan mandarin"
-    ],
-    "intro": "Kecemburuan dan iri hati adalah emosi manusia universal, dan idiom Cina menangkap banyak nuansa mereka - dari kekaguman ringan hingga obsesi destruktif. Ungkapan-ungkapan ini memperingatkan tentang bahaya perbandingan.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID227",
-      "ID356",
-      "ID504",
-      "ID570"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-06-26"
   },
   {
     "slug": "idiom-cina-tentang-kesepian",
@@ -5639,92 +5093,6 @@
     "publishedDate": "2025-07-02"
   },
   {
-    "slug": "idiom-cina-tentang-patah-hati",
-    "originalSlug": "chinese-idioms-about-heartbreak",
-    "title": "10 Idiom Cina Tentang Patah Hati & Cinta yang Hilang",
-    "description": "Idiom Cina yang pedih tentang patah hati, putus cinta, dan sakitnya cinta yang hilang.",
-    "metaDescription": "Sembuhkan hatimu dengan 10 idiom Cina tentang patah hati dan cinta yang hilang. Chengyu yang pedih ini mengungkapkan sakit hati romantis dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina patah hati",
-      "frasa putus cinta cina",
-      "chengyu untuk patah hati",
-      "ungkapan cinta hilang cina",
-      "idiom patah hati mandarin",
-      "ungkapan putus cina"
-    ],
-    "intro": "Patah hati telah menginspirasi beberapa puisi dan idiom Cina yang paling pedih. Ungkapan-ungkapan ini menangkap penderitaan cinta yang hilang, sakitnya perpisahan, dan proses penyembuhan yang lambat.",
-    "idiomIds": [
-      "ID029",
-      "ID055",
-      "ID160",
-      "ID183",
-      "ID188",
-      "ID227",
-      "ID382",
-      "ID385",
-      "ID574",
-      "ID600"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-07-03"
-  },
-  {
-    "slug": "idiom-cina-tentang-rasa-malu",
-    "originalSlug": "chinese-idioms-about-embarrassment",
-    "title": "8 Idiom Cina Tentang Rasa Malu & Kehilangan Muka",
-    "description": "Idiom Cina yang canggung tentang rasa malu, kehilangan muka, dan momen-momen memalukan yang kita semua alami.",
-    "metaDescription": "Pelajari cara mengatasi rasa malu dengan 8 idiom Cina tentang rasa malu dan kehilangan muka. Chengyu ini membantu Anda menavigasi situasi sosial yang canggung dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina rasa malu",
-      "kehilangan muka cina",
-      "chengyu untuk canggung",
-      "ungkapan budaya muka cina",
-      "idiom rasa malu mandarin",
-      "idiom mianzi cina"
-    ],
-    "intro": "Muka (面子, miàn zi) adalah inti dari budaya sosial Tiongkok. Idiom-idiom ini menggambarkan rasa malu, kecanggungan, dan konsep kehilangan muka yang signifikan secara budaya - relevan bagi siapa pun yang menavigasi situasi sosial Tiongkok.",
-    "idiomIds": [
-      "ID030",
-      "ID062",
-      "ID072",
-      "ID098",
-      "ID125",
-      "ID152",
-      "ID261",
-      "ID539"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-07-04"
-  },
-  {
-    "slug": "idiom-cina-tentang-cinta-pada-pandangan-pertama",
-    "originalSlug": "chinese-idioms-about-love-at-first-sight",
-    "title": "8 Idiom Cina Tentang Cinta Pada Pandangan Pertama",
-    "description": "Idiom Cina romantis tentang ketertarikan instan, jatuh cinta pada pandangan pertama, dan pertemuan pertama yang menentukan.",
-    "metaDescription": "Jatuh cinta secara instan dengan 8 idiom Cina tentang cinta pada pandangan pertama. Chengyu romantis ini menggambarkan pertemuan pertama yang menentukan dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina cinta pada pandangan pertama",
-      "arti yi jian zhong qing",
-      "cinta instan cina",
-      "chengyu pertemuan pertama cinta",
-      "idiom ketertarikan cina",
-      "ungkapan cinta cina pandangan pertama"
-    ],
-    "intro": "Cinta pada pandangan pertama adalah pengalaman universal, dan bahasa Cina memiliki cara yang indah untuk menggambarkan momen ajaib ketika dua jiwa terhubung secara instan. Idiom romantis ini menangkap kilatan cinta pertama.",
-    "idiomIds": [
-      "ID008",
-      "ID056",
-      "ID118",
-      "ID136",
-      "ID151",
-      "ID166",
-      "ID256",
-      "ID286"
-    ],
-    "category": "Cinta",
-    "publishedDate": "2025-07-05"
-  },
-  {
     "slug": "idiom-cina-tentang-takdir",
     "originalSlug": "chinese-idioms-about-fate-destiny",
     "title": "10 Idiom Cina Tentang Takdir",
@@ -5751,7 +5119,7 @@
       "ID197",
       "ID400"
     ],
-    "category": "Filsafat",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-07-06"
   },
   {
@@ -5780,7 +5148,7 @@
       "ID152",
       "ID271"
     ],
-    "category": "Filsafat",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-07-07"
   },
   {
@@ -5810,7 +5178,7 @@
       "ID303",
       "ID304"
     ],
-    "category": "Filosofi",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-07-08"
   },
   {
@@ -5839,7 +5207,7 @@
       "ID207",
       "ID209"
     ],
-    "category": "Filosofi",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-07-09"
   },
   {
@@ -5866,7 +5234,7 @@
       "ID129",
       "ID184"
     ],
-    "category": "Filosofi",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-07-10"
   },
   {
@@ -5924,7 +5292,7 @@
       "ID040",
       "ID091"
     ],
-    "category": "Kesehatan",
+    "category": "Emosi",
     "publishedDate": "2025-07-12"
   },
   {
@@ -5953,7 +5321,7 @@
       "ID271",
       "ID329"
     ],
-    "category": "Kepemimpinan",
+    "category": "Strategi",
     "publishedDate": "2025-07-13"
   },
   {
@@ -5982,7 +5350,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-07-14"
   },
   {
@@ -6124,7 +5492,7 @@
       "ID088",
       "ID141"
     ],
-    "category": "Lintas Budaya",
+    "category": "Budaya",
     "publishedDate": "2025-07-19"
   },
   {
@@ -6153,7 +5521,7 @@
       "ID042",
       "ID076"
     ],
-    "category": "Lintas Budaya",
+    "category": "Budaya",
     "publishedDate": "2025-07-20"
   },
   {
@@ -6183,7 +5551,7 @@
       "ID131",
       "ID271"
     ],
-    "category": "Budaya Pop",
+    "category": "Budaya",
     "publishedDate": "2025-07-21"
   },
   {
@@ -6212,7 +5580,7 @@
       "ID133",
       "ID195"
     ],
-    "category": "Deskriptif",
+    "category": "Angka",
     "publishedDate": "2025-07-22"
   },
   {
@@ -6338,34 +5706,6 @@
     "publishedDate": "2025-07-26"
   },
   {
-    "slug": "idiom-cina-tentang-warna-merah",
-    "originalSlug": "chinese-idioms-about-color-red",
-    "title": "8 Idiom Cina Keberuntungan Tentang Warna Merah (红)",
-    "description": "Idiom Cina keberuntungan yang menampilkan warna merah - warna paling menguntungkan dalam budaya Cina.",
-    "metaDescription": "Temukan 8 idiom Cina keberuntungan tentang warna merah. Chengyu keberuntungan ini merayakan Cina",
-    "keywords": [
-      "idiom cina merah",
-      "frasa warna merah cina",
-      "hong chengyu",
-      "ungkapan warna keberuntungan cina",
-      "idiom merah mandarin",
-      "warna keberuntungan cina"
-    ],
-    "intro": "Merah (红, hóng) adalah warna paling menguntungkan dalam budaya Cina, melambangkan keberuntungan, kebahagiaan, dan kemakmuran. Idiom-idiom yang menampilkan warna merah ini membawa makna tambahan selama perayaan.",
-    "idiomIds": [
-      "ID011",
-      "ID020",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-07-27"
-  },
-  {
     "slug": "idiom-cina-tentang-emas-harta",
     "originalSlug": "chinese-idioms-about-gold-treasure",
     "title": "10 Idiom Cina Tentang Emas & Harta (金)",
@@ -6480,38 +5820,6 @@
     "publishedDate": "2025-07-31"
   },
   {
-    "slug": "idiom-cina-tentang-pengetahuan-pembelajaran",
-    "originalSlug": "chinese-idioms-about-knowledge-learning",
-    "title": "12 Idiom Cina Tentang Pengetahuan & Pembelajaran Seumur Hidup",
-    "description": "Idiom Cina ilmiah yang merayakan pengetahuan, keingintahuan intelektual, dan pengejaran pembelajaran yang tak pernah berakhir.",
-    "metaDescription": "Jangan pernah berhenti belajar dengan 12 idiom Cina tentang pengetahuan. Chengyu ilmiah ini merayakan pertumbuhan intelektual dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina pengetahuan",
-      "frasa pembelajaran cina",
-      "chengyu untuk pendidikan",
-      "ungkapan kebijaksanaan cina",
-      "idiom pengetahuan mandarin",
-      "ungkapan belajar cina"
-    ],
-    "intro": "Pengetahuan adalah lautan tak terbatas dalam filosofi Cina. Idiom-idiom ini merayakan kegembiraan belajar, kerendahan hati orang bijak sejati, dan kekuatan transformatif pendidikan.",
-    "idiomIds": [
-      "ID002",
-      "ID003",
-      "ID006",
-      "ID010",
-      "ID016",
-      "ID021",
-      "ID025",
-      "ID028",
-      "ID036",
-      "ID045",
-      "ID073",
-      "ID084"
-    ],
-    "category": "Pembelajaran",
-    "publishedDate": "2025-08-01"
-  },
-  {
     "slug": "idiom-cina-tentang-kesederhanaan",
     "originalSlug": "chinese-idioms-about-simplicity",
     "title": "8 Idiom Cina Tentang Kesederhanaan & Minimalisme",
@@ -6535,7 +5843,7 @@
       "ID040",
       "ID076"
     ],
-    "category": "Filosofi",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-02"
   },
   {
@@ -6562,7 +5870,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-08-03"
   },
   {
@@ -6589,37 +5897,8 @@
       "ID133",
       "ID195"
     ],
-    "category": "Tubuh & Pikiran",
+    "category": "Angka",
     "publishedDate": "2025-08-04"
-  },
-  {
-    "slug": "idiom-cina-untuk-upacara-pembukaan",
-    "originalSlug": "chinese-idioms-for-opening-ceremony",
-    "title": "10 Idiom Cina untuk Pembukaan Besar & Awal Baru",
-    "description": "Idiom Cina yang membawa keberuntungan untuk pembukaan bisnis, peluncuran toko, dan permulaan yang agung.",
-    "metaDescription": "Luncurkan dengan keberuntungan! 10 Idiom Cina untuk pembukaan besar dan awal baru. Chengyu yang sempurna untuk peluncuran bisnis dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina upacara pembukaan",
-      "frasa bisnis baru cina",
-      "chengyu untuk peluncuran",
-      "ungkapan pembukaan besar cina",
-      "idiom awal baru mandarin"
-    ],
-    "intro": "Membuka bisnis baru atau memulai usaha baru? Idiom-idiom yang membawa keberuntungan ini membawa keberuntungan dan energi positif untuk pembukaan besar, pemotongan pita, dan perayaan peluncuran.",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID025",
-      "ID060",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID436"
-    ],
-    "category": "Acara",
-    "publishedDate": "2025-08-05"
   },
   {
     "slug": "idiom-cina-tentang-kemalasan",
@@ -6764,7 +6043,7 @@
       "ID301",
       "ID603"
     ],
-    "category": "Filsafat Hidup",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-10"
   },
   {
@@ -6792,100 +6071,8 @@
       "ID076",
       "ID154"
     ],
-    "category": "Ketekunan",
+    "category": "Karakter",
     "publishedDate": "2025-08-11"
-  },
-  {
-    "slug": "idiom-cina-tentang-makan-kue-rendah-hati",
-    "originalSlug": "chinese-idioms-about-eating-humble-pie",
-    "title": "10 Idiom Cina Tentang Menanggung Kesulitan (吃苦)",
-    "description": "Idiom Cina yang sulit tentang memakan kepahitan, menanggung kesulitan, dan konsep Cina tentang 吃苦 (chī kǔ).",
-    "metaDescription": "Pahami 吃苦 dengan 10 idiom Cina tentang menanggung kesulitan. Chengyu yang sulit ini mengajarkan ketahanan melalui penderitaan dalam bahasa Mandarin.",
-    "keywords": [
-      "chi ku idiom cina",
-      "memakan kepahitan cina",
-      "menanggung kesulitan chengyu",
-      "ekspresi penderitaan cina",
-      "arti chi ku mandarin",
-      "idiom cina bertahan"
-    ],
-    "intro": "Konsep Cina tentang 吃苦 (chī kǔ, \"memakan kepahitan\") adalah inti dari nilai-nilai Cina. Idiom-idiom ini merayakan kemampuan untuk menanggung kesulitan, kualitas yang sangat dikagumi dalam budaya Cina.",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID014",
-      "ID026",
-      "ID032",
-      "ID061",
-      "ID092",
-      "ID164",
-      "ID235",
-      "ID246"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-08-12"
-  },
-  {
-    "slug": "idiom-cina-untuk-mendoakan-keberuntungan",
-    "originalSlug": "chinese-idioms-for-wishing-good-luck",
-    "title": "12 Idiom Cina untuk Mendoakan Seseorang Keberuntungan",
-    "description": "Idiom Cina keberuntungan untuk mendoakan seseorang keberuntungan sebelum ujian, wawancara kerja, kompetisi, dan usaha baru.",
-    "metaDescription": "Doakan keberuntungan dengan 12 idiom Cina! Chengyu keberuntungan ini sangat cocok untuk ujian, wawancara, dan usaha baru dalam bahasa Mandarin.",
-    "keywords": [
-      "idiom cina keberuntungan",
-      "frasa cina mendoakan keberuntungan",
-      "chengyu untuk berkat",
-      "ekspresi keberuntungan cina",
-      "idiom keberuntungan mandarin",
-      "ucapan selamat ujian cina"
-    ],
-    "intro": "Perlu mendoakan seseorang keberuntungan dalam bahasa Cina? Apakah mereka menghadapi ujian, wawancara kerja, atau memulai usaha baru, idiom keberuntungan ini menyampaikan harapan terbaik Anda dengan kuat.",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID021",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "Acara",
-    "publishedDate": "2025-08-13"
-  },
-  {
-    "slug": "idiom-cina-afirmasi-positif",
-    "originalSlug": "chinese-idioms-positive-affirmations",
-    "title": "10 Idiom Cina sebagai Afirmasi Positif Harian",
-    "description": "Ubah idiom Cina menjadi afirmasi harian untuk kepercayaan diri, pola pikir pertumbuhan, dan kepercayaan diri.",
-    "metaDescription": "Tingkatkan kepercayaan diri dengan 10 idiom Cina sebagai afirmasi harian. Chengyu yang memberdayakan ini membangun pola pikir pertumbuhan dalam bahasa Mandarin.",
-    "keywords": [
-      "afirmasi idiom cina",
-      "frasa positif cina",
-      "chengyu untuk kepercayaan diri",
-      "ekspresi kepercayaan diri cina",
-      "idiom afirmasi mandarin",
-      "kutipan motivasi harian cina"
-    ],
-    "intro": "Mulailah setiap hari dengan kebijaksanaan Cina kuno. Idiom-idiom ini berfungsi sempurna sebagai afirmasi harian - pengingat singkat dan kuat tentang potensi, ketahanan, dan pola pikir pertumbuhan Anda yang mengarah pada kesuksesan.",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID021",
-      "ID026",
-      "ID044",
-      "ID082"
-    ],
-    "category": "Pengembangan Diri",
-    "publishedDate": "2025-08-14"
   },
   {
     "slug": "idiom-cina-tentang-pernikahan",
@@ -6979,7 +6166,7 @@
       "ID433",
       "ID566"
     ],
-    "category": "Peribahasa",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-17"
   },
   {
@@ -7011,7 +6198,7 @@
       "ID514",
       "ID603"
     ],
-    "category": "Peribahasa",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-18"
   },
   {
@@ -7041,7 +6228,7 @@
       "ID444",
       "ID627"
     ],
-    "category": "Peribahasa",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-19"
   },
   {
@@ -7071,7 +6258,7 @@
       "ID613",
       "ID614"
     ],
-    "category": "Peribahasa",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-20"
   },
   {
@@ -7101,7 +6288,7 @@
       "ID582",
       "ID583"
     ],
-    "category": "Peribahasa",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-21"
   },
   {
@@ -7131,7 +6318,7 @@
       "ID612",
       "ID602"
     ],
-    "category": "Pepatah",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-22"
   },
   {
@@ -7161,7 +6348,7 @@
       "ID579",
       "ID653"
     ],
-    "category": "Pepatah",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-23"
   },
   {
@@ -7191,7 +6378,7 @@
       "ID599",
       "ID600"
     ],
-    "category": "Pepatah",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-24"
   },
   {
@@ -7221,7 +6408,7 @@
       "ID469",
       "ID390"
     ],
-    "category": "Pepatah",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-25"
   },
   {
@@ -7251,7 +6438,7 @@
       "ID451",
       "ID525"
     ],
-    "category": "Pepatah",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-26"
   },
   {
@@ -7283,7 +6470,7 @@
       "ID514",
       "ID576"
     ],
-    "category": "Kutipan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-27"
   },
   {
@@ -7318,7 +6505,7 @@
       "ID631",
       "ID655"
     ],
-    "category": "Kutipan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-28"
   },
   {
@@ -7348,7 +6535,7 @@
       "ID462",
       "ID566"
     ],
-    "category": "Kutipan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-29"
   },
   {
@@ -7380,7 +6567,7 @@
       "ID468",
       "ID545"
     ],
-    "category": "Kutipan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-30"
   },
   {
@@ -7410,7 +6597,7 @@
       "ID504",
       "ID631"
     ],
-    "category": "Kutipan",
+    "category": "Filosofi Hidup",
     "publishedDate": "2025-08-31"
   },
   {

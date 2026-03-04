@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
-import { getAllListicles, getListicleWithIdioms, getLocalizedSlug } from '@/src/lib/listicles';
+import { getAllListicles, getListicleWithIdioms, getLocalizedSlug, getRelatedListicles } from '@/src/lib/listicles';
 import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -65,7 +65,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
     notFound();
   }
 
-  const allListicles = getAllListicles().filter(l => l.slug !== slug).slice(0, 4);
+  const allListicles = getRelatedListicles(slug, 4);
 
   // Structured data for SEO - this is safe static data, not user input
   const structuredData = [

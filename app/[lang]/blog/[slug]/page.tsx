@@ -15,20 +15,12 @@ import '@/app/blog/blog.css';
 // Allow dynamic params for older posts not pre-generated
 export const dynamicParams = true;
 
-// Only pre-generate last 60 days of posts for faster builds
-// Older posts will be generated on-demand with ISR
-const DAYS_TO_PREGENERATE = 60;
-
 export async function generateStaticParams() {
   const params = [];
-  const cutoffDate = new Date();
-  cutoffDate.setDate(cutoffDate.getDate() - DAYS_TO_PREGENERATE);
 
   for (const lang of Object.keys(LANGUAGES)) {
     const posts = await getAllBlogPosts(lang);
-    // Only return recent posts for static generation
-    const recentPosts = posts.filter(post => new Date(post.date) >= cutoffDate);
-    for (const post of recentPosts) {
+    for (const post of posts) {
       params.push({ lang, slug: post.slug });
     }
   }
@@ -80,12 +72,12 @@ export async function generateMetadata({
     .filter(l => l !== lang)
     .map(l => localeMap[l] || 'en_US');
 
-  // SEO title: characters + pinyin + localized meaning word + English translation keyword
+  // SEO title: characters + pinyin + metaphoric meaning — Chinese Idiom
   // Targets: "明鏡止水 意味", "马到成功 英文", "ma dao cheng gong meaning"
-  const title = `${post.idiom.characters} (${pinyinNoTones}) ${meaningWord} - ${post.idiom.metaphoric_meaning} | 英文 English`;
+  const title = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom | ${nativeName}`;
 
-  // Lead with English translation - this is what 英文/意味 searchers want to see in snippet
-  const description = `${post.idiom.characters} (${post.idiom.pinyin}) English: "${post.idiom.metaphoric_meaning}". ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
+  // Lead with a hook question for higher CTR
+  const description = `${post.idiom.characters} (${post.idiom.pinyin}): "${post.idiom.metaphoric_meaning}" — ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
 
   return {
     title,

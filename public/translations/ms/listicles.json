@@ -25,7 +25,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "Perniagaan",
+    "category": "Strategi",
     "publishedDate": "2025-01-15"
   },
   {
@@ -52,7 +52,7 @@
       "ID027",
       "ID040"
     ],
-    "category": "Cinta & Perhubungan",
+    "category": "Perhubungan",
     "publishedDate": "2025-01-16"
   },
   {
@@ -81,7 +81,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "Pendidikan",
+    "category": "Pembelajaran",
     "publishedDate": "2025-01-17"
   },
   {
@@ -108,7 +108,7 @@
       "ID080",
       "ID022"
     ],
-    "category": "Persahabatan",
+    "category": "Perhubungan",
     "publishedDate": "2025-01-18"
   },
   {
@@ -137,7 +137,7 @@
       "ID020",
       "ID082"
     ],
-    "category": "Kejayaan",
+    "category": "Strategi",
     "publishedDate": "2025-01-19"
   },
   {
@@ -164,7 +164,7 @@
       "ID006",
       "ID003"
     ],
-    "category": "Kerja Keras",
+    "category": "Perwatakan",
     "publishedDate": "2025-01-20"
   },
   {
@@ -193,7 +193,7 @@
       "ID022",
       "ID040"
     ],
-    "category": "Falsafah Kehidupan",
+    "category": "Falsafah",
     "publishedDate": "2025-01-21"
   },
   {
@@ -222,7 +222,7 @@
       "ID006",
       "ID082"
     ],
-    "category": "Motivasi",
+    "category": "Strategi",
     "publishedDate": "2025-01-22"
   },
   {
@@ -249,7 +249,7 @@
       "ID007",
       "ID014"
     ],
-    "category": "Kesabaran",
+    "category": "Perwatakan",
     "publishedDate": "2025-01-23"
   },
   {
@@ -276,7 +276,7 @@
       "ID033",
       "ID034"
     ],
-    "category": "Kerja Berpasukan",
+    "category": "Strategi",
     "publishedDate": "2025-01-24"
   },
   {
@@ -303,7 +303,7 @@
       "ID036",
       "ID033"
     ],
-    "category": "Perubahan & Pertumbuhan",
+    "category": "Perwatakan",
     "publishedDate": "2025-01-25"
   },
   {
@@ -332,7 +332,7 @@
       "ID014",
       "ID036"
     ],
-    "category": "Komunikasi",
+    "category": "Nombor",
     "publishedDate": "2025-01-26"
   },
   {
@@ -359,7 +359,7 @@
       "ID009",
       "ID014"
     ],
-    "category": "Keberanian",
+    "category": "Perwatakan",
     "publishedDate": "2025-01-27"
   },
   {
@@ -419,7 +419,7 @@
       "ID001",
       "ID007"
     ],
-    "category": "Inspirasi",
+    "category": "Strategi",
     "publishedDate": "2025-01-29"
   },
   {
@@ -447,7 +447,7 @@
       "ID056",
       "ID080"
     ],
-    "category": "Hiburan",
+    "category": "Sejarah",
     "publishedDate": "2025-01-30"
   },
   {
@@ -481,7 +481,7 @@
       "ID082",
       "ID087"
     ],
-    "category": "Perayaan",
+    "category": "Peristiwa",
     "publishedDate": "2025-01-31"
   },
   {
@@ -509,7 +509,7 @@
       "ID025",
       "ID026"
     ],
-    "category": "Perayaan",
+    "category": "Peristiwa",
     "publishedDate": "2025-02-01"
   },
   {
@@ -539,7 +539,7 @@
       "ID102",
       "ID118"
     ],
-    "category": "Keluarga",
+    "category": "Perhubungan",
     "publishedDate": "2025-02-02"
   },
   {
@@ -601,36 +601,6 @@
     "publishedDate": "2025-02-04"
   },
   {
-    "slug": "simpulan-bahasa-cina-untuk-instagram",
-    "originalSlug": "chinese-idioms-for-instagram",
-    "title": "10 Simpulan Bahasa Cina Pendek Sesuai untuk Kapsyen Instagram",
-    "description": "Simpulan bahasa Cina yang ringkas dan berkesan yang sesuai untuk kapsyen dan bio media sosial.",
-    "metaDescription": "Tingkatkan Instagram anda dengan 10 simpulan bahasa Cina ini. Pendek, bermakna dan menarik secara visual - sesuai untuk kapsyen, bio dan menonjolkan pengetahuan budaya anda.",
-    "keywords": [
-      "kapsyen instagram cina",
-      "kapsyen cina untuk foto",
-      "petikan cina pendek",
-      "frasa cina estetik",
-      "idea bio cina",
-      "chengyu untuk media sosial"
-    ],
-    "intro": "Mencari kapsyen bermakna yang menonjol? Simpulan bahasa Cina ini cukup pendek untuk media sosial tetapi membawa makna yang mendalam. Setiap frasa empat aksara mengandungi kebijaksanaan tentang kehidupan, kejayaan dan peningkatan diri dalam format yang menarik secara visual.",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID021",
-      "ID026"
-    ],
-    "category": "Media Sosial",
-    "publishedDate": "2025-02-05"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-wang",
     "originalSlug": "chinese-idioms-about-money",
     "title": "8 Simpulan Bahasa Cina Tentang Wang, Kekayaan & Kemakmuran",
@@ -655,7 +625,7 @@
       "ID057",
       "ID087"
     ],
-    "category": "Kekayaan",
+    "category": "Strategi",
     "publishedDate": "2025-02-06"
   },
   {
@@ -961,9 +931,9 @@
   {
     "slug": "ucapan-tahun-baru-cina-untuk-pelajar",
     "originalSlug": "chinese-new-year-wishes-for-students",
-    "title": "10 Idiom Cina untuk Mengucapkan Kejayaan kepada Pelajar pada Tahun Baru",
+    "title": "9 Idiom Cina untuk Mengucapkan Kejayaan kepada Pelajar pada Tahun Baru",
     "description": "Idiom Cina yang menggalakkan untuk pelajar memasuki tahun baru, sesuai untuk kejayaan akademik dan ucapan pembelajaran.",
-    "metaDescription": "Ucapkan kejayaan akademik kepada pelajar dengan 10 idiom Cina ini. Sesuai untuk berkat Tahun Baru Cina tentang pembelajaran, peperiksaan, dan mencapai impian pendidikan.",
+    "metaDescription": "Ucapkan kejayaan akademik kepada pelajar dengan 9 idiom Cina ini. Sesuai untuk berkat Tahun Baru Cina tentang pembelajaran, peperiksaan, dan mencapai impian pendidikan.",
     "keywords": [
       "ucapan tahun baru cina pelajar",
       "idiom kejayaan akademik",
@@ -1021,40 +991,6 @@
     ],
     "category": "Tahun Baru Cina",
     "publishedDate": "2025-02-16"
-  },
-  {
-    "slug": "idiom-tahun-baru-cina-untuk-datuk-nenek",
-    "originalSlug": "chinese-new-year-idioms-for-grandparents",
-    "title": "10 Idiom Cina yang Manis untuk Diucapkan kepada Datuk Nenek pada Tahun Baru Cina",
-    "description": "Apa yang perlu dikatakan kepada datuk nenek dalam bahasa Cina pada CNY? Idiom yang menyentuh hati ini mendoakan kesihatan, umur panjang, dan kebahagiaan kepada 爷爷奶奶 atau 外公外婆.",
-    "metaDescription": "Apa yang patut saya katakan kepada datuk nenek Cina saya pada Tahun Baru? 10 chengyu yang penuh kasih sayang ini menyatakan rasa hormat dan mendoakan 爷爷奶奶 kesihatan, umur panjang, dan kebahagiaan semasa CNY.",
-    "keywords": [
-      "apa yang perlu dikatakan kepada datuk nenek tahun baru cina",
-      "ucapan tahun baru cina untuk nenek datuk",
-      "cara mengucapkan selamat kepada datuk nenek dalam bahasa cina",
-      "给爷爷奶奶拜年说什么",
-      "berkat umur panjang datuk nenek cina",
-      "frasa cina untuk saudara yang lebih tua",
-      "ucapan cny untuk 外公外婆",
-      "ucapan cina yang menghormati untuk datuk nenek",
-      "frasa kesolehan berbakti cina",
-      "ucapan kesihatan datuk nenek mandarin"
-    ],
-    "intro": "Apa yang patut anda katakan kepada datuk nenek (爷爷奶奶 atau 外公外婆) pada Tahun Baru Cina? Datuk nenek memegang tempat yang istimewa dalam budaya keluarga Cina, dan idiom yang menyentuh hati ini menyatakan cinta, rasa hormat, dan harapan anda untuk kesihatan dan kebahagiaan mereka yang berterusan - sesuai untuk menjadikan Tahun Baru Cina mereka lebih istimewa.",
-    "idiomIds": [
-      "ID222",
-      "ID262",
-      "ID134",
-      "ID133",
-      "ID303",
-      "ID616",
-      "ID617",
-      "ID566",
-      "ID050",
-      "ID040"
-    ],
-    "category": "Tahun Baru Cina",
-    "publishedDate": "2025-02-17"
   },
   {
     "slug": "idiom-tahun-baru-cina-untuk-makcik-pakcik",
@@ -1282,7 +1218,7 @@
       "ID032",
       "ID154"
     ],
-    "category": "Kegigihan",
+    "category": "Perwatakan",
     "publishedDate": "2025-02-24"
   },
   {
@@ -1311,7 +1247,7 @@
       "ID084",
       "ID248"
     ],
-    "category": "Kecantikan & Alam Semula Jadi",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-25"
   },
   {
@@ -1377,7 +1313,7 @@
       "ID249",
       "ID233"
     ],
-    "category": "Cerita & Dongeng",
+    "category": "Sejarah",
     "publishedDate": "2025-02-27"
   },
   {
@@ -1439,15 +1375,15 @@
       "ID074",
       "ID114"
     ],
-    "category": "Popular",
+    "category": "Sejarah",
     "publishedDate": "2025-03-01"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-naga",
     "originalSlug": "chinese-idioms-with-dragon",
-    "title": "8 Simpulan Bahasa Cina Berkuasa Dengan Naga (龙)",
+    "title": "6 Simpulan Bahasa Cina Berkuasa Dengan Naga (龙)",
     "description": "Temui simpulan bahasa Cina yang menampilkan naga (龙), simbol kuasa, tuah dan kuasa empayar dalam budaya Cina.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina berkuasa dengan naga (龙). Chengyu ini mewakili kekuatan, kejayaan dan nasib baik - sesuai untuk Tahun Baru Cina dan perayaan.",
+    "metaDescription": "Pelajari 6 simpulan bahasa Cina berkuasa dengan naga (龙). Chengyu ini mewakili kekuatan, kejayaan dan nasib baik - sesuai untuk Tahun Baru Cina dan perayaan.",
     "keywords": [
       "simpulan bahasa cina dengan naga",
       "chengyu naga",
@@ -1464,15 +1400,15 @@
       "ID375",
       "ID431"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-01"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-harimau",
     "originalSlug": "chinese-idioms-with-tiger",
-    "title": "10 Simpulan Bahasa Cina Ganas Dengan Harimau (虎)",
+    "title": "9 Simpulan Bahasa Cina Ganas Dengan Harimau (虎)",
     "description": "Terokai simpulan bahasa Cina yang berkuasa yang menampilkan harimau (虎), mewakili keberanian, kuasa dan autoriti.",
-    "metaDescription": "Temui 10 simpulan bahasa Cina ganas dengan harimau (虎). Pelajari chengyu tentang keberanian, kuasa dan autoriti - penting untuk Tahun Harimau.",
+    "metaDescription": "Temui 9 simpulan bahasa Cina ganas dengan harimau (虎). Pelajari chengyu tentang keberanian, kuasa dan autoriti - penting untuk Tahun Harimau.",
     "keywords": [
       "simpulan bahasa cina dengan harimau",
       "chengyu harimau",
@@ -1492,7 +1428,7 @@
       "ID377",
       "ID550"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-02"
   },
   {
@@ -1524,15 +1460,15 @@
       "ID274",
       "ID278"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-03"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-ular",
     "originalSlug": "chinese-idioms-with-snake",
-    "title": "6 Simpulan Bahasa Cina Pintar Dengan Ular (蛇)",
+    "title": "3 Simpulan Bahasa Cina Pintar Dengan Ular (蛇)",
     "description": "Pelajari simpulan bahasa Cina yang menampilkan ular (蛇), mewakili kebijaksanaan, kehati-hatian dan bahaya tersembunyi.",
-    "metaDescription": "Terokai 6 simpulan bahasa Cina pintar dengan ular (蛇). Chengyu ini mengajar kebijaksanaan tentang kehati-hatian, bahaya tersembunyi dan pemikiran strategik.",
+    "metaDescription": "Terokai 3 simpulan bahasa Cina pintar dengan ular (蛇). Chengyu ini mengajar kebijaksanaan tentang kehati-hatian, bahaya tersembunyi dan pemikiran strategik.",
     "keywords": [
       "simpulan bahasa cina dengan ular",
       "chengyu ular",
@@ -1546,15 +1482,15 @@
       "ID135",
       "ID377"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-04"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-lembu",
     "originalSlug": "chinese-idioms-with-ox",
-    "title": "8 Simpulan Bahasa Cina yang Mantap dengan Lembu (牛)",
+    "title": "5 Simpulan Bahasa Cina yang Mantap dengan Lembu (牛)",
     "description": "Temui simpulan bahasa Cina yang menampilkan lembu (牛), melambangkan kerja keras, kekuatan, dan keazaman.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina yang mantap dengan lembu (牛). Chengyu ini meraikan kerja keras, ketabahan, dan kekuatan yang tenang.",
+    "metaDescription": "Pelajari 5 simpulan bahasa Cina yang mantap dengan lembu (牛). Chengyu ini meraikan kerja keras, ketabahan, dan kekuatan yang tenang.",
     "keywords": [
       "simpulan bahasa cina dengan lembu",
       "chengyu lembu",
@@ -1570,7 +1506,7 @@
       "ID269",
       "ID383"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-05"
   },
   {
@@ -1604,7 +1540,7 @@
       "ID403",
       "ID409"
     ],
-    "category": "Badan & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-02-06"
   },
   {
@@ -1633,7 +1569,7 @@
       "ID336",
       "ID395"
     ],
-    "category": "Badan & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-02-07"
   },
   {
@@ -1661,7 +1597,7 @@
       "ID482",
       "ID515"
     ],
-    "category": "Badan & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-02-08"
   },
   {
@@ -1848,9 +1784,9 @@
   {
     "slug": "simpulan-bahasa-cina-tentang-api",
     "originalSlug": "chinese-idioms-about-fire",
-    "title": "10 Simpulan Bahasa Cina Berapi Tentang Api (火)",
+    "title": "9 Simpulan Bahasa Cina Berapi Tentang Api (火)",
     "description": "Temui simpulan bahasa Cina yang menampilkan api (火), mewakili semangat, kesegeraan dan transformasi.",
-    "metaDescription": "Kuasai 10 simpulan bahasa Cina tentang api (火). Pelajari chengyu tentang semangat, kemarahan, kesegeraan, dan kuasa transformasi api.",
+    "metaDescription": "Kuasai 9 simpulan bahasa Cina tentang api (火). Pelajari chengyu tentang semangat, kemarahan, kesegeraan, dan kuasa transformasi api.",
     "keywords": [
       "simpulan bahasa cina tentang api",
       "chengyu api",
@@ -1876,9 +1812,9 @@
   {
     "slug": "simpulan-bahasa-cina-tentang-langit-syurga",
     "originalSlug": "chinese-idioms-about-sky-heaven",
-    "title": "12 Simpulan Bahasa Cina Tentang Langit & Syurga (天)",
+    "title": "11 Simpulan Bahasa Cina Tentang Langit & Syurga (天)",
     "description": "Pelajari simpulan bahasa Cina yang menampilkan langit/syurga (天), mewakili ilahi, takdir, dan kemungkinan tanpa had.",
-    "metaDescription": "Temui 12 simpulan bahasa Cina tentang langit dan syurga (天). Chengyu ini meneroka takdir, ketentuan ilahi, dan potensi tanpa batas.",
+    "metaDescription": "Temui 11 simpulan bahasa Cina tentang langit dan syurga (天). Chengyu ini meneroka takdir, ketentuan ilahi, dan potensi tanpa batas.",
     "keywords": [
       "simpulan bahasa cina tentang langit",
       "chengyu syurga",
@@ -1904,33 +1840,11 @@
     "publishedDate": "2025-02-16"
   },
   {
-    "slug": "simpulan-bahasa-cina-untuk-tahun-baru",
-    "originalSlug": "chinese-idioms-for-new-year",
-    "title": "15 Simpulan Bahasa Cina Bertuah untuk Ucapan Tahun Baru",
-    "description": "Kuasai simpulan bahasa Cina terbaik untuk ucapan, berkat dan perayaan Tahun Baru.",
-    "metaDescription": "Pelajari 15 simpulan bahasa Cina bertuah untuk Tahun Baru. Chengyu yang sesuai untuk ucapan CNY, sampul merah, dan ucapan perayaan.",
-    "keywords": [
-      "simpulan bahasa tahun baru cina",
-      "chengyu ucapan cny",
-      "frasa tahun baru lunar",
-      "ucapan tahun baru cina",
-      "simpulan bahasa perayaan musim bunga"
-    ],
-    "intro": "Tahun Baru Cina adalah masa yang sesuai untuk menggunakan simpulan bahasa bertuah (吉祥成语). Ungkapan ini membawa tuah, kemakmuran, dan kebahagiaan - sesuai untuk ucapan dan mesej sampul merah.",
-    "idiomIds": [
-      "ID154",
-      "ID307",
-      "ID436"
-    ],
-    "category": "Peristiwa",
-    "publishedDate": "2025-02-17"
-  },
-  {
     "slug": "simpulan-bahasa-cina-untuk-perkahwinan",
     "originalSlug": "chinese-idioms-for-weddings",
-    "title": "10 Simpulan Bahasa Cina Romantik untuk Perkahwinan & Perkahwinan",
+    "title": "7 Simpulan Bahasa Cina Romantik untuk Perkahwinan & Perkahwinan",
     "description": "Simpulan bahasa Cina yang indah sesuai untuk ucapan perkahwinan, ucapan selamat, dan meraikan cinta.",
-    "metaDescription": "Temui 10 simpulan bahasa Cina romantis untuk perkahwinan. Chengyu yang sesuai untuk ucapan perkahwinan, jemputan, dan meraikan cinta abadi.",
+    "metaDescription": "Temui 7 simpulan bahasa Cina romantis untuk perkahwinan. Chengyu yang sesuai untuk ucapan perkahwinan, jemputan, dan meraikan cinta abadi.",
     "keywords": [
       "simpulan bahasa perkahwinan cina",
       "chengyu perkahwinan",
@@ -1983,9 +1897,9 @@
   {
     "slug": "simpulan-bahasa-cina-dengan-ayam-jantan",
     "originalSlug": "chinese-idioms-with-rooster",
-    "title": "8 Simpulan Bahasa Cina Berani Dengan Ayam Jantan (鸡)",
+    "title": "5 Simpulan Bahasa Cina Berani Dengan Ayam Jantan (鸡)",
     "description": "Terokai simpulan bahasa Cina yang menampilkan ayam jantan (鸡), melambangkan ketepatan masa, keberanian, dan kewaspadaan.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina berani dengan ayam jantan (鸡). Chengyu ini meraikan kewaspadaan, keberanian, dan permulaan baharu.",
+    "metaDescription": "Pelajari 5 simpulan bahasa Cina berani dengan ayam jantan (鸡). Chengyu ini meraikan kewaspadaan, keberanian, dan permulaan baharu.",
     "keywords": [
       "simpulan bahasa cina dengan ayam jantan",
       "chengyu ayam jantan",
@@ -2001,15 +1915,15 @@
       "ID347",
       "ID402"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-21"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-burung",
     "originalSlug": "chinese-idioms-with-bird",
-    "title": "10 Simpulan Bahasa Cina Melambung Tinggi Dengan Burung (鸟)",
+    "title": "7 Simpulan Bahasa Cina Melambung Tinggi Dengan Burung (鸟)",
     "description": "Terokai simpulan bahasa Cina yang menampilkan burung (鸟), melambangkan kebebasan, aspirasi, dan keindahan semula jadi.",
-    "metaDescription": "Pelajari 10 simpulan bahasa Cina melambung tinggi dengan burung (鸟). Chengyu ini meraikan kebebasan, aspirasi tinggi, dan keindahan alam semula jadi.",
+    "metaDescription": "Pelajari 7 simpulan bahasa Cina melambung tinggi dengan burung (鸟). Chengyu ini meraikan kebebasan, aspirasi tinggi, dan keindahan alam semula jadi.",
     "keywords": [
       "simpulan bahasa cina dengan burung",
       "chengyu burung",
@@ -2027,15 +1941,15 @@
       "ID222",
       "ID527"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-27"
   },
   {
     "slug": "simpulan-bahasa-cina-dengan-ikan",
     "originalSlug": "chinese-idioms-with-fish",
-    "title": "8 Simpulan Bahasa Cina Lumayan Dengan Ikan (鱼)",
+    "title": "4 Simpulan Bahasa Cina Lumayan Dengan Ikan (鱼)",
     "description": "Temui simpulan bahasa Cina yang menampilkan ikan (鱼), melambangkan kelimpahan, kemakmuran, dan nasib baik.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina lumayan dengan ikan (鱼). Chengyu ini membawa tuah dan kemakmuran - penting untuk perayaan Tahun Baru Cina.",
+    "metaDescription": "Pelajari 4 simpulan bahasa Cina lumayan dengan ikan (鱼). Chengyu ini membawa tuah dan kemakmuran - penting untuk perayaan Tahun Baru Cina.",
     "keywords": [
       "simpulan bahasa cina dengan ikan",
       "chengyu ikan",
@@ -2050,7 +1964,7 @@
       "ID286",
       "ID341"
     ],
-    "category": "Haiwan & Zodiak",
+    "category": "Alam Semula Jadi",
     "publishedDate": "2025-02-28"
   },
   {
@@ -2362,9 +2276,9 @@
   {
     "slug": "simpulan-bahasa-cina-untuk-bayi-baru",
     "originalSlug": "chinese-idioms-for-new-baby",
-    "title": "8 Simpulan Bahasa Cina Gembira untuk Ucapan Tahniah Bayi Baru",
+    "title": "7 Simpulan Bahasa Cina Gembira untuk Ucapan Tahniah Bayi Baru",
     "description": "Simpulan bahasa Cina yang menyentuh hati untuk mengucapkan tahniah kepada ibu bapa baru dan memberkati bayi yang baru lahir.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina gembira untuk ucapan tahniah bayi baru. Chengyu yang sempurna untuk memberkati bayi yang baru lahir dan meraikan ibu bapa baru.",
+    "metaDescription": "Pelajari 7 simpulan bahasa Cina gembira untuk ucapan tahniah bayi baru. Chengyu yang sempurna untuk memberkati bayi yang baru lahir dan meraikan ibu bapa baru.",
     "keywords": [
       "simpulan bahasa bayi baru cina",
       "chengyu ucapan tahniah bayi",
@@ -2465,40 +2379,11 @@
     "publishedDate": "2025-03-15"
   },
   {
-    "slug": "simpulan-bahasa-cina-tentang-kemarahan",
-    "originalSlug": "chinese-idioms-about-anger",
-    "title": "10 Simpulan Bahasa Cina Tentang Kemarahan & Hilang Sabar",
-    "description": "Simpulan bahasa Cina yang ekspresif tentang kemarahan, amarah, dan hilang sabar.",
-    "metaDescription": "Pelajari 10 simpulan bahasa Cina tentang kemarahan dan amarah. Chengyu ini menggambarkan dengan jelas kemarahan, hilang sabar, dan ledakan emosi dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina tentang kemarahan",
-      "frasa marah cina",
-      "chengyu untuk amarah",
-      "ungkapan baran cina",
-      "simpulan bahasa kemarahan mandarin"
-    ],
-    "intro": "Simpulan bahasa Cina menawarkan cara yang jelas dan puitis untuk menggambarkan kemarahan dan ledakan emosi. Dari api yang keluar dari kepala seseorang hingga guruh dan kilat, ungkapan ini menangkap keamatan kemarahan manusia.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID357",
-      "ID380",
-      "ID460",
-      "ID544",
-      "ID569"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-03-16"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-kebahagiaan",
     "originalSlug": "chinese-idioms-about-happiness",
-    "title": "10 Simpulan Bahasa Cina Gembira Tentang Kebahagiaan & Kegembiraan",
+    "title": "9 Simpulan Bahasa Cina Gembira Tentang Kebahagiaan & Kegembiraan",
     "description": "Simpulan bahasa Cina yang indah yang menyatakan kebahagiaan, kegembiraan, dan kepuasan - temui bagaimana budaya Cina meraikan emosi positif.",
-    "metaDescription": "Temui 10 simpulan bahasa Cina gembira tentang kebahagiaan dan kegembiraan. Chengyu ini menyatakan kegembiraan, kepuasan, dan emosi positif dalam Mandarin.",
+    "metaDescription": "Temui 9 simpulan bahasa Cina gembira tentang kebahagiaan dan kegembiraan. Chengyu ini menyatakan kegembiraan, kepuasan, dan emosi positif dalam Mandarin.",
     "keywords": [
       "simpulan bahasa cina tentang kebahagiaan",
       "frasa gembira cina",
@@ -2852,7 +2737,7 @@
       "ID177",
       "ID298"
     ],
-    "category": "Kebijaksanaan",
+    "category": "Falsafah",
     "publishedDate": "2025-03-29"
   },
   {
@@ -2908,7 +2793,7 @@
       "ID015",
       "ID105"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-03-31"
   },
   {
@@ -2935,7 +2820,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "Kesihatan",
+    "category": "Emosi",
     "publishedDate": "2025-04-01"
   },
   {
@@ -2964,7 +2849,7 @@
       "ID010",
       "ID016"
     ],
-    "category": "Pendidikan",
+    "category": "Pembelajaran",
     "publishedDate": "2025-04-02"
   },
   {
@@ -2993,7 +2878,7 @@
       "ID603",
       "ID118"
     ],
-    "category": "Cinta & Perhubungan",
+    "category": "Perhubungan",
     "publishedDate": "2025-04-03"
   },
   {
@@ -3022,7 +2907,7 @@
       "ID300",
       "ID315"
     ],
-    "category": "Keluarga",
+    "category": "Perhubungan",
     "publishedDate": "2025-04-04"
   },
   {
@@ -3049,7 +2934,7 @@
       "ID603",
       "ID088"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-04-05"
   },
   {
@@ -3107,7 +2992,7 @@
       "ID260",
       "ID236"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-04-07"
   },
   {
@@ -3176,60 +3061,6 @@
     "publishedDate": "2025-04-09"
   },
   {
-    "slug": "simpulan-bahasa-cina-dengan-arnab",
-    "originalSlug": "chinese-idioms-with-rabbit",
-    "title": "8 Simpulan Bahasa Cina Dengan Arnab (兔)",
-    "description": "Simpulan bahasa Cina yang menampilkan arnab - ungkapan tentang kepintaran, kehati-hatian, dan hasil yang tidak dijangka.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina yang menampilkan arnab. Chengyu ini menggunakan imej arnab untuk menyatakan kepintaran dalam bahasa Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina arnab",
-      "frasa cina arnab",
-      "chengyu dengan arnab",
-      "ungkapan arnab cina",
-      "simpulan bahasa tahun arnab"
-    ],
-    "intro": "Arnab dalam simpulan bahasa Cina sering mewakili kepintaran, kehati-hatian, dan yang tidak dijangka. Ungkapan ini diambil dari reputasi arnab kerana bijak dan sentiasa mempunyai pelan melarikan diri.",
-    "idiomIds": [
-      "ID074",
-      "ID247",
-      "ID031",
-      "ID035",
-      "ID082",
-      "ID182",
-      "ID236",
-      "ID399"
-    ],
-    "category": "Haiwan",
-    "publishedDate": "2025-04-10"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-dengan-biri-biri",
-    "originalSlug": "chinese-idioms-with-sheep",
-    "title": "8 Simpulan Bahasa Cina Dengan Biri-Biri & Kambing (羊)",
-    "description": "Simpulan bahasa Cina yang menampilkan biri-biri dan kambing - ungkapan tentang kelembutan, penggembalaan, dan belajar daripada kesilapan.",
-    "metaDescription": "Temui 8 simpulan bahasa Cina dengan biri-biri dan kambing. Chengyu ini menyatakan kelembutan dan kebijaksanaan dalam bahasa Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina biri-biri",
-      "frasa cina kambing",
-      "chengyu dengan biri-biri",
-      "ungkapan anak biri-biri cina",
-      "simpulan bahasa tahun biri-biri"
-    ],
-    "intro": "Biri-biri dan kambing muncul dalam simpulan bahasa Cina yang mewakili kelembutan, mengikuti kumpulan, dan yang penting, belajar daripada kesilapan. Yang terkenal \"membaiki pena selepas kehilangan biri-biri\" mengajar kebijaksanaan abadi.",
-    "idiomIds": [
-      "ID138",
-      "ID082",
-      "ID043",
-      "ID091",
-      "ID161",
-      "ID075",
-      "ID088",
-      "ID109"
-    ],
-    "category": "Haiwan",
-    "publishedDate": "2025-04-11"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-kerendahan-hati",
     "originalSlug": "chinese-idioms-about-humility",
     "title": "10 Simpulan Bahasa Cina Tentang Kerendahan Hati & Kesopanan",
@@ -3255,7 +3086,7 @@
       "ID032",
       "ID045"
     ],
-    "category": "Watak",
+    "category": "Perwatakan",
     "publishedDate": "2025-04-12"
   },
   {
@@ -3340,7 +3171,7 @@
       "ID504",
       "ID570"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-04-15"
   },
   {
@@ -3369,7 +3200,7 @@
       "ID600",
       "ID601"
     ],
-    "category": "Watak",
+    "category": "Perwatakan",
     "publishedDate": "2025-04-16"
   },
   {
@@ -3429,7 +3260,7 @@
       "ID156",
       "ID168"
     ],
-    "category": "Kejayaan & Ketabahan",
+    "category": "Strategi",
     "publishedDate": "2025-04-18"
   },
   {
@@ -3458,7 +3289,7 @@
       "ID199",
       "ID288"
     ],
-    "category": "Kerjaya",
+    "category": "Strategi",
     "publishedDate": "2025-04-19"
   },
   {
@@ -3487,7 +3318,7 @@
       "ID228",
       "ID229"
     ],
-    "category": "Kepimpinan",
+    "category": "Strategi",
     "publishedDate": "2025-04-20"
   },
   {
@@ -3514,7 +3345,7 @@
       "ID539",
       "ID560"
     ],
-    "category": "Tempat Kerja",
+    "category": "Strategi",
     "publishedDate": "2025-04-21"
   },
   {
@@ -3543,7 +3374,7 @@
       "ID277",
       "ID288"
     ],
-    "category": "Tempat Kerja",
+    "category": "Strategi",
     "publishedDate": "2025-04-22"
   },
   {
@@ -3694,7 +3525,7 @@
       "ID229",
       "ID232"
     ],
-    "category": "Persaingan",
+    "category": "Strategi",
     "publishedDate": "2025-04-27"
   },
   {
@@ -3752,7 +3583,7 @@
       "ID273",
       "ID306"
     ],
-    "category": "Peningkatan Diri",
+    "category": "Perwatakan",
     "publishedDate": "2025-04-29"
   },
   {
@@ -3781,7 +3612,7 @@
       "ID277",
       "ID280"
     ],
-    "category": "Peningkatan Diri",
+    "category": "Perwatakan",
     "publishedDate": "2025-04-30"
   },
   {
@@ -3810,7 +3641,7 @@
       "ID292",
       "ID297"
     ],
-    "category": "Ketahanan",
+    "category": "Perwatakan",
     "publishedDate": "2025-05-01"
   },
   {
@@ -3924,7 +3755,7 @@
       "ID523",
       "ID583"
     ],
-    "category": "Kewangan",
+    "category": "Strategi",
     "publishedDate": "2025-05-05"
   },
   {
@@ -3951,7 +3782,7 @@
       "ID532",
       "ID537"
     ],
-    "category": "Kewangan",
+    "category": "Strategi",
     "publishedDate": "2025-05-06"
   },
   {
@@ -3980,37 +3811,8 @@
       "ID252",
       "ID271"
     ],
-    "category": "Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-05-07"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-bercakap-kuasa-kata-kata",
-    "originalSlug": "chinese-idioms-about-speaking-words",
-    "title": "10 Simpulan Bahasa Cina Tentang Bercakap & Kuasa Kata-kata",
-    "description": "Simpulan bahasa Cina yang fasih tentang pertuturan, komunikasi, dan kuasa besar yang dipegang oleh kata-kata dalam membentuk realiti.",
-    "metaDescription": "Kuasai komunikasi dengan 10 simpulan bahasa Cina tentang bercakap dan kata-kata. Chengyu ini mendedahkan kuasa bahasa dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina bercakap",
-      "kata-kata frasa cina",
-      "chengyu untuk komunikasi",
-      "ungkapan kefasihan cina",
-      "simpulan bahasa pertuturan mandarin"
-    ],
-    "intro": "Kata-kata mempunyai kuasa yang besar dalam budaya Cina - untuk membina atau memusnahkan, untuk menyembuhkan atau mencederakan. Simpulan bahasa ini meneroka seni bercakap dengan baik, mengetahui bila untuk berdiam diri, dan kesan berpanjangan daripada apa yang kita katakan.",
-    "idiomIds": [
-      "ID061",
-      "ID069",
-      "ID078",
-      "ID132",
-      "ID146",
-      "ID149",
-      "ID178",
-      "ID213",
-      "ID226",
-      "ID280"
-    ],
-    "category": "Komunikasi",
-    "publishedDate": "2025-05-08"
   },
   {
     "slug": "simpulan-bahasa-cina-dalam-filem-drama-cina",
@@ -4041,7 +3843,7 @@
       "ID141",
       "ID271"
     ],
-    "category": "Budaya Pop",
+    "category": "Sejarah",
     "publishedDate": "2025-05-09"
   },
   {
@@ -4071,7 +3873,7 @@
       "ID082",
       "ID141"
     ],
-    "category": "Media Sosial",
+    "category": "Sejarah",
     "publishedDate": "2025-05-10"
   },
   {
@@ -4101,7 +3903,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "Kerjaya",
+    "category": "Strategi",
     "publishedDate": "2025-05-11"
   },
   {
@@ -4129,7 +3931,7 @@
       "ID141",
       "ID154"
     ],
-    "category": "Profesional",
+    "category": "Strategi",
     "publishedDate": "2025-05-12"
   },
   {
@@ -4159,7 +3961,7 @@
       "ID267",
       "ID525"
     ],
-    "category": "Moden",
+    "category": "Sejarah",
     "publishedDate": "2025-05-13"
   },
   {
@@ -4188,43 +3990,8 @@
       "ID154",
       "ID267"
     ],
-    "category": "Peningkatan Diri",
+    "category": "Perwatakan",
     "publishedDate": "2025-05-14"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-untuk-perbualan-harian",
-    "originalSlug": "chinese-idioms-for-daily-conversation",
-    "title": "15 Simpulan Bahasa Cina yang Digunakan dalam Perbualan Harian",
-    "description": "Simpulan bahasa Cina yang paling praktikal yang sebenarnya digunakan oleh penutur asli dalam perbualan harian - kuasai ini untuk Mandarin yang fasih.",
-    "metaDescription": "Kedengaran seperti penutur asli dengan 15 simpulan bahasa Cina ini untuk perbualan harian. Ini adalah chengyu yang sebenarnya digunakan oleh penutur Cina setiap hari dalam kehidupan sebenar.",
-    "keywords": [
-      "simpulan bahasa cina perbualan harian",
-      "frasa cina harian",
-      "chengyu biasa dituturkan",
-      "simpulan bahasa cina praktikal",
-      "chengyu penutur asli",
-      "ungkapan cina kehidupan sebenar"
-    ],
-    "intro": "Lupakan simpulan bahasa sastera yang jarang digunakan - ini adalah chengyu yang sebenarnya digunakan oleh penutur Cina dalam perbualan harian. Kuasai 15 ungkapan ini dan anda akan kedengaran lebih semula jadi dalam Mandarin harian.",
-    "idiomIds": [
-      "ID001",
-      "ID004",
-      "ID008",
-      "ID009",
-      "ID010",
-      "ID014",
-      "ID017",
-      "ID018",
-      "ID020",
-      "ID034",
-      "ID042",
-      "ID053",
-      "ID074",
-      "ID076",
-      "ID141"
-    ],
-    "category": "Pembelajaran",
-    "publishedDate": "2025-05-15"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-kreativiti",
@@ -4252,7 +4019,7 @@
       "ID395",
       "ID525"
     ],
-    "category": "Kreativiti",
+    "category": "Sejarah",
     "publishedDate": "2025-05-16"
   },
   {
@@ -4336,7 +4103,7 @@
       "ID209",
       "ID259"
     ],
-    "category": "Komunikasi",
+    "category": "Nombor",
     "publishedDate": "2025-05-19"
   },
   {
@@ -4368,7 +4135,7 @@
       "ID436",
       "ID517"
     ],
-    "category": "Majlis",
+    "category": "Peristiwa",
     "publishedDate": "2025-05-20"
   },
   {
@@ -4398,7 +4165,7 @@
       "ID517",
       "ID586"
     ],
-    "category": "Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-05-21"
   },
   {
@@ -4428,7 +4195,7 @@
       "ID190",
       "ID300"
     ],
-    "category": "Majlis",
+    "category": "Peristiwa",
     "publishedDate": "2025-05-22"
   },
   {
@@ -4458,7 +4225,7 @@
       "ID154",
       "ID190"
     ],
-    "category": "Majlis",
+    "category": "Peristiwa",
     "publishedDate": "2025-05-23"
   },
   {
@@ -4547,7 +4314,7 @@
       "ID106",
       "ID119"
     ],
-    "category": "Kerjaya",
+    "category": "Strategi",
     "publishedDate": "2025-05-26"
   },
   {
@@ -4575,7 +4342,7 @@
       "ID422",
       "ID577"
     ],
-    "category": "Komunikasi",
+    "category": "Nombor",
     "publishedDate": "2025-05-27"
   },
   {
@@ -4605,7 +4372,7 @@
       "ID286",
       "ID420"
     ],
-    "category": "Cinta",
+    "category": "Perhubungan",
     "publishedDate": "2025-05-28"
   },
   {
@@ -4632,7 +4399,7 @@
       "ID601",
       "ID603"
     ],
-    "category": "Cinta",
+    "category": "Perhubungan",
     "publishedDate": "2025-05-29"
   },
   {
@@ -4662,7 +4429,7 @@
       "ID536",
       "ID589"
     ],
-    "category": "Profesion",
+    "category": "Strategi",
     "publishedDate": "2025-05-30"
   },
   {
@@ -4692,7 +4459,7 @@
       "ID077",
       "ID154"
     ],
-    "category": "Kerjaya",
+    "category": "Strategi",
     "publishedDate": "2025-05-31"
   },
   {
@@ -4722,38 +4489,8 @@
       "ID501",
       "ID593"
     ],
-    "category": "Profesion",
+    "category": "Strategi",
     "publishedDate": "2025-06-01"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-untuk-atlet",
-    "originalSlug": "chinese-idioms-for-athletes",
-    "title": "10 Simpulan Bahasa Cina untuk Atlet & Sukan",
-    "description": "Simpulan bahasa Cina yang kompetitif tentang pencapaian atletik, semangat kesukanan, dan menolak batasan fizikal.",
-    "metaDescription": "Bakar semangat atletik anda dengan 10 simpulan bahasa Cina untuk sukan. Chengyu ini memberi inspirasi kepada persaingan, ketahanan, dan kemenangan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina atlet",
-      "frasa sukan cina",
-      "chengyu untuk persaingan",
-      "ungkapan atletik cina",
-      "simpulan bahasa sukan mandarin",
-      "perkataan kecergasan cina"
-    ],
-    "intro": "Sama ada anda berlatih untuk Sukan Olimpik atau berlari 5K pertama anda, simpulan bahasa Cina ini menangkap semangat kecemerlangan atletik - daripada menolak melampaui batasan hingga kemuliaan kemenangan.",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID017",
-      "ID026",
-      "ID032",
-      "ID063",
-      "ID082",
-      "ID096",
-      "ID119",
-      "ID168"
-    ],
-    "category": "Profesion",
-    "publishedDate": "2025-06-02"
   },
   {
     "slug": "simpulan-bahasa-cina-untuk-penulis",
@@ -4782,7 +4519,7 @@
       "ID213",
       "ID280"
     ],
-    "category": "Profession",
+    "category": "Strategi",
     "publishedDate": "2025-06-03"
   },
   {
@@ -4814,94 +4551,8 @@
       "ID198",
       "ID357"
     ],
-    "category": "Culture",
+    "category": "Sejarah",
     "publishedDate": "2025-06-04"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-budaya-teh",
-    "originalSlug": "chinese-idioms-about-tea-culture",
-    "title": "8 Simpulan Bahasa Cina Tentang Teh & Budaya Teh",
-    "description": "Simpulan bahasa Cina yang elegan tentang teh, upacara teh, dan tradisi falsafah budaya teh Cina.",
-    "metaDescription": "Terokai 8 simpulan bahasa Cina tentang teh dan budaya teh. Chengyu elegan ini menghubungkan tradisi teh dengan kebijaksanaan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina teh",
-      "frasa budaya teh cina",
-      "chengyu tentang teh",
-      "ungkapan upacara teh cina",
-      "simpulan bahasa teh mandarin",
-      "kebijaksanaan teh cina"
-    ],
-    "intro": "Teh lebih daripada sekadar minuman dalam budaya Cina - ia adalah falsafah. Simpulan bahasa ini menghubungkan seni teh purba dengan kebenaran yang lebih mendalam tentang kehidupan, persahabatan, dan kesedaran.",
-    "idiomIds": [
-      "ID007",
-      "ID015",
-      "ID018",
-      "ID023",
-      "ID024",
-      "ID040",
-      "ID091",
-      "ID173"
-    ],
-    "category": "Culture",
-    "publishedDate": "2025-06-05"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-minum-arak",
-    "originalSlug": "chinese-idioms-about-drinking-wine",
-    "title": "10 Simpulan Bahasa Cina Tentang Minum & Arak (酒)",
-    "description": "Simpulan bahasa Cina yang bersemangat tentang minum, budaya arak, dan peranan alkohol dalam tradisi sosial Cina.",
-    "metaDescription": "Angkat gelas dengan 10 simpulan bahasa Cina tentang minum dan arak. Chengyu bersemangat ini meneroka budaya alkohol Cina dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina minum",
-      "frasa arak cina",
-      "chengyu tentang alkohol",
-      "ungkapan budaya minum cina",
-      "simpulan bahasa arak mandarin",
-      "perkataan jiu cina"
-    ],
-    "intro": "Arak dan alkohol telah memainkan peranan penting dalam budaya sosial Cina selama beribu tahun. Simpulan bahasa ini meneroka kegembiraan minum, seni bersulang, dan kebijaksanaan mengetahui batasan anda.",
-    "idiomIds": [
-      "ID019",
-      "ID023",
-      "ID027",
-      "ID031",
-      "ID035",
-      "ID070",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID460"
-    ],
-    "category": "Culture",
-    "publishedDate": "2025-06-06"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-muzik",
-    "originalSlug": "chinese-idioms-about-music",
-    "title": "8 Simpulan Bahasa Cina Merdu Tentang Muzik & Bunyi",
-    "description": "Simpulan bahasa Cina yang harmoni tentang muzik, bunyi, dan hubungan mendalam antara melodi dan emosi manusia.",
-    "metaDescription": "Dengarkan 8 simpulan bahasa Cina tentang muzik dan bunyi. Chengyu harmoni ini menghubungkan melodi dengan emosi dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina muzik",
-      "frasa bunyi cina",
-      "chengyu tentang melodi",
-      "ungkapan muzik cina",
-      "simpulan bahasa muzik mandarin",
-      "perkataan harmoni cina"
-    ],
-    "intro": "Muzik telah menjadi pusat budaya Cina sejak zaman purba - Confucius sendiri adalah seorang pemuzik yang mahir. Simpulan bahasa ini menggunakan imej muzik untuk menyatakan keharmonian, perselisihan, dan kuasa bunyi.",
-    "idiomIds": [
-      "ID001",
-      "ID027",
-      "ID031",
-      "ID033",
-      "ID034",
-      "ID040",
-      "ID200",
-      "ID303"
-    ],
-    "category": "Culture",
-    "publishedDate": "2025-06-07"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-mimpi",
@@ -5148,148 +4799,6 @@
     "publishedDate": "2025-06-15"
   },
   {
-    "slug": "simpulan-bahasa-cina-dengan-anjing",
-    "originalSlug": "chinese-idioms-with-dog",
-    "title": "10 Simpulan Bahasa Cina Dengan Anjing (犬/狗)",
-    "description": "Simpulan bahasa Cina yang menampilkan anjing - ungkapan tentang kesetiaan, kewaspadaan, dan yang menghairankan, beberapa konotasi negatif.",
-    "metaDescription": "Pelajari 10 simpulan bahasa Cina dengan anjing (犬/狗). Chengyu ini terdiri daripada teman setia hingga kisah amaran dalam bahasa Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina dengan anjing",
-      "anjing chengyu",
-      "simpulan bahasa 狗",
-      "perkataan anjing cina",
-      "simpulan bahasa tahun anjing",
-      "ungkapan quan cina"
-    ],
-    "intro": "Anjing dalam simpulan bahasa Cina mempunyai reputasi yang kompleks - mewakili kedua-dua kesetiaan dan, dalam beberapa ungkapan, kualiti negatif. Simpulan bahasa ini menunjukkan pelbagai imej anjing dalam budaya Cina.",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID059",
-      "ID074",
-      "ID131",
-      "ID135",
-      "ID278",
-      "ID377",
-      "ID402",
-      "ID550"
-    ],
-    "category": "Haiwan & Zodiak",
-    "publishedDate": "2025-06-16"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-dengan-babi",
-    "originalSlug": "chinese-idioms-with-pig",
-    "title": "8 Simpulan Bahasa Cina Dengan Babi (猪)",
-    "description": "Simpulan bahasa Cina yang menampilkan babi - dari babi malas hingga babi makmur, temui babi dalam bahasa Cina.",
-    "metaDescription": "Temui 8 simpulan bahasa Cina dengan babi (猪). Chengyu ini menunjukkan bagaimana babi mewakili kedua-dua nasib baik dan kebodohan dalam bahasa Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina dengan babi",
-      "babi chengyu",
-      "simpulan bahasa 猪",
-      "perkataan babi cina",
-      "simpulan bahasa tahun babi"
-    ],
-    "intro": "Babi dalam budaya Cina melambangkan kekayaan dan nasib baik (babi adalah haiwan zodiak!), tetapi dalam simpulan bahasa, mereka sering mewakili kemalasan atau kebodohan. Ungkapan ini menunjukkan kedua-dua sisi syiling khinzir.",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID131",
-      "ID200",
-      "ID271",
-      "ID347",
-      "ID402",
-      "ID550"
-    ],
-    "category": "Haiwan & Zodiak",
-    "publishedDate": "2025-06-17"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-dengan-monyet",
-    "originalSlug": "chinese-idioms-with-monkey",
-    "title": "8 Simpulan Bahasa Cina yang Bijak dengan Monyet (猴)",
-    "description": "Simpulan bahasa Cina yang lucu menampilkan monyet - menyatakan kebijaksanaan, kenakalan, dan pemikiran pantas.",
-    "metaDescription": "Pelajari 8 simpulan bahasa Cina yang bijak dengan monyet (猴). Chengyu lucu ini menyatakan kenakalan dan akal yang pantas dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina dengan monyet",
-      "chengyu monyet",
-      "simpulan bahasa 猴",
-      "perkataan monyet cina",
-      "simpulan bahasa tahun monyet",
-      "simpulan bahasa sun wukong"
-    ],
-    "intro": "Monyet dalam simpulan bahasa Cina mewakili kebijaksanaan, ketangkasan, dan kadang-kadang kenakalan - sama seperti Raja Monyet yang legenda. Ungkapan ini meraikan pemikiran pantas dan kepintaran.",
-    "idiomIds": [
-      "ID042",
-      "ID049",
-      "ID074",
-      "ID108",
-      "ID131",
-      "ID175",
-      "ID271",
-      "ID375"
-    ],
-    "category": "Haiwan & Zodiak",
-    "publishedDate": "2025-06-18"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-dengan-tikus",
-    "originalSlug": "chinese-idioms-with-rat-mouse",
-    "title": "8 Simpulan Bahasa Cina Dengan Tikus (鼠)",
-    "description": "Simpulan bahasa Cina yang licik menampilkan tikus - mengenai kepintaran, kehati-hatian, dan naluri kelangsungan hidup.",
-    "metaDescription": "Terokai 8 simpulan bahasa Cina dengan tikus (鼠). Chengyu licik ini menyatakan kepintaran dan kehati-hatian dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina dengan tikus",
-      "chengyu tikus",
-      "simpulan bahasa 鼠",
-      "perkataan tikus cina",
-      "simpulan bahasa tahun tikus"
-    ],
-    "intro": "Sebagai haiwan pertama dalam zodiak Cina, tikus mewakili kepintaran dan kelangsungan hidup. Dalam simpulan bahasa, tikus sering melambangkan tingkah laku licik, fikiran sempit, atau kemampuan untuk berkembang di mana sahaja.",
-    "idiomIds": [
-      "ID042",
-      "ID074",
-      "ID079",
-      "ID131",
-      "ID135",
-      "ID271",
-      "ID377",
-      "ID550"
-    ],
-    "category": "Haiwan & Zodiak",
-    "publishedDate": "2025-06-19"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-bulan",
-    "originalSlug": "chinese-idioms-about-moon",
-    "title": "10 Simpulan Bahasa Cina Bercahaya Tentang Bulan (月)",
-    "description": "Simpulan bahasa Cina puitis tentang bulan - melambangkan pertemuan semula, keindahan, dan peredaran masa.",
-    "metaDescription": "Renungkan 10 simpulan bahasa Cina tentang bulan. Chengyu bercahaya ini menghubungkan cahaya bulan dengan pertemuan semula dan keindahan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina bulan",
-      "frasa cina bulan",
-      "yue chengyu",
-      "ungkapan cahaya bulan cina",
-      "simpulan bahasa bulan mandarin",
-      "simpulan bahasa bulan pertengahan musim luruh"
-    ],
-    "intro": "Bulan memegang kepentingan khusus dalam budaya Cina - ia melambangkan pertemuan semula, kesempurnaan, dan keindahan alam semula jadi. Simpulan bahasa ini menggunakan cahaya bulan untuk menerangi kebenaran abadi tentang kehidupan.",
-    "idiomIds": [
-      "ID023",
-      "ID055",
-      "ID084",
-      "ID088",
-      "ID089",
-      "ID097",
-      "ID104",
-      "ID114",
-      "ID120",
-      "ID177"
-    ],
-    "category": "Alam Semula Jadi",
-    "publishedDate": "2025-06-20"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-hujan",
     "originalSlug": "chinese-idioms-about-rain",
     "title": "10 Simpulan Bahasa Cina Tentang Hujan (雨)",
@@ -5410,61 +4919,6 @@
     ],
     "category": "Alam Semula Jadi",
     "publishedDate": "2025-06-24"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-musim-panas",
-    "originalSlug": "chinese-idioms-about-summer",
-    "title": "8 Simpulan Bahasa Cina Yang Membara Tentang Musim Panas & Haba",
-    "description": "Simpulan bahasa Cina yang panas tentang musim panas, bahang yang membakar, dan bertahan musim ini - kebijaksanaan bermusim untuk bulan-bulan terpanas.",
-    "metaDescription": "Kalahkan bahang dengan 8 simpulan bahasa Cina tentang musim panas. Chengyu yang membara ini menggambarkan musim terpanas dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina musim panas",
-      "frasa cina haba",
-      "chengyu tentang musim panas",
-      "ungkapan cuaca panas cina",
-      "simpulan bahasa mandarin musim panas",
-      "perkataan musim cina"
-    ],
-    "intro": "Musim panas dalam simpulan bahasa Cina membangkitkan bahang yang membakar, kehidupan yang berkembang maju, dan keamatan musim ini. Ungkapan ini menangkap kedua-dua cabaran dan tenaga bertenaga bulan-bulan terpanas.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID198",
-      "ID380",
-      "ID460",
-      "ID544"
-    ],
-    "category": "Alam Semula Jadi",
-    "publishedDate": "2025-06-25"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-cemburu",
-    "originalSlug": "chinese-idioms-about-jealousy",
-    "title": "8 Simpulan Bahasa Cina Tentang Cemburu & Iri Hati",
-    "description": "Simpulan bahasa Cina bermata hijau tentang cemburu, iri hati, dan kuasa merosakkan ketamakan.",
-    "metaDescription": "Fahami cemburu melalui 8 simpulan bahasa Cina tentang iri hati. Chengyu ini menggambarkan raksasa bermata hijau dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina cemburu",
-      "frasa cina iri hati",
-      "chengyu untuk cemburu",
-      "ungkapan tamak cina",
-      "simpulan bahasa mandarin cemburu"
-    ],
-    "intro": "Cemburu dan iri hati adalah emosi manusia sejagat, dan simpulan bahasa Cina menangkap banyak nuansanya - daripada kekaguman ringan hingga obsesi yang merosakkan. Ungkapan ini memberi amaran tentang bahaya perbandingan.",
-    "idiomIds": [
-      "ID070",
-      "ID105",
-      "ID159",
-      "ID174",
-      "ID227",
-      "ID356",
-      "ID504",
-      "ID570"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-06-26"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-kesunyian",
@@ -5637,92 +5091,6 @@
     ],
     "category": "Emosi",
     "publishedDate": "2025-07-02"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-patah-hati",
-    "originalSlug": "chinese-idioms-about-heartbreak",
-    "title": "10 Simpulan Bahasa Cina Tentang Patah Hati & Cinta Yang Hilang",
-    "description": "Simpulan bahasa Cina yang menyentuh hati tentang patah hati, perpisahan, dan kesakitan cinta yang hilang.",
-    "metaDescription": "Sembuhkan hati anda dengan 10 simpulan bahasa Cina tentang patah hati dan cinta yang hilang. Chengyu yang menyentuh hati ini menyatakan kesakitan romantik dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina patah hati",
-      "frasa perpisahan cina",
-      "chengyu untuk patah hati",
-      "ungkapan cinta hilang cina",
-      "simpulan bahasa mandarin patah hati",
-      "perkataan perpisahan cina"
-    ],
-    "intro": "Patah hati telah memberi inspirasi kepada beberapa puisi dan simpulan bahasa Cina yang paling menyentuh hati. Ungkapan-ungkapan ini merakamkan penderitaan cinta yang hilang, kesakitan perpisahan, dan proses penyembuhan yang perlahan.",
-    "idiomIds": [
-      "ID029",
-      "ID055",
-      "ID160",
-      "ID183",
-      "ID188",
-      "ID227",
-      "ID382",
-      "ID385",
-      "ID574",
-      "ID600"
-    ],
-    "category": "Emosi",
-    "publishedDate": "2025-07-03"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-malu",
-    "originalSlug": "chinese-idioms-about-embarrassment",
-    "title": "8 Simpulan Bahasa Cina Tentang Malu & Hilang Muka",
-    "description": "Simpulan bahasa Cina yang janggal tentang rasa malu, hilang muka, dan saat-saat memalukan yang kita semua alami.",
-    "metaDescription": "Jangan",
-    "keywords": [
-      "simpulan bahasa cina malu",
-      "hilang muka cina",
-      "chengyu untuk janggal",
-      "ungkapan budaya muka cina",
-      "simpulan bahasa mandarin malu",
-      "simpulan bahasa mianzi cina"
-    ],
-    "intro": "Muka (面子, miàn zi) adalah pusat kepada budaya sosial Cina. Simpulan bahasa ini menggambarkan rasa malu, kekok, dan konsep kehilangan muka yang penting dari segi budaya - relevan bagi sesiapa sahaja yang menavigasi situasi sosial Cina.",
-    "idiomIds": [
-      "ID030",
-      "ID062",
-      "ID072",
-      "ID098",
-      "ID125",
-      "ID152",
-      "ID261",
-      "ID539"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-07-04"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-cinta-pandang-pertama",
-    "originalSlug": "chinese-idioms-about-love-at-first-sight",
-    "title": "8 Simpulan Bahasa Cina Tentang Cinta Pandang Pertama",
-    "description": "Simpulan bahasa Cina yang romantik tentang tarikan serta-merta, jatuh cinta pada pandangan pertama, dan pertemuan pertama yang ditakdirkan.",
-    "metaDescription": "Jatuh cinta serta-merta dengan 8 simpulan bahasa Cina tentang cinta pandang pertama. Chengyu romantik ini menggambarkan pertemuan pertama yang ditakdirkan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina cinta pandang pertama",
-      "maksud yi jian zhong qing",
-      "cinta serta-merta cina",
-      "chengyu pertemuan pertama cinta",
-      "simpulan bahasa tarikan cina",
-      "ungkapan cinta cina pandang pertama"
-    ],
-    "intro": "Cinta pandang pertama adalah pengalaman universal, dan bahasa Cina mempunyai cara yang indah untuk menggambarkan saat ajaib itu apabila dua jiwa berhubung serta-merta. Simpulan bahasa romantik ini merakamkan kilat cinta pertama.",
-    "idiomIds": [
-      "ID008",
-      "ID056",
-      "ID118",
-      "ID136",
-      "ID151",
-      "ID166",
-      "ID256",
-      "ID286"
-    ],
-    "category": "Cinta",
-    "publishedDate": "2025-07-05"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-takdir",
@@ -5924,7 +5292,7 @@
       "ID040",
       "ID091"
     ],
-    "category": "Kesejahteraan",
+    "category": "Emosi",
     "publishedDate": "2025-07-12"
   },
   {
@@ -5953,7 +5321,7 @@
       "ID271",
       "ID329"
     ],
-    "category": "Kepimpinan",
+    "category": "Strategi",
     "publishedDate": "2025-07-13"
   },
   {
@@ -5982,7 +5350,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "Badan & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-07-14"
   },
   {
@@ -6012,7 +5380,7 @@
       "ID281",
       "ID539"
     ],
-    "category": "Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-07-15"
   },
   {
@@ -6124,7 +5492,7 @@
       "ID088",
       "ID141"
     ],
-    "category": "Rentas Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-07-19"
   },
   {
@@ -6153,7 +5521,7 @@
       "ID042",
       "ID076"
     ],
-    "category": "Rentas Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-07-20"
   },
   {
@@ -6183,7 +5551,7 @@
       "ID131",
       "ID271"
     ],
-    "category": "Budaya Pop",
+    "category": "Sejarah",
     "publishedDate": "2025-07-21"
   },
   {
@@ -6212,7 +5580,7 @@
       "ID133",
       "ID195"
     ],
-    "category": "Deskriptif",
+    "category": "Nombor",
     "publishedDate": "2025-07-22"
   },
   {
@@ -6270,7 +5638,7 @@
       "ID246",
       "ID252"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-07-24"
   },
   {
@@ -6302,7 +5670,7 @@
       "ID197",
       "ID233"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-07-25"
   },
   {
@@ -6338,34 +5706,6 @@
     "publishedDate": "2025-07-26"
   },
   {
-    "slug": "simpulan-bahasa-cina-tentang-warna-merah",
-    "originalSlug": "chinese-idioms-about-color-red",
-    "title": "8 Simpulan Bahasa Cina Bertuah Tentang Warna Merah (红)",
-    "description": "Simpulan bahasa Cina bertuah yang menampilkan warna merah - warna yang paling bertuah dalam budaya Cina.",
-    "metaDescription": "Temui 8 simpulan bahasa Cina bertuah tentang warna merah. Chengyu bertuah ini meraikan China",
-    "keywords": [
-      "simpulan bahasa cina merah",
-      "frasa warna merah cina",
-      "hong chengyu",
-      "ungkapan warna bertuah cina",
-      "simpulan bahasa mandarin merah",
-      "warna bertuah cina"
-    ],
-    "intro": "Merah (红, hóng) ialah warna yang paling bertuah dalam budaya Cina, melambangkan tuah, kebahagiaan, dan kemakmuran. Simpulan bahasa yang menampilkan merah ini membawa makna tambahan semasa perayaan.",
-    "idiomIds": [
-      "ID011",
-      "ID020",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-07-27"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-emas-harta",
     "originalSlug": "chinese-idioms-about-gold-treasure",
     "title": "10 Simpulan Bahasa Cina Tentang Emas & Harta (金)",
@@ -6392,7 +5732,7 @@
       "ID523",
       "ID583"
     ],
-    "category": "Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-07-28"
   },
   {
@@ -6480,38 +5820,6 @@
     "publishedDate": "2025-07-31"
   },
   {
-    "slug": "simpulan-bahasa-cina-tentang-pengetahuan-pembelajaran",
-    "originalSlug": "chinese-idioms-about-knowledge-learning",
-    "title": "12 Simpulan Bahasa Cina Tentang Pengetahuan & Pembelajaran Sepanjang Hayat",
-    "description": "Simpulan bahasa Cina ilmiah yang meraikan pengetahuan, rasa ingin tahu intelektual, dan usaha pembelajaran yang tidak pernah berakhir.",
-    "metaDescription": "Jangan berhenti belajar dengan 12 simpulan bahasa Cina tentang pengetahuan. Chengyu ilmiah ini meraikan pertumbuhan intelektual dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina pengetahuan",
-      "frasa pembelajaran cina",
-      "chengyu untuk pendidikan",
-      "ungkapan kebijaksanaan cina",
-      "simpulan bahasa pengetahuan mandarin",
-      "perkataan kajian cina"
-    ],
-    "intro": "Pengetahuan adalah lautan yang tidak terbatas dalam falsafah Cina. Simpulan bahasa ini meraikan kegembiraan pembelajaran, kerendahan hati orang yang benar-benar bijak, dan kuasa transformatif pendidikan.",
-    "idiomIds": [
-      "ID002",
-      "ID003",
-      "ID006",
-      "ID010",
-      "ID016",
-      "ID021",
-      "ID025",
-      "ID028",
-      "ID036",
-      "ID045",
-      "ID073",
-      "ID084"
-    ],
-    "category": "Pembelajaran",
-    "publishedDate": "2025-08-01"
-  },
-  {
     "slug": "simpulan-bahasa-cina-tentang-kesederhanaan",
     "originalSlug": "chinese-idioms-about-simplicity",
     "title": "8 Simpulan Bahasa Cina Tentang Kesederhanaan & Minimalisme",
@@ -6562,7 +5870,7 @@
       "ID226",
       "ID280"
     ],
-    "category": "Tubuh & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-08-03"
   },
   {
@@ -6589,37 +5897,8 @@
       "ID133",
       "ID195"
     ],
-    "category": "Tubuh & Minda",
+    "category": "Nombor",
     "publishedDate": "2025-08-04"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-untuk-majlis-perasmian",
-    "originalSlug": "chinese-idioms-for-opening-ceremony",
-    "title": "10 Simpulan Bahasa Cina untuk Pembukaan Besar & Permulaan Baru",
-    "description": "Simpulan bahasa Cina yang bertuah untuk pembukaan perniagaan, pelancaran kedai, dan permulaan yang besar.",
-    "metaDescription": "Lancarkan dengan tuah! 10 Simpulan bahasa Cina untuk pembukaan besar dan permulaan baru. Chengyu yang sesuai untuk pelancaran perniagaan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina majlis perasmian",
-      "frasa perniagaan baru cina",
-      "chengyu untuk pelancaran",
-      "ungkapan pembukaan besar cina",
-      "simpulan bahasa mandarin permulaan baru"
-    ],
-    "intro": "Membuka perniagaan baru atau memulakan usaha baru? Simpulan bahasa yang bertuah ini membawa tuah dan tenaga positif kepada pembukaan besar, upacara memotong reben, dan sambutan pelancaran.",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID025",
-      "ID060",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID436"
-    ],
-    "category": "Peristiwa",
-    "publishedDate": "2025-08-05"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-kemalasan",
@@ -6675,7 +5954,7 @@
       "ID076",
       "ID134"
     ],
-    "category": "Budaya",
+    "category": "Sejarah",
     "publishedDate": "2025-08-07"
   },
   {
@@ -6764,7 +6043,7 @@
       "ID301",
       "ID603"
     ],
-    "category": "Falsafah Hidup",
+    "category": "Falsafah",
     "publishedDate": "2025-08-10"
   },
   {
@@ -6792,100 +6071,8 @@
       "ID076",
       "ID154"
     ],
-    "category": "Ketabahan",
+    "category": "Perwatakan",
     "publishedDate": "2025-08-11"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-tentang-makan-kuih-kerendahan-hati",
-    "originalSlug": "chinese-idioms-about-eating-humble-pie",
-    "title": "10 Simpulan Bahasa Cina Tentang Menghadapi Kesukaran (吃苦)",
-    "description": "Simpulan bahasa Cina yang sukar tentang makan kepahitan, menghadapi kesukaran, dan konsep Cina tentang 吃苦 (chī kǔ).",
-    "metaDescription": "Fahami 吃苦 dengan 10 simpulan bahasa Cina tentang menghadapi kesukaran. Chengyu yang sukar ini mengajar ketahanan melalui penderitaan dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina chi ku",
-      "makan kepahitan cina",
-      "chengyu menghadapi kesukaran",
-      "ungkapan penderitaan cina",
-      "maksud mandarin chi ku",
-      "simpulan bahasa cina tabah"
-    ],
-    "intro": "Konsep Cina tentang 吃苦 (chī kǔ, \"makan kepahitan\") adalah penting kepada nilai-nilai Cina. Simpulan bahasa ini meraikan keupayaan untuk menghadapi kesukaran, kualiti yang sangat dikagumi dalam budaya Cina.",
-    "idiomIds": [
-      "ID005",
-      "ID009",
-      "ID014",
-      "ID026",
-      "ID032",
-      "ID061",
-      "ID092",
-      "ID164",
-      "ID235",
-      "ID246"
-    ],
-    "category": "Budaya",
-    "publishedDate": "2025-08-12"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-untuk-mendoakan-nasib-baik",
-    "originalSlug": "chinese-idioms-for-wishing-good-luck",
-    "title": "12 Simpulan Bahasa Cina untuk Mendoakan Seseorang Nasib Baik",
-    "description": "Simpulan bahasa Cina yang bertuah untuk mendoakan seseorang nasib baik sebelum peperiksaan, temu duga kerja, pertandingan dan usaha baharu.",
-    "metaDescription": "Doakan nasib baik dengan 12 simpulan bahasa Cina! Chengyu bertuah ini sesuai untuk peperiksaan, temu duga dan usaha baharu dalam Mandarin.",
-    "keywords": [
-      "simpulan bahasa cina nasib baik",
-      "frasa cina mendoakan nasib",
-      "chengyu untuk keberkatan",
-      "ungkapan nasib cina",
-      "simpulan bahasa mandarin nasib baik",
-      "ucapan peperiksaan cina"
-    ],
-    "intro": "Perlu mendoakan seseorang nasib baik dalam bahasa Cina? Sama ada mereka menghadapi peperiksaan, temu duga kerja atau memulakan usaha baharu, simpulan bahasa bertuah ini menyampaikan harapan terbaik anda dengan berkesan.",
-    "idiomIds": [
-      "ID001",
-      "ID011",
-      "ID017",
-      "ID020",
-      "ID021",
-      "ID025",
-      "ID082",
-      "ID087",
-      "ID154",
-      "ID303",
-      "ID436",
-      "ID517"
-    ],
-    "category": "Peristiwa",
-    "publishedDate": "2025-08-13"
-  },
-  {
-    "slug": "simpulan-bahasa-cina-penegasan-positif",
-    "originalSlug": "chinese-idioms-positive-affirmations",
-    "title": "10 Simpulan Bahasa Cina sebagai Penegasan Positif Harian",
-    "description": "Ubah simpulan bahasa Cina menjadi penegasan harian untuk keyakinan, minda pertumbuhan dan kepercayaan diri.",
-    "metaDescription": "Tingkatkan keyakinan dengan 10 simpulan bahasa Cina sebagai penegasan harian. Chengyu yang memperkasakan ini membina minda pertumbuhan dalam Mandarin.",
-    "keywords": [
-      "penegasan simpulan bahasa cina",
-      "frasa positif cina",
-      "chengyu untuk keyakinan",
-      "ungkapan kepercayaan diri cina",
-      "simpulan bahasa penegasan mandarin",
-      "petikan motivasi harian cina"
-    ],
-    "intro": "Mulakan setiap hari dengan kebijaksanaan Cina kuno. Simpulan bahasa ini berfungsi dengan sempurna sebagai penegasan harian - peringatan ringkas dan berkuasa tentang potensi, ketahanan dan minda pertumbuhan anda yang membawa kepada kejayaan.",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID014",
-      "ID017",
-      "ID021",
-      "ID026",
-      "ID044",
-      "ID082"
-    ],
-    "category": "Peningkatan Diri",
-    "publishedDate": "2025-08-14"
   },
   {
     "slug": "simpulan-bahasa-cina-tentang-perkahwinan",
@@ -6979,7 +6166,7 @@
       "ID433",
       "ID566"
     ],
-    "category": "Peribahasa",
+    "category": "Falsafah",
     "publishedDate": "2025-08-17"
   },
   {
@@ -7011,7 +6198,7 @@
       "ID514",
       "ID603"
     ],
-    "category": "Peribahasa",
+    "category": "Falsafah",
     "publishedDate": "2025-08-18"
   },
   {
@@ -7041,7 +6228,7 @@
       "ID444",
       "ID627"
     ],
-    "category": "Peribahasa",
+    "category": "Falsafah",
     "publishedDate": "2025-08-19"
   },
   {
@@ -7071,7 +6258,7 @@
       "ID613",
       "ID614"
     ],
-    "category": "Peribahasa",
+    "category": "Falsafah",
     "publishedDate": "2025-08-20"
   },
   {
@@ -7101,7 +6288,7 @@
       "ID582",
       "ID583"
     ],
-    "category": "Peribahasa",
+    "category": "Falsafah",
     "publishedDate": "2025-08-21"
   },
   {
@@ -7131,7 +6318,7 @@
       "ID612",
       "ID602"
     ],
-    "category": "Pepatah",
+    "category": "Falsafah",
     "publishedDate": "2025-08-22"
   },
   {
@@ -7161,7 +6348,7 @@
       "ID579",
       "ID653"
     ],
-    "category": "Pepatah",
+    "category": "Falsafah",
     "publishedDate": "2025-08-23"
   },
   {
@@ -7191,7 +6378,7 @@
       "ID599",
       "ID600"
     ],
-    "category": "Pepatah",
+    "category": "Falsafah",
     "publishedDate": "2025-08-24"
   },
   {
@@ -7221,7 +6408,7 @@
       "ID469",
       "ID390"
     ],
-    "category": "Pepatah",
+    "category": "Falsafah",
     "publishedDate": "2025-08-25"
   },
   {
@@ -7251,7 +6438,7 @@
       "ID451",
       "ID525"
     ],
-    "category": "Pepatah",
+    "category": "Falsafah",
     "publishedDate": "2025-08-26"
   },
   {
@@ -7283,7 +6470,7 @@
       "ID514",
       "ID576"
     ],
-    "category": "Petikan",
+    "category": "Falsafah",
     "publishedDate": "2025-08-27"
   },
   {
@@ -7318,7 +6505,7 @@
       "ID631",
       "ID655"
     ],
-    "category": "Petikan",
+    "category": "Falsafah",
     "publishedDate": "2025-08-28"
   },
   {
@@ -7348,7 +6535,7 @@
       "ID462",
       "ID566"
     ],
-    "category": "Petikan",
+    "category": "Falsafah",
     "publishedDate": "2025-08-29"
   },
   {
@@ -7380,7 +6567,7 @@
       "ID468",
       "ID545"
     ],
-    "category": "Petikan",
+    "category": "Falsafah",
     "publishedDate": "2025-08-30"
   },
   {
@@ -7410,7 +6597,7 @@
       "ID504",
       "ID631"
     ],
-    "category": "Petikan",
+    "category": "Falsafah",
     "publishedDate": "2025-08-31"
   },
   {

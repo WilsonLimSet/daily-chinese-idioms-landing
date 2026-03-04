@@ -320,6 +320,10 @@ export default async function Home() {
                 Dictionary
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
+              <Link href="/characters" className="text-gray-600 hover:text-gray-900 transition-colors">
+                Characters
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
               <Link href="/faq" className="text-gray-600 hover:text-gray-900 transition-colors">
                 FAQ
               </Link>

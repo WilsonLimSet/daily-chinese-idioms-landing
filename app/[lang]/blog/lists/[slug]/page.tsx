@@ -6,6 +6,7 @@ import {
   getAllListiclesTranslated,
   getListicleWithIdiomsTranslated,
   getLocalizedSlug,
+  getRelatedListiclesTranslated,
   TranslatedListicle
 } from '@/src/lib/listicles';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
@@ -101,7 +102,7 @@ export default async function TranslatedListiclePage({
     redirect(`/${lang}/blog/lists/${localizedSlug}`);
   }
 
-  const allListicles = getAllListiclesTranslated(lang).filter(l => l.slug !== slug).slice(0, 4);
+  const allListicles = getRelatedListiclesTranslated(slug, lang, 4);
   const t = (key: string) => getTranslation(lang, key as keyof typeof import('@/src/lib/translations').translations.en);
 
   // Structured data for SEO - this is safe static data from our own database, not user input
