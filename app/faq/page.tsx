@@ -24,6 +24,10 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://www.chineseidioms.com/faq',
+    languages: {
+      'x-default': 'https://www.chineseidioms.com/faq',
+      'en': 'https://www.chineseidioms.com/faq',
+    },
   },
 };
 
@@ -42,7 +46,7 @@ const faqSections: FAQSection[] = [
       },
       {
         question: "How many Chinese idioms are there?",
-        answer: "There are over 5,000 Chinese idioms (chengyu) in common use, with dictionaries recording more than 20,000 in total. However, for practical purposes, knowing about 500 core idioms is sufficient for intermediate Chinese learners. Native speakers typically use 200-300 idioms regularly in daily conversation. Our dictionary covers 365+ essential idioms - one for each day of the year."
+        answer: "There are over 5,000 Chinese idioms (chengyu) in common use, with dictionaries recording more than 20,000 in total. However, for practical purposes, knowing about 500 core idioms is sufficient for intermediate Chinese learners. Native speakers typically use 200-300 idioms regularly in daily conversation. Our dictionary covers 1000+ essential idioms - one for each day of the year."
       },
       {
         question: "Are Chinese idioms and proverbs the same thing?",
@@ -364,7 +368,7 @@ export default function FAQPage() {
               className="block p-5 bg-white rounded-lg shadow-sm border border-gray-100 hover:shadow-md hover:border-blue-200 transition-all"
             >
               <h3 className="font-bold text-gray-900 mb-2">Complete Dictionary</h3>
-              <p className="text-sm text-gray-600">Browse all 365+ idioms with pinyin and meanings</p>
+              <p className="text-sm text-gray-600">Browse all 1000+ idioms with pinyin and meanings</p>
             </Link>
             <Link
               href="/blog/lists"

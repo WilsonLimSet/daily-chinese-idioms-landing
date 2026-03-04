@@ -23,7 +23,7 @@ const homepageFAQSchema = {
       "name": "How many Chinese idioms should I learn?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For intermediate Chinese learners, knowing about 500 core idioms is sufficient for practical use. Native speakers typically use 200-300 idioms in daily conversation. Our collection covers 680+ essential idioms with meanings, origins, and examples."
+        "text": "For intermediate Chinese learners, knowing about 500 core idioms is sufficient for practical use. Native speakers typically use 200-300 idioms in daily conversation. Our collection covers 1000+ essential idioms with meanings, origins, and examples."
       }
     },
     {

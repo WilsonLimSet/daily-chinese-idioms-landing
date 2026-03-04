@@ -1,0 +1,610 @@
+{
+  "ID683": {
+    "characters": "持之以恒",
+    "result": "FAIL",
+    "issue": "Incorrect origin attribution",
+    "correction": "The idiom originates from the 'Mencius' (孟子), not the Han Dynasty."
+  },
+  "ID684": {
+    "characters": "坚持不懈",
+    "result": "PASS"
+  },
+  "ID685": {
+    "characters": "百战百胜",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom is not directly from the 'Art of War' but is a general expression of military success."
+  },
+  "ID686": {
+    "characters": "勇往直前",
+    "result": "PASS"
+  },
+  "ID687": {
+    "characters": "奋发图强",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution",
+    "correction": "The idiom originates from the late Qing Dynasty, but it is more accurately associated with the early 20th century reform movements."
+  },
+  "ID688": {
+    "characters": "知难而退",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom is not from the 'Zhuangzi' but is more commonly associated with the 'Han Feizi' (韩非子)."
+  },
+  "ID689": {
+    "characters": "功德圆满",
+    "result": "PASS"
+  },
+  "ID690": {
+    "characters": "马不停蹄",
+    "result": "PASS"
+  },
+  "ID691": {
+    "characters": "奋不顾身",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution",
+    "correction": "The idiom is more commonly associated with the Ming Dynasty, not the Song Dynasty."
+  },
+  "ID692": {
+    "characters": "迎难而上",
+    "result": "PASS"
+  },
+  "ID693": {
+    "characters": "有志者事竟成",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom originates from the Qing Dynasty, not the Ming Dynasty."
+  },
+  "ID694": {
+    "characters": "前车之鉴",
+    "result": "PASS"
+  },
+  "ID695": {
+    "characters": "有始有终",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom is not specifically attributed to Confucian texts; it is a general saying in Chinese culture."
+  },
+  "ID696": {
+    "characters": "一马当先",
+    "result": "PASS"
+  },
+  "ID697": {
+    "characters": "开天辟地",
+    "result": "PASS"
+  },
+  "ID698": {
+    "characters": "志在四方",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom is not specifically from Mencius; it is a common expression in Chinese culture."
+  },
+  "ID699": {
+    "characters": "鼎力相助",
+    "result": "PASS"
+  },
+  "ID700": {
+    "characters": "东风化雨",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom does not originate from a specific poem; it is a common metaphor in Chinese literature."
+  },
+  "ID701": {
+    "characters": "绳锯木断",
+    "result": "PASS"
+  },
+  "ID702": {
+    "characters": "有备无患",
+    "result": "PASS"
+  },
+  "ID703": {
+    "characters": "乐极生悲",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom originates from the historical text 'The Book of Songs' (诗经), not from Bai Juyi's poem 'The Song of the Pipa'."
+  },
+  "ID704": {
+    "characters": "否极泰来",
+    "result": "PASS"
+  },
+  "ID705": {
+    "characters": "祸不单行",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom is derived from earlier texts, not specifically from the writings of Wang Yangming in the Ming Dynasty."
+  },
+  "ID706": {
+    "characters": "福无双至",
+    "result": "PASS"
+  },
+  "ID707": {
+    "characters": "因祸得福",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom is not specifically attributed to the philosophical writings of the Song Dynasty; it has a more general origin in Chinese culture."
+  },
+  "ID708": {
+    "characters": "随遇而安",
+    "result": "PASS"
+  },
+  "ID709": {
+    "characters": "淡泊明志",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom is attributed to the writings of the Tang Dynasty, specifically from the works of the philosopher Su Shi (苏轼), not broadly to the Song Dynasty."
+  },
+  "ID710": {
+    "characters": "宁静致远",
+    "result": "PASS"
+  },
+  "ID711": {
+    "characters": "返璞归真",
+    "result": "PASS"
+  },
+  "ID712": {
+    "characters": "大智若愚",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom is attributed to the Daoist text 'Zhuangzi', not the 'Tao Te Ching' by Laozi."
+  },
+  "ID713": {
+    "characters": "以柔克刚",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom originates from the 'Dao De Jing' but is more accurately attributed to the teachings of Laozi rather than a specific text."
+  },
+  "ID714": {
+    "characters": "物以类聚",
+    "result": "FAIL",
+    "issue": "Incorrect dynasty attribution",
+    "correction": "The idiom is derived from the 'Book of Rites' (礼记), which was compiled during the Warring States period, not the Han Dynasty."
+  },
+  "ID715": {
+    "characters": "人以群分",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom is not found in the 'Records of the Grand Historian' but is more commonly associated with the 'Book of Rites' (礼记)."
+  },
+  "ID716": {
+    "characters": "水落石出",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom is not from the 'Book of Han' but is believed to have originated from various literary sources, including poetry."
+  },
+  "ID717": {
+    "characters": "见仁见智",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution and character breakdown",
+    "correction": "The idiom is not from the 'Analects' but is often attributed to various philosophical discussions; the character breakdown should be 见 (jiàn, to see), 仁 (rén, benevolence), 见 (jiàn, to see), and 智 (zhì, wisdom)."
+  },
+  "ID718": {
+    "characters": "三十而立",
+    "result": "PASS"
+  },
+  "ID719": {
+    "characters": "知足不辱",
+    "result": "FAIL",
+    "issue": "Incorrect philosophical attribution",
+    "correction": "The idiom is more closely associated with Confucian teachings rather than Daoist philosophy."
+  },
+  "ID720": {
+    "characters": "天下无难事",
+    "result": "FAIL",
+    "issue": "Incorrect philosophical attribution",
+    "correction": "The idiom is not specifically linked to Confucius but reflects a broader cultural attitude rather than a specific philosophical text."
+  },
+  "ID721": {
+    "characters": "人无完人",
+    "result": "FAIL",
+    "issue": "Vague origin attribution",
+    "correction": "The idiom's origins are not clearly defined in ancient texts; it is a common saying reflecting a general philosophical view."
+  },
+  "ID722": {
+    "characters": "吃一堑长一智",
+    "result": "PASS"
+  },
+  "ID723": {
+    "characters": "人心不古",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Song Dynasty, not the Tang Dynasty."
+  },
+  "ID724": {
+    "characters": "世态炎凉",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Ming Dynasty, not the Qing Dynasty."
+  },
+  "ID725": {
+    "characters": "潜移默化",
+    "result": "PASS"
+  },
+  "ID726": {
+    "characters": "百感交集",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Qing Dynasty, not the Ming Dynasty."
+  },
+  "ID727": {
+    "characters": "博学多才",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Song Dynasty, not the Tang Dynasty."
+  },
+  "ID728": {
+    "characters": "学以致用",
+    "result": "PASS"
+  },
+  "ID729": {
+    "characters": "不耻下问",
+    "result": "PASS"
+  },
+  "ID730": {
+    "characters": "博古通今",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Song Dynasty, not the Tang Dynasty."
+  },
+  "ID731": {
+    "characters": "触类旁通",
+    "result": "PASS"
+  },
+  "ID732": {
+    "characters": "学富五车",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "Originates from the Song Dynasty, not the Song Dynasty."
+  },
+  "ID733": {
+    "characters": "才高八斗",
+    "result": "FAIL",
+    "issue": "Wrong source text attribution",
+    "correction": "The idiom originates from the Wei Dynasty, specifically from the poem 'Seven Steps Verse' (七步诗) by Cao Zhi, not from 'Shiji' by Sima Qian."
+  },
+  "ID734": {
+    "characters": "满腹经纶",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom originates from the Tang Dynasty, not the Song Dynasty."
+  },
+  "ID735": {
+    "characters": "见多识广",
+    "result": "PASS"
+  },
+  "ID736": {
+    "characters": "耳聪目明",
+    "result": "PASS"
+  },
+  "ID737": {
+    "characters": "深思熟虑",
+    "result": "PASS"
+  },
+  "ID738": {
+    "characters": "无师自通",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom originates from the Song Dynasty, not the Ming Dynasty."
+  },
+  "ID739": {
+    "characters": "熟视无睹",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom can be traced back to the Ming Dynasty, not the Qing Dynasty."
+  },
+  "ID740": {
+    "characters": "先知先觉",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom originates from the Song Dynasty, not the Tang Dynasty."
+  },
+  "ID741": {
+    "characters": "格物致知",
+    "result": "PASS"
+  },
+  "ID742": {
+    "characters": "求同存异",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "The idiom emerged during the late Qing Dynasty, not the early Qing Dynasty."
+  },
+  "ID743": {
+    "characters": "旁征博引",
+    "result": "FAIL",
+    "issue": "Incorrect dynasty attribution",
+    "correction": "This idiom originates from the writings of the Ming Dynasty scholar Zhang Xuecheng (张学诚)."
+  },
+  "ID744": {
+    "characters": "博闻强记",
+    "result": "FAIL",
+    "issue": "Incorrect historical figure attribution",
+    "correction": "This idiom is derived from the writings of the Song Dynasty scholar Su Shi (苏轼), not Du Fu."
+  },
+  "ID745": {
+    "characters": "当局者迷",
+    "result": "FAIL",
+    "issue": "Incorrect dynasty attribution",
+    "correction": "This idiom originates from the writings of the Song Dynasty, not the Han Dynasty."
+  },
+  "ID746": {
+    "characters": "旁观者清",
+    "result": "PASS"
+  },
+  "ID747": {
+    "characters": "一字千金",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution",
+    "correction": "This idiom is believed to have originated during the Han Dynasty, not the Warring States period."
+  },
+  "ID748": {
+    "characters": "字字珠玑",
+    "result": "FAIL",
+    "issue": "Incorrect character breakdown",
+    "correction": "The correct breakdown is 字 (zì, word), 字 (zì, word), 珠 (zhū, pearl), and 璀璨 (jī, glittering) should be 珑 (jī, gem), not 璀璨."
+  },
+  "ID749": {
+    "characters": "口若悬河",
+    "result": "PASS"
+  },
+  "ID750": {
+    "characters": "妙语连珠",
+    "result": "FAIL",
+    "issue": "Incorrect dynasty attribution",
+    "correction": "This idiom is believed to have originated from the Qing Dynasty, not the Ming Dynasty."
+  },
+  "ID751": {
+    "characters": "一见如故",
+    "result": "PASS"
+  },
+  "ID752": {
+    "characters": "两肋插刀",
+    "result": "PASS"
+  },
+  "ID753": {
+    "characters": "情同手足",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "This idiom originates from the Song Dynasty, not the Ming Dynasty."
+  },
+  "ID754": {
+    "characters": "肝脑涂地",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "This idiom dates back to the Song Dynasty, not the Tang Dynasty."
+  },
+  "ID755": {
+    "characters": "赤子之心",
+    "result": "PASS"
+  },
+  "ID756": {
+    "characters": "天伦之乐",
+    "result": "PASS"
+  },
+  "ID757": {
+    "characters": "骨肉相连",
+    "result": "PASS"
+  },
+  "ID758": {
+    "characters": "手足之情",
+    "result": "PASS"
+  },
+  "ID759": {
+    "characters": "高风亮节",
+    "result": "FAIL",
+    "issue": "Wrong dynasty attribution",
+    "correction": "This idiom originates from the writings of the Ming Dynasty, not the Song Dynasty."
+  },
+  "ID760": {
+    "characters": "正人君子",
+    "result": "PASS"
+  },
+  "ID761": {
+    "characters": "德高望重",
+    "result": "PASS"
+  },
+  "ID762": {
+    "characters": "心胸开阔",
+    "result": "PASS"
+  },
+  "ID763": {
+    "characters": "落井下石",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom 落井下石 originates from the text 'The Book of Jin' (晋书), not 'The Book of Han' (汉书)."
+  },
+  "ID764": {
+    "characters": "恩将仇报",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom 恩将仇报 does not originate from 'The Book of Songs' (诗经); it is found in later texts, including 'The Book of Han' (汉书)."
+  },
+  "ID765": {
+    "characters": "忘恩负义",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom 忘恩负义 is not from 'The Book of Han' (汉书); it is found in various classical texts, including 'The Book of Songs' (诗经)."
+  },
+  "ID766": {
+    "characters": "损人利己",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom 损人利己 is not specifically attributed to 'The Book of Han' (汉书); it is a common phrase used in various contexts."
+  },
+  "ID767": {
+    "characters": "以貌取人",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom 以貌取人 is not specifically rooted in Confucian texts; it is a common saying that reflects broader cultural values."
+  },
+  "ID768": {
+    "characters": "道貌岸然",
+    "result": "FAIL",
+    "issue": "Incorrect historical figure attribution",
+    "correction": "The idiom 道貌岸然 is not attributed to Li Bai; it is found in the writings of later scholars and is a common expression."
+  },
+  "ID769": {
+    "characters": "老当益壮",
+    "result": "FAIL",
+    "issue": "Incorrect historical figure attribution",
+    "correction": "The idiom 老当益壮 is not specifically attributed to Su Shi; it is a common saying that reflects a general cultural sentiment."
+  },
+  "ID770": {
+    "characters": "童叟无欺",
+    "result": "FAIL",
+    "issue": "Incorrect historical period attribution",
+    "correction": "The idiom 童叟无欺 is not specifically traced back to the Ming Dynasty; it is a common phrase used throughout Chinese history."
+  },
+  "ID771": {
+    "characters": "尊老爱幼",
+    "result": "PASS"
+  },
+  "ID772": {
+    "characters": "人尽其才",
+    "result": "FAIL",
+    "issue": "Incorrect historical period attribution",
+    "correction": "The idiom 人尽其才 is not specifically from the Han Dynasty; it is a common phrase that reflects a broader philosophical idea."
+  },
+  "ID773": {
+    "characters": "物尽其用",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "The idiom is not from Laozi's Dao De Jing but is actually from the writings of the philosopher Xunzi."
+  },
+  "ID774": {
+    "characters": "众望所归",
+    "result": "PASS"
+  },
+  "ID775": {
+    "characters": "有口皆碑",
+    "result": "FAIL",
+    "issue": "Fabricated origin story",
+    "correction": "The idiom is not specifically rooted in ancient literature but is a more modern expression reflecting collective praise."
+  },
+  "ID776": {
+    "characters": "先发制人",
+    "result": "PASS"
+  },
+  "ID777": {
+    "characters": "后发制人",
+    "result": "PASS"
+  },
+  "ID778": {
+    "characters": "兵不厌诈",
+    "result": "PASS"
+  },
+  "ID779": {
+    "characters": "知己知彼",
+    "result": "PASS"
+  },
+  "ID780": {
+    "characters": "出奇制胜",
+    "result": "PASS"
+  },
+  "ID781": {
+    "characters": "避实就虚",
+    "result": "PASS"
+  },
+  "ID782": {
+    "characters": "调虎离山",
+    "result": "PASS"
+  },
+  "ID783": {
+    "characters": "打草惊蛇",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution.",
+    "correction": "The idiom originates from the text 'The Art of War' but is not specifically attributed to Sun Tzu."
+  },
+  "ID784": {
+    "characters": "借刀杀人",
+    "result": "PASS"
+  },
+  "ID785": {
+    "characters": "趁火打劫",
+    "result": "PASS"
+  },
+  "ID786": {
+    "characters": "金蝉脱壳",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution.",
+    "correction": "The idiom originates from the Ming Dynasty, not the Qing Dynasty."
+  },
+  "ID787": {
+    "characters": "顺手牵羊",
+    "result": "PASS"
+  },
+  "ID788": {
+    "characters": "瞒天过海",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution.",
+    "correction": "The idiom is not specifically attributed to 'Records of the Grand Historian' but is a common saying in Chinese culture."
+  },
+  "ID789": {
+    "characters": "李代桃僵",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution.",
+    "correction": "The idiom is not from 'The Book of Han' but is a common idiom in Chinese culture."
+  },
+  "ID790": {
+    "characters": "反客为主",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution.",
+    "correction": "The idiom is not from 'The Art of War' but is a common idiom in Chinese culture."
+  },
+  "ID791": {
+    "characters": "擒贼擒王",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution.",
+    "correction": "The idiom is not specifically attributed to military strategy texts from the Warring States period."
+  },
+  "ID792": {
+    "characters": "关门捉贼",
+    "result": "PASS"
+  },
+  "ID793": {
+    "characters": "远交近攻",
+    "result": "PASS"
+  },
+  "ID794": {
+    "characters": "假道伐虢",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution",
+    "correction": "This idiom is actually from the historical text 'Strategies of the Warring States' (战国策), not 'Records of the Grand Historian'."
+  },
+  "ID795": {
+    "characters": "树上开花",
+    "result": "PASS"
+  },
+  "ID796": {
+    "characters": "空城计",
+    "result": "PASS"
+  },
+  "ID797": {
+    "characters": "苦肉计",
+    "result": "PASS"
+  },
+  "ID798": {
+    "characters": "连环计",
+    "result": "FAIL",
+    "issue": "Incorrect source text attribution and time period",
+    "correction": "This idiom is not from 'The Art of War' but is more commonly associated with the 'Romance of the Three Kingdoms' (三国演义) and is not specifically tied to the Warring States period."
+  },
+  "ID799": {
+    "characters": "走为上计",
+    "result": "PASS"
+  },
+  "ID800": {
+    "characters": "一网打尽",
+    "result": "PASS"
+  },
+  "ID801": {
+    "characters": "围而不攻",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution",
+    "correction": "This idiom is more accurately associated with the Warring States period rather than the Spring and Autumn period."
+  },
+  "ID802": {
+    "characters": "避其锐气",
+    "result": "FAIL",
+    "issue": "Incorrect time period attribution",
+    "correction": "This idiom is rooted in military strategy from earlier periods, particularly the Warring States period, not specifically the Ming Dynasty."
+  }
+}

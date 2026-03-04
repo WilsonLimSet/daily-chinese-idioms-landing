@@ -19,6 +19,23 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://www.chineseidioms.com/blog/lists',
+    languages: {
+      'x-default': 'https://www.chineseidioms.com/blog/lists',
+      'en': 'https://www.chineseidioms.com/blog/lists',
+      'es': 'https://www.chineseidioms.com/es/blog/lists',
+      'pt': 'https://www.chineseidioms.com/pt/blog/lists',
+      'id': 'https://www.chineseidioms.com/id/blog/lists',
+      'vi': 'https://www.chineseidioms.com/vi/blog/lists',
+      'ja': 'https://www.chineseidioms.com/ja/blog/lists',
+      'ko': 'https://www.chineseidioms.com/ko/blog/lists',
+      'th': 'https://www.chineseidioms.com/th/blog/lists',
+      'hi': 'https://www.chineseidioms.com/hi/blog/lists',
+      'ar': 'https://www.chineseidioms.com/ar/blog/lists',
+      'fr': 'https://www.chineseidioms.com/fr/blog/lists',
+      'tl': 'https://www.chineseidioms.com/tl/blog/lists',
+      'ms': 'https://www.chineseidioms.com/ms/blog/lists',
+      'ru': 'https://www.chineseidioms.com/ru/blog/lists',
+    },
   },
 };
 

@@ -3,8 +3,8 @@ import { Analytics } from "@vercel/analytics/react"
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Chinese Idioms (成语) - 680+ Chengyu with English Meanings, Pinyin & Examples",
-  description: "Complete Chinese idioms (chengyu) dictionary with 680+ expressions. English translations, pinyin pronunciation, origins & usage examples. Browse by theme, search by characters or meaning.",
+  title: "Chinese Idioms (成语) - 1000+ Chengyu with English Meanings, Pinyin & Examples",
+  description: "Complete Chinese idioms (chengyu) dictionary with 1000+ expressions. English translations, pinyin pronunciation, origins & usage examples. Browse by theme, search by characters or meaning.",
   metadataBase: new URL('https://www.chineseidioms.com'),
   keywords: ['chinese idioms', 'chengyu', 'chinese proverbs', 'learn chinese idioms', 'chengyu dictionary', 'chinese idioms with english meanings', 'chinese idiom dictionary', 'pinyin', 'mandarin idioms', 'chinese culture', '成语', 'chengyu meaning'],
   alternates: {
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
     locale: 'en_US',
     alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
     url: 'https://www.chineseidioms.com',
-    title: "Chinese Idioms (成语) - 680+ Chengyu with English Meanings & Pinyin",
-    description: "Complete Chinese idioms dictionary with 680+ chengyu. English translations, pinyin, origins & examples. Browse by theme or search by characters.",
+    title: "Chinese Idioms (成语) - 1000+ Chengyu with English Meanings & Pinyin",
+    description: "Complete Chinese idioms dictionary with 1000+ chengyu. English translations, pinyin, origins & examples. Browse by theme or search by characters.",
     siteName: 'Chinese Idioms',
     images: [{
       url: '/og-image.png',

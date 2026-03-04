@@ -7,8 +7,8 @@ import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 export const metadata: Metadata = {
-  title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings & Pinyin',
-  description: 'Complete chengyu dictionary with 680+ Chinese idioms (成语). Browse by pinyin A-Z or theme. Each idiom includes English translation, pronunciation, literal meaning, origin & usage examples.',
+  title: 'Chengyu Dictionary - 1000+ Chinese Idioms with English Meanings & Pinyin',
+  description: 'Complete chengyu dictionary with 1000+ Chinese idioms (成语). Browse by pinyin A-Z or theme. Each idiom includes English translation, pronunciation, literal meaning, origin & usage examples.',
   keywords: [
     'chengyu dictionary',
     'chinese idiom dictionary',
@@ -24,8 +24,8 @@ export const metadata: Metadata = {
     'chinese idioms with english meanings'
   ],
   openGraph: {
-    title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings',
-    description: 'Complete chengyu dictionary. Browse 680+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
+    title: 'Chengyu Dictionary - 1000+ Chinese Idioms with English Meanings',
+    description: 'Complete chengyu dictionary. Browse 1000+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
     url: 'https://www.chineseidioms.com/dictionary',
     siteName: 'Chinese Idioms',
     locale: 'en_US',
@@ -33,8 +33,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Chengyu Dictionary - 680+ Chinese Idioms with English Meanings',
-    description: 'Complete chengyu dictionary. Browse 680+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
+    title: 'Chengyu Dictionary - 1000+ Chinese Idioms with English Meanings',
+    description: 'Complete chengyu dictionary. Browse 1000+ Chinese idioms by pinyin A-Z or theme. English translations, pronunciation & cultural context.',
     images: ['/og-image.png'],
   },
   alternates: {

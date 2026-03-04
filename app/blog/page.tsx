@@ -7,12 +7,12 @@ import { BookOpen } from 'lucide-react';
 import AdUnit from '@/app/components/AdUnit';
 
 export const metadata = {
-  title: '680+ Chinese Idioms (Chengyu) - Complete List with English Meanings & Pinyin',
-  description: 'Browse 680+ Chinese idioms (chengyu/成语) with English translations, pinyin & examples. Search by characters, pinyin or meaning. Updated daily. The most complete chengyu resource online.',
+  title: '1000+ Chinese Idioms (Chengyu) - Complete List with English Meanings & Pinyin',
+  description: 'Browse 1000+ Chinese idioms (chengyu/成语) with English translations, pinyin & examples. Search by characters, pinyin or meaning. Updated daily. The most complete chengyu resource online.',
   keywords: ['chinese idioms', 'chengyu', 'chinese idiom', 'chengyu list', 'chinese proverbs', 'learn chengyu', 'chinese idioms with meanings', 'chinese idioms dictionary', 'mandarin idioms', '成语'],
   openGraph: {
-    title: '680+ Chinese Idioms (Chengyu) - English Meanings & Pinyin',
-    description: 'Browse 680+ Chinese idioms with English translations, pinyin pronunciation & cultural context. Updated daily.',
+    title: '1000+ Chinese Idioms (Chengyu) - English Meanings & Pinyin',
+    description: 'Browse 1000+ Chinese idioms with English translations, pinyin pronunciation & cultural context. Updated daily.',
     url: 'https://www.chineseidioms.com/blog',
     siteName: 'Chinese Idioms',
     locale: 'en_US',

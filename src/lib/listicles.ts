@@ -2704,6 +2704,162 @@ export const listicles: Listicle[] = [
     category: 'History & Culture',
     publishedDate: '2025-09-15'
   },
+  // === HSK Level Listicles (expanded coverage) ===
+  {
+    slug: 'chinese-idioms-hsk-4-advanced',
+    title: '12 More Chinese Idioms for HSK 4 Practice',
+    description: 'Expand your HSK 4 idiom repertoire with 12 additional chengyu for intermediate Chinese learners.',
+    metaDescription: 'Go beyond basics with 12 more Chinese idioms for HSK 4 practice. These intermediate chengyu appear in reading and listening materials.',
+    keywords: ['hsk 4 advanced idioms', 'more hsk 4 chengyu', 'intermediate chinese idioms practice', 'hsk 4 reading idioms', 'chinese idioms intermediate level'],
+    intro: 'Already know the basics? These 12 additional idioms complement your HSK 4 preparation. They appear frequently in intermediate reading materials and conversations about everyday topics.',
+    idiomIds: ['ID053', 'ID057', 'ID063', 'ID065', 'ID066', 'ID071', 'ID073', 'ID074', 'ID076', 'ID083', 'ID085', 'ID086'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-16'
+  },
+  {
+    slug: 'chinese-idioms-hsk-5-reading',
+    title: '10 HSK 5 Chinese Idioms for Reading Comprehension',
+    description: 'Master these 10 literary Chinese idioms that frequently appear in HSK 5 reading passages and advanced texts.',
+    metaDescription: 'Boost HSK 5 reading comprehension with 10 literary Chinese idioms. These chengyu appear in advanced texts and exam passages.',
+    keywords: ['hsk 5 reading idioms', 'chinese idioms for reading', 'advanced reading chengyu', 'hsk 5 comprehension', 'literary chinese idioms'],
+    intro: 'HSK 5 reading passages often feature idioms that carry rich literary meaning. These 10 chengyu are essential for understanding advanced Chinese texts and will strengthen your reading comprehension.',
+    idiomIds: ['ID220', 'ID222', 'ID224', 'ID227', 'ID230', 'ID232', 'ID234', 'ID236', 'ID238', 'ID240'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-17'
+  },
+  {
+    slug: 'chinese-idioms-hsk-6-writing',
+    title: '10 HSK 6 Chinese Idioms for Essay Writing',
+    description: 'Elevate your Chinese writing with 10 sophisticated chengyu that demonstrate HSK 6 level fluency in essays and compositions.',
+    metaDescription: 'Elevate your Chinese essays with 10 HSK 6 level idioms. These sophisticated chengyu demonstrate advanced writing fluency.',
+    keywords: ['hsk 6 writing idioms', 'chinese idioms for essays', 'advanced writing chengyu', 'hsk 6 composition', 'sophisticated chinese expressions'],
+    intro: 'At HSK 6 level, incorporating idioms into your writing shows native-like command of Chinese. These 10 sophisticated chengyu are particularly effective in essays, formal writing, and academic compositions.',
+    idiomIds: ['ID405', 'ID407', 'ID409', 'ID412', 'ID413', 'ID419', 'ID424', 'ID425', 'ID429', 'ID440'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-18'
+  },
+  {
+    slug: 'chinese-idioms-hsk-7-9',
+    title: '12 Chinese Idioms for HSK 7-9 Advanced Mastery',
+    description: 'The most sophisticated Chinese idioms for HSK 7-9 candidates - demonstrate true mastery of classical Chinese expressions.',
+    metaDescription: 'Achieve HSK 7-9 mastery with 12 elite Chinese idioms. These classical chengyu demonstrate the highest level of Mandarin proficiency.',
+    keywords: ['hsk 7 idioms', 'hsk 8 idioms', 'hsk 9 idioms', 'advanced chinese mastery', 'elite chengyu', 'classical chinese idioms', 'hsk 7-9 vocabulary'],
+    intro: 'HSK 7-9 represents the pinnacle of Chinese language proficiency. These 12 idioms draw from classical literature, military strategy, and philosophical traditions - mastering them signals true command of the Chinese language.',
+    idiomIds: ['ID068', 'ID088', 'ID089', 'ID091', 'ID093', 'ID094', 'ID095', 'ID096', 'ID097', 'ID098', 'ID107', 'ID108'],
+    category: 'Learning & Education',
+    publishedDate: '2025-09-19'
+  },
+  // === New Listicles Using ID803+ Idioms ===
+  {
+    slug: 'chinese-idioms-empathy-understanding',
+    title: '10 Chinese Idioms About Empathy & Understanding Others',
+    description: 'Learn 10 beautiful Chinese idioms about putting yourself in others\' shoes, compassion, and building deeper human connections.',
+    metaDescription: '10 Chinese idioms about empathy and understanding. Learn chengyu like 将心比心 and 舍己为人 that teach compassion and mutual respect.',
+    keywords: ['chinese idioms empathy', 'chengyu about understanding', 'chinese idioms compassion', 'empathy chinese expressions', 'chinese idioms mutual respect', 'understanding others chinese'],
+    intro: 'Chinese culture places deep value on understanding others\' perspectives. These 10 idioms capture timeless wisdom about empathy, selflessness, and the art of truly connecting with those around us.',
+    idiomIds: ['ID1023', 'ID884', 'ID883', 'ID936', 'ID825', 'ID822', 'ID944', 'ID835', 'ID806', 'ID815'],
+    category: 'Relationships & Family',
+    publishedDate: '2025-09-20'
+  },
+  {
+    slug: 'chinese-idioms-bold-decisions-risk',
+    title: '10 Chinese Idioms About Bold Decisions & Taking Risks',
+    description: 'Discover 10 powerful Chinese idioms about gambling everything, making daring moves, and the courage to take decisive action.',
+    metaDescription: '10 Chinese idioms about bold decisions and risk-taking. Learn chengyu like 孤注一掷 and 破釜沉舟 about decisive courage.',
+    keywords: ['chinese idioms bold decisions', 'chengyu risk taking', 'chinese idioms courage', 'daring chinese expressions', 'chinese idioms gambling', 'decisive action chengyu'],
+    intro: 'From ancient battlefields to modern boardrooms, Chinese idioms capture the spirit of bold, decisive action. These 10 chengyu describe moments when everything is on the line and courage is the only option.',
+    idiomIds: ['ID816', 'ID017', 'ID1022', 'ID885', 'ID1024', 'ID841', 'ID881', 'ID1013', 'ID937', 'ID903'],
+    category: 'Strategy & Action',
+    publishedDate: '2025-09-21'
+  },
+  {
+    slug: 'chinese-idioms-fickleness-inconsistency',
+    title: '8 Chinese Idioms About Fickleness & Inconsistency',
+    description: 'Learn 8 Chinese idioms that describe unreliable, inconsistent, or indecisive behavior - from ancient monkey tales to chess metaphors.',
+    metaDescription: '8 Chinese idioms about fickleness and inconsistency. Learn chengyu like 朝三暮四 and 举棋不定 about unreliable behavior.',
+    keywords: ['chinese idioms fickleness', 'chengyu inconsistency', 'chinese idioms indecision', 'unreliable chinese expressions', 'chinese idioms changing mind', 'fickle chengyu'],
+    intro: 'Chinese literature is rich with vivid metaphors for inconsistency and indecision. These 8 idioms paint memorable pictures of people who waver, change course, and can\'t commit - lessons as relevant today as ever.',
+    idiomIds: ['ID803', 'ID1029', 'ID826', 'ID984', 'ID817', 'ID905', 'ID831', 'ID819'],
+    category: 'Character & Values',
+    publishedDate: '2025-09-22'
+  },
+  {
+    slug: 'chinese-idioms-hardship-endurance',
+    title: '10 Chinese Idioms About Enduring Hardship',
+    description: 'Discover 10 powerful Chinese idioms about persevering through suffering, bearing heavy burdens, and emerging stronger from adversity.',
+    metaDescription: '10 Chinese idioms about enduring hardship and perseverance. Learn chengyu like 含辛茹苦 and 忍辱负重 about resilience.',
+    keywords: ['chinese idioms hardship', 'chengyu endurance', 'chinese idioms perseverance suffering', 'resilience chinese expressions', 'chinese idioms adversity', 'enduring hardship chengyu'],
+    intro: 'The ability to endure hardship is celebrated throughout Chinese history and philosophy. These 10 idioms honor the strength it takes to bear burdens, swallow bitterness, and persist when every instinct says to give up.',
+    idiomIds: ['ID818', 'ID874', 'ID870', 'ID964', 'ID918', 'ID961', 'ID888', 'ID836', 'ID1000', 'ID993'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-23'
+  },
+  {
+    slug: 'chinese-idioms-fame-legacy',
+    title: '10 Chinese Idioms About Fame, Legacy & Achievement',
+    description: 'Learn 10 Chinese idioms about leaving a lasting mark, achieving greatness, and being remembered through the ages.',
+    metaDescription: '10 Chinese idioms about fame and legacy. Learn chengyu like 名垂青史 and 流芳百世 about lasting achievement.',
+    keywords: ['chinese idioms fame', 'chengyu legacy', 'chinese idioms achievement', 'lasting fame chinese', 'chinese idioms greatness', 'remembered chinese expressions'],
+    intro: 'Chinese culture deeply values leaving a legacy that outlasts a single lifetime. These 10 idioms celebrate extraordinary achievement, lasting fame, and the marks left by those who dared to be exceptional.',
+    idiomIds: ['ID855', 'ID845', 'ID832', 'ID833', 'ID891', 'ID981', 'ID1028', 'ID872', 'ID871', 'ID1029'],
+    category: 'Success & Career',
+    publishedDate: '2025-09-24'
+  },
+  {
+    slug: 'chinese-idioms-deception-trickery',
+    title: '10 Chinese Idioms About Deception & Clever Tricks',
+    description: 'Explore 10 Chinese idioms about cunning strategies, deception, and outsmarting opponents - from ancient military tactics to everyday schemes.',
+    metaDescription: '10 Chinese idioms about deception and trickery. Learn chengyu like 混水摸鱼 and 瞒天过海 about cunning strategies.',
+    keywords: ['chinese idioms deception', 'chengyu trickery', 'chinese idioms cunning', 'strategy chinese expressions', 'chinese idioms outsmart', 'clever tricks chengyu'],
+    intro: 'Chinese military and political history is filled with brilliant stratagems and cunning deceptions. These 10 idioms describe the art of misdirection, exploiting chaos, and outmaneuvering opponents through wit rather than force.',
+    idiomIds: ['ID1018', 'ID1019', 'ID953', 'ID988', 'ID975', 'ID1022', 'ID841', 'ID978', 'ID951', 'ID1027'],
+    category: 'Strategy & Action',
+    publishedDate: '2025-09-25'
+  },
+  {
+    slug: 'chinese-idioms-dreams-illusions',
+    title: '8 Chinese Idioms About Dreams, Illusions & Fleeting Things',
+    description: 'Discover 8 poetic Chinese idioms about dreams, illusions, and the transient nature of life - from yellow millet dreams to morning dew.',
+    metaDescription: '8 Chinese idioms about dreams and illusions. Learn chengyu like 黄粱一梦 and 痴人说梦 about life\'s fleeting nature.',
+    keywords: ['chinese idioms dreams', 'chengyu illusions', 'chinese idioms fleeting', 'transient life chinese', 'chinese idioms impermanence', 'dreams chinese expressions'],
+    intro: 'Chinese philosophy has long meditated on the boundary between dream and reality. These 8 idioms explore illusions, wishful thinking, and the poignant beauty of things that cannot last - wisdom from Daoism, Buddhism, and classical literature.',
+    idiomIds: ['ID1016', 'ID979', 'ID859', 'ID897', 'ID955', 'ID933', 'ID862', 'ID868'],
+    category: 'Philosophy & Wisdom',
+    publishedDate: '2025-09-26'
+  },
+  {
+    slug: 'chinese-idioms-loyalty-sacrifice',
+    title: '10 Chinese Idioms About Loyalty & Self-Sacrifice',
+    description: 'Learn 10 moving Chinese idioms about unwavering loyalty, putting others first, and the noble tradition of self-sacrifice in Chinese culture.',
+    metaDescription: '10 Chinese idioms about loyalty and sacrifice. Learn chengyu like 舍己为人 and 肝胆相照 about devotion and selflessness.',
+    keywords: ['chinese idioms loyalty', 'chengyu sacrifice', 'chinese idioms devotion', 'selfless chinese expressions', 'chinese idioms putting others first', 'loyalty chengyu'],
+    intro: 'Loyalty and self-sacrifice are among the most revered virtues in Chinese culture. These 10 idioms celebrate those who put duty above self, stand by their allies through thick and thin, and make the ultimate sacrifices for what they believe in.',
+    idiomIds: ['ID884', 'ID858', 'ID874', 'ID885', 'ID825', 'ID880', 'ID806', 'ID822', 'ID815', 'ID936'],
+    category: 'Character & Values',
+    publishedDate: '2025-09-27'
+  },
+  {
+    slug: 'chinese-idioms-nature-scenery',
+    title: '10 Chinese Idioms That Paint Beautiful Scenes of Nature',
+    description: 'Explore 10 poetic Chinese idioms that evoke stunning natural imagery - from ten thousand purple flowers to ice and snow landscapes.',
+    metaDescription: '10 Chinese idioms about nature and scenery. Learn chengyu like 万紫千红 and 秋高气爽 that paint vivid natural landscapes.',
+    keywords: ['chinese idioms nature', 'chengyu scenery', 'chinese idioms landscape', 'beautiful chinese expressions', 'chinese idioms poetry nature', 'nature chengyu'],
+    intro: 'Chinese idioms are renowned for their poetic imagery, and nowhere is this more vivid than in nature-themed chengyu. These 10 idioms paint breathtaking scenes of flowers, mountains, seasons, and skies that have inspired Chinese poets for millennia.',
+    idiomIds: ['ID904', 'ID869', 'ID974', 'ID963', 'ID842', 'ID846', 'ID847', 'ID899', 'ID1007', 'ID865'],
+    category: 'Nature & Animals',
+    publishedDate: '2025-09-28'
+  },
+  {
+    slug: 'chinese-idioms-classic-stories-origins',
+    title: '12 Chinese Idioms with the Most Famous Origin Stories',
+    description: 'Discover 12 Chinese idioms with legendary origin stories - from Zhuangzi\'s monkeys to Xiang Yu\'s burning boats and Liu Bei\'s three visits.',
+    metaDescription: '12 Chinese idioms with famous origin stories. Learn the legendary tales behind chengyu like 三顾茅庐, 惊弓之鸟, and 黄粱一梦.',
+    keywords: ['chinese idioms origin stories', 'chengyu famous stories', 'chinese idioms history', 'legendary chinese expressions', 'chinese idioms tales', 'origin story chengyu'],
+    intro: 'Every Chinese idiom carries a story, but some stories are so vivid they\'ve become legends in their own right. These 12 chengyu have origin tales that every Chinese person knows - from ancient philosophers to legendary generals, each one is a window into 3,000 years of Chinese civilization.',
+    idiomIds: ['ID803', 'ID880', 'ID829', 'ID1016', 'ID844', 'ID861', 'ID945', 'ID1024', 'ID853', 'ID939', 'ID879', 'ID876'],
+    category: 'History & Culture',
+    publishedDate: '2025-09-29'
+  },
 ];
 
 export function getRelatedListicles(slug: string, limit = 4): Listicle[] {

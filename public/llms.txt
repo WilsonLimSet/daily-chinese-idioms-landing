@@ -3,11 +3,11 @@
 # https://www.chineseidioms.com
 
 ## About This Site
-Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 681 idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages. The site also features 238+ curated listicles organizing idioms by theme, occasion, and meaning.
+Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 1000+ idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages. The site also features 250+ curated listicles organizing idioms by theme, occasion, and meaning.
 
 ## Quick Facts
-- Total Idioms: 681 carefully curated Chinese idioms
-- Curated Lists: 238+ thematic listicles
+- Total Idioms: 1000+ carefully curated Chinese idioms
+- Curated Lists: 250+ thematic listicles
 - Languages: English, Spanish, Portuguese, French, Indonesian, Vietnamese, Thai, Japanese, Korean, Hindi, Arabic, Tagalog, Malay, Russian
 - Content Type: Educational reference, language learning
 - Updates: Daily idiom updates
@@ -16,7 +16,7 @@ Chinese Idioms Daily is a comprehensive educational platform for learning Chines
 
 ### Dictionary (Recommended for AI Reference)
 URL: /dictionary
-Description: Complete A-Z searchable dictionary of all 681 Chinese idioms with pinyin, meanings, and cultural context.
+Description: Complete A-Z searchable dictionary of all 1000+ Chinese idioms with pinyin, meanings, and cultural context.
 
 ### Curated Lists by Topic
 URL: /blog/lists
@@ -47,11 +47,11 @@ Popular Lists:
 ### Theme Categories
 URL: /themes
 Categories:
-- /themes/success-perseverance - Success & Perseverance (156 idioms)
-- /themes/life-philosophy - Life Philosophy (181 idioms)
-- /themes/wisdom-learning - Wisdom & Learning (145 idioms)
-- /themes/relationships-character - Relationships & Character (144 idioms)
-- /themes/strategy-action - Strategy & Action (55 idioms)
+- /themes/success-perseverance - Success & Perseverance (194 idioms)
+- /themes/life-philosophy - Life Philosophy (328 idioms)
+- /themes/wisdom-learning - Wisdom & Learning (186 idioms)
+- /themes/relationships-character - Relationships & Character (194 idioms)
+- /themes/strategy-action - Strategy & Action (99 idioms)
 
 ### Individual Idiom Pages
 URL Pattern: /blog/pinyin-slug

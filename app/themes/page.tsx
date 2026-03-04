@@ -22,7 +22,7 @@ const THEME_DESCRIPTIONS: { [key: string]: string } = {
 
 export const metadata: Metadata = {
   title: 'Chinese Idiom Themes - Browse Chengyu by Category',
-  description: 'Browse Chinese idioms (chengyu) organized by theme: wisdom, success, relationships, strategy, philosophy, and character. Explore 365+ idioms with meanings and examples.',
+  description: 'Browse Chinese idioms (chengyu) organized by theme: wisdom, success, relationships, strategy, philosophy, and character. Explore 1000+ idioms with meanings and examples.',
   keywords: [
     'chinese idiom themes',
     'chengyu categories',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title: 'Browse Chinese Idioms by Theme',
-    description: 'Explore 365+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
+    description: 'Explore 1000+ Chinese idioms organized by theme: wisdom, success, relationships, strategy, philosophy, and character.',
     url: 'https://www.chineseidioms.com/themes',
     siteName: 'Chinese Idioms',
     locale: 'en_US',
@@ -42,6 +42,23 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: 'https://www.chineseidioms.com/themes',
+    languages: {
+      'x-default': 'https://www.chineseidioms.com/themes',
+      'en': 'https://www.chineseidioms.com/themes',
+      'es': 'https://www.chineseidioms.com/es/themes',
+      'pt': 'https://www.chineseidioms.com/pt/themes',
+      'id': 'https://www.chineseidioms.com/id/themes',
+      'vi': 'https://www.chineseidioms.com/vi/themes',
+      'ja': 'https://www.chineseidioms.com/ja/themes',
+      'ko': 'https://www.chineseidioms.com/ko/themes',
+      'th': 'https://www.chineseidioms.com/th/themes',
+      'hi': 'https://www.chineseidioms.com/hi/themes',
+      'ar': 'https://www.chineseidioms.com/ar/themes',
+      'fr': 'https://www.chineseidioms.com/fr/themes',
+      'tl': 'https://www.chineseidioms.com/tl/themes',
+      'ms': 'https://www.chineseidioms.com/ms/themes',
+      'ru': 'https://www.chineseidioms.com/ru/themes',
+    },
   },
 };
 
@@ -111,7 +128,7 @@ export default async function ThemesIndexPage() {
             Browse Chinese Idioms by Theme
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl">
-            Explore our collection of 365+ Chinese idioms (chengyu) organized by theme.
+            Explore our collection of 1000+ Chinese idioms (chengyu) organized by theme.
             Each category offers unique insights into Chinese culture, philosophy, and wisdom.
           </p>
         </header>

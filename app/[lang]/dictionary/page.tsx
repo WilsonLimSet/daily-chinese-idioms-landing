@@ -37,8 +37,8 @@ export async function generateMetadata({
   const ogLocale = localeMap[lang] || 'en_US';
 
   return {
-    title: `Chinese Idioms Dictionary (Chengyu) - 365+ Expressions | ${langName}`,
-    description: `Complete Chinese idioms dictionary with 365+ chengyu in ${langName}. Search by pinyin, characters, or meaning.`,
+    title: `Chinese Idioms Dictionary (Chengyu) - 1000+ Expressions | ${langName}`,
+    description: `Complete Chinese idioms dictionary with 1000+ chengyu in ${langName}. Search by pinyin, characters, or meaning.`,
     keywords: [
       'chengyu dictionary',
       'chinese idiom dictionary',
@@ -47,7 +47,7 @@ export async function generateMetadata({
       `chinese idioms ${langName.toLowerCase()}`,
     ],
     openGraph: {
-      title: `Chinese Idioms Dictionary - 365+ Chengyu | ${langName}`,
+      title: `Chinese Idioms Dictionary - 1000+ Chengyu | ${langName}`,
       description: `Complete searchable dictionary of Chinese idioms (chengyu) with pinyin, meanings, and examples in ${langName}.`,
       url: `https://www.chineseidioms.com/${lang}/dictionary`,
       siteName: 'Chinese Idioms',
