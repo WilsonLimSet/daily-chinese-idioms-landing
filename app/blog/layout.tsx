@@ -3,7 +3,7 @@ export const metadata = {
   description: 'Learn a new Chinese idiom every day with historical context and practical examples.',
   alternates: {
     types: {
-      'application/rss+xml': '/api/rss',
+      'application/rss+xml': '/rss.xml',
     },
   },
 };

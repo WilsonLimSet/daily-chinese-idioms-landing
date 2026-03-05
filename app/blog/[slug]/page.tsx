@@ -11,9 +11,6 @@ import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 import '../blog.css';
 
-// Allow dynamic params for older posts not pre-generated
-export const dynamicParams = true;
-
 export async function generateStaticParams() {
   const posts = await getAllBlogPosts();
   return posts.map((post: BlogPost) => ({

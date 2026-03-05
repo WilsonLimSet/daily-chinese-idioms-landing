@@ -29,7 +29,7 @@ export const metadata = {
       ),
     },
     types: {
-      'application/rss+xml': '/api/rss',
+      'application/rss+xml': '/rss.xml',
     },
   },
 };

@@ -1,6 +1,8 @@
 import { MetadataRoute } from 'next';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
+export const dynamic = 'force-static';
+
 export default function robots(): MetadataRoute.Robots {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com';
 
