@@ -13,7 +13,7 @@
   ],
   "redirects": [
     {
-      "source": "/((?!ads\\.txt).*)",
+      "source": "/((?!ads.txt).*)",
       "has": [
         {
           "type": "host",
@@ -23,7 +23,7 @@
       "destination": "https://www.chineseidioms.com/$1",
       "permanent": true
     },
-{
+    {
       "source": "/blog/:year(\\d{4})-:month(\\d{2})-:day(\\d{2})-:slug(.*)",
       "destination": "/blog/:slug",
       "permanent": true
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "source": "/(.*\\.(svg|jpg|jpeg|png|webp|avif|gif))",
+      "source": "/(.+\\.(?:svg|jpg|jpeg|png|webp|avif|gif))",
       "headers": [
         {
           "key": "Cache-Control",
