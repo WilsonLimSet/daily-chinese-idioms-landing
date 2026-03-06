@@ -248,6 +248,118 @@ export const hskEntries: HSKEntry[] = [
   { characters: '独树一帜', pinyin: 'dú shù yī zhì', meaning: 'To stand out / Unique style', partOfSpeech: 'verb', hskLevel: 6, examples: ['他的写作风格独树一帜。(His writing style is truly unique.)'], notes: 'This is itself an idiom (chengyu)!' },
 ];
 
+// Exam prep data — real exam formats from official HSK guidelines
+export const HSK_EXAM_INFO: Record<number, {
+  totalQuestions: number;
+  duration: string;
+  passingScore: string;
+  totalPoints: number;
+  sections: { name: string; questions: number; duration: string; tips: string }[];
+  studyTips: string[];
+  vocabRequired: string;
+} | null> = {
+  1: null,
+  2: null,
+  3: {
+    totalQuestions: 80,
+    duration: '90 minutes',
+    passingScore: '180 / 300',
+    totalPoints: 300,
+    sections: [
+      { name: 'Listening', questions: 40, duration: '35 min', tips: 'Focus on understanding short dialogues about daily life. Questions increase in length — practice with real HSK audio at 1x speed.' },
+      { name: 'Reading', questions: 30, duration: '30 min', tips: 'Match sentences, fill in blanks, and read short paragraphs. Time management is key — skip questions you\'re stuck on and come back.' },
+      { name: 'Writing', questions: 10, duration: '15 min', tips: 'Rearrange words into correct sentences. Practice common sentence patterns like 把 (bǎ) and 被 (bèi) constructions.' },
+    ],
+    studyTips: [
+      'Master all 600 vocabulary words — flashcards with spaced repetition (Anki) work well at this level.',
+      'Practice the 把 construction and 被 passive voice — they appear frequently in reading and writing.',
+      'Listen to short Chinese podcasts or HSK 3 listening practice daily for at least 15 minutes.',
+      'Write out sentences by hand — the writing section tests sentence construction, not free writing.',
+    ],
+    vocabRequired: '600 words',
+  },
+  4: {
+    totalQuestions: 100,
+    duration: '105 minutes',
+    passingScore: '180 / 300',
+    totalPoints: 300,
+    sections: [
+      { name: 'Listening', questions: 45, duration: '30 min', tips: 'Dialogues get longer and more natural. You\'ll hear conversations about work, social situations, and current events. Practice listening without reading transcripts first.' },
+      { name: 'Reading', questions: 40, duration: '40 min', tips: 'Includes fill-in-the-blank, sentence ordering, and passage comprehension. Read the questions before the passage to save time. Look for context clues in surrounding sentences.' },
+      { name: 'Writing', questions: 15, duration: '25 min', tips: 'Write sentences using given words, and describe a picture in 80+ characters. Practice writing short paragraphs about daily topics — focus on correct grammar over complex vocabulary.' },
+    ],
+    studyTips: [
+      'HSK 4 is the biggest jump in difficulty. Budget 3-6 months of focused study if you passed HSK 3 recently.',
+      'Read Chinese news headlines daily (try The Chairman\'s Bao or Du Chinese app) — HSK 4 reading passages mirror news style.',
+      'Master complement structures (结果补语, 趋向补语) — they\'re tested heavily in both reading and writing.',
+      'Practice writing 80-character paragraphs from picture prompts. Time yourself — you only get 25 minutes for the whole writing section.',
+      'Watch Chinese shows with Chinese subtitles (not English). This builds reading speed and listening comprehension simultaneously.',
+    ],
+    vocabRequired: '1,200 words',
+  },
+  5: {
+    totalQuestions: 100,
+    duration: '125 minutes',
+    passingScore: '180 / 300',
+    totalPoints: 300,
+    sections: [
+      { name: 'Listening', questions: 45, duration: '30 min', tips: 'Includes longer monologues and interviews. Speakers talk at natural speed with colloquialisms. Practice with Chinese podcasts, news broadcasts, and TED talks in Chinese.' },
+      { name: 'Reading', questions: 45, duration: '45 min', tips: 'Passages are 300-500 characters long, covering society, culture, science, and business. You need strong scanning skills — practice reading full articles in under 3 minutes.' },
+      { name: 'Writing', questions: 10, duration: '40 min', tips: 'Write an essay of 80+ characters from keywords AND rewrite a passage from memory after reading it for 10 minutes. The rewrite is the hardest part — practice summarizing articles in your own words.' },
+    ],
+    studyTips: [
+      'Read at least one full Chinese article daily — newspapers (人民日报), magazines, or graded readers at HSK 5 level.',
+      'The passage-rewrite task is unique to HSK 5. Practice by reading a paragraph, closing it, and rewriting the key points from memory.',
+      'Learn formal written Chinese (书面语) — HSK 5 tests written register, which differs from spoken Mandarin.',
+      'Study idioms (成语) seriously — they appear in reading passages and are expected in writing at this level.',
+      'Practice writing essays with clear structure: opening statement, 2-3 supporting points, conclusion. Chinese essay structure favors directness.',
+      'Take full-length practice tests under timed conditions at least twice before your exam date.',
+    ],
+    vocabRequired: '2,500 words',
+  },
+  6: {
+    totalQuestions: 101,
+    duration: '140 minutes',
+    passingScore: '180 / 300',
+    totalPoints: 300,
+    sections: [
+      { name: 'Listening', questions: 50, duration: '35 min', tips: 'Native-speed conversations, lectures, and news broadcasts. Focus on understanding tone, implication, and speaker attitude — not just literal meaning.' },
+      { name: 'Reading', questions: 50, duration: '50 min', tips: 'Includes texts with classical Chinese references and academic vocabulary. Speed is critical — practice reading 500+ character passages and answering questions in under 5 minutes.' },
+      { name: 'Writing', questions: 1, duration: '45 min', tips: 'Write a 400-character essay summarizing a 1000-character passage read for 10 minutes. Structure your summary clearly: main argument, key evidence, conclusion.' },
+    ],
+    studyTips: [
+      'At HSK 6, immersion is essential. Consume Chinese media daily — news, podcasts, books, social media.',
+      'The writing section requires summarizing a long passage from memory. Practice by reading opinion articles and writing 400-character summaries.',
+      'Learn to identify rhetorical devices and literary allusions — they appear in both reading and listening.',
+      'Study classical Chinese (文言文) basics — HSK 6 reading occasionally includes classical references.',
+      'Practice speed reading: aim to read 200+ characters per minute with 80%+ comprehension.',
+    ],
+    vocabRequired: '5,000+ words',
+  },
+};
+
+// Listicle slugs related to each HSK level
+export const HSK_LISTICLES: Record<number, { slug: string; title: string }[]> = {
+  1: [],
+  2: [],
+  3: [
+    { slug: 'chinese-idioms-hsk-3', title: '10 Simple Chinese Idioms for HSK 3 Learners' },
+  ],
+  4: [
+    { slug: 'chinese-idioms-hsk-4', title: '12 Essential Chinese Idioms for HSK 4 Learners' },
+    { slug: 'chinese-idioms-hsk-4-advanced', title: '12 More Chinese Idioms for HSK 4 Practice' },
+  ],
+  5: [
+    { slug: 'chinese-idioms-hsk-5', title: '12 Advanced Chinese Idioms for HSK 5 Learners' },
+    { slug: 'chinese-idioms-hsk-5-reading', title: 'Chinese Idioms for HSK 5 Reading Comprehension' },
+  ],
+  6: [
+    { slug: 'chinese-idioms-hsk-6', title: '12 Sophisticated Chinese Idioms for HSK 6 Mastery' },
+    { slug: 'chinese-idioms-hsk-6-writing', title: 'Chinese Idioms for HSK 6 Writing' },
+    { slug: 'chinese-idioms-hsk-7-9', title: 'Chinese Idioms for HSK 7-9 (New HSK)' },
+  ],
+};
+
 // Helper functions
 export function getAllHSKEntries(): HSKEntry[] {
   return hskEntries;

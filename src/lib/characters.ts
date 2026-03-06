@@ -30,7 +30,7 @@ export function getAllCharacterPages(): CharacterPage[] {
     .filter(([, ids]) => ids.length >= 3)
     .map(([character, idiomIds]) => ({
       character,
-      slug: encodeURIComponent(character),
+      slug: character,
       idiomIds,
       count: idiomIds.length,
     }))

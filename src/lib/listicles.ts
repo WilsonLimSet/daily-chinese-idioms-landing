@@ -2860,6 +2860,62 @@ export const listicles: Listicle[] = [
     category: 'History & Culture',
     publishedDate: '2025-09-29'
   },
+  // === Festival Listicles (filling gaps) ===
+  {
+    slug: 'chinese-idioms-winter-solstice-dongzhi',
+    title: '11 Chinese Idioms for Winter Solstice (冬至) — Cold, Snow & Endurance',
+    description: 'Chinese idioms featuring ice, snow, frost, and cold that capture the spirit of Winter Solstice. These chengyu celebrate endurance, purity, and warmth in the coldest season.',
+    metaDescription: 'Learn 11 Chinese idioms for Winter Solstice (冬至). These chengyu about ice, snow, cold, and endurance are perfect for the shortest day of the year.',
+    keywords: ['winter solstice chinese idioms', 'dongzhi chengyu', '冬至成语', 'chinese idioms snow', 'chinese idioms ice cold', 'winter chinese expressions', 'dongzhi festival idioms', 'chinese winter sayings', 'cold weather chengyu', 'winter solstice 2026'],
+    intro: 'Winter Solstice (冬至, dōng zhì) marks the shortest day and longest night of the year — a turning point when darkness peaks and light begins its return. In Chinese culture, 冬至大如年 (the solstice is as important as New Year). These 11 idioms contain the characters for ice (冰), snow (雪), cold (寒), and frost (霜), capturing the harshness of winter and the resilience it demands.',
+    idiomIds: ['ID102', 'ID343', 'ID888', 'ID240', 'ID275', 'ID963', 'ID058', 'ID101', 'ID490', 'ID145', 'ID965'],
+    category: 'Occasions',
+    publishedDate: '2025-09-30'
+  },
+  {
+    slug: 'chinese-idioms-moon-reunion-mid-autumn',
+    title: '10 Chinese Idioms About the Moon & Reunion for Mid-Autumn Festival',
+    description: 'Chinese idioms about the moon, reunion, and togetherness — perfect for Mid-Autumn Festival wishes, mooncake messages, and celebrating under the full moon.',
+    metaDescription: 'Learn 10 Chinese idioms about the moon and reunion for Mid-Autumn Festival. These chengyu are perfect for 中秋节 greetings, mooncake messages, and moon gazing.',
+    keywords: ['mid-autumn festival idioms', 'moon chinese idioms', 'chinese idioms reunion', '中秋节成语', 'mooncake messages chinese', 'moon festival chengyu', 'mid-autumn greetings idioms', 'chinese moon expressions', 'family reunion idioms', 'zhong qiu jie sayings'],
+    intro: 'The Mid-Autumn Festival (中秋节) celebrates the fullest, brightest moon of the year — a symbol of completeness and family togetherness. Su Shi wrote "但愿人长久，千里共婵娟" (May we share this moonlight across a thousand miles). These 10 idioms weave together moon imagery and the longing for reunion that defines this festival.',
+    idiomIds: ['ID821', 'ID114', 'ID120', 'ID187', 'ID603', 'ID613', 'ID525', 'ID385', 'ID533', 'ID711'],
+    category: 'Occasions',
+    publishedDate: '2025-10-01'
+  },
+  {
+    slug: 'chinese-idioms-loyalty-sacrifice-dragon-boat',
+    title: '9 Chinese Idioms About Loyalty & Sacrifice for Dragon Boat Festival',
+    description: 'Chinese idioms about loyalty, righteousness, and self-sacrifice — embodying the spirit of Qu Yuan and the Dragon Boat Festival.',
+    metaDescription: 'Learn 9 Chinese idioms about loyalty and sacrifice for Dragon Boat Festival. These chengyu honor Qu Yuan\'s spirit of righteousness and devotion.',
+    keywords: ['dragon boat festival idioms', 'qu yuan chinese idioms', 'loyalty chengyu', '端午节成语', 'chinese idioms sacrifice', 'righteousness chinese expressions', 'dragon boat loyalty', 'qu yuan spirit idioms', 'chinese idioms integrity', 'duanwu festival sayings'],
+    intro: 'Dragon Boat Festival (端午节) honors Qu Yuan (屈原), the poet who chose death over compromising his principles. His sacrifice embodies 忠义 — loyalty and righteousness — values at the heart of Chinese moral philosophy. These 9 idioms carry that same spirit of standing firm, sacrificing for others, and choosing integrity over convenience.',
+    idiomIds: ['ID759', 'ID884', 'ID825', 'ID806', 'ID412', 'ID898', 'ID765', 'ID822', 'ID761'],
+    category: 'Occasions',
+    publishedDate: '2025-10-02'
+  },
+  {
+    slug: 'chinese-idioms-light-brightness-lantern-festival',
+    title: '9 Chinese Idioms About Light & Brightness for Lantern Festival',
+    description: 'Chinese idioms about light, brightness, and illumination — capturing the radiant spirit of the Lantern Festival and the hope of new beginnings.',
+    metaDescription: 'Discover 9 Chinese idioms about light and brightness for Lantern Festival. These chengyu celebrate illumination, clarity, and hope for 元宵节.',
+    keywords: ['lantern festival idioms', 'chinese idioms light', 'brightness chengyu', '元宵节成语', 'chinese idioms hope', 'light chinese expressions', 'lantern festival sayings', 'chinese idioms illumination', 'yuan xiao jie idioms', 'new beginnings chinese'],
+    intro: 'The Lantern Festival (元宵节) fills streets with light — lanterns of every color marking the first full moon of the new year. Light in Chinese culture represents clarity, hope, and the dispelling of darkness and ignorance. These 9 idioms contain characters for light (光), brightness (明/亮), and radiance (辉/灿), embodying the luminous spirit of this festival.',
+    idiomIds: ['ID084', 'ID412', 'ID099', 'ID1026', 'ID1008', 'ID169', 'ID217', 'ID104', 'ID759'],
+    category: 'Occasions',
+    publishedDate: '2025-10-03'
+  },
+  {
+    slug: 'chinese-idioms-respecting-elders-double-ninth',
+    title: '10 Chinese Idioms About Respecting Elders & Aging for Double Ninth Festival',
+    description: 'Chinese idioms about honoring elders, aging gracefully, and the wisdom that comes with experience — for Chongyang Festival (重阳节), China\'s Senior Citizens\' Day.',
+    metaDescription: 'Learn 10 Chinese idioms about respecting elders for Double Ninth Festival. These chengyu celebrate aging, wisdom, and filial piety for 重阳节.',
+    keywords: ['double ninth festival idioms', 'chongyang chengyu', '重阳节成语', 'chinese idioms elders', 'respecting elders chinese', 'aging chinese idioms', 'senior citizens day chinese', 'filial piety chengyu', 'chinese idioms wisdom age', 'longevity chinese expressions'],
+    intro: 'Double Ninth Festival (重阳节) has been China\'s official Senior Citizens\' Day since 1989. The number nine (九) sounds like "long-lasting" (久), making 9/9 a day to honor longevity and the wisdom of elders. These 10 idioms celebrate the strength of age, the duty of filial respect, and the deep roots that connect generations.',
+    idiomIds: ['ID769', 'ID771', 'ID133', 'ID221', 'ID603', 'ID808', 'ID761', 'ID845', 'ID365', 'ID1013'],
+    category: 'Occasions',
+    publishedDate: '2025-10-04'
+  },
 ];
 
 export function getRelatedListicles(slug: string, limit = 4): Listicle[] {

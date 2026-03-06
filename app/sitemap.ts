@@ -72,6 +72,12 @@ export default async function sitemap(props: {
         changeFrequency: 'monthly',
         priority: 0.5,
       },
+      {
+        url: `${baseUrl}/festivals`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.9,
+      },
     ];
 
     const blogPosts: MetadataRoute.Sitemap = posts.map((post) => ({
@@ -208,6 +214,14 @@ export default async function sitemap(props: {
     lastModified: new Date(),
     changeFrequency: 'weekly',
     priority: 0.9,
+  });
+
+  // Language festivals page
+  entries.push({
+    url: `${baseUrl}/${lang}/festivals`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.85,
   });
 
   // Language theme pages

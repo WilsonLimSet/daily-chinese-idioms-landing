@@ -235,7 +235,15 @@ export default async function Home() {
       <section className="bg-white py-8 border-b border-gray-100">
         <div className="container mx-auto px-6">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">More Resources</h2>
-          <div className="grid sm:grid-cols-3 gap-4 max-w-3xl">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl">
+            <Link
+              href="/festivals"
+              className="p-5 bg-red-50 rounded-xl border border-red-100 hover:shadow-md hover:border-red-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Chinese Festivals</p>
+              <p className="text-sm text-gray-600 mt-1">Traditions & idioms behind 8 major holidays</p>
+              <p className="text-xs text-red-600 font-medium mt-2">Explore festivals →</p>
+            </Link>
             <Link
               href="/slang"
               className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
@@ -322,6 +330,10 @@ export default async function Home() {
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link href="/characters" className="text-gray-600 hover:text-gray-900 transition-colors">
                 Characters
+              </Link>
+              <span className="hidden sm:inline text-gray-400">•</span>
+              <Link href="/festivals" className="text-gray-600 hover:text-gray-900 transition-colors">
+                Festivals
               </Link>
               <span className="hidden sm:inline text-gray-400">•</span>
               <Link href="/faq" className="text-gray-600 hover:text-gray-900 transition-colors">

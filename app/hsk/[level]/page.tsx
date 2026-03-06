@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
-import { HSK_LEVEL_DESCRIPTIONS, getHSKByLevel } from '@/src/lib/hsk';
+import { HSK_LEVEL_DESCRIPTIONS, HSK_EXAM_INFO, HSK_LISTICLES, getHSKByLevel } from '@/src/lib/hsk';
 import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -59,6 +59,8 @@ export default async function HSKLevelPage({ params }: { params: Promise<{ level
   }
 
   const words = getHSKByLevel(levelNum);
+  const examInfo = HSK_EXAM_INFO[levelNum];
+  const listicles = HSK_LISTICLES[levelNum] || [];
 
   const colors = [
     'from-green-500 to-emerald-600',
@@ -193,6 +195,58 @@ export default async function HSKLevelPage({ params }: { params: Promise<{ level
         </section>
 
         <AdUnit type="multiplex" />
+
+        {/* Exam Prep */}
+        {examInfo && (
+          <section className="mt-16 pt-10 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">HSK {level} Exam Format</h2>
+            <p className="text-gray-500 mb-8">
+              {examInfo.totalQuestions} questions · {examInfo.duration} · Pass: {examInfo.passingScore} · Vocabulary: {examInfo.vocabRequired}
+            </p>
+
+            <div className="space-y-4 mb-10">
+              {examInfo.sections.map((section) => (
+                <div key={section.name} className="bg-white rounded-xl border border-gray-100 p-5 sm:p-6">
+                  <div className="flex items-baseline justify-between mb-3">
+                    <h3 className="font-semibold text-gray-900">{section.name}</h3>
+                    <span className="text-sm text-gray-400">{section.questions} questions · {section.duration}</span>
+                  </div>
+                  <p className="text-sm text-gray-600 leading-relaxed">{section.tips}</p>
+                </div>
+              ))}
+            </div>
+
+            <h3 className="font-semibold text-gray-900 mb-4">Study tips for HSK {level}</h3>
+            <ul className="space-y-3">
+              {examInfo.studyTips.map((tip, i) => (
+                <li key={i} className="flex gap-3 text-sm text-gray-600 leading-relaxed">
+                  <span className="text-emerald-500 font-bold shrink-0">{i + 1}.</span>
+                  {tip}
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        {/* Related Listicles */}
+        {listicles.length > 0 && (
+          <section className="mt-16 pt-10 border-t border-gray-200">
+            <h2 className="text-2xl font-bold text-gray-900 mb-2">HSK {level} Idiom Practice</h2>
+            <p className="text-gray-500 mb-6">Chengyu commonly tested at HSK {level} level.</p>
+            <div className="space-y-3">
+              {listicles.map((listicle) => (
+                <Link
+                  key={listicle.slug}
+                  href={`/listicles/${listicle.slug}`}
+                  className="group flex items-center justify-between p-4 bg-white rounded-xl border border-gray-100 hover:shadow-md hover:border-emerald-200 transition-all"
+                >
+                  <span className="font-medium text-gray-900 group-hover:text-emerald-600 transition-colors text-sm">{listicle.title}</span>
+                  <ArrowLeft className="w-4 h-4 text-gray-300 group-hover:text-emerald-500 rotate-180 transition-colors" />
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {/* Other Levels */}
         <section className="mt-16 pt-10 border-t border-gray-200">

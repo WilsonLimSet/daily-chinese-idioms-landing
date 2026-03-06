@@ -1,7 +1,8 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import { ArrowLeft, MessageCircle } from 'lucide-react';
-import { SLANG_CATEGORIES, loadTranslatedSlang } from '@/src/lib/slang';
+import { ArrowLeft } from 'lucide-react';
+import { SLANG_CATEGORIES, loadTranslatedSlang, getSlangEras } from '@/src/lib/slang';
+import SlangEraFilter from '@/app/components/SlangEraFilter';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -45,6 +46,7 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
   const { lang } = await params;
   const allTerms = loadTranslatedSlang(lang);
 
+  // All structured data values sourced from hardcoded slang definitions, not user input
   const structuredData = [
     {
       "@context": "https://schema.org",
@@ -77,7 +79,7 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
         {
           "@type": "Question",
           "name": "What is Chinese internet slang?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Chinese internet slang refers to informal expressions used in Chinese social media, messaging apps, and online culture. These terms often emerge from Weibo, Douyin (TikTok), Bilibili, and WeChat." }
+          "acceptedAnswer": { "@type": "Answer", "text": "Chinese internet slang refers to informal expressions used in Chinese social media, messaging apps, and online culture." }
         }
       ]
     },
@@ -91,105 +93,80 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
     }
   ];
 
+  const featured = allTerms.filter(t => ['nei-juan', 'tang-ping', 'yyds'].includes(t.slug));
+
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen flex flex-col bg-white">
+      {/* Structured data sourced from hardcoded slang definitions, safe to embed */}
       <script
         type="application/ld+json"
-        suppressHydrationWarning
-      >
-        {JSON.stringify(structuredData)}
-      </script>
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
 
-      <nav className="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b border-gray-100">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <Link href={`/${lang}`} className="inline-flex items-center gap-2 text-gray-500 hover:text-gray-900 font-medium transition-colors">
-            <ArrowLeft className="w-4 h-4" />
+      {/* Nav */}
+      <nav className="border-b border-neutral-200">
+        <div className="max-w-5xl mx-auto px-6 py-4">
+          <Link href={`/${lang}`} className="inline-flex items-center gap-2 text-neutral-400 hover:text-neutral-600 text-sm transition-colors duration-75">
+            <ArrowLeft className="w-3.5 h-3.5" />
             {getTranslation(lang, 'home')}
           </Link>
         </div>
       </nav>
 
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <header className="mb-12">
-          <div className="inline-flex items-center gap-2 text-sm font-semibold text-purple-600 bg-purple-50 px-3 py-1.5 rounded-full mb-4">
-            <MessageCircle className="w-4 h-4" />
-            <span>{getTranslation(lang, 'slangTitle')}</span>
-          </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-5 tracking-tight leading-tight">
+      {/* Hero */}
+      <section className="border-b border-neutral-200">
+        <div className="max-w-5xl mx-auto px-6 pt-20 pb-16">
+          <p className="text-sm font-medium text-neutral-400 mb-4">网络用语 · {allTerms.length} terms</p>
+          <h1 className="text-4xl sm:text-5xl font-bold text-neutral-900 tracking-tight leading-[1.1] max-w-2xl">
             {getTranslation(lang, 'slangTitle')}
           </h1>
-          <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl">
+          <p className="text-neutral-500 text-lg leading-relaxed mt-5 max-w-xl">
             {getTranslation(lang, 'slangIndexIntro')}
           </p>
-        </header>
 
-        <AdUnit type="display" />
-
-        {/* Category Filter */}
-        <section className="mb-10">
-          <h2 className="text-lg font-semibold text-gray-900 mb-4">{getTranslation(lang, 'slangCategory')}</h2>
-          <div className="flex flex-wrap gap-2">
-            {SLANG_CATEGORIES.map(category => {
-              const count = allTerms.filter(t => t.category === category).length;
-              return (
-                <a
-                  key={category}
-                  href={`#${category.toLowerCase().replace(/[&\s]+/g, '-')}`}
-                  className="px-3 py-1.5 bg-white border border-gray-200 rounded-full text-sm font-medium text-gray-700 hover:border-purple-300 hover:bg-purple-50 hover:text-purple-700 transition-all"
-                >
-                  {category} ({count})
-                </a>
-              );
-            })}
+          {/* Featured terms */}
+          <div className="mt-12 grid sm:grid-cols-3 gap-4">
+            {featured.map(term => (
+              <Link
+                key={term.slug}
+                href={`/${lang}/slang/${term.slug}`}
+                className="group p-5 rounded-xl border border-neutral-200 hover:border-neutral-300 hover:shadow-sm transition-all duration-150"
+              >
+                <p className="text-2xl font-bold text-neutral-900 group-hover:text-neutral-700 transition-colors duration-75">
+                  {term.characters}
+                </p>
+                <p className="text-xs text-neutral-400 mt-1">{term.pinyin}</p>
+                <p className="text-sm text-neutral-500 mt-3 leading-relaxed line-clamp-2">{term.meaning}</p>
+              </Link>
+            ))}
           </div>
-        </section>
+        </div>
+      </section>
 
-        {/* Slang by Category */}
-        {SLANG_CATEGORIES.map((category, catIdx) => {
-          const categoryTerms = allTerms.filter(t => t.category === category);
-          if (categoryTerms.length === 0) return null;
+      {/* Filter + Content */}
+      <SlangEraFilter
+        terms={allTerms.map(t => ({ slug: t.slug, characters: t.characters, pinyin: t.pinyin, meaning: t.meaning, category: t.category, era: t.era }))}
+        eras={getSlangEras()}
+        categories={[...SLANG_CATEGORIES]}
+        langPrefix={`/${lang}`}
+      />
 
-          return (
-            <section key={category} id={category.toLowerCase().replace(/[&\s]+/g, '-')} className="mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">{category}</h2>
-              <div className="grid gap-4 sm:grid-cols-2">
-                {categoryTerms.map(term => (
-                  <Link
-                    key={term.slug}
-                    href={`/${lang}/slang/${term.slug}`}
-                    className="group p-5 bg-white rounded-xl border border-gray-100 hover:shadow-lg hover:border-purple-200 hover:-translate-y-0.5 transition-all duration-200"
-                  >
-                    <h3 className="font-bold text-gray-900 text-lg group-hover:text-purple-600 transition-colors">
-                      {term.characters}
-                    </h3>
-                    <p className="text-sm text-gray-500 mb-2">{term.pinyin}</p>
-                    <p className="text-sm text-gray-600 line-clamp-2">{term.meaning}</p>
-                    <span className="inline-block mt-2 text-xs font-medium text-purple-600 bg-purple-50 px-2 py-0.5 rounded-full">
-                      {term.era}
-                    </span>
-                  </Link>
-                ))}
-              </div>
-              {catIdx > 0 && catIdx % 2 === 0 && <AdUnit type="in-article" />}
-            </section>
-          );
-        })}
+      <div className="max-w-5xl mx-auto px-6 pb-16">
+        <AdUnit type="display" />
+      </div>
 
-        <AdUnit type="multiplex" />
-      </main>
-
-      <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
+      <footer className="border-t border-neutral-200 py-8">
         <div className="container mx-auto px-4">
-          <div className="text-center space-y-4">
+          <div className="text-center">
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} chineseidioms</p>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
-              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-900 transition-colors">{getTranslation(lang, 'footerBuiltBy')}</a>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
-              <Link href={`/${lang}/blog`} className="text-gray-600 hover:text-gray-900 transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
-              <Link href={`/${lang}/dictionary`} className="text-gray-600 hover:text-gray-900 transition-colors">{getTranslation(lang, 'dictionary')}</Link>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <p className="text-neutral-400 text-sm">&copy; {new Date().getFullYear()} chineseidioms</p>
+              <span className="hidden sm:inline text-neutral-300">&bull;</span>
+              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBuiltBy')}</a>
+              <span className="hidden sm:inline text-neutral-300">&bull;</span>
+              <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
+              <span className="hidden sm:inline text-neutral-300">&bull;</span>
+              <Link href={`/${lang}/dictionary`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'dictionary')}</Link>
+              <span className="hidden sm:inline text-neutral-300">&bull;</span>
               <LanguageSelector currentLang={lang} />
             </div>
           </div>

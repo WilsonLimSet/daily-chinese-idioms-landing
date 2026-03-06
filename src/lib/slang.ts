@@ -713,11 +713,208 @@ export const slangTerms: SlangTerm[] = [
     era: '2022',
     formality: 'very informal',
   },
+  {
+    slug: 'ban-wei',
+    characters: '班味',
+    pinyin: 'bān wèi',
+    meaning: 'Office stench — the lingering aura of exhaustion and despair that clings to you after work. Not a literal smell, but the dead-eyed, soul-drained vibe.',
+    origin: 'The #1 buzzword of 2024. "去班味" (removing office stench) became a trend as young workers tried to reclaim their identity outside of work through hobbies, travel, and self-care.',
+    examples: [
+      'I need a vacation to wash off this 班味.',
+      '下班后第一件事就是去班味。(The first thing after work is to remove the office stench.)',
+    ],
+    category: 'Work & Hustle',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'ying-kong',
+    characters: '硬控',
+    pinyin: 'yìng kòng',
+    meaning: 'Hard-controlled — when something is so captivating it pins you in place. From gaming CC (crowd control) applied to real life.',
+    origin: 'Gaming term that went mainstream in 2024. "This video hard-controlled me for 3 minutes" means you couldn\'t look away. Used for content, people, or moments that seize your full attention.',
+    examples: [
+      'This cat video 硬控 me for 10 minutes straight.',
+      '这个视频硬控了我三分钟。(This video hard-controlled me for three minutes.)',
+    ],
+    category: 'Internet Culture',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'niu-ma',
+    characters: '牛马',
+    pinyin: 'niú mǎ',
+    meaning: 'Beasts of burden — self-deprecating label for overworked, underpaid workers who toil like oxen and horses.',
+    origin: 'Went viral in 2024 as an even more bitter upgrade to 打工人. While 打工人 had ironic pride, 牛马 is pure resignation — you\'re just livestock for the company.',
+    examples: [
+      'Back to being a 牛马 on Monday.',
+      '我们都是公司的牛马。(We\'re all just beasts of burden for the company.)',
+    ],
+    category: 'Work & Hustle',
+    era: '2024',
+    formality: 'very informal',
+  },
+  {
+    slug: 'city-bu-city',
+    characters: 'city不city',
+    pinyin: 'city bù city',
+    meaning: 'City or not city? — asking whether something is modern, hip, or cosmopolitan enough. A vibe check for urbanness.',
+    origin: 'Created by American vlogger "保保熊" (Bao Bao Xiong) in his Shanghai travel videos in 2024. He\'d point at things asking "city不city?" in a playful tone. Went massively viral — even state media picked it up.',
+    examples: [
+      'This rooftop bar is so city不city!',
+      '上海外滩，city不city？(The Bund in Shanghai — city or not city?)',
+    ],
+    category: 'Youth Culture',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'chou-xiang',
+    characters: '抽象',
+    pinyin: 'chōu xiàng',
+    meaning: 'Abstract — when something is so bizarre, confusing, or absurd that you\'re speechless. The 2024 catch-all for "what am I even looking at."',
+    origin: 'Originally an art term, co-opted by Chinese internet culture in 2024 to describe any bewildering behavior. Closely tied to "抽象文化" (abstract culture) — intentionally chaotic humor.',
+    examples: [
+      'His breakup text was so 抽象 I couldn\'t even respond.',
+      '这个操作太抽象了。(This move is too abstract.)',
+    ],
+    category: 'Emotions & Reactions',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'tou-gan',
+    characters: '偷感',
+    pinyin: 'tōu gǎn',
+    meaning: 'Thief vibes — the feeling of doing normal things (eating alone, going to the gym) while looking around nervously like you\'re doing something wrong.',
+    origin: 'Went viral in 2024 on Xiaohongshu. Describes social anxiety where you feel like everyone is watching and judging you, even when you\'re just existing. The opposite of 松弛感.',
+    examples: [
+      'I have major 偷感 eating alone at a restaurant.',
+      '去健身房偷感很重。(I feel like a thief going to the gym.)',
+    ],
+    category: 'Emotions & Reactions',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'dan-ren-nong-ren',
+    characters: '淡人/浓人',
+    pinyin: 'dàn rén / nóng rén',
+    meaning: 'Mild person vs. intense person — a simplified personality split. 淡人 are low-energy and unbothered, 浓人 are loud, passionate, and extra about everything.',
+    origin: 'Emerged in 2024 as a simpler alternative to MBTI types. Instead of 16 personalities, just two: are you mild or intense? Became a popular way to describe friend dynamics.',
+    examples: [
+      'I\'m a 淡人 — don\'t expect me to be excited about anything.',
+      '我是浓人，做什么都很投入。(I\'m an intense person, I go all-in on everything.)',
+    ],
+    category: 'Social & Relationships',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'xiao-hai-ge',
+    characters: '小孩哥/小孩姐',
+    pinyin: 'xiǎo hái gē / xiǎo hái jiě',
+    meaning: 'Kid bro / Kid sis — a child who is surprisingly wise, skilled, or mature beyond their years. Used with genuine admiration.',
+    origin: 'Viral in 2024 from videos of young kids showing off impressive skills — cooking, calligraphy, debate, sports. The respectful 哥/姐 title given to a child creates a funny contrast.',
+    examples: [
+      'This 8-year-old just beat me at chess — 小孩哥!',
+      '这个小孩姐做菜比我好。(This kid sis cooks better than me.)',
+    ],
+    category: 'Youth Culture',
+    era: '2024',
+    formality: 'informal',
+  },
+  {
+    slug: 'mo-yu',
+    characters: '摸鱼',
+    pinyin: 'mō yú',
+    meaning: 'Touching fish — slacking off at work while pretending to be productive. Scrolling your phone, browsing Taobao, looking busy.',
+    origin: 'From the idiom 浑水摸鱼 (fishing in muddy waters). Became standard office vocabulary as workers openly embraced strategic laziness. "摸鱼学" (the art of slacking) has its own subculture.',
+    examples: [
+      'I\'ve been 摸鱼 all afternoon — nobody noticed.',
+      '今天摸了一天的鱼。(Slacked off the entire day today.)',
+    ],
+    category: 'Work & Hustle',
+    era: '2020s',
+    formality: 'informal',
+  },
+  {
+    slug: 'po-fang',
+    characters: '破防',
+    pinyin: 'pò fáng',
+    meaning: 'Defenses breached — when something hits you so emotionally hard that your composure breaks. Can be happy tears or devastating news.',
+    origin: 'From gaming (breaking through defenses). Bilibili named it their "comment of the year." Used when a video, story, or moment makes you unexpectedly emotional.',
+    examples: [
+      'That soldier reunion video completely 破防了.',
+      '看到这个视频我直接破防了。(Watching this video completely broke my defenses.)',
+    ],
+    category: 'Emotions & Reactions',
+    era: '2021',
+    formality: 'informal',
+  },
+  {
+    slug: 'xin-tai-beng-le',
+    characters: '心态崩了',
+    pinyin: 'xīn tài bēng le',
+    meaning: 'Mentality collapsed — when stress, bad luck, or frustration pushes you past your breaking point. Mental boom.',
+    origin: 'From competitive gaming and esports where players\' mental state collapses under pressure. Now used broadly for any situation where you just can\'t take it anymore.',
+    examples: [
+      'Failed my driving test for the 4th time — 心态崩了.',
+      '连续加班一周，心态崩了。(Overtime for a week straight, my mentality collapsed.)',
+    ],
+    category: 'Emotions & Reactions',
+    era: '2020s',
+    formality: 'informal',
+  },
+  {
+    slug: 'gou-liang',
+    characters: '狗粮',
+    pinyin: 'gǒu liáng',
+    meaning: 'Dog food — what single people are "fed" when couples show off their relationship in front of them. Forced to consume PDA.',
+    origin: 'When a couple is being sweet in public or online, single bystanders say they\'re "eating dog food." It\'s self-deprecating humor from the single perspective.',
+    examples: [
+      'My friends are 撒狗粮 again — I need to leave this group chat.',
+      '又被喂了一嘴狗粮。(Got fed another mouthful of dog food.)',
+    ],
+    category: 'Social & Relationships',
+    era: '2018',
+    formality: 'informal',
+  },
+  {
+    slug: '666',
+    characters: '666',
+    pinyin: 'liù liù liù',
+    meaning: 'Smooth / well played / awesome — universal approval in gaming and internet culture. The number 6 (六/溜) sounds like 溜 (smooth/skilled).',
+    origin: 'One of the earliest Chinese internet slang terms from gaming. Spamming 666 in chat means you\'re impressed. Still ubiquitous in livestream comments and Bilibili danmaku.',
+    examples: [
+      'That play was 666!',
+      '主播操作666！(The streamer\'s moves are sick!)',
+    ],
+    category: 'Internet Culture',
+    era: '2010s',
+    formality: 'very informal',
+  },
 ];
+
+export const SLANG_ERAS = ['2024', '2023', '2022', '2021', '2020s', '2020', '2019', '2018', '2017', '2016', '2015', '2012', '2010s', '2000s'] as const;
 
 // Helper functions
 export function getAllSlangTerms(): SlangTerm[] {
   return slangTerms;
+}
+
+export function getSlangEras(): string[] {
+  const eras = new Set(slangTerms.map(t => t.era));
+  // Sort: recent first, decades last
+  return Array.from(eras).sort((a, b) => {
+    const numA = parseInt(a) || 0;
+    const numB = parseInt(b) || 0;
+    if (numA && numB) return numB - numA;
+    if (numA) return -1;
+    if (numB) return 1;
+    return b.localeCompare(a);
+  });
 }
 
 export function getSlangBySlug(slug: string): SlangTerm | undefined {
