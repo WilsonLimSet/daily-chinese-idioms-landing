@@ -57,6 +57,31 @@
       "source": "/:lang(es|pt|id|vi|ja|ko|th|hi|ar|fr|tl|ms|ru)/blog/qian-lu-ji-qiong",
       "destination": "/:lang/blog/qian-lv-ji-qiong",
       "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/kitajskie-:slug(.*)",
+      "destination": "/ru/blog/lists/kitayskie-:slug",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/smeshnye-kitajskie-:slug(.*)",
+      "destination": "/ru/blog/lists/smeshnye-kitayskie-:slug",
+      "permanent": true
+    },
+    {
+      "source": "/ar/blog/lists/taabiir-:slug(.*)",
+      "destination": "/ar/blog/lists/taabir-:slug",
+      "permanent": true
+    },
+    {
+      "source": "/hi/blog/lists/cheenii-:slug(.*)",
+      "destination": "/hi/blog/lists/chini-:slug",
+      "permanent": true
+    },
+    {
+      "source": "/hi/blog/lists/chinese-idioms-:slug(.*)",
+      "destination": "/hi/blog/lists/chini-muhaavare-:slug",
+      "permanent": true
     }
   ],
   "headers": [
