@@ -32,8 +32,8 @@ export async function generateMetadata({ params }: { params: Promise<{ level: st
   }
 
   return {
-    title: `${getTranslation(lang, 'hskLevel')} ${level} — ${info.cefrLevel} | Chinese Idioms (${langName})`,
-    description: `${info.title} (${info.cefrLevel}): ${info.description}`,
+    title: `HSK ${level} Vocabulary List — ${info.wordCount} (${info.cefrLevel}) | ${langName}`,
+    description: `HSK ${level} (${info.cefrLevel}) complete vocabulary list: ${info.wordCount}. ${info.description} Study guide in ${langName}.`,
     keywords: [`HSK ${level}`, `HSK ${level} vocabulary`, `HSK level ${level}`, `HSK ${level} word list`, info.cefrLevel, langName.toLowerCase()],
     openGraph: {
       title: `${getTranslation(lang, 'hskLevel')} ${level}`,

@@ -1933,5 +1933,2546 @@
       "他的写作风格独树一帜。(Phong cách viết văn của anh ấy thực sự độc đáo.)"
     ],
     "notes": "Đây là một thành ngữ (chengyu)!"
+  },
+  {
+    "characters": "爱",
+    "pinyin": "ài",
+    "meaning": "tình yêu",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我爱你。(I love you.)"
+    ],
+    "originalMeaning": "love"
+  },
+  {
+    "characters": "八",
+    "pinyin": "bā",
+    "meaning": "tám",
+    "partOfSpeech": "số từ",
+    "hskLevel": 1,
+    "examples": [
+      "他有八个苹果。(He has eight apples.)"
+    ],
+    "originalMeaning": "eight"
+  },
+  {
+    "characters": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "cha",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我爸爸是老师。(My father is a teacher.)"
+    ],
+    "originalMeaning": "father"
+  },
+  {
+    "characters": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "cốc",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "杯子里有水。(There is water in the cup.)"
+    ],
+    "originalMeaning": "cup"
+  },
+  {
+    "characters": "北京",
+    "pinyin": "Běijīng",
+    "meaning": "Bắc Kinh",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我住在北京。(I live in Beijing.)"
+    ],
+    "originalMeaning": "Beijing"
+  },
+  {
+    "characters": "本",
+    "pinyin": "běn",
+    "meaning": "lượng từ cho sách",
+    "partOfSpeech": "lượng từ",
+    "hskLevel": 1,
+    "examples": [
+      "我有三本书。(I have three books.)"
+    ],
+    "originalMeaning": "measure word for books"
+  },
+  {
+    "characters": "不客气",
+    "pinyin": "bú kèqi",
+    "meaning": "không có gì",
+    "partOfSpeech": "cụm từ",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你！不客气。(Thank you! You're welcome.)"
+    ],
+    "originalMeaning": "you're welcome"
+  },
+  {
+    "characters": "菜",
+    "pinyin": "cài",
+    "meaning": "món ăn",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢中国菜。(I like Chinese food.)"
+    ],
+    "originalMeaning": "dish"
+  },
+  {
+    "characters": "茶",
+    "pinyin": "chá",
+    "meaning": "trà",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我喝茶。(I drink tea.)"
+    ],
+    "originalMeaning": "tea"
+  },
+  {
+    "characters": "吃饭",
+    "pinyin": "chī fàn",
+    "meaning": "ăn",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我们一起吃饭。(Let's eat together.)"
+    ],
+    "originalMeaning": "eat"
+  },
+  {
+    "characters": "出",
+    "pinyin": "chū",
+    "meaning": "ra ngoài",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我出门了。(I went out.)"
+    ],
+    "originalMeaning": "go out"
+  },
+  {
+    "characters": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "taxi",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我坐出租车去。(I take a taxi.)"
+    ],
+    "originalMeaning": "taxi"
+  },
+  {
+    "characters": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "gọi điện thoại",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我给你打电话。(I call you.)"
+    ],
+    "originalMeaning": "make a phone call"
+  },
+  {
+    "characters": "的",
+    "pinyin": "de",
+    "meaning": "trạng từ sở hữu",
+    "partOfSpeech": "hạt từ",
+    "hskLevel": 1,
+    "examples": [
+      "这是我的书。(This is my book.)"
+    ],
+    "originalMeaning": "possessive particle"
+  },
+  {
+    "characters": "点",
+    "pinyin": "diǎn",
+    "meaning": "giờ",
+    "partOfSpeech": "lượng từ",
+    "hskLevel": 1,
+    "examples": [
+      "现在三点。(It's three o'clock now.)"
+    ],
+    "originalMeaning": "o'clock"
+  },
+  {
+    "characters": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "máy tính",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我用电脑工作。(I use a computer to work.)"
+    ],
+    "originalMeaning": "computer"
+  },
+  {
+    "characters": "电视",
+    "pinyin": "diànshì",
+    "meaning": "truyền hình",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我在看电视。(I am watching TV.)"
+    ],
+    "originalMeaning": "television"
+  },
+  {
+    "characters": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "phim",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢看电影。(I like watching movies.)"
+    ],
+    "originalMeaning": "movie"
+  },
+  {
+    "characters": "东西",
+    "pinyin": "dōngxi",
+    "meaning": "đồ vật",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我买了很多东西。(I bought many things.)"
+    ],
+    "originalMeaning": "thing"
+  },
+  {
+    "characters": "都",
+    "pinyin": "dōu",
+    "meaning": "tất cả",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 1,
+    "examples": [
+      "我们都去。(We all go.)"
+    ],
+    "originalMeaning": "all"
+  },
+  {
+    "characters": "对不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": "xin lỗi",
+    "partOfSpeech": "cụm từ",
+    "hskLevel": 1,
+    "examples": [
+      "对不起，我迟到了。(Sorry, I am late.)"
+    ],
+    "originalMeaning": "sorry"
+  },
+  {
+    "characters": "多",
+    "pinyin": "duō",
+    "meaning": "nhiều",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 1,
+    "examples": [
+      "这里的人很多。(There are many people here.)"
+    ],
+    "originalMeaning": "many"
+  },
+  {
+    "characters": "儿子",
+    "pinyin": "érzi",
+    "meaning": "con trai",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我有一个儿子。(I have a son.)"
+    ],
+    "originalMeaning": "son"
+  },
+  {
+    "characters": "二",
+    "pinyin": "èr",
+    "meaning": "hai",
+    "partOfSpeech": "số từ",
+    "hskLevel": 1,
+    "examples": [
+      "我有两个苹果。(I have two apples.)"
+    ],
+    "originalMeaning": "two"
+  },
+  {
+    "characters": "饭店",
+    "pinyin": "fàndiàn",
+    "meaning": "nhà hàng",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我们去饭店吃饭。(We go to the restaurant to eat.)"
+    ],
+    "originalMeaning": "restaurant"
+  },
+  {
+    "characters": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "máy bay",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我坐飞机去北京。(I take a plane to Beijing.)"
+    ],
+    "originalMeaning": "airplane"
+  },
+  {
+    "characters": "分钟",
+    "pinyin": "fēnzhōng",
+    "meaning": "phút",
+    "partOfSpeech": "lượng từ",
+    "hskLevel": 1,
+    "examples": [
+      "我等了十分钟。(I waited for ten minutes.)"
+    ],
+    "originalMeaning": "minute"
+  },
+  {
+    "characters": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "vui vẻ",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(I am very happy.)"
+    ],
+    "originalMeaning": "happy"
+  },
+  {
+    "characters": "个",
+    "pinyin": "gè",
+    "meaning": "lượng từ",
+    "partOfSpeech": "lượng từ",
+    "hskLevel": 1,
+    "examples": [
+      "一个人。(One person.)"
+    ],
+    "originalMeaning": "measure word"
+  },
+  {
+    "characters": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "công việc",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我在工作。(I am working.)"
+    ],
+    "originalMeaning": "work"
+  },
+  {
+    "characters": "狗",
+    "pinyin": "gǒu",
+    "meaning": "chó",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只狗。(I have a dog.)"
+    ],
+    "originalMeaning": "dog"
+  },
+  {
+    "characters": "汉语",
+    "pinyin": "Hànyǔ",
+    "meaning": "tiếng Trung",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "我在学汉语。(I am learning Chinese.)"
+    ],
+    "originalMeaning": "Chinese language"
+  },
+  {
+    "characters": "号",
+    "pinyin": "hào",
+    "meaning": "ngày",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "今天是几号？(What is the date today?)"
+    ],
+    "originalMeaning": "date"
+  },
+  {
+    "characters": "和",
+    "pinyin": "hé",
+    "meaning": "và",
+    "partOfSpeech": "liên từ",
+    "hskLevel": 1,
+    "examples": [
+      "我和你。(You and I.)"
+    ],
+    "originalMeaning": "and"
+  },
+  {
+    "characters": "很",
+    "pinyin": "hěn",
+    "meaning": "rất",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(I am very happy.)"
+    ],
+    "originalMeaning": "very"
+  },
+  {
+    "characters": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "phía sau",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 1,
+    "examples": [
+      "房子后面有个花园。(There is a garden behind the house.)"
+    ],
+    "originalMeaning": "behind"
+  },
+  {
+    "characters": "回",
+    "pinyin": "huí",
+    "meaning": "trở về",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我回家。(I return home.)"
+    ],
+    "originalMeaning": "return"
+  },
+  {
+    "characters": "会",
+    "pinyin": "huì",
+    "meaning": "có thể",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我会说汉语。(I can speak Chinese.)"
+    ],
+    "originalMeaning": "can"
+  },
+  {
+    "characters": "几",
+    "pinyin": "jǐ",
+    "meaning": "bao nhiêu",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 1,
+    "examples": [
+      "你有几个苹果？(How many apples do you have?)"
+    ],
+    "originalMeaning": "how many"
+  },
+  {
+    "characters": "叫",
+    "pinyin": "jiào",
+    "meaning": "gọi",
+    "partOfSpeech": "động từ",
+    "hskLevel": 1,
+    "examples": [
+      "我叫李明。(My name is Li Ming.)"
+    ],
+    "originalMeaning": "call"
+  },
+  {
+    "characters": "九",
+    "pinyin": "jiǔ",
+    "meaning": "chín",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有九个朋友。(Tôi có chín người bạn.)"
+    ],
+    "originalMeaning": "nine"
+  },
+  {
+    "characters": "开",
+    "pinyin": "kāi",
+    "meaning": "mở",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "请开门。(Xin hãy mở cửa.)"
+    ],
+    "originalMeaning": "open"
+  },
+  {
+    "characters": "看见",
+    "pinyin": "kànjiàn",
+    "meaning": "thấy",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我看见他了。(Tôi đã thấy anh ấy.)"
+    ],
+    "originalMeaning": "see"
+  },
+  {
+    "characters": "块",
+    "pinyin": "kuài",
+    "meaning": "đơn vị tiền tệ",
+    "partOfSpeech": "measure word",
+    "hskLevel": 1,
+    "examples": [
+      "这个五块钱。(Cái này là năm tệ.)"
+    ],
+    "originalMeaning": "measure word for money"
+  },
+  {
+    "characters": "来",
+    "pinyin": "lái",
+    "meaning": "đến",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "请你来。(Xin bạn đến.)"
+    ],
+    "originalMeaning": "come"
+  },
+  {
+    "characters": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "giáo viên",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的老师。(Ông ấy là giáo viên của tôi.)"
+    ],
+    "originalMeaning": "teacher"
+  },
+  {
+    "characters": "了",
+    "pinyin": "le",
+    "meaning": "trợ từ chỉ sự thay đổi",
+    "partOfSpeech": "particle",
+    "hskLevel": 1,
+    "examples": [
+      "我吃饭了。(Tôi đã ăn.)"
+    ],
+    "originalMeaning": "particle indicating change"
+  },
+  {
+    "characters": "冷",
+    "pinyin": "lěng",
+    "meaning": "lạnh",
+    "partOfSpeech": "adjective",
+    "hskLevel": 1,
+    "examples": [
+      "今天很冷。(Hôm nay rất lạnh.)"
+    ],
+    "originalMeaning": "cold"
+  },
+  {
+    "characters": "里",
+    "pinyin": "lǐ",
+    "meaning": "bên trong",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "房子里有很多人。(Trong nhà có nhiều người.)"
+    ],
+    "originalMeaning": "inside"
+  },
+  {
+    "characters": "六",
+    "pinyin": "liù",
+    "meaning": "sáu",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有六本书。(Tôi có sáu quyển sách.)"
+    ],
+    "originalMeaning": "six"
+  },
+  {
+    "characters": "妈妈",
+    "pinyin": "māma",
+    "meaning": "mẹ",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我妈妈是医生。(Mẹ tôi là bác sĩ.)"
+    ],
+    "originalMeaning": "mother"
+  },
+  {
+    "characters": "吗",
+    "pinyin": "ma",
+    "meaning": "trợ từ nghi vấn",
+    "partOfSpeech": "particle",
+    "hskLevel": 1,
+    "examples": [
+      "你好吗？(Bạn khỏe không?)"
+    ],
+    "originalMeaning": "question particle"
+  },
+  {
+    "characters": "猫",
+    "pinyin": "māo",
+    "meaning": "mèo",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我家有一只猫。(Nhà tôi có một con mèo.)"
+    ],
+    "originalMeaning": "cat"
+  },
+  {
+    "characters": "没关系",
+    "pinyin": "méi guānxi",
+    "meaning": "không sao",
+    "partOfSpeech": "phrase",
+    "hskLevel": 1,
+    "examples": [
+      "对不起！没关系。(Xin lỗi! Không sao.)"
+    ],
+    "originalMeaning": "it's okay"
+  },
+  {
+    "characters": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "cơm",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃米饭。(Tôi thích ăn cơm.)"
+    ],
+    "originalMeaning": "rice"
+  },
+  {
+    "characters": "名字",
+    "pinyin": "míngzi",
+    "meaning": "tên",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "你的名字是什么？(Tên của bạn là gì?)"
+    ],
+    "originalMeaning": "name"
+  },
+  {
+    "characters": "哪",
+    "pinyin": "nǎ",
+    "meaning": "nào",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 1,
+    "examples": [
+      "你是哪国人？(Bạn là người nước nào?)"
+    ],
+    "originalMeaning": "which"
+  },
+  {
+    "characters": "那",
+    "pinyin": "nà",
+    "meaning": "đó",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 1,
+    "examples": [
+      "那是我的书。(Đó là quyển sách của tôi.)"
+    ],
+    "originalMeaning": "that"
+  },
+  {
+    "characters": "呢",
+    "pinyin": "ne",
+    "meaning": "trợ từ nghi vấn",
+    "partOfSpeech": "particle",
+    "hskLevel": 1,
+    "examples": [
+      "你呢？(Còn bạn thì sao?)"
+    ],
+    "originalMeaning": "question particle"
+  },
+  {
+    "characters": "能",
+    "pinyin": "néng",
+    "meaning": "có thể",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我能说汉语。(Tôi có thể nói tiếng Trung.)"
+    ],
+    "originalMeaning": "can"
+  },
+  {
+    "characters": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "phía trước",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "前面有一个商店。(Phía trước có một cửa hàng.)"
+    ],
+    "originalMeaning": "front"
+  },
+  {
+    "characters": "请",
+    "pinyin": "qǐng",
+    "meaning": "xin",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "请坐。(Xin mời ngồi.)"
+    ],
+    "originalMeaning": "please"
+  },
+  {
+    "characters": "去",
+    "pinyin": "qù",
+    "meaning": "đi",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我去学校。(Tôi đi đến trường.)"
+    ],
+    "originalMeaning": "go"
+  },
+  {
+    "characters": "热",
+    "pinyin": "rè",
+    "meaning": "nóng",
+    "partOfSpeech": "adjective",
+    "hskLevel": 1,
+    "examples": [
+      "今天很热。(Hôm nay rất nóng.)"
+    ],
+    "originalMeaning": "hot"
+  },
+  {
+    "characters": "人",
+    "pinyin": "rén",
+    "meaning": "người",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "他是一个好人。(Ông ấy là một người tốt.)"
+    ],
+    "originalMeaning": "person"
+  },
+  {
+    "characters": "认识",
+    "pinyin": "rènshi",
+    "meaning": "biết",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我认识他。(Tôi biết anh ấy.)"
+    ],
+    "originalMeaning": "know"
+  },
+  {
+    "characters": "三",
+    "pinyin": "sān",
+    "meaning": "ba",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有三本书。(Tôi có ba quyển sách.)"
+    ],
+    "originalMeaning": "three"
+  },
+  {
+    "characters": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "cửa hàng",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我去商店买东西。(Tôi đi đến cửa hàng để mua đồ.)"
+    ],
+    "originalMeaning": "shop"
+  },
+  {
+    "characters": "上",
+    "pinyin": "shàng",
+    "meaning": "trên",
+    "partOfSpeech": "preposition",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子上。(Quyển sách ở trên bàn.)"
+    ],
+    "originalMeaning": "up"
+  },
+  {
+    "characters": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "buổi sáng",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我上午去学校。(Tôi đi đến trường vào buổi sáng.)"
+    ],
+    "originalMeaning": "morning"
+  },
+  {
+    "characters": "少",
+    "pinyin": "shǎo",
+    "meaning": "ít",
+    "partOfSpeech": "adjective",
+    "hskLevel": 1,
+    "examples": [
+      "这里人很少。(Ở đây có rất ít người.)"
+    ],
+    "originalMeaning": "few"
+  },
+  {
+    "characters": "十",
+    "pinyin": "shí",
+    "meaning": "mười",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有十个苹果。(Tôi có mười quả táo.)"
+    ],
+    "originalMeaning": "ten"
+  },
+  {
+    "characters": "时候",
+    "pinyin": "shíhou",
+    "meaning": "thời gian",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "你什么时候回来？(Khi nào bạn sẽ trở về?)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "书",
+    "pinyin": "shū",
+    "meaning": "sách",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢看书。(Tôi thích đọc sách.)"
+    ],
+    "originalMeaning": "book"
+  },
+  {
+    "characters": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "trái cây",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃水果。(Tôi thích ăn trái cây.)"
+    ],
+    "originalMeaning": "fruit"
+  },
+  {
+    "characters": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "ngủ",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我晚上十点睡觉。(Tôi ngủ lúc mười giờ tối.)"
+    ],
+    "originalMeaning": "sleep"
+  },
+  {
+    "characters": "四",
+    "pinyin": "sì",
+    "meaning": "bốn",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有四个朋友。(Tôi có bốn người bạn.)"
+    ],
+    "originalMeaning": "four"
+  },
+  {
+    "characters": "岁",
+    "pinyin": "suì",
+    "meaning": "tuổi",
+    "partOfSpeech": "measure word",
+    "hskLevel": 1,
+    "examples": [
+      "我今年二十岁。(Năm nay tôi hai mươi tuổi.)"
+    ],
+    "originalMeaning": "years old"
+  },
+  {
+    "characters": "太",
+    "pinyin": "tài",
+    "meaning": "quá",
+    "partOfSpeech": "adverb",
+    "hskLevel": 1,
+    "examples": [
+      "太好了！(Tuyệt quá!)"
+    ],
+    "originalMeaning": "too"
+  },
+  {
+    "characters": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "thời tiết",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(Thời tiết hôm nay rất tốt.)"
+    ],
+    "originalMeaning": "weather"
+  },
+  {
+    "characters": "同学",
+    "pinyin": "tóngxué",
+    "meaning": "bạn học",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的同学。(He is my classmate.)"
+    ],
+    "originalMeaning": "classmate"
+  },
+  {
+    "characters": "喂",
+    "pinyin": "wèi",
+    "meaning": "xin chào (trên điện thoại)",
+    "partOfSpeech": "phrase",
+    "hskLevel": 1,
+    "examples": [
+      "喂，你好！(Hello, how are you?)"
+    ],
+    "originalMeaning": "hello (on the phone)"
+  },
+  {
+    "characters": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "chúng tôi",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 1,
+    "examples": [
+      "我们都是好朋友。(We are all good friends.)"
+    ],
+    "originalMeaning": "we"
+  },
+  {
+    "characters": "五",
+    "pinyin": "wǔ",
+    "meaning": "năm",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有五个苹果。(I have five apples.)"
+    ],
+    "originalMeaning": "five"
+  },
+  {
+    "characters": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "thích",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃苹果。(I like eating apples.)"
+    ],
+    "originalMeaning": "like"
+  },
+  {
+    "characters": "下",
+    "pinyin": "xià",
+    "meaning": "dưới",
+    "partOfSpeech": "preposition",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子下。(The book is under the table.)"
+    ],
+    "originalMeaning": "down"
+  },
+  {
+    "characters": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "buổi chiều",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我下午去商店。(I go to the shop in the afternoon.)"
+    ],
+    "originalMeaning": "afternoon"
+  },
+  {
+    "characters": "下雨",
+    "pinyin": "xiàyǔ",
+    "meaning": "mưa",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "今天下雨了。(It rained today.)"
+    ],
+    "originalMeaning": "rain"
+  },
+  {
+    "characters": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "ông",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "王先生是我的老师。(Mr. Wang is my teacher.)"
+    ],
+    "originalMeaning": "Mr."
+  },
+  {
+    "characters": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "bây giờ",
+    "partOfSpeech": "adverb",
+    "hskLevel": 1,
+    "examples": [
+      "我现在在学校。(I am at school now.)"
+    ],
+    "originalMeaning": "now"
+  },
+  {
+    "characters": "想",
+    "pinyin": "xiǎng",
+    "meaning": "muốn",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我想吃饭。(I want to eat.)"
+    ],
+    "originalMeaning": "want"
+  },
+  {
+    "characters": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "cô",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "李小姐是我的朋友。(Miss Li is my friend.)"
+    ],
+    "originalMeaning": "Miss"
+  },
+  {
+    "characters": "些",
+    "pinyin": "xiē",
+    "meaning": "một vài",
+    "partOfSpeech": "measure word",
+    "hskLevel": 1,
+    "examples": [
+      "我买了一些水果。(I bought some fruits.)"
+    ],
+    "originalMeaning": "some"
+  },
+  {
+    "characters": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "tuần",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "今天是星期一。(Today is Monday.)"
+    ],
+    "originalMeaning": "week"
+  },
+  {
+    "characters": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "học sinh",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "他是一个好学生。(He is a good student.)"
+    ],
+    "originalMeaning": "student"
+  },
+  {
+    "characters": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "học",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我在学习汉语。(I am studying Chinese.)"
+    ],
+    "originalMeaning": "study"
+  },
+  {
+    "characters": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "trường học",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我在学校上课。(I attend classes at school.)"
+    ],
+    "originalMeaning": "school"
+  },
+  {
+    "characters": "一",
+    "pinyin": "yī",
+    "meaning": "một",
+    "partOfSpeech": "numeral",
+    "hskLevel": 1,
+    "examples": [
+      "我有一个苹果。(I have one apple.)"
+    ],
+    "originalMeaning": "one"
+  },
+  {
+    "characters": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "quần áo",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我买了新衣服。(I bought new clothes.)"
+    ],
+    "originalMeaning": "clothes"
+  },
+  {
+    "characters": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "bác sĩ",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "他是医生。(He is a doctor.)"
+    ],
+    "originalMeaning": "doctor"
+  },
+  {
+    "characters": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "bệnh viện",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我去医院看病。(I go to the hospital to see a doctor.)"
+    ],
+    "originalMeaning": "hospital"
+  },
+  {
+    "characters": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "ghế",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "请坐在椅子上。(Please sit on the chair.)"
+    ],
+    "originalMeaning": "chair"
+  },
+  {
+    "characters": "有",
+    "pinyin": "yǒu",
+    "meaning": "có",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我有一本书。(I have a book.)"
+    ],
+    "originalMeaning": "have"
+  },
+  {
+    "characters": "月",
+    "pinyin": "yuè",
+    "meaning": "tháng",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "这个月我很忙。(I am busy this month.)"
+    ],
+    "originalMeaning": "month"
+  },
+  {
+    "characters": "在",
+    "pinyin": "zài",
+    "meaning": "tại",
+    "partOfSpeech": "preposition",
+    "hskLevel": 1,
+    "examples": [
+      "我在家。(I am at home.)"
+    ],
+    "originalMeaning": "at"
+  },
+  {
+    "characters": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "như thế nào",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 1,
+    "examples": [
+      "你怎么去学校？(How do you go to school?)"
+    ],
+    "originalMeaning": "how"
+  },
+  {
+    "characters": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "thế nào",
+    "partOfSpeech": "phrase",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气怎么样？(How is the weather today?)"
+    ],
+    "originalMeaning": "how about"
+  },
+  {
+    "characters": "这",
+    "pinyin": "zhè",
+    "meaning": "cái này",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 1,
+    "examples": [
+      "这是我的书。(This is my book.)"
+    ],
+    "originalMeaning": "this"
+  },
+  {
+    "characters": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "Trung Quốc",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我去过中国。(I have been to China.)"
+    ],
+    "originalMeaning": "China"
+  },
+  {
+    "characters": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "buổi trưa",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "我们中午吃饭。(We eat at noon.)"
+    ],
+    "originalMeaning": "noon"
+  },
+  {
+    "characters": "住",
+    "pinyin": "zhù",
+    "meaning": "sống",
+    "partOfSpeech": "verb",
+    "hskLevel": 1,
+    "examples": [
+      "我住在北京。(I live in Beijing.)"
+    ],
+    "originalMeaning": "live"
+  },
+  {
+    "characters": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "bàn",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子上。(The book is on the table.)"
+    ],
+    "originalMeaning": "table"
+  },
+  {
+    "characters": "字",
+    "pinyin": "zì",
+    "meaning": "chữ",
+    "partOfSpeech": "noun",
+    "hskLevel": 1,
+    "examples": [
+      "这个字怎么写？(How do you write this character?)"
+    ],
+    "originalMeaning": "character"
+  },
+  {
+    "characters": "白",
+    "pinyin": "bái",
+    "meaning": "trắng",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "这是一只白猫。(This is a white cat.)"
+    ],
+    "originalMeaning": "white"
+  },
+  {
+    "characters": "百",
+    "pinyin": "bǎi",
+    "meaning": "trăm",
+    "partOfSpeech": "numeral",
+    "hskLevel": 2,
+    "examples": [
+      "这里有一百个人。(There are one hundred people here.)"
+    ],
+    "originalMeaning": "hundred"
+  },
+  {
+    "characters": "报纸",
+    "pinyin": "bàozhǐ",
+    "meaning": "báo",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我每天看报纸。(I read the newspaper every day.)"
+    ],
+    "originalMeaning": "newspaper"
+  },
+  {
+    "characters": "比",
+    "pinyin": "bǐ",
+    "meaning": "so sánh",
+    "partOfSpeech": "preposition",
+    "hskLevel": 2,
+    "examples": [
+      "他比我高。(He is taller than me.)"
+    ],
+    "originalMeaning": "compare"
+  },
+  {
+    "characters": "别",
+    "pinyin": "bié",
+    "meaning": "đừng",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "别说话。(Don't talk.)"
+    ],
+    "originalMeaning": "don't"
+  },
+  {
+    "characters": "宾馆",
+    "pinyin": "bīnguǎn",
+    "meaning": "khách sạn",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我们住在宾馆。(We are staying at a hotel.)"
+    ],
+    "originalMeaning": "hotel"
+  },
+  {
+    "characters": "长",
+    "pinyin": "cháng",
+    "meaning": "dài",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "这条路很长。(This road is very long.)"
+    ],
+    "originalMeaning": "long"
+  },
+  {
+    "characters": "唱歌",
+    "pinyin": "chànggē",
+    "meaning": "hát",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢唱歌。(She likes to sing.)"
+    ],
+    "originalMeaning": "sing"
+  },
+  {
+    "characters": "穿",
+    "pinyin": "chuān",
+    "meaning": "mặc",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "她穿了一件红色的衣服。(She is wearing a red dress.)"
+    ],
+    "originalMeaning": "wear"
+  },
+  {
+    "characters": "次",
+    "pinyin": "cì",
+    "meaning": "lần",
+    "partOfSpeech": "measure word",
+    "hskLevel": 2,
+    "examples": [
+      "我去过两次北京。(I have been to Beijing twice.)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "从",
+    "pinyin": "cóng",
+    "meaning": "từ",
+    "partOfSpeech": "preposition",
+    "hskLevel": 2,
+    "examples": [
+      "我从中国来。(I come from China.)"
+    ],
+    "originalMeaning": "from"
+  },
+  {
+    "characters": "错",
+    "pinyin": "cuò",
+    "meaning": "sai",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "这道题你做错了。(You got this question wrong.)"
+    ],
+    "originalMeaning": "wrong"
+  },
+  {
+    "characters": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "meaning": "chơi bóng rổ",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢打篮球。(I like to play basketball.)"
+    ],
+    "originalMeaning": "play basketball"
+  },
+  {
+    "characters": "大家",
+    "pinyin": "dàjiā",
+    "meaning": "mọi người",
+    "partOfSpeech": "pronoun",
+    "hskLevel": 2,
+    "examples": [
+      "大家好！(Hello everyone!)"
+    ],
+    "originalMeaning": "everyone"
+  },
+  {
+    "characters": "到",
+    "pinyin": "dào",
+    "meaning": "đến",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我到家了。(I have arrived home.)"
+    ],
+    "originalMeaning": "arrive"
+  },
+  {
+    "characters": "得",
+    "pinyin": "de",
+    "meaning": "trợ từ",
+    "partOfSpeech": "particle",
+    "hskLevel": 2,
+    "examples": [
+      "他跑得很快。(He runs very fast.)"
+    ],
+    "originalMeaning": "particle"
+  },
+  {
+    "characters": "等",
+    "pinyin": "děng",
+    "meaning": "chờ",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请等一下。(Please wait a moment.)"
+    ],
+    "originalMeaning": "wait"
+  },
+  {
+    "characters": "弟弟",
+    "pinyin": "dìdi",
+    "meaning": "em trai",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个弟弟。(I have a younger brother.)"
+    ],
+    "originalMeaning": "younger brother"
+  },
+  {
+    "characters": "第一",
+    "pinyin": "dì yī",
+    "meaning": "thứ nhất",
+    "partOfSpeech": "numeral",
+    "hskLevel": 2,
+    "examples": [
+      "他是第一名。(He is the first.)"
+    ],
+    "originalMeaning": "first"
+  },
+  {
+    "characters": "懂",
+    "pinyin": "dǒng",
+    "meaning": "hiểu",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我懂你的意思。(I understand what you mean.)"
+    ],
+    "originalMeaning": "understand"
+  },
+  {
+    "characters": "对",
+    "pinyin": "duì",
+    "meaning": "đúng",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "你的答案是对的。(Your answer is correct.)"
+    ],
+    "originalMeaning": "correct"
+  },
+  {
+    "characters": "房间",
+    "pinyin": "fángjiān",
+    "meaning": "phòng",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "这是我的房间。(This is my room.)"
+    ],
+    "originalMeaning": "room"
+  },
+  {
+    "characters": "服务员",
+    "pinyin": "fúwùyuán",
+    "meaning": "người phục vụ",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "服务员，请给我菜单。(Waiter, please give me the menu.)"
+    ],
+    "originalMeaning": "waiter"
+  },
+  {
+    "characters": "高",
+    "pinyin": "gāo",
+    "meaning": "cao",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "他很高。(He is tall.)"
+    ],
+    "originalMeaning": "tall"
+  },
+  {
+    "characters": "告诉",
+    "pinyin": "gàosu",
+    "meaning": "nói",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请告诉我你的名字。(Please tell me your name.)"
+    ],
+    "originalMeaning": "tell"
+  },
+  {
+    "characters": "哥哥",
+    "pinyin": "gēge",
+    "meaning": "anh trai",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个哥哥。(I have an older brother.)"
+    ],
+    "originalMeaning": "older brother"
+  },
+  {
+    "characters": "给",
+    "pinyin": "gěi",
+    "meaning": "cho",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请给我一杯水。(Please give me a glass of water.)"
+    ],
+    "originalMeaning": "give"
+  },
+  {
+    "characters": "公共汽车",
+    "pinyin": "gōnggòng qìchē",
+    "meaning": "xe buýt",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我坐公共汽车去上班。(I take the bus to work.)"
+    ],
+    "originalMeaning": "bus"
+  },
+  {
+    "characters": "公司",
+    "pinyin": "gōngsī",
+    "meaning": "công ty",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我在一家大公司工作。(I work at a big company.)"
+    ],
+    "originalMeaning": "company"
+  },
+  {
+    "characters": "贵",
+    "pinyin": "guì",
+    "meaning": "đắt",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "这件衣服很贵。(This piece of clothing is expensive.)"
+    ],
+    "originalMeaning": "expensive"
+  },
+  {
+    "characters": "过",
+    "pinyin": "guò",
+    "meaning": "qua",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我过了考试。(I passed the exam.)"
+    ],
+    "originalMeaning": "pass"
+  },
+  {
+    "characters": "还",
+    "pinyin": "hái",
+    "meaning": "vẫn",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "他还在睡觉。(He is still sleeping.)"
+    ],
+    "originalMeaning": "still"
+  },
+  {
+    "characters": "孩子",
+    "pinyin": "háizi",
+    "meaning": "trẻ em",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "那个孩子很可爱。(That child is very cute.)"
+    ],
+    "originalMeaning": "child"
+  },
+  {
+    "characters": "好吃",
+    "pinyin": "hǎochī",
+    "meaning": "ngon",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "这道菜很好吃。(This dish is delicious.)"
+    ],
+    "originalMeaning": "delicious"
+  },
+  {
+    "characters": "黑",
+    "pinyin": "hēi",
+    "meaning": "đen",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "他穿了一件黑色的衣服。(He is wearing black clothes.)"
+    ],
+    "originalMeaning": "black"
+  },
+  {
+    "characters": "红",
+    "pinyin": "hóng",
+    "meaning": "đỏ",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢红色。(She likes red.)"
+    ],
+    "originalMeaning": "red"
+  },
+  {
+    "characters": "欢迎",
+    "pinyin": "huānyíng",
+    "meaning": "chào mừng",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "欢迎来到中国。(Welcome to China.)"
+    ],
+    "originalMeaning": "welcome"
+  },
+  {
+    "characters": "回答",
+    "pinyin": "huídá",
+    "meaning": "trả lời",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请回答我的问题。(Please answer my question.)"
+    ],
+    "originalMeaning": "answer"
+  },
+  {
+    "characters": "鸡蛋",
+    "pinyin": "jīdàn",
+    "meaning": "trứng",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我早餐吃鸡蛋。(I eat eggs for breakfast.)"
+    ],
+    "originalMeaning": "egg"
+  },
+  {
+    "characters": "件",
+    "pinyin": "jiàn",
+    "meaning": "đơn vị đếm quần áo",
+    "partOfSpeech": "measure word",
+    "hskLevel": 2,
+    "examples": [
+      "这是一件新衣服。(This is a new piece of clothing.)"
+    ],
+    "originalMeaning": "measure word for clothes"
+  },
+  {
+    "characters": "教室",
+    "pinyin": "jiàoshì",
+    "meaning": "phòng học",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我们在教室上课。(We have class in the classroom.)"
+    ],
+    "originalMeaning": "classroom"
+  },
+  {
+    "characters": "姐姐",
+    "pinyin": "jiějie",
+    "meaning": "chị gái",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个姐姐。(I have an older sister.)"
+    ],
+    "originalMeaning": "older sister"
+  },
+  {
+    "characters": "介绍",
+    "pinyin": "jièshào",
+    "meaning": "giới thiệu",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请介绍一下你自己。(Please introduce yourself.)"
+    ],
+    "originalMeaning": "introduce"
+  },
+  {
+    "characters": "进",
+    "pinyin": "jìn",
+    "meaning": "vào",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "请进。(Please come in.)"
+    ],
+    "originalMeaning": "enter"
+  },
+  {
+    "characters": "就",
+    "pinyin": "jiù",
+    "meaning": "thì",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "我一到家就给你打电话。(I will call you as soon as I get home.)"
+    ],
+    "originalMeaning": "then"
+  },
+  {
+    "characters": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "cà phê",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上喝咖啡。(I drink coffee every morning.)"
+    ],
+    "originalMeaning": "coffee"
+  },
+  {
+    "characters": "考试",
+    "pinyin": "kǎoshì",
+    "meaning": "kỳ thi",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我明天有一个考试。(I have an exam tomorrow.)"
+    ],
+    "originalMeaning": "exam"
+  },
+  {
+    "characters": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "vui vẻ",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "祝你生日快乐！(Chúc bạn sinh nhật vui vẻ!)"
+    ],
+    "originalMeaning": "happy"
+  },
+  {
+    "characters": "累",
+    "pinyin": "lèi",
+    "meaning": "mệt",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "我今天很累。(Hôm nay tôi rất mệt.)"
+    ],
+    "originalMeaning": "tired"
+  },
+  {
+    "characters": "两",
+    "pinyin": "liǎng",
+    "meaning": "hai",
+    "partOfSpeech": "số từ",
+    "hskLevel": 2,
+    "examples": [
+      "我有两只猫。(Tôi có hai con mèo.)"
+    ],
+    "originalMeaning": "two"
+  },
+  {
+    "characters": "路",
+    "pinyin": "lù",
+    "meaning": "đường",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "这条路很长。(Con đường này rất dài.)"
+    ],
+    "originalMeaning": "road"
+  },
+  {
+    "characters": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "du lịch",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢旅游。(Tôi thích du lịch.)"
+    ],
+    "originalMeaning": "travel"
+  },
+  {
+    "characters": "卖",
+    "pinyin": "mài",
+    "meaning": "bán",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "他在市场卖水果。(Anh ấy bán trái cây ở chợ.)"
+    ],
+    "originalMeaning": "sell"
+  },
+  {
+    "characters": "每",
+    "pinyin": "měi",
+    "meaning": "mỗi",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 2,
+    "examples": [
+      "我每天都跑步。(Tôi chạy mỗi ngày.)"
+    ],
+    "originalMeaning": "every"
+  },
+  {
+    "characters": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": "em gái",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个妹妹。(Tôi có một em gái.)"
+    ],
+    "originalMeaning": "younger sister"
+  },
+  {
+    "characters": "门",
+    "pinyin": "mén",
+    "meaning": "cửa",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "请关门。(Xin hãy đóng cửa.)"
+    ],
+    "originalMeaning": "door"
+  },
+  {
+    "characters": "男人",
+    "pinyin": "nánrén",
+    "meaning": "đàn ông",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "那个男人是谁？(Người đàn ông đó là ai?)"
+    ],
+    "originalMeaning": "man"
+  },
+  {
+    "characters": "您",
+    "pinyin": "nín",
+    "meaning": "ngài (lịch sự)",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 2,
+    "examples": [
+      "您好！(Xin chào ngài!)"
+    ],
+    "originalMeaning": "you (polite)"
+  },
+  {
+    "characters": "牛奶",
+    "pinyin": "niú nǎi",
+    "meaning": "sữa",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上喝牛奶。(Tôi uống sữa mỗi sáng.)"
+    ],
+    "originalMeaning": "milk"
+  },
+  {
+    "characters": "女儿",
+    "pinyin": "nǚ'ér",
+    "meaning": "con gái",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "她的女儿很可爱。(Con gái của cô ấy rất dễ thương.)"
+    ],
+    "originalMeaning": "daughter"
+  },
+  {
+    "characters": "跑步",
+    "pinyin": "pǎo bù",
+    "meaning": "chạy",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上去公园跑步。(Tôi đi chạy ở công viên mỗi sáng.)"
+    ],
+    "originalMeaning": "to run"
+  },
+  {
+    "characters": "便宜",
+    "pinyin": "piányi",
+    "meaning": "rẻ",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "这件衣服很便宜。(Món đồ này rất rẻ.)"
+    ],
+    "originalMeaning": "cheap"
+  },
+  {
+    "characters": "票",
+    "pinyin": "piào",
+    "meaning": "vé",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我买了两张电影票。(Tôi đã mua hai vé xem phim.)"
+    ],
+    "originalMeaning": "ticket"
+  },
+  {
+    "characters": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "vợ",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "他和他的妻子一起去旅行。(Anh ấy đi du lịch cùng vợ.)"
+    ],
+    "originalMeaning": "wife"
+  },
+  {
+    "characters": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning": "thức dậy",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我每天六点起床。(Tôi dậy lúc sáu giờ mỗi ngày.)"
+    ],
+    "originalMeaning": "to get up"
+  },
+  {
+    "characters": "千",
+    "pinyin": "qiān",
+    "meaning": "nghìn",
+    "partOfSpeech": "số từ",
+    "hskLevel": 2,
+    "examples": [
+      "这个城市有一千万人。(Thành phố này có mười triệu người.)"
+    ],
+    "originalMeaning": "thousand"
+  },
+  {
+    "characters": "晴",
+    "pinyin": "qíng",
+    "meaning": "nắng",
+    "partOfSpeech": "tính từ",
+    "hskLevel": 2,
+    "examples": [
+      "今天是晴天。(Hôm nay trời nắng.)"
+    ],
+    "originalMeaning": "sunny"
+  },
+  {
+    "characters": "去年",
+    "pinyin": "qùnián",
+    "meaning": "năm ngoái",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我去年去了中国。(Tôi đã đi Trung Quốc năm ngoái.)"
+    ],
+    "originalMeaning": "last year"
+  },
+  {
+    "characters": "让",
+    "pinyin": "ràng",
+    "meaning": "để",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "请让我看看。(Xin hãy để tôi xem.)"
+    ],
+    "originalMeaning": "to let"
+  },
+  {
+    "characters": "日",
+    "pinyin": "rì",
+    "meaning": "ngày",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "今天是几月几日？(Hôm nay là ngày mấy tháng mấy?)"
+    ],
+    "originalMeaning": "day"
+  },
+  {
+    "characters": "上班",
+    "pinyin": "shàng bān",
+    "meaning": "đi làm",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我每天八点上班。(Tôi đi làm lúc tám giờ mỗi ngày.)"
+    ],
+    "originalMeaning": "to go to work"
+  },
+  {
+    "characters": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "bị ốm",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "他生病了，不能来上课。(Anh ấy bị ốm, không thể đến lớp.)"
+    ],
+    "originalMeaning": "to fall ill"
+  },
+  {
+    "characters": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "thời gian",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "你有时间吗？(Bạn có thời gian không?)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "事情",
+    "pinyin": "shìqing",
+    "meaning": "vấn đề",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我有事情要做。(Tôi có việc phải làm.)"
+    ],
+    "originalMeaning": "matter"
+  },
+  {
+    "characters": "手表",
+    "pinyin": "shǒubiǎo",
+    "meaning": "đồng hồ",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "这块手表很贵。(Chiếc đồng hồ này rất đắt.)"
+    ],
+    "originalMeaning": "watch"
+  },
+  {
+    "characters": "说话",
+    "pinyin": "shuō huà",
+    "meaning": "nói",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "请不要大声说话。(Xin đừng nói lớn.)"
+    ],
+    "originalMeaning": "to speak"
+  },
+  {
+    "characters": "送",
+    "pinyin": "sòng",
+    "meaning": "tặng",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我送你一本书。(Tôi tặng bạn một quyển sách.)"
+    ],
+    "originalMeaning": "to give"
+  },
+  {
+    "characters": "它",
+    "pinyin": "tā",
+    "meaning": "nó",
+    "partOfSpeech": "đại từ",
+    "hskLevel": 2,
+    "examples": [
+      "这只猫很可爱，我喜欢它。(Con mèo này rất dễ thương, tôi thích nó.)"
+    ],
+    "originalMeaning": "it"
+  },
+  {
+    "characters": "踢足球",
+    "pinyin": "tī zúqiú",
+    "meaning": "chơi bóng đá",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我周末喜欢踢足球。(Cuối tuần tôi thích chơi bóng đá.)"
+    ],
+    "originalMeaning": "to play soccer"
+  },
+  {
+    "characters": "题",
+    "pinyin": "tí",
+    "meaning": "câu hỏi",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "这个题很难。(Câu hỏi này rất khó.)"
+    ],
+    "originalMeaning": "question"
+  },
+  {
+    "characters": "跳舞",
+    "pinyin": "tiào wǔ",
+    "meaning": "nhảy múa",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢跳舞。(Cô ấy thích nhảy múa.)"
+    ],
+    "originalMeaning": "to dance"
+  },
+  {
+    "characters": "外",
+    "pinyin": "wài",
+    "meaning": "ngoài",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我们去外面走走。(Chúng ta đi ra ngoài đi dạo.)"
+    ],
+    "originalMeaning": "outside"
+  },
+  {
+    "characters": "完",
+    "pinyin": "wán",
+    "meaning": "hoàn thành",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我做完作业了。(Tôi đã hoàn thành bài tập về nhà.)"
+    ],
+    "originalMeaning": "to finish"
+  },
+  {
+    "characters": "玩",
+    "pinyin": "wán",
+    "meaning": "chơi",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "孩子们在公园里玩。(Bọn trẻ đang chơi ở công viên.)"
+    ],
+    "originalMeaning": "to play"
+  },
+  {
+    "characters": "晚上",
+    "pinyin": "wǎnshang",
+    "meaning": "buổi tối",
+    "partOfSpeech": "danh từ",
+    "hskLevel": 2,
+    "examples": [
+      "我们晚上去看电影。(Chúng ta sẽ đi xem phim vào buổi tối.)"
+    ],
+    "originalMeaning": "evening"
+  },
+  {
+    "characters": "为什么",
+    "pinyin": "wèishénme",
+    "meaning": "tại sao",
+    "partOfSpeech": "trạng từ",
+    "hskLevel": 2,
+    "examples": [
+      "你为什么不高兴？(Tại sao bạn không vui?)"
+    ],
+    "originalMeaning": "why"
+  },
+  {
+    "characters": "问",
+    "pinyin": "wèn",
+    "meaning": "hỏi",
+    "partOfSpeech": "động từ",
+    "hskLevel": 2,
+    "examples": [
+      "我想问你一个问题。(Tôi muốn hỏi bạn một câu hỏi.)"
+    ],
+    "originalMeaning": "to ask"
+  },
+  {
+    "characters": "问题",
+    "pinyin": "wèntí",
+    "meaning": "vấn đề",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "这个问题很简单。(Vấn đề này rất đơn giản.)"
+    ],
+    "originalMeaning": "problem"
+  },
+  {
+    "characters": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "dưa hấu",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "夏天吃西瓜很舒服。(Ăn dưa hấu vào mùa hè rất thoải mái.)"
+    ],
+    "originalMeaning": "watermelon"
+  },
+  {
+    "characters": "洗",
+    "pinyin": "xǐ",
+    "meaning": "rửa",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我每天洗衣服。(Tôi rửa quần áo mỗi ngày.)"
+    ],
+    "originalMeaning": "to wash"
+  },
+  {
+    "characters": "小时",
+    "pinyin": "xiǎoshí",
+    "meaning": "giờ",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我等了两个小时。(Tôi đã chờ hai giờ.)"
+    ],
+    "originalMeaning": "hour"
+  },
+  {
+    "characters": "笑",
+    "pinyin": "xiào",
+    "meaning": "cười",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "她笑得很开心。(Cô ấy cười rất vui.)"
+    ],
+    "originalMeaning": "to smile"
+  },
+  {
+    "characters": "新",
+    "pinyin": "xīn",
+    "meaning": "mới",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "我买了一辆新车。(Tôi đã mua một chiếc xe mới.)"
+    ],
+    "originalMeaning": "new"
+  },
+  {
+    "characters": "姓",
+    "pinyin": "xìng",
+    "meaning": "họ",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我姓王。(Họ của tôi là Vương.)"
+    ],
+    "originalMeaning": "surname"
+  },
+  {
+    "characters": "休息",
+    "pinyin": "xiūxi",
+    "meaning": "nghỉ ngơi",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我们休息一下吧。(Chúng ta nghỉ ngơi một chút nhé.)"
+    ],
+    "originalMeaning": "to rest"
+  },
+  {
+    "characters": "雪",
+    "pinyin": "xuě",
+    "meaning": "tuyết",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "下雪了，真漂亮。(Trời đang tuyết, thật đẹp.)"
+    ],
+    "originalMeaning": "snow"
+  },
+  {
+    "characters": "颜色",
+    "pinyin": "yánsè",
+    "meaning": "màu sắc",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "你喜欢什么颜色？(Bạn thích màu gì?)"
+    ],
+    "originalMeaning": "color"
+  },
+  {
+    "characters": "羊肉",
+    "pinyin": "yángròu",
+    "meaning": "thịt cừu",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我不喜欢吃羊肉。(Tôi không thích ăn thịt cừu.)"
+    ],
+    "originalMeaning": "mutton"
+  },
+  {
+    "characters": "药",
+    "pinyin": "yào",
+    "meaning": "thuốc",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "医生给我开了药。(Bác sĩ đã kê cho tôi thuốc.)"
+    ],
+    "originalMeaning": "medicine"
+  },
+  {
+    "characters": "要",
+    "pinyin": "yào",
+    "meaning": "muốn",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我想要一杯水。(Tôi muốn một cốc nước.)"
+    ],
+    "originalMeaning": "to want"
+  },
+  {
+    "characters": "也",
+    "pinyin": "yě",
+    "meaning": "cũng",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "我也喜欢看电影。(Tôi cũng thích xem phim.)"
+    ],
+    "originalMeaning": "also"
+  },
+  {
+    "characters": "一下",
+    "pinyin": "yíxià",
+    "meaning": "một chút",
+    "partOfSpeech": "particle",
+    "hskLevel": 2,
+    "examples": [
+      "请等一下。(Xin hãy đợi một chút.)"
+    ],
+    "originalMeaning": "a bit"
+  },
+  {
+    "characters": "意思",
+    "pinyin": "yìsi",
+    "meaning": "nghĩa",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "这个词是什么意思？(Từ này có nghĩa là gì?)"
+    ],
+    "originalMeaning": "meaning"
+  },
+  {
+    "characters": "阴",
+    "pinyin": "yīn",
+    "meaning": "âm u",
+    "partOfSpeech": "adjective",
+    "hskLevel": 2,
+    "examples": [
+      "今天是阴天。(Hôm nay là một ngày âm u.)"
+    ],
+    "originalMeaning": "overcast"
+  },
+  {
+    "characters": "游泳",
+    "pinyin": "yóuyǒng",
+    "meaning": "bơi",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢在夏天游泳。(Tôi thích bơi vào mùa hè.)"
+    ],
+    "originalMeaning": "to swim"
+  },
+  {
+    "characters": "右边",
+    "pinyin": "yòubian",
+    "meaning": "bên phải",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "银行在学校的右边。(Ngân hàng ở bên phải của trường học.)"
+    ],
+    "originalMeaning": "right side"
+  },
+  {
+    "characters": "鱼",
+    "pinyin": "yú",
+    "meaning": "cá",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢吃鱼。(Tôi thích ăn cá.)"
+    ],
+    "originalMeaning": "fish"
+  },
+  {
+    "characters": "运动",
+    "pinyin": "yùndòng",
+    "meaning": "thể thao",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我每天都做运动。(Tôi tập thể thao mỗi ngày.)"
+    ],
+    "originalMeaning": "sports"
+  },
+  {
+    "characters": "再",
+    "pinyin": "zài",
+    "meaning": "lại",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "请再说一遍。(Xin hãy nói lại một lần nữa.)"
+    ],
+    "originalMeaning": "again"
+  },
+  {
+    "characters": "早上",
+    "pinyin": "zǎoshang",
+    "meaning": "buổi sáng",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "我早上六点起床。(Tôi dậy lúc sáu giờ sáng.)"
+    ],
+    "originalMeaning": "morning"
+  },
+  {
+    "characters": "丈夫",
+    "pinyin": "zhàngfu",
+    "meaning": "chồng",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "她的丈夫很帅。(Chồng cô ấy rất đẹp trai.)"
+    ],
+    "originalMeaning": "husband"
+  },
+  {
+    "characters": "找",
+    "pinyin": "zhǎo",
+    "meaning": "tìm",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我在找我的手机。(Tôi đang tìm điện thoại của mình.)"
+    ],
+    "originalMeaning": "to find"
+  },
+  {
+    "characters": "着",
+    "pinyin": "zhe",
+    "meaning": "chỉ hành động đang diễn ra",
+    "partOfSpeech": "particle",
+    "hskLevel": 2,
+    "examples": [
+      "他在看着书。(Anh ấy đang đọc sách.)"
+    ],
+    "originalMeaning": "indicating action in progress"
+  },
+  {
+    "characters": "真",
+    "pinyin": "zhēn",
+    "meaning": "thật sự",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "这个电影真好看。(Bộ phim này thật sự hay.)"
+    ],
+    "originalMeaning": "really"
+  },
+  {
+    "characters": "正在",
+    "pinyin": "zhèngzài",
+    "meaning": "đang trong quá trình",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "我正在吃饭。(Tôi đang ăn.)"
+    ],
+    "originalMeaning": "in the process of"
+  },
+  {
+    "characters": "走",
+    "pinyin": "zǒu",
+    "meaning": "đi",
+    "partOfSpeech": "verb",
+    "hskLevel": 2,
+    "examples": [
+      "我们走吧。(Chúng ta đi thôi.)"
+    ],
+    "originalMeaning": "to walk"
+  },
+  {
+    "characters": "最",
+    "pinyin": "zuì",
+    "meaning": "nhất",
+    "partOfSpeech": "adverb",
+    "hskLevel": 2,
+    "examples": [
+      "他是我最好的朋友。(Anh ấy là bạn tốt nhất của tôi.)"
+    ],
+    "originalMeaning": "most"
+  },
+  {
+    "characters": "左边",
+    "pinyin": "zuǒbian",
+    "meaning": "bên trái",
+    "partOfSpeech": "noun",
+    "hskLevel": 2,
+    "examples": [
+      "银行在学校的左边。(Ngân hàng ở bên trái của trường học.)"
+    ],
+    "originalMeaning": "left side"
   }
 ]

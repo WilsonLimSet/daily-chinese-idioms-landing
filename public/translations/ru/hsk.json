@@ -1933,5 +1933,2546 @@
       "他的写作风格独树一帜。(Его стиль письма действительно уникален.)"
     ],
     "notes": "Это само по себе идиома (ченъюй)!"
+  },
+  {
+    "characters": "爱",
+    "pinyin": "ài",
+    "meaning": "любовь",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我爱你。(I love you.)"
+    ],
+    "originalMeaning": "love"
+  },
+  {
+    "characters": "八",
+    "pinyin": "bā",
+    "meaning": "восемь",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "他有八个苹果。(He has eight apples.)"
+    ],
+    "originalMeaning": "eight"
+  },
+  {
+    "characters": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "отец",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我爸爸是老师。(My father is a teacher.)"
+    ],
+    "originalMeaning": "father"
+  },
+  {
+    "characters": "杯子",
+    "pinyin": "bēizi",
+    "meaning": "чашка",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "杯子里有水。(There is water in the cup.)"
+    ],
+    "originalMeaning": "cup"
+  },
+  {
+    "characters": "北京",
+    "pinyin": "Běijīng",
+    "meaning": "Пекин",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我住在北京。(I live in Beijing.)"
+    ],
+    "originalMeaning": "Beijing"
+  },
+  {
+    "characters": "本",
+    "pinyin": "běn",
+    "meaning": "счетное слово для книг",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "我有三本书。(I have three books.)"
+    ],
+    "originalMeaning": "measure word for books"
+  },
+  {
+    "characters": "不客气",
+    "pinyin": "bú kèqi",
+    "meaning": "пожалуйста",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "谢谢你！不客气。(Thank you! You're welcome.)"
+    ],
+    "originalMeaning": "you're welcome"
+  },
+  {
+    "characters": "菜",
+    "pinyin": "cài",
+    "meaning": "блюдо",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢中国菜。(I like Chinese food.)"
+    ],
+    "originalMeaning": "dish"
+  },
+  {
+    "characters": "茶",
+    "pinyin": "chá",
+    "meaning": "чай",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喝茶。(I drink tea.)"
+    ],
+    "originalMeaning": "tea"
+  },
+  {
+    "characters": "吃饭",
+    "pinyin": "chī fàn",
+    "meaning": "есть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我们一起吃饭。(Let's eat together.)"
+    ],
+    "originalMeaning": "eat"
+  },
+  {
+    "characters": "出",
+    "pinyin": "chū",
+    "meaning": "выходить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我出门了。(I went out.)"
+    ],
+    "originalMeaning": "go out"
+  },
+  {
+    "characters": "出租车",
+    "pinyin": "chūzūchē",
+    "meaning": "такси",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我坐出租车去。(I take a taxi.)"
+    ],
+    "originalMeaning": "taxi"
+  },
+  {
+    "characters": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "позвонить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我给你打电话。(I call you.)"
+    ],
+    "originalMeaning": "make a phone call"
+  },
+  {
+    "characters": "的",
+    "pinyin": "de",
+    "meaning": "притяжательная частица",
+    "partOfSpeech": "частица",
+    "hskLevel": 1,
+    "examples": [
+      "这是我的书。(This is my book.)"
+    ],
+    "originalMeaning": "possessive particle"
+  },
+  {
+    "characters": "点",
+    "pinyin": "diǎn",
+    "meaning": "час",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "现在三点。(It's three o'clock now.)"
+    ],
+    "originalMeaning": "o'clock"
+  },
+  {
+    "characters": "电脑",
+    "pinyin": "diànnǎo",
+    "meaning": "компьютер",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我用电脑工作。(I use a computer to work.)"
+    ],
+    "originalMeaning": "computer"
+  },
+  {
+    "characters": "电视",
+    "pinyin": "diànshì",
+    "meaning": "телевизор",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我在看电视。(I am watching TV.)"
+    ],
+    "originalMeaning": "television"
+  },
+  {
+    "characters": "电影",
+    "pinyin": "diànyǐng",
+    "meaning": "фильм",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢看电影。(I like watching movies.)"
+    ],
+    "originalMeaning": "movie"
+  },
+  {
+    "characters": "东西",
+    "pinyin": "dōngxi",
+    "meaning": "вещь",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我买了很多东西。(I bought many things.)"
+    ],
+    "originalMeaning": "thing"
+  },
+  {
+    "characters": "都",
+    "pinyin": "dōu",
+    "meaning": "все",
+    "partOfSpeech": "наречие",
+    "hskLevel": 1,
+    "examples": [
+      "我们都去。(We all go.)"
+    ],
+    "originalMeaning": "all"
+  },
+  {
+    "characters": "对不起",
+    "pinyin": "duìbuqǐ",
+    "meaning": "извините",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "对不起，我迟到了。(Sorry, I am late.)"
+    ],
+    "originalMeaning": "sorry"
+  },
+  {
+    "characters": "多",
+    "pinyin": "duō",
+    "meaning": "много",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "这里的人很多。(There are many people here.)"
+    ],
+    "originalMeaning": "many"
+  },
+  {
+    "characters": "儿子",
+    "pinyin": "érzi",
+    "meaning": "сын",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有一个儿子。(I have a son.)"
+    ],
+    "originalMeaning": "son"
+  },
+  {
+    "characters": "二",
+    "pinyin": "èr",
+    "meaning": "два",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有两个苹果。(I have two apples.)"
+    ],
+    "originalMeaning": "two"
+  },
+  {
+    "characters": "饭店",
+    "pinyin": "fàndiàn",
+    "meaning": "ресторан",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我们去饭店吃饭。(We go to the restaurant to eat.)"
+    ],
+    "originalMeaning": "restaurant"
+  },
+  {
+    "characters": "飞机",
+    "pinyin": "fēijī",
+    "meaning": "самолет",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我坐飞机去北京。(I take a plane to Beijing.)"
+    ],
+    "originalMeaning": "airplane"
+  },
+  {
+    "characters": "分钟",
+    "pinyin": "fēnzhōng",
+    "meaning": "минута",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "我等了十分钟。(I waited for ten minutes.)"
+    ],
+    "originalMeaning": "minute"
+  },
+  {
+    "characters": "高兴",
+    "pinyin": "gāoxìng",
+    "meaning": "счастливый",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(I am very happy.)"
+    ],
+    "originalMeaning": "happy"
+  },
+  {
+    "characters": "个",
+    "pinyin": "gè",
+    "meaning": "счетное слово",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "一个人。(One person.)"
+    ],
+    "originalMeaning": "measure word"
+  },
+  {
+    "characters": "工作",
+    "pinyin": "gōngzuò",
+    "meaning": "работа",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我在工作。(I am working.)"
+    ],
+    "originalMeaning": "work"
+  },
+  {
+    "characters": "狗",
+    "pinyin": "gǒu",
+    "meaning": "собака",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有一只狗。(I have a dog.)"
+    ],
+    "originalMeaning": "dog"
+  },
+  {
+    "characters": "汉语",
+    "pinyin": "Hànyǔ",
+    "meaning": "китайский язык",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我在学汉语。(I am learning Chinese.)"
+    ],
+    "originalMeaning": "Chinese language"
+  },
+  {
+    "characters": "号",
+    "pinyin": "hào",
+    "meaning": "дата",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "今天是几号？(What is the date today?)"
+    ],
+    "originalMeaning": "date"
+  },
+  {
+    "characters": "和",
+    "pinyin": "hé",
+    "meaning": "и",
+    "partOfSpeech": "союз",
+    "hskLevel": 1,
+    "examples": [
+      "我和你。(You and I.)"
+    ],
+    "originalMeaning": "and"
+  },
+  {
+    "characters": "很",
+    "pinyin": "hěn",
+    "meaning": "очень",
+    "partOfSpeech": "наречие",
+    "hskLevel": 1,
+    "examples": [
+      "我很高兴。(I am very happy.)"
+    ],
+    "originalMeaning": "very"
+  },
+  {
+    "characters": "后面",
+    "pinyin": "hòumiàn",
+    "meaning": "сзади",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "房子后面有个花园。(There is a garden behind the house.)"
+    ],
+    "originalMeaning": "behind"
+  },
+  {
+    "characters": "回",
+    "pinyin": "huí",
+    "meaning": "возвращаться",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我回家。(I return home.)"
+    ],
+    "originalMeaning": "return"
+  },
+  {
+    "characters": "会",
+    "pinyin": "huì",
+    "meaning": "могу",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我会说汉语。(I can speak Chinese.)"
+    ],
+    "originalMeaning": "can"
+  },
+  {
+    "characters": "几",
+    "pinyin": "jǐ",
+    "meaning": "сколько",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你有几个苹果？(How many apples do you have?)"
+    ],
+    "originalMeaning": "how many"
+  },
+  {
+    "characters": "叫",
+    "pinyin": "jiào",
+    "meaning": "называться",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我叫李明。(My name is Li Ming.)"
+    ],
+    "originalMeaning": "call"
+  },
+  {
+    "characters": "九",
+    "pinyin": "jiǔ",
+    "meaning": "девять",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有九个朋友。(I have nine friends.)"
+    ],
+    "originalMeaning": "nine"
+  },
+  {
+    "characters": "开",
+    "pinyin": "kāi",
+    "meaning": "открыть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "请开门。(Please open the door.)"
+    ],
+    "originalMeaning": "open"
+  },
+  {
+    "characters": "看见",
+    "pinyin": "kànjiàn",
+    "meaning": "увидеть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我看见他了。(I saw him.)"
+    ],
+    "originalMeaning": "see"
+  },
+  {
+    "characters": "块",
+    "pinyin": "kuài",
+    "meaning": "счетное слово для денег",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "这个五块钱。(This is five yuan.)"
+    ],
+    "originalMeaning": "measure word for money"
+  },
+  {
+    "characters": "来",
+    "pinyin": "lái",
+    "meaning": "приходить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "请你来。(Please come.)"
+    ],
+    "originalMeaning": "come"
+  },
+  {
+    "characters": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "учитель",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的老师。(He is my teacher.)"
+    ],
+    "originalMeaning": "teacher"
+  },
+  {
+    "characters": "了",
+    "pinyin": "le",
+    "meaning": "частица, указывающая на изменение",
+    "partOfSpeech": "частица",
+    "hskLevel": 1,
+    "examples": [
+      "我吃饭了。(I have eaten.)"
+    ],
+    "originalMeaning": "particle indicating change"
+  },
+  {
+    "characters": "冷",
+    "pinyin": "lěng",
+    "meaning": "холодный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "今天很冷。(It is very cold today.)"
+    ],
+    "originalMeaning": "cold"
+  },
+  {
+    "characters": "里",
+    "pinyin": "lǐ",
+    "meaning": "внутри",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "房子里有很多人。(There are many people inside the house.)"
+    ],
+    "originalMeaning": "inside"
+  },
+  {
+    "characters": "六",
+    "pinyin": "liù",
+    "meaning": "шесть",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有六本书。(I have six books.)"
+    ],
+    "originalMeaning": "six"
+  },
+  {
+    "characters": "妈妈",
+    "pinyin": "māma",
+    "meaning": "мама",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我妈妈是医生。(My mother is a doctor.)"
+    ],
+    "originalMeaning": "mother"
+  },
+  {
+    "characters": "吗",
+    "pinyin": "ma",
+    "meaning": "вопросительная частица",
+    "partOfSpeech": "частица",
+    "hskLevel": 1,
+    "examples": [
+      "你好吗？(How are you?)"
+    ],
+    "originalMeaning": "question particle"
+  },
+  {
+    "characters": "猫",
+    "pinyin": "māo",
+    "meaning": "кот",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我家有一只猫。(I have a cat at home.)"
+    ],
+    "originalMeaning": "cat"
+  },
+  {
+    "characters": "没关系",
+    "pinyin": "méi guānxi",
+    "meaning": "всё в порядке",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "对不起！没关系。(Sorry! It's okay.)"
+    ],
+    "originalMeaning": "it's okay"
+  },
+  {
+    "characters": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "рис",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃米饭。(I like to eat rice.)"
+    ],
+    "originalMeaning": "rice"
+  },
+  {
+    "characters": "名字",
+    "pinyin": "míngzi",
+    "meaning": "имя",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "你的名字是什么？(What is your name?)"
+    ],
+    "originalMeaning": "name"
+  },
+  {
+    "characters": "哪",
+    "pinyin": "nǎ",
+    "meaning": "какой",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你是哪国人？(Which country are you from?)"
+    ],
+    "originalMeaning": "which"
+  },
+  {
+    "characters": "那",
+    "pinyin": "nà",
+    "meaning": "тот",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "那是我的书。(That is my book.)"
+    ],
+    "originalMeaning": "that"
+  },
+  {
+    "characters": "呢",
+    "pinyin": "ne",
+    "meaning": "вопросительная частица",
+    "partOfSpeech": "частица",
+    "hskLevel": 1,
+    "examples": [
+      "你呢？(How about you?)"
+    ],
+    "originalMeaning": "question particle"
+  },
+  {
+    "characters": "能",
+    "pinyin": "néng",
+    "meaning": "мочь",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我能说汉语。(I can speak Chinese.)"
+    ],
+    "originalMeaning": "can"
+  },
+  {
+    "characters": "前面",
+    "pinyin": "qiánmiàn",
+    "meaning": "перед",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "前面有一个商店。(There is a shop in front.)"
+    ],
+    "originalMeaning": "front"
+  },
+  {
+    "characters": "请",
+    "pinyin": "qǐng",
+    "meaning": "пожалуйста",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "请坐。(Please sit.)"
+    ],
+    "originalMeaning": "please"
+  },
+  {
+    "characters": "去",
+    "pinyin": "qù",
+    "meaning": "идти",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我去学校。(I go to school.)"
+    ],
+    "originalMeaning": "go"
+  },
+  {
+    "characters": "热",
+    "pinyin": "rè",
+    "meaning": "горячий",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "今天很热。(Today is hot.)"
+    ],
+    "originalMeaning": "hot"
+  },
+  {
+    "characters": "人",
+    "pinyin": "rén",
+    "meaning": "человек",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是一个好人。(He is a good person.)"
+    ],
+    "originalMeaning": "person"
+  },
+  {
+    "characters": "认识",
+    "pinyin": "rènshi",
+    "meaning": "знать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我认识他。(I know him.)"
+    ],
+    "originalMeaning": "know"
+  },
+  {
+    "characters": "三",
+    "pinyin": "sān",
+    "meaning": "три",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有三本书。(I have three books.)"
+    ],
+    "originalMeaning": "three"
+  },
+  {
+    "characters": "商店",
+    "pinyin": "shāngdiàn",
+    "meaning": "магазин",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我去商店买东西。(I go to the shop to buy things.)"
+    ],
+    "originalMeaning": "shop"
+  },
+  {
+    "characters": "上",
+    "pinyin": "shàng",
+    "meaning": "вверх",
+    "partOfSpeech": "предлог",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子上。(The book is on the table.)"
+    ],
+    "originalMeaning": "up"
+  },
+  {
+    "characters": "上午",
+    "pinyin": "shàngwǔ",
+    "meaning": "утро",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我上午去学校。(I go to school in the morning.)"
+    ],
+    "originalMeaning": "morning"
+  },
+  {
+    "characters": "少",
+    "pinyin": "shǎo",
+    "meaning": "немного",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 1,
+    "examples": [
+      "这里人很少。(There are few people here.)"
+    ],
+    "originalMeaning": "few"
+  },
+  {
+    "characters": "十",
+    "pinyin": "shí",
+    "meaning": "десять",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有十个苹果。(I have ten apples.)"
+    ],
+    "originalMeaning": "ten"
+  },
+  {
+    "characters": "时候",
+    "pinyin": "shíhou",
+    "meaning": "время",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "你什么时候回来？(When will you come back?)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "书",
+    "pinyin": "shū",
+    "meaning": "книга",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢看书。(I like reading books.)"
+    ],
+    "originalMeaning": "book"
+  },
+  {
+    "characters": "水果",
+    "pinyin": "shuǐguǒ",
+    "meaning": "фрукты",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃水果。(I like eating fruit.)"
+    ],
+    "originalMeaning": "fruit"
+  },
+  {
+    "characters": "睡觉",
+    "pinyin": "shuìjiào",
+    "meaning": "спать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我晚上十点睡觉。(I sleep at ten in the evening.)"
+    ],
+    "originalMeaning": "sleep"
+  },
+  {
+    "characters": "四",
+    "pinyin": "sì",
+    "meaning": "четыре",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有四个朋友。(I have four friends.)"
+    ],
+    "originalMeaning": "four"
+  },
+  {
+    "characters": "岁",
+    "pinyin": "suì",
+    "meaning": "лет",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "我今年二十岁。(I am twenty years old this year.)"
+    ],
+    "originalMeaning": "years old"
+  },
+  {
+    "characters": "太",
+    "pinyin": "tài",
+    "meaning": "слишком",
+    "partOfSpeech": "наречие",
+    "hskLevel": 1,
+    "examples": [
+      "太好了！(Great!)"
+    ],
+    "originalMeaning": "too"
+  },
+  {
+    "characters": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "погода",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气很好。(The weather is good today.)"
+    ],
+    "originalMeaning": "weather"
+  },
+  {
+    "characters": "同学",
+    "pinyin": "tóngxué",
+    "meaning": "одноклассник",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是我的同学。(He is my classmate.)"
+    ],
+    "originalMeaning": "classmate"
+  },
+  {
+    "characters": "喂",
+    "pinyin": "wèi",
+    "meaning": "привет (по телефону)",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "喂，你好！(Hello, how are you?)"
+    ],
+    "originalMeaning": "hello (on the phone)"
+  },
+  {
+    "characters": "我们",
+    "pinyin": "wǒmen",
+    "meaning": "мы",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "我们都是好朋友。(We are all good friends.)"
+    ],
+    "originalMeaning": "we"
+  },
+  {
+    "characters": "五",
+    "pinyin": "wǔ",
+    "meaning": "пять",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有五个苹果。(I have five apples.)"
+    ],
+    "originalMeaning": "five"
+  },
+  {
+    "characters": "喜欢",
+    "pinyin": "xǐhuan",
+    "meaning": "нравиться",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我喜欢吃苹果。(I like eating apples.)"
+    ],
+    "originalMeaning": "like"
+  },
+  {
+    "characters": "下",
+    "pinyin": "xià",
+    "meaning": "вниз",
+    "partOfSpeech": "предлог",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子下。(The book is under the table.)"
+    ],
+    "originalMeaning": "down"
+  },
+  {
+    "characters": "下午",
+    "pinyin": "xiàwǔ",
+    "meaning": "после полудня",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我下午去商店。(I go to the shop in the afternoon.)"
+    ],
+    "originalMeaning": "afternoon"
+  },
+  {
+    "characters": "下雨",
+    "pinyin": "xiàyǔ",
+    "meaning": "идти дождь",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "今天下雨了。(It rained today.)"
+    ],
+    "originalMeaning": "rain"
+  },
+  {
+    "characters": "先生",
+    "pinyin": "xiānsheng",
+    "meaning": "господин",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "王先生是我的老师。(Mr. Wang is my teacher.)"
+    ],
+    "originalMeaning": "Mr."
+  },
+  {
+    "characters": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "сейчас",
+    "partOfSpeech": "наречие",
+    "hskLevel": 1,
+    "examples": [
+      "我现在在学校。(I am at school now.)"
+    ],
+    "originalMeaning": "now"
+  },
+  {
+    "characters": "想",
+    "pinyin": "xiǎng",
+    "meaning": "хотеть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我想吃饭。(I want to eat.)"
+    ],
+    "originalMeaning": "want"
+  },
+  {
+    "characters": "小姐",
+    "pinyin": "xiǎojiě",
+    "meaning": "мисс",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "李小姐是我的朋友。(Miss Li is my friend.)"
+    ],
+    "originalMeaning": "Miss"
+  },
+  {
+    "characters": "些",
+    "pinyin": "xiē",
+    "meaning": "некоторые",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 1,
+    "examples": [
+      "我买了一些水果。(I bought some fruits.)"
+    ],
+    "originalMeaning": "some"
+  },
+  {
+    "characters": "星期",
+    "pinyin": "xīngqī",
+    "meaning": "неделя",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "今天是星期一。(Today is Monday.)"
+    ],
+    "originalMeaning": "week"
+  },
+  {
+    "characters": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "студент",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是一个好学生。(He is a good student.)"
+    ],
+    "originalMeaning": "student"
+  },
+  {
+    "characters": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "учиться",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我在学习汉语。(I am studying Chinese.)"
+    ],
+    "originalMeaning": "study"
+  },
+  {
+    "characters": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "школа",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我在学校上课。(I attend classes at school.)"
+    ],
+    "originalMeaning": "school"
+  },
+  {
+    "characters": "一",
+    "pinyin": "yī",
+    "meaning": "один",
+    "partOfSpeech": "числительное",
+    "hskLevel": 1,
+    "examples": [
+      "我有一个苹果。(I have one apple.)"
+    ],
+    "originalMeaning": "one"
+  },
+  {
+    "characters": "衣服",
+    "pinyin": "yīfu",
+    "meaning": "одежда",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我买了新衣服。(I bought new clothes.)"
+    ],
+    "originalMeaning": "clothes"
+  },
+  {
+    "characters": "医生",
+    "pinyin": "yīshēng",
+    "meaning": "врач",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "他是医生。(He is a doctor.)"
+    ],
+    "originalMeaning": "doctor"
+  },
+  {
+    "characters": "医院",
+    "pinyin": "yīyuàn",
+    "meaning": "больница",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我去医院看病。(I go to the hospital to see a doctor.)"
+    ],
+    "originalMeaning": "hospital"
+  },
+  {
+    "characters": "椅子",
+    "pinyin": "yǐzi",
+    "meaning": "стул",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "请坐在椅子上。(Please sit on the chair.)"
+    ],
+    "originalMeaning": "chair"
+  },
+  {
+    "characters": "有",
+    "pinyin": "yǒu",
+    "meaning": "иметь",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我有一本书。(I have a book.)"
+    ],
+    "originalMeaning": "have"
+  },
+  {
+    "characters": "月",
+    "pinyin": "yuè",
+    "meaning": "месяц",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "这个月我很忙。(I am busy this month.)"
+    ],
+    "originalMeaning": "month"
+  },
+  {
+    "characters": "在",
+    "pinyin": "zài",
+    "meaning": "в",
+    "partOfSpeech": "предлог",
+    "hskLevel": 1,
+    "examples": [
+      "我在家。(I am at home.)"
+    ],
+    "originalMeaning": "at"
+  },
+  {
+    "characters": "怎么",
+    "pinyin": "zěnme",
+    "meaning": "как",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "你怎么去学校？(How do you go to school?)"
+    ],
+    "originalMeaning": "how"
+  },
+  {
+    "characters": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "meaning": "как насчет",
+    "partOfSpeech": "фраза",
+    "hskLevel": 1,
+    "examples": [
+      "今天天气怎么样？(How is the weather today?)"
+    ],
+    "originalMeaning": "how about"
+  },
+  {
+    "characters": "这",
+    "pinyin": "zhè",
+    "meaning": "это",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 1,
+    "examples": [
+      "这是我的书。(This is my book.)"
+    ],
+    "originalMeaning": "this"
+  },
+  {
+    "characters": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "Китай",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我去过中国。(I have been to China.)"
+    ],
+    "originalMeaning": "China"
+  },
+  {
+    "characters": "中午",
+    "pinyin": "zhōngwǔ",
+    "meaning": "полдень",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "我们中午吃饭。(We eat at noon.)"
+    ],
+    "originalMeaning": "noon"
+  },
+  {
+    "characters": "住",
+    "pinyin": "zhù",
+    "meaning": "жить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 1,
+    "examples": [
+      "我住在北京。(I live in Beijing.)"
+    ],
+    "originalMeaning": "live"
+  },
+  {
+    "characters": "桌子",
+    "pinyin": "zhuōzi",
+    "meaning": "стол",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "书在桌子上。(The book is on the table.)"
+    ],
+    "originalMeaning": "table"
+  },
+  {
+    "characters": "字",
+    "pinyin": "zì",
+    "meaning": "символ",
+    "partOfSpeech": "существительное",
+    "hskLevel": 1,
+    "examples": [
+      "这个字怎么写？(How do you write this character?)"
+    ],
+    "originalMeaning": "character"
+  },
+  {
+    "characters": "白",
+    "pinyin": "bái",
+    "meaning": "белый",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这是一只白猫。(This is a white cat.)"
+    ],
+    "originalMeaning": "white"
+  },
+  {
+    "characters": "百",
+    "pinyin": "bǎi",
+    "meaning": "сто",
+    "partOfSpeech": "числительное",
+    "hskLevel": 2,
+    "examples": [
+      "这里有一百个人。(There are one hundred people here.)"
+    ],
+    "originalMeaning": "hundred"
+  },
+  {
+    "characters": "报纸",
+    "pinyin": "bàozhǐ",
+    "meaning": "газета",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我每天看报纸。(I read the newspaper every day.)"
+    ],
+    "originalMeaning": "newspaper"
+  },
+  {
+    "characters": "比",
+    "pinyin": "bǐ",
+    "meaning": "сравнивать",
+    "partOfSpeech": "предлог",
+    "hskLevel": 2,
+    "examples": [
+      "他比我高。(He is taller than me.)"
+    ],
+    "originalMeaning": "compare"
+  },
+  {
+    "characters": "别",
+    "pinyin": "bié",
+    "meaning": "не",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "别说话。(Don't talk.)"
+    ],
+    "originalMeaning": "don't"
+  },
+  {
+    "characters": "宾馆",
+    "pinyin": "bīnguǎn",
+    "meaning": "гостиница",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我们住在宾馆。(We are staying at a hotel.)"
+    ],
+    "originalMeaning": "hotel"
+  },
+  {
+    "characters": "长",
+    "pinyin": "cháng",
+    "meaning": "длинный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这条路很长。(This road is very long.)"
+    ],
+    "originalMeaning": "long"
+  },
+  {
+    "characters": "唱歌",
+    "pinyin": "chànggē",
+    "meaning": "петь",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢唱歌。(She likes to sing.)"
+    ],
+    "originalMeaning": "sing"
+  },
+  {
+    "characters": "穿",
+    "pinyin": "chuān",
+    "meaning": "носить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "她穿了一件红色的衣服。(She is wearing a red dress.)"
+    ],
+    "originalMeaning": "wear"
+  },
+  {
+    "characters": "次",
+    "pinyin": "cì",
+    "meaning": "раз",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 2,
+    "examples": [
+      "我去过两次北京。(I have been to Beijing twice.)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "从",
+    "pinyin": "cóng",
+    "meaning": "из",
+    "partOfSpeech": "предлог",
+    "hskLevel": 2,
+    "examples": [
+      "我从中国来。(I come from China.)"
+    ],
+    "originalMeaning": "from"
+  },
+  {
+    "characters": "错",
+    "pinyin": "cuò",
+    "meaning": "ошибочный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这道题你做错了。(You got this question wrong.)"
+    ],
+    "originalMeaning": "wrong"
+  },
+  {
+    "characters": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "meaning": "играть в баскетбол",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢打篮球。(I like to play basketball.)"
+    ],
+    "originalMeaning": "play basketball"
+  },
+  {
+    "characters": "大家",
+    "pinyin": "dàjiā",
+    "meaning": "все",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 2,
+    "examples": [
+      "大家好！(Hello everyone!)"
+    ],
+    "originalMeaning": "everyone"
+  },
+  {
+    "characters": "到",
+    "pinyin": "dào",
+    "meaning": "прибыть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我到家了。(I have arrived home.)"
+    ],
+    "originalMeaning": "arrive"
+  },
+  {
+    "characters": "得",
+    "pinyin": "de",
+    "meaning": "частица",
+    "partOfSpeech": "частица",
+    "hskLevel": 2,
+    "examples": [
+      "他跑得很快。(He runs very fast.)"
+    ],
+    "originalMeaning": "particle"
+  },
+  {
+    "characters": "等",
+    "pinyin": "děng",
+    "meaning": "ждать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请等一下。(Please wait a moment.)"
+    ],
+    "originalMeaning": "wait"
+  },
+  {
+    "characters": "弟弟",
+    "pinyin": "dìdi",
+    "meaning": "младший брат",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个弟弟。(I have a younger brother.)"
+    ],
+    "originalMeaning": "younger brother"
+  },
+  {
+    "characters": "第一",
+    "pinyin": "dì yī",
+    "meaning": "первый",
+    "partOfSpeech": "числительное",
+    "hskLevel": 2,
+    "examples": [
+      "他是第一名。(He is the first.)"
+    ],
+    "originalMeaning": "first"
+  },
+  {
+    "characters": "懂",
+    "pinyin": "dǒng",
+    "meaning": "понимать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我懂你的意思。(I understand what you mean.)"
+    ],
+    "originalMeaning": "understand"
+  },
+  {
+    "characters": "对",
+    "pinyin": "duì",
+    "meaning": "правильный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "你的答案是对的。(Your answer is correct.)"
+    ],
+    "originalMeaning": "correct"
+  },
+  {
+    "characters": "房间",
+    "pinyin": "fángjiān",
+    "meaning": "комната",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这是我的房间。(This is my room.)"
+    ],
+    "originalMeaning": "room"
+  },
+  {
+    "characters": "服务员",
+    "pinyin": "fúwùyuán",
+    "meaning": "официант",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "服务员，请给我菜单。(Waiter, please give me the menu.)"
+    ],
+    "originalMeaning": "waiter"
+  },
+  {
+    "characters": "高",
+    "pinyin": "gāo",
+    "meaning": "высокий",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "他很高。(He is tall.)"
+    ],
+    "originalMeaning": "tall"
+  },
+  {
+    "characters": "告诉",
+    "pinyin": "gàosu",
+    "meaning": "сказать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请告诉我你的名字。(Please tell me your name.)"
+    ],
+    "originalMeaning": "tell"
+  },
+  {
+    "characters": "哥哥",
+    "pinyin": "gēge",
+    "meaning": "старший брат",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个哥哥。(I have an older brother.)"
+    ],
+    "originalMeaning": "older brother"
+  },
+  {
+    "characters": "给",
+    "pinyin": "gěi",
+    "meaning": "давать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请给我一杯水。(Please give me a glass of water.)"
+    ],
+    "originalMeaning": "give"
+  },
+  {
+    "characters": "公共汽车",
+    "pinyin": "gōnggòng qìchē",
+    "meaning": "автобус",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我坐公共汽车去上班。(I take the bus to work.)"
+    ],
+    "originalMeaning": "bus"
+  },
+  {
+    "characters": "公司",
+    "pinyin": "gōngsī",
+    "meaning": "компания",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我在一家大公司工作。(I work at a big company.)"
+    ],
+    "originalMeaning": "company"
+  },
+  {
+    "characters": "贵",
+    "pinyin": "guì",
+    "meaning": "дорогой",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这件衣服很贵。(This piece of clothing is expensive.)"
+    ],
+    "originalMeaning": "expensive"
+  },
+  {
+    "characters": "过",
+    "pinyin": "guò",
+    "meaning": "пройти",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我过了考试。(I passed the exam.)"
+    ],
+    "originalMeaning": "pass"
+  },
+  {
+    "characters": "还",
+    "pinyin": "hái",
+    "meaning": "все еще",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "他还在睡觉。(He is still sleeping.)"
+    ],
+    "originalMeaning": "still"
+  },
+  {
+    "characters": "孩子",
+    "pinyin": "háizi",
+    "meaning": "ребенок",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "那个孩子很可爱。(That child is very cute.)"
+    ],
+    "originalMeaning": "child"
+  },
+  {
+    "characters": "好吃",
+    "pinyin": "hǎochī",
+    "meaning": "вкусный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这道菜很好吃。(This dish is delicious.)"
+    ],
+    "originalMeaning": "delicious"
+  },
+  {
+    "characters": "黑",
+    "pinyin": "hēi",
+    "meaning": "черный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "他穿了一件黑色的衣服。(He is wearing black clothes.)"
+    ],
+    "originalMeaning": "black"
+  },
+  {
+    "characters": "红",
+    "pinyin": "hóng",
+    "meaning": "красный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢红色。(She likes red.)"
+    ],
+    "originalMeaning": "red"
+  },
+  {
+    "characters": "欢迎",
+    "pinyin": "huānyíng",
+    "meaning": "добро пожаловать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "欢迎来到中国。(Welcome to China.)"
+    ],
+    "originalMeaning": "welcome"
+  },
+  {
+    "characters": "回答",
+    "pinyin": "huídá",
+    "meaning": "ответить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请回答我的问题。(Please answer my question.)"
+    ],
+    "originalMeaning": "answer"
+  },
+  {
+    "characters": "鸡蛋",
+    "pinyin": "jīdàn",
+    "meaning": "яйцо",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我早餐吃鸡蛋。(I eat eggs for breakfast.)"
+    ],
+    "originalMeaning": "egg"
+  },
+  {
+    "characters": "件",
+    "pinyin": "jiàn",
+    "meaning": "счетное слово для одежды",
+    "partOfSpeech": "счетное слово",
+    "hskLevel": 2,
+    "examples": [
+      "这是一件新衣服。(This is a new piece of clothing.)"
+    ],
+    "originalMeaning": "measure word for clothes"
+  },
+  {
+    "characters": "教室",
+    "pinyin": "jiàoshì",
+    "meaning": "классная комната",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我们在教室上课。(We have class in the classroom.)"
+    ],
+    "originalMeaning": "classroom"
+  },
+  {
+    "characters": "姐姐",
+    "pinyin": "jiějie",
+    "meaning": "старшая сестра",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个姐姐。(I have an older sister.)"
+    ],
+    "originalMeaning": "older sister"
+  },
+  {
+    "characters": "介绍",
+    "pinyin": "jièshào",
+    "meaning": "представить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请介绍一下你自己。(Please introduce yourself.)"
+    ],
+    "originalMeaning": "introduce"
+  },
+  {
+    "characters": "进",
+    "pinyin": "jìn",
+    "meaning": "войти",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请进。(Please come in.)"
+    ],
+    "originalMeaning": "enter"
+  },
+  {
+    "characters": "就",
+    "pinyin": "jiù",
+    "meaning": "тогда",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我一到家就给你打电话。(I will call you as soon as I get home.)"
+    ],
+    "originalMeaning": "then"
+  },
+  {
+    "characters": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "кофе",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上喝咖啡。(I drink coffee every morning.)"
+    ],
+    "originalMeaning": "coffee"
+  },
+  {
+    "characters": "考试",
+    "pinyin": "kǎoshì",
+    "meaning": "экзамен",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我明天有一个考试。(I have an exam tomorrow.)"
+    ],
+    "originalMeaning": "exam"
+  },
+  {
+    "characters": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "счастливый",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "祝你生日快乐！(Желаю тебе счастливого дня рождения!)"
+    ],
+    "originalMeaning": "happy"
+  },
+  {
+    "characters": "累",
+    "pinyin": "lèi",
+    "meaning": "уставший",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "我今天很累。(Я сегодня очень уставший.)"
+    ],
+    "originalMeaning": "tired"
+  },
+  {
+    "characters": "两",
+    "pinyin": "liǎng",
+    "meaning": "два",
+    "partOfSpeech": "числительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有两只猫。(У меня есть две кошки.)"
+    ],
+    "originalMeaning": "two"
+  },
+  {
+    "characters": "路",
+    "pinyin": "lù",
+    "meaning": "дорога",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这条路很长。(Эта дорога очень длинная.)"
+    ],
+    "originalMeaning": "road"
+  },
+  {
+    "characters": "旅游",
+    "pinyin": "lǚyóu",
+    "meaning": "путешествовать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢旅游。(Мне нравится путешествовать.)"
+    ],
+    "originalMeaning": "travel"
+  },
+  {
+    "characters": "卖",
+    "pinyin": "mài",
+    "meaning": "продавать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "他在市场卖水果。(Он продает фрукты на рынке.)"
+    ],
+    "originalMeaning": "sell"
+  },
+  {
+    "characters": "每",
+    "pinyin": "měi",
+    "meaning": "каждый",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 2,
+    "examples": [
+      "我每天都跑步。(Я бегаю каждый день.)"
+    ],
+    "originalMeaning": "every"
+  },
+  {
+    "characters": "妹妹",
+    "pinyin": "mèimei",
+    "meaning": "младшая сестра",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有一个妹妹。(У меня есть младшая сестра.)"
+    ],
+    "originalMeaning": "younger sister"
+  },
+  {
+    "characters": "门",
+    "pinyin": "mén",
+    "meaning": "дверь",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "请关门。(Пожалуйста, закройте дверь.)"
+    ],
+    "originalMeaning": "door"
+  },
+  {
+    "characters": "男人",
+    "pinyin": "nánrén",
+    "meaning": "мужчина",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "那个男人是谁？(Кто этот мужчина?)"
+    ],
+    "originalMeaning": "man"
+  },
+  {
+    "characters": "您",
+    "pinyin": "nín",
+    "meaning": "вы (вежливо)",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 2,
+    "examples": [
+      "您好！(Здравствуйте!)"
+    ],
+    "originalMeaning": "you (polite)"
+  },
+  {
+    "characters": "牛奶",
+    "pinyin": "niú nǎi",
+    "meaning": "молоко",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上喝牛奶。(Я пью молоко каждое утро.)"
+    ],
+    "originalMeaning": "milk"
+  },
+  {
+    "characters": "女儿",
+    "pinyin": "nǚ'ér",
+    "meaning": "дочь",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "她的女儿很可爱。(Ее дочь очень милая.)"
+    ],
+    "originalMeaning": "daughter"
+  },
+  {
+    "characters": "跑步",
+    "pinyin": "pǎo bù",
+    "meaning": "бегать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我每天早上去公园跑步。(Я бегаю в парке каждое утро.)"
+    ],
+    "originalMeaning": "to run"
+  },
+  {
+    "characters": "便宜",
+    "pinyin": "piányi",
+    "meaning": "дешевый",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "这件衣服很便宜。(Эта одежда очень дешевая.)"
+    ],
+    "originalMeaning": "cheap"
+  },
+  {
+    "characters": "票",
+    "pinyin": "piào",
+    "meaning": "билет",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我买了两张电影票。(Я купил два билета в кино.)"
+    ],
+    "originalMeaning": "ticket"
+  },
+  {
+    "characters": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "жена",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "他和他的妻子一起去旅行。(Он поехал в путешествие с женой.)"
+    ],
+    "originalMeaning": "wife"
+  },
+  {
+    "characters": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning": "вставать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我每天六点起床。(Я встаю в шесть каждый день.)"
+    ],
+    "originalMeaning": "to get up"
+  },
+  {
+    "characters": "千",
+    "pinyin": "qiān",
+    "meaning": "тысяча",
+    "partOfSpeech": "числительное",
+    "hskLevel": 2,
+    "examples": [
+      "这个城市有一千万人。(В этом городе десять миллионов человек.)"
+    ],
+    "originalMeaning": "thousand"
+  },
+  {
+    "characters": "晴",
+    "pinyin": "qíng",
+    "meaning": "солнечный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "今天是晴天。(Сегодня солнечный день.)"
+    ],
+    "originalMeaning": "sunny"
+  },
+  {
+    "characters": "去年",
+    "pinyin": "qùnián",
+    "meaning": "в прошлом году",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我去年去了中国。(Я ездил в Китай в прошлом году.)"
+    ],
+    "originalMeaning": "last year"
+  },
+  {
+    "characters": "让",
+    "pinyin": "ràng",
+    "meaning": "позволять",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请让我看看。(Пожалуйста, позвольте мне взглянуть.)"
+    ],
+    "originalMeaning": "to let"
+  },
+  {
+    "characters": "日",
+    "pinyin": "rì",
+    "meaning": "день",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "今天是几月几日？(Какое сегодня число?)"
+    ],
+    "originalMeaning": "day"
+  },
+  {
+    "characters": "上班",
+    "pinyin": "shàng bān",
+    "meaning": "идти на работу",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我每天八点上班。(Я иду на работу в восемь каждый день.)"
+    ],
+    "originalMeaning": "to go to work"
+  },
+  {
+    "characters": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "болеть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "他生病了，不能来上课。(Он заболел и не может прийти на занятия.)"
+    ],
+    "originalMeaning": "to fall ill"
+  },
+  {
+    "characters": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "время",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "你有时间吗？(У тебя есть время?)"
+    ],
+    "originalMeaning": "time"
+  },
+  {
+    "characters": "事情",
+    "pinyin": "shìqing",
+    "meaning": "дело",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我有事情要做。(У меня есть дела.)"
+    ],
+    "originalMeaning": "matter"
+  },
+  {
+    "characters": "手表",
+    "pinyin": "shǒubiǎo",
+    "meaning": "часы",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这块手表很贵。(Эти часы очень дорогие.)"
+    ],
+    "originalMeaning": "watch"
+  },
+  {
+    "characters": "说话",
+    "pinyin": "shuō huà",
+    "meaning": "говорить",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "请不要大声说话。(Пожалуйста, не говорите громко.)"
+    ],
+    "originalMeaning": "to speak"
+  },
+  {
+    "characters": "送",
+    "pinyin": "sòng",
+    "meaning": "давать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我送你一本书。(Я дам тебе книгу.)"
+    ],
+    "originalMeaning": "to give"
+  },
+  {
+    "characters": "它",
+    "pinyin": "tā",
+    "meaning": "оно",
+    "partOfSpeech": "местоимение",
+    "hskLevel": 2,
+    "examples": [
+      "这只猫很可爱，我喜欢它。(Эта кошка милая, мне она нравится.)"
+    ],
+    "originalMeaning": "it"
+  },
+  {
+    "characters": "踢足球",
+    "pinyin": "tī zúqiú",
+    "meaning": "играть в футбол",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我周末喜欢踢足球。(Мне нравится играть в футбол по выходным.)"
+    ],
+    "originalMeaning": "to play soccer"
+  },
+  {
+    "characters": "题",
+    "pinyin": "tí",
+    "meaning": "вопрос",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这个题很难。(Этот вопрос очень сложный.)"
+    ],
+    "originalMeaning": "question"
+  },
+  {
+    "characters": "跳舞",
+    "pinyin": "tiào wǔ",
+    "meaning": "танцевать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "她喜欢跳舞。(Ей нравится танцевать.)"
+    ],
+    "originalMeaning": "to dance"
+  },
+  {
+    "characters": "外",
+    "pinyin": "wài",
+    "meaning": "снаружи",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我们去外面走走。(Давайте выйдем на улицу прогуляться.)"
+    ],
+    "originalMeaning": "outside"
+  },
+  {
+    "characters": "完",
+    "pinyin": "wán",
+    "meaning": "заканчивать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我做完作业了。(Я закончил домашнее задание.)"
+    ],
+    "originalMeaning": "to finish"
+  },
+  {
+    "characters": "玩",
+    "pinyin": "wán",
+    "meaning": "играть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "孩子们在公园里玩。(Дети играют в парке.)"
+    ],
+    "originalMeaning": "to play"
+  },
+  {
+    "characters": "晚上",
+    "pinyin": "wǎnshang",
+    "meaning": "вечер",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我们晚上去看电影。(Мы пойдем смотреть фильм вечером.)"
+    ],
+    "originalMeaning": "evening"
+  },
+  {
+    "characters": "为什么",
+    "pinyin": "wèishénme",
+    "meaning": "почему",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "你为什么不高兴？(Почему ты не рад?)"
+    ],
+    "originalMeaning": "why"
+  },
+  {
+    "characters": "问",
+    "pinyin": "wèn",
+    "meaning": "спрашивать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我想问你一个问题。(Я хочу задать тебе вопрос.)"
+    ],
+    "originalMeaning": "to ask"
+  },
+  {
+    "characters": "问题",
+    "pinyin": "wèntí",
+    "meaning": "проблема",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这个问题很简单。(Эта проблема очень проста.)"
+    ],
+    "originalMeaning": "problem"
+  },
+  {
+    "characters": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "арбуз",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "夏天吃西瓜很舒服。(Есть арбуз летом очень приятно.)"
+    ],
+    "originalMeaning": "watermelon"
+  },
+  {
+    "characters": "洗",
+    "pinyin": "xǐ",
+    "meaning": "мыть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我每天洗衣服。(Я мою одежду каждый день.)"
+    ],
+    "originalMeaning": "to wash"
+  },
+  {
+    "characters": "小时",
+    "pinyin": "xiǎoshí",
+    "meaning": "час",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我等了两个小时。(Я ждал два часа.)"
+    ],
+    "originalMeaning": "hour"
+  },
+  {
+    "characters": "笑",
+    "pinyin": "xiào",
+    "meaning": "улыбаться",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "她笑得很开心。(Она улыбается счастливо.)"
+    ],
+    "originalMeaning": "to smile"
+  },
+  {
+    "characters": "新",
+    "pinyin": "xīn",
+    "meaning": "новый",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "我买了一辆新车。(Я купил новый автомобиль.)"
+    ],
+    "originalMeaning": "new"
+  },
+  {
+    "characters": "姓",
+    "pinyin": "xìng",
+    "meaning": "фамилия",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我姓王。(Моя фамилия Ван.)"
+    ],
+    "originalMeaning": "surname"
+  },
+  {
+    "characters": "休息",
+    "pinyin": "xiūxi",
+    "meaning": "отдыхать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我们休息一下吧。(Давайте сделаем перерыв.)"
+    ],
+    "originalMeaning": "to rest"
+  },
+  {
+    "characters": "雪",
+    "pinyin": "xuě",
+    "meaning": "снег",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "下雪了，真漂亮。(Идет снег, это действительно красиво.)"
+    ],
+    "originalMeaning": "snow"
+  },
+  {
+    "characters": "颜色",
+    "pinyin": "yánsè",
+    "meaning": "цвет",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "你喜欢什么颜色？(Какой цвет тебе нравится?)"
+    ],
+    "originalMeaning": "color"
+  },
+  {
+    "characters": "羊肉",
+    "pinyin": "yángròu",
+    "meaning": "баранина",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我不喜欢吃羊肉。(Мне не нравится есть баранину.)"
+    ],
+    "originalMeaning": "mutton"
+  },
+  {
+    "characters": "药",
+    "pinyin": "yào",
+    "meaning": "лекарство",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "医生给我开了药。(Доктор выписал мне лекарство.)"
+    ],
+    "originalMeaning": "medicine"
+  },
+  {
+    "characters": "要",
+    "pinyin": "yào",
+    "meaning": "хотеть",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我想要一杯水。(Я хочу стакан воды.)"
+    ],
+    "originalMeaning": "to want"
+  },
+  {
+    "characters": "也",
+    "pinyin": "yě",
+    "meaning": "также",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我也喜欢看电影。(Мне тоже нравится смотреть фильмы.)"
+    ],
+    "originalMeaning": "also"
+  },
+  {
+    "characters": "一下",
+    "pinyin": "yíxià",
+    "meaning": "немного",
+    "partOfSpeech": "частица",
+    "hskLevel": 2,
+    "examples": [
+      "请等一下。(Пожалуйста, подождите немного.)"
+    ],
+    "originalMeaning": "a bit"
+  },
+  {
+    "characters": "意思",
+    "pinyin": "yìsi",
+    "meaning": "значение",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "这个词是什么意思？(Что означает это слово?)"
+    ],
+    "originalMeaning": "meaning"
+  },
+  {
+    "characters": "阴",
+    "pinyin": "yīn",
+    "meaning": "пасмурный",
+    "partOfSpeech": "прилагательное",
+    "hskLevel": 2,
+    "examples": [
+      "今天是阴天。(Сегодня пасмурный день.)"
+    ],
+    "originalMeaning": "overcast"
+  },
+  {
+    "characters": "游泳",
+    "pinyin": "yóuyǒng",
+    "meaning": "плавать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢在夏天游泳。(Мне нравится плавать летом.)"
+    ],
+    "originalMeaning": "to swim"
+  },
+  {
+    "characters": "右边",
+    "pinyin": "yòubian",
+    "meaning": "правый бок",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "银行在学校的右边。(Банк находится справа от школы.)"
+    ],
+    "originalMeaning": "right side"
+  },
+  {
+    "characters": "鱼",
+    "pinyin": "yú",
+    "meaning": "рыба",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我喜欢吃鱼。(Мне нравится есть рыбу.)"
+    ],
+    "originalMeaning": "fish"
+  },
+  {
+    "characters": "运动",
+    "pinyin": "yùndòng",
+    "meaning": "спорт",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我每天都做运动。(Я занимаюсь спортом каждый день.)"
+    ],
+    "originalMeaning": "sports"
+  },
+  {
+    "characters": "再",
+    "pinyin": "zài",
+    "meaning": "снова",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "请再说一遍。(Пожалуйста, скажите это снова.)"
+    ],
+    "originalMeaning": "again"
+  },
+  {
+    "characters": "早上",
+    "pinyin": "zǎoshang",
+    "meaning": "утро",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "我早上六点起床。(Я встаю в шесть утра.)"
+    ],
+    "originalMeaning": "morning"
+  },
+  {
+    "characters": "丈夫",
+    "pinyin": "zhàngfu",
+    "meaning": "муж",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "她的丈夫很帅。(Ее муж очень красив.)"
+    ],
+    "originalMeaning": "husband"
+  },
+  {
+    "characters": "找",
+    "pinyin": "zhǎo",
+    "meaning": "искать",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我在找我的手机。(Я ищу свой мобильный телефон.)"
+    ],
+    "originalMeaning": "to find"
+  },
+  {
+    "characters": "着",
+    "pinyin": "zhe",
+    "meaning": "указывает на действие в процессе",
+    "partOfSpeech": "частица",
+    "hskLevel": 2,
+    "examples": [
+      "他在看着书。(Он читает книгу.)"
+    ],
+    "originalMeaning": "indicating action in progress"
+  },
+  {
+    "characters": "真",
+    "pinyin": "zhēn",
+    "meaning": "действительно",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "这个电影真好看。(Этот фильм действительно хороший.)"
+    ],
+    "originalMeaning": "really"
+  },
+  {
+    "characters": "正在",
+    "pinyin": "zhèngzài",
+    "meaning": "в процессе",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "我正在吃饭。(Я ем.)"
+    ],
+    "originalMeaning": "in the process of"
+  },
+  {
+    "characters": "走",
+    "pinyin": "zǒu",
+    "meaning": "идти",
+    "partOfSpeech": "глагол",
+    "hskLevel": 2,
+    "examples": [
+      "我们走吧。(Давайте пойдем.)"
+    ],
+    "originalMeaning": "to walk"
+  },
+  {
+    "characters": "最",
+    "pinyin": "zuì",
+    "meaning": "самый",
+    "partOfSpeech": "наречие",
+    "hskLevel": 2,
+    "examples": [
+      "他是我最好的朋友。(Он мой лучший друг.)"
+    ],
+    "originalMeaning": "most"
+  },
+  {
+    "characters": "左边",
+    "pinyin": "zuǒbian",
+    "meaning": "левый бок",
+    "partOfSpeech": "существительное",
+    "hskLevel": 2,
+    "examples": [
+      "银行在学校的左边。(Банк находится слева от школы.)"
+    ],
+    "originalMeaning": "left side"
   }
 ]
