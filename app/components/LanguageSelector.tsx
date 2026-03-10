@@ -5,7 +5,7 @@ import { useRouter, usePathname } from 'next/navigation';
 import { Globe } from 'lucide-react';
 import { LANGUAGE_CONFIG } from '@/src/lib/constants';
 
-export default function LanguageSelector({ currentLang = 'en' }: { currentLang?: string }) {
+export default function LanguageSelector({ currentLang = 'en', dropdownPosition = 'up' }: { currentLang?: string; dropdownPosition?: 'up' | 'down' }) {
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
@@ -49,7 +49,7 @@ export default function LanguageSelector({ currentLang = 'en' }: { currentLang?:
       </button>
 
       {isOpen && (
-        <div className="absolute bottom-full mb-2 right-0 w-56 bg-white border border-gray-200 rounded-lg shadow-lg py-1 max-h-80 overflow-y-auto">
+        <div className={`absolute right-0 w-56 bg-white border border-gray-200 rounded-lg shadow-lg py-1 max-h-80 overflow-y-auto z-50 ${dropdownPosition === 'down' ? 'top-full mt-2' : 'bottom-full mb-2'}`}>
           {Object.entries(LANGUAGE_CONFIG).map(([code, config]) => (
             <button
               key={code}

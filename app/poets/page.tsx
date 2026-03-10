@@ -73,7 +73,7 @@ export default function PoetsIndexPage() {
             <ArrowLeft className="w-3.5 h-3.5" />
             Home
           </Link>
-          <LanguageSelector currentLang="en" />
+          <LanguageSelector dropdownPosition="down" currentLang="en" />
         </div>
       </nav>
 

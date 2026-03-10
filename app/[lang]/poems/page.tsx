@@ -68,7 +68,7 @@ export default async function TranslatedPoemsIndexPage({ params }: { params: Pro
             <ArrowLeft className="w-3.5 h-3.5" />
             {getTranslation(lang, 'home') || 'Home'}
           </Link>
-          <LanguageSelector currentLang={lang} />
+          <LanguageSelector dropdownPosition="down" currentLang={lang} />
         </div>
       </nav>
 
