@@ -4514,5 +4514,1292 @@
       "银行在学校的左边。(The bank is on the left side of the school.)"
     ],
     "originalMeaning": "left side"
+  },
+  {
+    "characters": "打扫",
+    "pinyin": "dǎsǎo",
+    "meaning": "청소하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每周打扫一次房间。(나는 매주 방을 청소한다.)"
+    ],
+    "originalMeaning": "clean"
+  },
+  {
+    "characters": "搬",
+    "pinyin": "bān",
+    "meaning": "이사하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我们下个月搬家。(우리는 다음 달에 이사한다.)"
+    ],
+    "originalMeaning": "move"
+  },
+  {
+    "characters": "发现",
+    "pinyin": "fāxiàn",
+    "meaning": "발견하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我发现了一家好餐厅。(나는 좋은 식당을 발견했다.)"
+    ],
+    "originalMeaning": "discover"
+  },
+  {
+    "characters": "礼物",
+    "pinyin": "lǐwù",
+    "meaning": "선물",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "她送给我一个礼物。(그녀는 나에게 선물을 주었다.)"
+    ],
+    "originalMeaning": "gift"
+  },
+  {
+    "characters": "会议",
+    "pinyin": "huìyì",
+    "meaning": "회의",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我们下午有一个会议。(우리는 오후에 회의가 있다.)"
+    ],
+    "originalMeaning": "meeting"
+  },
+  {
+    "characters": "邻居",
+    "pinyin": "línjū",
+    "meaning": "이웃",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我的邻居很友好。(내 이웃은 매우 친절하다.)"
+    ],
+    "originalMeaning": "neighbor"
+  },
+  {
+    "characters": "菜单",
+    "pinyin": "càidān",
+    "meaning": "메뉴",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请给我看一下菜单。(메뉴를 보여주세요.)"
+    ],
+    "originalMeaning": "menu"
+  },
+  {
+    "characters": "钱包",
+    "pinyin": "qiánbāo",
+    "meaning": "지갑",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我的钱包不见了。(내 지갑이 없어졌다.)"
+    ],
+    "originalMeaning": "wallet"
+  },
+  {
+    "characters": "超市",
+    "pinyin": "chāoshì",
+    "meaning": "슈퍼마켓",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我去超市买东西。(나는 슈퍼마켓에 가서 물건을 산다.)"
+    ],
+    "originalMeaning": "supermarket"
+  },
+  {
+    "characters": "司机",
+    "pinyin": "sījī",
+    "meaning": "운전사",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他是一名出租车司机。(그는 택시 운전사이다.)"
+    ],
+    "originalMeaning": "driver"
+  },
+  {
+    "characters": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "여권",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "出国旅行需要护照。(해외 여행에는 여권이 필요하다.)"
+    ],
+    "originalMeaning": "passport"
+  },
+  {
+    "characters": "筷子",
+    "pinyin": "kuàizi",
+    "meaning": "젓가락",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我用筷子吃饭。(나는 젓가락으로 밥을 먹는다.)"
+    ],
+    "originalMeaning": "chopsticks"
+  },
+  {
+    "characters": "行李",
+    "pinyin": "xíngli",
+    "meaning": "짐",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请把行李放在这里。(짐을 여기 두세요.)"
+    ],
+    "originalMeaning": "luggage"
+  },
+  {
+    "characters": "检查",
+    "pinyin": "jiǎnchá",
+    "meaning": "검사하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "医生在检查我的身体。(의사가 내 몸을 검사하고 있다.)"
+    ],
+    "originalMeaning": "to check"
+  },
+  {
+    "characters": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "노력하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他在努力学习中文。(그는 중국어를 배우기 위해 노력하고 있다.)"
+    ],
+    "originalMeaning": "to strive"
+  },
+  {
+    "characters": "担心",
+    "pinyin": "dānxīn",
+    "meaning": "걱정하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "妈妈总是担心我。(엄마는 항상 나를 걱정한다.)"
+    ],
+    "originalMeaning": "to worry"
+  },
+  {
+    "characters": "聊天",
+    "pinyin": "liáotiān",
+    "meaning": "대화하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我们常常在网上聊天。(우리는 종종 온라인에서 대화한다.)"
+    ],
+    "originalMeaning": "to chat"
+  },
+  {
+    "characters": "生气",
+    "pinyin": "shēngqì",
+    "meaning": "화나다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他很容易生气。(그는 쉽게 화를 낸다.)"
+    ],
+    "originalMeaning": "to get angry"
+  },
+  {
+    "characters": "洗澡",
+    "pinyin": "xǐzǎo",
+    "meaning": "목욕하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天晚上洗澡。(나는 매일 밤 목욕한다.)"
+    ],
+    "originalMeaning": "to take a bath"
+  },
+  {
+    "characters": "着急",
+    "pinyin": "zháojí",
+    "meaning": "걱정하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "别着急，我们有时间。(걱정하지 마세요, 우리는 시간이 있다.)"
+    ],
+    "originalMeaning": "to worry"
+  },
+  {
+    "characters": "新鲜",
+    "pinyin": "xīnxiān",
+    "meaning": "신선한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这些水果很新鲜。(이 과일들은 매우 신선하다.)"
+    ],
+    "originalMeaning": "fresh"
+  },
+  {
+    "characters": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "편안한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这张椅子很舒服。(이 의자는 매우 편안하다.)"
+    ],
+    "originalMeaning": "comfortable"
+  },
+  {
+    "characters": "认真",
+    "pinyin": "rènzhēn",
+    "meaning": "진지한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他是一个很认真的学生。(그는 매우 진지한 학생이다.)"
+    ],
+    "originalMeaning": "serious"
+  },
+  {
+    "characters": "奇怪",
+    "pinyin": "qíguài",
+    "meaning": "이상한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个问题很奇怪。(이 문제는 매우 이상하다.)"
+    ],
+    "originalMeaning": "strange"
+  },
+  {
+    "characters": "方便",
+    "pinyin": "fāngbiàn",
+    "meaning": "편리한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "住在这里很方便。(여기 사는 것은 매우 편리하다.)"
+    ],
+    "originalMeaning": "convenient"
+  },
+  {
+    "characters": "可爱",
+    "pinyin": "kě'ài",
+    "meaning": "귀여운",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这只小猫很可爱。(이 아기 고양이는 매우 귀엽다.)"
+    ],
+    "originalMeaning": "cute"
+  },
+  {
+    "characters": "干净",
+    "pinyin": "gānjìng",
+    "meaning": "깨끗한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "房间很干净。(방이 매우 깨끗하다.)"
+    ],
+    "originalMeaning": "clean"
+  },
+  {
+    "characters": "简单",
+    "pinyin": "jiǎndān",
+    "meaning": "간단한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个问题很简单。(이 문제는 매우 간단하다.)"
+    ],
+    "originalMeaning": "simple"
+  },
+  {
+    "characters": "突然",
+    "pinyin": "tūrán",
+    "meaning": "갑자기",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "他突然离开了。(그는 갑자기 떠났다.)"
+    ],
+    "originalMeaning": "suddenly"
+  },
+  {
+    "characters": "几乎",
+    "pinyin": "jīhū",
+    "meaning": "거의",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "我几乎忘记了他的名字。(나는 그의 이름을 거의 잊어버렸다.)"
+    ],
+    "originalMeaning": "almost"
+  },
+  {
+    "characters": "当然",
+    "pinyin": "dāngrán",
+    "meaning": "물론",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "你当然可以来。(물론 너는 올 수 있다.)"
+    ],
+    "originalMeaning": "of course"
+  },
+  {
+    "characters": "如果",
+    "pinyin": "rúguǒ",
+    "meaning": "만약",
+    "partOfSpeech": "conjunction",
+    "hskLevel": 3,
+    "examples": [
+      "如果下雨，我们就不去。(만약 비가 오면, 우리는 가지 않을 것이다.)"
+    ],
+    "originalMeaning": "if"
+  },
+  {
+    "characters": "为了",
+    "pinyin": "wèile",
+    "meaning": "위해서",
+    "partOfSpeech": "preposition",
+    "hskLevel": 3,
+    "examples": [
+      "为了健康，我每天锻炼。(건강을 위해서, 나는 매일 운동한다.)"
+    ],
+    "originalMeaning": "in order to"
+  },
+  {
+    "characters": "向",
+    "pinyin": "xiàng",
+    "meaning": "향하여",
+    "partOfSpeech": "preposition",
+    "hskLevel": 3,
+    "examples": [
+      "他向我走来。(그는 나에게 다가온다.)"
+    ],
+    "originalMeaning": "towards"
+  },
+  {
+    "characters": "把",
+    "pinyin": "bǎ",
+    "meaning": "처리하다",
+    "partOfSpeech": "particle",
+    "hskLevel": 3,
+    "examples": [
+      "请把书放在桌子上。(책을 테이블 위에 두세요.)"
+    ],
+    "originalMeaning": "indicating a thing is disposed of"
+  },
+  {
+    "characters": "被",
+    "pinyin": "bèi",
+    "meaning": "에 의해",
+    "partOfSpeech": "particle",
+    "hskLevel": 3,
+    "examples": [
+      "他被老师表扬了。(그는 선생님에게 칭찬받았다.)"
+    ],
+    "originalMeaning": "by (indicates passive-voice sentences)"
+  },
+  {
+    "characters": "变化",
+    "pinyin": "biànhuà",
+    "meaning": "변화",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "天气的变化很快。(날씨의 변화가 빠르다.)"
+    ],
+    "originalMeaning": "change"
+  },
+  {
+    "characters": "表演",
+    "pinyin": "biǎoyǎn",
+    "meaning": "공연하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他在舞台上表演得很好。(그는 무대에서 잘 공연했다.)"
+    ],
+    "originalMeaning": "perform"
+  },
+  {
+    "characters": "成绩",
+    "pinyin": "chéngjì",
+    "meaning": "성적",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他的成绩很好。(그의 성적은 매우 좋다.)"
+    ],
+    "originalMeaning": "grade"
+  },
+  {
+    "characters": "城市",
+    "pinyin": "chéngshì",
+    "meaning": "도시",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "上海是一个大城市。(상하이는 큰 도시이다.)"
+    ],
+    "originalMeaning": "city"
+  },
+  {
+    "characters": "地方",
+    "pinyin": "dìfāng",
+    "meaning": "장소",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这个地方很漂亮。(This place is very beautiful.)"
+    ],
+    "originalMeaning": "place"
+  },
+  {
+    "characters": "锻炼",
+    "pinyin": "duànliàn",
+    "meaning": "운동하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天早上锻炼身体。(I exercise every morning.)"
+    ],
+    "originalMeaning": "exercise"
+  },
+  {
+    "characters": "感冒",
+    "pinyin": "gǎnmào",
+    "meaning": "감기 걸리다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我感冒了，需要休息。(I caught a cold and need to rest.)"
+    ],
+    "originalMeaning": "catch a cold"
+  },
+  {
+    "characters": "经历",
+    "pinyin": "jīnglì",
+    "meaning": "경험",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这是一次难忘的经历。(This is an unforgettable experience.)"
+    ],
+    "originalMeaning": "experience"
+  },
+  {
+    "characters": "久",
+    "pinyin": "jiǔ",
+    "meaning": "오랜 시간",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "我等了很久。(I waited for a long time.)"
+    ],
+    "originalMeaning": "long time"
+  },
+  {
+    "characters": "句子",
+    "pinyin": "jùzi",
+    "meaning": "문장",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请用这个词造一个句子。(Please make a sentence with this word.)"
+    ],
+    "originalMeaning": "sentence"
+  },
+  {
+    "characters": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "태양",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "今天的太阳很大。(The sun is very bright today.)"
+    ],
+    "originalMeaning": "sun"
+  },
+  {
+    "characters": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "동의하다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我同意你的看法。(I agree with your opinion.)"
+    ],
+    "originalMeaning": "agree"
+  },
+  {
+    "characters": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "습관",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我有早起的习惯。(I have a habit of getting up early.)"
+    ],
+    "originalMeaning": "habit"
+  },
+  {
+    "characters": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "사과",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我每天吃一个苹果。(I eat an apple every day.)"
+    ],
+    "originalMeaning": "apple"
+  },
+  {
+    "characters": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "meaning": "바나나",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "香蕉是我最喜欢的水果。(Banana is my favorite fruit.)"
+    ],
+    "originalMeaning": "banana"
+  },
+  {
+    "characters": "葡萄",
+    "pinyin": "pútáo",
+    "meaning": "포도",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这些葡萄很甜。(These grapes are very sweet.)"
+    ],
+    "originalMeaning": "grape"
+  },
+  {
+    "characters": "草莓",
+    "pinyin": "cǎoméi",
+    "meaning": "딸기",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢草莓味的冰淇淋。(I like strawberry-flavored ice cream.)"
+    ],
+    "originalMeaning": "strawberry"
+  },
+  {
+    "characters": "橙子",
+    "pinyin": "chéngzi",
+    "meaning": "오렌지",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "橙子含有丰富的维生素C。(Oranges are rich in vitamin C.)"
+    ],
+    "originalMeaning": "orange"
+  },
+  {
+    "characters": "梨",
+    "pinyin": "lí",
+    "meaning": "배",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这只梨很甜。(This pear is very sweet.)"
+    ],
+    "originalMeaning": "pear"
+  },
+  {
+    "characters": "牛肉",
+    "pinyin": "niúròu",
+    "meaning": "소고기",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃牛肉。(I like eating beef.)"
+    ],
+    "originalMeaning": "beef"
+  },
+  {
+    "characters": "鸡肉",
+    "pinyin": "jīròu",
+    "meaning": "닭고기",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "鸡肉比猪肉健康。(Chicken is healthier than pork.)"
+    ],
+    "originalMeaning": "chicken"
+  },
+  {
+    "characters": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "빵",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "早餐我常吃面包。(I often eat bread for breakfast.)"
+    ],
+    "originalMeaning": "bread"
+  },
+  {
+    "characters": "糖",
+    "pinyin": "táng",
+    "meaning": "설탕",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我不加糖。(I don't add sugar.)"
+    ],
+    "originalMeaning": "sugar"
+  },
+  {
+    "characters": "盐",
+    "pinyin": "yán",
+    "meaning": "소금",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜需要一点盐。(This dish needs a little salt.)"
+    ],
+    "originalMeaning": "salt"
+  },
+  {
+    "characters": "面条",
+    "pinyin": "miàntiáo",
+    "meaning": "면",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃面条。(I like eating noodles.)"
+    ],
+    "originalMeaning": "noodles"
+  },
+  {
+    "characters": "汤",
+    "pinyin": "tāng",
+    "meaning": "수프",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这碗汤很好喝。(This bowl of soup is delicious.)"
+    ],
+    "originalMeaning": "soup"
+  },
+  {
+    "characters": "蔬菜",
+    "pinyin": "shūcài",
+    "meaning": "채소",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "多吃蔬菜对身体好。(Eating more vegetables is good for health.)"
+    ],
+    "originalMeaning": "vegetable"
+  },
+  {
+    "characters": "冰淇淋",
+    "pinyin": "bīngqílín",
+    "meaning": "아이스크림",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "夏天我喜欢吃冰淇淋。(I like eating ice cream in summer.)"
+    ],
+    "originalMeaning": "ice cream"
+  },
+  {
+    "characters": "饺子",
+    "pinyin": "jiǎozi",
+    "meaning": "만두",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "过年时我们吃饺子。(We eat dumplings during the New Year.)"
+    ],
+    "originalMeaning": "dumpling"
+  },
+  {
+    "characters": "蛋糕",
+    "pinyin": "dàngāo",
+    "meaning": "케이크",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "生日时我们吃蛋糕。(We eat cake on birthdays.)"
+    ],
+    "originalMeaning": "cake"
+  },
+  {
+    "characters": "饼干",
+    "pinyin": "bǐnggān",
+    "meaning": "비스킷",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃饼干。(I like eating biscuits.)"
+    ],
+    "originalMeaning": "biscuit"
+  },
+  {
+    "characters": "糖果",
+    "pinyin": "tángguǒ",
+    "meaning": "사탕",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "孩子们喜欢糖果。(Children like candy.)"
+    ],
+    "originalMeaning": "candy"
+  },
+  {
+    "characters": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "meaning": "초콜릿",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "巧克力很甜。(Chocolate is very sweet.)"
+    ],
+    "originalMeaning": "chocolate"
+  },
+  {
+    "characters": "蜂蜜",
+    "pinyin": "fēngmì",
+    "meaning": "꿀",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "蜂蜜可以用来调味。(Honey can be used as a sweetener.)"
+    ],
+    "originalMeaning": "honey"
+  },
+  {
+    "characters": "果汁",
+    "pinyin": "guǒzhī",
+    "meaning": "주스",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢喝果汁。(I like drinking juice.)"
+    ],
+    "originalMeaning": "juice"
+  },
+  {
+    "characters": "离开",
+    "pinyin": "líkāi",
+    "meaning": "떠나다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他已经离开了公司。(He has already left the company.)"
+    ],
+    "originalMeaning": "leave"
+  },
+  {
+    "characters": "遇到",
+    "pinyin": "yùdào",
+    "meaning": "만나다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我在公园遇到了老朋友。(I met an old friend in the park.)"
+    ],
+    "originalMeaning": "encounter"
+  },
+  {
+    "characters": "相信",
+    "pinyin": "xiāngxìn",
+    "meaning": "믿다",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我相信你能做到。(I believe you can do it.)"
+    ],
+    "originalMeaning": "believe"
+  },
+  {
+    "characters": "聪明",
+    "pinyin": "cōngmíng",
+    "meaning": "똑똑한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他是一个聪明的学生。(He is a smart student.)"
+    ],
+    "originalMeaning": "smart"
+  },
+  {
+    "characters": "漂亮",
+    "pinyin": "piàoliang",
+    "meaning": "아름다운",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个地方很漂亮。(This place is beautiful.)"
+    ],
+    "originalMeaning": "beautiful"
+  },
+  {
+    "characters": "安静",
+    "pinyin": "ānjìng",
+    "meaning": "조용한",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "图书馆里很安静。(The library is very quiet.)"
+    ],
+    "originalMeaning": "quiet"
+  },
+  {
+    "characters": "热情",
+    "pinyin": "rèqíng",
+    "meaning": "열정적인",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他对工作很热情。(He is very enthusiastic about his work.)"
+    ],
+    "originalMeaning": "enthusiastic"
+  },
+  {
+    "characters": "害怕",
+    "pinyin": "hàipà",
+    "meaning": "두려운",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他害怕黑暗。(He is afraid of the dark.)"
+    ],
+    "originalMeaning": "afraid"
+  },
+  {
+    "characters": "矮",
+    "pinyin": "ǎi",
+    "meaning": "키가 작은",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他比我矮。(He is shorter than me.)"
+    ],
+    "originalMeaning": "short"
+  },
+  {
+    "characters": "胖",
+    "pinyin": "pàng",
+    "meaning": "뚱뚱한",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这只猫很胖。(이 고양이는 매우 뚱뚱하다.)"
+    ],
+    "originalMeaning": "fat"
+  },
+  {
+    "characters": "瘦",
+    "pinyin": "shòu",
+    "meaning": "마른",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "他最近变瘦了。(그는 최근에 마르게 되었다.)"
+    ],
+    "originalMeaning": "thin"
+  },
+  {
+    "characters": "旧",
+    "pinyin": "jiù",
+    "meaning": "오래된",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很旧。(이 책은 매우 오래되었다.)"
+    ],
+    "originalMeaning": "old"
+  },
+  {
+    "characters": "年轻",
+    "pinyin": "niánqīng",
+    "meaning": "젊은",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "她看起来很年轻。(그녀는 매우 젊어 보인다.)"
+    ],
+    "originalMeaning": "young"
+  },
+  {
+    "characters": "可怜",
+    "pinyin": "kělián",
+    "meaning": "불쌍한",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这只小猫很可怜。(이 아기 고양이는 매우 불쌍하다.)"
+    ],
+    "originalMeaning": "pitiful"
+  },
+  {
+    "characters": "懒",
+    "pinyin": "lǎn",
+    "meaning": "게으른",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "他很懒，不喜欢运动。(그는 게으르고 운동하는 것을 좋아하지 않는다.)"
+    ],
+    "originalMeaning": "lazy"
+  },
+  {
+    "characters": "渴",
+    "pinyin": "kě",
+    "meaning": "목마른",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "我渴了，想喝水。(나는 목이 마르고 물을 마시고 싶다.)"
+    ],
+    "originalMeaning": "thirsty"
+  },
+  {
+    "characters": "饿",
+    "pinyin": "è",
+    "meaning": "배고픈",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "我饿了，想吃饭。(나는 배고프고 밥을 먹고 싶다.)"
+    ],
+    "originalMeaning": "hungry"
+  },
+  {
+    "characters": "丑",
+    "pinyin": "chǒu",
+    "meaning": "못생긴",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这幅画很丑。(이 그림은 못생겼다.)"
+    ],
+    "originalMeaning": "ugly"
+  },
+  {
+    "characters": "宽",
+    "pinyin": "kuān",
+    "meaning": "넓은",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这条路很宽。(이 도로는 넓다.)"
+    ],
+    "originalMeaning": "wide"
+  },
+  {
+    "characters": "窄",
+    "pinyin": "zhǎi",
+    "meaning": "좁은",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这条巷子很窄。(이 골목은 좁다.)"
+    ],
+    "originalMeaning": "narrow"
+  },
+  {
+    "characters": "轻",
+    "pinyin": "qīng",
+    "meaning": "가벼운",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这个箱子很轻。(이 상자는 가볍다.)"
+    ],
+    "originalMeaning": "light"
+  },
+  {
+    "characters": "重",
+    "pinyin": "zhòng",
+    "meaning": "무거운",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很重。(이 책은 무겁다.)"
+    ],
+    "originalMeaning": "heavy"
+  },
+  {
+    "characters": "厚",
+    "pinyin": "hòu",
+    "meaning": "두꺼운",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很厚。(이 책은 두껍다.)"
+    ],
+    "originalMeaning": "thick"
+  },
+  {
+    "characters": "薄",
+    "pinyin": "báo",
+    "meaning": "얇은",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这张纸很薄。(이 종이는 얇다.)"
+    ],
+    "originalMeaning": "thin"
+  },
+  {
+    "characters": "硬",
+    "pinyin": "yìng",
+    "meaning": "딱딱한",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这个椅子很硬。(이 의자는 딱딱하다.)"
+    ],
+    "originalMeaning": "hard"
+  },
+  {
+    "characters": "软",
+    "pinyin": "ruǎn",
+    "meaning": "부드러운",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这个枕头很软。(이 베개는 부드럽다.)"
+    ],
+    "originalMeaning": "soft"
+  },
+  {
+    "characters": "短",
+    "pinyin": "duǎn",
+    "meaning": "짧은",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "这条裤子很短。(이 바지는 짧다.)"
+    ],
+    "originalMeaning": "short"
+  },
+  {
+    "characters": "暖和",
+    "pinyin": "nuǎnhuo",
+    "meaning": "따뜻한",
+    "partOfSpeech": "형용사",
+    "hskLevel": 3,
+    "examples": [
+      "今天的天气很暖和。(오늘 날씨는 따뜻하다.)"
+    ],
+    "originalMeaning": "warm"
+  },
+  {
+    "characters": "忽然",
+    "pinyin": "hūrán",
+    "meaning": "갑자기",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "他忽然笑了。(그는 갑자기 웃었다.)"
+    ],
+    "originalMeaning": "suddenly"
+  },
+  {
+    "characters": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "주말",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "周末你有什么计划？(주말에 어떤 계획이 있나요?)"
+    ],
+    "originalMeaning": "weekend"
+  },
+  {
+    "characters": "地点",
+    "pinyin": "dìdiǎn",
+    "meaning": "장소",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "会议地点在哪里？(회의 장소는 어디인가요?)"
+    ],
+    "originalMeaning": "location"
+  },
+  {
+    "characters": "方向",
+    "pinyin": "fāngxiàng",
+    "meaning": "방향",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "请问去火车站的方向是哪里？(기차역으로 가는 방향은 어디인가요?)"
+    ],
+    "originalMeaning": "direction"
+  },
+  {
+    "characters": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "근처",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "附近有超市吗？(근처에 슈퍼마켓이 있나요?)"
+    ],
+    "originalMeaning": "nearby"
+  },
+  {
+    "characters": "中间",
+    "pinyin": "zhōngjiān",
+    "meaning": "가운데",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "他坐在中间。(그는 가운데 앉아 있다.)"
+    ],
+    "originalMeaning": "middle"
+  },
+  {
+    "characters": "外面",
+    "pinyin": "wàimiàn",
+    "meaning": "밖",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "外面下雨了。(밖에 비가 오고 있다.)"
+    ],
+    "originalMeaning": "outside"
+  },
+  {
+    "characters": "里面",
+    "pinyin": "lǐmiàn",
+    "meaning": "안",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "房间里面很安静。(방 안은 매우 조용하다.)"
+    ],
+    "originalMeaning": "inside"
+  },
+  {
+    "characters": "楼上",
+    "pinyin": "lóushàng",
+    "meaning": "위층",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "他住在楼上。(그는 위층에 산다.)"
+    ],
+    "originalMeaning": "upstairs"
+  },
+  {
+    "characters": "楼下",
+    "pinyin": "lóuxià",
+    "meaning": "아래층",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "我在楼下等你。(나는 아래층에서 너를 기다리고 있다.)"
+    ],
+    "originalMeaning": "downstairs"
+  },
+  {
+    "characters": "往",
+    "pinyin": "wǎng",
+    "meaning": "쪽으로",
+    "partOfSpeech": "전치사",
+    "hskLevel": 3,
+    "examples": [
+      "往左走。(왼쪽으로 가세요.)"
+    ],
+    "originalMeaning": "towards"
+  },
+  {
+    "characters": "一直",
+    "pinyin": "yìzhí",
+    "meaning": "곧장",
+    "partOfSpeech": "부사",
+    "hskLevel": 3,
+    "examples": [
+      "一直走，你会看到银行。(곧장 가면 은행을 볼 수 있다.)"
+    ],
+    "originalMeaning": "straight"
+  },
+  {
+    "characters": "经过",
+    "pinyin": "jīngguò",
+    "meaning": "지나가다",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我每天经过这家店。(나는 매일 이 가게를 지나간다.)"
+    ],
+    "originalMeaning": "pass by"
+  },
+  {
+    "characters": "路口",
+    "pinyin": "lùkǒu",
+    "meaning": "교차로",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "在下一个路口右转。(다음 교차로에서 우회전하세요.)"
+    ],
+    "originalMeaning": "intersection"
+  },
+  {
+    "characters": "下班",
+    "pinyin": "xiàbān",
+    "meaning": "퇴근하다",
+    "partOfSpeech": "동사",
+    "hskLevel": 3,
+    "examples": [
+      "我每天六点下班。(나는 매일 6시에 퇴근한다.)"
+    ],
+    "originalMeaning": "get off work"
+  },
+  {
+    "characters": "公园",
+    "pinyin": "gōngyuán",
+    "meaning": "공원",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "我们去公园散步吧。(우리 공원에 산책하러 가자.)"
+    ],
+    "originalMeaning": "park"
+  },
+  {
+    "characters": "银行",
+    "pinyin": "yínháng",
+    "meaning": "은행",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "银行几点开门？(은행은 몇 시에 문을 여나요?)"
+    ],
+    "originalMeaning": "bank"
+  },
+  {
+    "characters": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "기차역",
+    "partOfSpeech": "명사",
+    "hskLevel": 3,
+    "examples": [
+      "火车站离这里很近。(기차역은 여기에서 매우 가깝다.)"
+    ],
+    "originalMeaning": "train station"
   }
 ]

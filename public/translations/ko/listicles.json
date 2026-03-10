@@ -485,34 +485,6 @@
     "publishedDate": "2025-01-31"
   },
   {
-    "slug": "joleop-sogeo",
-    "originalSlug": "chinese-idioms-for-graduation",
-    "title": "졸업 연설 및 카드에 완벽한 한자 성어 8가지",
-    "description": "업적, 미래의 성공 및 새로운 시작에 대한 영감을 주는 한자 성어로 졸업생을 축하하십시오.",
-    "metaDescription": "졸업에 완벽한 한자 성어를 찾으십시오. 이 8가지 성어는 업적을 축하하고 미래의 성공을 장려하며 의미 있는 졸업 카드 메시지를 만듭니다.",
-    "keywords": [
-      "졸업 한자 성어",
-      "졸업 중국어 구절",
-      "졸업생을 위한 성어",
-      "중국어 축하 속담",
-      "졸업 카드 중국어",
-      "졸업 연설 중국어"
-    ],
-    "intro": "졸업은 심오한 말을 받을 가치가 있는 중요한 순간입니다. 이 한자 성어는 업적의 본질, 새로운 시작의 흥분, 미래의 성공에 대한 소망을 담고 있습니다. 연설, 카드 및 축하 행사에 적합합니다.",
-    "idiomIds": [
-      "ID001",
-      "ID002",
-      "ID003",
-      "ID014",
-      "ID017",
-      "ID021",
-      "ID025",
-      "ID026"
-    ],
-    "category": "기념일",
-    "publishedDate": "2025-02-01"
-  },
-  {
     "slug": "gajoge-daehan-seogeo",
     "originalSlug": "chinese-idioms-about-family",
     "title": "가족과 가정에 대한 따뜻한 한자 성어 10가지",
@@ -1190,13 +1162,13 @@
     "publishedDate": "2025-02-23"
   },
   {
-    "slug": "innaesim-e-daehan-junggugeo-sogeo",
-    "title": "10 Powerful Chinese Idioms About Perseverance & Never Giving Up",
-    "description": "Inspiring Chinese idioms about perseverance, persistence, and the strength to keep going. Learn how to say perseverance in Chinese.",
-    "metaDescription": "Looking for Chinese idioms about perseverance? These 10 powerful chengyu about persistence, determination, and never giving up will inspire you to keep going through any challenge.",
-    "category": "인격",
+    "slug": "chinese-idioms-about-perseverance",
+    "title": "인내와 포기하지 않는 것에 대한 10가지 강력한 중국어 성어",
+    "description": "인내, 끈기, 그리고 계속 나아갈 수 있는 힘에 대한 영감을 주는 중국어 성어. 중국어로 인내를 어떻게 말하는지 알아보세요.",
+    "metaDescription": "인내에 대한 중국어 성어를 찾고 계신가요? 끈기, 결단력, 그리고 포기하지 않는 것에 대한 이 10가지 강력한 성어는 어떤 어려움에도 계속 나아갈 수 있도록 영감을 줄 것입니다.",
+    "category": "Character & Values",
     "publishedDate": "2025-02-24",
-    "intro": "How do you express perseverance in Chinese? These powerful idioms capture the spirit of persistence and determination that has inspired generations. From water wearing through stone to slow birds flying first, Chinese culture has profound wisdom about the power of never giving up.",
+    "intro": "중국어로 인내를 어떻게 표현하나요? 이 강력한 성어들은 여러 세대에 영감을 준 끈기와 결단력의 정신을 담고 있습니다. 물이 돌을 뚫는 것부터 느린 새가 먼저 나는 것까지, 중국 문화는 포기하지 않는 힘에 대한 심오한 지혜를 가지고 있습니다.",
     "keywords": [
       "perseverance in chinese",
       "chinese idioms about perseverance",
@@ -1223,12 +1195,12 @@
   },
   {
     "slug": "chinese-beauty-idioms-four-beauties",
-    "title": "8 Poetic Chinese Idioms About Beauty (闭月羞花 & The Four Beauties)",
-    "description": "Discover the most beautiful Chinese idioms describing beauty, including the famous 闭月羞花 and 沉鱼落雁 from the Four Beauties of ancient China.",
-    "metaDescription": "What does 闭月羞花 mean? Learn 8 beautiful Chinese idioms about beauty, including the famous Four Beauties expressions. Perfect for describing elegance and grace in Chinese.",
-    "category": "자연",
+    "title": "아름다움에 대한 8가지 시적인 중국어 성어 (闭月羞花 & The Four Beauties)",
+    "description": "고대 중국의 Four Beauties에서 유래한 유명한 闭月羞花 및 沉鱼落雁을 포함하여 아름다움을 묘사하는 가장 아름다운 중국어 성어를 발견하세요.",
+    "metaDescription": "闭月羞花는 무엇을 의미하나요? 유명한 Four Beauties 표현을 포함하여 아름다움에 대한 8가지 아름다운 중국어 성어를 배우세요. 중국어로 우아함과 품위를 묘사하는 데 적합합니다.",
+    "category": "Nature & Animals",
     "publishedDate": "2025-02-25",
-    "intro": "What does 闭月羞花 (bì yuè xiū huā) mean? This iconic idiom describes beauty so stunning that the moon hides and flowers feel shy. Together with 沉鱼落雁, these phrases honor the legendary Four Beauties of ancient China whose grace became immortalized in language.",
+    "intro": "闭月羞花 (bì yuè xiū huā)는 무엇을 의미하나요? 이 상징적인 성어는 달이 숨고 꽃이 수줍어할 정도로 놀라운 아름다움을 묘사합니다. 沉鱼落雁과 함께 이 구절들은 고대 중국의 전설적인 Four Beauties의 우아함을 기리고 언어로 불멸화되었습니다.",
     "keywords": [
       "chinese beauty idioms",
       "bi yue xiu hua meaning",
@@ -1251,13 +1223,13 @@
     "originalSlug": "chinese-beauty-idioms-four-beauties"
   },
   {
-    "slug": "yeongeo-beonyeok-junggugeo-sogeo",
-    "title": "15 Most Searched Chinese Idioms with English Translations",
-    "description": "The most commonly searched Chinese idioms with their English translations. Perfect for learners looking for accurate chengyu meanings.",
-    "metaDescription": "Looking for Chinese idiom English translations? This guide covers the 15 most searched chengyu including their meanings, pinyin, and usage examples.",
-    "category": "학습",
+    "slug": "chinese-idioms-english-translations",
+    "title": "영어 번역과 함께 가장 많이 검색된 15가지 중국어 성어",
+    "description": "가장 일반적으로 검색되는 중국어 성어와 영어 번역. 정확한 성어 의미를 찾는 학습자에게 적합합니다.",
+    "metaDescription": "중국어 성어 영어 번역을 찾고 계신가요? 이 가이드는 의미, 병음 및 사용 예시를 포함하여 가장 많이 검색되는 15가지 성어를 다룹니다.",
+    "category": "Learning & Education",
     "publishedDate": "2025-02-26",
-    "intro": "Looking for Chinese idiom English translations? Whether you are a student, translator, or language enthusiast, this guide provides accurate English translations for the most commonly searched Chinese idioms, complete with pinyin pronunciation and usage examples.",
+    "intro": "중국어 성어 영어 번역을 찾고 계신가요? 학생, 번역가 또는 언어 애호가이든 이 가이드는 가장 일반적으로 검색되는 중국어 성어에 대한 정확한 영어 번역을 제공하며, 병음 발음 및 사용 예시가 함께 제공됩니다.",
     "keywords": [
       "chinese idiom english translation",
       "chengyu in english",
@@ -1286,12 +1258,12 @@
   },
   {
     "slug": "classic-chinese-fable-idioms",
-    "title": "10 Chinese Idioms from Famous Fables & Stories You Should Know",
-    "description": "Learn Chinese idioms from classic fables including the fox and tiger, the frog in the well, and waiting for rabbits by a tree stump.",
-    "metaDescription": "Discover 10 Chinese idioms from famous fables. Stories like the fox borrowing the tiger\\",
-    "category": "문화",
+    "title": "유명한 우화 및 이야기에서 유래한 10가지 중국어 성어",
+    "description": "여우와 호랑이, 우물 안 개구리, 나무 그루터기 옆에서 토끼를 기다리는 것을 포함하여 고전 우화에서 유래한 중국어 성어를 배우세요.",
+    "metaDescription": "유명한 우화에서 유래한 10가지 중국어 성어를 발견하세요. 호랑이의 힘을 빌린 여우와 우물 안 개구리와 같은 이야기는 기억에 남는 이야기를 통해 시대를 초월한 교훈을 가르칩니다.",
+    "category": "History & Culture",
     "publishedDate": "2025-02-27",
-    "intro": "The best Chinese idioms come from memorable fables and stories passed down for thousands of years. These tales contain profound wisdom wrapped in entertaining narratives that have captivated generations.",
+    "intro": "최고의 중국어 성어는 수천 년 동안 전해 내려온 기억에 남는 우화와 이야기에서 유래합니다. 이 이야기에는 여러 세대를 사로잡은 재미있는 이야기 속에 담긴 심오한 지혜가 담겨 있습니다.",
     "keywords": [
       "chinese fable idioms",
       "shou zhu dai tu meaning",
@@ -1317,13 +1289,13 @@
     "originalSlug": "classic-chinese-fable-idioms"
   },
   {
-    "slug": "junbi-wa-gyehoek-junggugeo-sogeo",
-    "title": "8 Chinese Idioms About Preparation & Planning Ahead (未雨绸缪)",
-    "description": "Wise Chinese idioms about being prepared, planning ahead, and the importance of foresight. Learn wei yu chou mou and related planning chengyu.",
-    "metaDescription": "What does 未雨绸缪 mean? Learn 8 Chinese idioms about preparation and planning. These chengyu about foresight and being prepared offer timeless wisdom for success.",
-    "category": "전략",
+    "slug": "chinese-idioms-preparation-planning",
+    "title": "준비 및 사전 계획에 대한 8가지 중국어 성어 (未雨绸缪)",
+    "description": "준비, 사전 계획 및 선견지명의 중요성에 대한 현명한 중국어 성어. wei yu chou mou 및 관련 계획 성어를 배우세요.",
+    "metaDescription": "未雨绸缪는 무엇을 의미하나요? 준비 및 계획에 대한 8가지 중국어 성어를 배우세요. 선견지명과 준비에 대한 이러한 성어는 성공을 위한 시대를 초월한 지혜를 제공합니다.",
+    "category": "Success & Career",
     "publishedDate": "2025-02-28",
-    "intro": "What does 未雨绸缪 (wèi yǔ chóu móu) mean? Literally \"repair the roof before rain,\" this idiom captures the Chinese wisdom of preparation and foresight. These idioms about planning ahead offer timeless advice for anyone who wants to be ready for whatever comes.",
+    "intro": "未雨绸缪 (wèi yǔ chóu móu)는 무엇을 의미하나요? 문자 그대로 \"비가 오기 전에 지붕을 수리하다\"라는 뜻의 이 성어는 준비와 선견지명에 대한 중국의 지혜를 담고 있습니다. 사전 계획에 대한 이러한 성어는 앞으로 닥칠 일에 대비하고자 하는 모든 사람에게 시대를 초월한 조언을 제공합니다.",
     "keywords": [
       "wei yu chou mou meaning",
       "chinese idioms about planning",
@@ -1866,35 +1838,6 @@
     "publishedDate": "2025-02-18"
   },
   {
-    "slug": "joleop-junggugeo-sogeo",
-    "originalSlug": "chinese-idioms-for-graduation",
-    "title": "졸업을 위한 10가지 영감을 주는 중국어 속담",
-    "description": "졸업 축하와 학업 성취에 완벽한 동기 부여가 되는 중국어 속담입니다.",
-    "metaDescription": "졸업을 위한 10가지 영감을 주는 중국어 속담을 배우세요. 성공, 밝은 미래를 기원하고 학업 성취를 축하하기에 완벽한 성어입니다.",
-    "keywords": [
-      "중국 졸업 속담",
-      "학업 성공 성어",
-      "졸업 축하 중국어",
-      "학생 속담",
-      "성취 중국어 속담"
-    ],
-    "intro": "졸업은 중국 문화에서 중요한 이정표입니다. 이러한 속담은 학업 성취를 축하하고 졸업생의 미래 노력에 대한 성공을 기원합니다.",
-    "idiomIds": [
-      "ID036",
-      "ID051",
-      "ID052",
-      "ID076",
-      "ID106",
-      "ID109",
-      "ID119",
-      "ID122",
-      "ID221",
-      "ID260"
-    ],
-    "category": "기념일",
-    "publishedDate": "2025-02-19"
-  },
-  {
     "slug": "dalk-i-issneun-daedamhan-junggug-seong-eo-8-gae",
     "originalSlug": "chinese-idioms-with-rooster",
     "title": "닭(鸡)이 있는 대담한 중국 성어 8가지",
@@ -2214,34 +2157,6 @@
     ],
     "category": "기념일",
     "publishedDate": "2025-03-09"
-  },
-  {
-    "slug": "jipdeuri-ttanarareul-wihan-gilhan-junggugeo-seogeo-10gae",
-    "originalSlug": "chinese-idioms-for-housewarming",
-    "title": "집들이를 위한 길한 중국어 속어 10가지",
-    "description": "새 집에서 번영과 평화를 기원하는 집들이 축하를 위한 행운의 중국어 속어",
-    "metaDescription": "집들이를 위한 길한 중국어 속어 10가지를 알아보세요. 번영과 조화로 새 집을 축복하기에 완벽한 성어",
-    "keywords": [
-      "집들이 속어 중국어",
-      "새 집 소원 중국어",
-      "이사 성어",
-      "중국 집 축복 문구"
-    ],
-    "intro": "새 집으로 이사하는 것은 중국 문화에서 중요한 이정표입니다. 이 길한 속어는 번영, 조화, 행운의 축복을 가져다줍니다.",
-    "idiomIds": [
-      "ID011",
-      "ID117",
-      "ID121",
-      "ID142",
-      "ID160",
-      "ID198",
-      "ID231",
-      "ID249",
-      "ID301",
-      "ID303"
-    ],
-    "category": "기념일",
-    "publishedDate": "2025-03-10"
   },
   {
     "slug": "jigeop-seonggong-ttanarareul-wihan-yambicheoseong-junggugeo-seogeo-12gae",
@@ -2822,35 +2737,6 @@
     ],
     "category": "감정",
     "publishedDate": "2025-04-01"
-  },
-  {
-    "slug": "kyosawa-kyoyukjareul-wihan-junggugeo-seoyonggu",
-    "originalSlug": "chinese-idioms-for-teachers",
-    "title": "교사와 교육자를 위한 10가지 중국어 속용구",
-    "description": "교육, 멘토링, 그리고 고귀한 교육 직업에 대한 교사들에게 영감을 주는 중국어 속용구.",
-    "metaDescription": "교사와 교육자를 위한 10가지 영감을 주는 중국어 속용구를 배우세요. 이 성어들은 만다린어로 교육과 멘토링을 기념합니다.",
-    "keywords": [
-      "교사를 위한 중국어 속용구",
-      "교육 중국어 구절",
-      "교육자를 위한 성어",
-      "중국어 교육 표현",
-      "만다린어 교사 속담"
-    ],
-    "intro": "교육은 중국 문화에서 가장 존경받는 직업 중 하나입니다. 이 속담들은 교육자, 교육 기술, 그리고 멘토가 학생들에게 미치는 심오한 영향을 기념합니다.",
-    "idiomIds": [
-      "ID021",
-      "ID040",
-      "ID095",
-      "ID129",
-      "ID137",
-      "ID143",
-      "ID173",
-      "ID300",
-      "ID010",
-      "ID016"
-    ],
-    "category": "학습",
-    "publishedDate": "2025-04-02"
   },
   {
     "slug": "yeoninleul-wihan-nangmanjeog-junggugeo-seoyonggu",
@@ -4463,36 +4349,6 @@
     "publishedDate": "2025-05-31"
   },
   {
-    "slug": "jeonguiwa-beobe-daehan-junggugeo-seogeo-10gae",
-    "originalSlug": "chinese-idioms-for-lawyers",
-    "title": "정의와 법에 대한 중국어 속어 10가지",
-    "description": "법률 전문가를 위한 정의, 공정성, 그리고 법치에 대한 강력한 중국어 속어.",
-    "metaDescription": "정의와 법에 대한 10가지 중국어 속어를 배우세요. 이 강력한 성어는 만다린어로 공정성, 정의, 그리고 법적 지혜를 표현합니다.",
-    "keywords": [
-      "정의 중국어 속담",
-      "법 중국어 구절",
-      "변호사를 위한 성어",
-      "중국 법률 표현",
-      "만다린 정의 속담",
-      "중국 공정성 속담"
-    ],
-    "intro": "정의와 공정성은 고대부터 중국 통치 철학의 중심이었습니다. 이 속담은 의로운 판단, 공정한 법, 그리고 진실 추구의 이상을 담고 있습니다.",
-    "idiomIds": [
-      "ID087",
-      "ID091",
-      "ID123",
-      "ID141",
-      "ID180",
-      "ID207",
-      "ID209",
-      "ID389",
-      "ID501",
-      "ID593"
-    ],
-    "category": "전략",
-    "publishedDate": "2025-06-01"
-  },
-  {
     "slug": "jakkaga-jakka-reul-wihan-junggugeo-sogeo",
     "originalSlug": "chinese-idioms-for-writers",
     "title": "작가 및 저자를 위한 10가지 중국어 속담",
@@ -5064,35 +4920,6 @@
     "publishedDate": "2025-07-01"
   },
   {
-    "slug": "nolram-mit-chunggyeok-e-daehan-junggugeo-seogeo",
-    "originalSlug": "chinese-idioms-about-surprise-shock",
-    "title": "놀람 & 충격에 대한 10가지 중국어 속어",
-    "description": "놀라움, 충격, 그리고 완전히 방심한 상태에 대한 표현적인 중국어 속어.",
-    "metaDescription": "놀라움과 충격에 대한 10가지 중국어 속어에 놀라세요. 이 표현적인 성어는 만다린어로 예상치 못한 순간을 묘사합니다.",
-    "keywords": [
-      "중국어 속어 놀람",
-      "충격 중국어 구절",
-      "놀라움을 위한 성어",
-      "중국어 경악 표현",
-      "만다린어 놀람 속어"
-    ],
-    "intro": "중국어 속어는 몸에서 영혼이 떠나는 것부터 눈이 튀어나오는 것까지 놀라움을 묘사하는 훌륭하고 생생한 방법을 가지고 있습니다. 이 극적인 표현은 예상치 못한 순간의 전체 스펙트럼을 포착합니다.",
-    "idiomIds": [
-      "ID001",
-      "ID046",
-      "ID135",
-      "ID155",
-      "ID211",
-      "ID272",
-      "ID293",
-      "ID316",
-      "ID363",
-      "ID449"
-    ],
-    "category": "감정",
-    "publishedDate": "2025-07-02"
-  },
-  {
     "slug": "unmyeong-unmyeong-e-daehan-junggugeo-seongyeo-10",
     "originalSlug": "chinese-idioms-about-fate-destiny",
     "title": "운명과 숙명에 대한 10가지 중국어 성어",
@@ -5496,35 +5323,6 @@
     "publishedDate": "2025-07-19"
   },
   {
-    "slug": "junggugeo-seonggeo-dae-hangugeo-sajaseong-eo",
-    "originalSlug": "chinese-idioms-vs-korean-proverbs",
-    "title": "중국어 성어 10가지 & 한국어 속담 동등 표현",
-    "description": "중국어 성어와 한국어 사자성어 사이의 연관성을 발견하세요 - 공유된 동아시아 속담 지혜.",
-    "metaDescription": "중국어 성어 10가지와 한국어 동등 표현을 비교하세요. 이 성어와 사자성어는 공유된 문화적 지혜를 보여줍니다.",
-    "keywords": [
-      "중국어 성어 대 한국어",
-      "성어 한국어 비교",
-      "중국어 한국어 속담",
-      "사자성어 중국어",
-      "만다린 한국어 유사한 표현"
-    ],
-    "intro": "한국어 사자성어는 중국어 성어와 깊은 뿌리를 공유합니다. 이러한 문화 간 유사점은 중국의 지혜가 동아시아 전역으로 어떻게 전파되었는지 보여줍니다.",
-    "idiomIds": [
-      "ID001",
-      "ID005",
-      "ID006",
-      "ID009",
-      "ID010",
-      "ID014",
-      "ID018",
-      "ID021",
-      "ID042",
-      "ID076"
-    ],
-    "category": "문화",
-    "publishedDate": "2025-07-20"
-  },
-  {
     "slug": "anime-manga-paendeureul-wihan-junggugeo-seonggeo",
     "originalSlug": "chinese-idioms-for-anime-manga-fans",
     "title": "모든 애니메이션 & 만화 팬이 알아야 할 중국어 성어 10가지",
@@ -5640,38 +5438,6 @@
     ],
     "category": "철학",
     "publishedDate": "2025-07-24"
-  },
-  {
-    "slug": "yeohaeng-gwa-yeojeong-e-daehan-junggugeo-seoyeongu",
-    "originalSlug": "chinese-idioms-about-travel-journey",
-    "title": "여행 & 여정에 대한 12가지 중국어 사자성어",
-    "description": "여행, 여정, 그리고 세상을 탐험하면서 얻는 지혜에 대한 모험적인 중국어 사자성어.",
-    "metaDescription": "여행과 여정에 대한 12가지 중국어 사자성어로 모험을 떠나세요. 이 성어들은 탐험과 발견을 기념합니다.",
-    "keywords": [
-      "중국어 사자성어 여행",
-      "여정 중국어 구절",
-      "모험에 대한 성어",
-      "중국어 탐험 표현",
-      "만다린 여행 사자성어",
-      "중국어 로드 트립 속담"
-    ],
-    "intro": "중국 문화는 항상 여행을 교육의 한 형태로 여겨왔습니다. “만 권의 책을 읽는 것은 만 리를 여행하는 것만 못하다.” 이 사자성어들은 열린 길의 지혜를 기념합니다.",
-    "idiomIds": [
-      "ID003",
-      "ID007",
-      "ID012",
-      "ID017",
-      "ID023",
-      "ID029",
-      "ID036",
-      "ID060",
-      "ID127",
-      "ID175",
-      "ID197",
-      "ID233"
-    ],
-    "category": "철학",
-    "publishedDate": "2025-07-25"
   },
   {
     "slug": "jeonjaeng-gwa-jeontu-e-daehan-junggugeo-seoyeongu",
@@ -7554,5 +7320,659 @@
     ],
     "category": "기념일",
     "publishedDate": "2025-10-04"
+  },
+  {
+    "slug": "chinese-idioms-for-lawyers",
+    "originalSlug": "chinese-idioms-for-lawyers",
+    "title": "정의와 법에 관한 10가지 중국 고사성어",
+    "description": "법률 전문가를 위한 정의, 공정성 및 법치에 대한 강력한 중국 고사성어입니다.",
+    "metaDescription": "정의와 법에 관한 10가지 중국 고사성어를 배워보세요. 이 강력한 성어는 공정성, 정의 및 법적 지혜를 중국어로 표현합니다.",
+    "keywords": [
+      "chinese idioms justice",
+      "law chinese phrases",
+      "chengyu for lawyers",
+      "chinese legal expressions",
+      "mandarin justice idioms",
+      "chinese fairness sayings"
+    ],
+    "intro": "정의와 공정성은 고대부터 중국 통치 철학의 중심이었습니다. 이 성어는 올바른 판단, 공정한 법, 진실 추구의 이상을 담고 있습니다.",
+    "idiomIds": [
+      "ID091",
+      "ID346",
+      "ID428",
+      "ID590",
+      "ID519",
+      "ID587",
+      "ID592",
+      "ID500",
+      "ID283",
+      "ID296"
+    ],
+    "category": "Success & Career",
+    "publishedDate": "2025-06-01"
+  },
+  {
+    "slug": "chinese-idioms-about-surprise-shock",
+    "originalSlug": "chinese-idioms-about-surprise-shock",
+    "title": "놀라움과 충격에 관한 10가지 중국 고사성어",
+    "description": "놀라거나 충격을 받거나 완전히 방심한 상태를 표현하는 중국 고사성어입니다.",
+    "metaDescription": "놀라움과 충격에 관한 10가지 중국 고사성어에 놀라세요. 이 표현적인 성어는 중국어로 예상치 못한 순간을 묘사합니다.",
+    "keywords": [
+      "chinese idioms surprise",
+      "shock chinese phrases",
+      "chengyu for amazed",
+      "chinese astonishment expressions",
+      "mandarin surprise idioms"
+    ],
+    "intro": "중국 고사성어는 몸에서 영혼이 빠져나가는 것부터 눈이 튀어나오는 것까지 놀라움을 묘사하는 훌륭하고 생생한 방법을 가지고 있습니다. 이 극적인 표현은 예상치 못한 순간의 모든 스펙트럼을 포착합니다.",
+    "idiomIds": [
+      "ID001",
+      "ID378",
+      "ID435",
+      "ID498",
+      "ID520",
+      "ID465",
+      "ID572",
+      "ID573",
+      "ID521",
+      "ID445"
+    ],
+    "category": "Emotions",
+    "publishedDate": "2025-07-02"
+  },
+  {
+    "slug": "chinese-idioms-vs-korean-proverbs",
+    "originalSlug": "chinese-idioms-vs-korean-proverbs",
+    "title": "10가지 중국 고사성어와 그에 상응하는 한국 속담",
+    "description": "중국 성어와 한국 사자성어 사이의 연관성, 즉 공유된 동아시아 속담의 지혜를 발견하십시오.",
+    "metaDescription": "10가지 중국 고사성어를 한국어 동등물과 비교하십시오. 이 성어와 사자성어는 공유된 문화적 지혜를 드러냅니다.",
+    "keywords": [
+      "chinese idioms vs korean",
+      "chengyu korean comparison",
+      "chinese korean proverbs",
+      "sajaseongeo chinese",
+      "mandarin korean similar sayings"
+    ],
+    "intro": "한국의 4자성어(사자성어)는 중국 성어와 깊은 뿌리를 공유합니다. 이러한 문화 간 유사점은 중국의 지혜가 동아시아 전역으로 어떻게 전파되었는지 보여줍니다.",
+    "idiomIds": [
+      "ID001",
+      "ID006",
+      "ID225",
+      "ID273",
+      "ID249",
+      "ID231",
+      "ID372",
+      "ID396",
+      "ID312",
+      "ID244"
+    ],
+    "category": "History & Culture",
+    "publishedDate": "2025-07-20"
+  },
+  {
+    "slug": "chinese-idioms-about-travel-journey",
+    "originalSlug": "chinese-idioms-about-travel-journey",
+    "title": "여행과 여정에 관한 12가지 중국 고사성어",
+    "description": "여행, 여정, 그리고 세상을 탐험하면서 얻는 지혜에 대한 모험적인 중국 고사성어입니다.",
+    "metaDescription": "여행과 여정에 관한 12가지 중국 고사성어로 모험을 떠나십시오. 이 성어는 중국어로 탐험과 발견을 기념합니다.",
+    "keywords": [
+      "chinese idioms travel",
+      "journey chinese phrases",
+      "chengyu for adventure",
+      "chinese exploration expressions",
+      "mandarin travel idioms",
+      "chinese road trip sayings"
+    ],
+    "intro": "중국 문화는 항상 여행을 교육의 한 형태로 여겨왔습니다. \"만 권의 책을 읽는 것은 만 리를 여행하는 것만 못합니다.\" 이 성어는 열린 길의 지혜를 기념합니다.",
+    "idiomIds": [
+      "ID279",
+      "ID626",
+      "ID614",
+      "ID526",
+      "ID511",
+      "ID361",
+      "ID310",
+      "ID456",
+      "ID615",
+      "ID396"
+    ],
+    "category": "Philosophy & Wisdom",
+    "publishedDate": "2025-07-25"
+  },
+  {
+    "slug": "chinese-idioms-about-strategy-tactics",
+    "originalSlug": "chinese-idioms-about-strategy-tactics",
+    "title": "전략 및 군사 전술에 관한 12가지 중국 고사성어",
+    "description": "손자병법과 전장 전략에서 유래한 고대 중국 고사성어 — 비즈니스와 삶을 위한 시대를 초월한 전술입니다.",
+    "metaDescription": "전략과 전술에 관한 12가지 중국 고사성어를 마스터하십시오. 고대 전장에서 유래한 이 성어는 중국어로 손자 수준의 사고를 가르칩니다.",
+    "keywords": [
+      "chinese idioms strategy",
+      "sun tzu chengyu",
+      "military tactics chinese",
+      "chinese strategy expressions",
+      "art of war idioms",
+      "chinese tactical thinking"
+    ],
+    "intro": "중국의 풍부한 군사 역사는 세계에서 가장 뛰어난 전략적 사고를 만들어냈습니다. 손자병법부터 36계까지, 이 성어는 이사회와 전장 모두에 똑같이 적용되는 전술적 지혜를 담고 있습니다.",
+    "idiomIds": [
+      "ID163",
+      "ID245",
+      "ID253",
+      "ID311",
+      "ID339",
+      "ID430",
+      "ID535",
+      "ID553",
+      "ID554",
+      "ID555",
+      "ID640",
+      "ID643"
+    ],
+    "category": "Strategy & Action",
+    "publishedDate": "2025-10-05"
+  },
+  {
+    "slug": "chinese-idioms-about-decisive-action",
+    "originalSlug": "chinese-idioms-about-decisive-action",
+    "title": "결단력 있는 행동에 관한 10가지 중국어 성어",
+    "description": "결정적으로 행동하고, 기회를 포착하고, 신속한 행동으로 문제를 해결하는 데 관한 강력한 중국어 성어입니다.",
+    "metaDescription": "행동에 관한 10가지 중국어 성어로 결단력을 발휘하세요. 이 성어들은 만다린어에서 신속한 문제 해결과 기회 포착에 영감을 줍니다.",
+    "keywords": [
+      "chinese idioms decisive action",
+      "taking action chinese",
+      "chengyu problem solving",
+      "chinese seize opportunity",
+      "mandarin decisive idioms"
+    ],
+    "intro": "중국 철학에서 언제 어떻게 행동해야 하는지를 아는 것은 무엇을 해야 하는지를 아는 것만큼 중요합니다. 이 성어들은 결단력 있는 행동, 즉 망설임이 대담하고 효과적인 움직임으로 바뀌는 순간을 기념합니다.",
+    "idiomIds": [
+      "ID425",
+      "ID472",
+      "ID265",
+      "ID176",
+      "ID172",
+      "ID170",
+      "ID635",
+      "ID641",
+      "ID642",
+      "ID284"
+    ],
+    "category": "Strategy & Action",
+    "publishedDate": "2025-10-06"
+  },
+  {
+    "slug": "chinese-idioms-for-self-improvement",
+    "originalSlug": "chinese-idioms-for-self-improvement",
+    "title": "자기 계발 및 개인적 성장을 위한 10가지 중국어 성어",
+    "description": "개인적 성장, 회복력, 그리고 최고의 자신이 되기 위한 동기 부여가 되는 중국어 성어입니다.",
+    "metaDescription": "자기 계발을 위한 10가지 중국어 성어로 더욱 강해지세요. 이 동기 부여가 되는 성어들은 만다린어에서 개인적 성장과 회복력에 영감을 줍니다.",
+    "keywords": [
+      "chinese idioms self improvement",
+      "personal growth chinese",
+      "chengyu motivation",
+      "chinese resilience expressions",
+      "mandarin self help idioms"
+    ],
+    "intro": "자기 수양(修身)은 중국 철학의 초석입니다. 이 성어들은 끊임없는 개선, 즉 현실에 기반을 두고 회복력을 유지하는 것부터 흔들리지 않는 결의로 한계를 뛰어넘는 것까지를 장려합니다.",
+    "idiomIds": [
+      "ID287",
+      "ID289",
+      "ID397",
+      "ID398",
+      "ID426",
+      "ID454",
+      "ID476",
+      "ID484",
+      "ID268",
+      "ID199"
+    ],
+    "category": "Success & Career",
+    "publishedDate": "2025-10-07"
+  },
+  {
+    "slug": "chinese-idioms-about-teaching-mentorship",
+    "originalSlug": "chinese-idioms-about-teaching-mentorship",
+    "title": "가르침 및 멘토링에 관한 10가지 중국어 성어",
+    "description": "훌륭한 교사, 인내심 있는 지도, 그리고 지식 전달의 기술에 관한 영감을 주는 중국어 성어입니다.",
+    "metaDescription": "가르침과 멘토링에 관한 10가지 중국어 성어로 훌륭한 교사에게 경의를 표하세요. 이 성어들은 만다린어에서 교육과 지도를 기념합니다.",
+    "keywords": [
+      "chinese idioms teaching",
+      "mentorship chinese phrases",
+      "chengyu for teachers",
+      "chinese education expressions",
+      "mandarin teaching idioms"
+    ],
+    "intro": "가르침은 중국 문화에서 가장 존경받는 직업 중 하나입니다. 공자 자신도 무엇보다 먼저 교사였습니다. 이 성어들은 인내심 있는 지도, 모범을 보이는 것, 그리고 교사와 학생 간의 평생의 유대를 기립니다.",
+    "idiomIds": [
+      "ID455",
+      "ID466",
+      "ID530",
+      "ID551",
+      "ID578",
+      "ID580",
+      "ID581",
+      "ID584",
+      "ID547",
+      "ID457"
+    ],
+    "category": "Learning & Education",
+    "publishedDate": "2025-10-08"
+  },
+  {
+    "slug": "chinese-idioms-for-everyday-conversation",
+    "originalSlug": "chinese-idioms-for-everyday-conversation",
+    "title": "일상 대화를 위한 10가지 중국어 성어",
+    "description": "일상 생활에서 실제로 사용할 수 있는 실용적인 중국어 성어입니다. 만다린어로 자연스럽게 들리기에 완벽합니다.",
+    "metaDescription": "일상 대화를 위한 10가지 중국어 성어로 만다린어로 자연스럽게 들리세요. 이 실용적인 성어들은 일상 생활에 완벽하게 들어맞습니다.",
+    "keywords": [
+      "chinese idioms everyday",
+      "daily conversation chinese",
+      "practical chengyu",
+      "common chinese expressions",
+      "mandarin daily idioms",
+      "chinese phrases daily life"
+    ],
+    "intro": "모든 성어가 문학적인 것은 아닙니다. 많은 성어가 일상 중국어 대화에서 사용됩니다. 이 실용적인 표현들은 친구와 채팅하거나, 쇼핑하거나, 일상 생활에 대해 언급할 때 만다린어를 자연스럽고 원어민처럼 들리게 할 것입니다.",
+    "idiomIds": [
+      "ID338",
+      "ID349",
+      "ID368",
+      "ID392",
+      "ID399",
+      "ID452",
+      "ID464",
+      "ID480",
+      "ID493",
+      "ID528"
+    ],
+    "category": "Learning & Education",
+    "publishedDate": "2025-10-09"
+  },
+  {
+    "slug": "chinese-idioms-about-deep-friendship",
+    "originalSlug": "chinese-idioms-about-deep-friendship",
+    "title": "깊은 우정 및 충성심에 관한 10가지 중국어 성어",
+    "description": "진정한 우정, 깨지지 않는 유대, 그리고 동류 의식을 가진 사람들 간의 충성심에 관한 진심 어린 중국어 성어입니다.",
+    "metaDescription": "깊은 유대와 충성심에 관한 10가지 중국어 성어로 진정한 우정을 기념하세요. 이 성어들은 만다린어에서 묶는 유대를 기립니다.",
+    "keywords": [
+      "chinese idioms friendship",
+      "loyalty chinese phrases",
+      "chengyu for best friends",
+      "chinese bond expressions",
+      "mandarin friendship idioms",
+      "chinese loyalty sayings"
+    ],
+    "intro": "중국 문화는 우정에 깊은 가치를 둡니다. 고대인들은 진정한 친구(知己)를 가장 귀중한 옥만큼 드물다고 여겼습니다. 이 성어들은 단순한 지인을 넘어 가장 깊은 수준의 신뢰와 충성심으로 이어지는 유대를 기념합니다.",
+    "idiomIds": [
+      "ID486",
+      "ID494",
+      "ID503",
+      "ID509",
+      "ID594",
+      "ID595",
+      "ID599",
+      "ID608",
+      "ID610",
+      "ID309"
+    ],
+    "category": "Relationships & Family",
+    "publishedDate": "2025-10-10"
+  },
+  {
+    "slug": "chinese-idioms-about-rising-to-the-top",
+    "originalSlug": "chinese-idioms-about-rising-to-the-top",
+    "title": "정상에 오르는 것에 대한 10가지 중국어 성어",
+    "description": "성공을 향해 오르고, 기대를 뛰어넘고, 위대함을 달성하는 야심찬 중국어 성어.",
+    "metaDescription": "성취와 성공에 대한 10가지 중국어 성어로 정상에 오르세요. 이 야심찬 성어는 만다린어에서 위대함을 고취시킵니다.",
+    "keywords": [
+      "chinese idioms success",
+      "rising to top chinese",
+      "chengyu achievement",
+      "chinese greatness expressions",
+      "mandarin ambition idioms",
+      "chinese career success"
+    ],
+    "intro": "중국 문화에서 미천한 출신에서 위대함으로 일어서는 것은 최고의 성취로 여겨집니다. 이 성어들은 잉어가 용문을 뛰어넘는 것부터 구름 속으로 곧장 솟아오르는 것까지 야망의 정신을 담고 있습니다.",
+    "idiomIds": [
+      "ID391",
+      "ID394",
+      "ID417",
+      "ID461",
+      "ID649",
+      "ID650",
+      "ID387",
+      "ID620",
+      "ID623",
+      "ID624"
+    ],
+    "category": "Success & Career",
+    "publishedDate": "2025-10-11"
+  },
+  {
+    "slug": "chinese-idioms-about-staying-calm",
+    "originalSlug": "chinese-idioms-about-staying-calm",
+    "title": "압박 속에서도 침착함을 유지하는 것에 대한 10가지 중국어 성어",
+    "description": "침착함, 내면의 평화, 그리고 힘든 상황에서도 냉정을 유지하는 것에 대한 고요한 중국어 성어.",
+    "metaDescription": "압박 속에서도 침착함을 유지하는 것에 대한 10가지 중국어 성어로 냉정을 유지하세요. 이 성어는 만다린어에서 침착함과 내면의 평화를 가르칩니다.",
+    "keywords": [
+      "chinese idioms calm",
+      "composure chinese phrases",
+      "chengyu for pressure",
+      "chinese peace of mind",
+      "mandarin calm idioms",
+      "chinese composure sayings"
+    ],
+    "intro": "도교에서 유교에 이르기까지 중국 철학은 진정한 힘은 침착함을 유지하는 데 있다고 가르칩니다. 이 성어는 산더미 같은 업무에 직면하든 인생을 바꾸는 위기에 직면하든 침착함을 유지하는 기술을 기념합니다.",
+    "idiomIds": [
+      "ID212",
+      "ID318",
+      "ID458",
+      "ID492",
+      "ID210",
+      "ID416",
+      "ID411",
+      "ID513",
+      "ID283",
+      "ID433"
+    ],
+    "category": "Philosophy & Wisdom",
+    "publishedDate": "2025-10-12"
+  },
+  {
+    "slug": "chinese-idioms-about-knowing-when-to-stop",
+    "originalSlug": "chinese-idioms-about-knowing-when-to-stop",
+    "title": "멈춰야 할 때를 아는 것에 대한 8가지 중국어 성어",
+    "description": "절제, 자신의 한계를 아는 것, 그리고 적절한 순간에 멈추는 기술에 대한 현명한 중국어 성어.",
+    "metaDescription": "멈춰야 할 때를 아는 것에 대한 8가지 중국어 성어로 지혜를 배우세요. 이 성어는 만다린어에서 절제와 균형을 가르칩니다.",
+    "keywords": [
+      "chinese idioms moderation",
+      "knowing limits chinese",
+      "chengyu for balance",
+      "chinese wisdom expressions",
+      "mandarin moderation idioms"
+    ],
+    "intro": "중국 지혜는 시작해야 할 때를 아는 것만큼 멈춰야 할 때를 아는 것이 중요하다고 가르칩니다. 영광의 정점에서 은퇴하는 장군부터 노력 없는 균형이라는 도교적 이상에 이르기까지, 이 성어는 자제와 완벽한 타이밍을 조언합니다.",
+    "idiomIds": [
+      "ID654",
+      "ID656",
+      "ID657",
+      "ID350",
+      "ID381",
+      "ID630",
+      "ID348",
+      "ID538"
+    ],
+    "category": "Philosophy & Wisdom",
+    "publishedDate": "2025-10-13"
+  },
+  {
+    "slug": "chinese-idioms-about-deception-seeing-through-lies",
+    "originalSlug": "chinese-idioms-about-deception-seeing-through-lies",
+    "title": "기만과 거짓을 꿰뚫어보는 것에 대한 10가지 중국어 성어",
+    "description": "속임수, 숨겨진 동기, 그리고 기만을 꿰뚫어보는 지혜에 대한 날카로운 중국어 성어.",
+    "metaDescription": "거짓과 숨겨진 동기에 대한 10가지 중국어 성어로 기만을 꿰뚫어보세요. 이 날카로운 성어는 만다린어에서 식별력을 가르칩니다.",
+    "keywords": [
+      "chinese idioms deception",
+      "seeing through lies chinese",
+      "chengyu for trickery",
+      "chinese hidden motives",
+      "mandarin deception idioms"
+    ],
+    "intro": "중국 문학은 교활한 전략가와 숨겨진 음모로 가득합니다. 이 성어는 겉으로 드러나는 힘에서 양의 탈을 쓴 늑대에 이르기까지 기만을 인식하는 기술과 표면적인 모습을 꿰뚫어보는 지혜를 가르칩니다.",
+    "idiomIds": [
+      "ID327",
+      "ID367",
+      "ID442",
+      "ID475",
+      "ID559",
+      "ID567",
+      "ID404",
+      "ID302",
+      "ID441",
+      "ID334"
+    ],
+    "category": "Character & Values",
+    "publishedDate": "2025-10-14"
+  },
+  {
+    "slug": "chinese-idioms-about-longing-nostalgia",
+    "originalSlug": "chinese-idioms-about-longing-nostalgia",
+    "title": "그리움과 향수에 대한 10가지 중국어 성어",
+    "description": "누군가를 그리워하는 것, 향수병, 그리고 향수의 아픔에 대한 달콤 쌉싸름한 중국어 성어.",
+    "metaDescription": "그리움과 향수에 대한 10가지 중국어 성어로 기억의 끌어당김을 느껴보세요. 이 달콤 쌉싸름한 성어는 만다린어에서 향수병을 표현합니다.",
+    "keywords": [
+      "chinese idioms longing",
+      "nostalgia chinese phrases",
+      "chengyu for missing someone",
+      "chinese homesickness expressions",
+      "mandarin nostalgia idioms"
+    ],
+    "intro": "그리움과 향수는 중국 시와 문학에서 강력한 주제입니다. 멀리 떨어진 친구를 그리워하는 것부터 고향을 갈망하는 것까지, 이 성어는 사랑하는 것과 분리된 달콤 쌉싸름한 감정을 포착합니다.",
+    "idiomIds": [
+      "ID611",
+      "ID614",
+      "ID615",
+      "ID443",
+      "ID445",
+      "ID494",
+      "ID548",
+      "ID606",
+      "ID450",
+      "ID512"
+    ],
+    "category": "Emotions",
+    "publishedDate": "2025-10-15"
+  },
+  {
+    "slug": "chinese-idioms-about-communication",
+    "originalSlug": "chinese-idioms-about-communication",
+    "title": "소통 및 말하기에 관한 10가지 중국어 성어",
+    "description": "유창한 언변부터 침묵이 금이라는 것을 아는 것까지, 소통 기술에 대한 표현력이 풍부한 중국어 성어입니다.",
+    "metaDescription": "말하기에 관한 10가지 중국어 성어로 더 나은 소통을 하세요. 이 성어들은 만다린어에서 표현과 침묵의 기술을 가르칩니다.",
+    "keywords": [
+      "chinese idioms communication",
+      "speaking chinese phrases",
+      "chengyu for eloquence",
+      "chinese expression idioms",
+      "mandarin speaking sayings"
+    ],
+    "intro": "말의 힘은 고대부터 중국 문화에서 기념되어 왔습니다. 이 성어들은 유창한 언변부터 적절한 순간에 침묵을 지키는 지혜까지, 소통의 모든 스펙트럼을 다룹니다.",
+    "idiomIds": [
+      "ID446",
+      "ID471",
+      "ID379",
+      "ID296",
+      "ID333",
+      "ID337",
+      "ID463",
+      "ID592",
+      "ID241",
+      "ID431"
+    ],
+    "category": "Learning & Education",
+    "publishedDate": "2025-10-17"
+  },
+  {
+    "slug": "chinese-idioms-about-hard-work-diligence",
+    "originalSlug": "chinese-idioms-about-hard-work-diligence",
+    "title": "근면과 성실에 관한 10가지 중국어 성어",
+    "description": "열심히 일하고, 어려움을 딛고 일어서며, 근면의 보상에 대한 영감을 주는 중국어 성어입니다.",
+    "metaDescription": "근면과 성실에 관한 10가지 중국어 성어로 동기 부여를 유지하세요. 이 성어들은 만다린어에서 인내와 노력을 기념합니다.",
+    "keywords": [
+      "chinese idioms hard work",
+      "diligence chinese phrases",
+      "chengyu for perseverance",
+      "chinese effort expressions",
+      "mandarin hard work idioms"
+    ],
+    "intro": "중국 문화는 근면과 성실을 매우 중요하게 생각합니다. '쇠막대기를 갈아 바늘을 만든다'부터 비바람 속에서 일하는 것까지, 이 성어들은 모든 것을 바치는 사람들의 지칠 줄 모르는 정신을 기립니다.",
+    "idiomIds": [
+      "ID203",
+      "ID387",
+      "ID397",
+      "ID398",
+      "ID484",
+      "ID623",
+      "ID624",
+      "ID626",
+      "ID264",
+      "ID282"
+    ],
+    "category": "Success & Career",
+    "publishedDate": "2025-10-18"
+  },
+  {
+    "slug": "chinese-idioms-about-appearances-vs-reality",
+    "originalSlug": "chinese-idioms-about-appearances-vs-reality",
+    "title": "외모와 현실에 관한 10가지 중국어 성어",
+    "description": "겉모습과 실체가 다른 것에 대한 생각을 자극하는 중국어 성어입니다.",
+    "metaDescription": "외모와 현실에 관한 10가지 중국어 성어로 더 깊이 살펴보세요. 이 성어들은 만다린어에서 겉모습과 실체 사이의 분별력을 가르칩니다.",
+    "keywords": [
+      "chinese idioms appearances",
+      "reality vs surface chinese",
+      "chengyu for truth",
+      "chinese substance expressions",
+      "mandarin deceptive appearances idioms"
+    ],
+    "intro": "중국 지혜는 우리에게 겉모습 너머를 보라고 가르칩니다. 이 성어들은 장자의 나비 꿈부터 선의 공안에 이르기까지 중국 철학에 스며든 주제인 외모와 현실 사이의 간극을 탐구합니다.",
+    "idiomIds": [
+      "ID216",
+      "ID244",
+      "ID502",
+      "ID590",
+      "ID392",
+      "ID429",
+      "ID408",
+      "ID557",
+      "ID558",
+      "ID431"
+    ],
+    "category": "Philosophy & Wisdom",
+    "publishedDate": "2025-10-19"
+  },
+  {
+    "slug": "chinese-idioms-about-governance-virtue",
+    "originalSlug": "chinese-idioms-about-governance-virtue",
+    "title": "통치 및 덕망 있는 통치에 관한 10가지 중국어 성어",
+    "description": "덕으로 통치하고, 국민에 대한 사심 없는 헌신, 그리고 정의로운 통치자의 자질에 대한 고귀한 중국어 성어.",
+    "metaDescription": "덕망 있는 통치와 사심 없는 리더십에 관한 10가지 중국어 성어로 현명하게 통치하십시오. 이 성어는 도덕적 본보기를 통해 통치를 가르칩니다.",
+    "keywords": [
+      "중국어 성어 통치",
+      "덕망 있는 통치 중국어",
+      "정부를 위한 성어",
+      "중국 통치 표현",
+      "만다린 통치 성어"
+    ],
+    "intro": "현명한 황제부터 사심 없는 장군에 이르기까지 중국 역사는 수많은 리더십 모델을 제공합니다. 이러한 성어는 사심 없는 헌신부터 개인적인 본보기를 통해 영감을 주는 능력에 이르기까지 훌륭한 리더를 만드는 자질을 포착합니다.",
+    "idiomIds": [
+      "ID346",
+      "ID620",
+      "ID484",
+      "ID506",
+      "ID508",
+      "ID621",
+      "ID618",
+      "ID638",
+      "ID505",
+      "ID540"
+    ],
+    "category": "Success & Career",
+    "publishedDate": "2025-10-16"
+  },
+  {
+    "slug": "chinese-idioms-for-graduation",
+    "originalSlug": "chinese-idioms-for-graduation",
+    "title": "졸업 및 졸업식을 위한 10가지 중국어 고사성어",
+    "description": "업적, 밝은 미래, 그리고 앞으로의 여정에 대한 영감을 주는 중국어 고사성어로 졸업을 축하하세요. 졸업 연설 및 카드에 적합합니다.",
+    "metaDescription": "졸업생들에게 영감을 주는 10가지 중국어 고사성어. 업적, 인내, 밝은 미래에 대한 이러한 성어는 졸업 연설 및 선물에 적합합니다.",
+    "keywords": [
+      "chinese idioms graduation",
+      "graduation chinese phrases",
+      "commencement chinese idioms",
+      "chinese idioms achievement",
+      "graduation speech chinese",
+      "chinese sayings for graduates",
+      "chinese idioms bright future",
+      "graduation card chinese"
+    ],
+    "intro": "졸업은 수년간의 노력의 결실이자 새로운 장의 시작을 의미합니다. 이 10가지 중국어 고사성어는 업적, 인내, 그리고 흥미진진한 앞으로의 여정을 담고 있습니다. 졸업 연설, 졸업 카드, 또는 단순히 졸업생의 업적을 기리는 데 적합합니다.",
+    "idiomIds": [
+      "ID001",
+      "ID009",
+      "ID025",
+      "ID038",
+      "ID063",
+      "ID071",
+      "ID076",
+      "ID090",
+      "ID109",
+      "ID167"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-09-07"
+  },
+  {
+    "slug": "chinese-idioms-for-teachers",
+    "originalSlug": "chinese-idioms-for-teachers",
+    "title": "스승의 날을 위한 10가지 중국어 고사성어",
+    "description": "훌륭한 교사의 가르침, 멘토링, 그리고 심오한 영향에 대한 중국어 고사성어로 교육자에게 경의를 표하십시오. 스승의 날 및 감사 선물에 적합합니다.",
+    "metaDescription": "스승의 날을 위한 10가지 중국어 고사성어로 감사를 표하십시오. 이 성어는 멘토링, 교육에 대한 헌신, 그리고 훌륭한 교육자의 지속적인 영향을 기립니다.",
+    "keywords": [
+      "chinese idioms teachers",
+      "teacher appreciation chinese",
+      "chinese idioms mentorship",
+      "chinese idioms education",
+      "teachers day chinese phrases",
+      "chinese sayings about teachers",
+      "chinese idioms guidance",
+      "teacher gift chinese wisdom"
+    ],
+    "intro": "중국 문화에서 교사는 사회에서 가장 존경받는 직업 중 하나입니다. \"一日为师，终身为父\" (하루 스승은 평생의 아버지와 같다)라는 말은 이러한 깊은 존경심을 반영합니다. 이 10가지 고사성어는 가르침의 예술, 배움의 겸손, 그리고 훌륭한 멘토링의 변혁적인 힘을 기념합니다.",
+    "idiomIds": [
+      "ID006",
+      "ID021",
+      "ID028",
+      "ID100",
+      "ID129",
+      "ID133",
+      "ID147",
+      "ID207",
+      "ID343",
+      "ID002"
+    ],
+    "category": "Learning & Education",
+    "publishedDate": "2025-09-11"
+  },
+  {
+    "slug": "chinese-idioms-for-housewarming",
+    "originalSlug": "chinese-idioms-for-housewarming",
+    "title": "집들이 및 새 집을 위한 10가지 중국어 고사성어",
+    "description": "번영, 화합, 그리고 새로운 시작에 대한 중국어 고사성어로 새 집을 축복하십시오. 집들이 선물, 카드, 축하 행사에 적합합니다.",
+    "metaDescription": "집들이를 위한 10가지 중국어 고사성어로 새 집을 축하하십시오. 번영, 화합, 그리고 새로운 시작에 대한 이러한 성어는 선물 및 축하에 이상적입니다.",
+    "keywords": [
+      "chinese idioms housewarming",
+      "new home chinese phrases",
+      "housewarming chinese sayings",
+      "chinese idioms new home",
+      "chinese idioms prosperity home",
+      "housewarming gift chinese",
+      "chinese blessings new house",
+      "moving chinese idioms"
+    ],
+    "intro": "새 집으로 이사하는 것은 중국 문화에서 중요한 이정표이며, 종종 선물과 축복으로 축하합니다. 이 10가지 고사성어는 평화, 번영, 공동체, 그리고 아름다운 새로운 시작의 약속과 같은 새 집에 대한 우리의 희망을 담고 있습니다.",
+    "idiomIds": [
+      "ID018",
+      "ID027",
+      "ID060",
+      "ID103",
+      "ID173",
+      "ID289",
+      "ID301",
+      "ID303",
+      "ID304",
+      "ID315"
+    ],
+    "category": "Occasions",
+    "publishedDate": "2025-09-13"
   }
 ]

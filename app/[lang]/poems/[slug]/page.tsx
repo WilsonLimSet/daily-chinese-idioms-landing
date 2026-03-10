@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getAllPoems, loadTranslatedPoems, getTranslatedPoemBySlug } from '@/src/lib/poems';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -101,7 +102,7 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
         <div className="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link href={`/${lang}/poems`} className="inline-flex items-center gap-2 text-neutral-400 hover:text-neutral-600 text-sm transition-colors duration-75">
             <ArrowLeft className="w-3.5 h-3.5" />
-            All Poems
+            {getTranslation(lang, 'allPoems')}
           </Link>
           <div className="flex items-center gap-2 text-xs text-neutral-400">
             <span>{poem.poet.dynasty}</span>
@@ -130,7 +131,7 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
           <AdUnit type="display" className="my-8" />
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-6">Original Text</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-6">{getTranslation(lang, 'poemOriginalText')}</h2>
             <div className="space-y-4">
               {poem.lines.map((line, i) => (
                 <div key={i} className="flex flex-col">
@@ -153,30 +154,30 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
           <AdUnit type="in-article" className="my-8" />
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Historical Background</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poemBackground')}</h2>
             <p className="text-neutral-600 leading-[1.8]">{poem.background}</p>
           </section>
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Literary Analysis</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poemAnalysis')}</h2>
             <p className="text-neutral-600 leading-[1.8]">{poem.analysis}</p>
           </section>
 
           <section className="py-10 border-b border-neutral-200">
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <div className="p-4 bg-neutral-50 rounded-lg">
-                <p className="text-xs text-neutral-400 mb-1">Form</p>
+                <p className="text-xs text-neutral-400 mb-1">{getTranslation(lang, 'poemForm')}</p>
                 <p className="text-sm text-neutral-700">{poem.form}</p>
               </div>
               <div className="p-4 bg-neutral-50 rounded-lg">
-                <p className="text-xs text-neutral-400 mb-1">Theme</p>
+                <p className="text-xs text-neutral-400 mb-1">{getTranslation(lang, 'poemTheme')}</p>
                 <p className="text-sm text-neutral-700">{poem.theme}</p>
               </div>
             </div>
           </section>
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">About {poem.poet.name} ({poem.poet.nameChinese})</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poemAboutPoet')} {poem.poet.name} ({poem.poet.nameChinese})</h2>
             <p className="text-neutral-600 leading-[1.8]">{poem.poet.bio}</p>
           </section>
 
@@ -184,7 +185,7 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
 
           {related.length > 0 && (
             <section className="py-10">
-              <h2 className="text-sm font-semibold text-neutral-900 mb-4">More poems to explore</h2>
+              <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poemMoreToExplore')}</h2>
               <div className="divide-y divide-neutral-100 border border-neutral-200 rounded-xl overflow-hidden">
                 {related.map(rel => (
                   <Link
@@ -218,13 +219,13 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
               <p className="text-neutral-400 text-sm">&copy; {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Built by Wilson</a>
+              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBuiltBy')}</a>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Blog</Link>
+              <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href={`/${lang}/dictionary`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Dictionary</Link>
+              <Link href={`/${lang}/dictionary`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'dictionaryTitle')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href="/privacy" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Privacy Policy</Link>
+              <Link href={`/${lang}/privacy`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerPrivacy')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
               <LanguageSelector currentLang={lang} />
             </div>

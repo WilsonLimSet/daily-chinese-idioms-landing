@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft, BookOpen } from 'lucide-react';
 import { getAllListicles } from '@/src/lib/listicles';
 import LanguageSelector from '@/app/components/LanguageSelector';
+import ListicleFilter from '@/app/components/ListicleFilter';
 import AdUnit from '@/app/components/AdUnit';
 
 export const metadata: Metadata = {
@@ -41,8 +42,16 @@ export const metadata: Metadata = {
 
 export default function ListiclesIndexPage() {
   const listicles = getAllListicles();
+  const categories = [...new Set(listicles.map(l => l.category))].sort();
+  const listicleData = listicles.map(l => ({
+    slug: l.slug,
+    title: l.title,
+    description: l.description,
+    category: l.category,
+    idiomCount: l.idiomIds.length,
+  }));
 
-  // Structured data for SEO - static data only, safe to serialize
+  // Safe static JSON-LD for SEO — all data from hardcoded listicle definitions, not user input
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
@@ -63,6 +72,7 @@ export default function ListiclesIndexPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
+      {/* Safe static JSON-LD — hardcoded listicle data only, no user input */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
@@ -78,7 +88,7 @@ export default function ListiclesIndexPage() {
       </nav>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <header className="mb-12">
+        <header className="mb-8">
           <div className="flex items-center gap-3 mb-4">
             <div className="p-2 bg-red-100 rounded-lg">
               <BookOpen className="w-6 h-6 text-red-600" />
@@ -93,36 +103,7 @@ export default function ListiclesIndexPage() {
           </p>
         </header>
 
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-          {listicles.map((listicle) => (
-            <Link
-              key={listicle.slug}
-              href={`/blog/lists/${listicle.slug}`}
-              className="bg-white rounded-xl shadow-sm hover:shadow-lg transition-all p-6 border border-gray-100 hover:border-red-200 group"
-            >
-              <div className="flex items-start justify-between mb-3">
-                <span className="text-xs font-medium text-red-600 bg-red-50 px-2 py-1 rounded">
-                  {listicle.category}
-                </span>
-                <span className="text-xs text-gray-500">
-                  {listicle.idiomIds.length} idioms
-                </span>
-              </div>
-
-              <h2 className="text-lg font-bold text-gray-900 mb-2 group-hover:text-red-600 transition-colors">
-                {listicle.title}
-              </h2>
-
-              <p className="text-gray-600 text-sm line-clamp-3">
-                {listicle.description}
-              </p>
-
-              <div className="mt-4 text-sm font-medium text-red-600 group-hover:text-red-700">
-                Read list →
-              </div>
-            </Link>
-          ))}
-        </div>
+        <ListicleFilter listicles={listicleData} categories={categories} />
 
         <AdUnit type="display" />
 

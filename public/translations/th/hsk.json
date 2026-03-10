@@ -4474,5 +4474,1292 @@
       "银行在学校的左边。(ธนาคารอยู่ด้านซ้ายของโรงเรียน.)"
     ],
     "originalMeaning": "left side"
+  },
+  {
+    "characters": "打扫",
+    "pinyin": "dǎsǎo",
+    "meaning": "ทำความสะอาด",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每周打扫一次房间。(I clean the room once a week.)"
+    ],
+    "originalMeaning": "clean"
+  },
+  {
+    "characters": "搬",
+    "pinyin": "bān",
+    "meaning": "ย้าย",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我们下个月搬家。(We are moving next month.)"
+    ],
+    "originalMeaning": "move"
+  },
+  {
+    "characters": "发现",
+    "pinyin": "fāxiàn",
+    "meaning": "ค้นพบ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我发现了一家好餐厅。(I discovered a good restaurant.)"
+    ],
+    "originalMeaning": "discover"
+  },
+  {
+    "characters": "礼物",
+    "pinyin": "lǐwù",
+    "meaning": "ของขวัญ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "她送给我一个礼物。(She gave me a gift.)"
+    ],
+    "originalMeaning": "gift"
+  },
+  {
+    "characters": "会议",
+    "pinyin": "huìyì",
+    "meaning": "การประชุม",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我们下午有一个会议。(We have a meeting in the afternoon.)"
+    ],
+    "originalMeaning": "meeting"
+  },
+  {
+    "characters": "邻居",
+    "pinyin": "línjū",
+    "meaning": "เพื่อนบ้าน",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我的邻居很友好。(My neighbor is very friendly.)"
+    ],
+    "originalMeaning": "neighbor"
+  },
+  {
+    "characters": "菜单",
+    "pinyin": "càidān",
+    "meaning": "เมนู",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请给我看一下菜单。(Please show me the menu.)"
+    ],
+    "originalMeaning": "menu"
+  },
+  {
+    "characters": "钱包",
+    "pinyin": "qiánbāo",
+    "meaning": "กระเป๋าเงิน",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我的钱包不见了。(My wallet is missing.)"
+    ],
+    "originalMeaning": "wallet"
+  },
+  {
+    "characters": "超市",
+    "pinyin": "chāoshì",
+    "meaning": "ซูเปอร์มาร์เก็ต",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我去超市买东西。(I go to the supermarket to buy things.)"
+    ],
+    "originalMeaning": "supermarket"
+  },
+  {
+    "characters": "司机",
+    "pinyin": "sījī",
+    "meaning": "คนขับ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他是一名出租车司机。(He is a taxi driver.)"
+    ],
+    "originalMeaning": "driver"
+  },
+  {
+    "characters": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "หนังสือเดินทาง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "出国旅行需要护照。(You need a passport to travel abroad.)"
+    ],
+    "originalMeaning": "passport"
+  },
+  {
+    "characters": "筷子",
+    "pinyin": "kuàizi",
+    "meaning": "ตะเกียบ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我用筷子吃饭。(I eat with chopsticks.)"
+    ],
+    "originalMeaning": "chopsticks"
+  },
+  {
+    "characters": "行李",
+    "pinyin": "xíngli",
+    "meaning": "กระเป๋าเดินทาง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请把行李放在这里。(Please put the luggage here.)"
+    ],
+    "originalMeaning": "luggage"
+  },
+  {
+    "characters": "检查",
+    "pinyin": "jiǎnchá",
+    "meaning": "ตรวจสอบ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "医生在检查我的身体。(The doctor is checking my body.)"
+    ],
+    "originalMeaning": "to check"
+  },
+  {
+    "characters": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "พยายาม",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他在努力学习中文。(He is striving to learn Chinese.)"
+    ],
+    "originalMeaning": "to strive"
+  },
+  {
+    "characters": "担心",
+    "pinyin": "dānxīn",
+    "meaning": "กังวล",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "妈妈总是担心我。(Mom always worries about me.)"
+    ],
+    "originalMeaning": "to worry"
+  },
+  {
+    "characters": "聊天",
+    "pinyin": "liáotiān",
+    "meaning": "พูดคุย",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我们常常在网上聊天。(We often chat online.)"
+    ],
+    "originalMeaning": "to chat"
+  },
+  {
+    "characters": "生气",
+    "pinyin": "shēngqì",
+    "meaning": "โกรธ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他很容易生气。(He gets angry easily.)"
+    ],
+    "originalMeaning": "to get angry"
+  },
+  {
+    "characters": "洗澡",
+    "pinyin": "xǐzǎo",
+    "meaning": "อาบน้ำ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天晚上洗澡。(I take a bath every night.)"
+    ],
+    "originalMeaning": "to take a bath"
+  },
+  {
+    "characters": "着急",
+    "pinyin": "zháojí",
+    "meaning": "กังวล",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "别着急，我们有时间。(Don't worry, we have time.)"
+    ],
+    "originalMeaning": "to worry"
+  },
+  {
+    "characters": "新鲜",
+    "pinyin": "xīnxiān",
+    "meaning": "สด",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这些水果很新鲜。(These fruits are very fresh.)"
+    ],
+    "originalMeaning": "fresh"
+  },
+  {
+    "characters": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "สบาย",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这张椅子很舒服。(This chair is very comfortable.)"
+    ],
+    "originalMeaning": "comfortable"
+  },
+  {
+    "characters": "认真",
+    "pinyin": "rènzhēn",
+    "meaning": "จริงจัง",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他是一个很认真的学生。(He is a very serious student.)"
+    ],
+    "originalMeaning": "serious"
+  },
+  {
+    "characters": "奇怪",
+    "pinyin": "qíguài",
+    "meaning": "แปลก",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个问题很奇怪。(This question is very strange.)"
+    ],
+    "originalMeaning": "strange"
+  },
+  {
+    "characters": "方便",
+    "pinyin": "fāngbiàn",
+    "meaning": "สะดวก",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "住在这里很方便。(Living here is very convenient.)"
+    ],
+    "originalMeaning": "convenient"
+  },
+  {
+    "characters": "可爱",
+    "pinyin": "kě'ài",
+    "meaning": "น่ารัก",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这只小猫很可爱。(This kitten is very cute.)"
+    ],
+    "originalMeaning": "cute"
+  },
+  {
+    "characters": "干净",
+    "pinyin": "gānjìng",
+    "meaning": "สะอาด",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "房间很干净。(The room is very clean.)"
+    ],
+    "originalMeaning": "clean"
+  },
+  {
+    "characters": "简单",
+    "pinyin": "jiǎndān",
+    "meaning": "ง่าย",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个问题很简单。(This problem is very simple.)"
+    ],
+    "originalMeaning": "simple"
+  },
+  {
+    "characters": "突然",
+    "pinyin": "tūrán",
+    "meaning": "ทันที",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "他突然离开了。(He suddenly left.)"
+    ],
+    "originalMeaning": "suddenly"
+  },
+  {
+    "characters": "几乎",
+    "pinyin": "jīhū",
+    "meaning": "เกือบ",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "我几乎忘记了他的名字。(I almost forgot his name.)"
+    ],
+    "originalMeaning": "almost"
+  },
+  {
+    "characters": "当然",
+    "pinyin": "dāngrán",
+    "meaning": "แน่นอน",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "你当然可以来。(Of course you can come.)"
+    ],
+    "originalMeaning": "of course"
+  },
+  {
+    "characters": "如果",
+    "pinyin": "rúguǒ",
+    "meaning": "ถ้า",
+    "partOfSpeech": "conjunction",
+    "hskLevel": 3,
+    "examples": [
+      "如果下雨，我们就不去。(If it rains, we won't go.)"
+    ],
+    "originalMeaning": "if"
+  },
+  {
+    "characters": "为了",
+    "pinyin": "wèile",
+    "meaning": "เพื่อ",
+    "partOfSpeech": "preposition",
+    "hskLevel": 3,
+    "examples": [
+      "为了健康，我每天锻炼。(In order to be healthy, I exercise every day.)"
+    ],
+    "originalMeaning": "in order to"
+  },
+  {
+    "characters": "向",
+    "pinyin": "xiàng",
+    "meaning": "ไปยัง",
+    "partOfSpeech": "preposition",
+    "hskLevel": 3,
+    "examples": [
+      "他向我走来。(He walks towards me.)"
+    ],
+    "originalMeaning": "towards"
+  },
+  {
+    "characters": "把",
+    "pinyin": "bǎ",
+    "meaning": "บ่งชี้ว่ามีการจัดการสิ่งของ",
+    "partOfSpeech": "particle",
+    "hskLevel": 3,
+    "examples": [
+      "请把书放在桌子上。(Please put the book on the table.)"
+    ],
+    "originalMeaning": "indicating a thing is disposed of"
+  },
+  {
+    "characters": "被",
+    "pinyin": "bèi",
+    "meaning": "โดย (ใช้ในประโยคแบบ passive)",
+    "partOfSpeech": "particle",
+    "hskLevel": 3,
+    "examples": [
+      "他被老师表扬了。(He was praised by the teacher.)"
+    ],
+    "originalMeaning": "by (indicates passive-voice sentences)"
+  },
+  {
+    "characters": "变化",
+    "pinyin": "biànhuà",
+    "meaning": "การเปลี่ยนแปลง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "天气的变化很快。(The weather changes quickly.)"
+    ],
+    "originalMeaning": "change"
+  },
+  {
+    "characters": "表演",
+    "pinyin": "biǎoyǎn",
+    "meaning": "แสดง",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他在舞台上表演得很好。(He performed well on stage.)"
+    ],
+    "originalMeaning": "perform"
+  },
+  {
+    "characters": "成绩",
+    "pinyin": "chéngjì",
+    "meaning": "เกรด",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他的成绩很好。(His grades are very good.)"
+    ],
+    "originalMeaning": "grade"
+  },
+  {
+    "characters": "城市",
+    "pinyin": "chéngshì",
+    "meaning": "เมือง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "上海是一个大城市。(Shanghai is a big city.)"
+    ],
+    "originalMeaning": "city"
+  },
+  {
+    "characters": "地方",
+    "pinyin": "dìfāng",
+    "meaning": "สถานที่",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这个地方很漂亮。(สถานที่นี้สวยมาก.)"
+    ],
+    "originalMeaning": "place"
+  },
+  {
+    "characters": "锻炼",
+    "pinyin": "duànliàn",
+    "meaning": "ออกกำลังกาย",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天早上锻炼身体。(ฉันออกกำลังกายทุกเช้า.)"
+    ],
+    "originalMeaning": "exercise"
+  },
+  {
+    "characters": "感冒",
+    "pinyin": "gǎnmào",
+    "meaning": "เป็นหวัด",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我感冒了，需要休息。(ฉันเป็นหวัดและต้องการพักผ่อน.)"
+    ],
+    "originalMeaning": "catch a cold"
+  },
+  {
+    "characters": "经历",
+    "pinyin": "jīnglì",
+    "meaning": "ประสบการณ์",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这是一次难忘的经历。(นี่คือประสบการณ์ที่น่าจดจำ.)"
+    ],
+    "originalMeaning": "experience"
+  },
+  {
+    "characters": "久",
+    "pinyin": "jiǔ",
+    "meaning": "นาน",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "我等了很久。(ฉันรอนานมาก.)"
+    ],
+    "originalMeaning": "long time"
+  },
+  {
+    "characters": "句子",
+    "pinyin": "jùzi",
+    "meaning": "ประโยค",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请用这个词造一个句子。(กรุณาสร้างประโยคด้วยคำนี้.)"
+    ],
+    "originalMeaning": "sentence"
+  },
+  {
+    "characters": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "ดวงอาทิตย์",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "今天的太阳很大。(ดวงอาทิตย์วันนี้สว่างมาก.)"
+    ],
+    "originalMeaning": "sun"
+  },
+  {
+    "characters": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "เห็นด้วย",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我同意你的看法。(ฉันเห็นด้วยกับความคิดเห็นของคุณ.)"
+    ],
+    "originalMeaning": "agree"
+  },
+  {
+    "characters": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "นิสัย",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我有早起的习惯。(ฉันมีนิสัยตื่นเช้า.)"
+    ],
+    "originalMeaning": "habit"
+  },
+  {
+    "characters": "苹果",
+    "pinyin": "píngguǒ",
+    "meaning": "แอปเปิ้ล",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我每天吃一个苹果。(ฉันกินแอปเปิ้ลหนึ่งลูกทุกวัน.)"
+    ],
+    "originalMeaning": "apple"
+  },
+  {
+    "characters": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "meaning": "กล้วย",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "香蕉是我最喜欢的水果。(กล้วยเป็นผลไม้ที่ฉันชอบที่สุด.)"
+    ],
+    "originalMeaning": "banana"
+  },
+  {
+    "characters": "葡萄",
+    "pinyin": "pútáo",
+    "meaning": "องุ่น",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这些葡萄很甜。(องุ่นเหล่านี้หวานมาก.)"
+    ],
+    "originalMeaning": "grape"
+  },
+  {
+    "characters": "草莓",
+    "pinyin": "cǎoméi",
+    "meaning": "สตรอว์เบอร์รี",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢草莓味的冰淇淋。(ฉันชอบไอศกรีมรสสตรอว์เบอร์รี.)"
+    ],
+    "originalMeaning": "strawberry"
+  },
+  {
+    "characters": "橙子",
+    "pinyin": "chéngzi",
+    "meaning": "ส้ม",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "橙子含有丰富的维生素C。(ส้มมีวิตามินซีมาก.)"
+    ],
+    "originalMeaning": "orange"
+  },
+  {
+    "characters": "梨",
+    "pinyin": "lí",
+    "meaning": "ลูกแพร์",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这只梨很甜。(ลูกแพร์ลูกนี้หวานมาก.)"
+    ],
+    "originalMeaning": "pear"
+  },
+  {
+    "characters": "牛肉",
+    "pinyin": "niúròu",
+    "meaning": "เนื้อวัว",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃牛肉。(ฉันชอบกินเนื้อวัว.)"
+    ],
+    "originalMeaning": "beef"
+  },
+  {
+    "characters": "鸡肉",
+    "pinyin": "jīròu",
+    "meaning": "เนื้อไก่",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "鸡肉比猪肉健康。(เนื้อไก่มีสุขภาพดีกว่าเนื้อหมู.)"
+    ],
+    "originalMeaning": "chicken"
+  },
+  {
+    "characters": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "ขนมปัง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "早餐我常吃面包。(ฉันมักกินขนมปังสำหรับอาหารเช้า.)"
+    ],
+    "originalMeaning": "bread"
+  },
+  {
+    "characters": "糖",
+    "pinyin": "táng",
+    "meaning": "น้ำตาล",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我不加糖。(ฉันไม่ใส่น้ำตาล.)"
+    ],
+    "originalMeaning": "sugar"
+  },
+  {
+    "characters": "盐",
+    "pinyin": "yán",
+    "meaning": "เกลือ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这道菜需要一点盐。(จานนี้ต้องการเกลือนิดหน่อย.)"
+    ],
+    "originalMeaning": "salt"
+  },
+  {
+    "characters": "面条",
+    "pinyin": "miàntiáo",
+    "meaning": "เส้นก๋วยเตี๋ยว",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃面条。(ฉันชอบกินเส้นก๋วยเตี๋ยว.)"
+    ],
+    "originalMeaning": "noodles"
+  },
+  {
+    "characters": "汤",
+    "pinyin": "tāng",
+    "meaning": "ซุป",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "这碗汤很好喝。(ซุปชามนี้อร่อยมาก.)"
+    ],
+    "originalMeaning": "soup"
+  },
+  {
+    "characters": "蔬菜",
+    "pinyin": "shūcài",
+    "meaning": "ผัก",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "多吃蔬菜对身体好。(การกินผักมากๆ ดีต่อสุขภาพ.)"
+    ],
+    "originalMeaning": "vegetable"
+  },
+  {
+    "characters": "冰淇淋",
+    "pinyin": "bīngqílín",
+    "meaning": "ไอศกรีม",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "夏天我喜欢吃冰淇淋。(ในฤดูร้อนฉันชอบกินไอศกรีม.)"
+    ],
+    "originalMeaning": "ice cream"
+  },
+  {
+    "characters": "饺子",
+    "pinyin": "jiǎozi",
+    "meaning": "เกี๊ยว",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "过年时我们吃饺子。(เรากินเกี๊ยวในช่วงปีใหม่.)"
+    ],
+    "originalMeaning": "dumpling"
+  },
+  {
+    "characters": "蛋糕",
+    "pinyin": "dàngāo",
+    "meaning": "เค้ก",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "生日时我们吃蛋糕。(เรากินเค้กในวันเกิด.)"
+    ],
+    "originalMeaning": "cake"
+  },
+  {
+    "characters": "饼干",
+    "pinyin": "bǐnggān",
+    "meaning": "บิสกิต",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢吃饼干。(ฉันชอบกินบิสกิต.)"
+    ],
+    "originalMeaning": "biscuit"
+  },
+  {
+    "characters": "糖果",
+    "pinyin": "tángguǒ",
+    "meaning": "ลูกอม",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "孩子们喜欢糖果。(เด็กๆ ชอบลูกอม.)"
+    ],
+    "originalMeaning": "candy"
+  },
+  {
+    "characters": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "meaning": "ช็อกโกแลต",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "巧克力很甜。(ช็อกโกแลตหวานมาก.)"
+    ],
+    "originalMeaning": "chocolate"
+  },
+  {
+    "characters": "蜂蜜",
+    "pinyin": "fēngmì",
+    "meaning": "น้ำผึ้ง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "蜂蜜可以用来调味。(น้ำผึ้งสามารถใช้ปรุงรสได้.)"
+    ],
+    "originalMeaning": "honey"
+  },
+  {
+    "characters": "果汁",
+    "pinyin": "guǒzhī",
+    "meaning": "น้ำผลไม้",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我喜欢喝果汁。(ฉันชอบดื่มน้ำผลไม้.)"
+    ],
+    "originalMeaning": "juice"
+  },
+  {
+    "characters": "离开",
+    "pinyin": "líkāi",
+    "meaning": "ออกจาก",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "他已经离开了公司。(เขาออกจากบริษัทแล้ว.)"
+    ],
+    "originalMeaning": "leave"
+  },
+  {
+    "characters": "遇到",
+    "pinyin": "yùdào",
+    "meaning": "พบเจอ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我在公园遇到了老朋友。(ฉันพบเพื่อนเก่าในสวนสาธารณะ.)"
+    ],
+    "originalMeaning": "encounter"
+  },
+  {
+    "characters": "相信",
+    "pinyin": "xiāngxìn",
+    "meaning": "เชื่อ",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我相信你能做到。(ฉันเชื่อว่าคุณทำได้.)"
+    ],
+    "originalMeaning": "believe"
+  },
+  {
+    "characters": "聪明",
+    "pinyin": "cōngmíng",
+    "meaning": "ฉลาด",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他是一个聪明的学生。(เขาเป็นนักเรียนที่ฉลาด.)"
+    ],
+    "originalMeaning": "smart"
+  },
+  {
+    "characters": "漂亮",
+    "pinyin": "piàoliang",
+    "meaning": "สวย",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个地方很漂亮。(สถานที่นี้สวยมาก.)"
+    ],
+    "originalMeaning": "beautiful"
+  },
+  {
+    "characters": "安静",
+    "pinyin": "ānjìng",
+    "meaning": "เงียบ",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "图书馆里很安静。(ห้องสมุดเงียบมาก.)"
+    ],
+    "originalMeaning": "quiet"
+  },
+  {
+    "characters": "热情",
+    "pinyin": "rèqíng",
+    "meaning": "กระตือรือร้น",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他对工作很热情。(เขากระตือรือร้นกับงานมาก.)"
+    ],
+    "originalMeaning": "enthusiastic"
+  },
+  {
+    "characters": "害怕",
+    "pinyin": "hàipà",
+    "meaning": "กลัว",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他害怕黑暗。(เขากลัวความมืด.)"
+    ],
+    "originalMeaning": "afraid"
+  },
+  {
+    "characters": "矮",
+    "pinyin": "ǎi",
+    "meaning": "เตี้ย",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他比我矮。(เขาเตี้ยกว่าฉัน.)"
+    ],
+    "originalMeaning": "short"
+  },
+  {
+    "characters": "胖",
+    "pinyin": "pàng",
+    "meaning": "อ้วน",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这只猫很胖。(แมวตัวนี้อ้วนมาก.)"
+    ],
+    "originalMeaning": "fat"
+  },
+  {
+    "characters": "瘦",
+    "pinyin": "shòu",
+    "meaning": "ผอม",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他最近变瘦了。(เขาผอมลงในช่วงนี้.)"
+    ],
+    "originalMeaning": "thin"
+  },
+  {
+    "characters": "旧",
+    "pinyin": "jiù",
+    "meaning": "เก่า",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很旧。(หนังสือเล่มนี้เก่ามาก.)"
+    ],
+    "originalMeaning": "old"
+  },
+  {
+    "characters": "年轻",
+    "pinyin": "niánqīng",
+    "meaning": "อ่อนเยาว์",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "她看起来很年轻。(เธอดูอ่อนเยาว์มาก.)"
+    ],
+    "originalMeaning": "young"
+  },
+  {
+    "characters": "可怜",
+    "pinyin": "kělián",
+    "meaning": "น่าสงสาร",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这只小猫很可怜。(ลูกแมวตัวนี้น่าสงสารมาก.)"
+    ],
+    "originalMeaning": "pitiful"
+  },
+  {
+    "characters": "懒",
+    "pinyin": "lǎn",
+    "meaning": "ขี้เกียจ",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "他很懒，不喜欢运动。(เขาขี้เกียจ ไม่ชอบออกกำลังกาย.)"
+    ],
+    "originalMeaning": "lazy"
+  },
+  {
+    "characters": "渴",
+    "pinyin": "kě",
+    "meaning": "กระหาย",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "我渴了，想喝水。(ฉันกระหาย อยากดื่มน้ำ.)"
+    ],
+    "originalMeaning": "thirsty"
+  },
+  {
+    "characters": "饿",
+    "pinyin": "è",
+    "meaning": "หิว",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "我饿了，想吃饭。(ฉันหิว อยากกินข้าว.)"
+    ],
+    "originalMeaning": "hungry"
+  },
+  {
+    "characters": "丑",
+    "pinyin": "chǒu",
+    "meaning": "น่าเกลียด",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这幅画很丑。(ภาพวาดนี้น่าเกลียดมาก.)"
+    ],
+    "originalMeaning": "ugly"
+  },
+  {
+    "characters": "宽",
+    "pinyin": "kuān",
+    "meaning": "กว้าง",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这条路很宽。(ถนนเส้นนี้กว้างมาก.)"
+    ],
+    "originalMeaning": "wide"
+  },
+  {
+    "characters": "窄",
+    "pinyin": "zhǎi",
+    "meaning": "แคบ",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这条巷子很窄。(ซอยนี้แคบมาก.)"
+    ],
+    "originalMeaning": "narrow"
+  },
+  {
+    "characters": "轻",
+    "pinyin": "qīng",
+    "meaning": "เบา",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个箱子很轻。(กล่องนี้เบามาก.)"
+    ],
+    "originalMeaning": "light"
+  },
+  {
+    "characters": "重",
+    "pinyin": "zhòng",
+    "meaning": "หนัก",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很重。(หนังสือเล่มนี้หนักมาก.)"
+    ],
+    "originalMeaning": "heavy"
+  },
+  {
+    "characters": "厚",
+    "pinyin": "hòu",
+    "meaning": "หนา",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这本书很厚。(หนังสือเล่มนี้หนามาก.)"
+    ],
+    "originalMeaning": "thick"
+  },
+  {
+    "characters": "薄",
+    "pinyin": "báo",
+    "meaning": "บาง",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这张纸很薄。(กระดาษแผ่นนี้บางมาก.)"
+    ],
+    "originalMeaning": "thin"
+  },
+  {
+    "characters": "硬",
+    "pinyin": "yìng",
+    "meaning": "แข็ง",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个椅子很硬。(เก้าอี้ตัวนี้แข็งมาก.)"
+    ],
+    "originalMeaning": "hard"
+  },
+  {
+    "characters": "软",
+    "pinyin": "ruǎn",
+    "meaning": "นุ่ม",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这个枕头很软。(หมอนใบนี้นุ่มมาก.)"
+    ],
+    "originalMeaning": "soft"
+  },
+  {
+    "characters": "短",
+    "pinyin": "duǎn",
+    "meaning": "สั้น",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "这条裤子很短。(กางเกงตัวนี้สั้นมาก.)"
+    ],
+    "originalMeaning": "short"
+  },
+  {
+    "characters": "暖和",
+    "pinyin": "nuǎnhuo",
+    "meaning": "อบอุ่น",
+    "partOfSpeech": "adjective",
+    "hskLevel": 3,
+    "examples": [
+      "今天的天气很暖和。(อากาศวันนี้อบอุ่นมาก.)"
+    ],
+    "originalMeaning": "warm"
+  },
+  {
+    "characters": "忽然",
+    "pinyin": "hūrán",
+    "meaning": "ทันใดนั้น",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "他忽然笑了。(เขาหัวเราะทันใดนั้น.)"
+    ],
+    "originalMeaning": "suddenly"
+  },
+  {
+    "characters": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "สุดสัปดาห์",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "周末你有什么计划？(สุดสัปดาห์นี้คุณมีแผนอะไรบ้าง?)"
+    ],
+    "originalMeaning": "weekend"
+  },
+  {
+    "characters": "地点",
+    "pinyin": "dìdiǎn",
+    "meaning": "สถานที่",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "会议地点在哪里？(สถานที่ประชุมอยู่ที่ไหน?)"
+    ],
+    "originalMeaning": "location"
+  },
+  {
+    "characters": "方向",
+    "pinyin": "fāngxiàng",
+    "meaning": "ทิศทาง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "请问去火车站的方向是哪里？(ขอโทษครับ ทิศทางไปสถานีรถไฟคือที่ไหน?)"
+    ],
+    "originalMeaning": "direction"
+  },
+  {
+    "characters": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "ใกล้เคียง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "附近有超市吗？(มีซูเปอร์มาร์เก็ตใกล้เคียงไหม?)"
+    ],
+    "originalMeaning": "nearby"
+  },
+  {
+    "characters": "中间",
+    "pinyin": "zhōngjiān",
+    "meaning": "กลาง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他坐在中间。(เขานั่งอยู่กลาง.)"
+    ],
+    "originalMeaning": "middle"
+  },
+  {
+    "characters": "外面",
+    "pinyin": "wàimiàn",
+    "meaning": "ข้างนอก",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "外面下雨了。(ข้างนอกฝนตกแล้ว.)"
+    ],
+    "originalMeaning": "outside"
+  },
+  {
+    "characters": "里面",
+    "pinyin": "lǐmiàn",
+    "meaning": "ข้างใน",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "房间里面很安静。(ข้างในห้องเงียบมาก.)"
+    ],
+    "originalMeaning": "inside"
+  },
+  {
+    "characters": "楼上",
+    "pinyin": "lóushàng",
+    "meaning": "ชั้นบน",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "他住在楼上。(เขาอาศัยอยู่ชั้นบน.)"
+    ],
+    "originalMeaning": "upstairs"
+  },
+  {
+    "characters": "楼下",
+    "pinyin": "lóuxià",
+    "meaning": "ชั้นล่าง",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我在楼下等你。(ฉันรอคุณอยู่ชั้นล่าง.)"
+    ],
+    "originalMeaning": "downstairs"
+  },
+  {
+    "characters": "往",
+    "pinyin": "wǎng",
+    "meaning": "ไปยัง",
+    "partOfSpeech": "preposition",
+    "hskLevel": 3,
+    "examples": [
+      "往左走。(ไปทางซ้าย.)"
+    ],
+    "originalMeaning": "towards"
+  },
+  {
+    "characters": "一直",
+    "pinyin": "yìzhí",
+    "meaning": "ตรงไป",
+    "partOfSpeech": "adverb",
+    "hskLevel": 3,
+    "examples": [
+      "一直走，你会看到银行。(ตรงไป คุณจะเห็นธนาคาร.)"
+    ],
+    "originalMeaning": "straight"
+  },
+  {
+    "characters": "经过",
+    "pinyin": "jīngguò",
+    "meaning": "ผ่าน",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天经过这家店。(ฉันผ่านร้านนี้ทุกวัน.)"
+    ],
+    "originalMeaning": "pass by"
+  },
+  {
+    "characters": "路口",
+    "pinyin": "lùkǒu",
+    "meaning": "สี่แยก",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "在下一个路口右转。(เลี้ยวขวาที่สี่แยกถัดไป.)"
+    ],
+    "originalMeaning": "intersection"
+  },
+  {
+    "characters": "下班",
+    "pinyin": "xiàbān",
+    "meaning": "เลิกงาน",
+    "partOfSpeech": "verb",
+    "hskLevel": 3,
+    "examples": [
+      "我每天六点下班。(ฉันเลิกงานทุกวันตอนหกโมง.)"
+    ],
+    "originalMeaning": "get off work"
+  },
+  {
+    "characters": "公园",
+    "pinyin": "gōngyuán",
+    "meaning": "สวนสาธารณะ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "我们去公园散步吧。(เราไปเดินเล่นที่สวนสาธารณะกันเถอะ.)"
+    ],
+    "originalMeaning": "park"
+  },
+  {
+    "characters": "银行",
+    "pinyin": "yínháng",
+    "meaning": "ธนาคาร",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "银行几点开门？(ธนาคารเปิดกี่โมง?)"
+    ],
+    "originalMeaning": "bank"
+  },
+  {
+    "characters": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "สถานีรถไฟ",
+    "partOfSpeech": "noun",
+    "hskLevel": 3,
+    "examples": [
+      "火车站离这里很近。(สถานีรถไฟอยู่ใกล้ที่นี่มาก.)"
+    ],
+    "originalMeaning": "train station"
   }
 ]

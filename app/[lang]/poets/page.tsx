@@ -59,7 +59,7 @@ export default async function TranslatedPoetsIndexPage({ params }: { params: Pro
           <header className="pt-20 pb-16 text-center">
             <p className="text-sm font-medium text-amber-600 tracking-widest uppercase mb-4">Tang Dynasty Masters</p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-neutral-900 tracking-tight leading-[1.1]">
-              Famous Chinese Poets
+              {getTranslation(lang, 'poetsTitle')}
             </h1>
             <p className="text-lg text-neutral-500 mt-5 max-w-xl mx-auto leading-relaxed">
               The golden age of Chinese poetry. Biographies and poems in {langName}.
@@ -138,9 +138,9 @@ export default async function TranslatedPoetsIndexPage({ params }: { params: Pro
           <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
             <p className="text-neutral-400 text-sm">&copy; {new Date().getFullYear()} chineseidioms</p>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
-            <Link href={`/${lang}/poems`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Poems</Link>
+            <Link href={`/${lang}/poems`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'poemsTitle')}</Link>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
-            <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Blog</Link>
+            <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
             <LanguageSelector currentLang={lang} />
           </div>

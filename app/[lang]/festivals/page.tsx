@@ -4,6 +4,7 @@ import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllFestivals } from '@/src/lib/festivals';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -130,18 +131,16 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
         <nav className="relative max-w-5xl mx-auto px-6 pt-6">
           <Link href={`/${lang}`} className="inline-flex items-center gap-2 text-white/50 hover:text-white/80 text-sm transition-colors">
             <ArrowLeft className="w-4 h-4" />
-            Home
+            {getTranslation(lang, 'home')}
           </Link>
         </nav>
         <div className="relative max-w-5xl mx-auto px-6 pt-12 pb-16">
-          <p className="text-xs font-medium text-white/40 tracking-[0.25em] uppercase mb-6">Cultural Guide</p>
+          <p className="text-xs font-medium text-white/40 tracking-[0.25em] uppercase mb-6">{getTranslation(lang, 'festivalsCulturalGuide')}</p>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight leading-[1.1]">
-            Chinese Festivals
-            <br />
-            <span className="text-red-400">&amp; Holidays</span>
+            {getTranslation(lang, 'festivalsTitle')}
           </h1>
           <p className="text-white/50 text-lg leading-relaxed mt-6 max-w-xl">
-            The traditions, stories, and idioms behind China&apos;s most celebrated holidays.
+            {getTranslation(lang, 'festivalsSubtitle')}
           </p>
 
           {/* Quick Nav */}
@@ -223,7 +222,7 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
                       {/* Traditions */}
                       <div className="lg:col-span-2 bg-white rounded-xl p-6 border border-gray-200/80">
                         <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-4">
-                          Traditions
+                          {getTranslation(lang, 'festivalsTraditions')}
                         </h3>
                         <ul className="space-y-3">
                           {festival.traditions.map((tradition, i) => (
@@ -243,7 +242,7 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
                         <div className="relative">
                           <div className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded bg-red-500/20 mb-4">
                             <span className="w-1 h-1 rounded-full bg-red-400" />
-                            <span className="text-[10px] font-semibold text-red-300 uppercase tracking-[0.15em]">Did you know</span>
+                            <span className="text-[10px] font-semibold text-red-300 uppercase tracking-[0.15em]">{getTranslation(lang, 'festivalsDidYouKnow')}</span>
                           </div>
                           <p className="text-white/80 text-sm leading-[1.7]">
                             {festival.funFact}
@@ -256,7 +255,7 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
                     {relatedListicles.length > 0 && (
                       <div className="mt-6">
                         <h3 className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-3">
-                          Explore Related Idioms
+                          {getTranslation(lang, 'festivalsExploreIdioms')}
                         </h3>
                         <div className="grid sm:grid-cols-2 gap-2">
                           {relatedListicles.map((listicle) => (
@@ -288,7 +287,7 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
           {/* FAQ */}
           <section className="mt-24 pt-12 border-t border-gray-200">
             <h2 className="text-xs font-semibold text-gray-400 uppercase tracking-[0.15em] mb-8">
-              Frequently Asked Questions
+              {getTranslation(lang, 'festivalsFAQ')}
             </h2>
             <div className="grid md:grid-cols-2 gap-x-12 gap-y-8">
               <div>

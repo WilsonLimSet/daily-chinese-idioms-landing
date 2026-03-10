@@ -49,7 +49,7 @@ export default async function TranslatedCharactersIndexPage({ params }: { params
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Browse Chinese Idioms by Character
+            {t('charactersTitle')}
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl">
             Explore {characters.length}+ Chinese characters that appear in our collection of 1000+ idioms (chengyu).

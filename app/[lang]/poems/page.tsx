@@ -76,7 +76,7 @@ export default async function TranslatedPoemsIndexPage({ params }: { params: Pro
         <div className="max-w-4xl mx-auto px-6">
           <header className="pt-20 pb-12">
             <h1 className="text-4xl sm:text-5xl font-bold text-neutral-900 tracking-tight leading-[1.1]">
-              Famous Chinese Poems
+              {getTranslation(lang, 'poemsTitle')}
             </h1>
             <p className="text-lg text-neutral-500 mt-4 max-w-2xl leading-relaxed">
               {translatedPoems.length} iconic poems with translations in {langName}.
@@ -132,13 +132,13 @@ export default async function TranslatedPoemsIndexPage({ params }: { params: Pro
             <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
               <p className="text-neutral-400 text-sm">&copy; {new Date().getFullYear()} chineseidioms</p>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Built by Wilson</a>
+              <a href="https://wilsonlimset.com" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBuiltBy')}</a>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Blog</Link>
+              <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href={`/${lang}/dictionary`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Dictionary</Link>
+              <Link href={`/${lang}/dictionary`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'dictionaryTitle')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
-              <Link href="/privacy" className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Privacy Policy</Link>
+              <Link href={`/${lang}/privacy`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerPrivacy')}</Link>
               <span className="hidden sm:inline text-neutral-300">&bull;</span>
               <LanguageSelector currentLang={lang} />
             </div>

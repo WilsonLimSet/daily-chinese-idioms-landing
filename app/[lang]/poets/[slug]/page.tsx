@@ -5,6 +5,7 @@ import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getAllPoets, getPoetPoems, getTranslatedPoetBySlug, loadTranslatedPoets } from '@/src/lib/poets';
 
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -93,7 +94,7 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
         <div className="max-w-3xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link href={`/${lang}/poets`} className="inline-flex items-center gap-2 text-neutral-400 hover:text-neutral-600 text-sm transition-colors duration-75">
             <ArrowLeft className="w-3.5 h-3.5" />
-            All Poets
+            {getTranslation(lang, 'allPoets')}
           </Link>
           <div className="text-xs text-neutral-400">{poet.dynasty} · {poet.birthYear}–{poet.deathYear}</div>
         </div>
@@ -114,19 +115,19 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
           <AdUnit type="display" className="my-8" />
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Biography</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetBiography')}</h2>
             <p className="text-neutral-600 leading-[1.8]">{poet.bio}</p>
           </section>
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Poetic Style</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetStyle')}</h2>
             <p className="text-neutral-600 leading-[1.8]">{poet.style}</p>
           </section>
 
           <AdUnit type="in-article" className="my-8" />
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Most Famous Lines</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetFamousLines')}</h2>
             <div className="space-y-4">
               {poet.famousLines.map((line, i) => (
                 <div key={i} className="p-4 bg-neutral-50 rounded-lg">
@@ -140,7 +141,7 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
           </section>
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Legacy & Influence</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetLegacy')}</h2>
             <p className="text-neutral-600 leading-[1.8]">{poet.legacy}</p>
           </section>
 
@@ -148,7 +149,7 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
 
           {poems.length > 0 && (
             <section className="py-10 border-b border-neutral-200">
-              <h2 className="text-sm font-semibold text-neutral-900 mb-4">Poems by {poet.name}</h2>
+              <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetPoemsBy')} {poet.name}</h2>
               <div className="divide-y divide-neutral-100 border border-neutral-200 rounded-xl overflow-hidden">
                 {poems.map(poem => (
                   <Link key={poem.slug} href={`/${lang}/poems/${poem.slug}`} className="group flex items-center gap-5 px-5 py-4 bg-white hover:bg-neutral-50 transition-colors duration-75">
@@ -167,7 +168,7 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
           )}
 
           <section className="py-10">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">More poets</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poetMorePoets')}</h2>
             <div className="divide-y divide-neutral-100 border border-neutral-200 rounded-xl overflow-hidden">
               {otherPoets.map(p => (
                 <Link key={p.slug} href={`/${lang}/poets/${p.originalSlug || p.slug}`} className="group flex items-center gap-5 px-5 py-4 bg-white hover:bg-neutral-50 transition-colors duration-75">
@@ -193,9 +194,9 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
           <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
             <p className="text-neutral-400 text-sm">&copy; {new Date().getFullYear()} chineseidioms</p>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
-            <Link href={`/${lang}/poems`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Poems</Link>
+            <Link href={`/${lang}/poems`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'poemsTitle')}</Link>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
-            <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">Blog</Link>
+            <Link href={`/${lang}/blog`} className="text-neutral-400 hover:text-neutral-600 text-sm transition-colors">{getTranslation(lang, 'footerBlog')}</Link>
             <span className="hidden sm:inline text-neutral-300">&bull;</span>
             <LanguageSelector currentLang={lang} />
           </div>

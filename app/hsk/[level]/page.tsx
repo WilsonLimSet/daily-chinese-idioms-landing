@@ -237,7 +237,7 @@ export default async function HSKLevelPage({ params }: { params: Promise<{ level
               {listicles.map((listicle) => (
                 <Link
                   key={listicle.slug}
-                  href={`/listicles/${listicle.slug}`}
+                  href={`/blog/lists/${listicle.slug}`}
                   className="group flex items-center justify-between p-4 bg-white rounded-xl border border-gray-100 hover:shadow-md hover:border-emerald-200 transition-all"
                 >
                   <span className="font-medium text-gray-900 group-hover:text-emerald-600 transition-colors text-sm">{listicle.title}</span>
