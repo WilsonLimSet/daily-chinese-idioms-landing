@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "P012",
+    "slug": "jiang-xue",
+    "title": "방랑하는 아들의 노래",
+    "titleChinese": "江雪",
+    "titlePinyin": "jiāng xuě",
+    "translation": "A loving mother's thread is in her hand — clothes for her wandering child. Before he leaves, she sews with close, dense stitches, fearing he will be long in returning. Who says the heart of an inch of grass can repay the warmth of three springs of sunshine?",
+    "background": "멍자오는 46세에 마침내 과거에 합격한 후 이 시를 썼습니다. 이 시는 수십 년간의 실패와 가난 속에서도 그를 지지하고 믿어준 어머니에 대한 헌사입니다. 이 시는 모성애에 대한 전형적인 중국 시가 되었으며, 중국어권 세계 전역에서 어머니날에 낭송됩니다.",
+    "analysis": "이 시는 떠나는 아들을 위해 옷을 짓는 어머니라는 하나의 구체적인 이미지를 통해 감정적인 힘을 창조합니다. '촘촘하고 빽빽한 바느질'은 그녀의 불안감을 드러냅니다. 마치 더 촘촘하게 바느질하면 그를 더 가까이 두거나 더 오래 보호할 수 있는 것처럼 말입니다. 마지막 비유는 자식이 어머니에게 갚을 수 있는 능력을 세 계절의 따뜻함을 햇볕에 갚으려는 풀잎에 비유합니다. 이는 불가능합니다.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Love & Devotion",
+    "originalSlug": "jiang-xue",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": "Liu Zongyuan was a Tang Dynasty essayist, poet, and political reformer. After a failed political reform, he was exiled to remote southern regions for the rest of his life. His poetry and prose reflect themes of isolation, resilience, and communion with nature. He is counted among the \"Eight Great Prose Masters of the Tang and Song.\""
+    },
+    "lines": [
+      {
+        "chinese": "千山鸟飞绝，",
+        "pinyin": "qiān shān niǎo fēi jué,"
+      },
+      {
+        "chinese": "万径人踪灭。",
+        "pinyin": "wàn jìng rén zōng miè."
+      },
+      {
+        "chinese": "孤舟蓑笠翁，",
+        "pinyin": "gū zhōu suō lì wēng,"
+      },
+      {
+        "chinese": "独钓寒江雪。",
+        "pinyin": "dú diào hán jiāng xuě."
+      }
+    ],
+    "traditionalChinese": "千山鳥飛絕，萬徑人蹤滅。孤舟蓑笠翁，獨釣寒江雪。"
+  },
+  {
+    "id": "P013",
+    "slug": "chu-sai",
+    "title": "River Snow",
+    "titleChinese": "出塞",
+    "titlePinyin": "chū sài",
+    "translation": "From a thousand mountains, birds have vanished; on ten thousand paths, human traces are gone. A lone boat, an old man in straw cloak and hat — fishing alone in the cold river snow.",
+    "background": "Liu Zongyuan wrote this poem during his political exile in Yongzhou (modern Hunan). Having been banished for his role in a failed reform movement, he spent over a decade in the remote south. The poem is widely read as a self-portrait of the poet in exile — alone and unbowed. It is one of the most visually iconic Chinese poems, frequently depicted in traditional painting.",
+    "analysis": "The poem achieves extraordinary stillness through systematic negation. First all birds vanish, then all human traces. The world is emptied of all life except one old man. The scale is vast (thousands of mountains, ten thousand paths) yet narrows to a single point (one boat, one figure). The old fisherman, alone in a frozen landscape, embodies Confucian integrity — maintaining one's principles desp",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "chu-sai",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": "Wang Changling was known as the \"Master of Seven-character Quatrains\" (七绝圣手) during the Tang Dynasty. He excelled at frontier poetry that combined martial spirit with deep compassion for soldiers. Despite his literary fame, he suffered political setbacks and was ultimately killed during the An Lushan Rebellion."
+    },
+    "lines": [
+      {
+        "chinese": "秦时明月汉时关，",
+        "pinyin": "qín shí míng yuè hàn shí guān,"
+      },
+      {
+        "chinese": "万里长征人未还。",
+        "pinyin": "wàn lǐ cháng zhēng rén wèi huán."
+      },
+      {
+        "chinese": "但使龙城飞将在，",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài,"
+      },
+      {
+        "chinese": "不教胡马度阴山。",
+        "pinyin": "bù jiào hú mǎ dù yīn shān."
+      }
+    ],
+    "traditionalChinese": "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬度陰山。"
+  },
+  {
+    "id": "P001",
+    "slug": "jing-ye-si",
+    "title": "조용한 밤의 생각",
+    "titleChinese": "静夜思",
+    "titlePinyin": "jìng yè sī",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "床前明月光，",
+        "pinyin": "chuáng qián míng yuè guāng,"
+      },
+      {
+        "chinese": "疑是地上霜。",
+        "pinyin": "yí shì dì shàng shuāng."
+      },
+      {
+        "chinese": "举头望明月，",
+        "pinyin": "jǔ tóu wàng míng yuè,"
+      },
+      {
+        "chinese": "低头思故乡。",
+        "pinyin": "dī tóu sī gù xiāng."
+      }
+    ],
+    "traditionalChinese": "床前明月光，疑是地上霜。舉頭望明月，低頭思故鄉。",
+    "translation": "내 침대 앞, 밝은 달빛이 반짝인다 — 땅에 서리가 내렸는지 궁금하다. 나는 고개를 들어 밝은 달을 바라보고, 다시 고개를 숙이며 고향을 생각한다.",
+    "background": "서기 726년경에 쓰여진 이 시는 아마도 가장 유명한 중국 시일 것이다. 이백은 자신의 고향인 쓰촨에서 멀리 여행하면서 이 시를 썼다. 이 시는 보편적인 순간을 포착한다: 밤에 깨어 달빛을 보고, 고향에서 멀리 떨어져 있는 아픔을 느끼는 것이다. 거의 모든 중국인은 이 시를 암기하고 있으며, 이는 어린이들에게 가르치는 첫 번째 시 중 하나이다.",
+    "analysis": "이 시의 천재성은 그 단순함에 있다. 단 20자의 글자 수로, 이백은 완전한 감정의 아크를 창조한다: 관찰(달빛), 혼란(서리인가?), 행동(올려다보기), 그리고 감정(고향 그리움). 마지막 두 줄의 병렬 구조 — 고개를 들고 내리는 것 — 는 외부 세계(달)와 내부 감정(그리움) 사이의 움직임을 반영한다. 달은 시인과 그의 먼 고향 사이의 다리 역할을 하며, 같은 달이 두 곳 모두에 비추어진다.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "jing-ye-si"
+  },
+  {
+    "id": "P002",
+    "slug": "chun-xiao",
+    "title": "봄 아침",
+    "titleChinese": "春晓",
+    "titlePinyin": "chūn xiǎo",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "春眠不觉晓，",
+        "pinyin": "chūn mián bù jué xiǎo,"
+      },
+      {
+        "chinese": "处处闻啼鸟。",
+        "pinyin": "chù chù wén tí niǎo."
+      },
+      {
+        "chinese": "夜来风雨声，",
+        "pinyin": "yè lái fēng yǔ shēng,"
+      },
+      {
+        "chinese": "花落知多少。",
+        "pinyin": "huā luò zhī duō shǎo."
+      }
+    ],
+    "traditionalChinese": "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。",
+    "translation": "봄잠 속에서, 새벽이 눈치채지 못하게 찾아온다 — 어디서나 새들이 노래하는 소리가 들린다. 어젯밤 바람과 비 소리가 들렸고; 얼마나 많은 꽃잎이 떨어졌는지 누가 알겠는가?",
+    "background": "이 간단해 보이는 시는 중국 어린이들이 배우는 첫 번째 시 중 하나이다. 맹하오란은 봄 아침에 늦잠 자는 기분을 포착한 후, 밤새 내린 비로 쓰러진 꽃들에 대한 부드러운 멜랑콜리로 전환한다. 이 시는 8세기 초로 거슬러 올라간다.",
+    "analysis": "이 시는 감각을 통해 진행된다: 먼저 촉각(침대의 따뜻함), 그 다음 청각(새소리, 그리고 비의 소리), 마지막으로 상상(떨어진 꽃들). 마지막 질문은 열려 있다 — 시인은 일어나서 확인하지 않으며, 아름다움의 상실을 남기는 생각으로 남긴다. 편안함과 무상함 사이의 이 상호작용은 중국의 미적 감수성에서 본질적이다.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "chun-xiao"
+  },
+  {
+    "id": "P003",
+    "slug": "deng-guan-que-lou",
+    "title": "황새탑 오르기",
+    "titleChinese": "登鹳雀楼",
+    "titlePinyin": "dēng guàn què lóu",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "白日依山尽，",
+        "pinyin": "bái rì yī shān jìn,"
+      },
+      {
+        "chinese": "黄河入海流。",
+        "pinyin": "huáng hé rù hǎi liú."
+      },
+      {
+        "chinese": "欲穷千里目，",
+        "pinyin": "yù qióng qiān lǐ mù,"
+      },
+      {
+        "chinese": "更上一层楼。",
+        "pinyin": "gèng shàng yī céng lóu."
+      }
+    ],
+    "traditionalChinese": "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+    "translation": "하얀 태양이 산 뒤로 지고; 황하가 바다로 흐른다. 만약 천 리를 더 보고 싶다면, 탑의 한 층을 더 올라가라.",
+    "background": "이 시는 산시성의 황새탑에서 쓰여졌으며, 황하를 내려다보고 있다. 이 탑은 북주 시대에 처음 세워졌으며, 유명한 경치 좋은 장소였다. 이 시는 야망과 자기 개선의 속담이 되었으며 — \"한 층 더 올라가라\"는 일상 중국어에서 \"다음 수준에 도달하라\"는 의미로 사용된다.",
+    "analysis": "첫 두 줄은 광대한 파노라마를 그린다: 태양이 산 뒤로 사라지고, 강이 먼 바다로 흐른다. 두 이미지는 모두 거대함과 인간의 통제를 넘어서는 것의 흐름을 전달한다. 마지막 두 줄은 관찰에서 철학으로 전환된다: 더 멀리 보려면, 더 높이 올라가야 한다. 이 지속적인 자기 개선에 대한 은유는 이 시를 중국 문화에서 지속적인 모토로 만들었다.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-guan-que-lou"
+  },
+  {
+    "id": "P004",
+    "slug": "yong-e",
+    "title": "거위에 대한 송가",
+    "titleChinese": "咏鹅",
+    "titlePinyin": "yǒng é",
+    "poet": {
+      "name": "Luo Binwang",
+      "nameChinese": "骆宾王",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "619",
+      "deathYear": "687",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "鹅，鹅，鹅，",
+        "pinyin": "é, é, é,"
+      },
+      {
+        "chinese": "曲项向天歌。",
+        "pinyin": "qū xiàng xiàng tiān gē."
+      },
+      {
+        "chinese": "白毛浮绿水，",
+        "pinyin": "bái máo fú lǜ shuǐ,"
+      },
+      {
+        "chinese": "红掌拨清波。",
+        "pinyin": "hóng zhǎng bō qīng bō."
+      }
+    ],
+    "traditionalChinese": "鵝，鵝，鵝，曲項向天歌。白毛浮綠水，紅掌撥清波。",
+    "translation": "거위, 거위, 거위 — 너는 목을 구부리고 하늘을 향해 노래한다. 하얀 깃털이 푸른 물 위에 떠 있고; 빨간 발이 맑은 파도를 저어간다.",
+    "background": "전설에 따르면, 로우 빈왕은 일곱 살 때 노인이 거위에 대해 쓰라고 요청했을 때 이 시를 작곡했다. 이 시는 일반적으로 중국 어린이들이 배우는 첫 번째 시로, 생생한 색상, 장난기 가득한 반복, 그리고 어린아이 같은 경이로움으로 사랑받고 있다. 이 시는 약 626년경에 쓰여졌다.",
+    "analysis": "\"거위\"의 세 번의 반복은 아이의 흥분을 모방한다. 이 시는 생생한 색상 팔레트를 구축한다: 하얀 깃털, 푸른 물, 빨간 발, 맑은 파도. 각 세부 사항은 정확하고 감각적이다. 단순함에도 불구하고, 이 시는 정교한 기법을 보여준다 — 색상의 대비와 역동적인 동사(떠다니다, 저어가다)가 장면을 생생하게 만든다.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "yong-e"
+  },
+  {
+    "id": "P005",
+    "slug": "min-nong",
+    "title": "농민에 대한 동정",
+    "titleChinese": "悯农（其二）",
+    "titlePinyin": "mǐn nóng (qí èr)",
+    "poet": {
+      "name": "Li Shen",
+      "nameChinese": "李绅",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "锄禾日当午，",
+        "pinyin": "chú hé rì dāng wǔ,"
+      },
+      {
+        "chinese": "汗滴禾下土。",
+        "pinyin": "hàn dī hé xià tǔ."
+      },
+      {
+        "chinese": "谁知盘中餐，",
+        "pinyin": "shéi zhī pán zhōng cān,"
+      },
+      {
+        "chinese": "粒粒皆辛苦。",
+        "pinyin": "lì lì jiē xīn kǔ."
+      }
+    ],
+    "traditionalChinese": "鋤禾日當午，汗滴禾下土。誰知盤中餐，粒粒皆辛苦。",
+    "translation": "한낮의 태양 아래 곡물을 갈고, 땀이 작물 아래의 땅에 떨어진다. 당신의 접시에 있는 음식 — 모든 곡물은 힘든 노동의 결과라는 것을 누가 알겠는가?",
+    "background": "이 시는 음식과 그 뒤에 있는 노동을 존중하라는 도덕적 교훈이다. 거의 모든 중국 어린이가 이 시를 암송하며, 부모가 식사 시간에 자주 인용한다. 이 시는 부유한 계층과 노동 계층 간의 격차가 뚜렷했던 시기에 쓰여졌으며, 이신은 특권층에게 그들의 식사 뒤에 있는 인간의 대가를 상기시키고자 했다.",
+    "analysis": "이 시의 힘은 그 직접성에 있다. 첫 두 줄은 우리를 작물 아래의 뜨거운 태양 아래에 두며 — 우리는 열기를 느끼고 땀을 볼 수 있다. 세 번째 줄의 수사적 질문은 독자에게 직접적으로 다가가며, 죄책감이나 책임감을 느끼게 한다. 마지막 줄, \"모든 곡물\"(粒粒)의 반복은 음식이 낭비되어서는 안 된다는 점을 강조한다.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "min-nong"
+  },
+  {
+    "id": "P006",
+    "slug": "wang-lu-shan-pu-bu",
+    "title": "루산 폭포 감상",
+    "titleChinese": "望庐山瀑布",
+    "titlePinyin": "wàng lú shān pù bù",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "日照香炉生紫烟，",
+        "pinyin": "rì zhào xiāng lú shēng zǐ yān,"
+      },
+      {
+        "chinese": "遥看瀑布挂前川。",
+        "pinyin": "yáo kàn pù bù guà qián chuān."
+      },
+      {
+        "chinese": "飞流直下三千尺，",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ,"
+      },
+      {
+        "chinese": "疑是银河落九天。",
+        "pinyin": "yí shì yín hé luò jiǔ tiān."
+      }
+    ],
+    "traditionalChinese": "日照香爐生紫煙，遙看瀑布掛前川。飛流直下三千尺，疑是銀河落九天。",
+    "translation": "향로봉의 햇빛이 보라색 안개를 만들어내고, 멀리서 강 위에 걸린 폭포를 본다. 그 물줄기는 직선으로 3천 피트 아래로 떨어지며, 마치 은하수가 아홉 번째 하늘에서 떨어지는 것 같다.",
+    "background": "이 시는 리바이가 장시성의 루산을 방문하면서 썼다. \"향로봉\"은 햇빛에 비추어질 때 향 연기처럼 보이는 정상이다. 묘사된 폭포는 루산에 있는 여러 폭포 중 하나인 카이선 폭포일 가능성이 높다.",
+    "analysis": "이 시는 리바이의 전형적인 과장과 우주적 상상력을 보여준다. 진행은 현실적인 관찰(안개 위의 햇빛)에서 점점 더 환상적인 묘사로 발전한다 — 폭포는 \"커튼처럼 걸려\" 있고, \"3천 피트\" 떨어지며, 결국 하늘에서 떨어지는 은하수로 변한다. 중국 우주론에서 숫자 \"9\"는 최고를 나타내어 \"아홉 번째 하늘\"은 궁극적인 높이를 의미한다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "wang-lu-shan-pu-bu"
+  },
+  {
+    "id": "P007",
+    "slug": "chun-wang",
+    "title": "봄의 풍경",
+    "titleChinese": "春望",
+    "titlePinyin": "chūn wàng",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "国破山河在，",
+        "pinyin": "guó pò shān hé zài,"
+      },
+      {
+        "chinese": "城春草木深。",
+        "pinyin": "chéng chūn cǎo mù shēn."
+      },
+      {
+        "chinese": "感时花溅泪，",
+        "pinyin": "gǎn shí huā jiàn lèi,"
+      },
+      {
+        "chinese": "恨别鸟惊心。",
+        "pinyin": "hèn bié niǎo jīng xīn."
+      },
+      {
+        "chinese": "烽火连三月，",
+        "pinyin": "fēng huǒ lián sān yuè,"
+      },
+      {
+        "chinese": "家书抵万金。",
+        "pinyin": "jiā shū dǐ wàn jīn."
+      },
+      {
+        "chinese": "白头搔更短，",
+        "pinyin": "bái tóu sāo gèng duǎn,"
+      },
+      {
+        "chinese": "浑欲不胜簪。",
+        "pinyin": "hún yù bù shèng zān."
+      }
+    ],
+    "traditionalChinese": "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+    "translation": "국가는 무너졌지만, 산과 강은 여전히 남아 있다; 봄의 도시는 풀과 나무로 뒤덮여 있다. 시대에 감동받아 꽃들은 눈물을 가져오고; 이별을 미워하며 새의 노래는 마음을 놀라게 한다. 봉화는 3개월 내내 타올랐고; 고향에서 온 편지는 만금의 가치가 있다. 나는 점점 더 희미해지는 흰 머리를 긁적인다 — 곧 머리핀조차 잡지 못할 것이다.",
+    "background": "757년 봄에 쓰여진 이 시는 당나라를 황폐화시킨 안록산의 난(755–763) 동안에 작성되었다. 두보는 반란군이 점령한 수도 장안에 갇혀 가족과 떨어져 있었다. 이 시는 국가의 파괴를 목격하면서 사랑하는 사람들에 대한 걱정으로 고통받는 심정을 담고 있다. 중국 문학에서 가장 위대한 전쟁 시 중 하나로 여겨진다.",
+    "analysis": "첫 줄은 대조의 놀라움으로 가득 차 있다: 국가는 \"무너졌지만\" 자연은 지속된다 — 산과 강은 인간의 재앙에 무관심하다. 유명한 세 번째와 네 번째 줄에서는 아름다운 것들(꽃, 새의 노래)조차도 시인의 감정 상태가 모든 것을 변형시키기 때문에 고통의 원천이 된다. \"고향에서 온 편지는 만금의 가치가 있다\"(家书抵万金)라는 구절은 오늘날에도 여전히 사용되는 일반적인 중국 속담이 되었다.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "War & Frontier",
+    "originalSlug": "chun-wang"
+  },
+  {
+    "id": "P008",
+    "slug": "lu-chai",
+    "title": "사슴 우리",
+    "titleChinese": "鹿柴",
+    "titlePinyin": "lù zhài",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "空山不见人，",
+        "pinyin": "kōng shān bú jiàn rén,"
+      },
+      {
+        "chinese": "但闻人语响。",
+        "pinyin": "dàn wén rén yǔ xiǎng."
+      },
+      {
+        "chinese": "返景入深林，",
+        "pinyin": "fǎn jǐng rù shēn lín,"
+      },
+      {
+        "chinese": "复照青苔上。",
+        "pinyin": "fù zhào qīng tái shàng."
+      }
+    ],
+    "traditionalChinese": "空山不見人，但聞人語響。返景入深林，復照青苔上。",
+    "translation": "텅 빈 산속에서는 아무도 보이지 않지만 — 어딘가에서 목소리가 메아리친다. 돌아오는 햇빛이 깊은 숲으로 들어가고 다시 초록 이끼 위에 비춘다.",
+    "background": "이 시는 왕웨이의 \"왕천집\"(辋川集)에서 20편 중 하나로, 장안 근처 중남산의 그의 시골 저택 주변의 장면을 묘사하고 있다. 사슴 우리라는 특정 장소가 그 재산에 있었다. 왕웨이는 공식 생활에서 물러나는 동안 이 시를 작곡했으며, 선(禪) 불교의 깊은 영향을 받았다.",
+    "analysis": "이 시는 부재를 통해 분위기를 만드는 마스터 클래스이다. 보이지 않는 목소리가 있는 \"텅 빈 산\"은 역설을 만들어낸다 — 그 공허함은 진정으로 비어 있지 않다. 깊은 숲으로 들어오는 햇빛은 오직 이끼만을 비추며, 이곳에 빛(또는 사람)이 얼마나 드물게 침투하는지를 암시한다. 이 시는 겉보기에는 비어 있는 곳에서 깊은 존재를 찾는 선의 개념을 구현하고 있다.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "lu-chai"
+  },
+  {
+    "id": "P010",
+    "slug": "song-yuan-er-shi-an-xi",
+    "title": "안시로 떠나는 원이에게 작별 인사",
+    "titleChinese": "送元二使安西",
+    "titlePinyin": "sòng yuán èr shǐ ān xī",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渭城朝雨浥轻尘，",
+        "pinyin": "wèi chéng zhāo yǔ yì qīng chén,"
+      },
+      {
+        "chinese": "客舍青青柳色新。",
+        "pinyin": "kè shè qīng qīng liǔ sè xīn."
+      },
+      {
+        "chinese": "劝君更尽一杯酒，",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ,"
+      },
+      {
+        "chinese": "西出阳关无故人。",
+        "pinyin": "xī chū yáng guān wú gù rén."
+      }
+    ],
+    "traditionalChinese": "渭城朝雨浥輕塵，客舍青青柳色新。勸君更盡一杯酒，西出陽關無故人。",
+    "translation": "웨이청의 아침 비가 가벼운 먼지를 적셨고; 여관은 새로운 버드나무 색으로 신선하고 푸르르다. 나는 너에게 한 잔 더 마시라고 권한다 — 양관 서쪽에서는 더 이상 옛 친구가 없다.",
+    "background": "왕웨이는 친구 원이를 안시(현대 신장)로 외교 임무를 보내며 작별 인사를 하기 위해 이 시를 썼다. 양관(阳关)은 황량한 서부 지역으로 가기 전 마지막 관문이었다. 이 시는 나중에 \"양관 삼첩\"(阳关三叠)이라는 음악으로 편곡되어 중국 역사상 가장 유명한 작별 노래가 되었다.",
+    "analysis": "아침 비가 먼지를 씻어내며 신선하고 맑은 장면을 만들어내고, 이는 임박한 이별과 대조를 이룬다. 버드나무(柳)는 중국 문화에서 전통적인 작별 상징으로, 그 단어가 \"머무르다\"(留)와 비슷하게 들린다. 세 번째 줄의 긴급함 — \"한 잔 더 마셔라\" — 는 친구들이 마지막으로 와인을 나눌 수 있다는 것을 아는 무게를 지닌다. 마지막 줄은 간단하지만 파괴적이다: 양관 너머에는 아는 사람이 없을 것이다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "song-yuan-er-shi-an-xi"
+  },
+  {
+    "id": "P011",
+    "slug": "you-zi-yin",
+    "title": "떠도는 아들의 노래",
+    "titleChinese": "游子吟",
+    "titlePinyin": "yóu zǐ yín",
+    "poet": {
+      "name": "Meng Jiao",
+      "nameChinese": "孟郊",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "751",
+      "deathYear": "814",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "慈母手中线，",
+        "pinyin": "cí mǔ shǒu zhōng xiàn,"
+      },
+      {
+        "chinese": "游子身上衣。",
+        "pinyin": "yóu zǐ shēn shàng yī."
+      },
+      {
+        "chinese": "临行密密缝，",
+        "pinyin": "lín xíng mì mì féng,"
+      },
+      {
+        "chinese": "意恐迟迟归。",
+        "pinyin": "yì kǒng chí chí guī."
+      },
+      {
+        "chinese": "谁言寸草心，",
+        "pinyin": "shéi yán cùn cǎo xīn,"
+      },
+      {
+        "chinese": "报得三春晖。",
+        "pinyin": "bào dé sān chūn huī."
+      }
+    ],
+    "traditionalChinese": "慈母手中線，遊子身上衣。臨行密密縫，意恐遲遲歸。誰言寸草心，報得三春暉。",
+    "translation": "사랑하는 어머니의 실이 그녀의 손에 있다 — 떠나는 자식을 위한 옷. 그가 떠나기 전에, 그녀는 그가 오랫동안 돌아오지 않을까 두려워하며 촘촘하고 밀착된 바느질로 꿰맨다. 누가 말하랴, 한 뼘 풀의 마음이 세 번의 봄 햇살의 따뜻함을 갚을 수 있다고?",
+    "background": "멍자오는 46세에 마침내 제국 시험에 합격한 후 이 시를 썼다. 이 시는 수십 년의 실패와 가난 속에서도 그를 지지하고 믿어준 어머니에 대한 헌사이다. 이 시는 모성애에 관한 중국의 전형적인 시가 되었으며, 중국어를 사용하는 세계에서 어머니의 날에 낭송된다.",
+    "analysis": "이 시는 떠나는 아들을 위해 옷을 꿰매는 어머니라는 단일한 구체적 이미지를 통해 감정적 힘을 창출한다. \"촘촘하고 밀착된 바느질\"은 그녀의 불안을 드러낸다 — 마치 더 단단히 꿰매는 것이 그를 더 가깝게 유지하거나 더 오랫동안 보호할 수 있을 것처럼. 마지막 비유는 아이가 어머니에게 갚을 수 있는 능력을 세 번의 따뜻함을 위해 태양에 갚으려는 풀잎에 비유한다 — 불가능한 감사의 빚이다.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Love & Devotion",
+    "originalSlug": "you-zi-yin"
+  },
+  {
+    "id": "P014",
+    "slug": "ye-yu-ji-bei",
+    "title": "밤비 — 북쪽으로의 편지",
+    "titleChinese": "夜雨寄北",
+    "titlePinyin": "yè yǔ jì běi",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "君问归期未有期，",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī,"
+      },
+      {
+        "chinese": "巴山夜雨涨秋池。",
+        "pinyin": "bā shān yè yǔ zhǎng qiū chí."
+      },
+      {
+        "chinese": "何当共剪西窗烛，",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú,"
+      },
+      {
+        "chinese": "却话巴山夜雨时。",
+        "pinyin": "què huà bā shān yè yǔ shí."
+      }
+    ],
+    "traditionalChinese": "君問歸期未有期，巴山夜雨漲秋池。何當共剪西窗燭，卻話巴山夜雨時。",
+    "translation": "당신은 내가 언제 돌아올지 묻습니다 — 정해진 날짜는 없습니다. 바산의 밤비가 가을의 웅덩이를 불립니다. 우리가 언제 함께 서쪽 창가에서 촛불을 다듬으며, 바산의 이 밤비에 대해 이야기할까요?",
+    "background": "리샹인은 아내가 있는 장안에서 멀리 떨어진 바(쓰촨) 지역에 갇혀 이 시를 썼습니다. 그가 받은 편지에는 언제 돌아올 것인지 물었지만, 그는 대답할 수 없었습니다. 이 시는 현재(비, 외로움)와 상상된 미래(재회)가 반복되는 구절 \"바산의 밤비\"를 통해 서로 얽히는 구조로 주목받습니다.",
+    "analysis": "\"바산의 밤비\"(巴山夜雨)의 반복은 시간의 루프를 만듭니다. 현재에서 비는 우울의 원천입니다. 상상된 미래에서 그 같은 비는 사랑하는 이와 나눌 이야기가 되어 고통을 기억으로, 외로움을 친밀함으로 변모시킵니다. \"촛불을 다듬는\" 행위는 긴, 서두르지 않는 대화를 밤늦게까지 암시합니다. 이 시는 현재의 고통을 미래의 부드러움으로 바꿉니다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Love & Devotion",
+    "originalSlug": "ye-yu-ji-bei"
+  },
+  {
+    "id": "P015",
+    "slug": "qing-ming",
+    "title": "청명절",
+    "titleChinese": "清明",
+    "titlePinyin": "qīng míng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "清明时节雨纷纷，",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn,"
+      },
+      {
+        "chinese": "路上行人欲断魂。",
+        "pinyin": "lù shàng xíng rén yù duàn hún."
+      },
+      {
+        "chinese": "借问酒家何处有，",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu,"
+      },
+      {
+        "chinese": "牧童遥指杏花村。",
+        "pinyin": "mù tóng yáo zhǐ xìng huā cūn."
+      }
+    ],
+    "traditionalChinese": "清明時節雨紛紛，路上行人欲斷魂。借問酒家何處有，牧童遙指杏花村。",
+    "translation": "청명절 동안 비가 굵고 빠르게 내립니다; 도로 위의 여행자들은 영혼까지 지칩니다. \"여관은 어디에 있나요?\" 제가 묻자 — 한 목동 소년이 멀리 있는 살구꽃 마을을 가리킵니다.",
+    "background": "청명절(청명절, 또한 제사일로 불림)은 4월 초에 발생하며, 가족들이 조상의 무덤을 방문합니다. 청명절의 비는 길조로 여겨지지만, 이미 음침한 이 날을 더욱 우울하게 만듭니다. 이 시는 축제와 너무 얽혀 있어 누군가가 인용하지 않고 청명절을 언급하는 것은 사실상 불가능합니다.",
+    "analysis": "이 시는 소형 이야기를 전합니다. 비와 축제의 감정적 무게는 처음 두 줄에서 설정됩니다. 그런 다음 여행자와 목동 소년 간의 간단한 질문과 대답의 교환이 전환을 제공합니다. 마지막 이미지 — 살구꽃 이름의 먼 마을 — 는 문자 그대로의 피난처(쉬어갈 여관)와 상징적인 희망(비 너머의 아름다움)을 제공합니다. 이 시의 서사 구조는 그것이 영화의 한 장면처럼 느껴지게 만듭니다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qing-ming"
+  },
+  {
+    "id": "P016",
+    "slug": "fu-de-gu-yuan-cao-song-bie",
+    "title": "풀들",
+    "titleChinese": "赋得古原草送别",
+    "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "离离原上草，",
+        "pinyin": "lí lí yuán shàng cǎo,"
+      },
+      {
+        "chinese": "一岁一枯荣。",
+        "pinyin": "yī suì yī kū róng."
+      },
+      {
+        "chinese": "野火烧不尽，",
+        "pinyin": "yě huǒ shāo bù jìn,"
+      },
+      {
+        "chinese": "春风吹又生。",
+        "pinyin": "chūn fēng chuī yòu shēng."
+      },
+      {
+        "chinese": "远芳侵古道，",
+        "pinyin": "yuǎn fāng qīn gǔ dào,"
+      },
+      {
+        "chinese": "晴翠接荒城。",
+        "pinyin": "qíng cuì jiē huāng chéng."
+      },
+      {
+        "chinese": "又送王孙去，",
+        "pinyin": "yòu sòng wáng sūn qù,"
+      },
+      {
+        "chinese": "萋萋满别情。",
+        "pinyin": "qī qī mǎn bié qíng."
+      }
+    ],
+    "traditionalChinese": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。",
+    "translation": "끝없는 평원의 풀들 — 매년 그들은 시들고 다시 피어납니다. 들불은 그들을 태울 수 없고; 봄바람이 불면 그들은 다시 자랍니다. 그들의 먼 향기는 오래된 길에 닿고; 그들의 햇빛에 비친 초록은 폐허가 된 도시와 만납니다. 다시 한 번 친구를 배웅합니다 — 두꺼운 풀들이 이별의 슬픔으로 넘쳐납니다.",
+    "background": "바이주이는 16세에 이 시를 시험 작품으로 썼습니다. 전설에 따르면, 유명한 시인 구광이 처음 이 시를 읽었을 때, 그는 젊은 시인의 재능에 놀랐다고 합니다. \"들불은 그들을 태울 수 없고; 봄바람이 불면 그들은 다시 자랍니다\"라는 구절은 중국 문학에서 가장 많이 인용되는 구절 중 하나가 되어 불굴의 회복력을 상징합니다.",
+    "analysis": "이 시는 두 가지 수준에서 작동합니다: 자연 관찰과 작별. 풀은 생명의 지속성(불을 견디고 매년 돌아오는 것)과 슬픔의 지속성(친구가 떠날 때마다 항상 다시 자라는 것)의 은유가 됩니다. 중간 부분은 장면을 확장합니다 — 고대 도로를 따라 뻗어 있는 풀과 폐허가 된 도시를 배경으로 하여 개인적인 작별을 역사적 흐름과 연결합니다. 마지막은 작별의 특정 순간과 모든 것을 연결합니다.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "fu-de-gu-yuan-cao-song-bie"
+  },
+  {
+    "id": "P017",
+    "slug": "zao-fa-bai-di-cheng",
+    "title": "백제성에서의 이른 출발",
+    "titleChinese": "早发白帝城",
+    "titlePinyin": "zǎo fā bái dì chéng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "朝辞白帝彩云间，",
+        "pinyin": "zhāo cí bái dì cǎi yún jiān,"
+      },
+      {
+        "chinese": "千里江陵一日还。",
+        "pinyin": "qiān lǐ jiāng líng yī rì huán."
+      },
+      {
+        "chinese": "两岸猿声啼不住，",
+        "pinyin": "liǎng àn yuán shēng tí bú zhù,"
+      },
+      {
+        "chinese": "轻舟已过万重山。",
+        "pinyin": "qīng zhōu yǐ guò wàn chóng shān."
+      }
+    ],
+    "traditionalChinese": "朝辭白帝彩雲間，千里江陵一日還。兩岸猿聲啼不住，輕舟已過萬重山。",
+    "translation": "새벽에 나는 백제성을 떠나 화려한 구름 속으로; 강릉까지 천 리를 가는데 하루 만에 돌아옵니다. 양쪽 강둑에서 원숭이의 울음소리가 끊이지 않으며 — 내 가벼운 배는 이미 만산을 지나갔습니다.",
+    "background": "리바이는 759년에 이 시를 썼습니다. 그는 정치적 반란에 연루되어 외면당한 후 귀양에서 풀려났습니다. 그는 여행 중에 사면이 선언되었고, 이 시는 그가 양쯔강의 삼협을 따라 하류로 돌아가는 기쁨을 담고 있습니다. 그 기쁨은 뚜렷하게 느껴집니다.",
+    "analysis": "이 시는 속도와 기쁨으로 넘쳐납니다. \"화려한 구름\"은 아름다움 속에서 출발을 감싸고; \"하루 만에 천 리\"는 숨막히는 속도를 전달합니다. 원숭이의 울음소리는 — 중국 시에서 슬픔의 전통적인 상징 — 여기서 변형됩니다: 그들은 그를 늦출 수 없습니다. 마지막 줄의 과거 시제(\"이미 지나갔다\")는 수월함의 느낌을 만들어내며, 마치 우리가 보지 않는 사이에 산들이 스쳐 지나간 것처럼 느껴집니다. 이것은 리바이가 가장 기쁜 순간입니다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "zao-fa-bai-di-cheng"
+  },
+  {
+    "id": "P018",
+    "slug": "huang-he-lou-song-meng-hao-ran",
+    "title": "황학루에서 멍하오란을 배웅하며",
+    "titleChinese": "黄鹤楼送孟浩然之广陵",
+    "titlePinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人西辞黄鹤楼，",
+        "pinyin": "gù rén xī cí huáng hè lóu,"
+      },
+      {
+        "chinese": "烟花三月下扬州。",
+        "pinyin": "yān huā sān yuè xià yáng zhōu."
+      },
+      {
+        "chinese": "孤帆远影碧空尽，",
+        "pinyin": "gū fān yuǎn yǐng bì kōng jìn,"
+      },
+      {
+        "chinese": "唯见长江天际流。",
+        "pinyin": "wéi jiàn cháng jiāng tiān jì liú."
+      }
+    ],
+    "traditionalChinese": "故人西辭黃鶴樓，煙花三月下揚州。孤帆遠影碧空盡，唯見長江天際流。",
+    "translation": "내 오랜 친구가 서쪽 황학루에서 작별을 고하며, 3월의 안개와 꽃들 속에서, 양저우로 향합니다. 그의 외로운 돛의 먼 그림자는 푸른 하늘로 사라지고 — 내가 보는 것은 하늘의 가장자리를 향해 흐르는 양쯔강뿐입니다.",
+    "background": "리바이는 친구이자 동료 시인 멍하오란을 배웅하기 위해 이 시를 썼습니다. 멍하오란은 동쪽으로 양저우로 여행하고 있었습니다. 우한의 황학루는 중국에서 가장 유명한 랜드마크 중 하나입니다. 두 시인은 깊은 우정을 나누었고, 리바이는 나이가 많은 멍하오란을 매우 존경했습니다. 이 시는 가장 아름다운 달인 3월에 설정되어 있으며, 강가에는 꽃들이 만발해 있습니다.",
+    "analysis": "이 시는 리바이의 감정을 직접적으로 표현하지 않습니다 — 대신 그의 감정은 그가 보는 것을 통해 전달됩니다. 그는 탑에 서서 친구의 배가 돛이 수평선으로 사라질 때까지 바라보고, 배가 사라진 후에도 강이 흐르는 것을 계속 지켜봅니다. 배가 사라진 후에도 계속 바라보는 사실은 그의 애착의 깊이를 드러냅니다. 마지막 이미지 — 하늘의 가장자리까지 뻗어 있는 양쯔강 — 는 개인적인 슬픔을 우주적 광대함으로 변모시킵니다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "huang-he-lou-song-meng-hao-ran"
+  },
+  {
+    "id": "P019",
+    "slug": "deng-gao",
+    "title": "높은 곳에 오르다",
+    "titleChinese": "登高",
+    "titlePinyin": "dēng gāo",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "风急天高猿啸哀，",
+        "pinyin": "fēng jí tiān gāo yuán xiào āi,"
+      },
+      {
+        "chinese": "渚清沙白鸟飞回。",
+        "pinyin": "zhǔ qīng shā bái niǎo fēi huí."
+      },
+      {
+        "chinese": "无边落木萧萧下，",
+        "pinyin": "wú biān luò mù xiāo xiāo xià,"
+      },
+      {
+        "chinese": "不尽长江滚滚来。",
+        "pinyin": "bú jìn cháng jiāng gǔn gǔn lái."
+      },
+      {
+        "chinese": "万里悲秋常作客，",
+        "pinyin": "wàn lǐ bēi qiū cháng zuò kè,"
+      },
+      {
+        "chinese": "百年多病独登台。",
+        "pinyin": "bǎi nián duō bìng dú dēng tái."
+      },
+      {
+        "chinese": "艰难苦恨繁霜鬓，",
+        "pinyin": "jiān nán kǔ hèn fán shuāng bìn,"
+      },
+      {
+        "chinese": "潦倒新停浊酒杯。",
+        "pinyin": "liáo dǎo xīn tíng zhuó jiǔ bēi."
+      }
+    ],
+    "traditionalChinese": "風急天高猿嘯哀，渚清沙白鳥飛回。無邊落木蕭蕭下，不盡長江滾滾來。萬里悲秋常作客，百年多病獨登臺。艱難苦恨繁霜鬢，潦倒新停濁酒杯。",
+    "translation": "거센 바람, 높은 하늘, 슬픔에 울부짖는 원숭이들; 맑은 섬, 하얀 모래, 돌아다니는 새들. 끝없는 떨어지는 나뭇잎이 바스락거리고; 끝없는 양쯔강이 계속 흐른다. 집에서 만리 떨어져, 슬픈 가을의 손님으로 영원히; 백 년의 병으로, 나는 혼자서 테라스를 오른다. 고난과 쓴 후회가 내 관자놀이를 얼어붙게 했다; 지쳐서, 나는 흐릿한 술잔을 새로 포기했다.",
+    "background": "이 시는 767년 AD에 두보의 말년 동안 구이저우(현대 충칭)에서 쓰여졌다. 시인은 늙고, 병들고, 가난하며, 집에서 멀리 떨어져 있었다. 중양절 전통은 높은 곳에 오르고 술을 마시는 것이었지만, 두보는 너무 아파서 술을 마실 수 없었다. 이 시는 중국어로 쓰인 가장 위대한 규칙시(律诗)로 널리 여겨진다.",
+    "analysis": "각 연은 뛰어난 솜씨로 만들어졌다. 첫 두 줄은 빠른 연속으로 여섯 가지 이미지를 제시한다(바람, 하늘, 원숭이, 섬, 모래, 새) 이는 압도적인 감각적 경험을 만들어낸다. 세 번째와 네 번째 줄은 시의 위대한 파노라마 효과 중 하나를 달성한다: 끝없이 떨어지는 나뭇잎과 무한히 흐르는 강 — 두 이미지는 인간의 통제를 넘어가는 것들이다. 다섯 번째와 여섯 번째 줄에서 개인적인 전환은 파괴적이다: 방황과 병의 평생, 혼자 오르는 것. 마지막 연의 강제적인 절제(술조차 그에게 거부됨)는 시의 슬픔을 절대적으로 만든다.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-gao"
+  },
+  {
+    "id": "P027",
+    "slug": "hui-xiang-ou-shu",
+    "title": "귀향 — 즉흥시",
+    "titleChinese": "回乡偶书",
+    "titlePinyin": "huí xiāng ǒu shū",
+    "poet": {
+      "name": "He Zhizhang",
+      "nameChinese": "贺知章",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "659",
+      "deathYear": "744",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "少小离家老大回，",
+        "pinyin": "shào xiǎo lí jiā lǎo dà huí,"
+      },
+      {
+        "chinese": "乡音无改鬓毛衰。",
+        "pinyin": "xiāng yīn wú gǎi bìn máo shuāi."
+      },
+      {
+        "chinese": "儿童相见不相识，",
+        "pinyin": "ér tóng xiāng jiàn bù xiāng shí,"
+      },
+      {
+        "chinese": "笑问客从何处来。",
+        "pinyin": "xiào wèn kè cóng hé chù lái."
+      }
+    ],
+    "traditionalChinese": "少小離家老大回，鄉音無改鬢毛衰。兒童相見不相識，笑問客從何處來。",
+    "translation": "젊은 나이에 집을 떠나 늙어서 돌아왔다 — 고향 사투리는 변하지 않았지만, 내 머리카락은 가늘어졌다. 마을 아이들은 나를 보지만 알아보지 못한다; 웃으며 묻는다: \"손님, 어디서 오셨나요?\"",
+    "background": "허즈장(He Zhizhang)은 50년 이상 수도 장안에서 관직을 수행한 후 고향인 용흥(현대 저장성)으로 돌아오면서 이 시를 썼다. 86세에 그는 마침내 은퇴하고 집으로 돌아갔지만, 아무도 그를 알아보지 못했다. 고향에서 낯선 사람이 되는 씁쓸한 유머는 중국 문화 전반에 깊이 공감되었다.",
+    "analysis": "이 시의 감정적 영향은 정체성과 인식 사이의 간극에서 온다. 시인은 자신이 누구인지 알고 있다 — 그의 사투리는 변하지 않았지만 — 시간은 그를 알아볼 수 없을 정도로 변화시켰다. 아이들의 순진한 질문은 기쁘기 때문에 파괴적이다: 그들은 친근한 손님을 보고, 돌아온 고향 사람을 보지 않는다. 이 시는 인생의 가장 잔인한 아이러니 중 하나를 포착한다: 집에 돌아갈 수는 있지만, 집은 더 이상 당신을 알지 못할 수 있다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "hui-xiang-ou-shu"
+  },
+  {
+    "id": "P030",
+    "slug": "jiang-jin-jiu",
+    "title": "술을 가져와라",
+    "titleChinese": "将进酒",
+    "titlePinyin": "jiāng jìn jiǔ",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "君不见，黄河之水天上来，",
+        "pinyin": "jūn bú jiàn, huáng hé zhī shuǐ tiān shàng lái,"
+      },
+      {
+        "chinese": "奔流到海不复回。",
+        "pinyin": "bēn liú dào hǎi bù fù huí."
+      },
+      {
+        "chinese": "君不见，高堂明镜悲白发，",
+        "pinyin": "jūn bú jiàn, gāo táng míng jìng bēi bái fà,"
+      },
+      {
+        "chinese": "朝如青丝暮成雪。",
+        "pinyin": "zhāo rú qīng sī mù chéng xuě."
+      },
+      {
+        "chinese": "人生得意须尽欢，",
+        "pinyin": "rén shēng dé yì xū jìn huān,"
+      },
+      {
+        "chinese": "莫使金樽空对月。",
+        "pinyin": "mò shǐ jīn zūn kōng duì yuè."
+      },
+      {
+        "chinese": "天生我材必有用，",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng,"
+      },
+      {
+        "chinese": "千金散尽还复来。",
+        "pinyin": "qiān jīn sàn jìn hái fù lái."
+      },
+      {
+        "chinese": "烹羊宰牛且为乐，",
+        "pinyin": "pēng yáng zǎi niú qiě wéi lè,"
+      },
+      {
+        "chinese": "会须一饮三百杯。",
+        "pinyin": "huì xū yī yǐn sān bǎi bēi."
+      },
+      {
+        "chinese": "岑夫子，丹丘生，",
+        "pinyin": "cén fū zǐ, dān qiū shēng,"
+      },
+      {
+        "chinese": "将进酒，杯莫停。",
+        "pinyin": "jiāng jìn jiǔ, bēi mò tíng."
+      },
+      {
+        "chinese": "与君歌一曲，",
+        "pinyin": "yǔ jūn gē yī qǔ,"
+      },
+      {
+        "chinese": "请君为我倾耳听。",
+        "pinyin": "qǐng jūn wèi wǒ qīng ěr tīng."
+      },
+      {
+        "chinese": "钟鼓馔玉不足贵，",
+        "pinyin": "zhōng gǔ zhuàn yù bù zú guì,"
+      },
+      {
+        "chinese": "但愿长醉不愿醒。",
+        "pinyin": "dàn yuàn cháng zuì bù yuàn xǐng."
+      },
+      {
+        "chinese": "古来圣贤皆寂寞，",
+        "pinyin": "gǔ lái shèng xián jiē jì mò,"
+      },
+      {
+        "chinese": "惟有饮者留其名。",
+        "pinyin": "wéi yǒu yǐn zhě liú qí míng."
+      },
+      {
+        "chinese": "陈王昔时宴平乐，",
+        "pinyin": "chén wáng xī shí yàn píng lè,"
+      },
+      {
+        "chinese": "斗酒十千恣欢谑。",
+        "pinyin": "dǒu jiǔ shí qiān zì huān xuè."
+      },
+      {
+        "chinese": "主人何为言少钱，",
+        "pinyin": "zhǔ rén hé wéi yán shǎo qián,"
+      },
+      {
+        "chinese": "径须沽取对君酌。",
+        "pinyin": "jìng xū gū qǔ duì jūn zhuó."
+      },
+      {
+        "chinese": "五花马，千金裘，",
+        "pinyin": "wǔ huā mǎ, qiān jīn qiú,"
+      },
+      {
+        "chinese": "呼儿将出换美酒，",
+        "pinyin": "hū ér jiāng chū huàn měi jiǔ,"
+      },
+      {
+        "chinese": "与尔同销万古愁。",
+        "pinyin": "yǔ ěr tóng xiāo wàn gǔ chóu."
+      }
+    ],
+    "traditionalChinese": "君不見，黃河之水天上來，奔流到海不復回。君不見，高堂明鏡悲白髮，朝如青絲暮成雪。人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。烹羊宰牛且為樂，會須一飲三百杯。岑夫子，丹丘生，將進酒，杯莫停。與君歌一曲，請君為我傾耳聽。鐘鼓饌玉不足貴，但願長醉不願醒。古來聖賢皆寂寞，惟有飲者留其名。陳王昔時宴平樂，斗酒十千恣歡謔。主人何為言少錢，徑須沽取對君酌。五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。",
+    "translation": "하늘에서 오는 황하의 물이 바다로 급류처럼 흐르고, 다시는 돌아오지 않는 것을 보지 못하겠는가? 높은 전당의 거울이 슬픔에 흰 머리를 비추는 것을 보지 못하겠는가 — 새벽의 검은 실크, 저녁의 눈? 인생이 잘 풀릴 때, 최대한 즐겨라; 달빛 아래 빈 금잔을 두지 마라. 하늘은 나에게 사용해야 할 재능을 주었다; 천 금을 썼다면 모두 다시 돌아올 것이다. 양고기를 구워라, 소를 도살하고 즐겨라 — 우리는 한 번에 300잔을 마셔야 한다! 센 선생님, 젊은 단추 — 술을 가져와라, 잔을 멈추지 마라! 노래를 부르게 해줘 — 제발 귀를 빌려 듣고 들어라. 종, 북, 맛있는 음식과 옥은 내가 소중히 여기는 것이 아니다 — 나는 단지 취해 있고 싶고 결코 깨어나고 싶지 않다. 고대부터 지혜자와 현자들은 모두 잊혀졌다 — 오직 위대한 술꾼들만이 이름을 남긴다. 진왕은 한때 쾌락궁에서 잔치를 열어, 술에 만금을 쓰고 자유롭게 즐겼다. 왜 우리의 주인은 돈이 부족하다고 말하는가? 그냥 더 많은 술을 사서 함께 마시자! 내 얼룩말, 내 천 금의 모피 코트 — 소년을 불러서 꺼내고 좋은 술과 바꾸게 하여, 함께 만 년의 슬픔을 녹여버리자.",
+    "background": "이 시는 이백의 가장 유명한 음주 시이자 중국에서 가장 위대한 시 중 하나이다. 그는 752년경 친구인 센쉰과 단추를 방문하면서 이 시를 썼다. 이 시는 죽음 앞에서의 삶을 거부하는 축하로, 부와 지위의 전통적 가치에 대한 반란이며, 현재 순간을 충만하게 살기 위한 열정적인 주장을 담고 있다.",
+    "analysis": "이 시는 중국 시에서 가장 웅장한 두 가지 이미지로 시작된다: 하늘에서 흐르는 황하와 하루 만에 검은 머리가 흰 머리로 변하는 것. 두 이미지는 삶이 지나가는 무서운 속도를 전달한다. 이 존재론적 위기에서 이백은 절망이 아닌 황홀함으로 전환한다 — 인생이 짧다면, 지금 기쁨을 잡아라. 상승은 끊임없다: 300잔을 마시고, 멈추지 말고, 말과 모피를 더 많은 술로 바꿔라. \"天生我材必有用\" (하늘이 나에게 재능을 주었으니 반드시 사용해야 한다)라는 구절은 중국어에서 가장 동기 부여가 되는 문구 중 하나가 되었고, \"与尔同销万古愁\" (함께 만 년의 슬픔을 녹여버리자)는 시의 반항적인 정신을 포착한다.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "jiang-jin-jiu"
+  },
+  {
+    "id": "P020",
+    "slug": "qiantang-lake-spring-walk",
+    "title": "Qiantang 호수의 봄 산책",
+    "titleChinese": "钱塘湖春行",
+    "titlePinyin": "Qián Táng Hú Chūn Xíng",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "孤山寺北贾亭西，",
+        "pinyin": "gū shān sì běi jiǎ tíng xī,"
+      },
+      {
+        "chinese": "水面初平云脚低。",
+        "pinyin": "shuǐ miàn chū píng yún jiǎo dī."
+      },
+      {
+        "chinese": "几处早莺争暖树，",
+        "pinyin": "jǐ chù zǎo yīng zhēng nuǎn shù,"
+      },
+      {
+        "chinese": "谁家新燕啄春泥。",
+        "pinyin": "shuí jiā xīn yàn zhuó chūn ní."
+      },
+      {
+        "chinese": "乱花渐欲迷人眼，",
+        "pinyin": "luàn huā jiàn yù mí rén yǎn,"
+      },
+      {
+        "chinese": "浅草才能没马蹄。",
+        "pinyin": "qiǎn cǎo cái néng mò mǎ tí."
+      },
+      {
+        "chinese": "最爱湖东行不足，",
+        "pinyin": "zuì ài hú dōng xíng bù zú,"
+      },
+      {
+        "chinese": "绿杨阴里白沙堤。",
+        "pinyin": "lǜ yáng yīn lǐ bái shā dī."
+      }
+    ],
+    "traditionalChinese": "孤山寺北賈亭西，水面初平雲腳低。幾處早鶯爭暖樹，誰家新燕啄春泥。亂花漸欲迷人眼，淺草才能沒馬蹄。最愛湖東行不足，綠楊陰裏白沙堤。",
+    "translation": "고독한 언덕 사원 북쪽, 가정각 서쪽, 수면이 방금 평평해지고, 낮은 구름이 파도를 스친다. 여기저기, 이른 직박구리가 따뜻한 나무를 차지하고; 누가 봄 진흙을 쪼고 있는 제비인가? 야생 꽃들이 점차 눈부시게 변하고; 얕은 풀은 말의 발굽을 겨우 가린다. 내가 가장 사랑하는 것은 호수의 동쪽으로, 나는 결코 충분히 걷지 않는다 — 푸른 버드나무 그늘 속의 하얀 모래 길이다.",
+    "background": "이 시는 822년경 백거이가 항저우의 주지사로 재직할 때 쓰여졌으며, 이른 봄의 서호(Qiantang 호수)의 아름다움을 포착하고 있다. 백거이는 서호의 열렬한 애호가였으며, 오늘날에도 그의 이름을 딴 유명한 제방(백제방)을 세웠다.",
+    "analysis": "이 시는 이른 봄의 정확한 순간을 포착하는 마스터 클래스이다. 각 연은 새로운 감각적 세부 사항을 추가한다: 상승한 수위, 경쟁하는 직박구리, 둥지를 짓는 제비, 피어나는 꽃, 그리고 어린 풀. 먼 풍경에서 가까운 세부 사항으로의 진행은 호수를 둘러싼 영화 같은 산책을 만든다. 마지막 연은 시인이 이 장소에 대한 깊은 개인적 애착을 드러낸다.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qiantang-lake-spring-walk"
+  },
+  {
+    "id": "P021",
+    "slug": "untitled-hard-to-meet",
+    "title": "무제 — 만나기 힘들고 헤어지기 힘들다",
+    "titleChinese": "无题·相见时难别亦难",
+    "titlePinyin": "Wú Tí · Xiāng Jiàn Shí Nán Bié Yì Nán",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "相见时难别亦难，",
+        "pinyin": "xiāng jiàn shí nán bié yì nán,"
+      },
+      {
+        "chinese": "东风无力百花残。",
+        "pinyin": "dōng fēng wú lì bǎi huā cán."
+      },
+      {
+        "chinese": "春蚕到死丝方尽，",
+        "pinyin": "chūn cán dào sǐ sī fāng jìn,"
+      },
+      {
+        "chinese": "蜡炬成灰泪始干。",
+        "pinyin": "là jù chéng huī lèi shǐ gān."
+      },
+      {
+        "chinese": "晓镜但愁云鬓改，",
+        "pinyin": "xiǎo jìng dàn chóu yún bìn gǎi,"
+      },
+      {
+        "chinese": "夜吟应觉月光寒。",
+        "pinyin": "yè yín yīng jué yuè guāng hán."
+      },
+      {
+        "chinese": "蓬山此去无多路，",
+        "pinyin": "péng shān cǐ qù wú duō lù,"
+      },
+      {
+        "chinese": "青鸟殷勤为探看。",
+        "pinyin": "qīng niǎo yīn qín wèi tàn kàn."
+      }
+    ],
+    "traditionalChinese": "相見時難別亦難，東風無力百花殘。春蠶到死絲方盡，蠟炬成灰淚始乾。曉鏡但愁雲鬢改，夜吟應覺月光寒。蓬山此去無多路，青鳥殷勤為探看。",
+    "translation": "만나기 힘들고 헤어지기 힘들다; 동풍은 무력하고, 백 가지 꽃이 시들어간다. 봄 누에가 죽을 때까지 실을 잣고; 촛불의 눈물은 재가 될 때까지 마른다. 아침 거울 앞에서, 그녀는 구름 같은 머리카락이 변할까 걱정한다; 밤에 시를 읊으며, 그녀는 달빛의 차가움을 느껴야 한다. 여기서 펑라이 산까지의 길은 멀지 않다 — 푸른 새가 부지런히 가서 나를 찾아주길 바란다.",
+    "background": "이 시는 리상인의 가장 유명한 사랑 시로, 아마도 840년대에 쓰여졌을 것이다. 리상인의 \"무제\" 시는 모호함으로 유명하다 — 금지된 사랑, 정치적 좌절, 또는 영적 갈망을 언급할 수 있다. 세 번째 연(“봄 누에”와 “촛불의 눈물”)은 모든 중국 시에서 가장 인용되는 구절 중 하나가 되었다.",
+    "analysis": "이 시의 천재성은 그 층위가 있는 은유에 있다. 누에의 실(丝/sī)은 그리움(思/sī)과 동음이의어이므로, \"누에가 죽을 때까지 실을 잣는다\"는 것은 \"내 그리움은 죽음으로 끝난다\"는 의미이다. 촛불이 왁스 눈물을 흘리는 것은 연인의 끝없는 슬픔을 반영한다. 모든 이미지는 죽음에 이르는 헌신의 주제를 강화한다. 마지막 연은 서쪽의 여왕의 신화적인 푸른 새 전령을 통해 희망을 소개하며, 불가능한 거리에도 불구하고 사랑이 연결을 추구한다는 것을 암시한다.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Love & Longing",
+    "originalSlug": "untitled-hard-to-meet"
+  },
+  {
+    "id": "P022",
+    "slug": "mountain-walk",
+    "title": "Mountain Walk",
+    "titleChinese": "山行",
+    "titlePinyin": "Shān Xíng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "远上寒山石径斜，",
+        "pinyin": "yuǎn shàng hán shān shí jìng xié,"
+      },
+      {
+        "chinese": "白云生处有人家。",
+        "pinyin": "bái yún shēng chù yǒu rén jiā."
+      },
+      {
+        "chinese": "停车坐爱枫林晚，",
+        "pinyin": "tíng chē zuò ài fēng lín wǎn,"
+      },
+      {
+        "chinese": "霜叶红于二月花。",
+        "pinyin": "shuāng yè hóng yú èr yuè huā."
+      }
+    ],
+    "traditionalChinese": "遠上寒山石徑斜，白雲生處有人家。停車坐愛楓林晚，霜葉紅於二月花。",
+    "translation": "차가운 산 위에서 돌길이 구불구불 이어지고, 흰 구름이 솟아오르는 곳에 집들이 있다. 나는 황홀한 단풍 숲에 매료되어 마차를 멈춘다 — 서리로 덮인 잎은 2월의 꽃보다 더 붉다.",
+    "background": "이 시는 가을 소풍 중에 쓰여졌으며, 두 무의 산길 여행을 담고 있다. 두 무는 두 보와 구별하기 위해 \"작은 두\"(小杜)로 알려져 있으며, 그의 우아하고 생생한 사구로 유명하다. 이 시는 가을 풍경에 대한 중국 시의 정수를 이루게 되었다.",
+    "analysis": "단 네 줄로 두 무는 완전한 여행을 창조한다: 구불구불한 길, 구름 속의 먼 집들, 갑작스러운 정지, 그리고 숨막히는 계시. 마지막 줄은 시의 천재성을 보여준다 — 가을의 붉은 단풍잎을 봄의 꽃과 비교하여, 일반적으로 가을을 슬퍼하고 봄을 찬양하는 중국 시 전통을 전복한다. \"坐\"(zuò, \"때문에\")라는 단어는 시인이 멈추지 않을 수 없음을 보여주며, 쉬기로 선택한 것이 아님을 나타낸다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "mountain-walk"
+  },
+  {
+    "id": "P023",
+    "slug": "visiting-old-friends-farm",
+    "title": "Visiting an Old Friend\\",
+    "titleChinese": "过故人庄",
+    "titlePinyin": "Guò Gù Rén Zhuāng",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人具鸡黍，",
+        "pinyin": "gù rén jù jī shǔ,"
+      },
+      {
+        "chinese": "邀我至田家。",
+        "pinyin": "yāo wǒ zhì tián jiā."
+      },
+      {
+        "chinese": "绿树村边合，",
+        "pinyin": "lǜ shù cūn biān hé,"
+      },
+      {
+        "chinese": "青山郭外斜。",
+        "pinyin": "qīng shān guō wài xié."
+      },
+      {
+        "chinese": "开轩面场圃，",
+        "pinyin": "kāi xuān miàn chǎng pǔ,"
+      },
+      {
+        "chinese": "把酒话桑麻。",
+        "pinyin": "bǎ jiǔ huà sāng má."
+      },
+      {
+        "chinese": "待到重阳日，",
+        "pinyin": "dài dào chóng yáng rì,"
+      },
+      {
+        "chinese": "还来就菊花。",
+        "pinyin": "hái lái jiù jú huā."
+      }
+    ],
+    "traditionalChinese": "故人具雞黍，邀我至田家。綠樹村邊合，青山郭外斜。開軒面場圃，把酒話桑麻。待到重陽日，還來就菊花。",
+    "translation": "내 오랜 친구가 닭과 기장을 준비하고, 그의 농가로 나를 초대했다. 푸른 나무들이 마을을 둘러싸고; 푸른 산들이 외벽 너머로 기울어져 있다. 우리는 정원과 타작마당을 바라보며 창문을 열고, 와인을 마시며 오디와 대마에 대해 이야기한다. 중구절이 돌아오는 이중구절이 오면, 나는 국화를 즐기기 위해 돌아올 것이다.",
+    "background": "이 시는 친구의 시골 집을 간단히 방문한 것을 담고 있다. 멍 하오란은 평생의 대부분을 후베이 고향 근처에서 은둔자로 살았으며, 전원 생활의 위대한 시인으로 알려져 있다. 많은 당나라 시인들이 관직을 추구한 것과 달리, 멍 하오란은 자연 가까이에서 살기를 선택했으며, 이 시는 그의 전원적 만족의 이상을 구현하고 있다.",
+    "analysis": "이 시의 아름다움은 완벽한 단순함에 있다. 웅장한 은유도, 철학적 명상도 없다 — 단지 친구의 초대, 좋은 음식, 아름다운 경치, 와인, 농사에 대한 대화, 그리고 돌아올 것이라는 약속만이 있다. 중구절은 푸른 나무들이 마을을 둘러싸고, 그 너머에 산들이 있는 전원적인 장면을 그린다. 이 시의 따뜻함은 완전한 허세의 부재에서 오며, 중국 문학에서 가장 사랑받는 우정 시 중 하나가 되었다.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "visiting-old-friends-farm"
+  },
+  {
+    "id": "P024",
+    "slug": "seeing-off-xin-jian-at-lotus-tower",
+    "title": "Seeing Off Xin Jian at Lotus Tower",
+    "titleChinese": "芙蓉楼送辛渐",
+    "titlePinyin": "Fú Róng Lóu Sòng Xīn Jiàn",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "寒雨连江夜入吴，",
+        "pinyin": "hán yǔ lián jiāng yè rù wú,"
+      },
+      {
+        "chinese": "平明送客楚山孤。",
+        "pinyin": "píng míng sòng kè chǔ shān gū."
+      },
+      {
+        "chinese": "洛阳亲友如相问，",
+        "pinyin": "luò yáng qīn yǒu rú xiāng wèn,"
+      },
+      {
+        "chinese": "一片冰心在玉壶。",
+        "pinyin": "yī piàn bīng xīn zài yù hú."
+      }
+    ],
+    "traditionalChinese": "寒雨連江夜入吳，平明送客楚山孤。洛陽親友如相問，一片冰心在玉壺。",
+    "translation": "차가운 비가 강과 합쳐져 밤에 우로 들어가고; 새벽에 나는 친구를 배웅하며, 추산이 홀로 서 있다. 만약 뤄양의 친구와 가족이 나에 대해 묻는다면 — 내 마음은 옥 항아리 속의 얼음처럼 순수하다.",
+    "background": "742년경, 왕 창링이 수도에서 멀리 남쪽에 주둔할 때 쓰여졌다. 그의 친구 신젠은 뤄양으로 돌아가고 있었고, 왕 창링은 연꽃 탑에서 이 작별 인사를 지었다(현재의 장쑤성 진장). \"칠자 사구의 성인\"으로 알려진 왕 창링은 이 시점에서 수도에서 강등된 후 소소한 직책에 있었다.",
+    "analysis": "이 시는 광대함에서 친밀함으로 이동한다: 강 위의 밤비, 새벽의 외로운 산, 그리고 개인적인 메시지. 마지막 줄 — \"一片冰心在玉壶\" (옥 항아리 속의 얼음 같은 마음) — 도덕적 순수함의 고전적인 표현이 되었다. 강등과 유배에도 불구하고 왕 창링의 마음은 부패하지 않는다. \"옥 속의 얼음\" 비유는 투명성과 귀중함을 전달하며, 그의 상황을 초월한 정직의 선언이다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "seeing-off-xin-jian-at-lotus-tower"
+  },
+  {
+    "id": "P025",
+    "slug": "the-fisherman",
+    "title": "The Fisherman",
+    "titleChinese": "渔翁",
+    "titlePinyin": "Yú Wēng",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渔翁夜傍西岩宿，",
+        "pinyin": "yú wēng yè bàng xī yán sù,"
+      },
+      {
+        "chinese": "晓汲清湘燃楚竹。",
+        "pinyin": "xiǎo jí qīng xiāng rán chǔ zhú."
+      },
+      {
+        "chinese": "烟销日出不见人，",
+        "pinyin": "yān xiāo rì chū bù jiàn rén,"
+      },
+      {
+        "chinese": "欸乃一声山水绿。",
+        "pinyin": "ǎi nǎi yī shēng shān shuǐ lǜ."
+      },
+      {
+        "chinese": "回看天际下中流，",
+        "pinyin": "huí kàn tiān jì xià zhōng liú,"
+      },
+      {
+        "chinese": "岩上无心云相逐。",
+        "pinyin": "yán shàng wú xīn yún xiāng zhú."
+      }
+    ],
+    "traditionalChinese": "漁翁夜傍西巖宿，曉汲清湘燃楚竹。煙銷日出不見人，欸乃一聲山水綠。回看天際下中流，巖上無心雲相逐。",
+    "translation": "늙은 어부는 서쪽 절벽 옆에서 밤에 잠을 자고; 새벽에 그는 맑은 샹 강의 물을 끌어올리고, 추 대나무를 태운다. 안개가 걷히고 해가 뜨면, 그는 어디에도 보이지 않는다 — 그의 노 젓는 소리와 함께 산과 물이 푸르게 변한다. 하늘의 가장자리를 돌아보면, 그는 중류에서 떠다니고; 절벽 위에서, 걱정 없는 구름들이 서로를 쫓는다.",
+    "background": "이 시는 810년경 리우 종위안이 용주(현대의 후난)에서 유배 중에 쓰여졌다. 정치 개혁 실패로 수도에서 추방된 후, 리우 종위안은 10년을 외딴 남쪽에서 보냈다. 이 시는 그의 정신 상태를 반영한다 — 어부는 실제 인물이자 세속적 걱정에서의 자유를 갈망하는 시인의 투영이다.",
+    "analysis": "네 번째 줄은 중국 시에서 가장 유명한 줄 중 하나이다: \"欸乃一声山水绿\" — 노 젓는 소리 하나로 갑자기 전체 풍경이 푸르게 변한다. 이는 감각의 걸작이다: 소리가 색으로 변한다. 어부는 풍경의 영혼처럼 나타났다 사라진다. \"무심한 구름\"(无心云)이 서로를 쫓는 마지막 이미지는 의도 없이 행동하는 이상적인 도교적 상태를 상징한다. 수 시는 나중에 마지막 구절이 불필요하다고 제안했지만, 대부분의 독자들은 그 사색적인 마무리를 소중히 여긴다.",
+    "form": "Seven-character Ancient Verse (七言古诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "the-fisherman"
+  },
+  {
+    "id": "P026",
+    "slug": "song-of-liangzhou",
+    "title": "Song of Liangzhou",
+    "titleChinese": "凉州词",
+    "titlePinyin": "Liáng Zhōu Cí",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "黄河远上白云间，",
+        "pinyin": "huáng hé yuǎn shàng bái yún jiān,"
+      },
+      {
+        "chinese": "一片孤城万仞山。",
+        "pinyin": "yī piàn gū chéng wàn rèn shān."
+      },
+      {
+        "chinese": "羌笛何须怨杨柳，",
+        "pinyin": "qiāng dí hé xū yuàn yáng liǔ,"
+      },
+      {
+        "chinese": "春风不度玉门关。",
+        "pinyin": "chūn fēng bù dù yù mén guān."
+      }
+    ],
+    "traditionalChinese": "黃河遠上白雲間，一片孤城萬仞山。羌笛何須怨楊柳，春風不度玉門關。",
+    "translation": "황하가 흰 구름 속으로 멀리 솟아오르고; 외로운 요새 도시가 만 피 높이의 산들 사이에 서 있다. 왜 장악 플루트가 버드나무를 불평해야 하는가? 봄바람은 결코 옥문을 넘지 않는다.",
+    "background": "당나라의 가장 위대한 변방 시 중 하나이다. 왕 지환은 북서쪽 국경에 주둔할 때 이 시를 썼다. 량저우(현대의 우웨이, 간쑤)는 실크로드의 변방 주둔 도시였다. 옥문(玉门关)은 중국 제국의 서쪽 경계를 나타내며, 그 너머에는 중앙 아시아의 광활한 사막이 있다.",
+    "analysis": "이 시는 가능한 가장 웅장한 이미지에서 시작된다 — 황하가 구름 속으로 흐르는 것처럼 보인다 — 그리고 군인의 플루트 소리로 이어진다. 세 번째 줄의 \"버드나무\"는 전통적으로 이별할 때 연주되는 민속 노래 \"버드나무 부러뜨리기\"(折杨柳)를 참조한다. 마지막 줄은 그 단순함에서 파괴적이다: 봄바람(온기, 문명, 고향)은 문자 그대로 이 통과를 넘어 도달할 수 없다. 이는 변방 군인들의 외로움을 표현하며, 그 절제된 표현이 더욱 강력하게 만든다.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "War & Frontier",
+    "originalSlug": "song-of-liangzhou"
+  }
+]

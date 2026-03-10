@@ -6,6 +6,8 @@ import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles'
 import { getAllSlangTerms } from '@/src/lib/slang';
 import { getAllPhrases } from '@/src/lib/phrases';
 import { getAllCharacterPages } from '@/src/lib/characters';
+import { getAllPoems } from '@/src/lib/poems';
+import { getAllPoets } from '@/src/lib/poets';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -169,7 +171,41 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages];
+    // Poem pages
+    const allPoems = getAllPoems();
+    const poemPages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/poems`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...allPoems.map(poem => ({
+        url: `${baseUrl}/poems/${poem.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+    ];
+
+    // Poet pages
+    const allPoets = getAllPoets();
+    const poetPages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/poets`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...allPoets.map(poet => ({
+        url: `${baseUrl}/poets/${poet.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.85,
+      })),
+    ];
+
+    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages];
   }
 
   // Sitemap 1: English listicles
@@ -314,6 +350,42 @@ export default async function sitemap(props: {
   for (const char of langCharPages) {
     entries.push({
       url: `${baseUrl}/${lang}/characters/${char.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.75,
+    });
+  }
+
+  // Language poet pages
+  entries.push({
+    url: `${baseUrl}/${lang}/poets`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  const langPoets = getAllPoets();
+  for (const poet of langPoets) {
+    entries.push({
+      url: `${baseUrl}/${lang}/poets/${poet.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    });
+  }
+
+  // Language poem pages
+  entries.push({
+    url: `${baseUrl}/${lang}/poems`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
+
+  const langPoems = getAllPoems();
+  for (const poem of langPoems) {
+    entries.push({
+      url: `${baseUrl}/${lang}/poems/${poem.slug}`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.75,

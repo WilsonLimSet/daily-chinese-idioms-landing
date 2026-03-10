@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "不滅の詩人 (诗仙)",
+    "bio": "Li Bai (701–762) は、中国史上最も偉大なロマン派詩人として広く知られており、杜甫と並び唐代詩の二大巨頭の一人です。シルクロード沿いのスヤブ（現在のキルギス）で生まれ、四川省で育ちました。科挙には合格しませんでしたが、742年頃に玄宗皇帝の宮廷に一時的に召喚されたものの、すぐに解任されました。",
+    "style": "Li Bai の詩は、大胆な想像力、無理のない自然さ、そして宇宙的な壮大さが特徴です。彼はしばしば誇張表現（「三千丈」、「天から落ちる天の川」）を用いますが、それは無理強いされたものではなく、どこか自然に感じられます。彼の詩は、親密な親愛の情と広大な景色、酔った時の奔放さと深い孤独の間を行き来します。彼は道教哲学に大きく影響を受けました。",
+    "legacy": "Li Bai の中国文学への影響は計り知れません。彼は数え切れないほどの伝説の主題となっています。川に映る月を抱きしめようとして溺死したとか、酔った状態で傑作を作ることができたとか、天界から「追放された仙人」だったとか。彼の詩は、すべての中国人学童によって暗記されています。「诗仙」（詩仙）という表現は、千年以上もの間、彼の称号となっています。",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "私のベッドの前で、明るい月光が輝く — それは…かしら",
+        "from": "Quiet Night Thought (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "天は私に才能を与えた、それは使われなければならない。千の金貨を使ったとしても、すべて再び戻ってくるだろう",
+        "from": "Bring in the Wine (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "その奔流はまっすぐに三千丈も落下する — まるで天の川が九天から落ちてくるかのようだ",
+        "from": "Viewing the Waterfall at Mount Lu (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "詩聖 (诗圣)",
+    "bio": "Du Fu (712–770) は、中国史上最も偉大な現実主義詩人として崇められており、李白と並び中国詩の最高の人物として位置づけられています。河南の学者一家に生まれ、長年官僚の道を追求しましたが、科挙に何度も失敗しました。彼の人生は、数百万人が死亡し、唐王朝の黄金時代を打ち砕いた壊滅的な安史の乱（755–763）によって覆されました。",
+    "style": "Du Fu の詩は、その技術的な完璧さ、道徳的な真剣さ、そして揺るぎない思いやりによって定義されます。彼は律詩の第一人者として認められており、中国文学において比類のない密度と精度を実現しています。彼の作品は、親密な家庭の場面から、戦争と離散の広大なパノラマまで多岐にわたります。Li Bai のひらめきに満ちた自然さとは異なり、Du Fu の才能は入念な創造にあります。",
+    "legacy": "Du Fu は生前は広く称賛されませんでしたが、宋代までには中国最高の詩人として認められました。彼の称号「诗圣」（詩聖）は、彼の道徳的な地位と技術的な熟練度の両方を反映しています。彼の「三吏」と「三別」の詩は、中国最高の戦争詩と見なされています。成都の彼の草堂は、現在主要な博物館および文化遺産となっています。Du Fu の影響は…",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "国は破れたが、山河は残る。春の都は草木が生い茂る",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "烽火は三ヶ月も燃え続けている。故郷からの手紙は万金に値する",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "果てしなく落ちる木の葉がサラサラと音を立てる。尽きることのない揚子江は、絶え間なく流れ続ける",
+        "from": "Climbing High (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "詩仏",
+    "bio": "Wang Wei (701–761) は唐の時代の詩人、音楽家、画家、政治家であり、その作品は芸術、自然、仏教の精神性の交差点を示しています。Shanxi省で生まれ、若い頃に最高の科挙に合格し、生涯を通じて様々な政府の役職を務めました。妻の死後、再婚することはなく、ますます禅仏教に傾倒していきました。",
+    "style": "Wang Weiの詩は、瞑想的な静けさ、感覚的な正確さ、精神的な深さで賞賛されています。Su Shi (Su Dongpo) は彼について「彼の詩には絵があり、彼の絵には詩がある」（诗中有画，画中有诗）と述べました。彼の自然詩は、仏教の実践を反映した光に満ちた静けさを実現しており、光、影、音、そして一見単純な観察の中に深い意味を見出しています。",
+    "legacy": "Wang Weiは、Li Bai、Du Fuと並ぶ「唐の三大詩人」の一人であり、中国の風景詩を代表する人物です。彼の称号「诗佛」（詩仏）は、彼の作品の精神的な側面を反映しています。彼の影響は中国絵画にも及び、中国山水画の南宗の創始者として伝統的に認められています。彼の「Wang River Collection」（辋川集）は重要視されています。",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "人影は見えない静かな山の中、どこからか声が聞こえる",
+        "from": "Deer Enclosure (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "もう一杯酒を勧めるよ。Yang Passの西では、もう昔からの友人に会えないだろうから",
+        "from": "Farewell to Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "民衆の詩人",
+    "bio": "Bai Juyi (772–846) は、唐の時代で最も多作で人気のある詩人の一人であり、庶民にも理解できる明瞭で分かりやすい文体で書くことで知られています。伝説によると、彼は自分の詩を老婆に読み聞かせ、彼女が理解できない箇所はすべて修正したと言われています。彼は順調な官僚としてのキャリアを積み、高い地位にまで昇りつめましたが、政府への率直な批判のために追放されました。",
+    "style": "Bai Juyiは、詩はすべての人にアクセス可能な社会的な解説として役立つべきだと考え、意図的に平易で直接的な文体を培いました。彼の「New Yuefu」（新乐府）の詩は、汚職、徴兵、貧困、富裕層の贅沢など、社会的不正に直接的に言及しました。このような分かりやすさにもかかわらず、彼の最高の作品は、驚くべき感情的な深さと物語の力を実現しています。彼の長いバラードは、物語の要素と抒情的な要素を組み合わせています。",
+    "legacy": "Bai Juyiは生前から非常に人気があり、彼の詩は中国全土の壁に書き写され、街中で歌われました。彼の影響は特に日本で強く、何世紀にもわたって中国最大の詩人（Li BaiやDu Fuよりも人気がありました）と見なされていました。彼の明瞭さと社会的な関連性への重点は、中国の作家の世代に影響を与えました。「Song of Everlasting Regret」は広く知られています。",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "野火は焼き尽くすことができず、春風が吹くと再び生えてくる",
+        "from": "Grasses (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "平原の果てしない草、毎年枯れてはまた茂る",
+        "from": "Grasses (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "比喩の達人",
+    "bio": "Li Shangyin (813–858) は、豊かな比喩と感情的に複雑な詩で知られる晩唐の詩人でした。没落した士族の家に生まれ、幼い頃から文学的な才能を発揮し、後援者の助けを得て科挙に合格しました。しかし、彼は派閥政治に巻き込まれ、ある政治派閥の娘との結婚が他の派閥を遠ざけ、事実上彼のキャリアを終わらせました。",
+    "style": "Li Shangyinの詩は、意味の重層性、豊かなイメージ、感情的な曖昧さで知られています。彼の「無題詩」（无题诗）は、中国文学において最も議論されている作品の一つであり、学者たちは何世紀にもわたって、それがロマンチックな愛、政治的な寓意、あるいは精神的な憧れを描いているのかについて議論してきました。彼の詩は、官能的なイメージ（ろうそく、雨、絹、玉）、複雑な比喩を特徴としています。",
+    "legacy": "Li Shangyinは、Du Muとともに、「小李杜」（小李杜）として知られており、「大李杜」（Li BaiとDu Fu）を彷彿とさせます。中国の恋愛詩に対する彼の影響は深く、ろうそく、雨、別れた恋人たちのイメージは、永続的な文学的慣習となりました。彼の「春蚕到死丝方尽」（春蚕の糸は死んで初めて尽きる）という一節は、中国における献身の最も有名な表現の一つとして残っています。",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "いつ帰るのかと尋ねても、日付は決まっていません。巴山の夜の雨が秋の池を膨らませる",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "いつになったら西の窓辺でろうそくを灯し、今夜の雨について語り合えるだろうか？",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "小杜",
+    "bio": "Du Mu (803–852) は、優雅でしばしば憂鬱な詩と、鋭い歴史的解説で知られる晩唐の詩人であり随筆家でした。著名な家に生まれ（祖父のDu Youは首相であり歴史家でした）、科挙に合格し、さまざまな政府の役職を務めました。彼はその機知、美に対する鑑賞眼、そして歴史的な衰退に対する鋭い認識で知られていました。",
+    "style": "Du Muの詩は、その優雅さ、鮮やかなイメージ、そして官能的な美と歴史的な憂鬱の独特な融合を特徴としています。彼の四行詩は、唐代で最も優れたものの一つと考えられており、それぞれが感情的なひねりを加えた完璧に作られたミニチュア絵画です。彼は、過去の栄光と現在の衰退のコントラストに痛切さを感じ、歴史的変化のレンズを通して現代の風景を見ることに優れていました。",
+    "legacy": "Li Shangyinとともに、Du Muは「小李杜」（小李杜）として知られています。彼の「清明」の詩は、清明節と永続的に結びついており、中国で清明節を祝う際に引用されるのを聞かないことは事実上不可能です。彼の初期の王朝の衰退に関する歴史的な詩は、衰退しつつある唐王朝に対する解説として読まれ、予言的な共鳴を与えました。",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "清明節の間、雨が激しく降り注ぎ、道を行く旅人は魂まで疲れている",
+        "from": "Qingming Festival (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "「酒場はどこにあるのか？」— 羊飼いの少年が杏花村を指し示す",
+        "from": "Qingming Festival (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "隠遁詩人",
+    "bio": "Meng Haoran (689–740) は、唐代で最も著名な田園および自然詩人の一人でした。主要な唐の詩人の中で唯一、彼は政府の役職に就くことはなく、代わりに田舎での隠遁生活と旅を選びました。彼はLi Baiに深く尊敬され、彼を称賛する有名な詩を書きました。彼は官僚としてのキャリアを求めて長安に旅行しましたが、試験に失敗し、謁見も叶いませんでした。",
+    "style": "Meng Haoranの詩は、その自然なシンプルさ、本物の感情、そして田園の美しさで賞賛されています。彼は唐詩の「山水田園」学派を代表する人物です。彼の詩は、勉強されたものではなく、自発的に感じられ、自然の美しさの瞬間を、より学識のある詩人が羨むほどの新鮮さで捉えています。Li Baiは彼の「清らかな詩」が「世俗的な世界を超越した」と賞賛しました。彼の最高の詩は",
+    "legacy": "Meng HaoranはWang Weiと並んで、中国の田園詩の頂点を代表する自然詩の「Wang-Meng」（王孟）学派とされています。彼の「春暁」は、中国の子供たちが最初に学ぶ詩の一つであり、あらゆる言語の中で最も広く知られている詩の一つとなっています。官僚の世界の外での生活を選んだことは、隠遁詩人の生き方を理想化した中国の文人たちに世代を超えて影響を与えました。",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "春眠暁を覚えず、処処啼鳥を聞く",
+        "from": "Spring Morning (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "昨夜風雨の声、花落つること知る多少ぞ",
+        "from": "Spring Morning (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "七言絶句の名手 (七绝圣手)",
+    "bio": "Wang Changling (698–756) は、七言絶句の最高の達人と見なされている盛唐の詩人でした。彼は科挙に合格し、さまざまな役職を務めましたが、政治的な挫折を経験し、2度も遠隔地の南部に左遷されました。文学的な名声にもかかわらず、彼は困難な官僚生活を送りました。彼は安史の乱の混乱の中で、嫉妬深い地元の役人によって殺害されました。",
+    "style": "Wang Changlingの専門は七言絶句（七言绝句）であり、彼はその中で「七言絶句の聖人」（七绝圣手）という称号を得るほどの完璧さを達成しました。彼の辺境詩は、武道の精神と、兵士への深い同情を組み合わせ、好戦的な栄光と敗北主義的な絶望の両方を避けています。彼の宮廷詩と別れの詩は、同様の熟練度を示しています。それぞれの絶句は正確に",
+    "legacy": "Wang Changlingの「出塞」は、常に書かれた中で最も偉大な唐の絶句の一つとしてランク付けされています。その冒頭の行である「秦時の明月、漢時の関」は、中国の詩の中で最も認識されている行の一つです。彼の絶句形式の習得は、そのジャンルで活動したすべての後続の詩人に影響を与えました。彼の辺境詩は、中国が",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "秦時の明月、漢時の関 — 兵は万里を征きて未だ還らず",
+        "from": "Out on the Frontier (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "もし飛将軍あらば、胡馬をして陰山を越えしめじ",
+        "from": "Out on the Frontier (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "風景散文の大家",
+    "bio": "Liu Zongyuan (773–819) は唐代の随筆家、詩人、政治改革者であり、「唐宋八大家」の一人に数えられています。長安の貴族の家に生まれ、若い頃に科挙に合格し、政府内で急速に昇進しました。805年、彼は政治改革運動に参加しましたが、わずか146日で失敗に終わりました。改革者たちは処罰されました。",
+    "style": "Liu Zongyuanの詩と散文は、追放の経験を最高の芸術へと変貌させます。彼の風景随筆（「永州八記」）は、古典中国における最高の自然散文とみなされており、正確な観察と哲学的な深さを兼ね備えています。彼の詩は、量は少ないものの、並外れた効果を上げています。「江雪」は、わずか20文字で凍てついた世界全体を創造しています。",
+    "legacy": "Liu Zongyuanの「江雪」（江雪）は、視覚的に最も象徴的な中国の詩の一つであり、中国の絵画や書道で無限に再現されています。凍てついた風景の中の一人の漁師のイメージは、主義のある孤独の普遍的なシンボルとなっています。彼の散文随筆は、中国の風景描写の基準を確立し、明清時代を通じて自然随筆の伝統全体に影響を与えました。",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "千の山から鳥は消え、一万の道から人の痕跡は消えた",
+        "from": "River Snow (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "一艘の小舟、蓑をまとった老人が一人、冷たい川の雪の中で釣りをしている",
+        "from": "River Snow (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "先見の明のある詩人",
+    "bio": "Wang Zhihuan (688–742) は、中国文学史上最も注目すべき事例の一つです。彼の名声は、わずか6編の現存する詩に由来し、そのうち2編は中国文学全体で最も有名なものにランクされています。山西省で生まれ、地方の官職に就いていましたが、生涯の多くを北部辺境地域を旅して過ごしました。他の主要な唐代の詩人と比較して、彼の伝記についてはほとんど知られていません。",
+    "style": "Wang Zhihuanの現存する詩は、その広大なビジョン、大胆なイメージ、そして非常に圧縮された形式で達成された哲学的な深さが特徴です。彼の2つの傑作である「登鹳雀楼」と「涼州詞」は、どちらも広大な風景のパノラマを描き出し、人間の願望や辺境の孤独についての深遠なステートメントへと転換します。彼のビジョンは宇宙規模で作用します。流れゆく川...",
+    "legacy": "Wang Zhihuanは、文学的な不滅には量ではなく質が必要であることを証明しています。「登鹳雀楼」（登鹳雀楼）は、中国で最も引用される詩の一つとなっており、最後の行「更上一层楼」（もう一層上に登る）は、教育からビジネスまで、あらゆる分野での継続的な改善のための諺として使用されています。「涼州詞」（凉州词）は、決定的な辺境の詩とみなされています。彼の作品は、一つの...",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "さらに千里を見たいなら、楼閣のもう一層上に登れ",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "白い太陽は山の後ろに沈み、黄河は海へと流れ込む",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "Nhà thơ bất tử (诗仙)",
+    "bio": "Li Bai (701–762) được coi là nhà thơ lãng mạn vĩ đại nhất trong lịch sử Trung Quốc và là một trong hai nhân vật nổi bật của thơ Đường bên cạnh Du Fu. Sinh ra ở Suyab (ở Kyrgyzstan hiện đại) dọc theo Con đường tơ lụa, ông lớn lên ở tỉnh Tứ Xuyên. Ông không bao giờ thành công trong kỳ thi tuyển chọn quan chức nhưng đã được triệu tập đến triều đình của Hoàng đế Xuánzōng vào khoảng năm 742, chỉ để bị sa thải sau hai năm — được cho là vì hành vi không theo quy chuẩn và uống rượu. Ông đã dành phần lớn cuộc đời để du lịch khắp Trung Quốc, sáng tác thơ và xây dựng một danh tiếng huyền thoại về thiên tài, tính lập dị và rượu.",
+    "style": "Thơ của Li Bai được đặc trưng bởi trí tưởng tượng táo bạo, sự tự phát dễ dàng và cảm giác vĩ đại của vũ trụ. Ông thường sử dụng phóng đại (\"ba ngàn bộ\", \"dòng sông Ngân Hà rơi từ thiên đường\") mà cảm giác tự nhiên chứ không bị ép buộc. Thơ của ông di chuyển giữa sự thân mật dịu dàng và những cảnh quan rộng lớn, giữa sự say sưa và nỗi cô đơn sâu sắc. Ông đã rút ra nhiều từ triết lý và thần thoại Đạo giáo, và tác phẩm tốt nhất của ông có một chất lượng gần như siêu nhiên — như thể những từ ngữ đã đến với hình thức hoàn chỉnh. Không giống như sự tỉ mỉ trong tác phẩm của Du Fu, thiên tài của Li Bai dường như là nguồn cảm hứng thuần khiết.",
+    "legacy": "Ảnh hưởng của Li Bai đối với văn học Trung Quốc là không thể đo đếm. Ông là chủ đề của vô số huyền thoại — rằng ông đã chết đuối khi cố gắng ôm lấy hình ảnh của mặt trăng trong một dòng sông, rằng ông có thể sáng tác kiệt tác khi say rượu, rằng ông là một \"bất tử bị lưu đày\" từ thiên đường. Những bài thơ của ông được mọi học sinh Trung Quốc thuộc lòng. Cụm từ \"诗仙\" (Nhà thơ-bất tử) đã là danh hiệu của ông trong hơn một ngàn năm. Tác phẩm của ông đã được dịch ra hầu hết mọi ngôn ngữ lớn và tiếp tục truyền cảm hứng cho các nhà thơ trên toàn thế giới. Ở Trung Quốc, ông đại diện cho lý tưởng của thiên tài nghệ thuật được giải phóng khỏi những ràng buộc thế tục.",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "Trước giường tôi, ánh trăng sáng rực — Tôi tự hỏi liệu nó\\",
+        "from": "Suy nghĩ đêm yên tĩnh (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "Trời đã ban cho tôi tài năng cần phải được sử dụng; một ngàn đồng vàng tiêu đi sẽ lại trở về",
+        "from": "Mang rượu vào (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "Dòng thác đổ thẳng xuống ba ngàn bộ — như thể Ngân Hà đang rơi từ thiên đường thứ chín",
+        "from": "Ngắm thác nước ở núi Lư (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "Nhà thơ hiền triết (诗圣)",
+    "bio": "Du Fu (712–770) được tôn kính như nhà thơ hiện thực vĩ đại nhất trong lịch sử Trung Quốc và đứng bên cạnh Li Bai như nhân vật tối cao của thơ Trung Quốc. Sinh ra trong một gia đình học giả ở Hà Nam, ông đã dành nhiều năm theo đuổi sự nghiệp quan chức nhưng liên tục thất bại trong các kỳ thi. Cuộc đời ông bị đảo lộn bởi cuộc nổi dậy An Lushan (755–763) tàn khốc, đã giết chết hàng triệu người và phá hủy thời kỳ hoàng kim của triều đại Đường. Du Fu đã trải qua chiến tranh một cách trực tiếp — bị bắt, chạy trốn, nghèo đói và mất một đứa con vì đói. Ông đã dành những năm cuối đời lang thang ở miền tây nam Trung Quốc trong tình trạng sức khỏe kém, qua đời trên một chiếc thuyền trên sông Xiang ở tuổi 58.",
+    "style": "Thơ của Du Fu được xác định bởi sự hoàn hảo kỹ thuật, sự nghiêm túc về đạo đức và lòng từ bi không lay chuyển. Ông là bậc thầy được công nhận của thể thơ quy định (律诗), đạt được hiệu ứng độ dày và độ chính xác không ai sánh kịp trong văn học Trung Quốc. Tác phẩm của ông trải dài từ những cảnh gia đình thân mật đến những bức tranh rộng lớn về chiến tranh và sự di dời. Không giống như sự tự phát đầy cảm hứng của Li Bai, thiên tài của Du Fu nằm ở sự tỉ mỉ trong nghệ thuật — ông được cho là đã nói \"Tôi sẽ không nghỉ ngơi cho đến khi những từ của tôi có thể làm người khác giật mình\" (语不惊人死不休). Thơ muộn của ông đạt được sự nén lại và chiều sâu cảm xúc mà các nhà phê bình sau này coi là đỉnh cao của nghệ thuật.",
+    "legacy": "Du Fu không được tôn vinh rộng rãi trong suốt cuộc đời, nhưng đến thời Tống, ông đã được công nhận là nhà thơ tối cao của Trung Quốc. Danh hiệu \"诗圣\" (Nhà thơ hiền triết) phản ánh cả phẩm giá đạo đức và sự thành thạo kỹ thuật của ông. Những bài thơ \"Ba quan chức\" và \"Ba lời từ biệt\" của ông được coi là thơ chiến tranh hay nhất trong văn học Trung Quốc. Ngôi nhà tranh của ông ở Thành Đô hiện nay là một bảo tàng và địa điểm văn hóa lớn. Ảnh hưởng của Du Fu vượt xa Trung Quốc — ở Nhật Bản, ông được coi là nhà thơ vĩ đại nhất từng sống, và tác phẩm của ông đã hình thành truyền thống văn học Đông Á trong hơn một thiên niên kỷ.",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "Quốc gia tan vỡ, mặc dù núi non và sông ngòi vẫn còn; thành phố vào mùa xuân mọc đầy cỏ",
+        "from": "Cảnh xuân (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "Lửa hiệu đã cháy trong ba tháng; một bức thư từ nhà có giá trị mười ngàn đồng vàng",
+        "from": "Cảnh xuân (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "Những chiếc lá rơi vô tận xào xạc rơi xuống; dòng sông Dương Tử cuồn cuộn chảy mãi",
+        "from": "Leo cao (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "Nhà thơ Phật (诗佛)",
+    "bio": "Wang Wei (701–761) là một nhà thơ, nhạc sĩ, họa sĩ và chính trị gia thời Đường, tác phẩm của ông thể hiện sự giao thoa giữa nghệ thuật, thiên nhiên và tâm linh Phật giáo. Sinh ra ở tỉnh Sơn Tây, ông đã vượt qua kỳ thi tuyển chọn quan chức cao nhất khi còn trẻ và phục vụ trong nhiều vị trí chính phủ trong suốt cuộc đời. Sau cái chết của vợ, ông không tái hôn và ngày càng quay sang Phật giáo Thiền (Zen). Ông đã thành lập một nơi nghỉ dưỡng trên núi ở Wangchuan (辋川) trong dãy núi Trung Nam, nơi ông sáng tác nhiều bài thơ nổi tiếng nhất của mình.",
+    "style": "Thơ của Wang Wei được ca ngợi vì sự tĩnh lặng thiền định, độ chính xác cảm giác và chiều sâu tâm linh. Su Shi (Su Dongpo) nổi tiếng đã nói về ông: \"Trong những bài thơ của ông có tranh, và trong những bức tranh của ông có thơ\" (诗中有画，画中有诗). Thơ về thiên nhiên của ông đạt được sự yên tĩnh rực rỡ phản ánh thực hành Phật giáo của ông — tìm thấy ý nghĩa sâu sắc trong những quan sát dường như đơn giản về ánh sáng, bóng tối, âm thanh và sự im lặng. Những cảnh quan của ông cảm thấy như được sinh sống bởi một ý thức hoàn toàn hiện diện nhưng hoàn toàn bình yên.",
+    "legacy": "Wang Wei là một trong \"Ba nhà thơ vĩ đại của triều Đường\" bên cạnh Li Bai và Du Fu, và là nhân vật định hình của thơ phong cảnh Trung Quốc. Danh hiệu \"诗佛\" (Nhà thơ Phật) phản ánh chiều kích tâm linh trong tác phẩm của ông. Ảnh hưởng của ông mở rộng đến hội họa Trung Quốc — ông được cho là người sáng lập Trường phái hội họa phong cảnh Nam Trung Quốc. Tập thơ \"Wang River Collection\" (辋川集) được coi là một trong những chuỗi thơ vĩ đại nhất trong văn học Trung Quốc. Những bài thơ của ông tiếp tục được nghiên cứu như những mô hình về cách nghệ thuật có thể diễn đạt ý thức thiền định.",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "Trong những ngọn núi trống trải, không ai có thể thấy — nhưng tiếng vọng từ đâu đó",
+        "from": "Khu vực hươu (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "Tôi khuyên bạn uống thêm một chén rượu nữa — phía tây của ải Dương, bạn sẽ không có bạn cũ nào",
+        "from": "Tạm biệt Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "Nhân Dân",
+    "bio": "Bai Juyi (772–846) là một trong những nhà thơ nổi tiếng và sáng tác nhiều nhất của triều đại Đường, nổi tiếng với phong cách viết rõ ràng, dễ hiểu mà người dân thường có thể tiếp cận. Huyền thoại nói rằng ông thường đọc thơ cho một bà lão và sửa đổi bất cứ điều gì mà bà không hiểu. Ông có một sự nghiệp công chức thành công, thăng tiến đến những vị trí cao trước khi bị lưu đày vì chỉ trích mạnh mẽ chính sách của chính phủ. Những bài thơ tường thuật của ông, đặc biệt là \"Bài Ca Vĩnh Biệt\" (长恨歌) về Hoàng đế Xuánzōng và Dương Quý Phi, là một trong những tác phẩm được yêu thích nhất trong văn học Trung Quốc.",
+    "style": "Bai Juyi cố ý phát triển một phong cách đơn giản, trực tiếp, tin rằng thơ ca nên phục vụ như một bình luận xã hội có thể tiếp cận với tất cả mọi người. Những bài thơ \"Tân Nhạc Phú\" (新乐府) của ông đã trực tiếp đề cập đến những bất công xã hội — tham nhũng, nghĩa vụ quân sự, nghèo đói và sự phung phí của giới giàu có. Mặc dù có tính tiếp cận này, tác phẩm tốt nhất của ông đạt được độ sâu cảm xúc và sức mạnh tường thuật đáng kể. Những bài ballad dài của ông kết hợp kỹ năng kể chuyện với vẻ đẹp trữ tình, trong khi những bài thơ ngắn hơn của ông chứng minh rằng sự đơn giản và sâu sắc không loại trừ lẫn nhau.",
+    "legacy": "Bai Juyi rất nổi tiếng trong suốt cuộc đời của ông — những bài thơ của ông được sao chép trên tường và hát trên đường phố khắp Trung Quốc. Ảnh hưởng của ông đặc biệt mạnh mẽ ở Nhật Bản, nơi ông được coi là nhà thơ Trung Quốc vĩ đại nhất trong nhiều thế kỷ (nổi tiếng hơn cả Li Bai hay Du Fu). Sự nhấn mạnh của ông về sự rõ ràng và tính xã hội đã ảnh hưởng đến nhiều thế hệ nhà văn Trung Quốc. \"Bài Ca Vĩnh Biệt\" đã được chuyển thể thành opera, phim và tiểu thuyết. Câu thơ nổi tiếng của ông \"Lửa hoang không thể thiêu rụi chúng; gió xuân thổi và chúng lại mọc lên\" từ \"Cỏ\" vẫn là một trong những câu được trích dẫn nhiều nhất trong văn học Trung Quốc.",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "Lửa hoang không thể thiêu rụi chúng; gió xuân thổi và chúng lại mọc lên",
+        "from": "Cỏ (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "Cỏ vô tận trên đồng — mỗi năm chúng héo úa và lại nở hoa",
+        "from": "Cỏ (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "Bậc Thầy của Ẩn Dụ",
+    "bio": "Li Shangyin (813–858) là một nhà thơ cuối triều đại Đường nổi tiếng với những vần thơ giàu ẩn dụ, phức tạp về mặt cảm xúc. Sinh ra trong một gia đình quý tộc đang suy tàn, ông đã thể hiện tài năng văn học từ sớm và vượt qua kỳ thi hoàng gia nhờ sự giúp đỡ của một người bảo trợ. Tuy nhiên, ông đã bị mắc kẹt trong chính trị phe phái — cuộc hôn nhân của ông với con gái của một phe phái chính trị đã làm cho phe phái kia xa lánh, hiệu quả chấm dứt cơ hội thăng tiến của ông. Ông đã trải qua sự nghiệp của mình trong các chức vụ tỉnh lẻ nhỏ, chịu đựng sự thất vọng chính trị và nỗi buồn cá nhân, bao gồm cái chết sớm của vợ ông.",
+    "style": "Thơ của Li Shangyin nổi tiếng với những lớp nghĩa dày đặc, hình ảnh phong phú và sự mơ hồ về mặt cảm xúc. Những bài thơ \"Không Đặt Tên\" (无题诗) của ông là một trong những tác phẩm gây tranh cãi nhất trong văn học Trung Quốc — các học giả đã tranh luận trong nhiều thế kỷ về việc liệu chúng mô tả tình yêu lãng mạn, ẩn dụ chính trị hay khát vọng tâm linh. Thơ của ông được đặc trưng bởi hình ảnh gợi cảm (nến, mưa, lụa, ngọc), những ẩn dụ phức tạp về thần thoại và lịch sử, và một vẻ đẹp u buồn gợi ý những ý nghĩa chỉ nằm ngoài tầm với. Ông đã đẩy ngôn ngữ thơ ca Trung Quốc lên những mức độ phức tạp và tinh vi mới.",
+    "legacy": "Li Shangyin, cùng với Du Mu, được biết đến với tên gọi \"Tiểu Li và Du\" (小李杜), phản ánh \"Đại Li và Du\" (Li Bai và Du Fu). Ảnh hưởng của ông đối với thơ tình Trung Quốc là sâu sắc — hình ảnh của ông về nến, mưa và những người yêu xa đã trở thành những quy ước văn học lâu dài. Câu thơ của ông \"Chỉ đến khi chết, sợi chỉ của silkworm mùa xuân mới kết thúc\" (春蚕到死丝方尽) vẫn là một trong những biểu hiện nổi tiếng nhất về lòng trung thành trong văn học Trung Quốc. Các học giả và độc giả hiện đại tiếp tục tìm thấy những diễn giải mới trong những vần thơ cố ý mơ hồ của ông.",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "Bạn hỏi khi nào tôi sẽ trở lại — không có ngày nào được ấn định. Mưa đêm trên núi Ba làm đầy những hồ thu",
+        "from": "Mưa Đêm — Thư Gửi Phương Bắc (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "Khi nào chúng ta sẽ ngồi cùng nhau cắt nến bên cửa sổ phía tây, và nói về đêm mưa này?",
+        "from": "Mưa Đêm — Thư Gửi Phương Bắc (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "Tiểu Du (小杜)",
+    "bio": "Du Mu (803–852) là một nhà thơ và nhà văn cuối triều đại Đường nổi tiếng với những vần thơ thanh lịch, thường mang tâm trạng u buồn và những bình luận sắc bén về lịch sử. Sinh ra trong một gia đình danh giá — ông nội của ông, Du You, là một thủ tướng và nhà sử học — ông đã vượt qua kỳ thi hoàng gia và phục vụ trong nhiều chức vụ chính phủ khác nhau. Ông nổi tiếng với sự thông minh, sự đánh giá cao cái đẹp và sự nhận thức sắc bén về sự suy tàn lịch sử. Những bài tiểu luận của ông về chiến lược quân sự cũng được đánh giá cao.",
+    "style": "Thơ của Du Mu được đặc trưng bởi sự thanh lịch, hình ảnh sống động và sự kết hợp độc đáo giữa vẻ đẹp gợi cảm với nỗi buồn lịch sử. Những bài thơ bốn dòng của ông được coi là một trong những tác phẩm tuyệt nhất của triều đại Đường — mỗi bài là một bức tranh mini được chế tác hoàn hảo với một khúc quanh cảm xúc. Ông xuất sắc trong việc nhìn nhận những cảnh tượng hiện tại qua lăng kính của sự thay đổi lịch sử, tìm thấy sự xúc động trong sự tương phản giữa vinh quang quá khứ và sự suy tàn hiện tại. Phong cách của ông tinh tế và kiểm soát hơn so với Li Bai, với một nỗi buồn mà chỉ riêng ông mới có.",
+    "legacy": "Cùng với Li Shangyin, Du Mu được biết đến với tên gọi \"Tiểu Li và Du\" (小李杜). Bài thơ \"Thanh Minh\" của ông đã trở thành gắn liền với Lễ Hội Dọn Dẹp Mộ — gần như không thể quan sát Thanh Minh ở Trung Quốc mà không nghe thấy nó được trích dẫn. Những bài thơ lịch sử của ông về sự suy tàn của các triều đại trước đó đã được đọc như những bình luận về sự suy tàn của triều đại Đường, mang lại cho chúng một ý nghĩa tiên tri. Những bài thơ bốn dòng của ông được nghiên cứu như những mẫu mực của thể loại, và câu thơ của ông \"牧童遥指杏花村\" (cậu bé chăn cừu chỉ về làng Hoa Mơ) đã đi vào tâm trí người Trung Quốc như một hình mẫu của vẻ đẹp thôn quê.",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "Trong Lễ Hội Thanh Minh, mưa rơi dày và nhanh; những người lữ hành trên đường mệt mỏi đến tận tâm hồn",
+        "from": "Lễ Hội Thanh Minh (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "\"Tôi có thể tìm thấy quán rượu ở đâu?\" — một cậu bé chăn cừu chỉ về làng Hoa Mơ",
+        "from": "Lễ Hội Thanh Minh (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "Nhà thơ ẩn sĩ",
+    "bio": "Meng Haoran (689–740) là một trong những nhà thơ nổi bật nhất về đồng quê và thiên nhiên của triều đại Đường. Khác biệt với các nhà thơ lớn khác của Đường, ông không bao giờ giữ chức vụ chính phủ chính thức, mà chọn một cuộc sống ẩn dật ở nông thôn và du lịch. Ông được Li Bai rất ngưỡng mộ, người đã viết một bài thơ nổi tiếng ca ngợi ông. Ông đã đến Trường An để tìm kiếm sự nghiệp chính thức nhưng đã thất bại trong kỳ thi, và cuộc gặp gỡ với Hoàng đế Xuánzōng được cho là đã diễn ra không tốt khi ông đọc một bài thơ mà hoàng đế cho là thiếu tôn trọng. Ông trở về quê hương ở Hồ Bắc và sống giữa núi non và sông nước.",
+    "style": "Thơ của Meng Haoran được ca ngợi vì sự đơn giản tự nhiên, cảm xúc chân thật và vẻ đẹp đồng quê. Ông là nhân vật định hình của trường phái \"núi và đồng ruộng\" (山水田园) trong thơ Đường. Thơ của ông cảm giác như không được học tập và tự phát, nắm bắt những khoảnh khắc của vẻ đẹp tự nhiên với sự tươi mới mà các nhà thơ học thức hơn phải ghen tị. Li Bai đã ca ngợi \"thơ trong sáng\" của ông, mà \"vượt lên trên thế giới trần tục.\" Những bài thơ hay nhất của ông đạt được hiệu quả của chúng thông qua sự khiêm tốn — gợi ý cảm xúc sâu sắc thông qua những quan sát dường như đơn giản về thiên nhiên.",
+    "legacy": "Meng Haoran được ghép đôi với Wang Wei như trường phái thơ đồng quê \"Wang-Meng\" (王孟), đại diện cho đỉnh cao của thơ đồng quê Trung Quốc. Bài thơ \"Buổi sáng mùa xuân\" (春晓) của ông là một trong những bài thơ đầu tiên mà mọi đứa trẻ Trung Quốc học, khiến nó trở thành một trong những bài thơ được biết đến rộng rãi nhất trong bất kỳ ngôn ngữ nào. Sự lựa chọn cuộc sống bên ngoài chính quyền của ông đã ảnh hưởng đến nhiều thế hệ trí thức Trung Quốc, những người lý tưởng hóa lối sống của nhà thơ ẩn sĩ. Sự ngưỡng mộ của Li Bai dành cho ông đã đảm bảo danh tiếng lâu dài của ông — được Li Bai ca ngợi là sự xác nhận văn học tối thượng.",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "In spring sleep, dawn arrives unnoticed — everywhere I hear the birds singing",
+        "from": "Buổi sáng mùa xuân (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "Last night came the sound of wind and rain; who knows how many petals have fallen?",
+        "from": "Buổi sáng mùa xuân (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "Bậc thầy của thơ bốn câu bảy chữ (七绝圣手)",
+    "bio": "Wang Changling (698–756) là một nhà thơ thời Đường cao, được coi là bậc thầy tối cao của thể thơ bốn câu bảy chữ. Ông đã vượt qua kỳ thi hoàng gia và phục vụ trong nhiều chức vụ nhưng đã gặp phải những trở ngại chính trị, bị giáng chức hai lần đến các vùng xa xôi phía nam. Mặc dù nổi tiếng về văn học, ông đã sống một cuộc sống chính thức khó khăn. Ông đã bị giết trong cuộc hỗn loạn của cuộc nổi dậy An Lushan bởi một quan chức địa phương ghen tị — một cái kết bi thảm và mỉa mai cho một nhà thơ đã viết rất cảm động về sự lãng phí của chiến tranh.",
+    "style": "Chuyên môn của Wang Changling là thơ bốn câu bảy chữ (七言绝句), trong đó ông đạt được sự hoàn hảo đã mang lại cho ông danh hiệu \"Thánh của thơ bốn câu bảy chữ\" (七绝圣手). Những bài thơ biên giới của ông kết hợp tinh thần võ thuật với lòng thương cảm sâu sắc dành cho những người lính bình thường, tránh cả vinh quang chủ nghĩa dân tộc và sự tuyệt vọng của kẻ thất bại. Những bài thơ cung điện và thơ từ biệt của ông cũng thể hiện sự thành thạo tương đương. Mỗi bài thơ bốn câu được xây dựng chính xác, với một bước ngoặt kịch tính ở những dòng cuối cùng mang lại tác động cảm xúc tối đa trong không gian tối thiểu.",
+    "legacy": "Bài thơ \"Ra ngoài biên giới\" (出塞) của Wang Changling luôn được xếp hạng trong số những bài thơ bốn câu Đường vĩ đại nhất từng được viết. Dòng mở đầu của nó — \"Cùng một mặt trăng chiếu sáng ở Tần, cùng một lối đi từ Hán\" — là một trong những dòng được công nhận nhiều nhất trong thơ Trung Quốc. Sự thành thạo của ông trong thể thơ bốn câu đã ảnh hưởng đến mọi nhà thơ tiếp theo làm việc trong thể loại này. Thơ biên giới của ông đã thiết lập một khuôn mẫu cho cách văn học Trung Quốc đề cập đến chi phí nhân đạo của chiến tranh — với phẩm giá, lòng thương cảm và một cảm giác sắc bén về quan điểm lịch sử.",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "The same moon that shone in Qin, the same passes from the Han — soldiers marched ten thousand miles and have not returned",
+        "from": "Ra ngoài biên giới (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "If only the Flying General were here, he would never let the enemy horses cross Yin Mountain",
+        "from": "Ra ngoài biên giới (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "Bậc thầy của văn phong phong cảnh",
+    "bio": "Liu Zongyuan (773–819) là một nhà văn, nhà thơ và nhà cải cách chính trị của triều đại Đường, được xếp vào nhóm \"Tám bậc thầy văn phong vĩ đại của Đường và Tống\" (唐宋八大家). Sinh ra trong một gia đình quý tộc ở Trường An, ông đã vượt qua kỳ thi hoàng gia khi còn trẻ và nhanh chóng thăng tiến trong chính phủ. Năm 805, ông tham gia vào một phong trào cải cách chính trị nhưng đã thất bại chỉ sau 146 ngày. Những người cải cách đã bị trừng phạt nghiêm khắc — Liu Zongyuan bị lưu đày đến Yongzhou (Hunan hiện đại) và sau đó đến Liuzhou (Quảng Tây hiện đại), nơi ông đã sống 14 năm còn lại của cuộc đời trong sự cô lập.",
+    "style": "Thơ và văn của Liu Zongyuan biến trải nghiệm lưu đày thành nghệ thuật cao cấp nhất. Những bài tiểu luận phong cảnh của ông (\"Tám ghi chép về Yongzhou\") được coi là văn phong thiên nhiên tinh túy nhất trong tiếng Trung cổ, kết hợp quan sát chính xác với chiều sâu triết lý. Thơ của ông, mặc dù ít về số lượng, đạt được những hiệu ứng phi thường — \"Tuyết sông\" tạo ra một thế giới đông lạnh hoàn toàn chỉ trong 20 ký tự. Viết của ông được đặc trưng bởi sự rõ ràng tinh thể, độ chính xác cấu trúc và một dòng chảy chính trị phản kháng được thể hiện qua hình ảnh thiên nhiên.",
+    "legacy": "Bài thơ \"Tuyết sông\" (江雪) của Liu Zongyuan là một trong những bài thơ Trung Quốc mang tính biểu tượng nhất về mặt hình ảnh, được tái sản xuất vô tận trong hội họa và thư pháp Trung Quốc. Hình ảnh của người đánh cá đơn độc trong một cảnh quan đông lạnh đã trở thành biểu tượng phổ quát của sự cô đơn có nguyên tắc. Những bài tiểu luận văn phong của ông đã thiết lập tiêu chuẩn cho việc viết phong cảnh Trung Quốc và ảnh hưởng đến toàn bộ truyền thống tiểu luận thiên nhiên qua các triều đại Minh và Thanh. Cùng với Han Yu, ông đã dẫn dắt \"Phong trào văn phong cổ điển\" (古文运动) cải cách phong cách văn học Trung Quốc, ủng hộ sự rõ ràng và nội dung hơn là sự song song trang trí.",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "From a thousand mountains, birds have vanished; on ten thousand paths, human traces are gone",
+        "from": "Tuyết sông (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "A lone boat, an old man in straw cloak — fishing alone in the cold river snow",
+        "from": "Tuyết sông (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "Nhà thơ tầm nhìn",
+    "bio": "Wang Zhihuan (688–742) là một trong những trường hợp đáng chú ý nhất trong lịch sử văn học Trung Quốc: một nhà thơ mà danh tiếng dựa trên chỉ sáu bài thơ còn lại, hai trong số đó đứng trong số những bài thơ nổi tiếng nhất trong toàn bộ văn học Trung Quốc. Sinh ra ở tỉnh Shanxi, ông giữ các vị trí chính thức nhỏ nhưng đã dành phần lớn cuộc đời để du lịch ở các vùng biên giới phía Bắc. Ít điều được biết về tiểu sử của ông so với các nhà thơ lớn khác của triều đại Đường, điều này chỉ làm tăng thêm sự huyền bí xung quanh bộ tác phẩm nhỏ nhưng vô cùng mạnh mẽ của ông.",
+    "style": "Các bài thơ còn lại của Wang Zhihuan được đặc trưng bởi tầm nhìn rộng lớn, hình ảnh táo bạo và chiều sâu triết học đạt được trong các hình thức cực kỳ cô đọng. Hai kiệt tác của ông — \"Climbing Stork Tower\" và \"Song of Liangzhou\" — đều vẽ nên những bức tranh phong cảnh rộng lớn và sau đó chuyển sang những tuyên bố sâu sắc về khát vọng con người hoặc sự cô lập ở biên giới. Tầm nhìn của ông hoạt động ở quy mô vũ trụ: những dòng sông chảy ra biển, mặt trời lặn sau núi, sông Hoàng Hà dâng lên mây. Tuy nhiên, sự hùng vĩ này phục vụ cho sự hiểu biết của con người, không chỉ là một cảnh tượng đơn thuần.",
+    "legacy": "Wang Zhihuan chứng minh rằng sự bất tử văn học cần chất lượng, không phải số lượng. \"Climbing Stork Tower\" (登鹳雀楼) đã trở thành một trong những bài thơ được trích dẫn nhiều nhất trong tiếng Trung — những dòng cuối cùng \"climb one more floor\" (更上一层楼) được sử dụng như một câu tục ngữ cho sự cải thiện liên tục trong mọi thứ từ giáo dục đến kinh doanh. \"Song of Liangzhou\" (凉州词) được coi là bài thơ biên giới xác định. Tác phẩm của ông là bằng chứng rằng một bài thơ hoàn hảo duy nhất có thể tồn tại lâu hơn hàng ngàn bài thơ kém hơn.",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "Nếu bạn muốn nhìn thấy xa hơn một ngàn dặm, hãy leo thêm một tầng nữa của tháp",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "Mặt trời trắng lặn sau những ngọn núi; sông Hoàng Hà chảy vào biển",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  }
+]

@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "The Immortal Poet (诗仙)",
+    "bio": "Li Bai (701–762) secara luas dianggap sebagai penyair romantis terhebat dalam sejarah Tiongkok dan salah satu dari dua tokoh penting dalam puisi Dinasti Tang bersama dengan Du Fu. Lahir di Suyab (di Kyrgyzstan modern) di sepanjang Jalur Sutra, ia tumbuh di provinsi Sichuan. Dia tidak pernah berhasil dalam ujian kekaisaran tetapi sempat dipanggil ke istana Kaisar Xuanzong sekitar tahun 742, hanya untuk diberhentikan setelah dua",
+    "style": "Puisi Li Bai dicirikan oleh imajinasi yang berani, spontanitas yang mudah, dan rasa keagungan kosmik. Dia sering menggunakan hiperbola (\"tiga ribu kaki,\" \"Bima Sakti jatuh dari surga\") yang entah bagaimana terasa alami daripada dipaksakan. Ayatnya bergerak antara keintiman lembut dan pemandangan luas, antara kebebasan mabuk dan kesepian yang mendalam. Dia sangat mengandalkan filosofi Tao dan",
+    "legacy": "Pengaruh Li Bai pada sastra Tiongkok tidak terukur. Dia adalah subjek dari legenda yang tak terhitung jumlahnya — bahwa dia tenggelam mencoba memeluk pantulan bulan di sungai, bahwa dia dapat menyusun mahakarya saat mabuk, bahwa dia adalah \"abadi yang diasingkan\" dari surga. Puisi-puisinya dihafal oleh setiap anak sekolah Tiongkok. Ungkapan \"诗仙\" (Penyair-Abadi) telah menjadi gelarnya selama lebih dari seribu tahun. Hi",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "Before my bed, bright moonlight gleams — I wonder if it",
+        "from": "Quiet Night Thought (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "Heaven gave me talents that must be put to use; a thousand gold coins spent will all come back again",
+        "from": "Bring in the Wine (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "Its torrent plunges straight down three thousand feet — as if the Milky Way were falling from the ninth heaven",
+        "from": "Viewing the Waterfall at Mount Lu (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "The Poet-Sage (诗圣)",
+    "bio": "Du Fu (712–770) dihormati sebagai penyair realis terhebat dalam sejarah Tiongkok dan berdiri bersama Li Bai sebagai tokoh tertinggi puisi Tiongkok. Lahir dalam keluarga sarjana di Henan, ia menghabiskan bertahun-tahun mengejar karir resmi tetapi berulang kali gagal dalam ujian. Hidupnya terbalik oleh Pemberontakan An Lushan yang menghancurkan (755–763), yang menewaskan jutaan orang dan menghancurkan zaman keemasan Dinasti Tang",
+    "style": "Puisi Du Fu didefinisikan oleh kesempurnaan teknisnya, keseriusan moral, dan kasih sayang yang tak tergoyahkan. Dia adalah ahli yang diakui dari ayat yang diatur (律诗), mencapai efek kepadatan dan presisi yang tak tertandingi dalam sastra Tiongkok. Karyanya berkisar dari adegan domestik intim hingga panorama perang dan pengungsian yang luas. Tidak seperti spontanitas yang terinspirasi Li Bai, kejeniusan Du Fu terletak pada ketelitian",
+    "legacy": "Du Fu tidak dirayakan secara luas selama masa hidupnya, tetapi pada Dinasti Song ia diakui sebagai penyair tertinggi Tiongkok. Gelarnya \"诗圣\" (Penyair-Bijak) mencerminkan baik kedudukan moral maupun penguasaan teknisnya. Puisi \"Tiga Pejabat\" dan \"Tiga Perpisahan\"-nya dianggap sebagai puisi perang terbaik dalam bahasa Tiongkok. Gubuk Jerami-nya di Chengdu sekarang menjadi museum dan situs budaya utama. Pengaruh Du Fu meluas",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "The nation is broken, though mountains and rivers remain; the city in spring is overgrown with grass",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "Beacon fires have burned for three months; a letter from home is worth ten thousand in gold",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "Boundless falling leaves rustle down; the endless Yangtze rolls and rolls onward",
+        "from": "Climbing High (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "Sang Buddha-Pujangga (诗佛)",
+    "bio": "Wang Wei (701–761) adalah seorang penyair, musisi, pelukis, dan negarawan Dinasti Tang yang karyanya mewujudkan persimpangan seni, alam, dan spiritualitas Buddha. Lahir di provinsi Shanxi, ia lulus ujian kekaisaran tertinggi di usia muda dan menjabat di berbagai posisi pemerintahan sepanjang hidupnya. Setelah kematian istrinya, ia tidak pernah menikah lagi dan semakin beralih ke Buddhisme Chan (Zen).",
+    "style": "Puisi Wang Wei dirayakan karena ketenangan meditatifnya, ketepatan sensorik, dan kedalaman spiritual. Su Shi (Su Dongpo) dengan terkenal mengatakan tentangnya: \"Dalam puisinya ada lukisan, dan dalam lukisannya ada puisi\" (诗中有画，画中有诗). Puisi alamnya mencapai ketenangan bercahaya yang mencerminkan praktik Buddhisnya — menemukan makna mendalam dalam pengamatan cahaya, bayangan, suara yang tampaknya sederhana.",
+    "legacy": "Wang Wei adalah salah satu dari \"Tiga Pujangga Agung Tang\" bersama Li Bai dan Du Fu, dan merupakan tokoh penentu puisi lanskap Tiongkok. Gelarnya \"诗佛\" (Sang Buddha-Pujangga) mencerminkan dimensi spiritual karyanya. Pengaruhnya meluas ke lukisan Tiongkok — ia secara tradisional dianggap sebagai pendiri Aliran Selatan lukisan lanskap Tiongkok. \"Koleksi Sungai Wang\" (辋川集) miliknya dianggap",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "Di pegunungan yang kosong, tidak ada seorang pun yang terlihat — namun suara-suara bergema dari suatu tempat",
+        "from": "Deer Enclosure (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "Aku mendesakmu untuk minum satu cangkir anggur lagi — di sebelah barat Yang Pass, kamu tidak akan memiliki teman lama",
+        "from": "Farewell to Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "Pujangga Rakyat",
+    "bio": "Bai Juyi (772–846) adalah salah satu penyair paling produktif dan populer dari Dinasti Tang, terkenal karena menulis dalam gaya yang jelas dan mudah diakses yang dapat dipahami oleh orang biasa. Legenda mengatakan dia akan membacakan puisinya kepada seorang wanita tua dan merevisi apa pun yang tidak bisa dia pahami. Dia memiliki karir resmi yang sukses, naik ke posisi tinggi sebelum diasingkan karena kritik terbukanya terhadap pemerintah",
+    "style": "Bai Juyi dengan sengaja mengembangkan gaya yang sederhana dan langsung, percaya bahwa puisi harus berfungsi sebagai komentar sosial yang dapat diakses oleh semua orang. Puisi \"New Yuefu\" (新乐府) miliknya secara langsung membahas ketidakadilan sosial — korupsi, wajib militer, kemiskinan, dan kelebihan orang kaya. Terlepas dari aksesibilitas ini, karya terbaiknya mencapai kedalaman emosional dan kekuatan naratif yang luar biasa. Balada panjangnya menggabungkan s",
+    "legacy": "Bai Juyi sangat populer selama masa hidupnya — puisinya disalin di dinding dan dinyanyikan di jalan-jalan di seluruh Tiongkok. Pengaruhnya sangat kuat di Jepang, di mana ia dianggap sebagai penyair Tiongkok terhebat selama berabad-abad (lebih populer di sana daripada Li Bai atau Du Fu). Penekanannya pada kejelasan dan relevansi sosial memengaruhi generasi penulis Tiongkok. \"Song of Everlasting Regret\" telah menjadi",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "Api liar tidak dapat membakarnya habis; angin musim semi bertiup dan mereka tumbuh sekali lagi",
+        "from": "Grasses (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "Rumput tak berujung di dataran — setiap tahun mereka layu dan tumbuh subur lagi",
+        "from": "Grasses (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "Master of Allusion",
+    "bio": "Li Shangyin (813–858) adalah seorang penyair akhir Dinasti Tang yang terkenal karena puisi-puisinya yang kaya akan alusi dan kompleksitas emosional. Lahir dalam keluarga bangsawan yang menurun, ia menunjukkan bakat sastra sejak dini dan lulus ujian kekaisaran dengan bantuan seorang pelindung. Namun, ia terjebak dalam politik faksi — pernikahannya dengan putri salah satu faksi politik mengasingkan faksi lainnya, secara efektif mengakhiri peluangnya untuk maju. Ia menghabiskan kariernya di posisi-provinsi kecil, menderita dari frustrasi politik dan kesedihan pribadi, termasuk kematian dini istrinya.",
+    "style": "Puisi Li Shangyin terkenal karena lapisan makna yang padat, citra yang kaya, dan ambiguitas emosional. \"Puisi Tanpa Judul\" (无题诗) adalah salah satu karya yang paling diperdebatkan dalam sastra Tiongkok — para sarjana telah berargumen selama berabad-abad tentang apakah mereka menggambarkan cinta romantis, alegori politik, atau kerinduan spiritual. Puisinya ditandai oleh citra sensual (lilin, hujan, sutra, giok), alusi rumit terhadap mitologi dan sejarah, serta keindahan melankolis yang menyiratkan makna yang hanya sedikit di luar jangkauan. Ia mendorong bahasa puisi Tiongkok ke tingkat kompleksitas dan kecanggihan yang baru.",
+    "legacy": "Li Shangyin, bersama dengan Du Mu, dikenal sebagai \"Little Li and Du\" (小李杜), menggema \"Great Li and Du\" (Li Bai dan Du Fu). Pengaruhnya terhadap puisi cinta Tiongkok sangat mendalam — citranya tentang lilin, hujan, dan kekasih yang terpisah menjadi konvensi sastra yang bertahan lama. Barisnya \"Benang ulat sutra musim semi hanya berakhir ketika ia mati\" (春蚕到死丝方尽) tetap menjadi salah satu ungkapan pengabdian yang paling terkenal dalam bahasa Tiongkok. Sarjana dan pembaca modern terus menemukan interpretasi baru dalam puisi-puisinya yang sengaja ambigu.",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "You ask when I will return — there is no date set. The night rain on Mount Ba swells the autumn pools",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "When will we sit together trimming candles by the west window, and talk about this night of rain?",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "The Little Du (小杜)",
+    "bio": "Du Mu (803–852) adalah seorang penyair dan penulis esai akhir Dinasti Tang yang dikenal karena puisi-puisinya yang elegan, sering kali melankolis, dan komentar sejarah yang tajam. Lahir dalam keluarga terkemuka — kakeknya Du You adalah seorang perdana menteri dan sejarawan — ia lulus ujian kekaisaran dan menjabat di berbagai posisi pemerintahan. Ia dikenal karena kecerdasannya, apresiasi terhadap keindahan, dan kesadaran tajam terhadap kemunduran sejarah. Esai prosa tentang strategi militer juga sangat dihargai.",
+    "style": "Puisi Du Mu ditandai oleh keanggunan, citra yang hidup, dan perpaduan khas antara keindahan sensual dengan melankolis sejarah. Kuatrainnya dianggap sebagai yang terbaik di Dinasti Tang — masing-masing adalah lukisan miniatur yang dirancang dengan sempurna dengan sentuhan emosional. Ia unggul dalam melihat pemandangan masa kini melalui lensa perubahan sejarah, menemukan keindahan dalam kontras antara kejayaan masa lalu dan kemunduran saat ini. Gayanya lebih halus dan terkontrol dibandingkan Li Bai, dengan rasa nostalgia yang unik miliknya sendiri.",
+    "legacy": "Bersama dengan Li Shangyin, Du Mu dikenal sebagai \"Little Li and Du\" (小李杜). Puisi \"Qingming\"-nya telah menjadi terkait secara permanen dengan Festival Menyapu Makam — hampir tidak mungkin untuk merayakan Qingming di Tiongkok tanpa mendengarnya dikutip. Puisi-puisinya yang bersejarah tentang kemunduran dinasti sebelumnya dibaca sebagai komentar tentang memudarnya Dinasti Tang, memberinya resonansi profetik. Kuatrainnya dipelajari sebagai model bentuk, dan frasa \"牧童遥指杏花村\" (anak gembala menunjuk ke Desa Bunga Aprikot) telah masuk ke dalam imajinasi Tiongkok sebagai arketipe keindahan pedesaan.",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "During the Qingming Festival, rain falls thick and fast; travelers on the road are weary to their souls",
+        "from": "Qingming Festival (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "\"Where can I find a tavern?\" — a shepherd boy points to Apricot Blossom Village",
+        "from": "Qingming Festival (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "The Hermit Poet",
+    "bio": "Meng Haoran (689–740) adalah salah satu penyair pastoral dan alam yang paling terkemuka dari Dinasti Tang. Secara unik di antara penyair besar Tang, ia tidak pernah memegang posisi resmi pemerintah, memilih sebaliknya kehidupan pengasingan pedesaan dan perjalanan. Ia sangat dikagumi oleh Li Bai, yang menulis puisi terkenal memujinya. Ia melakukan perjalanan ke Chang'an untuk mencari karier resmi tetapi gagal dalam ujian, dan pertemuan dengan Kaisar Xuanzong dilaporkan berjalan buruk ketika ia membacakan puisi yang dianggap tidak hormat oleh kaisar. Ia kembali ke rumahnya di Hubei dan tinggal di antara gunung dan sungai.",
+    "style": "Puisi Meng Haoran dirayakan karena kesederhanaan alami, perasaan yang tulus, dan keindahan pastoral. Ia adalah sosok yang mendefinisikan sekolah puisi \"gunung dan ladang\" (山水田园) dari puisi Tang. Puisinya terasa tidak terlatih dan spontan, menangkap momen keindahan alam dengan kesegaran yang membuat penyair yang lebih terpelajar merasa iri. Li Bai memuji \"puisi jernih\"-nya yang \"mengangkat di atas dunia biasa.\" Puisi-puisi terbaiknya mencapai efeknya melalui penekanan — menyiratkan emosi mendalam melalui pengamatan alam yang tampaknya sederhana.",
+    "legacy": "Meng Haoran dipasangkan dengan Wang Wei sebagai sekolah puisi alam \"Wang-Meng\" (王孟), mewakili puncak puisi pastoral Tiongkok. \"Pagi Musim Semi\" (春晓) adalah salah satu puisi pertama yang dipelajari setiap anak Tiongkok, menjadikannya salah satu puisi yang paling dikenal dalam bahasa apa pun. Pilihannya untuk hidup di luar kekuasaan mempengaruhi generasi literati Tiongkok yang mengidealkan gaya hidup penyair pengembara. Kekaguman Li Bai terhadapnya memastikan ketenarannya yang abadi — dipuji oleh Li Bai adalah dukungan sastra tertinggi.",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "In spring sleep, dawn arrives unnoticed — everywhere I hear the birds singing",
+        "from": "Spring Morning (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "Last night came the sound of wind and rain; who knows how many petals have fallen?",
+        "from": "Spring Morning (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "Master of Seven-character Quatrains (七绝圣手)",
+    "bio": "Wang Changling (698–756) adalah seorang penyair Tinggi Tang yang dianggap sebagai master tertinggi dari bentuk kuatrain tujuh karakter. Ia lulus ujian kekaisaran dan menjabat di berbagai posisi tetapi mengalami kemunduran politik, terdegradasi dua kali ke daerah selatan yang terpencil. Meskipun terkenal secara sastra, ia menjalani kehidupan resmi yang sulit. Ia dibunuh selama kekacauan Pemberontakan An Lushan oleh seorang pejabat lokal yang cemburu — akhir yang tragis dan ironis bagi seorang penyair yang menulis dengan sangat menyentuh tentang pemborosan perang.",
+    "style": "Spesialisasi Wang Changling adalah kuatrain tujuh karakter (七言绝句), di mana ia mencapai kesempurnaan yang memberinya gelar \"Saint of Seven-character Quatrains\" (七绝圣手). Puisi perbatasannya menggabungkan semangat militer dengan belas kasih yang mendalam terhadap tentara biasa, menghindari baik kemuliaan jingoistik maupun keputusasaan yang kalah. Puisi istananya dan puisi perpisahannya menunjukkan penguasaan yang sama. Setiap kuatrain dibangun dengan tepat, dengan perubahan dramatis di baris terakhir yang memberikan dampak emosional maksimum dalam ruang minimum.",
+    "legacy": "Puisi \"Out on the Frontier\" (出塞) karya Wang Changling secara konsisten dianggap sebagai salah satu kuatrain Tang terbesar yang pernah ditulis. Baris pembukanya — \"Bulan yang sama yang bersinar di Qin, jalur yang sama dari Han\" — adalah salah satu baris yang paling dikenal dalam puisi Tiongkok. Penguasaan bentuk kuatrainnya mempengaruhi setiap penyair berikutnya yang bekerja dalam genre tersebut. Puisi perbatasannya menetapkan template tentang bagaimana sastra Tiongkok membahas biaya manusia dari perang — dengan martabat, belas kasih, dan pemahaman yang tajam tentang perspektif sejarah.",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "The same moon that shone in Qin, the same passes from the Han — soldiers marched ten thousand miles and have not returned",
+        "from": "Out on the Frontier (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "If only the Flying General were here, he would never let the enemy horses cross Yin Mountain",
+        "from": "Out on the Frontier (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "Master of Landscape Prose",
+    "bio": "Liu Zongyuan (773–819) adalah seorang penulis esai, penyair, dan reformis politik dari Dinasti Tang yang dihitung di antara \"Delapan Master Prosa Besar dari Tang dan Song\" (唐宋八大家). Lahir dalam keluarga aristokrat di Chang'an, ia lulus ujian kekaisaran pada usia muda dan cepat naik dalam pemerintahan. Pada tahun 805, ia berpartisipasi dalam gerakan reformasi politik yang gagal setelah hanya 146 hari. Para reformis dihukum berat — Liu Zongyuan diasingkan ke Yongzhou (Hunan modern) dan kemudian ke Liuzhou (Guangxi modern), di mana ia menghabiskan 14 tahun terakhir hidupnya dalam isolasi.",
+    "style": "Puisi dan prosa Liu Zongyuan mengubah pengalaman pengasingan menjadi seni yang sangat tinggi. Esai lanskapnya (\"Delapan Catatan Yongzhou\") dianggap sebagai prosa alam terbaik dalam Bahasa Tionghoa Klasik, menggabungkan pengamatan yang tepat dengan kedalaman filosofis. Puisi-puisinya, meskipun lebih sedikit dalam volume, mencapai efek luar biasa — \"River Snow\" menciptakan seluruh dunia beku hanya dalam 20 karakter. Karya tulisnya ditandai dengan kejernihan kristal, presisi struktural, dan arus bawah perlawanan politik yang diekspresikan melalui citra alam.",
+    "legacy": "Puisi \"River Snow\" (江雪) karya Liu Zongyuan adalah salah satu puisi Tiongkok yang paling ikonik secara visual, terus-menerus direproduksi dalam lukisan dan kaligrafi Tiongkok. Gambar seorang nelayan tunggal di lanskap beku telah menjadi simbol universal dari kesendirian yang berprinsip. Esai prosa beliau menetapkan standar untuk penulisan lanskap Tiongkok dan mempengaruhi seluruh tradisi esai alam melalui dinasti Ming dan Qing. Bersama dengan Han Yu, ia memimpin \"Gerakan Prosa Kuno\" (古文运动) yang mereformasi gaya sastra Tiongkok, mengadvokasi kejernihan dan substansi di atas paralelisme hiasan.",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "From a thousand mountains, birds have vanished; on ten thousand paths, human traces are gone",
+        "from": "River Snow (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "A lone boat, an old man in straw cloak — fishing alone in the cold river snow",
+        "from": "River Snow (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "The Visionary Poet",
+    "bio": "Wang Zhihuan (688–742) adalah salah satu kasus paling luar biasa dalam sejarah sastra Tiongkok: seorang penyair yang ketenarannya bergantung pada hanya enam puisi yang masih ada, dua di antaranya termasuk yang paling terkenal dalam seluruh sastra Tiongkok. Lahir di provinsi Shanxi, ia memegang posisi resmi kecil tetapi menghabiskan sebagian besar hidupnya bepergian ke daerah perbatasan utara. Sedikit yang diketahui tentang biografinya dibandingkan dengan penyair Tang besar lainnya, yang hanya menambah mistik di sekitar tubuh karyanya yang kecil tetapi sangat kuat.",
+    "style": "Puisi-puisi yang tersisa dari Wang Zhihuan ditandai oleh visi yang luas, citra berani, dan kedalaman filosofis yang dicapai dalam bentuk yang sangat terkompresi. Dua mahakaryanya — \"Climbing Stork Tower\" dan \"Song of Liangzhou\" — keduanya melukiskan panorama luas lanskap dan kemudian beralih ke pernyataan mendalam tentang aspirasi manusia atau isolasi perbatasan. Visinya beroperasi pada skala kosmik: sungai mengalir ke laut, matahari terbenam di balik gunung, Sungai Kuning naik ke awan. Namun, keagungan ini melayani wawasan manusia, bukan sekadar tontonan.",
+    "legacy": "Wang Zhihuan membuktikan bahwa keabadian sastra memerlukan kualitas, bukan kuantitas. \"Climbing Stork Tower\" (登鹳雀楼) telah menjadi salah satu puisi yang paling banyak dikutip dalam bahasa Tionghoa — baris terakhirnya \"climb one more floor\" (更上一层楼) digunakan sebagai peribahasa untuk perbaikan berkelanjutan dalam segala hal mulai dari pendidikan hingga bisnis. \"Song of Liangzhou\" (凉州词) dianggap sebagai puisi perbatasan definitif. Karyanya adalah bukti bahwa satu puisi yang sempurna dapat bertahan lebih lama daripada ribuan puisi yang lebih rendah.",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "If you wish to see a thousand miles further, climb one more floor of the tower",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "The white sun sets behind the mountains; the Yellow River flows into the sea",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  }
+]

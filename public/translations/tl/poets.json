@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "The Immortal Poet (诗仙)",
+    "bio": "Si Li Bai (701–762) ay malawak na itinuturing bilang pinakadakilang romantikong makata sa kasaysayan ng Tsina at isa sa dalawang napakatanyag na personalidad ng panulaang Tang Dynasty kasama si Du Fu. Ipinanganak sa Suyab (sa modernong Kyrgyzstan) sa kahabaan ng Silk Road, lumaki siya sa lalawigan ng Sichuan. Hindi siya nagtagumpay sa mga pagsusulit imperyal ngunit panandaliang ipinatawag sa korte ni Emperor Xuanzong noong mga 742, upang paalisin lamang pagkatapos ng dalawang",
+    "style": "Ang panulaan ni Li Bai ay nailalarawan sa pamamagitan ng matapang na imahinasyon, walang hirap na pagiging natural, at isang pakiramdam ng kosmikong kadakilaan. Madalas siyang gumagamit ng hyperbole (\"tatlong libong talampakan,\" \"ang Milky Way na bumabagsak mula sa langit\") na sa paanuman ay parang natural sa halip na pilit. Ang kanyang taludtod ay gumagalaw sa pagitan ng magiliw na pagiging malapit at malawak na tanawin, sa pagitan ng lasing na pagpapabaya at malalim na kalungkutan. Malaki ang kanyang hinugot sa pilosopiyang Daoist at",
+    "legacy": "Ang impluwensya ni Li Bai sa panitikang Tsino ay hindi matatawaran. Siya ang paksa ng hindi mabilang na mga alamat — na nalunod siya sa pagtatangkang yakapin ang repleksyon ng buwan sa isang ilog, na kaya niyang bumuo ng mga obra maestra habang lasing, na siya ay isang \"itinapon na imortal\" mula sa langit. Ang kanyang mga tula ay isinasaulo ng bawat batang mag-aaral na Tsino. Ang ekspresyong \"诗仙\" (Poet-Immortal) ay kanyang titulo sa loob ng mahigit isang libong taon. Ang kanyang",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "Before my bed, bright moonlight gleams — I wonder if it",
+        "from": "Quiet Night Thought (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "Heaven gave me talents that must be put to use; a thousand gold coins spent will all come back again",
+        "from": "Bring in the Wine (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "Its torrent plunges straight down three thousand feet — as if the Milky Way were falling from the ninth heaven",
+        "from": "Viewing the Waterfall at Mount Lu (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "The Poet-Sage (诗圣)",
+    "bio": "Si Du Fu (712–770) ay iginagalang bilang pinakadakilang makatang realista sa kasaysayan ng Tsina at nakatayo sa tabi ni Li Bai bilang pinakamataas na personalidad ng panulaang Tsino. Ipinanganak sa isang pamilyang iskolar sa Henan, ginugol niya ang mga taon sa pagtatrabaho sa isang opisyal na karera ngunit paulit-ulit na nabigo sa mga pagsusulit. Ang kanyang buhay ay binaliktad ng mapangwasak na An Lushan Rebellion (755–763), na pumatay sa milyon-milyon at sumira sa ginintuang panahon ng Tang Dynasty",
+    "style": "Ang panulaan ni Du Fu ay tinukoy ng teknikal na pagiging perpekto nito, seryosong moral, at walang pag-aatubiling habag. Siya ang kinikilalang master ng regulated verse (律诗), na nakakamit ang mga epekto ng density at precision na walang kapantay sa panitikang Tsino. Ang kanyang gawa ay mula sa malapit na mga eksena sa tahanan hanggang sa malawak na panorama ng digmaan at paglikas. Hindi tulad ng inspiradong pagiging natural ni Li Bai, ang henyo ni Du Fu ay nakasalalay sa masusing",
+    "legacy": "Si Du Fu ay hindi malawak na ipinagdiwang noong kanyang kapanahunan, ngunit noong Song Dynasty siya ay kinilala bilang pinakamataas na makata ng Tsina. Ang kanyang titulong \"诗圣\" (Poet-Sage) ay sumasalamin sa kanyang moral na katayuan at teknikal na kahusayan. Ang kanyang mga tulang \"Three Officials\" at \"Three Farewells\" ay itinuturing na pinakamagagandang tula ng digmaan sa Tsino. Ang kanyang Thatched Cottage sa Chengdu ay isa na ngayong pangunahing museo at pook pangkultura. Ang impluwensya ni Du Fu ay umaabot",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "The nation is broken, though mountains and rivers remain; the city in spring is overgrown with grass",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "Beacon fires have burned for three months; a letter from home is worth ten thousand in gold",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "Boundless falling leaves rustle down; the endless Yangtze rolls and rolls onward",
+        "from": "Climbing High (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "Ang Makatang-Buddha (诗佛)",
+    "bio": "Si Wang Wei (701–761) ay isang makata, musikero, pintor, at estadista ng Dinastiyang Tang na ang gawa ay naglalaman ng pagsasanib ng sining, kalikasan, at espiritwalidad ng Budismo. Ipinanganak sa lalawigan ng Shanxi, pumasa siya sa pinakamataas na pagsusulit imperyal sa murang edad at nagsilbi sa iba't ibang posisyon sa gobyerno sa buong buhay niya. Pagkatapos ng pagkamatay ng kanyang asawa, hindi na siya nag-asawa muli at lalong bumaling sa Chan (Zen) Buddhism.",
+    "style": "Ang panulaan ni Wang Wei ay ipinagdiriwang dahil sa kanyang mapagnilay na katahimikan, tumpak na pandama, at espirituwal na lalim. Sikat na sinabi ni Su Shi (Su Dongpo) tungkol sa kanya: \"Sa kanyang mga tula ay may mga pinta, at sa kanyang mga pinta ay may mga tula\" (诗中有画，画中有诗). Ang kanyang panulaan tungkol sa kalikasan ay nakakamit ng isang maningning na katahimikan na sumasalamin sa kanyang pagsasanay sa Budismo — paghahanap ng malalim na kahulugan sa tila simpleng mga obserbasyon ng liwanag, anino, tunog, a",
+    "legacy": "Si Wang Wei ay isa sa \"Tatlong Dakilang Makata ng Tang\" kasama sina Li Bai at Du Fu, at ang nagtatakdang pigura ng panulaang Tsino tungkol sa tanawin. Ang kanyang titulong \"诗佛\" (Makatang-Buddha) ay sumasalamin sa espirituwal na dimensyon ng kanyang gawa. Ang kanyang impluwensya ay umaabot sa pagpipinta ng Tsino — tradisyonal siyang kinikilala bilang tagapagtatag ng Southern School ng pagpipinta ng tanawin ng Tsino. Ang kanyang \"Wang River Collection\" (辋川集) ay itinuturing",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "Sa mga walang taong bundok, walang makita — ngunit may mga tinig na umaalingawngaw mula sa kung saan",
+        "from": "Deer Enclosure (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "Hinihimok kitang uminom ng isa pang tasa ng alak — sa kanluran ng Yang Pass, wala kang magiging matandang kaibigan",
+        "from": "Farewell to Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "Ang Makata ng Bayan",
+    "bio": "Si Bai Juyi (772–846) ay isa sa mga pinakaproduktibo at sikat na makata ng Dinastiyang Tang, na kilala sa pagsulat sa isang malinaw at madaling maunawaan na estilo na maaaring maunawaan ng mga karaniwang tao. Sinasabi ng alamat na binabasa niya ang kanyang mga tula sa isang matandang babae at binabago ang anumang hindi niya maintindihan. Nagkaroon siya ng matagumpay na karera sa opisyal, umakyat sa matataas na posisyon bago ipatapon dahil sa kanyang tahasang pagpuna sa gobyerno",
+    "style": "Sadyang nilinang ni Bai Juyi ang isang payak at direktang estilo, naniniwala na ang panulaan ay dapat magsilbing komentaryo sa lipunan na naa-access sa lahat. Ang kanyang mga tulang \"New Yuefu\" (新乐府) ay direktang tumutugon sa mga kawalang-katarungan sa lipunan — korapsyon, sapilitang pagpapasundalo, kahirapan, at ang mga kalabisan ng mayayaman. Sa kabila ng pagiging madaling maunawaan, ang kanyang pinakamahusay na gawa ay nakakamit ng kahanga-hangang emosyonal na lalim at kapangyarihan ng pagsasalaysay. Pinagsasama ng kanyang mahahabang balada ang s",
+    "legacy": "Si Bai Juyi ay napakapopular noong kanyang kapanahunan — ang kanyang mga tula ay kinopya sa mga dingding at inaawit sa mga lansangan sa buong Tsina. Ang kanyang impluwensya ay partikular na malakas sa Japan, kung saan siya ay itinuturing na pinakadakilang makatang Tsino sa loob ng maraming siglo (mas sikat doon kaysa kina Li Bai o Du Fu). Ang kanyang pagbibigay-diin sa kalinawan at kaugnayan sa lipunan ay nakaimpluwensya sa mga henerasyon ng mga manunulat na Tsino. Ang \"Song of Everlasting Regret\" ay naging",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "Hindi ito kayang sunugin ng apoy; umiihip ang hangin ng tagsibol at muli silang tumutubo",
+        "from": "Grasses (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "Walang katapusang damo sa kapatagan — bawat taon ay nalalanta at umuunlad muli",
+        "from": "Grasses (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "Ang Makatang Ermitanyo",
+    "bio": "Si Meng Haoran (689–740) ay isa sa mga pinakatanyag na makata ng pastoral at kalikasan ng Dinastiyang Tang. Natatangi sa mga pangunahing makata ng Tang, hindi siya kailanman humawak ng opisyal na posisyon sa gobyerno, sa halip ay pinili niya ang isang buhay ng rural na pag-iisa at paglalakbay. Labis siyang hinangaan ni Li Bai, na sumulat ng isang sikat na tula na pumupuri sa kanya. Naglakbay siya sa Chang'an upang maghanap ng isang opisyal na karera ngunit nabigo sa pagsusulit, at isang pagdinig",
+    "style": "Ang pagtula ni Meng Haoran ay ipinagdiriwang dahil sa kanyang likas na pagiging simple, tunay na damdamin, at pastoral na kagandahan. Siya ang nagtatakdang pigura ng paaralan ng \"bundok at bukid\" (山水田园) ng pagtula ng Tang. Ang kanyang taludtod ay tila hindi pinag-aralan at kusang-loob, na nakakakuha ng mga sandali ng likas na kagandahan na may pagiging bago na kinaiinggitan ng mas maraming natutunang makata. Pinuri ni Li Bai ang kanyang \"malinaw na pagtula\" na \"nakataas sa kabila ng makamundong mundo.\" Ang kanyang pinakamahusay na po",
+    "legacy": "Si Meng Haoran ay ipinares kay Wang Wei bilang paaralan ng \"Wang-Meng\" (王孟) ng pagtula ng kalikasan, na kumakatawan sa tuktok ng bersong pastoral ng Tsino. Ang kanyang \"Spring Morning\" (春晓) ay isa sa mga unang tulang natutunan ng bawat batang Tsino, na ginagawa itong isa sa mga pinakalawak na kilalang tula sa anumang wika. Ang kanyang pagpili ng isang buhay sa labas ng opisyal na posisyon ay nakaimpluwensya sa mga henerasyon ng mga literati ng Tsino na nag-idealize sa buhay ng makatang ermitanyo",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "Sa pagtulog sa tagsibol, dumarating ang madaling araw nang hindi napapansin - saanman naririnig ko ang mga ibon na umaawit",
+        "from": "Spring Morning (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "Kagabi ay dumating ang tunog ng hangin at ulan; sino ang nakakaalam kung gaano karaming mga talulot ang nahulog?",
+        "from": "Spring Morning (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "Dalubhasa sa Pitong-karakter na Quatrains (七绝圣手)",
+    "bio": "Si Wang Changling (698–756) ay isang makata ng High Tang na itinuturing na pinakamataas na dalubhasa sa pitong-karakter na quatrain form. Pumasa siya sa pagsusulit sa imperyal at nagsilbi sa iba't ibang posisyon ngunit nagdusa ng mga pag-urong sa pulitika, na na-demote ng dalawang beses sa malalayong rehiyon sa timog. Sa kabila ng kanyang katanyagan sa panitikan, namuhay siya ng isang mahirap na opisyal na buhay. Pinatay siya sa panahon ng kaguluhan ng An Lushan Rebellion ng isang selosong lokal na opisyal",
+    "style": "Ang espesyalidad ni Wang Changling ay ang pitong-karakter na quatrain (七言绝句), kung saan nakamit niya ang isang pagiging perpekto na nagbigay sa kanya ng titulong \"Santo ng Pitong-karakter na Quatrains\" (七绝圣手). Pinagsasama ng kanyang mga tula sa hangganan ang espiritu ng militar sa malalim na pagkahabag para sa mga karaniwang sundalo, na iniiwasan ang parehong jingoistic na kaluwalhatian at pagkatalo ng kawalan ng pag-asa. Ang kanyang mga tula sa palasyo at mga tula ng pamamaalam ay nagpapakita ng pantay na kasanayan. Ang bawat quatrain ay tiyak",
+    "legacy": "Ang \"Out on the Frontier\" (出塞) ni Wang Changling ay palaging niraranggo sa mga pinakadakilang Tang quatrains na naisulat. Ang pambungad nitong linya - \"Ang parehong buwan na sumikat sa Qin, ang parehong mga daanan mula sa Han\" - ay isa sa mga pinakakilalang linya sa pagtula ng Tsino. Ang kanyang kasanayan sa quatrain form ay nakaimpluwensya sa bawat kasunod na makata na nagtrabaho sa genre. Ang kanyang pagtula sa hangganan ay nagtatag ng isang template para sa kung paano Chi",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "Ang parehong buwan na sumikat sa Qin, ang parehong mga daanan mula sa Han - ang mga sundalo ay nagmartsa ng sampung libong milya at hindi pa nakakabalik",
+        "from": "Out on the Frontier (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "Kung narito lamang ang Flying General, hindi niya hahayaang tumawid ang mga kabayo ng kaaway sa Yin Mountain",
+        "from": "Out on the Frontier (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "Master of Allusion",
+    "bio": "Si Li Shangyin (813–858) ay isang makatang mula sa huling Dinastiyang Tang na kilala sa kanyang mayamang allusive at emosyonal na kumplikadong tula. Ipinanganak sa isang bumababang pamilya ng mga gentry, ipinakita niya ang maagang pangako sa panitikan at pumasa sa imperial examination sa tulong ng isang patron. Gayunpaman, siya ay nahulog sa mga pulitikal na alitan — ang kanyang kasal sa anak na babae ng isang pulitikal na pangkat ay nagpalayo sa iba, na epektibong nagtapos sa kanyang mga pagkakataon para sa pag-unlad. Ginugol niya ang kanyang karera sa mga menor na posisyon sa lalawigan, nagdurusa mula sa pulitikal na pagkabigo at personal na kalungkutan, kasama na ang maagang pagkamatay ng kanyang asawa.",
+    "style": "Ang tula ni Li Shangyin ay kilala sa mga siksik na layer ng kahulugan, mayamang imahen, at emosyonal na ambigwidad. Ang kanyang \"Untitled Poems\" (无题诗) ay kabilang sa mga pinaka-debatadong akda sa panitikang Tsino — ang mga iskolar ay nagtalakayan sa loob ng mga siglo kung ang mga ito ay naglalarawan ng romantikong pag-ibig, pulitikal na alegorya, o espiritwal na pagnanasa. Ang kanyang tula ay nailalarawan sa pamamagitan ng sensuous imagery (mga kandila, ulan, sutla, jade), masalimuot na allusions sa mitolohiya at kasaysayan, at isang melancholic na kagandahan na nagmumungkahi ng mga kahulugan na lampas sa abot. Itinulak niya ang wikang makata ng Tsino sa mga bagong antas ng kumplikado at sopistikasyon.",
+    "legacy": "Si Li Shangyin, kasama si Du Mu, ay kilala bilang \"Little Li and Du\" (小李杜), na umaecho sa \"Great Li and Du\" (Li Bai at Du Fu). Ang kanyang impluwensya sa tula ng pag-ibig ng Tsino ay malalim — ang kanyang imahen ng mga kandila, ulan, at mga naghiwalay na magkasintahan ay naging mga pangmatagalang konbensyon sa panitikan. Ang kanyang linya na \"The spring silkworm's thread ends only when it dies\" (春蚕到死丝方尽) ay nananatiling isa sa mga pinakasikat na pahayag ng debosyon sa Tsino. Ang mga modernong iskolar at mambabasa ay patuloy na nakakahanap ng mga bagong interpretasyon sa kanyang sinadyang ambigwidad na tula.",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "You ask when I will return — there is no date set. The night rain on Mount Ba swells the autumn pools",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "When will we sit together trimming candles by the west window, and talk about this night of rain?",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "The Little Du (小杜)",
+    "bio": "Si Du Mu (803–852) ay isang makata at manunulat mula sa huling Dinastiyang Tang na kilala sa kanyang eleganteng, madalas na melancholic na tula at matalas na komentaryo sa kasaysayan. Ipinanganak sa isang kilalang pamilya — ang kanyang lolo na si Du You ay isang punong ministro at historyador — siya ay pumasa sa mga imperial examinations at naglingkod sa iba't ibang posisyon sa gobyerno. Kilala siya sa kanyang talino, pagpapahalaga sa kagandahan, at matalas na kamalayan sa pagbagsak ng kasaysayan. Ang kanyang mga prosa na sanaysay tungkol sa estratehiyang militar ay mataas din ang pagpapahalaga.",
+    "style": "Ang tula ni Du Mu ay nailalarawan sa pamamagitan ng kanyang kagandahan, maliwanag na imahen, at natatanging halo ng sensuous na kagandahan at historikal na kalungkutan. Ang kanyang mga quatrain ay itinuturing na ilan sa mga pinakamaganda sa Dinastiyang Tang — bawat isa ay isang perpektong nilikhang miniatura na may emosyonal na twist. Siya ay mahusay sa pagtingin sa mga kasalukuyang tanawin sa pamamagitan ng lente ng pagbabago sa kasaysayan, na nakakahanap ng damdamin sa kaibahan sa pagitan ng nakaraang kaluwalhatian at kasalukuyang pagkabulok. Ang kanyang estilo ay mas pinino at kontrolado kaysa kay Li Bai, na may isang wistfulness na natatangi sa kanya.",
+    "legacy": "Kasama si Li Shangyin, si Du Mu ay kilala bilang \"Little Li and Du\" (小李杜). Ang kanyang tula na \"Qingming\" ay permanenteng nauugnay sa Tomb-Sweeping Festival — halos imposibleng obserbahan ang Qingming sa Tsina nang hindi ito binabanggit. Ang kanyang mga tula sa kasaysayan tungkol sa pagbagsak ng mga naunang dinastiya ay binasa bilang mga komentaryo sa unti-unting pagbagsak ng Dinastiyang Tang, na nagbibigay sa kanila ng propetikong resonans. Ang kanyang mga quatrain ay pinag-aaralan bilang mga modelo ng anyo, at ang kanyang parirala na \"牧童遥指杏花村\" (the shepherd boy points to Apricot Blossom Village) ay pumasok sa imahinasyong Tsino bilang isang archetype ng rustic beauty.",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "During the Qingming Festival, rain falls thick and fast; travelers on the road are weary to their souls",
+        "from": "Qingming Festival (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "\"Where can I find a tavern?\" — a shepherd boy points to Apricot Blossom Village",
+        "from": "Qingming Festival (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "Master of Landscape Prose",
+    "bio": "Si Liu Zongyuan (773–819) ay isang manunulat, makata, at repormador sa pulitika mula sa Dinastiyang Tang na kabilang sa \"Eight Great Prose Masters of the Tang and Song\" (唐宋八大家). Ipinanganak sa isang aristokratikong pamilya sa Chang'an, siya ay pumasa sa imperial examination sa murang edad at mabilis na umangat sa gobyerno. Noong 805, siya ay lumahok sa isang kilusang reporma sa pulitika na nabigo pagkatapos lamang ng 146 na araw. Ang mga repormador ay pinarusahan ng mabigat — si Liu Zongyuan ay ipinadala sa Yongzhou (modernong Hunan) at kalaunan sa Liuzhou (modernong Guangxi), kung saan ginugol niya ang natitirang 14 na taon ng kanyang buhay sa pag-iisa.",
+    "style": "Ang tula at prosa ni Liu Zongyuan ay nagbabago sa karanasan ng pagkatapon sa sining ng pinakamataas na antas. Ang kanyang mga sanaysay sa tanawin (\"Eight Records of Yongzhou\") ay itinuturing na pinakamagandang prosa ng kalikasan sa Klasikal na Tsino, na pinagsasama ang tumpak na pagmamasid sa lalim ng pilosopiya. Ang kanyang tula, kahit na mas maliit sa dami, ay nakakamit ng mga pambihirang epekto — ang \"River Snow\" ay lumilikha ng isang buong nagyelo na mundo sa loob lamang ng 20 karakter. Ang kanyang pagsusulat ay nailalarawan sa pamamagitan ng kristal na kalinawan, estruktural na katumpakan, at isang undercurrent ng pulitikal na pagtutol na ipinahayag sa pamamagitan ng natural na imahen.",
+    "legacy": "Ang \"River Snow\" (江雪) ni Liu Zongyuan ay isa sa mga pinaka-visual na iconic na tula ng Tsino, na walang katapusang nire-reproduce sa sining at kaligrapiya ng Tsino. Ang imahen ng nag-iisang mangingisda sa isang nagyelong tanawin ay naging isang unibersal na simbolo ng prinsipyo ng pag-iisa. Ang kanyang mga prosa na sanaysay ay nagtatag ng pamantayan para sa pagsusulat ng tanawin sa Tsino at nakaimpluwensya sa buong tradisyon ng sanaysay ng kalikasan sa pamamagitan ng mga dinastiyang Ming at Qing. Kasama si Han Yu, pinangunahan niya ang \"Ancient Prose Movement\" (古文运动) na nag-reporma sa istilo ng panitikan ng Tsino, na nagtataguyod ng kalinawan at substansya sa halip na ornamental parallelism.",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "From a thousand mountains, birds have vanished; on ten thousand paths, human traces are gone",
+        "from": "River Snow (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "A lone boat, an old man in straw cloak — fishing alone in the cold river snow",
+        "from": "River Snow (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "Ang Makabagong Makata",
+    "bio": "Si Wang Zhihuan (688–742) ay isa sa mga pinaka-kapansin-pansing kaso sa kasaysayan ng panitikan ng Tsina: isang makata na ang katanyagan ay nakasalalay sa anim na natitirang tula, dalawa sa mga ito ay kabilang sa mga pinakasikat sa lahat ng panitikang Tsino. Ipinanganak sa lalawigan ng Shanxi, siya ay humawak ng mga maliit na posisyon sa opisina ngunit ginugol ang karamihan ng kanyang buhay sa paglalakbay sa mga hilagang hangganan. Kaunti ang nalalaman tungkol sa kanyang talambuhay kumpara sa iba pang mga pangunahing makata ng Tang, na nagdaragdag lamang sa misteryo sa paligid ng kanyang maliit ngunit labis na makapangyarihang katawan ng trabaho.",
+    "style": "Ang mga natitirang tula ni Wang Zhihuan ay nailalarawan sa kanilang malawak na pananaw, matapang na imahen, at malalim na pilosopiya na nakamit sa napaka-compressed na anyo. Ang kanyang dalawang obra maestra — \"Climbing Stork Tower\" at \"Song of Liangzhou\" — ay parehong naglalarawan ng malawak na tanawin ng kalikasan at pagkatapos ay lumilipat sa mga malalim na pahayag tungkol sa pagnanais ng tao o paghihiwalay sa hangganan. Ang kanyang pananaw ay umaabot sa isang kosmikong sukat: mga ilog na dumadaloy patungo sa dagat, ang araw na lumulubog sa likod ng mga bundok, ang Ilog Dilaw na umaakyat sa mga ulap. Gayunpaman, ang kadakilaan na ito ay nagsisilbi sa pananaw ng tao, hindi lamang sa simpleng palabas.",
+    "legacy": "Pinatutunayan ni Wang Zhihuan na ang panliteraturang imortalidad ay nangangailangan ng kalidad, hindi dami. Ang \"Climbing Stork Tower\" (登鹳雀楼) ay naging isa sa mga pinaka-ninanais na tula sa Tsino — ang mga huling linya nito na \"climb one more floor\" (更上一层楼) ay ginagamit bilang isang salawikain para sa patuloy na pagpapabuti sa lahat mula sa edukasyon hanggang sa negosyo. Ang \"Song of Liangzhou\" (凉州词) ay itinuturing na tiyak na tula ng hangganan. Ang kanyang gawa ay patunay na ang isang perpektong tula ay maaaring magtagal nang higit sa libu-libong mas mababang mga tula.",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "Kung nais mong makita ang isang libong milya pa, umakyat ka ng isang palapag pa ng tore",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "Ang puting araw ay lumulubog sa likod ng mga bundok; ang Ilog Dilaw ay dumadaloy patungo sa dagat",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  }
+]

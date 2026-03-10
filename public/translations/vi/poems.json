@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "P011",
+    "slug": "you-zi-yin",
+    "title": "Song of the Wandering Son",
+    "titleChinese": "游子吟",
+    "titlePinyin": "yóu zǐ yín",
+    "translation": "Một sợi chỉ yêu thương của người mẹ nằm trong tay — quần áo cho đứa con lang thang của bà. Trước khi con đi, bà khâu những đường kim mũi chỉ dày dặn, sợ rằng con sẽ lâu ngày không về. Ai nói tấc lòng của ngọn cỏ có thể đền đáp được sự ấm áp của ba mùa xuân ánh nắng?",
+    "background": "Mạnh Giao viết bài thơ này sau khi cuối cùng đã vượt qua kỳ thi đình ở tuổi 46. Bài thơ là một sự tôn vinh đối với mẹ của ông, người đã ủng hộ và tin tưởng ông qua nhiều thập kỷ thất bại và nghèo khó. Nó đã trở thành bài thơ Trung Quốc tiêu biểu về tình mẫu tử và được ngâm nga vào Ngày của Mẹ trên khắp thế giới nói tiếng Trung Quốc.",
+    "analysis": "Bài thơ tạo ra sức mạnh cảm xúc thông qua một hình ảnh cụ thể duy nhất: một người mẹ may quần áo cho đứa con trai sắp ra đi. Những \"đường kim mũi chỉ dày dặn\" tiết lộ sự lo lắng của bà — như thể may chặt hơn có thể bằng cách nào đó giữ con ở gần hơn hoặc bảo vệ con lâu hơn. Phép ẩn dụ kết thúc so sánh khả năng của đứa con để đền đáp mẹ mình với một ngọn cỏ cố gắng đền đáp mặt trời cho ba mùa ấm áp — một điều không thể.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Love & Devotion",
+    "originalSlug": "you-zi-yin",
+    "poet": {
+      "name": "Meng Jiao",
+      "nameChinese": "孟郊",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "751",
+      "deathYear": "814",
+      "bio": "Meng Jiao was a Tang Dynasty poet known for his austere, emotionally intense style. He struggled in poverty for much of his life and did not pass the imperial examinations until age 46. His poetry often reflects themes of hardship, family bonds, and moral earnestness."
+    },
+    "lines": [
+      {
+        "chinese": "慈母手中线，",
+        "pinyin": "cí mǔ shǒu zhōng xiàn,"
+      },
+      {
+        "chinese": "游子身上衣。",
+        "pinyin": "yóu zǐ shēn shàng yī."
+      },
+      {
+        "chinese": "临行密密缝，",
+        "pinyin": "lín xíng mì mì féng,"
+      },
+      {
+        "chinese": "意恐迟迟归。",
+        "pinyin": "yì kǒng chí chí guī."
+      },
+      {
+        "chinese": "谁言寸草心，",
+        "pinyin": "shéi yán cùn cǎo xīn,"
+      },
+      {
+        "chinese": "报得三春晖。",
+        "pinyin": "bào dé sān chūn huī."
+      }
+    ],
+    "traditionalChinese": "慈母手中線，遊子身上衣。臨行密密縫，意恐遲遲歸。誰言寸草心，報得三春暉。"
+  },
+  {
+    "id": "P012",
+    "slug": "jiang-xue",
+    "title": "River Snow",
+    "titleChinese": "江雪",
+    "titlePinyin": "jiāng xuě",
+    "translation": "Từ ngàn ngọn núi, chim đã biến mất; trên vạn nẻo đường, dấu chân người không còn. Một chiếc thuyền đơn độc, một ông già mặc áo tơi và đội nón — câu cá một mình trong tuyết lạnh trên sông.",
+    "background": "Liễu Tông Nguyên viết bài thơ này trong thời gian bị lưu đày chính trị ở Vĩnh Châu (Hồ Nam ngày nay). Bị đày ải vì vai trò của mình trong một phong trào cải cách thất bại, ông đã trải qua hơn một thập kỷ ở vùng sâu vùng xa phía nam. Bài thơ được đọc rộng rãi như một bức chân dung tự họa của nhà thơ trong cảnh lưu đày — cô đơn và không khuất phục. Đây là một trong những bài thơ Trung Quốc mang tính biểu tượng trực quan nhất, thường được mô tả trong tranh truyền thống.",
+    "analysis": "Bài thơ đạt được sự tĩnh lặng phi thường thông qua sự phủ định có hệ thống. Đầu tiên tất cả các loài chim biến mất, sau đó tất cả dấu vết của con người. Thế giới trống rỗng của tất cả sự sống ngoại trừ một ông già. Quy mô rất lớn (hàng ngàn ngọn núi, vạn nẻo đường) nhưng thu hẹp lại thành một điểm duy nhất (một chiếc thuyền, một hình người). Ông lão đánh cá, một mình trong một khung cảnh đóng băng, thể hiện sự chính trực của Khổng giáo — duy trì các nguyên tắc của một người bất chấp...",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "jiang-xue",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": "Liu Zongyuan was a Tang Dynasty essayist, poet, and political reformer. After a failed political reform, he was exiled to remote southern regions for the rest of his life. His poetry and prose reflect themes of isolation, resilience, and communion with nature. He is counted among the \"Eight Great Prose Masters of the Tang and Song.\""
+    },
+    "lines": [
+      {
+        "chinese": "千山鸟飞绝，",
+        "pinyin": "qiān shān niǎo fēi jué,"
+      },
+      {
+        "chinese": "万径人踪灭。",
+        "pinyin": "wàn jìng rén zōng miè."
+      },
+      {
+        "chinese": "孤舟蓑笠翁，",
+        "pinyin": "gū zhōu suō lì wēng,"
+      },
+      {
+        "chinese": "独钓寒江雪。",
+        "pinyin": "dú diào hán jiāng xuě."
+      }
+    ],
+    "traditionalChinese": "千山鳥飛絕，萬徑人蹤滅。孤舟蓑笠翁，獨釣寒江雪。"
+  },
+  {
+    "id": "P013",
+    "slug": "chu-sai",
+    "title": "Out on the Frontier",
+    "titleChinese": "出塞",
+    "titlePinyin": "chū sài",
+    "translation": "Vầng trăng vẫn soi sáng nước Tần, những cửa ải vẫn từ thời Hán — binh lính hành quân vạn dặm mà chưa trở về. Ước gì có Phi Tướng của Long Thành ở đây, ông ấy sẽ không bao giờ để ngựa địch vượt qua Âm Sơn.",
+    "background": "Bài thơ biên tái (边塞诗) này phản ánh chu kỳ chiến tranh biên giới bất tận trong suốt lịch sử Trung Quốc. \"Phi Tướng\" (飞将) đề cập đến Lý Quảng, một vị tướng huyền thoại thời nhà Hán nổi tiếng vì đã đánh bại quân du mục Hung Nô. Vương Xương Linh viết trong thời kỳ các chiến dịch quân sự đang diễn ra của nhà Đường chống lại các dân tộc phía bắc và phía tây.",
+    "analysis": "Câu mở đầu thật ngoạn mục trong sự nén chặt thời gian: cùng một vầng trăng và cùng những cửa ải biên giới đã chứng kiến chiến tranh từ triều đại nhà Tần qua nhà Hán và đến triều đại nhà Đường hiện tại. Nhiều thế kỷ trôi qua nhưng tình hình không bao giờ thay đổi — binh lính vẫn hành quân đi và không trở về. Ước muốn có một vị tướng vĩ đại như Lý Quảng vừa mang tính yêu nước vừa đau lòng, ngụ ý rằng sự lãnh đạo hiện tại là...",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "War & Frontier",
+    "originalSlug": "chu-sai",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": "Wang Changling was known as the \"Master of Seven-character Quatrains\" (七绝圣手) during the Tang Dynasty. He excelled at frontier poetry that combined martial spirit with deep compassion for soldiers. Despite his literary fame, he suffered political setbacks and was ultimately killed during the An Lushan Rebellion."
+    },
+    "lines": [
+      {
+        "chinese": "秦时明月汉时关，",
+        "pinyin": "qín shí míng yuè hàn shí guān,"
+      },
+      {
+        "chinese": "万里长征人未还。",
+        "pinyin": "wàn lǐ cháng zhēng rén wèi huán."
+      },
+      {
+        "chinese": "但使龙城飞将在，",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài,"
+      },
+      {
+        "chinese": "不教胡马度阴山。",
+        "pinyin": "bù jiào hú mǎ dù yīn shān."
+      }
+    ],
+    "traditionalChinese": "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬度陰山。"
+  },
+  {
+    "id": "P030",
+    "slug": "jiang-jin-jiu",
+    "title": "Bring in the Wine",
+    "titleChinese": "将进酒",
+    "titlePinyin": "jiāng jìn jiǔ",
+    "translation": "Do you not see the waters of the Yellow River come from heaven, rushing to the sea, never to return? Do you not see the mirrors in high halls reflecting white hair in grief — black silk at dawn, snow by dusk? When life goes well, enjoy it to the fullest; don't let your golden cup sit empty under the moon. Heaven gave me talents that must be put to use; a thousand gold coins spent will all come back again. Roast your mutton, slaughter your cattle, and make merry — we must drink three hundred cups",
+    "background": "Đây là bài thơ về rượu nổi tiếng nhất của Lý Bạch và là một trong những bài thơ hay nhất của Trung Quốc từng được viết. Ông sáng tác nó vào khoảng năm 752 sau Công nguyên khi đến thăm bạn bè là Sầm Huân và Đan Khâu trên núi. Bài thơ là một sự tôn vinh đầy thách thức đối với cuộc sống khi đối mặt với cái chết, một sự nổi loạn chống lại các giá trị thông thường về sự giàu có và địa vị, và một lập luận đầy đam mê cho việc sống trọn vẹn trong khoảnh khắc hiện tại.",
+    "analysis": "Bài thơ mở đầu bằng hai hình ảnh vĩ đại nhất trong thơ ca Trung Quốc: sông Hoàng Hà chảy từ trên trời xuống và tóc chuyển từ đen sang trắng chỉ trong một ngày. Cả hai đều truyền tải tốc độ đáng sợ mà cuộc sống trôi qua. Từ cuộc khủng hoảng hiện sinh này, Lý Bạch không chuyển sang tuyệt vọng mà chuyển sang trạng thái ngây ngất - nếu cuộc sống ngắn ngủi, thì hãy nắm bắt niềm vui ngay bây giờ. Sự leo thang là không ngừng: uống 300 chén, không bao giờ dừng lại, đổi con ngựa của bạn...",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "jiang-jin-jiu",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": "Li Bai is one of the most celebrated poets in Chinese history, known as the \"Immortal Poet\" (诗仙). Born in Central Asia and raised in Sichuan, he was famous for his romantic imagination, love of wine, and Daoist-influenced worldview. His poetry combines grandeur with effortless elegance."
+    },
+    "lines": [
+      {
+        "chinese": "君不见，黄河之水天上来，",
+        "pinyin": "jūn bú jiàn, huáng hé zhī shuǐ tiān shàng lái,"
+      },
+      {
+        "chinese": "奔流到海不复回。",
+        "pinyin": "bēn liú dào hǎi bù fù huí."
+      },
+      {
+        "chinese": "君不见，高堂明镜悲白发，",
+        "pinyin": "jūn bú jiàn, gāo táng míng jìng bēi bái fà,"
+      },
+      {
+        "chinese": "朝如青丝暮成雪。",
+        "pinyin": "zhāo rú qīng sī mù chéng xuě."
+      },
+      {
+        "chinese": "人生得意须尽欢，",
+        "pinyin": "rén shēng dé yì xū jìn huān,"
+      },
+      {
+        "chinese": "莫使金樽空对月。",
+        "pinyin": "mò shǐ jīn zūn kōng duì yuè."
+      },
+      {
+        "chinese": "天生我材必有用，",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng,"
+      },
+      {
+        "chinese": "千金散尽还复来。",
+        "pinyin": "qiān jīn sàn jìn hái fù lái."
+      },
+      {
+        "chinese": "烹羊宰牛且为乐，",
+        "pinyin": "pēng yáng zǎi niú qiě wéi lè,"
+      },
+      {
+        "chinese": "会须一饮三百杯。",
+        "pinyin": "huì xū yī yǐn sān bǎi bēi."
+      },
+      {
+        "chinese": "岑夫子，丹丘生，",
+        "pinyin": "cén fū zǐ, dān qiū shēng,"
+      },
+      {
+        "chinese": "将进酒，杯莫停。",
+        "pinyin": "jiāng jìn jiǔ, bēi mò tíng."
+      },
+      {
+        "chinese": "与君歌一曲，",
+        "pinyin": "yǔ jūn gē yī qǔ,"
+      },
+      {
+        "chinese": "请君为我倾耳听。",
+        "pinyin": "qǐng jūn wèi wǒ qīng ěr tīng."
+      },
+      {
+        "chinese": "钟鼓馔玉不足贵，",
+        "pinyin": "zhōng gǔ zhuàn yù bù zú guì,"
+      },
+      {
+        "chinese": "但愿长醉不愿醒。",
+        "pinyin": "dàn yuàn cháng zuì bù yuàn xǐng."
+      },
+      {
+        "chinese": "古来圣贤皆寂寞，",
+        "pinyin": "gǔ lái shèng xián jiē jì mò,"
+      },
+      {
+        "chinese": "惟有饮者留其名。",
+        "pinyin": "wéi yǒu yǐn zhě liú qí míng."
+      },
+      {
+        "chinese": "陈王昔时宴平乐，",
+        "pinyin": "chén wáng xī shí yàn píng lè,"
+      },
+      {
+        "chinese": "斗酒十千恣欢谑。",
+        "pinyin": "dǒu jiǔ shí qiān zì huān xuè."
+      },
+      {
+        "chinese": "主人何为言少钱，",
+        "pinyin": "zhǔ rén hé wéi yán shǎo qián,"
+      },
+      {
+        "chinese": "径须沽取对君酌。",
+        "pinyin": "jìng xū gū qǔ duì jūn zhuó."
+      },
+      {
+        "chinese": "五花马，千金裘，",
+        "pinyin": "wǔ huā mǎ, qiān jīn qiú,"
+      },
+      {
+        "chinese": "呼儿将出换美酒，",
+        "pinyin": "hū ér jiāng chū huàn měi jiǔ,"
+      },
+      {
+        "chinese": "与尔同销万古愁。",
+        "pinyin": "yǔ ěr tóng xiāo wàn gǔ chóu."
+      }
+    ],
+    "traditionalChinese": "君不見，黃河之水天上來，奔流到海不復回。君不見，高堂明鏡悲白髮，朝如青絲暮成雪。人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。烹羊宰牛且為樂，會須一飲三百杯。岑夫子，丹丘生，將進酒，杯莫停。與君歌一曲，請君為我傾耳聽。鐘鼓饌玉不足貴，但願長醉不願醒。古來聖賢皆寂寞，惟有飲者留其名。陳王昔時宴平樂，斗酒十千恣歡謔。主人何為言少錢，徑須沽取對君酌。五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。"
+  },
+  {
+    "id": "P001",
+    "slug": "jing-ye-si",
+    "title": "Tư Tưởng Đêm Im Lặng",
+    "titleChinese": "静夜思",
+    "titlePinyin": "jìng yè sī",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "床前明月光，",
+        "pinyin": "chuáng qián míng yuè guāng,"
+      },
+      {
+        "chinese": "疑是地上霜。",
+        "pinyin": "yí shì dì shàng shuāng."
+      },
+      {
+        "chinese": "举头望明月，",
+        "pinyin": "jǔ tóu wàng míng yuè,"
+      },
+      {
+        "chinese": "低头思故乡。",
+        "pinyin": "dī tóu sī gù xiāng."
+      }
+    ],
+    "traditionalChinese": "床前明月光，疑是地上霜。舉頭望明月，低頭思故鄉。",
+    "translation": "Trước giường tôi, ánh trăng sáng lấp lánh — Tôi tự hỏi liệu có phải là sương giá trên mặt đất không. Tôi ngẩng đầu nhìn ánh trăng sáng, rồi cúi xuống, nghĩ về quê hương của mình.",
+    "background": "Được viết khoảng năm 726 sau Công Nguyên, đây có lẽ là bài thơ nổi tiếng nhất của Trung Quốc. Li Bai đã viết nó khi đang du lịch xa quê hương Sichuan. Bài thơ nắm bắt một khoảnh khắc phổ quát: nằm awake vào ban đêm, nhìn thấy ánh trăng, và cảm nhận nỗi nhớ quê hương. Gần như mọi người Trung Quốc đều có thể thuộc lòng bài thơ này, vì nó là một trong những bài thơ đầu tiên được dạy cho trẻ em.",
+    "analysis": "Sự thiên tài của bài thơ này nằm ở sự đơn giản của nó. Chỉ với 20 ký tự, Li Bai tạo ra một vòng cung cảm xúc hoàn chỉnh: quan sát (ánh trăng), bối rối (có phải là sương giá?), hành động (nhìn lên), và cảm giác (nỗi nhớ quê hương). Cấu trúc song song của hai dòng cuối — ngẩng và cúi đầu — phản ánh sự chuyển động giữa thế giới bên ngoài (trăng) và cảm xúc bên trong (nỗi khao khát). Ánh trăng đóng vai trò như một cây cầu giữa nhà thơ và quê hương xa xôi của ông, vì cùng một ánh trăng chiếu sáng cả hai.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "jing-ye-si"
+  },
+  {
+    "id": "P002",
+    "slug": "chun-xiao",
+    "title": "Buổi Sáng Mùa Xuân",
+    "titleChinese": "春晓",
+    "titlePinyin": "chūn xiǎo",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "春眠不觉晓，",
+        "pinyin": "chūn mián bù jué xiǎo,"
+      },
+      {
+        "chinese": "处处闻啼鸟。",
+        "pinyin": "chù chù wén tí niǎo."
+      },
+      {
+        "chinese": "夜来风雨声，",
+        "pinyin": "yè lái fēng yǔ shēng,"
+      },
+      {
+        "chinese": "花落知多少。",
+        "pinyin": "huā luò zhī duō shǎo."
+      }
+    ],
+    "traditionalChinese": "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。",
+    "translation": "Trong giấc ngủ mùa xuân, bình minh đến mà không ai hay biết — khắp nơi tôi nghe tiếng chim hót. Tối qua có tiếng gió và mưa; ai biết có bao nhiêu cánh hoa đã rụng?",
+    "background": "Bài thơ đơn giản này là một trong những bài thơ đầu tiên mà trẻ em Trung Quốc học. Meng Haoran nắm bắt niềm vui buồn ngủ của việc ngủ muộn vào một buổi sáng mùa xuân, sau đó chuyển sang nỗi buồn nhẹ nhàng khi ông tự hỏi về những bông hoa bị gió mưa đánh rụng. Bài thơ có niên đại từ đầu thế kỷ 8.",
+    "analysis": "Bài thơ di chuyển qua các giác quan: trước tiên là cảm giác (sự ấm áp của giường), sau đó là thính giác (tiếng chim hót, rồi những âm thanh của mưa được nhớ lại), và cuối cùng là trí tưởng tượng (những bông hoa rụng). Câu hỏi kết thúc mở — nhà thơ không dậy để kiểm tra, để lại nỗi mất mát của vẻ đẹp như một suy nghĩ dai dẳng. Sự tương tác giữa sự thoải mái và sự tạm thời này là đặc trưng cho thẩm mỹ Trung Quốc.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "chun-xiao"
+  },
+  {
+    "id": "P003",
+    "slug": "deng-guan-que-lou",
+    "title": "Leo Tháp Cò",
+    "titleChinese": "登鹳雀楼",
+    "titlePinyin": "dēng guàn què lóu",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "白日依山尽，",
+        "pinyin": "bái rì yī shān jìn,"
+      },
+      {
+        "chinese": "黄河入海流。",
+        "pinyin": "huáng hé rù hǎi liú."
+      },
+      {
+        "chinese": "欲穷千里目，",
+        "pinyin": "yù qióng qiān lǐ mù,"
+      },
+      {
+        "chinese": "更上一层楼。",
+        "pinyin": "gèng shàng yī céng lóu."
+      }
+    ],
+    "traditionalChinese": "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+    "translation": "Mặt trời trắng lặn sau những ngọn núi; sông Hoàng Hà chảy vào biển. Nếu bạn muốn nhìn xa thêm một nghìn dặm, hãy leo thêm một tầng nữa của tháp.",
+    "background": "Được viết tại Tháp Cò (鹳雀楼) ở tỉnh Shanxi, nhìn ra sông Hoàng Hà. Tháp, ban đầu được xây dựng trong triều đại Bắc Chu, là một địa điểm nổi tiếng. Bài thơ đã trở thành một câu tục ngữ cho tham vọng và sự tự cải thiện — \"leo thêm một tầng\" được sử dụng trong tiếng Trung hàng ngày để có nghĩa là \"đạt đến cấp độ tiếp theo.\"",
+    "analysis": "Hai dòng đầu tiên vẽ nên một bức tranh rộng lớn: mặt trời biến mất sau những ngọn núi, dòng sông chảy ra biển xa. Cả hai hình ảnh đều truyền tải sự bao la và sự trôi qua của những điều nằm ngoài tầm kiểm soát của con người. Hai dòng cuối cùng chuyển từ quan sát sang triết lý: để nhìn xa hơn, bạn phải leo cao hơn. Ẩn dụ này về sự tự cải thiện liên tục đã khiến bài thơ trở thành một phương châm bền vững trong văn hóa Trung Quốc.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-guan-que-lou"
+  },
+  {
+    "id": "P004",
+    "slug": "yong-e",
+    "title": "Khúc Ca Về Ngỗng",
+    "titleChinese": "咏鹅",
+    "titlePinyin": "yǒng é",
+    "poet": {
+      "name": "Luo Binwang",
+      "nameChinese": "骆宾王",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "619",
+      "deathYear": "687",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "鹅，鹅，鹅，",
+        "pinyin": "é, é, é,"
+      },
+      {
+        "chinese": "曲项向天歌。",
+        "pinyin": "qū xiàng xiàng tiān gē."
+      },
+      {
+        "chinese": "白毛浮绿水，",
+        "pinyin": "bái máo fú lǜ shuǐ,"
+      },
+      {
+        "chinese": "红掌拨清波。",
+        "pinyin": "hóng zhǎng bō qīng bō."
+      }
+    ],
+    "traditionalChinese": "鵝，鵝，鵝，曲項向天歌。白毛浮綠水，紅掌撥清波。",
+    "translation": "Ngỗng, ngỗng, ngỗng — bạn cúi cổ và hát về phía bầu trời. Lông trắng nổi trên nước xanh; chân đỏ chèo những làn sóng trong vắt.",
+    "background": "Truyền thuyết cho rằng Luo Binwang đã sáng tác bài thơ này khi mới bảy tuổi khi một người lớn yêu cầu ông viết về ngỗng. Đây thường là bài thơ đầu tiên được dạy cho trẻ em Trung Quốc, được yêu thích vì màu sắc sống động, sự lặp lại vui tươi và sự ngạc nhiên của trẻ con. Bài thơ có niên đại khoảng năm 626 sau Công Nguyên.",
+    "analysis": "Sự lặp lại ba lần của \"ngỗng\" ở phần mở đầu mô phỏng sự phấn khích của trẻ em. Bài thơ sau đó xây dựng một bảng màu sống động: lông trắng, nước xanh, chân đỏ, sóng trong vắt. Mỗi chi tiết đều chính xác và cảm quan. Mặc dù đơn giản, bài thơ thể hiện kỹ thuật tinh vi — sự tương phản của màu sắc và các động từ năng động (nổi, chèo) mang lại sức sống cho cảnh vật.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "yong-e"
+  },
+  {
+    "id": "P005",
+    "slug": "min-nong",
+    "title": "Thương Xót Những Người Nông Dân",
+    "titleChinese": "悯农（其二）",
+    "titlePinyin": "mǐn nóng (qí èr)",
+    "poet": {
+      "name": "Li Shen",
+      "nameChinese": "李绅",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "锄禾日当午，",
+        "pinyin": "chú hé rì dāng wǔ,"
+      },
+      {
+        "chinese": "汗滴禾下土。",
+        "pinyin": "hàn dī hé xià tǔ."
+      },
+      {
+        "chinese": "谁知盘中餐，",
+        "pinyin": "shéi zhī pán zhōng cān,"
+      },
+      {
+        "chinese": "粒粒皆辛苦。",
+        "pinyin": "lì lì jiē xīn kǔ."
+      }
+    ],
+    "traditionalChinese": "鋤禾日當午，汗滴禾下土。誰知盤中餐，粒粒皆辛苦。",
+    "translation": "Cuốc lúa dưới ánh nắng giữa trưa, mồ hôi nhỏ xuống đất dưới những cây trồng. Ai biết rằng thức ăn trên đĩa của bạn — mỗi hạt đều là công sức lao động vất vả?",
+    "background": "Bài thơ này là một bài học đạo đức về việc tôn trọng thực phẩm và công lao đằng sau nó. Nó được hầu hết mọi trẻ em Trung Quốc thuộc lòng và thường được cha mẹ trích dẫn trong bữa ăn. Bài thơ được viết trong thời kỳ mà khoảng cách giữa các tầng lớp giàu có và lao động rất rõ rệt, và Li Shen đã cố gắng nhắc nhở những người có điều kiện về cái giá nhân văn đằng sau bữa ăn của họ.",
+    "analysis": "Sức mạnh của bài thơ nằm ở sự trực tiếp của nó. Hai dòng đầu tiên đưa chúng ta vào cánh đồng dưới ánh nắng chói chang — chúng ta có thể cảm nhận được cái nóng và thấy mồ hôi. Câu hỏi tu từ ở dòng ba trực tiếp nhắm đến người đọc, tạo ra cảm giác tội lỗi hoặc trách nhiệm. Dòng cuối cùng, với sự lặp lại của \"mỗi hạt\" (粒粒), nhấn mạnh rằng không có lượng thực phẩm nào nên bị lãng phí.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "min-nong"
+  },
+  {
+    "id": "P006",
+    "slug": "wang-lu-shan-pu-bu",
+    "title": "Ngắm Thác Nước ở Núi Lư",
+    "titleChinese": "望庐山瀑布",
+    "titlePinyin": "wàng lú shān pù bù",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "日照香炉生紫烟，",
+        "pinyin": "rì zhào xiāng lú shēng zǐ yān,"
+      },
+      {
+        "chinese": "遥看瀑布挂前川。",
+        "pinyin": "yáo kàn pù bù guà qián chuān."
+      },
+      {
+        "chinese": "飞流直下三千尺，",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ,"
+      },
+      {
+        "chinese": "疑是银河落九天。",
+        "pinyin": "yí shì yín hé luò jiǔ tiān."
+      }
+    ],
+    "traditionalChinese": "日照香爐生紫煙，遙看瀑布掛前川。飛流直下三千尺，疑是銀河落九天。",
+    "translation": "Ánh sáng mặt trời trên Đỉnh Lư Hương tạo ra sương tím; từ xa tôi thấy thác nước treo lơ lửng trên dòng sông. Dòng nước chảy thẳng xuống ba ngàn bộ — như thể Dải Ngân Hà đang rơi từ thiên đường thứ chín.",
+    "background": "Li Bai đã viết bài thơ này khi thăm Núi Lư (庐山) ở tỉnh Giang Tây, một trong những ngọn núi nổi tiếng nhất của Trung Quốc. \"Đỉnh Lư Hương\" (香炉峰) là một đỉnh núi mà sương mù, khi được ánh sáng mặt trời chiếu sáng, giống như khói hương. Thác nước được mô tả có thể là Thác Kai先 (开先瀑布), một trong nhiều thác nước ở Núi Lư.",
+    "analysis": "Bài thơ này thể hiện sự phóng đại và trí tưởng tượng vũ trụ đặc trưng của Li Bai. Sự tiến triển từ quan sát thực tế (ánh sáng mặt trời trên sương mù) đến mô tả ngày càng kỳ ảo — thác nước \"treo\" như một bức màn, rơi \"ba ngàn bộ,\" và cuối cùng trở thành Dải Ngân Hà đang rơi từ thiên đường. Số \"chín\" trong vũ trụ học Trung Quốc đại diện cho độ cao nhất, khiến \"thiên đường thứ chín\" trở thành độ cao tối thượng.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "wang-lu-shan-pu-bu"
+  },
+  {
+    "id": "P007",
+    "slug": "chun-wang",
+    "title": "Cảnh Xuân",
+    "titleChinese": "春望",
+    "titlePinyin": "chūn wàng",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "国破山河在，",
+        "pinyin": "guó pò shān hé zài,"
+      },
+      {
+        "chinese": "城春草木深。",
+        "pinyin": "chéng chūn cǎo mù shēn."
+      },
+      {
+        "chinese": "感时花溅泪，",
+        "pinyin": "gǎn shí huā jiàn lèi,"
+      },
+      {
+        "chinese": "恨别鸟惊心。",
+        "pinyin": "hèn bié niǎo jīng xīn."
+      },
+      {
+        "chinese": "烽火连三月，",
+        "pinyin": "fēng huǒ lián sān yuè,"
+      },
+      {
+        "chinese": "家书抵万金。",
+        "pinyin": "jiā shū dǐ wàn jīn."
+      },
+      {
+        "chinese": "白头搔更短，",
+        "pinyin": "bái tóu sāo gèng duǎn,"
+      },
+      {
+        "chinese": "浑欲不胜簪。",
+        "pinyin": "hún yù bù shèng zān."
+      }
+    ],
+    "traditionalChinese": "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+    "translation": "Tổ quốc tan vỡ, mặc dù núi non và sông ngòi vẫn còn; thành phố vào mùa xuân bị cỏ cây bao phủ. Bị thời cuộc cảm động, hoa mang nước mắt; ghét sự chia ly, tiếng chim làm tim đau nhói. Lửa hiệu đã cháy suốt ba tháng; một bức thư từ quê nhà có giá trị bằng mười ngàn vàng. Tôi gãi đầu tóc trắng, ngày càng thưa — sớm muộn gì cũng không giữ nổi một chiếc trâm.",
+    "background": "Viết vào mùa xuân năm 757 sau Công Nguyên, trong thời kỳ Khởi Nghĩa An Lushan (755–763) đã tàn phá triều đại Đường. Du Fu bị mắc kẹt trong thủ đô bị chiếm đóng bởi quân nổi dậy Trường An, xa cách gia đình. Bài thơ thể hiện nỗi đau khi chứng kiến sự hủy diệt quốc gia trong khi bất lực lo lắng cho những người thân yêu. Nó được coi là một trong những bài thơ chiến tranh vĩ đại nhất trong văn học Trung Quốc.",
+    "analysis": "Câu mở đầu thật ấn tượng với sự tương phản: tổ quốc \"tan vỡ\" nhưng thiên nhiên vẫn tồn tại — núi non và sông ngòi vẫn thờ ơ trước thảm họa nhân loại. Trong hai câu nổi tiếng thứ ba và thứ tư, ngay cả những điều đẹp đẽ (hoa, tiếng chim) cũng trở thành nguồn gốc của nỗi đau vì trạng thái cảm xúc của nhà thơ biến mọi thứ thành nỗi buồn. Câu \"một bức thư từ quê nhà có giá trị bằng mười ngàn vàng\" (家书抵万金) đã trở thành một câu nói phổ biến trong văn hóa Trung Quốc vẫn được sử dụng đến ngày nay.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "War & Frontier",
+    "originalSlug": "chun-wang"
+  },
+  {
+    "id": "P008",
+    "slug": "lu-chai",
+    "title": "Chuồng Hươu",
+    "titleChinese": "鹿柴",
+    "titlePinyin": "lù zhài",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "空山不见人，",
+        "pinyin": "kōng shān bú jiàn rén,"
+      },
+      {
+        "chinese": "但闻人语响。",
+        "pinyin": "dàn wén rén yǔ xiǎng."
+      },
+      {
+        "chinese": "返景入深林，",
+        "pinyin": "fǎn jǐng rù shēn lín,"
+      },
+      {
+        "chinese": "复照青苔上。",
+        "pinyin": "fù zhào qīng tái shàng."
+      }
+    ],
+    "traditionalChinese": "空山不見人，但聞人語響。返景入深林，復照青苔上。",
+    "translation": "Trong những ngọn núi trống trải, không ai có thể thấy — nhưng tiếng vọng từ đâu đó vang lên. Ánh sáng mặt trời trở lại chiếu vào rừng sâu và chiếu sáng lại trên lớp rêu xanh.",
+    "background": "Đây là một trong hai mươi bài thơ trong \"Tập thơ Wang River\" (辋川集) của Wang Wei, mô tả cảnh vật xung quanh điền trang của ông ở núi Trung Nam gần Trường An. Chuồng Hươu là một địa điểm cụ thể trong tài sản của ông. Wang Wei sáng tác những bài thơ này trong những khoảng thời gian rút lui khỏi cuộc sống chính thức, chịu ảnh hưởng sâu sắc từ Thiền (Zen) Phật giáo.",
+    "analysis": "Bài thơ này là một bài học về việc tạo ra bầu không khí thông qua sự vắng mặt. \"Ngọn núi trống trải\" với những tiếng vọng không thấy tạo ra một nghịch lý — sự trống trải không thực sự trống rỗng. Tia sáng mặt trời chiếu vào rừng sâu chỉ chiếu sáng lớp rêu, gợi ý rằng ánh sáng (hoặc con người) hiếm khi thâm nhập vào nơi này. Bài thơ thể hiện khái niệm Thiền về việc tìm thấy sự hiện diện sâu sắc trong sự trống rỗng rõ ràng.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "lu-chai"
+  },
+  {
+    "id": "P010",
+    "slug": "song-yuan-er-shi-an-xi",
+    "title": "Tạm Biệt Yuan Er Trong Sứ Mệnh Đến Anxi",
+    "titleChinese": "送元二使安西",
+    "titlePinyin": "sòng yuán èr shǐ ān xī",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渭城朝雨浥轻尘，",
+        "pinyin": "wèi chéng zhāo yǔ yì qīng chén,"
+      },
+      {
+        "chinese": "客舍青青柳色新。",
+        "pinyin": "kè shè qīng qīng liǔ sè xīn."
+      },
+      {
+        "chinese": "劝君更尽一杯酒，",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ,"
+      },
+      {
+        "chinese": "西出阳关无故人。",
+        "pinyin": "xī chū yáng guān wú gù rén."
+      }
+    ],
+    "traditionalChinese": "渭城朝雨浥輕塵，客舍青青柳色新。勸君更盡一杯酒，西出陽關無故人。",
+    "translation": "Mưa sáng ở Weicheng đã làm ẩm bụi nhẹ; quán trọ tươi mới và xanh mướt với màu sắc của cây liễu mới. Tôi khuyên bạn uống thêm một ly rượu nữa — phía tây ải Dương, bạn sẽ không có bạn cũ nào.",
+    "background": "Wang Wei đã viết bài thơ này để tạm biệt người bạn Yuan Er, người đang được gửi đi trong một sứ mệnh ngoại giao đến Anxi (ở Tân Cương hiện đại), xa hơn ngoài biên giới phía tây. Ải Dương (阳关) là cổng cuối cùng trước những vùng đất hoang vắng phía tây. Bài thơ sau đó được phổ nhạc thành \"Ba Biến Thể về Ải Dương\" (阳关三叠), trở thành bài hát tạm biệt nổi tiếng nhất trong lịch sử Trung Quốc.",
+    "analysis": "Mưa sáng rửa trôi bụi bẩn tạo ra một cảnh tượng tươi mới và rõ ràng, tương phản với sự chia ly sắp xảy ra. Cây liễu (柳) là một biểu tượng tạm biệt truyền thống trong văn hóa Trung Quốc, vì từ này nghe giống như \"ở lại\" (留). Sự khẩn trương trong câu thứ ba — \"uống thêm một ly nữa\" — mang nặng ý thức rằng đây có thể là lần cuối cùng bạn bè cùng nhau chia sẻ rượu. Câu cuối cùng thật tàn nhẫn trong sự đơn giản của nó: bên kia ải Dương, sẽ không có ai bạn biết.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "song-yuan-er-shi-an-xi"
+  },
+  {
+    "id": "P014",
+    "slug": "ye-yu-ji-bei",
+    "title": "Mưa Đêm — Thư Gửi Phương Bắc",
+    "titleChinese": "夜雨寄北",
+    "titlePinyin": "yè yǔ jì běi",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "君问归期未有期，",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī,"
+      },
+      {
+        "chinese": "巴山夜雨涨秋池。",
+        "pinyin": "bā shān yè yǔ zhǎng qiū chí."
+      },
+      {
+        "chinese": "何当共剪西窗烛，",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú,"
+      },
+      {
+        "chinese": "却话巴山夜雨时。",
+        "pinyin": "què huà bā shān yè yǔ shí."
+      }
+    ],
+    "traditionalChinese": "君問歸期未有期，巴山夜雨漲秋池。何當共剪西窗燭，卻話巴山夜雨時。",
+    "translation": "Bạn hỏi khi nào tôi sẽ trở về — không có ngày nào được ấn định. Mưa đêm trên núi Ba làm đầy những ao thu. Khi nào chúng ta sẽ ngồi cùng nhau cắt nến bên cửa sổ phía tây, và nói về đêm mưa này trên núi Ba?",
+    "background": "Li Shangyin đã viết bài thơ này khi bị mắc kẹt ở vùng Ba (Tứ Xuyên), xa cách vợ ở Trường An. Bức thư ông nhận được hỏi khi nào ông sẽ trở về, nhưng ông không có câu trả lời. Bài thơ nổi bật với cấu trúc của nó: hiện tại (mưa, cô đơn) và một tương lai tưởng tượng (tái ngộ) gập lại với nhau qua cụm từ lặp lại \"mưa đêm trên núi Ba.\"",
+    "analysis": "Sự lặp lại của \"Mưa đêm núi Ba\" (巴山夜雨) tạo ra một vòng lặp thời gian. Trong hiện tại, cơn mưa là nguồn gốc của nỗi buồn. Trong tương lai tưởng tượng, cơn mưa đó trở thành một câu chuyện để chia sẻ với người thân yêu — biến nỗi đau thành kỷ niệm, cô đơn thành sự gần gũi. Hành động \"cắt nến\" gợi ý một cuộc trò chuyện dài, không vội vã vào giữa đêm. Bài thơ biến nỗi đau hiện tại thành sự dịu dàng trong tương lai.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Love & Devotion",
+    "originalSlug": "ye-yu-ji-bei"
+  },
+  {
+    "id": "P015",
+    "slug": "qing-ming",
+    "title": "Lễ hội Thanh Minh",
+    "titleChinese": "清明",
+    "titlePinyin": "qīng míng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "清明时节雨纷纷，",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn,"
+      },
+      {
+        "chinese": "路上行人欲断魂。",
+        "pinyin": "lù shàng xíng rén yù duàn hún."
+      },
+      {
+        "chinese": "借问酒家何处有，",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu,"
+      },
+      {
+        "chinese": "牧童遥指杏花村。",
+        "pinyin": "mù tóng yáo zhǐ xìng huā cūn."
+      }
+    ],
+    "traditionalChinese": "清明時節雨紛紛，路上行人欲斷魂。借問酒家何處有，牧童遙指杏花村。",
+    "translation": "Trong Lễ hội Thanh Minh, mưa rơi dày và nhanh; những người hành khách trên đường mệt mỏi đến tận tâm hồn. \"Tôi có thể tìm một quán rượu ở đâu?\" Tôi hỏi — một cậu bé chăn cừu chỉ về phía làng Hoa Mơ ở xa.",
+    "background": "Lễ hội Thanh Minh (Lễ hội Sáng Sạch, còn gọi là Ngày Dọn Dẹp Mộ) diễn ra vào đầu tháng Tư, khi các gia đình thăm mộ tổ tiên. Mưa trong Thanh Minh được coi là may mắn nhưng làm cho dịp đã buồn càng thêm u ám. Bài thơ này đã trở nên gắn bó với lễ hội đến mức gần như không thể nhắc đến Thanh Minh mà không có ai đó trích dẫn nó.",
+    "analysis": "Bài thơ kể một câu chuyện nhỏ. Cơn mưa và trọng lượng cảm xúc của lễ hội được thiết lập trong hai dòng đầu tiên. Sau đó, một cuộc trao đổi hỏi đáp đơn giản giữa người hành khách và cậu bé chăn cừu tạo ra sự chuyển biến. Hình ảnh cuối cùng — một ngôi làng xa xôi mang tên hoa mơ — cung cấp cả nơi trú ẩn thực sự (một quán rượu để nghỉ ngơi) và hy vọng biểu tượng (vẻ đẹp vượt qua cơn mưa). Cấu trúc kể chuyện của bài thơ khiến nó cảm thấy như một cảnh trong một bộ phim.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qing-ming"
+  },
+  {
+    "id": "P016",
+    "slug": "fu-de-gu-yuan-cao-song-bie",
+    "title": "Cỏ",
+    "titleChinese": "赋得古原草送别",
+    "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "离离原上草，",
+        "pinyin": "lí lí yuán shàng cǎo,"
+      },
+      {
+        "chinese": "一岁一枯荣。",
+        "pinyin": "yī suì yī kū róng."
+      },
+      {
+        "chinese": "野火烧不尽，",
+        "pinyin": "yě huǒ shāo bù jìn,"
+      },
+      {
+        "chinese": "春风吹又生。",
+        "pinyin": "chūn fēng chuī yòu shēng."
+      },
+      {
+        "chinese": "远芳侵古道，",
+        "pinyin": "yuǎn fāng qīn gǔ dào,"
+      },
+      {
+        "chinese": "晴翠接荒城。",
+        "pinyin": "qíng cuì jiē huāng chéng."
+      },
+      {
+        "chinese": "又送王孙去，",
+        "pinyin": "yòu sòng wáng sūn qù,"
+      },
+      {
+        "chinese": "萋萋满别情。",
+        "pinyin": "qī qī mǎn bié qíng."
+      }
+    ],
+    "traditionalChinese": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。",
+    "translation": "Cỏ vô tận trên đồng bằng — mỗi năm chúng héo úa rồi lại nở rộ. Lửa rừng không thể thiêu cháy chúng; gió xuân thổi và chúng lại mọc lên. Hương thơm xa xôi của chúng vươn tới con đường cũ; màu xanh dưới ánh nắng của chúng gặp gỡ thành phố đổ nát. Một lần nữa tôi tiễn bạn — cỏ dày tràn ngập nỗi buồn chia ly.",
+    "background": "Bạch Cư Dị đã viết bài thơ này khi 16 tuổi như một tác phẩm thi cử. Huyền thoại nói rằng khi nhà thơ nổi tiếng Gu Kuang lần đầu đọc nó, ông đã kinh ngạc trước tài năng của nhà thơ trẻ. Những câu \"Lửa rừng không thể thiêu cháy chúng; gió xuân thổi và chúng lại mọc lên\" đã trở thành một trong những câu thơ được trích dẫn nhiều nhất trong văn học Trung Quốc, biểu tượng cho sức sống kiên cường.",
+    "analysis": "Bài thơ hoạt động trên hai cấp độ: như một quan sát thiên nhiên và như một lời chia tay. Cỏ trở thành một phép ẩn dụ cho cả sự kiên trì của sự sống (sống sót qua lửa, trở lại mỗi mùa xuân) và sự kiên trì của nỗi buồn (luôn mọc lại khi bạn bè ra đi). Phần giữa mở rộng cảnh — cỏ vươn dài theo những con đường cổ và bên những thành phố đổ nát — kết nối lời chia tay cá nhân với dòng chảy của lịch sử. Câu kết nối mọi thứ với khoảnh khắc cụ thể của việc nói lời tạm biệt.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "fu-de-gu-yuan-cao-song-bie"
+  },
+  {
+    "id": "P017",
+    "slug": "zao-fa-bai-di-cheng",
+    "title": "Khởi hành sớm từ Thành phố Bạch Đế",
+    "titleChinese": "早发白帝城",
+    "titlePinyin": "zǎo fā bái dì chéng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "朝辞白帝彩云间，",
+        "pinyin": "zhāo cí bái dì cǎi yún jiān,"
+      },
+      {
+        "chinese": "千里江陵一日还。",
+        "pinyin": "qiān lǐ jiāng líng yī rì huán."
+      },
+      {
+        "chinese": "两岸猿声啼不住，",
+        "pinyin": "liǎng àn yuán shēng tí bú zhù,"
+      },
+      {
+        "chinese": "轻舟已过万重山。",
+        "pinyin": "qīng zhōu yǐ guò wàn chóng shān."
+      }
+    ],
+    "traditionalChinese": "朝辭白帝彩雲間，千里江陵一日還。兩岸猿聲啼不住，輕舟已過萬重山。",
+    "translation": "Vào lúc bình minh, tôi rời Thành phố Bạch Đế giữa những đám mây màu sắc; một ngàn dặm đến Giang Lăng, tôi sẽ trở về trong một ngày. Từ hai bờ, tiếng kêu của khỉ không bao giờ ngừng — chiếc thuyền nhẹ của tôi đã vượt qua mười ngàn ngọn núi.",
+    "background": "Lý Bạch đã viết bài thơ này vào năm 759 sau Công Nguyên sau khi được ân xá khỏi cuộc lưu đày. Ông đã bị kết án lưu đày ở Guizhou xa xôi vì tham gia vào một cuộc nổi dậy chính trị, nhưng một lệnh ân xá đã được ban hành trong khi ông đang đi ngược dòng. Bài thơ này ghi lại niềm vui của ông khi ông chạy trở lại hạ lưu qua Ba Hẻm của sông Dương Tử. Sự phấn khích là rõ ràng.",
+    "analysis": "Bài thơ tràn đầy tốc độ và niềm vui. \"Đám mây màu sắc\" tạo khung cho sự ra đi trong vẻ đẹp; \"một ngàn dặm trong một ngày\" truyền tải tốc độ đáng kinh ngạc. Tiếng kêu của khỉ — một biểu tượng truyền thống của nỗi buồn trong thơ Trung Quốc — được biến đổi ở đây: chúng không thể làm chậm bước chân của ông. Thì quá khứ của câu cuối (\"đã vượt qua\") tạo ra cảm giác dễ dàng, như thể những ngọn núi bay qua trong khi chúng ta không nhìn. Đây là Lý Bạch ở trạng thái vui mừng nhất của ông.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "zao-fa-bai-di-cheng"
+  },
+  {
+    "id": "P018",
+    "slug": "huang-he-lou-song-meng-hao-ran",
+    "title": "Tiễn Meng Haoran tại Tháp Hoàng Hạc",
+    "titleChinese": "黄鹤楼送孟浩然之广陵",
+    "titlePinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人西辞黄鹤楼，",
+        "pinyin": "gù rén xī cí huáng hè lóu,"
+      },
+      {
+        "chinese": "烟花三月下扬州。",
+        "pinyin": "yān huā sān yuè xià yáng zhōu."
+      },
+      {
+        "chinese": "孤帆远影碧空尽，",
+        "pinyin": "gū fān yuǎn yǐng bì kōng jìn,"
+      },
+      {
+        "chinese": "唯见长江天际流。",
+        "pinyin": "wéi jiàn cháng jiāng tiān jì liú."
+      }
+    ],
+    "traditionalChinese": "故人西辭黃鶴樓，煙花三月下揚州。孤帆遠影碧空盡，唯見長江天際流。",
+    "translation": "Người bạn cũ của tôi từ biệt tại Tháp Hoàng Hạc ở phía tây, giữa sương mù và hoa tháng Ba, hướng về Giang Tô. Bóng dáng chiếc buồm đơn độc của anh biến mất vào bầu trời xanh — tất cả những gì tôi thấy là dòng Dương Tử chảy đến rìa thiên đường.",
+    "background": "Lý Bạch đã viết bài thơ này để tiễn bạn mình và cũng là nhà thơ Meng Haoran, người đang đi về phía đông đến Giang Tô. Tháp Hoàng Hạc ở Vũ Hán là một trong những biểu tượng nổi tiếng nhất của Trung Quốc. Hai nhà thơ có một tình bạn sâu sắc, và Lý Bạch rất ngưỡng mộ Meng Haoran lớn tuổi hơn. Bài thơ được đặt trong tháng đẹp nhất — tháng Ba, khi các bờ sông được phủ đầy hoa.",
+    "analysis": "Bài thơ không bao giờ trực tiếp nói lên cảm xúc của Lý Bạch — thay vào đó, cảm xúc của ông được truyền tải qua những gì ông quan sát. Ông đứng trên tháp nhìn chiếc thuyền của bạn mình cho đến khi buồm biến mất vào chân trời, rồi tiếp tục nhìn khi dòng sông chảy trôi. Thực tế là ông tiếp tục nhìn theo chiếc thuyền đã biến mất tiết lộ độ sâu của sự gắn bó của ông. Hình ảnh cuối cùng — dòng Dương Tử kéo dài đến rìa thiên đường — biến nỗi buồn cá nhân thành sự bao la vũ trụ.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "huang-he-lou-song-meng-hao-ran"
+  },
+  {
+    "id": "P019",
+    "slug": "deng-gao",
+    "title": "Leo Cao",
+    "titleChinese": "登高",
+    "titlePinyin": "dēng gāo",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "风急天高猿啸哀，",
+        "pinyin": "fēng jí tiān gāo yuán xiào āi,"
+      },
+      {
+        "chinese": "渚清沙白鸟飞回。",
+        "pinyin": "zhǔ qīng shā bái niǎo fēi huí."
+      },
+      {
+        "chinese": "无边落木萧萧下，",
+        "pinyin": "wú biān luò mù xiāo xiāo xià,"
+      },
+      {
+        "chinese": "不尽长江滚滚来。",
+        "pinyin": "bú jìn cháng jiāng gǔn gǔn lái."
+      },
+      {
+        "chinese": "万里悲秋常作客，",
+        "pinyin": "wàn lǐ bēi qiū cháng zuò kè,"
+      },
+      {
+        "chinese": "百年多病独登台。",
+        "pinyin": "bǎi nián duō bìng dú dēng tái."
+      },
+      {
+        "chinese": "艰难苦恨繁霜鬓，",
+        "pinyin": "jiān nán kǔ hèn fán shuāng bìn,"
+      },
+      {
+        "chinese": "潦倒新停浊酒杯。",
+        "pinyin": "liáo dǎo xīn tíng zhuó jiǔ bēi."
+      }
+    ],
+    "traditionalChinese": "風急天高猿嘯哀，渚清沙白鳥飛回。無邊落木蕭蕭下，不盡長江滾滾來。萬里悲秋常作客，百年多病獨登臺。艱難苦恨繁霜鬢，潦倒新停濁酒杯。",
+    "translation": "Gió mạnh, bầu trời cao, khỉ kêu than trong nỗi buồn; đảo nhỏ rõ ràng, cát trắng, chim bay vòng lại. Những chiếc lá rơi vô tận xào xạc xuống; dòng Dương Tử vô tận cuộn trôi. Mười ngàn dặm xa nhà, mãi mãi là khách trong mùa thu buồn; trăm năm bệnh tật, tôi leo lên sân thượng một mình. Khó khăn và nỗi tiếc nuối đã làm bạc tóc tôi; mệt mỏi, tôi vừa mới từ bỏ chén rượu mờ đục của mình.",
+    "background": "Viết vào năm 767 sau Công Nguyên ở Kuizhou (Chongqing hiện đại) trong những năm cuối đời của Đỗ Phủ. Nhà thơ đã già, ốm yếu, nghèo khổ và xa nhà. Truyền thống Lễ hội Cửu Nguyệt yêu cầu leo cao và uống rượu, nhưng Đỗ Phủ quá ốm để uống. Bài thơ này được coi là bài thơ luật tuyệt vời nhất từng được viết bằng tiếng Trung.",
+    "analysis": "Mỗi cặp câu được chế tác một cách tài tình. Hai dòng mở đầu trình bày sáu hình ảnh liên tiếp (gió, trời, khỉ, đảo, cát, chim) tạo ra một trải nghiệm cảm giác áp đảo. Hai dòng ba và bốn đạt được một trong những hiệu ứng toàn cảnh vĩ đại của thơ ca: những chiếc lá vô tận rơi và dòng sông vô tận chảy — cả hai hình ảnh của những điều vượt ra ngoài sự kiểm soát của con người. Sự chuyển hướng về cá nhân trong hai dòng năm và sáu là tàn khốc: một đời lang thang và bệnh tật, leo lên một mình. Cặp câu cuối cùng với sự tỉnh táo bị ép buộc (ngay cả rượu cũng bị từ chối) khiến nỗi buồn của bài thơ trở nên tuyệt đối.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-gao"
+  },
+  {
+    "id": "P027",
+    "slug": "hui-xiang-ou-shu",
+    "title": "Về Nhà — Một Bài Thơ Ứng Khẩu",
+    "titleChinese": "回乡偶书",
+    "titlePinyin": "huí xiāng ǒu shū",
+    "poet": {
+      "name": "He Zhizhang",
+      "nameChinese": "贺知章",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "659",
+      "deathYear": "744",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "少小离家老大回，",
+        "pinyin": "shào xiǎo lí jiā lǎo dà huí,"
+      },
+      {
+        "chinese": "乡音无改鬓毛衰。",
+        "pinyin": "xiāng yīn wú gǎi bìn máo shuāi."
+      },
+      {
+        "chinese": "儿童相见不相识，",
+        "pinyin": "ér tóng xiāng jiàn bù xiāng shí,"
+      },
+      {
+        "chinese": "笑问客从何处来。",
+        "pinyin": "xiào wèn kè cóng hé chù lái."
+      }
+    ],
+    "traditionalChinese": "少小離家老大回，鄉音無改鬢毛衰。兒童相見不相識，笑問客從何處來。",
+    "translation": "Tôi rời nhà khi còn trẻ và trở về khi đã già — giọng địa phương của tôi không thay đổi, nhưng tóc ở đền thờ đã thưa. Những đứa trẻ trong làng thấy tôi nhưng không nhận ra; mỉm cười, chúng hỏi: \"Khách, bạn đến từ đâu?\"",
+    "background": "He Zhizhang đã viết bài thơ này khi trở về quê hương Yongxing (ở tỉnh Chiết Giang hiện đại) sau hơn 50 năm làm quan ở kinh đô Trường An. Ở tuổi 86, ông cuối cùng đã nghỉ hưu và trở về nhà, chỉ để phát hiện rằng không ai nhận ra ông. Sự hài hước chua chát của việc trở thành người lạ ở quê hương của chính mình đã vang vọng sâu sắc trong văn hóa Trung Quốc.",
+    "analysis": "Tác động cảm xúc của bài thơ đến từ khoảng cách giữa danh tính và sự nhận diện. Nhà thơ biết mình là ai — giọng nói của ông không thay đổi — nhưng thời gian đã biến ông thành người không thể nhận ra. Câu hỏi ngây thơ của những đứa trẻ thật tàn nhẫn chính vì nó vui vẻ: chúng thấy một vị khách thân thiện, không phải một người bản địa trở về. Bài thơ nắm bắt một trong những mỉa mai tàn nhẫn nhất của cuộc sống: bạn có thể trở về nhà, nhưng nhà có thể không còn nhận ra bạn nữa.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "hui-xiang-ou-shu"
+  },
+  {
+    "id": "P020",
+    "slug": "qiantang-lake-spring-walk",
+    "title": "Đi Dạo Mùa Xuân Bên Hồ Qiantang",
+    "titleChinese": "钱塘湖春行",
+    "titlePinyin": "Qián Táng Hú Chūn Xíng",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "孤山寺北贾亭西，",
+        "pinyin": "gū shān sì běi jiǎ tíng xī,"
+      },
+      {
+        "chinese": "水面初平云脚低。",
+        "pinyin": "shuǐ miàn chū píng yún jiǎo dī."
+      },
+      {
+        "chinese": "几处早莺争暖树，",
+        "pinyin": "jǐ chù zǎo yīng zhēng nuǎn shù,"
+      },
+      {
+        "chinese": "谁家新燕啄春泥。",
+        "pinyin": "shuí jiā xīn yàn zhuó chūn ní."
+      },
+      {
+        "chinese": "乱花渐欲迷人眼，",
+        "pinyin": "luàn huā jiàn yù mí rén yǎn,"
+      },
+      {
+        "chinese": "浅草才能没马蹄。",
+        "pinyin": "qiǎn cǎo cái néng mò mǎ tí."
+      },
+      {
+        "chinese": "最爱湖东行不足，",
+        "pinyin": "zuì ài hú dōng xíng bù zú,"
+      },
+      {
+        "chinese": "绿杨阴里白沙堤。",
+        "pinyin": "lǜ yáng yīn lǐ bái shā dī."
+      }
+    ],
+    "traditionalChinese": "孤山寺北賈亭西，水面初平雲腳低。幾處早鶯爭暖樹，誰家新燕啄春泥。亂花漸欲迷人眼，淺草才能沒馬蹄。最愛湖東行不足，綠楊陰裏白沙堤。",
+    "translation": "Phía bắc Đền Đồi Cô Đơn, phía tây Đình Jia, mặt nước vừa mới bằng phẳng, những đám mây thấp lướt qua sóng. Đây đó, những chú chim hoàng yến sớm tranh giành những cây ấm áp; chim yến nào đang mổ đất mùa xuân? Những bông hoa dại dần trở nên rực rỡ trước mắt; cỏ nông hầu như không thể che được móng ngựa. Điều tôi yêu thích nhất là phía đông hồ nơi tôi chưa bao giờ đi đủ — con đường cát trắng giữa bóng cây liễu xanh.",
+    "background": "Được viết vào khoảng năm 822 sau Công Nguyên khi Bai Juyi làm thống đốc Hàng Châu, bài thơ này nắm bắt vẻ đẹp của Hồ Tây (Hồ Qiantang) vào đầu mùa xuân. Bai Juyi là một người yêu Hồ Tây cuồng nhiệt và đã xây dựng con đường nổi tiếng (Bai Causeway) vẫn mang tên ông cho đến ngày nay.",
+    "analysis": "Bài thơ này là một bài học tuyệt vời trong việc nắm bắt khoảnh khắc chính xác của đầu mùa xuân. Mỗi cặp câu thêm một chi tiết cảm giác mới: mức nước dâng lên, những chú chim hoàng yến tranh giành, những chú yến xây tổ, những bông hoa nở rộ, và cỏ non. Sự tiến triển từ phong cảnh xa xôi đến những chi tiết gần gũi tạo ra một cuộc đi dạo điện ảnh quanh hồ. Cặp câu cuối tiết lộ sự gắn bó sâu sắc của nhà thơ với nơi này.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qiantang-lake-spring-walk"
+  },
+  {
+    "id": "P021",
+    "slug": "untitled-hard-to-meet",
+    "title": "Không Có Tựa — Khó Gặp, Khó Chia Tay",
+    "titleChinese": "无题·相见时难别亦难",
+    "titlePinyin": "Wú Tí · Xiāng Jiàn Shí Nán Bié Yì Nán",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "相见时难别亦难，",
+        "pinyin": "xiāng jiàn shí nán bié yì nán,"
+      },
+      {
+        "chinese": "东风无力百花残。",
+        "pinyin": "dōng fēng wú lì bǎi huā cán."
+      },
+      {
+        "chinese": "春蚕到死丝方尽，",
+        "pinyin": "chūn cán dào sǐ sī fāng jìn,"
+      },
+      {
+        "chinese": "蜡炬成灰泪始干。",
+        "pinyin": "là jù chéng huī lèi shǐ gān."
+      },
+      {
+        "chinese": "晓镜但愁云鬓改，",
+        "pinyin": "xiǎo jìng dàn chóu yún bìn gǎi,"
+      },
+      {
+        "chinese": "夜吟应觉月光寒。",
+        "pinyin": "yè yín yīng jué yuè guāng hán."
+      },
+      {
+        "chinese": "蓬山此去无多路，",
+        "pinyin": "péng shān cǐ qù wú duō lù,"
+      },
+      {
+        "chinese": "青鸟殷勤为探看。",
+        "pinyin": "qīng niǎo yīn qín wèi tàn kàn."
+      }
+    ],
+    "traditionalChinese": "相見時難別亦難，東風無力百花殘。春蠶到死絲方盡，蠟炬成灰淚始乾。曉鏡但愁雲鬢改，夜吟應覺月光寒。蓬山此去無多路，青鳥殷勤為探看。",
+    "translation": "Khó gặp và khó chia tay; gió đông bất lực, trăm hoa héo tàn. Nhộng tằm mùa xuân quay tơ cho đến khi chết; nước mắt của ngọn nến chỉ khô khi nó biến thành tro. Đối diện gương buổi sáng, cô lo lắng rằng tóc mây của mình sẽ thay đổi; đọc thơ vào ban đêm, cô chắc hẳn cảm nhận được cái lạnh của ánh trăng. Từ đây đến núi Penglai, con đường không xa — mong rằng chim xanh chăm chỉ đi tìm tôi.",
+    "background": "Đây là bài thơ tình nổi tiếng nhất của Li Shangyin, có thể được viết vào những năm 840. Những bài thơ \"Không Có Tựa\" của Li Shangyin nổi tiếng với sự mơ hồ — chúng có thể đề cập đến một mối tình bị cấm, sự thất vọng chính trị, hoặc khát vọng tâm linh. Cặp câu thứ ba (\"nhộng tằm mùa xuân\" và \"nước mắt nến\") đã trở thành một trong những câu được trích dẫn nhiều nhất trong toàn bộ thơ ca Trung Quốc.",
+    "analysis": "Sự thiên tài của bài thơ nằm ở những phép ẩn dụ nhiều lớp. Sợi tơ của nhộng tằm (丝/sī) là một từ đồng âm với nỗi nhớ (思/sī), vì vậy \"nhộng tằm quay cho đến chết\" có nghĩa là \"nỗi nhớ của tôi chỉ kết thúc khi chết.\" Nến rơi nước mắt sáp phản ánh nỗi buồn vô tận của người yêu. Mỗi hình ảnh củng cố chủ đề của sự tận tụy đến chết. Cặp câu cuối giới thiệu hy vọng thông qua chim xanh huyền thoại, sứ giả của Nữ Hoàng Phương Tây, gợi ý rằng ngay cả khi vượt qua những khoảng cách không thể, tình yêu vẫn tìm kiếm sự kết nối.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Love & Longing",
+    "originalSlug": "untitled-hard-to-meet"
+  },
+  {
+    "id": "P022",
+    "slug": "mountain-walk",
+    "title": "Đi Dạo Núi",
+    "titleChinese": "山行",
+    "titlePinyin": "Shān Xíng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "远上寒山石径斜，",
+        "pinyin": "yuǎn shàng hán shān shí jìng xié,"
+      },
+      {
+        "chinese": "白云生处有人家。",
+        "pinyin": "bái yún shēng chù yǒu rén jiā."
+      },
+      {
+        "chinese": "停车坐爱枫林晚，",
+        "pinyin": "tíng chē zuò ài fēng lín wǎn,"
+      },
+      {
+        "chinese": "霜叶红于二月花。",
+        "pinyin": "shuāng yè hóng yú èr yuè huā."
+      }
+    ],
+    "traditionalChinese": "遠上寒山石徑斜，白雲生處有人家。停車坐愛楓林晚，霜葉紅於二月花。",
+    "translation": "Xa trên ngọn núi lạnh, con đường đá uốn khúc; nơi những đám mây trắng bay lên, có những ngôi nhà. Tôi dừng xe, mê hoặc bởi rừng phong lúc hoàng hôn — những chiếc lá chạm sương đỏ hơn hoa tháng Hai.",
+    "background": "Được viết trong một chuyến đi thu, bài thơ này nắm bắt hành trình của Du Mu lên con đường núi. Du Mu, được biết đến với tên gọi \"Tiểu Du\" (小杜) để phân biệt với Du Fu (\"Cổ Du\"), đã được ca ngợi vì những bài thơ tứ tuyệt thanh lịch và sống động của mình. Bài thơ này đã trở thành bài thơ Trung Quốc tiêu biểu về cảnh sắc mùa thu.",
+    "analysis": "Chỉ trong bốn dòng, Du Mu tạo ra một hành trình hoàn chỉnh: con đường uốn khúc, những ngôi nhà xa xôi trong mây, sự dừng lại đột ngột, và sự tiết lộ tuyệt đẹp. Dòng cuối là nét thiên tài của bài thơ — so sánh những chiếc lá phong đỏ của mùa thu với hoa mùa xuân, đảo ngược truyền thống thơ ca Trung Quốc thường than khóc mùa thu và ca ngợi mùa xuân. Từ \"坐\" (zuò, \"bởi vì\") thay vì nghĩa đồng âm của nó là \"ngồi\" cho thấy nhà thơ bị buộc phải dừng lại, không phải chọn nghỉ ngơi.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "mountain-walk"
+  },
+  {
+    "id": "P023",
+    "slug": "visiting-old-friends-farm",
+    "title": "Thăm Trang Trại Của Một Người Bạn Cũ",
+    "titleChinese": "过故人庄",
+    "titlePinyin": "Guò Gù Rén Zhuāng",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人具鸡黍，",
+        "pinyin": "gù rén jù jī shǔ,"
+      },
+      {
+        "chinese": "邀我至田家。",
+        "pinyin": "yāo wǒ zhì tián jiā."
+      },
+      {
+        "chinese": "绿树村边合，",
+        "pinyin": "lǜ shù cūn biān hé,"
+      },
+      {
+        "chinese": "青山郭外斜。",
+        "pinyin": "qīng shān guō wài xié."
+      },
+      {
+        "chinese": "开轩面场圃，",
+        "pinyin": "kāi xuān miàn chǎng pǔ,"
+      },
+      {
+        "chinese": "把酒话桑麻。",
+        "pinyin": "bǎ jiǔ huà sāng má."
+      },
+      {
+        "chinese": "待到重阳日，",
+        "pinyin": "dài dào chóng yáng rì,"
+      },
+      {
+        "chinese": "还来就菊花。",
+        "pinyin": "hái lái jiù jú huā."
+      }
+    ],
+    "traditionalChinese": "故人具雞黍，邀我至田家。綠樹村邊合，青山郭外斜。開軒面場圃，把酒話桑麻。待到重陽日，還來就菊花。",
+    "translation": "Người bạn cũ của tôi đã chuẩn bị gà và kê, và mời tôi đến trang trại của anh ấy. Những cây xanh bao quanh ngôi làng; những ngọn núi xanh nghiêng ra ngoài bức tường. Chúng tôi mở cửa sổ hướng ra vườn và sân đập, và qua rượu, chúng tôi nói về dâu tằm và gai. Khi lễ hội Trùng Cửu đến, tôi sẽ trở lại để thưởng thức hoa cúc.",
+    "background": "Bài thơ này nắm bắt một chuyến thăm đơn giản đến nhà nông thôn của một người bạn. Meng Haoran, người đã sống phần lớn cuộc đời như một người ẩn dật gần quê hương của mình ở Hồ Bắc, là một nhà thơ vĩ đại của cuộc sống đồng quê. Khác với nhiều nhà thơ Đường tìm kiếm sự nghiệp chính thức, Meng Haoran đã chọn sống gần gũi với thiên nhiên, và bài thơ này thể hiện lý tưởng của ông về sự hài lòng nông thôn.",
+    "analysis": "Vẻ đẹp của bài thơ này nằm ở sự đơn giản hoàn hảo của nó. Không có phép ẩn dụ lớn, không có suy ngẫm triết lý — chỉ là lời mời của một người bạn, món ăn ngon, phong cảnh đẹp, rượu, cuộc trò chuyện về nông nghiệp, và một lời hứa sẽ trở lại. Những cặp câu ở giữa vẽ nên một cảnh đồng quê lý tưởng: những cây xanh bao quanh ngôi làng, những ngọn núi ở xa, một cửa sổ mở ra cánh đồng. Sự ấm áp của bài thơ đến từ sự hoàn toàn vắng mặt của sự giả dối, khiến nó trở thành một trong những bài thơ tình bạn được yêu thích nhất trong văn học Trung Quốc.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "visiting-old-friends-farm"
+  },
+  {
+    "id": "P024",
+    "slug": "seeing-off-xin-jian-at-lotus-tower",
+    "title": "Seeing Off Xin Jian at Lotus Tower",
+    "titleChinese": "芙蓉楼送辛渐",
+    "titlePinyin": "Fú Róng Lóu Sòng Xīn Jiàn",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "寒雨连江夜入吴，",
+        "pinyin": "hán yǔ lián jiāng yè rù wú,"
+      },
+      {
+        "chinese": "平明送客楚山孤。",
+        "pinyin": "píng míng sòng kè chǔ shān gū."
+      },
+      {
+        "chinese": "洛阳亲友如相问，",
+        "pinyin": "luò yáng qīn yǒu rú xiāng wèn,"
+      },
+      {
+        "chinese": "一片冰心在玉壶。",
+        "pinyin": "yī piàn bīng xīn zài yù hú."
+      }
+    ],
+    "traditionalChinese": "寒雨連江夜入吳，平明送客楚山孤。洛陽親友如相問，一片冰心在玉壺。",
+    "translation": "Mưa lạnh hòa vào dòng sông, vào Wu ban đêm; lúc bình minh tôi tiễn bạn, núi Chu đứng cô đơn. Nếu bạn bè và gia đình ở Lạc Dương hỏi về tôi — trái tim tôi trong sáng như băng trong bình ngọc.",
+    "background": "Viết khoảng năm 742 sau Công Nguyên khi Wang Changling đang đóng quân ở phía nam, xa thủ đô. Bạn của ông, Xin Jian, đang trở về Lạc Dương, và Wang Changling đã sáng tác bài thơ chia tay này tại Tháp Sen (ở Zhenjiang, Giang Tô ngày nay). Được biết đến như \"Nhà thơ của bảy chữ trong thơ tứ tuyệt,\" Wang Changling lúc này đang phục vụ ở một vị trí nhỏ sau khi bị giáng chức từ thủ đô.",
+    "analysis": "Bài thơ di chuyển từ cái rộng lớn đến cái thân mật: mưa đêm trên dòng sông, núi cô đơn lúc bình minh, rồi đến thông điệp cá nhân. Câu cuối — \"一片冰心在玉壶\" (một mảnh trái tim băng trong bình ngọc) — đã trở thành một biểu hiện cổ điển của sự trong sạch đạo đức. Dù bị giáng chức và lưu đày, trái tim của Wang Changling vẫn không bị ô uế. Ẩn dụ \"băng trong ngọc\" truyền tải cả sự trong suốt và quý giá, một tuyên bố về sự chính trực vượt lên hoàn cảnh của ông.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "seeing-off-xin-jian-at-lotus-tower"
+  },
+  {
+    "id": "P025",
+    "slug": "the-fisherman",
+    "title": "The Fisherman",
+    "titleChinese": "渔翁",
+    "titlePinyin": "Yú Wēng",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渔翁夜傍西岩宿，",
+        "pinyin": "yú wēng yè bàng xī yán sù,"
+      },
+      {
+        "chinese": "晓汲清湘燃楚竹。",
+        "pinyin": "xiǎo jí qīng xiāng rán chǔ zhú."
+      },
+      {
+        "chinese": "烟销日出不见人，",
+        "pinyin": "yān xiāo rì chū bù jiàn rén,"
+      },
+      {
+        "chinese": "欸乃一声山水绿。",
+        "pinyin": "ǎi nǎi yī shēng shān shuǐ lǜ."
+      },
+      {
+        "chinese": "回看天际下中流，",
+        "pinyin": "huí kàn tiān jì xià zhōng liú,"
+      },
+      {
+        "chinese": "岩上无心云相逐。",
+        "pinyin": "yán shàng wú xīn yún xiāng zhú."
+      }
+    ],
+    "traditionalChinese": "漁翁夜傍西巖宿，曉汲清湘燃楚竹。煙銷日出不見人，欸乃一聲山水綠。回看天際下中流，巖上無心雲相逐。",
+    "translation": "Người ngư dân già ngủ bên vách núi phía tây vào ban đêm; lúc bình minh ông vớt nước trong từ sông Xiang và đốt tre Chu. Khi sương mù tan và mặt trời mọc, ông không còn thấy đâu — tiếng chèo của ông, và núi non cùng dòng nước trở nên xanh tươi. Nhìn lại phía rìa bầu trời, ông trôi giữa dòng; trên vách núi, những đám mây vô tư đuổi nhau.",
+    "background": "Viết trong thời gian Liu Zongyuan bị lưu đày ở Yongzhou (Hunan hiện đại) khoảng năm 810 sau Công Nguyên. Sau khi bị trục xuất khỏi thủ đô vì vai trò của mình trong một cuộc cải cách chính trị thất bại, Liu Zongyuan đã dành một thập kỷ ở miền nam hẻo lánh. Bài thơ này phản ánh trạng thái tinh thần của ông — người ngư dân vừa là một nhân vật có thật vừa là hình ảnh phản chiếu mong muốn tự do khỏi những lo toan trần thế của nhà thơ.",
+    "analysis": "Câu thứ tư là một trong những câu thơ nổi tiếng nhất trong thơ ca Trung Quốc: \"欸乃一声山水绿\" — một âm thanh của chiếc chèo, và đột nhiên toàn bộ cảnh vật trở nên xanh tươi. Đây là một kiệt tác cảm giác: âm thanh biến thành màu sắc. Người ngư dân xuất hiện và biến mất như một linh hồn của cảnh vật. Hình ảnh cuối cùng của \"những đám mây vô tâm\" (无心云) đuổi nhau tượng trưng cho trạng thái lý tưởng của Đạo giáo, hành động mà không có ý định. Su Shi sau này đã gợi ý rằng cặp câu cuối là không cần thiết, nhưng hầu hết độc giả trân trọng sự kết thúc suy tư của nó.",
+    "form": "Seven-character Ancient Verse (七言古诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "the-fisherman"
+  },
+  {
+    "id": "P026",
+    "slug": "song-of-liangzhou",
+    "title": "Song of Liangzhou",
+    "titleChinese": "凉州词",
+    "titlePinyin": "Liáng Zhōu Cí",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "黄河远上白云间，",
+        "pinyin": "huáng hé yuǎn shàng bái yún jiān,"
+      },
+      {
+        "chinese": "一片孤城万仞山。",
+        "pinyin": "yī piàn gū chéng wàn rèn shān."
+      },
+      {
+        "chinese": "羌笛何须怨杨柳，",
+        "pinyin": "qiāng dí hé xū yuàn yáng liǔ,"
+      },
+      {
+        "chinese": "春风不度玉门关。",
+        "pinyin": "chūn fēng bù dù yù mén guān."
+      }
+    ],
+    "traditionalChinese": "黃河遠上白雲間，一片孤城萬仞山。羌笛何須怨楊柳，春風不度玉門關。",
+    "translation": "Dòng sông Hoàng Hà vươn cao vào những đám mây trắng; một thành phố pháo đài cô đơn đứng giữa những ngọn núi cao mười ngàn feet. Tại sao cây sáo Qiang lại phàn nàn về những cây liễu? Gió xuân không bao giờ vượt qua ải Ngọc Môn.",
+    "background": "Một trong những bài thơ biên giới vĩ đại nhất (边塞诗) của triều đại Đường. Wang Zhihuan đã viết bài này khi đang đóng quân ở biên giới tây bắc. Liangzhou (Wuwei hiện đại, Cam Túc) là một thị trấn đồn trú ở biên giới trên Con đường Tơ lụa. Ải Ngọc Môn (Yumen Guan) đánh dấu ranh giới phía tây của đế chế Trung Quốc, phía bên kia là sa mạc rộng lớn của Trung Á.",
+    "analysis": "Bài thơ xây dựng từ hình ảnh vĩ đại nhất có thể — dòng sông Hoàng Hà dường như chảy ngược lên mây — đến âm thanh thân mật của cây sáo của người lính. \"Cây liễu\" trong câu thứ ba ám chỉ đến bài hát dân gian \"Phá Liễu\" (折杨柳), thường được chơi trong các buổi chia tay, khi những người du hành sẽ bẻ cành liễu làm quà tiễn biệt. Câu cuối cùng thật tàn nhẫn trong sự đơn giản của nó: gió xuân (sự ấm áp, văn minh, quê hương) thực sự không thể đến được nơi này bên ngoài ải. Nó thể hiện nỗi cô đơn của những người lính biên giới với một sự giản dị khiến nó càng trở nên mạnh mẽ.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "War & Frontier",
+    "originalSlug": "song-of-liangzhou"
+  }
+]

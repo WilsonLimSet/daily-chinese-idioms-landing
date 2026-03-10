@@ -245,6 +245,14 @@ export default async function Home() {
               <p className="text-xs text-red-600 font-medium mt-2">Explore festivals →</p>
             </Link>
             <Link
+              href="/poems"
+              className="p-5 bg-amber-50 rounded-xl border border-amber-100 hover:shadow-md hover:border-amber-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-amber-600 transition-colors">Famous Chinese Poems</p>
+              <p className="text-sm text-gray-600 mt-1">27 iconic poems from Li Bai, Du Fu & more</p>
+              <p className="text-xs text-amber-600 font-medium mt-2">Read poems →</p>
+            </Link>
+            <Link
               href="/slang"
               className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
             >

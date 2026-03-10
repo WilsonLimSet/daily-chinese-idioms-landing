@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "El Poeta-Buda (诗佛)",
+    "bio": "Wang Wei (701–761) fue un poeta, músico, pintor y estadista de la dinastía Tang cuyo trabajo encarna la intersección del arte, la naturaleza y la espiritualidad budista. Nacido en la provincia de Shanxi, aprobó el examen imperial más alto a una edad temprana y sirvió en varios puestos gubernamentales a lo largo de su vida. Después de la muerte de su esposa, nunca se volvió a casar y se dedicó cada vez más al budismo Chan (Zen).",
+    "style": "La poesía de Wang Wei es celebrada por su quietud meditativa, precisión sensorial y profundidad espiritual. Su Shi (Su Dongpo) dijo famosamente de él: \"En sus poemas hay pinturas, y en sus pinturas hay poemas\" (诗中有画，画中有诗). Su poesía de la naturaleza logra una quietud luminosa que refleja su práctica budista: encontrar un significado profundo en observaciones aparentemente simples de la luz, la sombra, el sonido, a",
+    "legacy": "Wang Wei es uno de los \"Tres Grandes Poetas de los Tang\" junto con Li Bai y Du Fu, y es la figura definitoria de la poesía paisajística china. Su título \"诗佛\" (Poeta-Buda) refleja la dimensión espiritual de su obra. Su influencia se extiende a la pintura china: tradicionalmente se le atribuye la fundación de la Escuela del Sur de pintura paisajística china. Su \"Colección del Río Wang\" (辋川集) se considera",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "En las montañas vacías, no se puede ver a nadie, pero las voces resuenan desde alguna parte",
+        "from": "Deer Enclosure (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "Te insto a beber una copa más de vino: al oeste del Paso Yang, no tendrás viejos amigos",
+        "from": "Farewell to Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "El Poeta del Pueblo",
+    "bio": "Bai Juyi (772–846) fue uno de los poetas más prolíficos y populares de la dinastía Tang, reconocido por escribir en un estilo claro y accesible que podía ser entendido por la gente común. La leyenda dice que leía sus poemas a una anciana y revisaba cualquier cosa que ella no pudiera entender. Tuvo una exitosa carrera oficial, ascendiendo a altos cargos antes de ser exiliado por su crítica abierta al gobierno",
+    "style": "Bai Juyi cultivó deliberadamente un estilo llano y directo, creyendo que la poesía debería servir como comentario social accesible a todos. Sus poemas \"Nuevo Yuefu\" (新乐府) abordaron directamente las injusticias sociales: la corrupción, el servicio militar obligatorio, la pobreza y los excesos de los ricos. A pesar de esta accesibilidad, su mejor trabajo logra una notable profundidad emocional y poder narrativo. Sus largas baladas combinan s",
+    "legacy": "Bai Juyi fue enormemente popular durante su vida: sus poemas fueron copiados en las paredes y cantados en las calles de toda China. Su influencia fue particularmente fuerte en Japón, donde fue considerado el mayor poeta chino durante siglos (más popular allí que Li Bai o Du Fu). Su énfasis en la claridad y la relevancia social influyó en generaciones de escritores chinos. \"Canción de arrepentimiento eterno\" ha sido",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "El fuego salvaje no puede quemarlas; el viento de primavera sopla y vuelven a crecer",
+        "from": "Grasses (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "Hierbas interminables en la llanura: cada año se marchitan y florecen de nuevo",
+        "from": "Grasses (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "Maestro de la prosa paisajística",
+    "bio": "Liu Zongyuan (773–819) fue un ensayista, poeta y reformador político de la dinastía Tang, considerado uno de los \"Ocho Grandes Maestros de la Prosa de Tang y Song\" (唐宋八大家). Nacido en una familia aristocrática en Chang'an, aprobó el examen imperial a una edad temprana y ascendió rápidamente en el gobierno. En 805, participó en un movimiento de reforma política que fracasó después de solo 146 días. Los reformadores fueron castigados",
+    "style": "La poesía y la prosa de Liu Zongyuan transforman la experiencia del exilio en arte del más alto nivel. Sus ensayos paisajísticos (\"Ocho Registros de Yongzhou\") se consideran la mejor prosa de la naturaleza en chino clásico, combinando la observación precisa con la profundidad filosófica. Su poesía, aunque más pequeña en volumen, logra efectos extraordinarios: \"Nieve en el río\" crea un mundo congelado entero en solo 20 caracteres",
+    "legacy": "\"Nieve en el río\" (江雪) de Liu Zongyuan es uno de los poemas chinos visualmente más icónicos, reproducido sin cesar en la pintura y la caligrafía chinas. La imagen del pescador solitario en un paisaje helado se ha convertido en un símbolo universal de la soledad con principios. Sus ensayos en prosa establecieron el estándar para la escritura de paisajes chinos e influyeron en toda la tradición del ensayo de la naturaleza a través de Ming y Qing",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "From a thousand mountains, birds have vanished; on ten thousand paths, human traces are gone",
+        "from": "River Snow (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "A lone boat, an old man in straw cloak — fishing alone in the cold river snow",
+        "from": "River Snow (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "El poeta visionario",
+    "bio": "Wang Zhihuan (688–742) es uno de los casos más notables de la historia literaria china: un poeta cuya fama se basa en solo seis poemas supervivientes, dos de los cuales se encuentran entre los más famosos de toda la literatura china. Nacido en la provincia de Shanxi, ocupó cargos oficiales menores, pero pasó gran parte de su vida viajando por las regiones fronterizas del norte. Se sabe poco sobre su biografía en comparación con otros Tan importantes",
+    "style": "Los poemas supervivientes de Wang Zhihuan se caracterizan por su visión expansiva, sus imágenes audaces y su profundidad filosófica lograda en formas extremadamente comprimidas. Sus dos obras maestras, \"Subiendo a la Torre de la Cigüeña\" y \"Canción de Liangzhou\", pintan vastos panoramas de paisajes y luego giran hacia profundas declaraciones sobre la aspiración humana o el aislamiento fronterizo. Su visión opera a escala cósmica: ríos que fluyen",
+    "legacy": "Wang Zhihuan demuestra que la inmortalidad literaria requiere calidad, no cantidad. \"Subiendo a la Torre de la Cigüeña\" (登鹳雀楼) se ha convertido en uno de los poemas más citados en chino: sus líneas finales \"sube un piso más\" (更上一层楼) se utilizan como un proverbio para la mejora continua en todo, desde la educación hasta los negocios. \"Canción de Liangzhou\" (凉州词) se considera el poema fronterizo definitivo. Su trabajo es prueba de que un solo",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "If you wish to see a thousand miles further, climb one more floor of the tower",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "The white sun sets behind the mountains; the Yellow River flows into the sea",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  },
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "El Poeta Inmortal (诗仙)",
+    "bio": "Li Bai (701–762) es ampliamente considerado como el mayor poeta romántico en la historia de China y una de las dos figuras destacadas de la poesía de la Dinastía Tang junto a Du Fu. Nacido en Suyab (en la actual Kirguistán) a lo largo de la Ruta de la Seda, creció en la provincia de Sichuan. Nunca tuvo éxito en los exámenes imperiales, pero fue brevemente convocado a la corte del emperador Xuanzong alrededor de 742, solo para ser despedido después de dos años — supuestamente por su comportamiento poco convencional y su afición por el alcohol. Pasó la mayor parte de su vida viajando por China, escribiendo poesía y cultivando una reputación legendaria de genio, eccentricidad y vino.",
+    "style": "La poesía de Li Bai se caracteriza por una imaginación audaz, espontaneidad sin esfuerzo y un sentido de grandeza cósmica. Emplea frecuentemente hipérbole (\"tres mil pies\", \"la Vía Láctea cayendo del cielo\") que de alguna manera se siente natural en lugar de forzada. Su verso se mueve entre la intimidad tierna y las vistas panorámicas, entre el abandono borracho y la profunda soledad. Se basó en gran medida en la filosofía y mitología daoísta, y su mejor trabajo tiene una calidad casi sobrenatural — como si las palabras llegaran completamente formadas. A diferencia de la meticulosa artesanía de Du Fu, el genio de Li Bai parece ser pura inspiración.",
+    "legacy": "La influencia de Li Bai en la literatura china es inconmensurable. Es el tema de innumerables leyendas — que se ahogó tratando de abrazar el reflejo de la luna en un río, que podía componer obras maestras mientras estaba borracho, que era un \"inmortal desterrado\" del cielo. Sus poemas son memorizados por cada niño escolar chino. La expresión \"诗仙\" (Poeta-Inmortal) ha sido su título durante más de mil años. Su obra ha sido traducida a prácticamente todos los idiomas principales y continúa inspirando a poetas en todo el mundo. En China, representa el ideal del genio artístico liberado de las limitaciones mundanas.",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "Antes de mi cama, la luz brillante de la luna brilla — me pregunto si está",
+        "from": "Pensamiento en una Noche Tranquila (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "El cielo me dio talentos que deben ser utilizados; mil monedas de oro gastadas volverán todas de nuevo",
+        "from": "Trae el Vino (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "Su torrente se precipita recto hacia abajo tres mil pies — como si la Vía Láctea estuviera cayendo del noveno cielo",
+        "from": "Observando la Cascada en el Monte Lu (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "El Poeta-Sabio (诗圣)",
+    "bio": "Du Fu (712–770) es venerado como el mayor poeta realista en la historia de China y se encuentra junto a Li Bai como la figura suprema de la poesía china. Nacido en una familia académica en Henan, pasó años persiguiendo una carrera oficial pero fracasó repetidamente en los exámenes. Su vida fue trastornada por la devastadora Rebelión de An Lushan (755–763), que mató a millones y destruyó la edad dorada de la Dinastía Tang. Du Fu experimentó la guerra de primera mano — captura, huida, pobreza y la pérdida de un hijo por inanición. Pasó sus últimos años vagando por el suroeste de China en mala salud, muriendo en un barco en el río Xiang a la edad de 58 años.",
+    "style": "La poesía de Du Fu se define por su perfección técnica, seriedad moral y compasión inquebrantable. Es el maestro reconocido del verso regulado (律诗), logrando efectos de densidad y precisión inigualables en la literatura china. Su obra abarca desde escenas íntimas domésticas hasta panoramas amplios de guerra y desplazamiento. A diferencia de la espontaneidad inspirada de Li Bai, el genio de Du Fu radica en una meticulosa artesanía — se dice que dijo \"No descansaré hasta que mis palabras puedan sorprender a la gente\" (语不惊人死不休). Su poesía tardía logra una compresión y profundidad emocional que críticos posteriores consideraron el pináculo del arte.",
+    "legacy": "Du Fu no fue ampliamente celebrado durante su vida, pero para la Dinastía Song fue reconocido como el poeta supremo de China. Su título \"诗圣\" (Poeta-Sabio) refleja tanto su estatura moral como su maestría técnica. Sus poemas \"Tres Funcionarios\" y \"Tres Despedidas\" son considerados la mejor poesía de guerra en chino. Su Cabaña de Tejas en Chengdu es ahora un importante museo y sitio cultural. La influencia de Du Fu se extiende mucho más allá de China — en Japón, es considerado el mayor poeta que jamás haya vivido, y su obra ha moldeado la tradición literaria de Asia Oriental durante más de un milenio.",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "La nación está rota, aunque las montañas y ríos permanecen; la ciudad en primavera está cubierta de hierba",
+        "from": "Vista de Primavera (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "Las hogueras han ardido durante tres meses; una carta de casa vale diez mil en oro",
+        "from": "Vista de Primavera (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "Las hojas que caen sin límites susurran hacia abajo; el interminable Yangtsé rueda y rueda hacia adelante",
+        "from": "Subiendo Alto (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "Maestro de la Alusión",
+    "bio": "Li Shangyin (813–858) fue un poeta de la última Dinastía Tang celebrado por su verso ricamente alusivo y emocionalmente complejo. Nacido en una familia de gentry en declive, mostró una temprana promesa literaria y aprobó el examen imperial con la ayuda de un patrocinador. Sin embargo, se quedó atrapado en la política faccional — su matrimonio con la hija de una facción política alienó a la otra, poniendo efectivamente fin a sus posibilidades de avance. Pasó su carrera en puestos provinciales menores, sufriendo de frustración política y dolor personal, incluida la muerte temprana de su esposa.",
+    "style": "La poesía de Li Shangyin es conocida por sus densas capas de significado, rica imaginería y ambigüedad emocional. Sus \"Poemas Sin Título\" (无题诗) están entre las obras más debatidas en la literatura china — los académicos han discutido durante siglos si describen amor romántico, alegoría política o anhelo espiritual. Su verso se caracteriza por una imaginería sensorial (velas, lluvia, seda, jade), intrincadas alusiones a la mitología y la historia, y una belleza melancólica que sugiere significados justo más allá del alcance. Elevó el lenguaje poético chino a nuevos niveles de complejidad y sofisticación.",
+    "legacy": "Li Shangyin, junto con Du Mu, es conocido como el \"Pequeño Li y Du\" (小李杜), resonando con el \"Gran Li y Du\" (Li Bai y Du Fu). Su influencia en la poesía de amor china es profunda — su imaginería de velas, lluvia y amantes separados se convirtió en convenciones literarias duraderas. Su línea \"El hilo de la oruga de seda de primavera termina solo cuando muere\" (春蚕到死丝方尽) sigue siendo una de las expresiones más famosas de devoción en chino. Los académicos y lectores modernos continúan encontrando nuevas interpretaciones en su verso deliberadamente ambiguo.",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "Preguntas cuándo regresaré — no hay fecha establecida. La lluvia nocturna en el Monte Ba hincha los estanques de otoño",
+        "from": "Lluvia Nocturna — Carta al Norte (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "¿Cuándo nos sentaremos juntos recortando velas junto a la ventana oeste, y hablaremos sobre esta noche de lluvia?",
+        "from": "Lluvia Nocturna — Carta al Norte (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "El Pequeño Du (小杜)",
+    "bio": "Du Mu (803–852) fue un poeta y ensayista de la última dinastía Tang conocido por su verso elegante, a menudo melancólico, y su aguda crítica histórica. Nacido en una familia prominente —su abuelo Du You fue primer ministro e historiador— aprobó los exámenes imperiales y ocupó varios cargos gubernamentales. Era conocido por su ingenio, su apreciación de la belleza y su aguda conciencia del declive histórico. Sus ensayos en prosa sobre estrategia militar también fueron muy valorados.",
+    "style": "La poesía de Du Mu se caracteriza por su elegancia, imágenes vívidas y una mezcla distintiva de belleza sensual con melancolía histórica. Sus cuartetos son considerados entre los mejores de la dinastía Tang —cada uno una pintura en miniatura perfectamente elaborada con un giro emocional. Se destacó en ver escenas contemporáneas a través del prisma del cambio histórico, encontrando poignancy en el contraste entre la gloria pasada y la decadencia presente. Su estilo es más pulido y controlado que el de Li Bai, con una nostalgia que es exclusivamente suya.",
+    "legacy": "Junto con Li Shangyin, Du Mu es conocido como el \"Pequeño Li y Du\" (小李杜). Su poema \"Qingming\" se ha asociado permanentemente con el Festival de Barrido de Tumbas —es prácticamente imposible observar Qingming en China sin escucharlo citado. Sus poemas históricos sobre el declive de dinastías anteriores fueron leídos como comentarios sobre el desvanecimiento de la dinastía Tang, dándoles una resonancia profética. Sus cuartetos son estudiados como modelos de la forma, y su frase \"牧童遥指杏花村\" (el niño pastor señala hacia el pueblo de flores de albaricoque) ha entrado en la imaginación china como un arquetipo de belleza rústica.",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "Durante el Festival de Qingming, la lluvia cae espesa y rápida; los viajeros en el camino están cansados hasta el alma",
+        "from": "Festival de Qingming (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "\"¿Dónde puedo encontrar una taberna?\" — un niño pastor señala hacia el pueblo de flores de albaricoque",
+        "from": "Festival de Qingming (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "El Poeta Ermitaño",
+    "bio": "Meng Haoran (689–740) fue uno de los poetas pastorales y de naturaleza más prominentes de la dinastía Tang. Único entre los principales poetas Tang, nunca ocupó un cargo oficial en el gobierno, eligiendo en su lugar una vida de reclusión rural y viaje. Fue profundamente admirado por Li Bai, quien escribió un famoso poema alabándolo. Viajó a Chang'an para buscar una carrera oficial pero fracasó en el examen, y se dice que una audiencia con el emperador Xuanzong fue mal cuando recitó un poema que el emperador consideró irrespetuoso. Regresó a su hogar en Hubei y vivió entre montañas y ríos.",
+    "style": "La poesía de Meng Haoran es celebrada por su simplicidad natural, sentimiento genuino y belleza pastoral. Es la figura definitoria de la escuela de poesía Tang \"montaña y campo\" (山水田园). Su verso se siente no estudiado y espontáneo, capturando momentos de belleza natural con una frescura que los poetas más eruditos envidiaban. Li Bai alabó su \"poesía clara\" que \"se elevaba más allá del mundo mundano\". Sus mejores poemas logran su efecto a través de la subestimación —sugiriendo una profunda emoción a través de observaciones aparentemente simples de la naturaleza.",
+    "legacy": "Meng Haoran se empareja con Wang Wei como la escuela de poesía de naturaleza \"Wang-Meng\" (王孟), representando la cúspide del verso pastoral chino. Su \"Mañana de Primavera\" (春晓) es uno de los primeros poemas que cada niño chino aprende, convirtiéndolo en uno de los poemas más conocidos en cualquier idioma. Su elección de una vida fuera de la oficialidad influyó en generaciones de literatos chinos que idealizaron el estilo de vida del poeta ermitaño. La admiración de Li Bai por él aseguró su fama duradera —ser alabado por Li Bai fue el máximo respaldo literario.",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "En el sueño de primavera, el amanecer llega sin ser notado —en todas partes escucho a los pájaros cantar",
+        "from": "Mañana de Primavera (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "Anoche llegó el sonido del viento y la lluvia; ¿quién sabe cuántos pétalos han caído?",
+        "from": "Mañana de Primavera (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "Maestro de los Cuartetos de Siete Caracteres (七绝圣手)",
+    "bio": "Wang Changling (698–756) fue un poeta de la Alta Tang considerado el maestro supremo de la forma del cuarteto de siete caracteres. Aprobó el examen imperial y ocupó varios cargos, pero sufrió reveses políticos, siendo degradado dos veces a regiones remotas del sur. A pesar de su fama literaria, llevó una vida oficial difícil. Fue asesinado durante el caos de la Rebelión de An Lushan por un funcionario local celoso —un trágico e irónico final para un poeta que escribió de manera tan conmovedora sobre el desperdicio de la guerra.",
+    "style": "La especialidad de Wang Changling era el cuarteto de siete caracteres (七言绝句), en el que logró una perfección que le valió el título de \"Santo de los Cuartetos de Siete Caracteres\" (七绝圣手). Sus poemas fronterizos combinan espíritu marcial con una profunda compasión por los soldados comunes, evitando tanto la gloria jingoísta como la desesperación derrotista. Sus poemas de palacio y poemas de despedida demuestran igual maestría. Cada cuarteto está precisamente construido, con un giro dramático en las líneas finales que entrega el máximo impacto emocional en el mínimo espacio.",
+    "legacy": "El poema \"Fuera en la Frontera\" (出塞) de Wang Changling se clasifica constantemente entre los mejores cuartetos Tang jamás escritos. Su línea de apertura —\"La misma luna que brilló en Qin, los mismos pasos de Han\"— es una de las líneas más reconocidas en la poesía china. Su maestría en la forma del cuarteto influyó en cada poeta subsiguiente que trabajó en el género. Su poesía fronteriza estableció un modelo de cómo la literatura china aborda el costo humano de la guerra —con dignidad, compasión y un agudo sentido de perspectiva histórica.",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "La misma luna que brilló en Qin, los mismos pasos de Han —los soldados marcharon diez mil millas y no han regresado",
+        "from": "Fuera en la Frontera (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "Si tan solo el General Volador estuviera aquí, nunca dejaría que los caballos enemigos cruzaran la Montaña Yin",
+        "from": "Fuera en la Frontera (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  }
+]

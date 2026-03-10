@@ -1,0 +1,1305 @@
+[
+  {
+    "id": "P030",
+    "slug": "jiang-jin-jiu",
+    "title": "Bring in the Wine",
+    "titleChinese": "将进酒",
+    "titlePinyin": "jiāng jìn jiǔ",
+    "translation": "Do you not see the waters of the Yellow River come from heaven, rushing to the sea, never to return? Do you not see the mirrors in high halls reflecting white hair in grief — black silk at dawn, snow by dusk? When life goes well, enjoy it to the fullest; don't let your golden cup sit empty under the moon. Heaven gave me talents that must be put to use; a thousand gold coins spent will all come back again. Roast your mutton, slaughter your cattle, and make merry — we must drink three hundred cups",
+    "background": "Este es el poema sobre la bebida más famoso de Li Bai y uno de los poemas chinos más grandes jamás escritos. Lo compuso alrededor del año 752 d.C. mientras visitaba a sus amigos Cen Xun y Danqiu en las montañas. El poema es una celebración desafiante de la vida frente a la mortalidad, una rebelión contra los valores convencionales de riqueza y estatus, y un argumento apasionado para vivir plenamente en el momento presente.",
+    "analysis": "El poema comienza con dos de las imágenes más grandiosas de la poesía china: el río Amarillo que fluye desde el cielo y el cabello que se vuelve de negro a blanco en un solo día. Ambos transmiten la aterradora velocidad a la que pasa la vida. A partir de esta crisis existencial, Li Bai no gira hacia la desesperación, sino hacia el éxtasis: si la vida es corta, entonces aprovecha la alegría ahora. La escalada es implacable: bebe 300 tazas, nunca te detengas, cambia tu caballo...",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "jiang-jin-jiu",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": "Li Bai is one of the most celebrated poets in Chinese history, known as the \"Immortal Poet\" (诗仙). Born in Central Asia and raised in Sichuan, he was famous for his romantic imagination, love of wine, and Daoist-influenced worldview. His poetry combines grandeur with effortless elegance."
+    },
+    "lines": [
+      {
+        "chinese": "君不见，黄河之水天上来，",
+        "pinyin": "jūn bú jiàn, huáng hé zhī shuǐ tiān shàng lái,"
+      },
+      {
+        "chinese": "奔流到海不复回。",
+        "pinyin": "bēn liú dào hǎi bù fù huí."
+      },
+      {
+        "chinese": "君不见，高堂明镜悲白发，",
+        "pinyin": "jūn bú jiàn, gāo táng míng jìng bēi bái fà,"
+      },
+      {
+        "chinese": "朝如青丝暮成雪。",
+        "pinyin": "zhāo rú qīng sī mù chéng xuě."
+      },
+      {
+        "chinese": "人生得意须尽欢，",
+        "pinyin": "rén shēng dé yì xū jìn huān,"
+      },
+      {
+        "chinese": "莫使金樽空对月。",
+        "pinyin": "mò shǐ jīn zūn kōng duì yuè."
+      },
+      {
+        "chinese": "天生我材必有用，",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng,"
+      },
+      {
+        "chinese": "千金散尽还复来。",
+        "pinyin": "qiān jīn sàn jìn hái fù lái."
+      },
+      {
+        "chinese": "烹羊宰牛且为乐，",
+        "pinyin": "pēng yáng zǎi niú qiě wéi lè,"
+      },
+      {
+        "chinese": "会须一饮三百杯。",
+        "pinyin": "huì xū yī yǐn sān bǎi bēi."
+      },
+      {
+        "chinese": "岑夫子，丹丘生，",
+        "pinyin": "cén fū zǐ, dān qiū shēng,"
+      },
+      {
+        "chinese": "将进酒，杯莫停。",
+        "pinyin": "jiāng jìn jiǔ, bēi mò tíng."
+      },
+      {
+        "chinese": "与君歌一曲，",
+        "pinyin": "yǔ jūn gē yī qǔ,"
+      },
+      {
+        "chinese": "请君为我倾耳听。",
+        "pinyin": "qǐng jūn wèi wǒ qīng ěr tīng."
+      },
+      {
+        "chinese": "钟鼓馔玉不足贵，",
+        "pinyin": "zhōng gǔ zhuàn yù bù zú guì,"
+      },
+      {
+        "chinese": "但愿长醉不愿醒。",
+        "pinyin": "dàn yuàn cháng zuì bù yuàn xǐng."
+      },
+      {
+        "chinese": "古来圣贤皆寂寞，",
+        "pinyin": "gǔ lái shèng xián jiē jì mò,"
+      },
+      {
+        "chinese": "惟有饮者留其名。",
+        "pinyin": "wéi yǒu yǐn zhě liú qí míng."
+      },
+      {
+        "chinese": "陈王昔时宴平乐，",
+        "pinyin": "chén wáng xī shí yàn píng lè,"
+      },
+      {
+        "chinese": "斗酒十千恣欢谑。",
+        "pinyin": "dǒu jiǔ shí qiān zì huān xuè."
+      },
+      {
+        "chinese": "主人何为言少钱，",
+        "pinyin": "zhǔ rén hé wéi yán shǎo qián,"
+      },
+      {
+        "chinese": "径须沽取对君酌。",
+        "pinyin": "jìng xū gū qǔ duì jūn zhuó."
+      },
+      {
+        "chinese": "五花马，千金裘，",
+        "pinyin": "wǔ huā mǎ, qiān jīn qiú,"
+      },
+      {
+        "chinese": "呼儿将出换美酒，",
+        "pinyin": "hū ér jiāng chū huàn měi jiǔ,"
+      },
+      {
+        "chinese": "与尔同销万古愁。",
+        "pinyin": "yǔ ěr tóng xiāo wàn gǔ chóu."
+      }
+    ],
+    "traditionalChinese": "君不見，黃河之水天上來，奔流到海不復回。君不見，高堂明鏡悲白髮，朝如青絲暮成雪。人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。烹羊宰牛且為樂，會須一飲三百杯。岑夫子，丹丘生，將進酒，杯莫停。與君歌一曲，請君為我傾耳聽。鐘鼓饌玉不足貴，但願長醉不願醒。古來聖賢皆寂寞，惟有飲者留其名。陳王昔時宴平樂，斗酒十千恣歡謔。主人何為言少錢，徑須沽取對君酌。五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。"
+  },
+  {
+    "id": "P001",
+    "slug": "jing-ye-si",
+    "title": "Quiet Night Thought",
+    "titleChinese": "静夜思",
+    "titlePinyin": "jìng yè sī",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "床前明月光，",
+        "pinyin": "chuáng qián míng yuè guāng,"
+      },
+      {
+        "chinese": "疑是地上霜。",
+        "pinyin": "yí shì dì shàng shuāng."
+      },
+      {
+        "chinese": "举头望明月，",
+        "pinyin": "jǔ tóu wàng míng yuè,"
+      },
+      {
+        "chinese": "低头思故乡。",
+        "pinyin": "dī tóu sī gù xiāng."
+      }
+    ],
+    "traditionalChinese": "床前明月光，疑是地上霜。舉頭望明月，低頭思故鄉。",
+    "translation": "Antes de mi cama, la brillante luz de la luna brilla — me pregunto si es escarcha sobre el suelo. Levanto la cabeza para contemplar la brillante luna, luego la bajo, pensando en mi tierra natal.",
+    "background": "Escrito alrededor del año 726 d.C., este es quizás el poema chino más famoso jamás compuesto. Li Bai lo escribió mientras viajaba lejos de su ciudad natal de Sichuan. El poema captura un momento universal: desvelarse por la noche, ver la luz de la luna y sentir el dolor de estar lejos de casa. Casi cada persona china puede recitar este poema de memoria, ya que es uno de los primeros poemas que se enseñan a los niños.",
+    "analysis": "El genio de este poema radica en su simplicidad. En solo 20 caracteres, Li Bai crea un arco emocional completo: observación (luz de luna), confusión (¿es escarcha?), acción (mirar hacia arriba) y sentimiento (nostalgia). La estructura paralela de las dos últimas líneas — levantar y bajar la cabeza — refleja el movimiento entre el mundo externo (luna) y los sentimientos internos (anhelo). La luna sirve como un puente entre el poeta y su hogar distante, ya que la misma luna brilla sobre ambos.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "jing-ye-si"
+  },
+  {
+    "id": "P002",
+    "slug": "chun-xiao",
+    "title": "Spring Morning",
+    "titleChinese": "春晓",
+    "titlePinyin": "chūn xiǎo",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "春眠不觉晓，",
+        "pinyin": "chūn mián bù jué xiǎo,"
+      },
+      {
+        "chinese": "处处闻啼鸟。",
+        "pinyin": "chù chù wén tí niǎo."
+      },
+      {
+        "chinese": "夜来风雨声，",
+        "pinyin": "yè lái fēng yǔ shēng,"
+      },
+      {
+        "chinese": "花落知多少。",
+        "pinyin": "huā luò zhī duō shǎo."
+      }
+    ],
+    "traditionalChinese": "春眠不覺曉，處處聞啼鳥。夜來風雨聲，花落知多少。",
+    "translation": "En el sueño de primavera, el amanecer llega sin ser notado — en todas partes escucho a los pájaros cantar. Anoche llegó el sonido del viento y la lluvia; ¿quién sabe cuántos pétalos han caído?",
+    "background": "Este poema engañosamente simple está entre los primeros poemas que los niños chinos aprenden. Meng Haoran captura el placentero sueño de dormir tarde en una mañana de primavera, luego cambia a una suave melancolía mientras se pregunta sobre las flores derribadas por la lluvia de la noche. El poema data de principios del siglo VIII.",
+    "analysis": "El poema avanza a través de los sentidos: primero el tacto (el calor de la cama), luego el oído (canto de pájaros, luego sonidos recordados de la lluvia), y finalmente la imaginación (las flores caídas). La pregunta final es abierta — el poeta no se levanta para comprobar, dejando la pérdida de belleza como un pensamiento persistente. Este juego entre la comodidad y la impermanencia es esencialmente chino en su sensibilidad estética.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "chun-xiao"
+  },
+  {
+    "id": "P003",
+    "slug": "deng-guan-que-lou",
+    "title": "Climbing Stork Tower",
+    "titleChinese": "登鹳雀楼",
+    "titlePinyin": "dēng guàn què lóu",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "白日依山尽，",
+        "pinyin": "bái rì yī shān jìn,"
+      },
+      {
+        "chinese": "黄河入海流。",
+        "pinyin": "huáng hé rù hǎi liú."
+      },
+      {
+        "chinese": "欲穷千里目，",
+        "pinyin": "yù qióng qiān lǐ mù,"
+      },
+      {
+        "chinese": "更上一层楼。",
+        "pinyin": "gèng shàng yī céng lóu."
+      }
+    ],
+    "traditionalChinese": "白日依山盡，黃河入海流。欲窮千里目，更上一層樓。",
+    "translation": "El sol blanco se pone detrás de las montañas; el río Amarillo fluye hacia el mar. Si deseas ver mil millas más allá, sube un piso más de la torre.",
+    "background": "Escrito en la Torre de la Grulla (鹳雀楼) en la provincia de Shanxi, con vista al río Amarillo. La torre, construida originalmente durante la dinastía Zhou del Norte, era un famoso lugar escénico. El poema se ha convertido en un proverbio para la ambición y la superación personal — \"sube un piso más\" se usa en el chino cotidiano para significar \"alcanzar el siguiente nivel.\"",
+    "analysis": "Las dos primeras líneas pintan un vasto panorama: el sol desapareciendo detrás de las montañas, el río fluyendo hacia el mar distante. Ambas imágenes transmiten inmensidad y el paso de las cosas más allá del control humano. Las dos últimas líneas pivotan de la observación a la filosofía: para ver más lejos, debes subir más alto. Esta metáfora de la mejora continua ha hecho del poema un lema perdurable en la cultura china.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-guan-que-lou"
+  },
+  {
+    "id": "P004",
+    "slug": "yong-e",
+    "title": "Ode to the Goose",
+    "titleChinese": "咏鹅",
+    "titlePinyin": "yǒng é",
+    "poet": {
+      "name": "Luo Binwang",
+      "nameChinese": "骆宾王",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "619",
+      "deathYear": "687",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "鹅，鹅，鹅，",
+        "pinyin": "é, é, é,"
+      },
+      {
+        "chinese": "曲项向天歌。",
+        "pinyin": "qū xiàng xiàng tiān gē."
+      },
+      {
+        "chinese": "白毛浮绿水，",
+        "pinyin": "bái máo fú lǜ shuǐ,"
+      },
+      {
+        "chinese": "红掌拨清波。",
+        "pinyin": "hóng zhǎng bō qīng bō."
+      }
+    ],
+    "traditionalChinese": "鵝，鵝，鵝，曲項向天歌。白毛浮綠水，紅掌撥清波。",
+    "translation": "Ganso, ganso, ganso — doblas tu cuello y cantas hacia el cielo. Plumas blancas flotan sobre el agua verde; patas rojas reman las olas claras.",
+    "background": "La leyenda dice que Luo Binwang compuso este poema a la edad de siete años cuando un anciano le pidió que escribiera sobre gansos. Es típicamente el primer poema que se enseña a los niños chinos, querido por sus colores vívidos, repetición juguetona y asombro infantil. El poema data aproximadamente del año 626 d.C.",
+    "analysis": "La repetición triple inicial de \"ganso\" imita la emoción de un niño. El poema luego construye una vívida paleta de colores: plumas blancas, agua verde, patas rojas, olas claras. Cada detalle es preciso y sensorial. A pesar de su simplicidad, el poema demuestra una técnica sofisticada — el contraste de colores y los verbos dinámicos (flotar, remar) dan vida a la escena.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "yong-e"
+  },
+  {
+    "id": "P005",
+    "slug": "min-nong",
+    "title": "Sympathy for the Farmers",
+    "titleChinese": "悯农（其二）",
+    "titlePinyin": "mǐn nóng (qí èr)",
+    "poet": {
+      "name": "Li Shen",
+      "nameChinese": "李绅",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "锄禾日当午，",
+        "pinyin": "chú hé rì dāng wǔ,"
+      },
+      {
+        "chinese": "汗滴禾下土。",
+        "pinyin": "hàn dī hé xià tǔ."
+      },
+      {
+        "chinese": "谁知盘中餐，",
+        "pinyin": "shéi zhī pán zhōng cān,"
+      },
+      {
+        "chinese": "粒粒皆辛苦。",
+        "pinyin": "lì lì jiē xīn kǔ."
+      }
+    ],
+    "traditionalChinese": "鋤禾日當午，汗滴禾下土。誰知盤中餐，粒粒皆辛苦。",
+    "translation": "Cavando grano bajo el sol del mediodía, el sudor gotea sobre el suelo bajo los cultivos. ¿Quién sabe que la comida en tu plato — cada grano fue un arduo esfuerzo?",
+    "background": "Este poema es una lección moral sobre el respeto por la comida y el trabajo detrás de ella. Es recitado por prácticamente todos los niños chinos y a menudo es citado por los padres en las comidas. El poema fue escrito en una época en que la brecha entre los ricos y las clases trabajadoras era marcada, y Li Shen buscó recordar a los privilegiados el costo humano detrás de sus comidas.",
+    "analysis": "El poder del poema radica en su claridad. Las dos primeras líneas nos colocan en el campo bajo el sol abrasador — podemos sentir el calor y ver el sudor. La pregunta retórica en la línea tres se dirige directamente al lector, creando un sentido de culpa o responsabilidad. La línea final, con su repetición de \"cada grano\" (粒粒), enfatiza que no se debe desperdiciar ninguna cantidad de comida.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "min-nong"
+  },
+  {
+    "id": "P006",
+    "slug": "wang-lu-shan-pu-bu",
+    "title": "Observando la Cascada en el Monte Lu",
+    "titleChinese": "望庐山瀑布",
+    "titlePinyin": "wàng lú shān pù bù",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "日照香炉生紫烟，",
+        "pinyin": "rì zhào xiāng lú shēng zǐ yān,"
+      },
+      {
+        "chinese": "遥看瀑布挂前川。",
+        "pinyin": "yáo kàn pù bù guà qián chuān."
+      },
+      {
+        "chinese": "飞流直下三千尺，",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ,"
+      },
+      {
+        "chinese": "疑是银河落九天。",
+        "pinyin": "yí shì yín hé luò jiǔ tiān."
+      }
+    ],
+    "traditionalChinese": "日照香爐生紫煙，遙看瀑布掛前川。飛流直下三千尺，疑是銀河落九天。",
+    "translation": "La luz del sol en la cima del Incensario produce neblina púrpura; desde lejos veo la cascada colgando sobre el río. Su torrente cae en picada tres mil pies — como si la Vía Láctea estuviera cayendo del noveno cielo.",
+    "background": "Li Bai escribió este poema mientras visitaba el Monte Lu (庐山) en la provincia de Jiangxi, una de las montañas más famosas de China. La \"Cima del Incensario\" (香炉峰) es una cumbre cuya neblina, cuando es iluminada por la luz del sol, se asemeja al humo del incienso. La cascada descrita es probablemente la Cascada Kai先 (开先瀑布), una de varias en el Monte Lu.",
+    "analysis": "Este poema muestra la hipérbole característica de Li Bai y su imaginación cósmica. La progresión va desde la observación realista (luz del sol sobre la neblina) hasta una descripción cada vez más fantástica — la cascada \"cuelga\" como una cortina, cae \"tres mil pies\" y finalmente se convierte en la Vía Láctea misma cayendo del cielo. El número \"nueve\" en la cosmología china representa lo más alto, haciendo que \"noveno cielo\" sea la altura suprema.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "wang-lu-shan-pu-bu"
+  },
+  {
+    "id": "P007",
+    "slug": "chun-wang",
+    "title": "Vista de Primavera",
+    "titleChinese": "春望",
+    "titlePinyin": "chūn wàng",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "国破山河在，",
+        "pinyin": "guó pò shān hé zài,"
+      },
+      {
+        "chinese": "城春草木深。",
+        "pinyin": "chéng chūn cǎo mù shēn."
+      },
+      {
+        "chinese": "感时花溅泪，",
+        "pinyin": "gǎn shí huā jiàn lèi,"
+      },
+      {
+        "chinese": "恨别鸟惊心。",
+        "pinyin": "hèn bié niǎo jīng xīn."
+      },
+      {
+        "chinese": "烽火连三月，",
+        "pinyin": "fēng huǒ lián sān yuè,"
+      },
+      {
+        "chinese": "家书抵万金。",
+        "pinyin": "jiā shū dǐ wàn jīn."
+      },
+      {
+        "chinese": "白头搔更短，",
+        "pinyin": "bái tóu sāo gèng duǎn,"
+      },
+      {
+        "chinese": "浑欲不胜簪。",
+        "pinyin": "hún yù bù shèng zān."
+      }
+    ],
+    "traditionalChinese": "國破山河在，城春草木深。感時花濺淚，恨別鳥驚心。烽火連三月，家書抵萬金。白頭搔更短，渾欲不勝簪。",
+    "translation": "La nación está rota, aunque las montañas y los ríos permanecen; la ciudad en primavera está cubierta de hierba y árboles. Conmovidas por los tiempos, las flores traen lágrimas; odiando la separación, el canto de los pájaros asusta el corazón. Los fuegos de señal han ardido durante tres meses seguidos; una carta de casa vale diez mil en oro. Me rasco el cabello blanco, que se ha vuelto cada vez más delgado — pronto ni siquiera sostendrá un pasador.",
+    "background": "Escrito en la primavera de 757 d.C., durante la Rebelión de An Lushan (755–763) que devastó la Dinastía Tang. Du Fu estaba atrapado en la capital ocupada por los rebeldes, Chang'an, separado de su familia. El poema captura la angustia de presenciar la destrucción nacional mientras se preocupa impotente por sus seres queridos. Se considera uno de los más grandes poemas de guerra en la literatura china.",
+    "analysis": "La línea de apertura es impresionante en su contraste: la nación está \"rota\" pero la naturaleza perdura — las montañas y los ríos permanecen indiferentes a la catástrofe humana. En las famosas tercera y cuarta líneas, incluso las cosas bellas (flores, canto de los pájaros) se convierten en fuentes de dolor porque el estado emocional del poeta transforma todo. La frase \"una carta de casa vale diez mil en oro\" (家书抵万金) se ha convertido en un dicho común en chino que aún se usa hoy.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "War & Frontier",
+    "originalSlug": "chun-wang"
+  },
+  {
+    "id": "P008",
+    "slug": "lu-chai",
+    "title": "Enclosure de Ciervos",
+    "titleChinese": "鹿柴",
+    "titlePinyin": "lù zhài",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "空山不见人，",
+        "pinyin": "kōng shān bú jiàn rén,"
+      },
+      {
+        "chinese": "但闻人语响。",
+        "pinyin": "dàn wén rén yǔ xiǎng."
+      },
+      {
+        "chinese": "返景入深林，",
+        "pinyin": "fǎn jǐng rù shēn lín,"
+      },
+      {
+        "chinese": "复照青苔上。",
+        "pinyin": "fù zhào qīng tái shàng."
+      }
+    ],
+    "traditionalChinese": "空山不見人，但聞人語響。返景入深林，復照青苔上。",
+    "translation": "En las montañas vacías, no se puede ver a nadie — sin embargo, voces resuenan desde algún lugar. La luz del sol que regresa entra en el profundo bosque y brilla nuevamente sobre el musgo verde.",
+    "background": "Este es uno de los veinte poemas en la \"Colección del Río Wang\" (辋川集) de Wang Wei, que describe escenas alrededor de su finca en las Montañas Zhongnan cerca de Chang'an. El Enclosure de Ciervos era un lugar específico en la propiedad. Wang Wei compuso estos poemas durante períodos de retiro de la vida oficial, profundamente influenciado por el budismo Chan (Zen).",
+    "analysis": "Este poema es una clase magistral en la creación de atmósfera a través de la ausencia. La \"montaña vacía\" con voces no vistas crea una paradoja — la vacuidad no está realmente vacía. El rayo de luz del sol que entra en el profundo bosque ilumina solo el musgo, sugiriendo cuán raramente la luz (o las personas) penetran este lugar. El poema encarna el concepto zen de encontrar una profunda presencia dentro de la aparente vacuidad.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "lu-chai"
+  },
+  {
+    "id": "P010",
+    "slug": "song-yuan-er-shi-an-xi",
+    "title": "Despedida a Yuan Er en su Misión a Anxi",
+    "titleChinese": "送元二使安西",
+    "titlePinyin": "sòng yuán èr shǐ ān xī",
+    "poet": {
+      "name": "Wang Wei",
+      "nameChinese": "王维",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "761",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渭城朝雨浥轻尘，",
+        "pinyin": "wèi chéng zhāo yǔ yì qīng chén,"
+      },
+      {
+        "chinese": "客舍青青柳色新。",
+        "pinyin": "kè shè qīng qīng liǔ sè xīn."
+      },
+      {
+        "chinese": "劝君更尽一杯酒，",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ,"
+      },
+      {
+        "chinese": "西出阳关无故人。",
+        "pinyin": "xī chū yáng guān wú gù rén."
+      }
+    ],
+    "traditionalChinese": "渭城朝雨浥輕塵，客舍青青柳色新。勸君更盡一杯酒，西出陽關無故人。",
+    "translation": "La lluvia de la mañana en Weicheng ha humedecido el polvo ligero; la posada está fresca y verde con los nuevos colores de los sauces. Te insto a que bebas una copa más de vino — al oeste del Paso Yang, no tendrás viejos amigos.",
+    "background": "Wang Wei escribió este poema para despedir a su amigo Yuan Er, quien iba a ser enviado en una misión diplomática a Anxi (en la actual Xinjiang), muy más allá de la frontera occidental. El Paso Yang (阳关) era la última puerta antes de las desoladas regiones occidentales. El poema fue posteriormente musicalizado como \"Tres Variaciones sobre el Paso Yang\" (阳关三叠), convirtiéndose en la canción de despedida más famosa en la historia china.",
+    "analysis": "La lluvia de la mañana que lava el polvo crea una escena de frescura y claridad que contrasta con la inminente separación. Los sauces (柳) son un símbolo tradicional de despedida en la cultura china, ya que la palabra suena como \"quedarse\" (留). La urgencia de la tercera línea — \"bebe una copa más\" — lleva el peso de saber que esta puede ser la última vez que los amigos compartan vino. La línea final es devastadora en su simplicidad: más allá del Paso Yang, no habrá nadie que conozcas.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "song-yuan-er-shi-an-xi"
+  },
+  {
+    "id": "P011",
+    "slug": "you-zi-yin",
+    "title": "Canción del Hijo Errante",
+    "titleChinese": "游子吟",
+    "titlePinyin": "yóu zǐ yín",
+    "poet": {
+      "name": "Meng Jiao",
+      "nameChinese": "孟郊",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "751",
+      "deathYear": "814",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "慈母手中线，",
+        "pinyin": "cí mǔ shǒu zhōng xiàn,"
+      },
+      {
+        "chinese": "游子身上衣。",
+        "pinyin": "yóu zǐ shēn shàng yī."
+      },
+      {
+        "chinese": "临行密密缝，",
+        "pinyin": "lín xíng mì mì féng,"
+      },
+      {
+        "chinese": "意恐迟迟归。",
+        "pinyin": "yì kǒng chí chí guī."
+      },
+      {
+        "chinese": "谁言寸草心，",
+        "pinyin": "shéi yán cùn cǎo xīn,"
+      },
+      {
+        "chinese": "报得三春晖。",
+        "pinyin": "bào dé sān chūn huī."
+      }
+    ],
+    "traditionalChinese": "慈母手中線，遊子身上衣。臨行密密縫，意恐遲遲歸。誰言寸草心，報得三春暉。",
+    "translation": "El hilo de una madre amorosa está en su mano — ropa para su hijo errante. Antes de que se vaya, ella cose con puntadas cercanas y densas, temiendo que tarde mucho en regresar. ¿Quién dice que el corazón de un trozo de hierba puede devolver el calor de tres primaveras de sol?",
+    "background": "Meng Jiao escribió este poema después de finalmente aprobar el examen imperial a los 46 años. El poema es un tributo a su madre, quien lo apoyó y creyó en él a través de décadas de fracasos y pobreza. Se ha convertido en el poema chino por excelencia sobre el amor maternal y se recita en el Día de la Madre en todo el mundo de habla china.",
+    "analysis": "El poema crea su poder emocional a través de una única imagen concreta: una madre cosiendo ropa para su hijo que se va. Las \"puntadas cercanas y densas\" revelan su ansiedad — como si coser más apretadamente pudiera de alguna manera mantenerlo más cerca o protegerlo por más tiempo. La metáfora final compara la capacidad del niño para retribuir a su madre con un trozo de hierba tratando de retribuir al sol por tres estaciones de calor — una deuda de gratitud imposible.",
+    "form": "Ancient Verse (古体诗)",
+    "theme": "Love & Devotion",
+    "originalSlug": "you-zi-yin"
+  },
+  {
+    "id": "P012",
+    "slug": "jiang-xue",
+    "title": "River Snow",
+    "titleChinese": "江雪",
+    "titlePinyin": "jiāng xuě",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "千山鸟飞绝，",
+        "pinyin": "qiān shān niǎo fēi jué,"
+      },
+      {
+        "chinese": "万径人踪灭。",
+        "pinyin": "wàn jìng rén zōng miè."
+      },
+      {
+        "chinese": "孤舟蓑笠翁，",
+        "pinyin": "gū zhōu suō lì wēng,"
+      },
+      {
+        "chinese": "独钓寒江雪。",
+        "pinyin": "dú diào hán jiāng xuě."
+      }
+    ],
+    "traditionalChinese": "千山鳥飛絕，萬徑人蹤滅。孤舟蓑笠翁，獨釣寒江雪。",
+    "translation": "Desde mil montañas, los pájaros han desaparecido; en diez mil caminos, las huellas humanas se han ido. Un bote solitario, un anciano con capa y sombrero de paja — pescando solo en la fría nieve del río.",
+    "background": "Liu Zongyuan escribió este poema durante su exilio político en Yongzhou (Hunan moderno). Habiendo sido desterrado por su papel en un movimiento de reforma fallido, pasó más de una década en el remoto sur. El poema es ampliamente leído como un autorretrato del poeta en el exilio — solo e indomable. Es uno de los poemas chinos más icónicos visualmente, frecuentemente representado en la pintura tradicional.",
+    "analysis": "El poema logra una extraordinaria quietud a través de la negación sistemática. Primero todos los pájaros desaparecen, luego todas las huellas humanas. El mundo se vacía de toda vida excepto de un anciano. La escala es vasta (miles de montañas, diez mil caminos) y se estrecha a un solo punto (un bote, una figura). El viejo pescador, solo en un paisaje helado, encarna la integridad confuciana — manteniendo sus principios a pesar de la completa aislamiento.",
+    "form": "Five-character Quatrain (五言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "jiang-xue"
+  },
+  {
+    "id": "P013",
+    "slug": "chu-sai",
+    "title": "Out on the Frontier",
+    "titleChinese": "出塞",
+    "titlePinyin": "chū sài",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "秦时明月汉时关，",
+        "pinyin": "qín shí míng yuè hàn shí guān,"
+      },
+      {
+        "chinese": "万里长征人未还。",
+        "pinyin": "wàn lǐ cháng zhēng rén wèi huán."
+      },
+      {
+        "chinese": "但使龙城飞将在，",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài,"
+      },
+      {
+        "chinese": "不教胡马度阴山。",
+        "pinyin": "bù jiào hú mǎ dù yīn shān."
+      }
+    ],
+    "traditionalChinese": "秦時明月漢時關，萬里長征人未還。但使龍城飛將在，不教胡馬度陰山。",
+    "translation": "La misma luna que brilló en Qin, los mismos pasos de la Han — los soldados marcharon diez mil millas y no han regresado. Si tan solo el General Volador de la Ciudad Dragón estuviera aquí, nunca dejaría que los caballos enemigos cruzaran la Montaña Yin.",
+    "background": "Este poema fronterizo (边塞诗) reflexiona sobre el ciclo interminable de la guerra fronteriza a lo largo de la historia china. El \"General Volador\" (飞将) se refiere a Li Guang, un legendario general de la dinastía Han famoso por derrotar a los nómadas Xiongnu. Wang Changling escribió durante un período de campañas militares tang en curso contra pueblos del norte y del oeste.",
+    "analysis": "La línea de apertura es impresionante en su compresión del tiempo: la misma luna y los mismos pasos fronterizos han sido testigos de la guerra desde la dinastía Qin hasta la Han y hasta el presente Tang. Pasan los siglos pero la situación nunca cambia — los soldados aún marchan y no regresan. El deseo de un gran general como Li Guang es tanto patriótico como desgarrador, implicando que el liderazgo actual es inadecuado y que los soldados están muriendo innecesariamente.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "War & Frontier",
+    "originalSlug": "chu-sai"
+  },
+  {
+    "id": "P014",
+    "slug": "ye-yu-ji-bei",
+    "title": "Night Rain — Letter to the North",
+    "titleChinese": "夜雨寄北",
+    "titlePinyin": "yè yǔ jì běi",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "君问归期未有期，",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī,"
+      },
+      {
+        "chinese": "巴山夜雨涨秋池。",
+        "pinyin": "bā shān yè yǔ zhǎng qiū chí."
+      },
+      {
+        "chinese": "何当共剪西窗烛，",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú,"
+      },
+      {
+        "chinese": "却话巴山夜雨时。",
+        "pinyin": "què huà bā shān yè yǔ shí."
+      }
+    ],
+    "traditionalChinese": "君問歸期未有期，巴山夜雨漲秋池。何當共剪西窗燭，卻話巴山夜雨時。",
+    "translation": "Preguntas cuándo regresaré — no hay fecha establecida. La lluvia nocturna en el Monte Ba hincha los estanques de otoño. ¿Cuándo nos sentaremos juntos recortando velas junto a la ventana oeste, y hablaremos sobre esta noche de lluvia en el Monte Ba?",
+    "background": "Li Shangyin escribió este poema mientras estaba varado en la región de Ba (Sichuan), lejos de su esposa en Chang'an. La carta que recibió preguntaba cuándo regresaría, pero no tenía respuesta. El poema es notable por su estructura: el presente (lluvia, soledad) y un futuro imaginado (reunión) se entrelazan a través de la frase repetida \"lluvia nocturna en el Monte Ba.\"",
+    "analysis": "La repetición de \"lluvia nocturna en el Monte Ba\" (巴山夜雨) crea un bucle temporal. En el presente, la lluvia es una fuente de melancolía. En el futuro imaginado, esa misma lluvia se convierte en una historia para compartir con un ser querido — transformando el sufrimiento en memoria, la soledad en intimidad. El acto de \"recortar velas\" sugiere una larga conversación sin prisa hasta bien entrada la noche. El poema convierte el dolor presente en ternura futura.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Love & Devotion",
+    "originalSlug": "ye-yu-ji-bei"
+  },
+  {
+    "id": "P015",
+    "slug": "qing-ming",
+    "title": "Qingming Festival",
+    "titleChinese": "清明",
+    "titlePinyin": "qīng míng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "清明时节雨纷纷，",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn,"
+      },
+      {
+        "chinese": "路上行人欲断魂。",
+        "pinyin": "lù shàng xíng rén yù duàn hún."
+      },
+      {
+        "chinese": "借问酒家何处有，",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu,"
+      },
+      {
+        "chinese": "牧童遥指杏花村。",
+        "pinyin": "mù tóng yáo zhǐ xìng huā cūn."
+      }
+    ],
+    "traditionalChinese": "清明時節雨紛紛，路上行人欲斷魂。借問酒家何處有，牧童遙指杏花村。",
+    "translation": "Durante el Festival Qingming, la lluvia cae espesa y rápida; los viajeros en el camino están cansados hasta el alma. \"¿Dónde puedo encontrar una taberna?\" pregunto — un niño pastor señala al Pueblo de las Flores de Albaricoque a lo lejos.",
+    "background": "El Festival Qingming (Festival de Claridad Brillante, también llamado Día de Barrido de Tumbas) ocurre a principios de abril, cuando las familias visitan las tumbas de sus antepasados. La lluvia durante Qingming se considera auspiciosa pero hace que la ocasión ya sombría sea más melancólica. Este poema se ha entrelazado tanto con el festival que es prácticamente imposible mencionar Qingming sin que alguien lo cite.",
+    "analysis": "El poema cuenta una historia en miniatura. La lluvia y el peso emocional del festival se establecen en las primeras dos líneas. Luego, un simple intercambio de preguntas y respuestas entre el viajero y el niño pastor proporciona el giro. La imagen final — un pueblo distante nombrado por flores de albaricoque — ofrece tanto refugio literal (una taberna para descansar) como esperanza simbólica (belleza más allá de la lluvia). La estructura narrativa del poema hace que se sienta como una escena de una película.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qing-ming"
+  },
+  {
+    "id": "P016",
+    "slug": "fu-de-gu-yuan-cao-song-bie",
+    "title": "Grasses",
+    "titleChinese": "赋得古原草送别",
+    "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "离离原上草，",
+        "pinyin": "lí lí yuán shàng cǎo,"
+      },
+      {
+        "chinese": "一岁一枯荣。",
+        "pinyin": "yī suì yī kū róng."
+      },
+      {
+        "chinese": "野火烧不尽，",
+        "pinyin": "yě huǒ shāo bù jìn,"
+      },
+      {
+        "chinese": "春风吹又生。",
+        "pinyin": "chūn fēng chuī yòu shēng."
+      },
+      {
+        "chinese": "远芳侵古道，",
+        "pinyin": "yuǎn fāng qīn gǔ dào,"
+      },
+      {
+        "chinese": "晴翠接荒城。",
+        "pinyin": "qíng cuì jiē huāng chéng."
+      },
+      {
+        "chinese": "又送王孙去，",
+        "pinyin": "yòu sòng wáng sūn qù,"
+      },
+      {
+        "chinese": "萋萋满别情。",
+        "pinyin": "qī qī mǎn bié qíng."
+      }
+    ],
+    "traditionalChinese": "離離原上草，一歲一枯榮。野火燒不盡，春風吹又生。遠芳侵古道，晴翠接荒城。又送王孫去，萋萋滿別情。",
+    "translation": "Hierbas interminables en la llanura — cada año se marchitan y florecen de nuevo. El fuego salvaje no puede quemarlas; el viento de primavera sopla y crecen una vez más. Su fragancia distante llega al viejo camino; su verde iluminado por el sol se encuentra con la ciudad en ruinas. Una vez más despido a un amigo — las densas hierbas rebosan de tristeza por la despedida.",
+    "background": "Bai Juyi escribió este poema a los 16 años como una pieza de examen. La leyenda dice que cuando el famoso poeta Gu Kuang lo leyó por primera vez, quedó asombrado por el talento del joven poeta. Las líneas \"El fuego salvaje no puede quemarlas; el viento de primavera sopla y crecen una vez más\" se convirtieron en uno de los pareados más citados en la literatura china, simbolizando la resiliencia indomable.",
+    "analysis": "El poema funciona en dos niveles: como observación de la naturaleza y como despedida. La hierba se convierte en una metáfora tanto de la persistencia de la vida (sobreviviendo al fuego, regresando cada primavera) como de la persistencia de la tristeza (siempre volviendo a crecer cuando los amigos se van). La sección media expande la escena — hierba alcanzando caminos antiguos y contra ciudades en ruinas — conectando la despedida personal con el paso de la historia. El cierre une todo al momento específico de decir adiós.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "fu-de-gu-yuan-cao-song-bie"
+  },
+  {
+    "id": "P017",
+    "slug": "zao-fa-bai-di-cheng",
+    "title": "Salida temprana de la ciudad del emperador blanco",
+    "titleChinese": "早发白帝城",
+    "titlePinyin": "zǎo fā bái dì chéng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "朝辞白帝彩云间，",
+        "pinyin": "zhāo cí bái dì cǎi yún jiān,"
+      },
+      {
+        "chinese": "千里江陵一日还。",
+        "pinyin": "qiān lǐ jiāng líng yī rì huán."
+      },
+      {
+        "chinese": "两岸猿声啼不住，",
+        "pinyin": "liǎng àn yuán shēng tí bú zhù,"
+      },
+      {
+        "chinese": "轻舟已过万重山。",
+        "pinyin": "qīng zhōu yǐ guò wàn chóng shān."
+      }
+    ],
+    "traditionalChinese": "朝辭白帝彩雲間，千里江陵一日還。兩岸猿聲啼不住，輕舟已過萬重山。",
+    "translation": "Al amanecer salgo de la ciudad del emperador blanco entre las nubes coloridas; mil millas hasta Jiangling, regresaré en un solo día. Desde ambas orillas, los gritos de los monos nunca cesan — mi ligero barco ya ha pasado diez mil montañas.",
+    "background": "Li Bai escribió este poema en 759 d.C. después de ser indultado de su exilio. Había sido condenado a la destierro en la remota Guizhou por su participación en una rebelión política, pero se declaró una amnistía mientras viajaba río arriba. Este poema captura su alegría mientras regresa rápidamente río abajo a través de las Tres Gargantas del río Yangtsé. La exuberancia es palpable.",
+    "analysis": "El poema surge con velocidad y alegría. \"Nubes coloridas\" enmarcan la partida en belleza; \"mil millas en un día\" transmite una velocidad asombrosa. Los gritos de los monos — un símbolo tradicional de tristeza en la poesía china — se transforman aquí: no pueden detenerlo. El tiempo pasado de la última línea (\"ya ha pasado\") crea una sensación de despreocupación, como si las montañas volaran mientras no mirábamos. Es Li Bai en su momento más jubiloso.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Nature & Landscape",
+    "originalSlug": "zao-fa-bai-di-cheng"
+  },
+  {
+    "id": "P018",
+    "slug": "huang-he-lou-song-meng-hao-ran",
+    "title": "Despedida a Meng Haoran en la Torre de la Grulla Amarilla",
+    "titleChinese": "黄鹤楼送孟浩然之广陵",
+    "titlePinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
+    "poet": {
+      "name": "Li Bai",
+      "nameChinese": "李白",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "701",
+      "deathYear": "762",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人西辞黄鹤楼，",
+        "pinyin": "gù rén xī cí huáng hè lóu,"
+      },
+      {
+        "chinese": "烟花三月下扬州。",
+        "pinyin": "yān huā sān yuè xià yáng zhōu."
+      },
+      {
+        "chinese": "孤帆远影碧空尽，",
+        "pinyin": "gū fān yuǎn yǐng bì kōng jìn,"
+      },
+      {
+        "chinese": "唯见长江天际流。",
+        "pinyin": "wéi jiàn cháng jiāng tiān jì liú."
+      }
+    ],
+    "traditionalChinese": "故人西辭黃鶴樓，煙花三月下揚州。孤帆遠影碧空盡，唯見長江天際流。",
+    "translation": "Mi viejo amigo se despide en la Torre de la Grulla Amarilla en el oeste, entre la niebla y las flores de marzo, dirigiéndose a Yangzhou. La sombra distante de su vela solitaria se desvanece en el cielo azul — todo lo que veo es el Yangtsé fluyendo hacia el borde del cielo.",
+    "background": "Li Bai escribió este poema para despedir a su amigo y compañero poeta Meng Haoran, quien viajaba hacia el este a Yangzhou. La Torre de la Grulla Amarilla en Wuhan es uno de los monumentos más famosos de China. Los dos poetas tenían una profunda amistad, y Li Bai admiraba mucho al mayor Meng Haoran. El poema se sitúa en el mes más hermoso — marzo, cuando las orillas del río están cubiertas de flores.",
+    "analysis": "El poema nunca expresa directamente los sentimientos de Li Bai — en cambio, sus emociones se transmiten a través de lo que observa. Se encuentra en la torre mirando el barco de su amigo hasta que la vela desaparece en el horizonte, luego sigue mirando mientras el río fluye. El hecho de que continúe mirando después de que el barco ha desaparecido revela la profundidad de su apego. La imagen final — el Yangtsé extendiéndose hasta el borde del cielo — transforma la tristeza personal en vastedad cósmica.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "huang-he-lou-song-meng-hao-ran"
+  },
+  {
+    "id": "P019",
+    "slug": "deng-gao",
+    "title": "Subiendo alto",
+    "titleChinese": "登高",
+    "titlePinyin": "dēng gāo",
+    "poet": {
+      "name": "Du Fu",
+      "nameChinese": "杜甫",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "712",
+      "deathYear": "770",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "风急天高猿啸哀，",
+        "pinyin": "fēng jí tiān gāo yuán xiào āi,"
+      },
+      {
+        "chinese": "渚清沙白鸟飞回。",
+        "pinyin": "zhǔ qīng shā bái niǎo fēi huí."
+      },
+      {
+        "chinese": "无边落木萧萧下，",
+        "pinyin": "wú biān luò mù xiāo xiāo xià,"
+      },
+      {
+        "chinese": "不尽长江滚滚来。",
+        "pinyin": "bú jìn cháng jiāng gǔn gǔn lái."
+      },
+      {
+        "chinese": "万里悲秋常作客，",
+        "pinyin": "wàn lǐ bēi qiū cháng zuò kè,"
+      },
+      {
+        "chinese": "百年多病独登台。",
+        "pinyin": "bǎi nián duō bìng dú dēng tái."
+      },
+      {
+        "chinese": "艰难苦恨繁霜鬓，",
+        "pinyin": "jiān nán kǔ hèn fán shuāng bìn,"
+      },
+      {
+        "chinese": "潦倒新停浊酒杯。",
+        "pinyin": "liáo dǎo xīn tíng zhuó jiǔ bēi."
+      }
+    ],
+    "traditionalChinese": "風急天高猿嘯哀，渚清沙白鳥飛回。無邊落木蕭蕭下，不盡長江滾滾來。萬里悲秋常作客，百年多病獨登臺。艱難苦恨繁霜鬢，潦倒新停濁酒杯。",
+    "translation": "Viento feroz, cielo alto, monos aullando de tristeza; islote claro, arena blanca, aves dando vueltas. Hojas caídas sin límites susurran; el interminable Yangtsé rueda y rueda hacia adelante. A diez mil millas de casa, para siempre un huésped en un otoño triste; un siglo de enfermedad, subo la terraza solo. Las dificultades y el amargo arrepentimiento han helado mis sienes; desgastado, he renunciado recientemente a mi copa de vino turbio.",
+    "background": "Escrito en 767 d.C. en Kuizhou (Chongqing moderno) durante los últimos años de Du Fu. El poeta estaba viejo, enfermo, empobrecido y lejos de casa. La tradición del Festival Doble Nueve pedía escalar alturas y beber vino, pero Du Fu estaba demasiado enfermo para beber. Este poema es ampliamente considerado el mejor verso regulado (律诗) jamás escrito en chino.",
+    "analysis": "Cada pareado está magistralmente elaborado. Las dos primeras líneas presentan seis imágenes en rápida sucesión (viento, cielo, monos, islote, arena, aves) que crean una experiencia sensorial abrumadora. Las líneas tres y cuatro logran uno de los grandes efectos panorámicos de la poesía: hojas interminables cayendo y el río infinito fluyendo — ambas imágenes de cosas que pasan más allá del control humano. El giro hacia lo personal en las líneas cinco y seis es devastador: una vida de vagabundeo y enfermedad, subiendo solo. La sobriedad forzada del último pareado (incluso el vino le es negado) hace que la tristeza del poema sea absoluta.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Life & Philosophy",
+    "originalSlug": "deng-gao"
+  },
+  {
+    "id": "P027",
+    "slug": "hui-xiang-ou-shu",
+    "title": "Regresando a casa — Un verso improvisado",
+    "titleChinese": "回乡偶书",
+    "titlePinyin": "huí xiāng ǒu shū",
+    "poet": {
+      "name": "He Zhizhang",
+      "nameChinese": "贺知章",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "659",
+      "deathYear": "744",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "少小离家老大回，",
+        "pinyin": "shào xiǎo lí jiā lǎo dà huí,"
+      },
+      {
+        "chinese": "乡音无改鬓毛衰。",
+        "pinyin": "xiāng yīn wú gǎi bìn máo shuāi."
+      },
+      {
+        "chinese": "儿童相见不相识，",
+        "pinyin": "ér tóng xiāng jiàn bù xiāng shí,"
+      },
+      {
+        "chinese": "笑问客从何处来。",
+        "pinyin": "xiào wèn kè cóng hé chù lái."
+      }
+    ],
+    "traditionalChinese": "少小離家老大回，鄉音無改鬢毛衰。兒童相見不相識，笑問客從何處來。",
+    "translation": "Salí de casa joven y regreso viejo — mi acento local no ha cambiado, pero mi cabello en las sienes se ha afinado. Los niños del pueblo me ven pero no me reconocen; sonriendo, preguntan: \"Visitante, ¿de dónde vienes?\"",
+    "background": "He Zhizhang escribió este poema al regresar a su ciudad natal de Yongxing (en la moderna Zhejiang) después de más de 50 años de servir como funcionario en la capital Chang'an. A los 86 años, finalmente se retiró y volvió a casa, solo para descubrir que nadie lo reconocía. El humor agridulce de ser un extraño en tu propia ciudad natal resonó profundamente en la cultura china.",
+    "analysis": "El impacto emocional del poema proviene de la brecha entre la identidad y el reconocimiento. El poeta sabe quién es — su acento no ha cambiado — pero el tiempo lo ha transformado más allá del reconocimiento. La inocente pregunta de los niños es devastadora precisamente porque es alegre: ven a un visitante amigable, no a un nativo que regresa. El poema captura una de las ironías más crueles de la vida: puedes volver a casa, pero es posible que la casa ya no te reconozca.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Homesickness & Longing",
+    "originalSlug": "hui-xiang-ou-shu"
+  },
+  {
+    "id": "P020",
+    "slug": "qiantang-lake-spring-walk",
+    "title": "Paseo de primavera junto al lago Qiantang",
+    "titleChinese": "钱塘湖春行",
+    "titlePinyin": "Qián Táng Hú Chūn Xíng",
+    "poet": {
+      "name": "Bai Juyi",
+      "nameChinese": "白居易",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "772",
+      "deathYear": "846",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "孤山寺北贾亭西，",
+        "pinyin": "gū shān sì běi jiǎ tíng xī,"
+      },
+      {
+        "chinese": "水面初平云脚低。",
+        "pinyin": "shuǐ miàn chū píng yún jiǎo dī."
+      },
+      {
+        "chinese": "几处早莺争暖树，",
+        "pinyin": "jǐ chù zǎo yīng zhēng nuǎn shù,"
+      },
+      {
+        "chinese": "谁家新燕啄春泥。",
+        "pinyin": "shuí jiā xīn yàn zhuó chūn ní."
+      },
+      {
+        "chinese": "乱花渐欲迷人眼，",
+        "pinyin": "luàn huā jiàn yù mí rén yǎn,"
+      },
+      {
+        "chinese": "浅草才能没马蹄。",
+        "pinyin": "qiǎn cǎo cái néng mò mǎ tí."
+      },
+      {
+        "chinese": "最爱湖东行不足，",
+        "pinyin": "zuì ài hú dōng xíng bù zú,"
+      },
+      {
+        "chinese": "绿杨阴里白沙堤。",
+        "pinyin": "lǜ yáng yīn lǐ bái shā dī."
+      }
+    ],
+    "traditionalChinese": "孤山寺北賈亭西，水面初平雲腳低。幾處早鶯爭暖樹，誰家新燕啄春泥。亂花漸欲迷人眼，淺草才能沒馬蹄。最愛湖東行不足，綠楊陰裏白沙堤。",
+    "translation": "Al norte del Templo de la Colina Solitaria, al oeste del Pabellón Jia, la superficie del agua acaba de nivelarse, las nubes bajas rozan las olas. Aquí y allá, los oríoles tempranos compiten por los árboles cálidos; ¿de quién son las nuevas golondrinas que pican la barro de primavera? Las flores silvestres se están volviendo gradualmente deslumbrantes a la vista; la hierba poco profunda apenas puede cubrir los cascos del caballo. Lo que más amo es el este del lago donde nunca camino lo suficiente — el camino de arena blanca en medio de la sombra de los sauces verdes.",
+    "background": "Escrito alrededor de 822 d.C. cuando Bai Juyi fue gobernador de Hangzhou, este poema captura la belleza del Lago Oeste (Lago Qiantang) a principios de primavera. Bai Juyi era un amante devoto del Lago Oeste y construyó el famoso camino (Camino Bai) que aún lleva su nombre hoy.",
+    "analysis": "Este poema es una clase magistral en capturar el momento exacto de principios de primavera. Cada pareado añade un nuevo detalle sensorial: el nivel del agua elevado, los oríoles compitiendo, las golondrinas construyendo nidos, las flores en flor y la hierba joven. La progresión del paisaje distante a los detalles cercanos crea un paseo cinematográfico alrededor del lago. El último pareado revela el profundo apego personal del poeta a este lugar.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "qiantang-lake-spring-walk"
+  },
+  {
+    "id": "P021",
+    "slug": "untitled-hard-to-meet",
+    "title": "Sin título — Difícil de encontrar, difícil de separar",
+    "titleChinese": "无题·相见时难别亦难",
+    "titlePinyin": "Wú Tí · Xiāng Jiàn Shí Nán Bié Yì Nán",
+    "poet": {
+      "name": "Li Shangyin",
+      "nameChinese": "李商隐",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "813",
+      "deathYear": "858",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "相见时难别亦难，",
+        "pinyin": "xiāng jiàn shí nán bié yì nán,"
+      },
+      {
+        "chinese": "东风无力百花残。",
+        "pinyin": "dōng fēng wú lì bǎi huā cán."
+      },
+      {
+        "chinese": "春蚕到死丝方尽，",
+        "pinyin": "chūn cán dào sǐ sī fāng jìn,"
+      },
+      {
+        "chinese": "蜡炬成灰泪始干。",
+        "pinyin": "là jù chéng huī lèi shǐ gān."
+      },
+      {
+        "chinese": "晓镜但愁云鬓改，",
+        "pinyin": "xiǎo jìng dàn chóu yún bìn gǎi,"
+      },
+      {
+        "chinese": "夜吟应觉月光寒。",
+        "pinyin": "yè yín yīng jué yuè guāng hán."
+      },
+      {
+        "chinese": "蓬山此去无多路，",
+        "pinyin": "péng shān cǐ qù wú duō lù,"
+      },
+      {
+        "chinese": "青鸟殷勤为探看。",
+        "pinyin": "qīng niǎo yīn qín wèi tàn kàn."
+      }
+    ],
+    "traditionalChinese": "相見時難別亦難，東風無力百花殘。春蠶到死絲方盡，蠟炬成灰淚始乾。曉鏡但愁雲鬢改，夜吟應覺月光寒。蓬山此去無多路，青鳥殷勤為探看。",
+    "translation": "Es difícil encontrarse y difícil separarse; el viento del este es impotente, cien flores se marchitan. La oruga de seda de primavera hila seda hasta morir; las lágrimas de la vela se secan solo cuando se convierten en ceniza. Frente al espejo de la mañana, le preocupa que su cabello como nubes cambie; recitando poemas por la noche, debe sentir el frío de la luz de la luna. De aquí a la montaña Penglai, el camino no es largo — que el pájaro azul vaya diligentemente a buscarme.",
+    "background": "Este es el poema de amor más famoso de Li Shangyin, probablemente escrito en la década de 840. Los poemas \"Sin título\" de Li Shangyin son conocidos por su ambigüedad — pueden referirse a un romance prohibido, frustración política o anhelo espiritual. El tercer pareado (\"oruga de seda\" y \"lágrimas de vela\") se ha convertido en una de las líneas más citadas en toda la poesía china.",
+    "analysis": "El genio del poema radica en sus metáforas en capas. El hilo de la oruga de seda (丝/sī) es un homófono de anhelo (思/sī), por lo que \"la oruga de seda hila hasta la muerte\" significa \"mi anhelo termina solo en la muerte.\" La vela que llora lágrimas de cera refleja el dolor interminable del amante. Cada imagen refuerza el tema de la devoción hasta la muerte. El último pareado introduce esperanza a través del mítico pájaro azul mensajero de la Reina Madre del Oeste, sugiriendo que incluso a través de distancias imposibles, el amor busca conexión.",
+    "form": "Seven-character Regulated Verse (七言律诗)",
+    "theme": "Love & Longing",
+    "originalSlug": "untitled-hard-to-meet"
+  },
+  {
+    "id": "P022",
+    "slug": "mountain-walk",
+    "title": "Paseo por la montaña",
+    "titleChinese": "山行",
+    "titlePinyin": "Shān Xíng",
+    "poet": {
+      "name": "Du Mu",
+      "nameChinese": "杜牧",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "803",
+      "deathYear": "852",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "远上寒山石径斜，",
+        "pinyin": "yuǎn shàng hán shān shí jìng xié,"
+      },
+      {
+        "chinese": "白云生处有人家。",
+        "pinyin": "bái yún shēng chù yǒu rén jiā."
+      },
+      {
+        "chinese": "停车坐爱枫林晚，",
+        "pinyin": "tíng chē zuò ài fēng lín wǎn,"
+      },
+      {
+        "chinese": "霜叶红于二月花。",
+        "pinyin": "shuāng yè hóng yú èr yuè huā."
+      }
+    ],
+    "traditionalChinese": "遠上寒山石徑斜，白雲生處有人家。停車坐愛楓林晚，霜葉紅於二月花。",
+    "translation": "Lejos en la fría montaña, el camino de piedra serpentea; donde se elevan las nubes blancas, hay hogares. Detengo mi carruaje, encantado por el bosque de arces al atardecer — las hojas tocadas por la escarcha son más rojas que las flores de febrero.",
+    "background": "Escrito durante una excursión de otoño, este poema captura el viaje de Du Mu por un camino montañoso. Du Mu, conocido como \"Pequeño Du\" (小杜) para distinguirlo de Du Fu (\"Viejo Du\"), fue celebrado por sus elegantes y vívidas cuartetas. Este poema se ha convertido en el poema chino definitivo sobre el paisaje otoñal.",
+    "analysis": "En solo cuatro líneas, Du Mu crea un viaje completo: el camino serpenteante, los hogares distantes en las nubes, la parada repentina y la revelación impresionante. La línea final es el golpe de genio del poema — comparando las hojas rojas de arce del otoño favorablemente con las flores de primavera, subvirtiendo la tradición poética china que generalmente lamenta el otoño y celebra la primavera. La palabra \"坐\" (zuò, \"porque\") en lugar de su homófono que significa \"sentarse\" muestra que el poeta se ve obligado a detenerse, no eligiendo descansar.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Seasons & Time",
+    "originalSlug": "mountain-walk"
+  },
+  {
+    "id": "P023",
+    "slug": "visiting-old-friends-farm",
+    "title": "Visita a la granja de un viejo amigo",
+    "titleChinese": "过故人庄",
+    "titlePinyin": "Guò Gù Rén Zhuāng",
+    "poet": {
+      "name": "Meng Haoran",
+      "nameChinese": "孟浩然",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "689",
+      "deathYear": "740",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "故人具鸡黍，",
+        "pinyin": "gù rén jù jī shǔ,"
+      },
+      {
+        "chinese": "邀我至田家。",
+        "pinyin": "yāo wǒ zhì tián jiā."
+      },
+      {
+        "chinese": "绿树村边合，",
+        "pinyin": "lǜ shù cūn biān hé,"
+      },
+      {
+        "chinese": "青山郭外斜。",
+        "pinyin": "qīng shān guō wài xié."
+      },
+      {
+        "chinese": "开轩面场圃，",
+        "pinyin": "kāi xuān miàn chǎng pǔ,"
+      },
+      {
+        "chinese": "把酒话桑麻。",
+        "pinyin": "bǎ jiǔ huà sāng má."
+      },
+      {
+        "chinese": "待到重阳日，",
+        "pinyin": "dài dào chóng yáng rì,"
+      },
+      {
+        "chinese": "还来就菊花。",
+        "pinyin": "hái lái jiù jú huā."
+      }
+    ],
+    "traditionalChinese": "故人具雞黍，邀我至田家。綠樹村邊合，青山郭外斜。開軒面場圃，把酒話桑麻。待到重陽日，還來就菊花。",
+    "translation": "Mi viejo amigo preparó pollo y mijo, y me invitó a su granja. Árboles verdes encierran el pueblo; montañas azules se inclinan más allá del muro exterior. Abrimos la ventana que da al jardín y al campo de trilla, y sobre el vino hablamos de moras y cáñamo. Cuando llegue el Festival Doble Nueve, volveré para disfrutar de los crisantemos.",
+    "background": "Este poema captura una simple visita a la casa rural de un amigo. Meng Haoran, que pasó la mayor parte de su vida como recluso cerca de su ciudad natal en Hubei, fue el gran poeta de la vida pastoral. A diferencia de muchos poetas de la dinastía Tang que buscaban carreras oficiales, Meng Haoran eligió vivir cerca de la naturaleza, y este poema encarna su ideal de contento rústico.",
+    "analysis": "La belleza de este poema es su perfecta simplicidad. No hay gran metáfora, ni meditación filosófica — solo la invitación de un amigo, buena comida, hermoso paisaje, vino, conversación sobre la agricultura y una promesa de regresar. Los pareados del medio pintan una escena rural idílica: árboles verdes rodeando el pueblo, montañas más allá, una ventana que se abre a los campos. La calidez del poema proviene de su completa ausencia de pretensión, convirtiéndolo en uno de los poemas de amistad más queridos de la literatura china.",
+    "form": "Five-character Regulated Verse (五言律诗)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "visiting-old-friends-farm"
+  },
+  {
+    "id": "P024",
+    "slug": "seeing-off-xin-jian-at-lotus-tower",
+    "title": "Despedida de Xin Jian en la Torre de Loto",
+    "titleChinese": "芙蓉楼送辛渐",
+    "titlePinyin": "Fú Róng Lóu Sòng Xīn Jiàn",
+    "poet": {
+      "name": "Wang Changling",
+      "nameChinese": "王昌龄",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "698",
+      "deathYear": "756",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "寒雨连江夜入吴，",
+        "pinyin": "hán yǔ lián jiāng yè rù wú,"
+      },
+      {
+        "chinese": "平明送客楚山孤。",
+        "pinyin": "píng míng sòng kè chǔ shān gū."
+      },
+      {
+        "chinese": "洛阳亲友如相问，",
+        "pinyin": "luò yáng qīn yǒu rú xiāng wèn,"
+      },
+      {
+        "chinese": "一片冰心在玉壶。",
+        "pinyin": "yī piàn bīng xīn zài yù hú."
+      }
+    ],
+    "traditionalChinese": "寒雨連江夜入吳，平明送客楚山孤。洛陽親友如相問，一片冰心在玉壺。",
+    "translation": "La fría lluvia se fusiona con el río, entrando en Wu por la noche; al amanecer despido a mi amigo, las montañas Chu se alzan solas. Si amigos y familiares en Luoyang preguntan por mí — mi corazón es puro como el hielo en un recipiente de jade.",
+    "background": "Escrito alrededor del año 742 d.C. cuando Wang Changling estaba destinado en el sur, lejos de la capital. Su amigo Xin Jian regresaba a Luoyang, y Wang Changling compuso esta despedida en la Torre de Loto (en la actual Zhenjiang, Jiangsu). Conocido como el \"Sabio de las Cuartetas de Siete Caracteres,\" Wang Changling estaba en ese momento sirviendo en un puesto menor después de haber sido degradado de la capital.",
+    "analysis": "El poema se mueve de lo vasto a lo íntimo: la lluvia nocturna sobre el río, la montaña solitaria al amanecer, luego el mensaje personal. La línea final — \"一片冰心在玉壶\" (un trozo de corazón de hielo en un recipiente de jade) — se ha convertido en una expresión clásica de pureza moral. A pesar de su degradación y exilio, el corazón de Wang Changling permanece incorrupto. La metáfora de \"hielo en jade\" transmite tanto transparencia como preciosidad, una declaración de integridad que trasciende sus circunstancias.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "Friendship & Farewell",
+    "originalSlug": "seeing-off-xin-jian-at-lotus-tower"
+  },
+  {
+    "id": "P025",
+    "slug": "the-fisherman",
+    "title": "El pescador",
+    "titleChinese": "渔翁",
+    "titlePinyin": "Yú Wēng",
+    "poet": {
+      "name": "Liu Zongyuan",
+      "nameChinese": "柳宗元",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "773",
+      "deathYear": "819",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "渔翁夜傍西岩宿，",
+        "pinyin": "yú wēng yè bàng xī yán sù,"
+      },
+      {
+        "chinese": "晓汲清湘燃楚竹。",
+        "pinyin": "xiǎo jí qīng xiāng rán chǔ zhú."
+      },
+      {
+        "chinese": "烟销日出不见人，",
+        "pinyin": "yān xiāo rì chū bù jiàn rén,"
+      },
+      {
+        "chinese": "欸乃一声山水绿。",
+        "pinyin": "ǎi nǎi yī shēng shān shuǐ lǜ."
+      },
+      {
+        "chinese": "回看天际下中流，",
+        "pinyin": "huí kàn tiān jì xià zhōng liú,"
+      },
+      {
+        "chinese": "岩上无心云相逐。",
+        "pinyin": "yán shàng wú xīn yún xiāng zhú."
+      }
+    ],
+    "traditionalChinese": "漁翁夜傍西巖宿，曉汲清湘燃楚竹。煙銷日出不見人，欸乃一聲山水綠。回看天際下中流，巖上無心雲相逐。",
+    "translation": "El viejo pescador duerme junto al acantilado occidental por la noche; al amanecer saca agua clara del río Xiang y quema bambú de Chu. Cuando la niebla se disipa y el sol sale, no se le ve por ningún lado — el crujido de su remo, y las montañas y el agua se tornan verdes. Mirando hacia el borde del cielo, flota en medio de la corriente; sobre el acantilado, nubes despreocupadas se persiguen entre sí.",
+    "background": "Escrito durante el exilio de Liu Zongyuan en Yongzhou (moderno Hunan) alrededor del año 810 d.C. Después de ser desterrado de la capital por su papel en una reforma política fallida, Liu Zongyuan pasó una década en el remoto sur. Este poema refleja su estado espiritual — el pescador es tanto una figura real como una proyección del deseo del poeta de libertad de las preocupaciones mundanas.",
+    "analysis": "La cuarta línea es una de las más celebradas en la poesía china: \"欸乃一声山水绿\" — un solo sonido de un remo, y de repente todo el paisaje se torna verde. Es una obra maestra sinestésica: el sonido se transforma en color. El pescador aparece y desaparece como un espíritu del paisaje. La imagen final de \"nubes sin mente\" (无心云) persiguiéndose entre sí simboliza el estado ideal taoísta de actuar sin intención. Su Shi sugirió más tarde que el último pareado era innecesario, pero la mayoría de los lectores atesoran su cierre contemplativo.",
+    "form": "Seven-character Ancient Verse (七言古诗)",
+    "theme": "Seasons & Time",
+    "originalSlug": "the-fisherman"
+  },
+  {
+    "id": "P026",
+    "slug": "song-of-liangzhou",
+    "title": "Canción de Liangzhou",
+    "titleChinese": "凉州词",
+    "titlePinyin": "Liáng Zhōu Cí",
+    "poet": {
+      "name": "Wang Zhihuan",
+      "nameChinese": "王之涣",
+      "dynasty": "Tang Dynasty",
+      "dynastyChinese": "唐代",
+      "birthYear": "688",
+      "deathYear": "742",
+      "bio": ""
+    },
+    "lines": [
+      {
+        "chinese": "黄河远上白云间，",
+        "pinyin": "huáng hé yuǎn shàng bái yún jiān,"
+      },
+      {
+        "chinese": "一片孤城万仞山。",
+        "pinyin": "yī piàn gū chéng wàn rèn shān."
+      },
+      {
+        "chinese": "羌笛何须怨杨柳，",
+        "pinyin": "qiāng dí hé xū yuàn yáng liǔ,"
+      },
+      {
+        "chinese": "春风不度玉门关。",
+        "pinyin": "chūn fēng bù dù yù mén guān."
+      }
+    ],
+    "traditionalChinese": "黃河遠上白雲間，一片孤城萬仞山。羌笛何須怨楊柳，春風不度玉門關。",
+    "translation": "El río Amarillo se eleva lejos en las nubes blancas; una solitaria ciudad fortaleza se alza entre montañas de diez mil pies de altura. ¿Por qué debería quejarse la flauta Qiang sobre los sauces? El viento de primavera nunca cruza el Paso de la Puerta de Jade.",
+    "background": "Uno de los más grandes poemas fronterizos (边塞诗) de la Dinastía Tang. Wang Zhihuan escribió esto mientras estaba estacionado en la frontera noroeste. Liangzhou (actual Wuwei, Gansu) era una ciudad garrison fronteriza en la Ruta de la Seda. El Paso de la Puerta de Jade (Yumen Guan) marcaba el límite occidental del imperio chino, más allá del cual se extendía el vasto desierto de Asia Central.",
+    "analysis": "El poema se construye a partir de la imagen más grandiosa posible: el río Amarillo pareciendo fluir hacia arriba en las nubes, hasta el sonido íntimo de la flauta de un soldado. El \"sauce\" en la tercera línea hace referencia a la canción popular \"Rompiendo Sauces\" (折杨柳), que tradicionalmente se tocaba en despedidas, ya que los viajeros rompían ramas de sauce como regalos de despedida. La línea final es devastadora en su simplicidad: el viento de primavera (calor, civilización, hogar) literalmente no puede alcanzar este lugar más allá del paso. Expresa la soledad de los soldados fronterizos con una sutileza que lo hace aún más poderoso.",
+    "form": "Seven-character Quatrain (七言绝句)",
+    "theme": "War & Frontier",
+    "originalSlug": "song-of-liangzhou"
+  }
+]
