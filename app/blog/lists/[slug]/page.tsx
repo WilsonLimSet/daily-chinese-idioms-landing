@@ -1,17 +1,24 @@
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import { getAllListicles, getListicleWithIdioms, getLocalizedSlug, getRelatedListicles } from '@/src/lib/listicles';
 import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
+import removedSlugs from '@/src/lib/removed-listicle-slugs.json';
 
 export async function generateStaticParams() {
   const listicles = getAllListicles();
-  return listicles.map((listicle) => ({
+  const params = listicles.map((listicle) => ({
     slug: listicle.slug,
   }));
+  // Generate redirect pages for removed listicle slugs
+  const enRemovedSlugs = (removedSlugs as Record<string, string[]>)['en'] || [];
+  for (const slug of enRemovedSlugs) {
+    params.push({ slug });
+  }
+  return params;
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
@@ -62,7 +69,8 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
   const listicle = getListicleWithIdioms(slug);
 
   if (!listicle) {
-    notFound();
+    // Redirect removed/invalid listicles to the lists index
+    redirect('/blog/lists');
   }
 
   const allListicles = getRelatedListicles(slug, 4);

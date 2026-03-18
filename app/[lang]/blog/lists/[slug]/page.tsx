@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { notFound, redirect } from 'next/navigation';
+import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import {
@@ -13,6 +13,7 @@ import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
+import removedSlugs from '@/src/lib/removed-listicle-slugs.json';
 
 export async function generateStaticParams() {
   const params = [];
@@ -21,6 +22,17 @@ export async function generateStaticParams() {
     const listicles = getAllListiclesTranslated(lang);
     for (const listicle of listicles) {
       params.push({ lang, slug: listicle.slug });
+      // Also generate pages for English original slugs so they don't 404
+      // The page component redirects these to the localized slug
+      const originalSlug = (listicle as TranslatedListicle).originalSlug;
+      if (originalSlug && originalSlug !== listicle.slug) {
+        params.push({ lang, slug: originalSlug });
+      }
+    }
+    // Generate redirect pages for removed listicle slugs
+    const langRemovedSlugs = (removedSlugs as Record<string, string[]>)[lang] || [];
+    for (const slug of langRemovedSlugs) {
+      params.push({ lang, slug });
     }
   }
 
@@ -64,7 +76,7 @@ export async function generateMetadata({
     openGraph: {
       title: listicle.title,
       description: listicle.metaDescription,
-      url: `https://www.chineseidioms.com/${lang}/blog/lists/${slug}`,
+      url: `https://www.chineseidioms.com/${lang}/blog/lists/${listicle.slug}`,
       siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),
       type: 'article',
@@ -78,7 +90,7 @@ export async function generateMetadata({
       description: listicle.metaDescription,
     },
     alternates: {
-      canonical: `https://www.chineseidioms.com/${lang}/blog/lists/${slug}`,
+      canonical: `https://www.chineseidioms.com/${lang}/blog/lists/${listicle.slug}`,
       languages: languageAlternates,
     },
   };
@@ -93,13 +105,14 @@ export default async function TranslatedListiclePage({
   const listicle = getListicleWithIdiomsTranslated(slug, lang);
 
   if (!listicle) {
-    notFound();
+    // Redirect removed/invalid listicles to the lists index
+    redirect(`/${lang}/blog/lists`);
   }
 
   // Redirect English slugs to localized slugs
   const localizedSlug = listicle.slug;
   if (localizedSlug !== slug) {
-    redirect(`/${lang}/blog/lists/${localizedSlug}`);
+    redirect(`/${lang}/blog/lists/${encodeURIComponent(localizedSlug)}`);
   }
 
   const allListicles = getRelatedListiclesTranslated(slug, lang, 4);
