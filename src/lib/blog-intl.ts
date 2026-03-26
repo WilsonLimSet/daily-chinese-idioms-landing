@@ -73,6 +73,49 @@ ${idiom.description}
 export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
   const posts: BlogPost[] = [];
 
+  // Load translated markdown articles if available
+  if (lang) {
+    const translatedBlogDir = path.join(process.cwd(), `content/blog/translations/${lang}`);
+    if (fs.existsSync(translatedBlogDir)) {
+      const files = fs.readdirSync(translatedBlogDir);
+      for (const file of files) {
+        if (file.endsWith('.md')) {
+          try {
+            const filePath = path.join(translatedBlogDir, file);
+            const fileContent = fs.readFileSync(filePath, 'utf-8');
+            const { data, content } = require('gray-matter')(fileContent);
+
+            const slug = file.replace('.md', '');
+            posts.push({
+              slug,
+              title: data.title || '',
+              date: data.date || PUBLISHED_DATE,
+              idiom: {
+                id: '',
+                characters: data.characters || '',
+                pinyin: data.pinyin || '',
+                meaning: data.meaning || '',
+                example: '',
+                chineseExample: '',
+                theme: data.theme || '',
+                description: data.description || '',
+                metaphoric_meaning: data.metaphoric_meaning || '',
+                traditionalCharacters: data.characters || '',
+                description_tr: '',
+                chineseExample_tr: ''
+              },
+              content: content
+            });
+          } catch {
+            // Skip malformed files
+          }
+        }
+      }
+    }
+  }
+
+  const existingSlugs = new Set(posts.map(p => p.slug));
+
   // Load appropriate idioms file based on language
   let idioms;
   if (lang) {
@@ -87,8 +130,10 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
     idioms = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public/idioms.json'), 'utf-8'));
   }
 
-  // Generate posts from JSON for all idioms
+  // Generate posts from JSON for all idioms (skip if slug already exists from markdown)
   for (const idiom of idioms) {
+    const slug = pinyinToSlug(idiom.pinyin);
+    if (existingSlugs.has(slug)) continue;
     posts.push(generateBlogPost(idiom, lang));
   }
 

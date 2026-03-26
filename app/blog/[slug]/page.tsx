@@ -21,22 +21,27 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = await getBlogPost(slug);
-  
+
   if (!post) {
     return {
       title: 'Post Not Found',
     };
   }
 
+  // Detect article-style posts (no specific idiom)
+  const isArticle = !post.idiom.characters;
+
   // Compute pinyin without tones for search matching (people search "ma dao cheng gong" not "mǎ dào chéng gōng")
   const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
 
-  // SEO title: characters + pinyin + metaphoric meaning — Chinese Idiom
-  // Targets: "[pinyin] meaning", "[characters] meaning", "[characters] 英文"
-  const title = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom`;
+  // SEO title and description differ for article vs idiom posts
+  const title = isArticle
+    ? `${post.title} — Chinese Idioms`
+    : `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom`;
 
-  // Lead with a hook question for higher CTR
-  const description = `What does ${post.idiom.characters} mean? "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Learn the origin, usage & examples of this Chinese idiom (chengyu).`;
+  const description = isArticle
+    ? (post.idiom.description || post.title)
+    : `What does ${post.idiom.characters} mean? "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Learn the origin, usage & examples of this Chinese idiom (chengyu).`;
 
   return {
     title,
@@ -93,15 +98,22 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     notFound();
   }
 
+  // Detect article-style posts (no specific idiom)
+  const isArticle = !post.idiom.characters;
+
   // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts();
   const currentIndex = allPosts.findIndex(p => p.slug === slug);
   const prevPost = currentIndex < allPosts.length - 1 ? allPosts[currentIndex + 1] : null;
   const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
-  
+
   // Find semantically related posts (stronger topical relevance)
   const relatedPosts = allPosts
     .filter(p => {
+      if (!p.idiom.characters || !post.idiom.characters) {
+        // For articles, match by theme only
+        return p.idiom.theme === post.idiom.theme && p.slug !== slug;
+      }
       // Same theme OR similar meaning patterns
       const sameTheme = p.idiom.theme === post.idiom.theme;
       const similarMeaning = p.idiom.metaphoric_meaning.toLowerCase().includes(
@@ -110,7 +122,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       return (sameTheme || similarMeaning) && p.slug !== slug;
     })
     .slice(0, 8);
-    
+
   // Generate pinyin variants using centralized utility function
   const noTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
   const pinyinVariants = {
@@ -125,8 +137,61 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     .process(post.content);
   const contentHtml = processedContent.toString();
 
-  // Enhanced structured data with DefinedTerm and multiple schemas
-  const structuredData = [
+  // Enhanced structured data — different schemas for article vs idiom posts
+  const structuredData = isArticle ? [
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.title,
+      "datePublished": post.date,
+      "dateModified": post.date,
+      "author": {
+        "@type": "Organization",
+        "name": "Chinese Idioms",
+        "url": "https://www.chineseidioms.com"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Chinese Idioms",
+        "logo": {
+          "@type": "ImageObject",
+          "url": `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
+        }
+      },
+      "description": post.idiom.description || post.title,
+      "inLanguage": "en",
+      "keywords": `chinese idioms, chengyu, ${post.idiom.theme}, chinese culture, learn chinese`,
+      "wordCount": post.content.split(' ').length,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://www.chineseidioms.com/blog/${slug}`
+      }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.chineseidioms.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Blog",
+          "item": "https://www.chineseidioms.com/blog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": post.title,
+          "item": `https://www.chineseidioms.com/blog/${slug}`
+        }
+      ]
+    }
+  ] : [
     {
       "@context": "https://schema.org",
       "@type": "DefinedTerm",
@@ -245,34 +310,51 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <header className="mb-8">
-          <div className="flex items-center gap-3 mb-2">
-            <Link
-              href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
-              className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
-            >
-              {post.idiom.theme}
-            </Link>
-          </div>
-          <h1 className="text-4xl font-bold text-black mt-2 mb-4">
-            <span className="text-5xl text-black">{post.idiom.characters}</span>
-          </h1>
-          
-          {/* Definition Box - Above the fold, 40-60 words */}
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
-            <p className="text-lg font-medium text-gray-900 mb-2">
-              {post.idiom.characters} ({pinyinVariants.withTones}) literally means &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo; 
-              and expresses &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;. 
-              This idiom is used when describing situations involving {post.idiom.theme.toLowerCase().replace('&', 'and')}.
-            </p>
-            <p className="text-sm text-gray-600 mt-2">
-              <strong>Also searched as:</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces}, 
-              {post.idiom.characters} meaning, {post.idiom.characters} in english
-            </p>
-          </div>
+          {post.idiom.theme && (
+            <div className="flex items-center gap-3 mb-2">
+              <Link
+                href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
+                className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
+              >
+                {post.idiom.theme}
+              </Link>
+            </div>
+          )}
+
+          {isArticle ? (
+            <>
+              <h1 className="text-3xl sm:text-4xl font-bold text-black mt-2 mb-4">
+                {post.title}
+              </h1>
+              <p className="text-sm text-gray-500 mb-4">{post.date}</p>
+              {post.idiom.description && (
+                <p className="text-lg text-gray-700 mb-6">{post.idiom.description}</p>
+              )}
+            </>
+          ) : (
+            <>
+              <h1 className="text-4xl font-bold text-black mt-2 mb-4">
+                <span className="text-5xl text-black">{post.idiom.characters}</span>
+              </h1>
+
+              {/* Definition Box - Above the fold, 40-60 words */}
+              <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
+                <p className="text-lg font-medium text-gray-900 mb-2">
+                  {post.idiom.characters} ({pinyinVariants.withTones}) literally means &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo;
+                  and expresses &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;.
+                  This idiom is used when describing situations involving {post.idiom.theme.toLowerCase().replace('&', 'and')}.
+                </p>
+                <p className="text-sm text-gray-600 mt-2">
+                  <strong>Also searched as:</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces},
+                  {post.idiom.characters} meaning, {post.idiom.characters} in english
+                </p>
+              </div>
+
+              <p className="text-xl text-black font-medium">{post.idiom.metaphoric_meaning}</p>
+            </>
+          )}
 
           <AdUnit type="in-article" />
-
-          <p className="text-xl text-black font-medium">{post.idiom.metaphoric_meaning}</p>
         </header>
 
         <div className="blog-content">
@@ -284,15 +366,17 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         {/* Previous/Next Navigation */}
         <nav className="mt-12 flex justify-between items-center border-t pt-8">
           {prevPost ? (
-            <Link 
+            <Link
               href={`/blog/${prevPost.slug}`}
               className="flex items-center gap-2 text-gray-600 hover:text-gray-900 group max-w-[45%]"
             >
               <ChevronLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
               <div className="text-left">
                 <div className="text-sm text-gray-500">Previous</div>
-                <div className="font-medium">{prevPost.idiom.characters}</div>
-                <div className="text-sm text-gray-600 line-clamp-1">{prevPost.idiom.metaphoric_meaning}</div>
+                <div className="font-medium">{prevPost.idiom.characters || prevPost.title}</div>
+                {prevPost.idiom.metaphoric_meaning && (
+                  <div className="text-sm text-gray-600 line-clamp-1">{prevPost.idiom.metaphoric_meaning}</div>
+                )}
               </div>
             </Link>
           ) : (
@@ -300,14 +384,16 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           )}
 
           {nextPost ? (
-            <Link 
+            <Link
               href={`/blog/${nextPost.slug}`}
               className="flex items-center gap-2 text-gray-600 hover:text-gray-900 group max-w-[45%] text-right"
             >
               <div>
                 <div className="text-sm text-gray-500">Next</div>
-                <div className="font-medium">{nextPost.idiom.characters}</div>
-                <div className="text-sm text-gray-600 line-clamp-1">{nextPost.idiom.metaphoric_meaning}</div>
+                <div className="font-medium">{nextPost.idiom.characters || nextPost.title}</div>
+                {nextPost.idiom.metaphoric_meaning && (
+                  <div className="text-sm text-gray-600 line-clamp-1">{nextPost.idiom.metaphoric_meaning}</div>
+                )}
               </div>
               <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Link>
@@ -344,32 +430,34 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           </section>
         )}
         
-        {/* FAQ Section for Featured Snippets */}
-        <section className="mt-12 pt-8 border-t">
-          <h2 className="text-2xl font-bold mb-6 text-gray-900">Frequently Asked Questions</h2>
-          <div className="space-y-6">
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">What does {post.idiom.characters} mean in English?</h3>
-              <p className="text-gray-800">
-                {post.idiom.characters} ({post.idiom.pinyin}) literally translates to &ldquo;{post.idiom.meaning}&rdquo; 
-                and is used to express &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. This Chinese idiom belongs to 
-                the {post.idiom.theme} category.
-              </p>
+        {/* FAQ Section for Featured Snippets - idiom posts only */}
+        {!isArticle && (
+          <section className="mt-12 pt-8 border-t">
+            <h2 className="text-2xl font-bold mb-6 text-gray-900">Frequently Asked Questions</h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">What does {post.idiom.characters} mean in English?</h3>
+                <p className="text-gray-800">
+                  {post.idiom.characters} ({post.idiom.pinyin}) literally translates to &ldquo;{post.idiom.meaning}&rdquo;
+                  and is used to express &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. This Chinese idiom belongs to
+                  the {post.idiom.theme} category.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">When is {post.idiom.characters} used?</h3>
+                <p className="text-gray-800">
+                  <strong>Situation:</strong> {post.idiom.example || `This idiom applies when describing situations involving ${post.idiom.metaphoric_meaning.toLowerCase()}.`}
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">What is the pinyin for {post.idiom.characters}?</h3>
+                <p className="text-gray-800">
+                  The pinyin pronunciation for {post.idiom.characters} is &ldquo;{post.idiom.pinyin}&rdquo;.
+                </p>
+              </div>
             </div>
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">When is {post.idiom.characters} used?</h3>
-              <p className="text-gray-800">
-                <strong>Situation:</strong> {post.idiom.example || `This idiom applies when describing situations involving ${post.idiom.metaphoric_meaning.toLowerCase()}.`}
-              </p>
-            </div>
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">What is the pinyin for {post.idiom.characters}?</h3>
-              <p className="text-gray-800">
-                The pinyin pronunciation for {post.idiom.characters} is &ldquo;{post.idiom.pinyin}&rdquo;.
-              </p>
-            </div>
-          </div>
-        </section>
+          </section>
+        )}
 
         {/* Related Listicles */}
         {(() => {

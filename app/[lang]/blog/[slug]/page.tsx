@@ -42,6 +42,9 @@ export async function generateMetadata({
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
   const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
 
+  // Detect article-style posts (no specific idiom)
+  const isArticle = !post.idiom.characters;
+
   // Compute pinyin without tones for search matching
   const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
 
@@ -69,12 +72,14 @@ export async function generateMetadata({
     .filter(l => l !== lang)
     .map(l => localeMap[l] || 'en_US');
 
-  // SEO title: characters + pinyin + metaphoric meaning — Chinese Idiom
-  // Targets: "明鏡止水 意味", "马到成功 英文", "ma dao cheng gong meaning"
-  const title = `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom | ${nativeName}`;
+  // SEO title and description differ for article vs idiom posts
+  const title = isArticle
+    ? `${post.title} | ${nativeName}`
+    : `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom | ${nativeName}`;
 
-  // Lead with a hook question for higher CTR
-  const description = `${post.idiom.characters} (${post.idiom.pinyin}): "${post.idiom.metaphoric_meaning}" — ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
+  const description = isArticle
+    ? (post.idiom.description || post.title)
+    : `${post.idiom.characters} (${post.idiom.pinyin}): "${post.idiom.metaphoric_meaning}" — ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
 
   return {
     title,
@@ -129,6 +134,9 @@ export default async function InternationalBlogPostPage({
     notFound();
   }
 
+  // Detect article-style posts (no specific idiom)
+  const isArticle = !post.idiom.characters;
+
   // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts(lang);
   const currentIndex = allPosts.findIndex(p => p.slug === slug);
@@ -138,7 +146,9 @@ export default async function InternationalBlogPostPage({
   // Find semantically related posts (stronger topical relevance)
   const relatedPosts = allPosts
     .filter(p => {
-      // Same theme OR similar meaning patterns
+      if (!p.idiom.characters || !post.idiom.characters) {
+        return p.idiom.theme === post.idiom.theme && p.slug !== slug;
+      }
       const sameTheme = p.idiom.theme === post.idiom.theme;
       const similarMeaning = p.idiom.metaphoric_meaning.toLowerCase().includes(
         post.idiom.metaphoric_meaning.toLowerCase().split(' ')[0]
@@ -166,8 +176,8 @@ export default async function InternationalBlogPostPage({
     {
       '@context': 'https://schema.org',
       '@type': 'BlogPosting',
-      headline: `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
-      alternativeHeadline: `${post.idiom.characters} (${post.idiom.pinyin})`,
+      headline: isArticle ? post.title : `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
+      ...(isArticle ? {} : { alternativeHeadline: `${post.idiom.characters} (${post.idiom.pinyin})` }),
       datePublished: post.date,
       dateModified: post.date,
       author: {
@@ -240,7 +250,7 @@ export default async function InternationalBlogPostPage({
         {
           '@type': 'ListItem',
           position: 3,
-          name: post.idiom.characters,
+          name: post.idiom.characters || post.title,
           item: `https://www.chineseidioms.com/${lang}/blog/${slug}`
         }
       ]
@@ -262,36 +272,56 @@ export default async function InternationalBlogPostPage({
         </Link>
 
         <header className="mb-8 pb-8 border-b">
-          <div className="mb-4">
-            <h1 className="text-5xl font-bold text-gray-900 mb-3">
-              {post.idiom.characters}
-              {post.idiom.traditionalCharacters && post.idiom.traditionalCharacters !== post.idiom.characters && (
-                <span className="text-3xl text-gray-500 ml-3">({post.idiom.traditionalCharacters})</span>
+          {isArticle ? (
+            <div className="mb-4">
+              <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">
+                {post.title}
+              </h1>
+              <p className="text-sm text-gray-500 mb-4">{post.date}</p>
+              {post.idiom.theme && (
+                <Link
+                  href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
+                  className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
+                >
+                  {getThemeTranslation(lang, post.idiom.theme)}
+                </Link>
               )}
-            </h1>
-            <div className="flex items-center gap-4 text-gray-600">
-              <span className="text-lg font-medium">{post.idiom.pinyin}</span>
-              <Link
-                href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
-                className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
-              >
-                {getThemeTranslation(lang, post.idiom.theme)}
-              </Link>
+              {post.idiom.description && (
+                <p className="text-lg text-gray-700 mt-4">{post.idiom.description}</p>
+              )}
             </div>
-          </div>
+          ) : (
+            <div className="mb-4">
+              <h1 className="text-5xl font-bold text-gray-900 mb-3">
+                {post.idiom.characters}
+                {post.idiom.traditionalCharacters && post.idiom.traditionalCharacters !== post.idiom.characters && (
+                  <span className="text-3xl text-gray-500 ml-3">({post.idiom.traditionalCharacters})</span>
+                )}
+              </h1>
+              <div className="flex items-center gap-4 text-gray-600">
+                <span className="text-lg font-medium">{post.idiom.pinyin}</span>
+                <Link
+                  href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`}
+                  className="text-xs bg-red-50 text-red-700 px-2 py-1 rounded-full border border-red-200 hover:bg-red-100 transition-colors"
+                >
+                  {getThemeTranslation(lang, post.idiom.theme)}
+                </Link>
+              </div>
 
-          {/* Definition Box - Above the fold */}
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
-            <p className="text-lg font-medium text-gray-900 mb-2">
-              {post.idiom.characters} ({pinyinVariants.withTones}) {getTranslation(lang, 'literally')} {getTranslation(lang, 'means')} &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo;
-              {getTranslation(lang, 'andExpresses')} &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;.
-              {getTranslation(lang, 'usedWhen')} {getThemeTranslation(lang, post.idiom.theme).toLowerCase()}.
-            </p>
-            <p className="text-sm text-gray-600 mt-2">
-              <strong>{getTranslation(lang, 'alsoSearchedAs')}</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces},
-              {post.idiom.characters} {getTranslation(lang, 'meaning')}, {post.idiom.characters} {getTranslation(lang, 'inEnglish')}
-            </p>
-          </div>
+              {/* Definition Box - Above the fold */}
+              <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-6">
+                <p className="text-lg font-medium text-gray-900 mb-2">
+                  {post.idiom.characters} ({pinyinVariants.withTones}) {getTranslation(lang, 'literally')} {getTranslation(lang, 'means')} &ldquo;{post.idiom.meaning.toLowerCase()}&rdquo;
+                  {getTranslation(lang, 'andExpresses')} &ldquo;{post.idiom.metaphoric_meaning.toLowerCase()}&rdquo;.
+                  {getTranslation(lang, 'usedWhen')} {getThemeTranslation(lang, post.idiom.theme).toLowerCase()}.
+                </p>
+                <p className="text-sm text-gray-600 mt-2">
+                  <strong>{getTranslation(lang, 'alsoSearchedAs')}</strong> {pinyinVariants.noTones}, {pinyinVariants.withSpaces},
+                  {post.idiom.characters} {getTranslation(lang, 'meaning')}, {post.idiom.characters} {getTranslation(lang, 'inEnglish')}
+                </p>
+              </div>
+            </div>
+          )}
 
           <AdUnit type="in-article" />
         </header>
@@ -310,8 +340,10 @@ export default async function InternationalBlogPostPage({
               <ChevronLeft className="w-5 h-5 group-hover:-translate-x-1 transition-transform" />
               <div className="text-left">
                 <div className="text-sm text-gray-500">{getTranslation(lang, 'previous')}</div>
-                <div className="font-medium">{prevPost.idiom.characters}</div>
-                <div className="text-sm text-gray-600 line-clamp-1">{prevPost.idiom.metaphoric_meaning}</div>
+                <div className="font-medium">{prevPost.idiom.characters || prevPost.title}</div>
+                {prevPost.idiom.metaphoric_meaning && (
+                  <div className="text-sm text-gray-600 line-clamp-1">{prevPost.idiom.metaphoric_meaning}</div>
+                )}
               </div>
             </Link>
           ) : (
@@ -325,8 +357,10 @@ export default async function InternationalBlogPostPage({
             >
               <div>
                 <div className="text-sm text-gray-500">{getTranslation(lang, 'next')}</div>
-                <div className="font-medium">{nextPost.idiom.characters}</div>
-                <div className="text-sm text-gray-600 line-clamp-1">{nextPost.idiom.metaphoric_meaning}</div>
+                <div className="font-medium">{nextPost.idiom.characters || nextPost.title}</div>
+                {nextPost.idiom.metaphoric_meaning && (
+                  <div className="text-sm text-gray-600 line-clamp-1">{nextPost.idiom.metaphoric_meaning}</div>
+                )}
               </div>
               <ChevronRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Link>
@@ -363,32 +397,34 @@ export default async function InternationalBlogPostPage({
           </section>
         )}
 
-        {/* FAQ Section for Featured Snippets */}
-        <section className="mt-12 pt-8 border-t">
-          <h2 className="text-2xl font-bold mb-6 text-gray-900">{getTranslation(lang, 'faqTitle')}</h2>
-          <div className="space-y-6">
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqMeaningQuestion')} {post.idiom.characters} {getTranslation(lang, 'meaningInEnglish')}</h3>
-              <p className="text-gray-800">
-                {post.idiom.characters} ({post.idiom.pinyin}) {getTranslation(lang, 'faqMeaningAnswer1')} &ldquo;{post.idiom.meaning}&rdquo;
-                {getTranslation(lang, 'faqMeaningAnswer2')} &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. {getTranslation(lang, 'faqMeaningAnswer3')}
-                {getThemeTranslation(lang, post.idiom.theme)} {getTranslation(lang, 'faqMeaningAnswer4')}.
-              </p>
+        {/* FAQ Section for Featured Snippets - idiom posts only */}
+        {!isArticle && (
+          <section className="mt-12 pt-8 border-t">
+            <h2 className="text-2xl font-bold mb-6 text-gray-900">{getTranslation(lang, 'faqTitle')}</h2>
+            <div className="space-y-6">
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqMeaningQuestion')} {post.idiom.characters} {getTranslation(lang, 'meaningInEnglish')}</h3>
+                <p className="text-gray-800">
+                  {post.idiom.characters} ({post.idiom.pinyin}) {getTranslation(lang, 'faqMeaningAnswer1')} &ldquo;{post.idiom.meaning}&rdquo;
+                  {getTranslation(lang, 'faqMeaningAnswer2')} &ldquo;{post.idiom.metaphoric_meaning}&rdquo;. {getTranslation(lang, 'faqMeaningAnswer3')}
+                  {getThemeTranslation(lang, post.idiom.theme)} {getTranslation(lang, 'faqMeaningAnswer4')}.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqUsageQuestion')} {post.idiom.characters} {getTranslation(lang, 'faqUsageAnswer1')}</h3>
+                <p className="text-gray-800">
+                  <strong>{getTranslation(lang, 'faqUsagePrefix')}</strong> {post.idiom.example || `${getTranslation(lang, 'faqUsageDefault')} ${post.idiom.metaphoric_meaning.toLowerCase()}.`}
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqPinyinQuestion')} {post.idiom.characters}?</h3>
+                <p className="text-gray-800">
+                  {getTranslation(lang, 'faqPinyinAnswer')} {post.idiom.characters} {getTranslation(lang, 'faqPinyinAnswer2')} &ldquo;{post.idiom.pinyin}&rdquo;.
+                </p>
+              </div>
             </div>
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqUsageQuestion')} {post.idiom.characters} {getTranslation(lang, 'faqUsageAnswer1')}</h3>
-              <p className="text-gray-800">
-                <strong>{getTranslation(lang, 'faqUsagePrefix')}</strong> {post.idiom.example || `${getTranslation(lang, 'faqUsageDefault')} ${post.idiom.metaphoric_meaning.toLowerCase()}.`}
-              </p>
-            </div>
-            <div>
-              <h3 className="font-semibold text-lg mb-2 text-gray-900">{getTranslation(lang, 'faqPinyinQuestion')} {post.idiom.characters}?</h3>
-              <p className="text-gray-800">
-                {getTranslation(lang, 'faqPinyinAnswer')} {post.idiom.characters} {getTranslation(lang, 'faqPinyinAnswer2')} &ldquo;{post.idiom.pinyin}&rdquo;.
-              </p>
-            </div>
-          </div>
-        </section>
+          </section>
+        )}
 
         {/* Related Listicles */}
         {(() => {
