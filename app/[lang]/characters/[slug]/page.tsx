@@ -31,6 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Chinese Idioms with "${char.character}" (${langName}) - ${char.count} Chengyu`,
     description: `Find ${char.count} Chinese idioms containing ${char.character} in ${langName}. Meanings, pinyin, and examples.`,
+    ...(char.count <= 5 ? { robots: { index: false, follow: true } } : {}),
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/characters/${slug}`,
       languages: {

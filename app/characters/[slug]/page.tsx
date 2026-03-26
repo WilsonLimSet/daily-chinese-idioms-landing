@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Chinese Idioms Containing "${char.character}" - ${char.count} Chengyu`,
     description: `Find all ${char.count} Chinese idioms (chengyu) containing the character ${char.character}. Learn meanings, pinyin pronunciation, and usage examples for each idiom.`,
+    ...(char.count <= 5 ? { robots: { index: false, follow: true } } : {}),
     keywords: [
       `chinese idioms with ${char.character}`,
       `${char.character} chengyu`,

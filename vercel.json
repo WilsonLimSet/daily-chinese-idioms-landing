@@ -149,11 +149,6 @@
       "permanent": true
     },
     {
-      "source": "/hi/blog/lists/chinese-idioms-:slug(.*)",
-      "destination": "/hi/blog/lists/chini-muhaavare-:slug",
-      "permanent": true
-    },
-    {
       "source": "/th/blog/lists/samnuan-jiin-wan-pii-mai",
       "destination": "/th/blog/lists/samnuuk-chin-wan-pi-mai",
       "permanent": true

@@ -163,7 +163,7 @@ export default async function sitemap(props: {
         changeFrequency: 'weekly',
         priority: 0.9,
       },
-      ...characterPages.map(char => ({
+      ...characterPages.filter(char => char.count > 5).map(char => ({
         url: `${baseUrl}/characters/${char.slug}`,
         lastModified: new Date(),
         changeFrequency: 'monthly' as const,
@@ -348,6 +348,7 @@ export default async function sitemap(props: {
 
   const langCharPages = getAllCharacterPages();
   for (const char of langCharPages) {
+    if (char.count <= 5) continue; // Skip thin character pages
     entries.push({
       url: `${baseUrl}/${lang}/characters/${char.slug}`,
       lastModified: new Date(),
