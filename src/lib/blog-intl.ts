@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import matter from 'gray-matter';
 import { getTranslation } from './translations';
 import { pinyinToSlug } from './utils/pinyin';
 
@@ -83,7 +84,7 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
           try {
             const filePath = path.join(translatedBlogDir, file);
             const fileContent = fs.readFileSync(filePath, 'utf-8');
-            const { data, content } = require('gray-matter')(fileContent);
+            const { data, content } = matter(fileContent);
 
             const slug = file.replace('.md', '');
             posts.push({
