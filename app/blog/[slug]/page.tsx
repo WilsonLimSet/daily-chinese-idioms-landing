@@ -41,7 +41,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   const description = isArticle
     ? (post.idiom.description || post.title)
-    : `What does ${post.idiom.characters} mean? "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Learn the origin, usage & examples of this Chinese idiom (chengyu).`;
+    : `${post.idiom.characters} (${pinyinNoTones}) means "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Origin story, example sentences & cultural context explained.`;
 
   return {
     title,

@@ -20,12 +20,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${term.characters} (${term.pinyin}) — Meaning & Origin | Chinese Internet Slang`,
-    description: `What does ${term.characters} mean? ${term.meaning} Learn the origin, usage, and examples of this popular Chinese internet slang term.`,
+    title: `${term.characters} Meaning — What Does ${term.characters} Mean in Chinese? | Slang Explained`,
+    description: `${term.characters} (${term.pinyin}) means: ${term.meaning} See real examples, origin story, and why this term is everywhere on Chinese social media.`,
     keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese internet slang', `what does ${term.characters} mean`, term.category],
     openGraph: {
-      title: `${term.characters} — ${term.meaning.substring(0, 60)}`,
-      description: `What does ${term.characters} mean? ${term.meaning}`,
+      title: `${term.characters} Meaning — ${term.meaning.substring(0, 60)}`,
+      description: `${term.characters} (${term.pinyin}) means: ${term.meaning}`,
       url: `https://www.chineseidioms.com/slang/${slug}`,
       siteName: 'Chinese Idioms',
       locale: 'en_US',
