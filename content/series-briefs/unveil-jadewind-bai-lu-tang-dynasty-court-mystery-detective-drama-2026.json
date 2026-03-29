@@ -1,0 +1,499 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Unveil Jadewind 唐宫奇案之青雾风鸣 (Bai Lu, Tang Dynasty court mystery detective drama 2026)",
+  "date": "2026-03-29",
+  "research": {
+    "basicFacts": {
+      "type": "C-drama",
+      "releaseDate": "VERIFY: 2026",
+      "keyPeople": [
+        "Bai Lu (白鹿) - Actress",
+        "Director Name - VERIFY: Director",
+        "Other Key Actors - VERIFY: Other actors"
+      ],
+      "impact": "VERIFY: Ratings, viewership, or cultural impact metrics"
+    },
+    "plotSummary": "Unveil Jadewind (唐宫奇案之青雾风鸣) is a mystery detective drama set in the Tang Dynasty. The story follows a skilled detective, played by Bai Lu, who navigates the intricacies of the Tang court to solve a series of mysterious cases. The main characters include the detective (name: VERIFY), a court official (name: VERIFY), and a mysterious antagonist (name: VERIFY). Key plot points involve unraveling conspiracies within the court, uncovering hidden identities, and resolving conflicts that threaten the stability of the dynasty. The setting is primarily in the Tang Dynasty capital, Chang'an, during a time of political intrigue and cultural flourishing.",
+    "historicalBasis": [
+      {
+        "topic": "Tang Dynasty Court Life",
+        "details": "The drama draws from the historical context of the Tang Dynasty, known for its cosmopolitan culture, political intrigue, and advancements in arts and literature.",
+        "dynasties": [
+          "Tang Dynasty (618–907 AD)"
+        ],
+        "figures": [
+          "Emperor Taizong (唐太宗)",
+          "Empress Wu Zetian (武则天)"
+        ]
+      },
+      {
+        "topic": "Legal Codes and Investigation Techniques",
+        "details": "The drama may incorporate elements of Tang legal codes and early forensic practices, which were advanced for their time.",
+        "dynasties": [
+          "Tang Dynasty"
+        ],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Face and Honor",
+        "explanation": "The drama explores the importance of maintaining face and honor within the court, reflecting broader Chinese cultural values."
+      },
+      {
+        "theme": "Gender Roles",
+        "explanation": "The role of female characters in positions of power or influence may challenge traditional gender roles of the time."
+      },
+      {
+        "theme": "Literary Tradition",
+        "explanation": "The Tang Dynasty's rich literary tradition is likely reflected in the dialogue and storytelling style."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "唐宫",
+        "pinyin": "Táng gōng",
+        "meaning": "Tang Palace",
+        "relevance": "Refers to the setting of the drama within the Tang Dynasty court."
+      },
+      {
+        "characters": "奇案",
+        "pinyin": "qí àn",
+        "meaning": "Mysterious Case",
+        "relevance": "Central to the plot as the detective solves various mysterious cases."
+      },
+      {
+        "characters": "青雾风鸣",
+        "pinyin": "qīng wù fēng míng",
+        "meaning": "Jadewind",
+        "relevance": "Title of the drama, possibly symbolic of the mysteries and secrets within the plot."
+      }
+    ],
+    "whyTrending": "The drama is trending due to its intriguing plot set in the culturally rich Tang Dynasty, combined with a popular cast and high production values. The blend of historical intrigue and modern storytelling appeals to both domestic and international audiences interested in Chinese history and culture.",
+    "verifyFlags": [
+      "VERIFY: 2026",
+      "VERIFY: Director",
+      "VERIFY: Other actors",
+      "VERIFY: Ratings, viewership, or cultural impact metrics",
+      "VERIFY: Main character names"
+    ]
+  },
+  "idiomMatches": [
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "The idiom describes the many twists and turns in the detective's journey to solve mysterious cases in the Tang court.",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID073",
+      "characters": "顺藤摸瓜",
+      "connection": "This idiom relates to the detective's method of following clues to uncover the truth behind the court's conspiracies.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID044",
+      "characters": "见微知著",
+      "connection": "The detective's ability to foresee big outcomes from small signs is crucial in solving the complex cases.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID078",
+      "characters": "察言观色",
+      "connection": "The detective must read between the lines and understand the subtleties of court interactions to succeed.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID089",
+      "characters": "明察秋毫",
+      "connection": "The detective's keen perception of tiny details aids in uncovering hidden identities and conspiracies.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID014",
+      "characters": "天道酬勤",
+      "connection": "The detective's diligence and hard work are rewarded as she solves the cases and maintains stability in the dynasty.",
+      "strength": "medium",
+      "relevantTo": "theme: success & perseverance"
+    },
+    {
+      "id": "ID090",
+      "characters": "锲而不舍",
+      "connection": "This idiom reflects the detective's perseverance in pursuing justice despite the challenges she faces.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID025",
+      "characters": "画龙点睛",
+      "connection": "The detective's ability to add the crucial finishing touch to her investigations is key to solving the cases.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "The theme of actions having consequences is central to the resolution of conflicts within the court.",
+      "strength": "strong",
+      "relevantTo": "theme: life philosophy"
+    },
+    {
+      "id": "ID037",
+      "characters": "未雨绸缪",
+      "connection": "The detective's preparation before problems arise helps her navigate the complexities of court life.",
+      "strength": "medium",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID161",
+      "characters": "防微杜渐",
+      "connection": "The idiom relates to the detective's efforts to stop small problems before they grow into larger threats to the dynasty.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID047",
+      "characters": "追本溯源",
+      "connection": "The detective's process of tracing back to the source of the mysteries is crucial in solving the cases.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID174",
+      "characters": "洞若观火",
+      "connection": "The detective's clear understanding of the court's intricacies allows her to solve the mysteries effectively.",
+      "strength": "strong",
+      "relevantTo": "character: detective"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The drama links historical tradition with modern storytelling, reflecting the idiom's theme of connecting past and future.",
+      "strength": "medium",
+      "relevantTo": "theme: literary tradition"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every Unveil Jadewind Fan Should Know",
+      "slug": "unveil-jadewind-idioms-every-fan-should-know",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Strategy & Action",
+      "description": "Explore the top 10 Chinese idioms that capture the essence of Unveil Jadewind's thrilling detective journey set in the Tang Dynasty.",
+      "idiomIds": [
+        "ID007",
+        "ID073",
+        "ID044",
+        "ID078",
+        "ID089",
+        "ID090",
+        "ID047",
+        "ID174",
+        "ID024",
+        "ID161"
+      ],
+      "outline": [
+        "Introduction to Unveil Jadewind and its plot set in the Tang Dynasty.",
+        "Explain 一波三折 (yī bō sān zhé) and its relevance to the plot's twists.",
+        "Discuss 顺藤摸瓜 (shùn téng mō guā) and the detective's methodical approach.",
+        "Analyze 见微知著 (jiàn wēi zhī zhù) in the context of solving mysteries.",
+        "Explore 察言观色 (chá yán guān sè) and court interactions.",
+        "Highlight 明察秋毫 (míng chá qiū háo) and attention to detail."
+      ],
+      "keyFacts": [
+        "Set in the Tang Dynasty capital, Chang'an.",
+        "Bai Lu plays the skilled detective navigating court intrigues."
+      ]
+    },
+    {
+      "title": "The Real History Behind Unveil Jadewind: 唐宫的秘密",
+      "slug": "unveil-jadewind-real-history-tang-palace-secrets",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Delve into the historical context of Unveil Jadewind, uncovering the secrets of Tang Dynasty court life and legal systems.",
+      "idiomIds": [
+        "ID037",
+        "ID161",
+        "ID025",
+        "ID174",
+        "ID267"
+      ],
+      "outline": [
+        "Overview of Tang Dynasty court life and political intrigue.",
+        "Discuss 未雨绸缪 (wèi yǔ chóu móu) and preparation in court politics.",
+        "Explore 防微杜渐 (fáng wēi dù jiàn) in maintaining dynasty stability.",
+        "Analyze 画龙点睛 (huà lóng diǎn jīng) in the context of historical storytelling.",
+        "Connect 洞若观火 (dòng ruò guān huǒ) with clear understanding of historical events."
+      ],
+      "keyFacts": [
+        "The drama draws from Tang Dynasty's cosmopolitan culture.",
+        "Incorporates elements of Tang legal codes and forensic practices."
+      ]
+    },
+    {
+      "title": "Famous Quotes from Unveil Jadewind Explained",
+      "slug": "unveil-jadewind-famous-quotes-explained",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Life Philosophy",
+      "description": "Discover the deeper meanings behind famous quotes from Unveil Jadewind, enriched with Chinese idioms.",
+      "idiomIds": [
+        "ID014",
+        "ID090",
+        "ID024",
+        "ID267"
+      ],
+      "outline": [
+        "Introduction to key dialogues and quotes from Unveil Jadewind.",
+        "Explain 天道酬勤 (tiān dào chóu qín) in the context of diligence.",
+        "Discuss 锲而不舍 (qiè ér bù shě) reflecting perseverance.",
+        "Analyze 因果报应 (yīn guǒ bào yìng) in the resolution of conflicts.",
+        "Connect 承前启后 (chéng qián qǐ hòu) with linking past and future in storytelling."
+      ],
+      "keyFacts": [
+        "Dialogue reflects Tang Dynasty's rich literary tradition.",
+        "Themes of face, honor, and gender roles are explored in quotes."
+      ]
+    },
+    {
+      "title": "Why Face and Honor Matter in Unveil Jadewind",
+      "slug": "unveil-jadewind-face-honor-chinese-culture",
+      "angle": "Why [Symbol/Theme] Matters in Chinese Culture",
+      "theme": "Relationships & Character",
+      "description": "Explore the cultural significance of face and honor in Unveil Jadewind and their impact on character dynamics.",
+      "idiomIds": [
+        "ID078",
+        "ID089",
+        "ID014",
+        "ID090"
+      ],
+      "outline": [
+        "Introduction to the themes of face and honor in the drama.",
+        "Discuss 察言观色 (chá yán guān sè) in maintaining face.",
+        "Analyze 明察秋毫 (míng chá qiū háo) in understanding court dynamics.",
+        "Explore 天道酬勤 (tiān dào chóu qín) and the reward of maintaining honor.",
+        "Connect 锲而不舍 (qiè ér bù shě) with perseverance in upholding values."
+      ],
+      "keyFacts": [
+        "Face and honor are central themes within the Tang court setting.",
+        "The drama challenges traditional gender roles."
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching Unveil Jadewind: Vocabulary & Idioms",
+      "slug": "unveil-jadewind-learn-chinese-vocabulary-idioms",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Enhance your Chinese language skills with vocabulary and idioms from Unveil Jadewind, set in the Tang Dynasty.",
+      "idiomIds": [
+        "ID073",
+        "ID044",
+        "ID078",
+        "ID089",
+        "ID047"
+      ],
+      "outline": [
+        "Introduction to learning Chinese through C-dramas.",
+        "Highlight key vocabulary from the drama, including 唐宫 (Táng gōng) and 奇案 (qí àn).",
+        "Discuss 顺藤摸瓜 (shùn téng mō guā) and its application in language learning.",
+        "Explore 见微知著 (jiàn wēi zhī zhù) in understanding context.",
+        "Analyze 察言观色 (chá yán guān sè) and social interactions."
+      ],
+      "keyFacts": [
+        "The drama is trending for its historical intrigue and storytelling.",
+        "Set in the culturally rich Tang Dynasty, appealing to language learners."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "_instructions": [
+    "REVIEWED AND ENRICHED with verified research from MyDramaList, Baidu Baike, novel sources.",
+    "Ready to generate. Run: node scripts/generate-trending-series.js generate --brief content/series-briefs/love-beyond-the-grave.json"
+  ],
+  "topic": "Love Beyond the Grave 白日提灯 (Dilraba Dilmurat, Arthur Chen Feiyu, 2026 fantasy romance C-drama)",
+  "date": "2026-03-29",
+  "research": {
+    "basicFacts": {
+      "type": "C-drama (fantasy romance / xianxia)",
+      "releaseDate": "March 28, 2026 (currently airing, 40 episodes)",
+      "keyPeople": [
+        "Dilraba Dilmurat (迪丽热巴) as He Simu (贺思慕), the Ghost King",
+        "Arthur Chen / Chen Feiyu (陈飞宇) as Duan Xu (段胥), a young general",
+        "Miles Wei (魏哲鸣) as Yan Ke (晏柯)",
+        "Zhang Li (张俪) as Jiang Ai (姜艾)",
+        "Director: Qin Zhen (秦振)",
+        "Based on novel by Li Qingran (黎青燃) from Jinjiang Literature City"
+      ],
+      "impact": "6.745 million pre-broadcast reservations on Tencent Video (highest 2026). Broke 23,552 heat index within 1 hour of premiere. 800K+ concurrent viewers. Weibo topic 5B+ reads. Douyin #白日提灯 exceeded 50B views. MyDramaList 8.2."
+    },
+    "plotSummary": "He Simu (贺思慕) is a 400-year-old Ghost King — not a formerly-human ghost, but a being born as an evil ghost, daughter of the former Ghost King and a human woman. She has ruled the ghost realm for 300 years but lacks the five human senses: she sees without color, cannot taste, smell, feel touch, or hear music properly. Disguised as a fragile war orphan on a battlefield, she encounters Duan Xu (段胥), a young general of the Great Liang Kingdom (大梁) who takes pity on her. They discover Duan Xu is uniquely compatible with He Simu and can lend her his senses. They form a binding contract: she grants wishes in exchange for borrowing his five senses. Through this, He Simu experiences the human world for the first time — color, warmth, taste, music. The hidden cost: lending senses drains Duan Xu's lifespan, which he hides from her. Duan Xu was originally a literary scholar who reinvented himself as a military general to recover lost northern provinces. He falls first; she resists love because she has 22 graves of past lovers she's outlived. The drama follows 12 supernatural case units within the overarching romance.",
+    "historicalBasis": [
+      {
+        "topic": "Liaozhai tradition (聊斋志异) — Chinese supernatural romance",
+        "details": "The drama explicitly draws from Pu Songling's 18th-century Strange Tales from a Chinese Studio (聊斋志异), the foundational text of Chinese ghost-romance literature with 500+ supernatural tales. The most famous story, Nie Xiaoqian (聂小倩), about a beautiful ghost enslaved by a tree demon who falls for a mortal scholar, has been adapted into 9+ films including A Chinese Ghost Story (倩女幽魂, 1987, Leslie Cheung). Love Beyond the Grave inverts the traditional power dynamic: here the ghost is the more powerful figure, and the human makes the sacrifices.",
+        "dynasties": ["Tang (Pu Songling set in Ming/Qing)", "Song"],
+        "figures": ["Pu Songling (蒲松龄)", "Nie Xiaoqian (聂小倩)"]
+      },
+      {
+        "topic": "Ghost realm hierarchies in Chinese folk religion",
+        "details": "Chinese folk religion features elaborate spirit bureaucracies: Ghost Kings (鬼王), the Ten Courts of Hell (十殿阎罗), spirit judges, and ranks of ghosts. He Simu's title as Ghost King references this real cosmological tradition. The wish-exchange system echoes traditional beliefs about reciprocal exchange between humans and spirits through offerings and rituals.",
+        "dynasties": [],
+        "figures": []
+      },
+      {
+        "topic": "Lantern symbolism in Chinese culture",
+        "details": "During the Hungry Ghost Festival (中元节/七月半), floating river lanterns (放河灯) guide spirits back to the underworld. Lotus-shaped paper lanterns with candles are set on rivers; when the lantern extinguishes, the ghost has successfully returned. The Lantern Festival (元宵节) marks renewal. He Simu carrying a lantern in daylight inverts all of this — a ghost carrying light not to guide spirits to death, but to guide herself toward life.",
+        "dynasties": [],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Mortality vs. Immortality (人鬼情未了)",
+        "explanation": "The central tension: He Simu will live forever; Duan Xu will die in decades. The drama inverts the usual formulation — it is the immortal who fears outliving love. He Simu has 22 graves of past lovers; she once liked one particularly but cannot remember his name."
+      },
+      {
+        "theme": "The Five Senses as Metaphor for Emotional Awakening",
+        "explanation": "He Simu's inability to perceive color, taste, smell, touch, and music represents emotional numbness from centuries of isolation. Duan Xu literally gives her his senses — romantic and tragic, as he is giving her his life force."
+      },
+      {
+        "theme": "Mutual Deception Becoming Mutual Understanding",
+        "explanation": "Both hide their true natures when they meet — she pretends to be a weak orphan (actually the most powerful ghost), he pretends to be a simple man (actually a cunning scholar-turned-general). The masks fall as they see each other's true burdens."
+      },
+      {
+        "theme": "The Weight of Memory Across Centuries",
+        "explanation": "He Simu's 22 graves represent the accumulated grief of immortality. The inability to remember the name of someone she once loved is the most devastating detail — love doesn't persist, even memory fades. This is the argument against immortality."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "白日提灯",
+        "pinyin": "bái rì tí dēng",
+        "meaning": "Carrying a lantern in broad daylight — a paradoxical image. Searching for what should be visible but isn't. In the story: a being of darkness yearning for light.",
+        "relevance": "Drama title. Not a classical idiom but a poetic image evoking Diogenes-like searching and spiritual contradiction."
+      },
+      {
+        "characters": "鬼王",
+        "pinyin": "guǐ wáng",
+        "meaning": "Ghost King — ruler of the ghost realm",
+        "relevance": "He Simu's title. In Chinese folk religion, Ghost Kings are real figures in the spirit bureaucracy."
+      },
+      {
+        "characters": "人鬼情未了",
+        "pinyin": "rén guǐ qíng wèi liǎo",
+        "meaning": "The love between human and ghost is unfinished/unresolved",
+        "relevance": "Core theme of the drama; one of the oldest motifs in Chinese literature."
+      },
+      {
+        "characters": "聊斋志异",
+        "pinyin": "liáo zhāi zhì yì",
+        "meaning": "Strange Tales from a Chinese Studio — Pu Songling's supernatural story collection",
+        "relevance": "The foundational text of the ghost-romance tradition that this drama inherits."
+      },
+      {
+        "characters": "放河灯",
+        "pinyin": "fàng hé dēng",
+        "meaning": "Releasing river lanterns to guide spirits",
+        "relevance": "Hungry Ghost Festival practice directly related to the drama's lantern imagery."
+      },
+      {
+        "characters": "中元节",
+        "pinyin": "zhōng yuán jié",
+        "meaning": "Hungry Ghost Festival (15th day of 7th lunar month)",
+        "relevance": "The festival when the gates of hell open and ghosts walk the earth — the cultural context for He Simu's existence."
+      }
+    ],
+    "whyTrending": "Just premiered March 28, 2026. Dilraba is one of China's biggest actresses. 6.7M reservations (highest 2026). The five-senses-sharing concept is novel and emotionally resonant. VFX by The Wandering Earth team (1,900 shots). 40 episodes means weeks of sustained search interest.",
+    "verifyFlags": []
+  },
+  "idiomMatches": [
+    {
+      "id": "ID095",
+      "characters": "春蚕到死",
+      "connection": "Duan Xu's sacrifice — giving He Simu his senses while it shortens his lifespan, hiding the cost because he wants her to remember joy, not guilt. The silkworm spins silk until death.",
+      "strength": "strong",
+      "relevantTo": "character: Duan Xu's sacrifice"
+    },
+    {
+      "id": "ID385",
+      "characters": "天长地久",
+      "connection": "He Simu lives forever but cannot keep love forever. The irony: she has all the time in the world (天长地久) but love still fades — she can't even remember the name of a past lover.",
+      "strength": "strong",
+      "relevantTo": "theme: mortality vs immortality"
+    },
+    {
+      "id": "ID606",
+      "characters": "海枯石烂",
+      "connection": "Even if seas dry and rocks crumble — but He Simu's 22 graves prove that not even an oath of eternal love survives centuries. The idiom is both the promise and its refutation.",
+      "strength": "strong",
+      "relevantTo": "theme: the weight of memory"
+    },
+    {
+      "id": "ID183",
+      "characters": "刻骨铭心",
+      "connection": "The five-senses contract is literally carved into bone — Duan Xu's experiences become He Simu's first real sensory memories. These moments are engraved permanently because they are her only memories of touch, color, taste.",
+      "strength": "strong",
+      "relevantTo": "the five-senses contract"
+    },
+    {
+      "id": "ID084",
+      "characters": "柳暗花明",
+      "connection": "He Simu has endured 400 years of sensory darkness and emotional isolation. Meeting Duan Xu is the moment where darkness gives way to light — literally, she sees color for the first time.",
+      "strength": "strong",
+      "relevantTo": "He Simu's awakening through Duan Xu"
+    },
+    {
+      "id": "ID035",
+      "characters": "风雨同舟",
+      "connection": "He Simu and Duan Xu face 12 supernatural cases together. Their bond is forged through shared danger — a Ghost King and a mortal general in the same boat, navigating between the living and the dead.",
+      "strength": "strong",
+      "relevantTo": "relationship dynamic"
+    },
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "The drama's 12 supernatural case units create constant twists. He Simu and Duan Xu's relationship itself is full of reversals — from deception to trust, from resistance to love, from joy to sacrifice.",
+      "strength": "strong",
+      "relevantTo": "plot structure"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "He Simu's wish-exchange system is literally karma made transactional — every wish granted costs a soul. The drama explores whether the universe keeps accounts: is Duan Xu's suffering the price for He Simu's awakening?",
+      "strength": "strong",
+      "relevantTo": "the wish-exchange system"
+    },
+    {
+      "id": "ID102",
+      "characters": "雪中送炭",
+      "connection": "Duan Xu rescues a 'fragile orphan' (actually the Ghost King) on a battlefield — charcoal in snow for someone who pretends to need warmth. The irony deepens when He Simu's help becomes genuinely life-saving for him.",
+      "strength": "strong",
+      "relevantTo": "their first meeting"
+    },
+    {
+      "id": "ID119",
+      "characters": "玉汝于成",
+      "connection": "He Simu is refined through 400 years of loneliness and loss into something extraordinary — a benevolent Ghost King who chooses restraint over cruelty. Hardship polished her like jade.",
+      "strength": "strong",
+      "relevantTo": "character: He Simu"
+    },
+    {
+      "id": "ID134",
+      "characters": "饮水思源",
+      "connection": "He Simu maintains 22 graves — she may forget names but never forgets the people she loved. Duan Xu's singular drive to recover lost provinces stems from remembering where his people came from.",
+      "strength": "strong",
+      "relevantTo": "theme: memory and roots"
+    },
+    {
+      "id": "ID115",
+      "characters": "负重致远",
+      "connection": "Duan Xu carries a hidden burden — his lifespan draining away with each sense he lends — while pursuing his long-distance goal of recovering the northern provinces. The ox that carries heavy loads for a long journey.",
+      "strength": "strong",
+      "relevantTo": "character: Duan Xu"
+    },
+    {
+      "id": "ID005",
+      "characters": "百折不挠",
+      "connection": "He Simu has lost 22 lovers to time and still opens her heart to Duan Xu. That is not romantic naivety — it is unbreakable determination to keep feeling despite 400 years of proof that feeling leads to grief.",
+      "strength": "strong",
+      "relevantTo": "character: He Simu's resilience"
+    },
+    {
+      "id": "ID154",
+      "characters": "厚积薄发",
+      "connection": "Duan Xu spent years as a seemingly ordinary scholar before revealing himself as a military genius. His 'thin burst' of achievement was backed by years of thick accumulation — the scholarly knowledge that makes him a better general than pure warriors.",
+      "strength": "strong",
+      "relevantTo": "character: Duan Xu's transformation"
+    },
+    {
+      "id": "ID090",
+      "characters": "锲而不舍",
+      "connection": "He Simu governs the ghost realm for 300 years with unwavering discipline despite lacking human senses. Her persistence in maintaining order and restraint — not taking souls by force — is carving that never stops.",
+      "strength": "medium",
+      "relevantTo": "He Simu's governance"
+    },
+    {
+      "id": "ID018",
+      "characters": "塞翁失马",
+      "connection": "Duan Xu's misfortune of being a general on a brutal battlefield leads him to He Simu. Her misfortune of lacking senses leads her to the contract that becomes love. Every loss in this drama seeds a future gain.",
+      "strength": "medium",
+      "relevantTo": "plot: unexpected turns"
+    },
+    {
+      "id": "ID605",
+      "characters": "一见钟情",
+      "connection": "Duan Xu falls first — love at first sight for a 'fragile orphan girl' who is actually a 400-year-old Ghost King. The dramatic irony: his compassion is genuine even though the object of it is performing weakness.",
+      "strength": "medium",
+      "relevantTo": "Duan Xu falls first"
+    },
+    {
+      "id": "ID104",
+      "characters": "明镜止水",
+      "connection": "He Simu's 400 years of stillness — ruling with calm restraint, neither taking souls by force nor allowing emotion to disturb her. A still mirror, clear water, until Duan Xu ripples the surface.",
+      "strength": "medium",
+      "relevantTo": "He Simu before Duan Xu"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every Love Beyond the Grave (白日提灯) Fan Should Know",
+      "slug": "love-beyond-the-grave-chinese-idioms-every-fan-should-know",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Life Philosophy",
+      "description": "The C-drama Love Beyond the Grave (白日提灯) stars Dilraba as a 400-year-old Ghost King who can't feel — until she borrows a mortal's senses. These 10 idioms capture every emotion in the drama.",
+      "idiomIds": ["ID095", "ID385", "ID606", "ID183", "ID084", "ID035", "ID007", "ID024", "ID119", "ID134"],
+      "outline": [
+        "Open with the five-senses contract concept and why it's the most creative romance premise in years",
+        "春蚕到死 — Duan Xu giving his senses/lifespan for He Simu's awakening, hiding the cost",
+        "天长地久 and 海枯石烂 — the cruel irony that He Simu has forever but can't keep love; 22 graves prove eternal oaths are mortal",
+        "刻骨铭心 — the five-senses contract literally carves experiences into He Simu's being; her first memories of color and warmth",
+        "柳暗花明 — 400 years of darkness giving way to light when she meets Duan Xu",
+        "因果报应 — the wish-exchange system as karma made transactional"
+      ],
+      "keyFacts": [
+        "He Simu (Dilraba) is a 400-year-old Ghost King born as evil ghost, lacks 5 human senses",
+        "Duan Xu (Arthur Chen) is a scholar-turned-general, lends senses at cost of his lifespan",
+        "12 supernatural case units, based on novel by Li Qingran from Jinjiang",
+        "He Simu has 22 graves of past lovers — can't remember one's name",
+        "6.7M Tencent reservations, 23K+ heat index in 1 hour, 800K concurrent viewers"
+      ]
+    },
+    {
+      "title": "The Ghost Romance Tradition Behind Love Beyond the Grave (白日提灯): From 聊斋 to Dilraba",
+      "slug": "love-beyond-the-grave-ghost-romance-tradition-liaozhai",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Life Philosophy",
+      "description": "Love Beyond the Grave continues a literary tradition older than Shakespeare. From Pu Songling's ghost tales to A Chinese Ghost Story — here's the real cultural DNA behind Dilraba's Ghost King.",
+      "idiomIds": ["ID024", "ID018", "ID104", "ID005", "ID090"],
+      "outline": [
+        "Pu Songling's 聊斋志异 (1766) — 500+ supernatural tales, the foundation of Chinese ghost romance",
+        "The Nie Xiaoqian (聂小倩) lineage — from Liaozhai story to A Chinese Ghost Story (1987, Leslie Cheung) to 9+ film adaptations",
+        "How Love Beyond the Grave inverts the tradition: the ghost is MORE powerful than the human, and the human makes the sacrifice",
+        "Ghost realm hierarchies in Chinese folk religion — 鬼王, 十殿阎罗, spirit judges; He Simu's title is real cosmology",
+        "Lantern symbolism: 放河灯 during Hungry Ghost Festival (中元节), lotus lanterns guiding spirits — and how 白日提灯 inverts all of it",
+        "The wish-exchange system echoes real Chinese folk beliefs about reciprocal exchange between humans and spirits"
+      ],
+      "keyFacts": [
+        "聊斋志异 by Pu Songling (蒲松龄) — 500+ supernatural tales, 18th century",
+        "Nie Xiaoqian (聂小倩) — most famous ghost romance, 9+ film adaptations",
+        "A Chinese Ghost Story (倩女幽魂, 1987) — Leslie Cheung, definitive ghost romance film",
+        "Ghost Kings (鬼王) are real figures in Chinese folk religion's spirit bureaucracy",
+        "中元节 (Hungry Ghost Festival) — gates of hell open, river lanterns guide spirits",
+        "放河灯 — lotus lanterns on rivers, when they go out the ghost has returned to the underworld"
+      ]
+    },
+    {
+      "title": "Why 白日提灯 (Carrying a Lantern in Daylight) Is the Perfect Title for Love Beyond the Grave",
+      "slug": "love-beyond-the-grave-title-meaning-lantern-symbolism-chinese-culture",
+      "angle": "Why [Symbol/Theme] Matters in Chinese Culture",
+      "theme": "Life Philosophy",
+      "description": "The title 白日提灯 means 'carrying a lantern in broad daylight' — a contradiction that captures everything about a ghost who yearns for light, love, and the human senses she was never given.",
+      "idiomIds": ["ID084", "ID183", "ID119", "ID115", "ID605"],
+      "outline": [
+        "The literal meaning of 白日提灯 — a paradoxical, seemingly pointless act that becomes profound in context",
+        "Lanterns in Chinese culture: 元宵节 (Lantern Festival), 中元节 (Hungry Ghost Festival), 放河灯 — lanterns as guides between worlds",
+        "He Simu's contradiction: a being of darkness carrying light, a ghost who guides not spirits to death but herself toward life",
+        "The five senses as light — He Simu lived in sensory darkness for 400 years; Duan Xu is literally her lantern",
+        "The 22 graves: each past lover was a lantern that eventually went out; Duan Xu knows he will go out too",
+        "Why the production kept this title over the earlier working title 慕胥辞 (A Farewell of Simu and Xu)"
+      ],
+      "keyFacts": [
+        "白日提灯 = carrying a lantern in broad daylight, a poetic contradiction",
+        "Not a classical idiom but a deliberate poetic image",
+        "Working title was 慕胥辞 but producers insisted on 白日提灯 for its metaphorical weight",
+        "River lanterns (放河灯) guide ghosts back to the underworld — He Simu inverts this",
+        "He Simu lacks all 5 senses — lives in perpetual sensory darkness despite being able to see"
+      ]
+    },
+    {
+      "title": "He Simu and Duan Xu Through Chinese Idioms: A Character Study of Love Beyond the Grave (白日提灯)",
+      "slug": "love-beyond-the-grave-character-study-he-simu-duan-xu-idioms",
+      "angle": "[Character] Through Chinese Idioms",
+      "theme": "Relationships & Character",
+      "description": "A 400-year-old Ghost King who pretends to be weak. A scholar who reinvented himself as a general. Dilraba and Arthur Chen's characters in Love Beyond the Grave decoded through Chinese idioms.",
+      "idiomIds": ["ID005", "ID154", "ID102", "ID035", "ID095", "ID606"],
+      "outline": [
+        "He Simu: the ultimate 扮猪吃虎 — pretends to be a fragile orphan afraid of blood, is actually the supreme ruler of the ghost realm",
+        "百折不挠 — lost 22 lovers to time, still opens her heart. Not romantic naivety but unbreakable will",
+        "Duan Xu: 厚积薄发 — years as a 'simple scholar' before revealing military genius, knowledge as his real weapon",
+        "春蚕到死 — Duan Xu hides that lending senses costs his lifespan, chooses joy over guilt for He Simu",
+        "Their dynamic: 风雨同舟 — a Ghost King and a mortal in the same boat, mutual deception becoming mutual understanding",
+        "海枯石烂 — the oath He Simu cannot keep, because she has already proven that even eternal beings forget"
+      ],
+      "keyFacts": [
+        "He Simu: 400 years old, born evil ghost (not formerly human), Ghost King for 300 years, lacks 5 senses",
+        "Duan Xu: literary scholar turned general, goal is recovering lost northern provinces of Great Liang",
+        "He falls first; she resists because she's outlived everyone she's loved",
+        "Dilraba plays 3 distinct identities within the role, praised for eye acting differentiation",
+        "Both hide true natures at first — she pretends weakness, he pretends simplicity"
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching Love Beyond the Grave (白日提灯): Vocabulary, Idioms, and Ghost Culture",
+      "slug": "love-beyond-the-grave-learn-chinese-vocabulary-ghost-culture",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Love Beyond the Grave is a crash course in Chinese supernatural vocabulary. Learn 鬼王, 中元节, 放河灯, 阴阳 and more — plus idioms that capture every twist of the drama.",
+      "idiomIds": ["ID018", "ID104", "ID007", "ID134", "ID385"],
+      "outline": [
+        "Key vocabulary: 鬼王 (Ghost King), 阴间/阳间 (ghost world/living world), 中元节 (Hungry Ghost Festival), 放河灯 (releasing river lanterns)",
+        "The 五感 (five senses) vocabulary: 视觉 sight, 听觉 hearing, 味觉 taste, 触觉 touch, 嗅觉 smell — central to the plot",
+        "塞翁失马 — Duan Xu's battlefield misfortune leading to He Simu; her sensory loss leading to the contract that becomes love",
+        "饮水思源 — He Simu's 22 graves as remembering one's roots; Duan Xu's drive to recover ancestral provinces",
+        "天长地久 — the phrase Chinese couples use for eternal love, but the drama asks: what if 'eternal' is literal and you STILL can't keep it?",
+        "Useful phrases from the Liaozhai tradition: 聊斋志异, 倩女幽魂, 人鬼情未了"
+      ],
+      "keyFacts": [
+        "聊斋志异 (liáo zhāi zhì yì) = Strange Tales from a Chinese Studio",
+        "倩女幽魂 (qiàn nǚ yōu hún) = A Chinese Ghost Story",
+        "鬼王 (guǐ wáng) = Ghost King, real title in Chinese folk religion",
+        "中元节 (zhōng yuán jié) = Hungry Ghost Festival, 15th of 7th lunar month",
+        "放河灯 (fàng hé dēng) = releasing river lanterns to guide spirits",
+        "阴间/阳间 (yīn jiān / yáng jiān) = ghost world / living world"
+      ]
+    }
+  ]
+}

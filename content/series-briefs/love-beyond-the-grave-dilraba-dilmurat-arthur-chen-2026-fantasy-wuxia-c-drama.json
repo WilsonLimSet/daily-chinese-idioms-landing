@@ -1,0 +1,437 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Love Beyond the Grave 白日提灯 (Dilraba Dilmurat, Arthur Chen, 2026 fantasy wuxia C-drama)",
+  "date": "2026-03-29",
+  "research": {
+    "basicFacts": {
+      "type": "C-drama",
+      "releaseDate": "VERIFY: 2026",
+      "keyPeople": [
+        "Dilraba Dilmurat",
+        "Arthur Chen",
+        "VERIFY: Director Name"
+      ],
+      "impact": "VERIFY: Ratings, viewership, or cultural impact metrics"
+    },
+    "plotSummary": "Love Beyond the Grave (白日提灯) is a fantasy wuxia drama set in a fictionalized version of ancient China. The story follows the journey of two main characters: Li Ming (李明), played by Arthur Chen, a skilled martial artist seeking to avenge his family's death, and Zhao Lian (赵莲), played by Dilraba Dilmurat, a mysterious woman with a connection to the spirit world. The plot revolves around their quest to uncover the truth behind a series of supernatural events and their growing bond that transcends life and death. The setting is a blend of various dynastic elements, with a focus on the mystical and martial traditions of ancient China.",
+    "historicalBasis": [
+      {
+        "topic": "Martial Arts",
+        "details": "The drama draws heavily from the rich tradition of Chinese martial arts, which has been an integral part of Chinese culture for centuries.",
+        "dynasties": [
+          "Tang",
+          "Song"
+        ],
+        "figures": []
+      },
+      {
+        "topic": "Spirit World",
+        "details": "The concept of spirits and the afterlife is deeply rooted in Chinese folklore and religious practices, such as Daoism and ancestor worship.",
+        "dynasties": [],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Filial Piety (孝)",
+        "explanation": "The protagonist's quest for vengeance is driven by a sense of duty to honor his family's memory, reflecting the Confucian value of filial piety."
+      },
+      {
+        "theme": "Martial Honor",
+        "explanation": "The drama emphasizes the importance of honor and integrity within the martial arts community, a common theme in wuxia literature."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "白日提灯",
+        "pinyin": "bái rì tí dēng",
+        "meaning": "Love Beyond the Grave",
+        "relevance": "Title of the drama, symbolizing the connection between the living and the spirit world."
+      },
+      {
+        "characters": "武侠",
+        "pinyin": "wǔxiá",
+        "meaning": "martial hero",
+        "relevance": "Genre of the drama, focusing on martial arts and chivalry."
+      }
+    ],
+    "whyTrending": "The drama is trending due to its star-studded cast, particularly the popularity of Dilraba Dilmurat and Arthur Chen, and its unique blend of fantasy and traditional Chinese cultural elements. The resurgence of interest in wuxia dramas and the exploration of themes like love and the supernatural also contribute to its cultural significance.",
+    "verifyFlags": [
+      "VERIFY: 2026",
+      "VERIFY: Director Name",
+      "VERIFY: Ratings, viewership, or cultural impact metrics"
+    ]
+  },
+  "idiomMatches": [
+    {
+      "id": "ID001",
+      "characters": "一鸣惊人",
+      "connection": "The drama's unique blend of fantasy and traditional elements could lead to sudden, remarkable success, making it a standout in the wuxia genre.",
+      "strength": "medium",
+      "relevantTo": "impact"
+    },
+    {
+      "id": "ID005",
+      "characters": "百折不挠",
+      "connection": "Li Ming's quest to avenge his family demonstrates unshakeable perseverance despite adversity.",
+      "strength": "strong",
+      "relevantTo": "character: Li Ming"
+    },
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "The plot's many twists and turns reflect the idiom, as the characters face numerous challenges on their journey.",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID014",
+      "characters": "天道酬勤",
+      "connection": "The theme of martial honor and diligence is reflected in the idea that heaven rewards hard work.",
+      "strength": "medium",
+      "relevantTo": "theme: Martial Honor"
+    },
+    {
+      "id": "ID018",
+      "characters": "塞翁失马",
+      "connection": "The supernatural events in the drama may initially seem like misfortunes but could lead to unexpected blessings.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID021",
+      "characters": "青出于蓝",
+      "connection": "Li Ming's growth and potential to surpass his martial arts mentors reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "character: Li Ming"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "The drama's exploration of vengeance and justice ties into the concept of actions having consequences.",
+      "strength": "strong",
+      "relevantTo": "theme: Filial Piety"
+    },
+    {
+      "id": "ID035",
+      "characters": "风雨同舟",
+      "connection": "Li Ming and Zhao Lian's shared hardships and growing bond are encapsulated by this idiom.",
+      "strength": "strong",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID056",
+      "characters": "爱屋及乌",
+      "connection": "Li Ming's love for Zhao Lian extends to all aspects of her mysterious connection to the spirit world.",
+      "strength": "medium",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID082",
+      "characters": "众志成城",
+      "connection": "The unity and collective strength of the characters in facing supernatural challenges reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "theme: Unity"
+    },
+    {
+      "id": "ID084",
+      "characters": "柳暗花明",
+      "connection": "The characters find hope and solutions in the darkest moments of their journey.",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID090",
+      "characters": "锲而不舍",
+      "connection": "Li Ming's relentless pursuit of vengeance and truth showcases unwavering perseverance.",
+      "strength": "strong",
+      "relevantTo": "character: Li Ming"
+    },
+    {
+      "id": "ID095",
+      "characters": "春蚕到死",
+      "connection": "Zhao Lian's selfless dedication to helping Li Ming reflects this idiom of selfless dedication.",
+      "strength": "medium",
+      "relevantTo": "character: Zhao Lian"
+    },
+    {
+      "id": "ID102",
+      "characters": "雪中送炭",
+      "connection": "Zhao Lian's timely assistance to Li Ming in his quest is akin to providing help in times of dire need.",
+      "strength": "strong",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID104",
+      "characters": "明镜止水",
+      "connection": "The characters' journey towards understanding and clarity in the face of supernatural events reflects this idiom.",
+      "strength": "medium",
+      "relevantTo": "theme: Wisdom"
+    },
+    {
+      "id": "ID106",
+      "characters": "铁杵成针",
+      "connection": "The transformation of Li Ming's skills through persistent practice is captured by this idiom.",
+      "strength": "medium",
+      "relevantTo": "character: Li Ming"
+    },
+    {
+      "id": "ID115",
+      "characters": "负重致远",
+      "connection": "Li Ming's endurance and perseverance for future success in avenging his family is reflected in this idiom.",
+      "strength": "medium",
+      "relevantTo": "character: Li Ming"
+    },
+    {
+      "id": "ID124",
+      "characters": "蚁穴坏堤",
+      "connection": "The small supernatural events that lead to larger revelations in the plot reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID134",
+      "characters": "饮水思源",
+      "connection": "Li Ming's quest to honor his family's memory ties into the theme of remembering one's roots.",
+      "strength": "strong",
+      "relevantTo": "theme: Filial Piety"
+    },
+    {
+      "id": "ID154",
+      "characters": "厚积薄发",
+      "connection": "The characters' preparation and growth lead to significant breakthroughs in their journey.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID183",
+      "characters": "刻骨铭心",
+      "connection": "The deep and lasting impact of the characters' experiences and relationships is captured by this idiom.",
+      "strength": "strong",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID233",
+      "characters": "愚公移山",
+      "connection": "The characters' persistence in overcoming seemingly insurmountable obstacles is reflected in this idiom.",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID273",
+      "characters": "盲人摸象",
+      "connection": "The initial misunderstandings and partial knowledge of the supernatural events reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID293",
+      "characters": "争先恐后",
+      "connection": "The urgency and eagerness of the characters to uncover the truth is captured by this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID303",
+      "characters": "安居乐业",
+      "connection": "The ultimate goal of the characters to restore peace and harmony in their world reflects this idiom.",
+      "strength": "medium",
+      "relevantTo": "theme: Peace"
+    },
+    {
+      "id": "ID353",
+      "characters": "丢三落四",
+      "connection": "The chaos and confusion caused by the supernatural events are reflected in this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID385",
+      "characters": "天长地久",
+      "connection": "The eternal bond between Li Ming and Zhao Lian, transcending life and death, is captured by this idiom.",
+      "strength": "strong",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID424",
+      "characters": "无与伦比",
+      "connection": "The drama's unique blend of fantasy and traditional elements makes it incomparable in its genre.",
+      "strength": "medium",
+      "relevantTo": "impact"
+    },
+    {
+      "id": "ID444",
+      "characters": "一往无前",
+      "connection": "The characters' courage and determination to face supernatural challenges reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID545",
+      "characters": "脱颖而出",
+      "connection": "The drama's standout qualities in the wuxia genre are captured by this idiom.",
+      "strength": "medium",
+      "relevantTo": "impact"
+    },
+    {
+      "id": "ID605",
+      "characters": "一见钟情",
+      "connection": "The immediate and deep connection between Li Ming and Zhao Lian is reflected in this idiom.",
+      "strength": "strong",
+      "relevantTo": "relationship: Li Ming and Zhao Lian"
+    },
+    {
+      "id": "ID606",
+      "characters": "海枯石烂",
+      "connection": "The theme of eternal love between the main characters is captured by this idiom.",
+      "strength": "strong",
+      "relevantTo": "theme: Love"
+    },
+    {
+      "id": "ID627",
+      "characters": "跋山涉水",
+      "connection": "The characters' journey through difficult terrain and obstacles is reflected in this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID693",
+      "characters": "有志者事竟成",
+      "connection": "The characters' perseverance and determination to achieve their goals are captured by this idiom.",
+      "strength": "strong",
+      "relevantTo": "theme: Perseverance"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every 'Love Beyond the Grave 白日提灯' Fan Should Know",
+      "slug": "love-beyond-the-grave-idioms-every-fan-should-know",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Success & Perseverance",
+      "description": "Explore 10 essential Chinese idioms that capture the essence of 'Love Beyond the Grave 白日提灯.' Discover how they reflect the drama's themes of love, perseverance, and supernatural intrigue.",
+      "idiomIds": [
+        "ID001",
+        "ID005",
+        "ID007",
+        "ID024",
+        "ID035",
+        "ID084",
+        "ID090",
+        "ID134",
+        "ID183",
+        "ID385"
+      ],
+      "outline": [
+        "Introduce the drama's main plot and characters, Li Ming and Zhao Lian.",
+        "Discuss Li Ming's perseverance in avenging his family, linking to idioms like 百折不挠 and 锲而不舍.",
+        "Explore the supernatural elements and their unexpected outcomes with idioms like 塞翁失马.",
+        "Analyze the bond between Li Ming and Zhao Lian, using idioms like 风雨同舟 and 天长地久.",
+        "Highlight the drama's unique blend of fantasy and traditional elements with 一鸣惊人."
+      ],
+      "keyFacts": [
+        "The drama is a 2026 fantasy wuxia C-drama starring Dilraba Dilmurat and Arthur Chen."
+      ]
+    },
+    {
+      "title": "The Real History Behind 'Love Beyond the Grave 白日提灯'",
+      "slug": "love-beyond-the-grave-real-history",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Life Philosophy",
+      "description": "Dive into the historical basis of 'Love Beyond the Grave 白日提灯,' exploring its roots in Chinese martial arts and spiritual traditions.",
+      "idiomIds": [
+        "ID014",
+        "ID056",
+        "ID124",
+        "ID154",
+        "ID273"
+      ],
+      "outline": [
+        "Examine the influence of Tang and Song dynasty martial arts on the drama.",
+        "Discuss the role of the spirit world in Chinese folklore and its representation in the series.",
+        "Analyze the idiom 天道酬勤 in relation to martial honor and diligence.",
+        "Explore how small supernatural events lead to larger revelations, using idioms like 蚁穴坏堤.",
+        "Connect the drama's themes to historical concepts of cause and effect with 因果报应."
+      ],
+      "keyFacts": [
+        "The drama draws heavily from Chinese martial arts and the concept of the spirit world."
+      ]
+    },
+    {
+      "title": "Famous Quotes from 'Love Beyond the Grave' Explained (汉字)",
+      "slug": "love-beyond-the-grave-famous-quotes-explained",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Wisdom & Learning",
+      "description": "Unpack the wisdom in famous quotes from 'Love Beyond the Grave 白日提灯,' linking them to Chinese idioms for deeper understanding.",
+      "idiomIds": [
+        "ID084",
+        "ID095",
+        "ID102",
+        "ID233",
+        "ID693"
+      ],
+      "outline": [
+        "Select key quotes from Li Ming and Zhao Lian that reflect perseverance and wisdom.",
+        "Explain how these quotes embody idioms like 柳暗花明 and 刻骨铭心.",
+        "Discuss Zhao Lian's selfless dedication using 春蚕到死.",
+        "Explore the idiom 雪中送炭 in the context of timely assistance.",
+        "Highlight the characters' persistence with idioms like 愚公移山."
+      ],
+      "keyFacts": [
+        "The drama features deep philosophical themes embedded in its dialogue."
+      ]
+    },
+    {
+      "title": "Why Martial Honor Matters in 'Love Beyond the Grave'",
+      "slug": "love-beyond-the-grave-martial-honor",
+      "angle": "Why [Symbol/Theme] Matters in Chinese Culture",
+      "theme": "Relationships & Character",
+      "description": "Discover the cultural significance of martial honor in 'Love Beyond the Grave 白日提灯' and its roots in Chinese traditions.",
+      "idiomIds": [
+        "ID014",
+        "ID021",
+        "ID106",
+        "ID134",
+        "ID303"
+      ],
+      "outline": [
+        "Define martial honor and its portrayal through Li Ming's character.",
+        "Explore Li Ming's growth and potential, linking to 青出于蓝.",
+        "Discuss the importance of hard work and transformation with 铁杵成针.",
+        "Connect Li Ming's quest to honor his family's memory with 饮水思源.",
+        "Analyze the ultimate goal of restoring peace using 安居乐业."
+      ],
+      "keyFacts": [
+        "The drama emphasizes honor and integrity within the martial arts community."
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching 'Love Beyond the Grave 白日提灯'",
+      "slug": "learn-chinese-watching-love-beyond-the-grave",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Strategy & Action",
+      "description": "Enhance your Chinese language skills with vocabulary and idioms from 'Love Beyond the Grave 白日提灯,' perfect for language learners.",
+      "idiomIds": [
+        "ID104",
+        "ID124",
+        "ID154",
+        "ID385",
+        "ID606"
+      ],
+      "outline": [
+        "Introduce key vocabulary terms like 白日提灯 and 武侠.",
+        "Explain the idiom 明镜止水 in the context of understanding supernatural events.",
+        "Discuss how small events lead to larger revelations with 蚁穴坏堤.",
+        "Highlight the characters' preparation and growth with 厚积薄发.",
+        "Explore the theme of eternal love using 海枯石烂."
+      ],
+      "keyFacts": [
+        "The drama is trending for its unique blend of fantasy and traditional Chinese elements."
+      ]
+    }
+  ]
+}

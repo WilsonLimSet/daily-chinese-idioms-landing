@@ -8,6 +8,7 @@ import { getAllPhrases } from '@/src/lib/phrases';
 import { getAllCharacterPages } from '@/src/lib/characters';
 import { getAllPoems } from '@/src/lib/poems';
 import { getAllPoets } from '@/src/lib/poets';
+import { getAllComparisons } from '@/src/lib/comparisons';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 
 const THEME_SLUGS = [
@@ -205,7 +206,24 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages];
+    // Comparison pages
+    const comparisons = getAllComparisons();
+    const comparePages: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/compare`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+      ...comparisons.map(c => ({
+        url: `${baseUrl}/compare/${c.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+    ];
+
+    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages, ...comparePages];
   }
 
   // Sitemap 1: English listicles

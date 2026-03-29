@@ -1,0 +1,344 @@
+{
+  "_instructions": [
+    "REVIEWED AND ENRICHED with verified research from MyDramaList, Baidu Baike, CCTV data, and Chinese sources.",
+    "Ready to generate. Run: node scripts/generate-trending-series.js generate --brief content/series-briefs/unveil-jadewind.json"
+  ],
+  "topic": "Unveil Jadewind 唐宫奇案之青雾风鸣 (Bai Lu, Wang Xingyue, Tang Dynasty court mystery 2026)",
+  "date": "2026-03-29",
+  "research": {
+    "basicFacts": {
+      "type": "C-drama (historical mystery / detective / court intrigue)",
+      "releaseDate": "February 5-22, 2026 (finished airing, 34 episodes)",
+      "keyPeople": [
+        "Bai Lu (白鹿) as Li Peiyi (李佩仪) — Lady of Fuchang County, elite martial artist and investigator",
+        "Wang Xingyue (王星越) as Xiao Huaijin (萧怀瑾) — Grand Astrologer at the Taishi Bureau",
+        "Yao Anna (姚安娜) as Pei Yu (裴愈)",
+        "Zhao Ziqi (赵子琪) as Consort Shu Cui Yuyao (淑妃崔玉瑶)",
+        "Director: Yin Tao (尹涛) — Who Rules the World, Ancient Love Poetry",
+        "Based on novel by Sen Lin Lu (森林鹿) — author of A Guide to Time-Traveling to the Tang Dynasty",
+        "Platforms: CCTV-8, Youku, Netflix"
+      ],
+      "impact": "CCTV-8 peak rating 1.3286%. Youku heat index broke 10,000 (first of 2026, Bai Lu's 4th). Douban 7.0 (78K+ ratings). Douyin 2.2M discussion index. IMDb 7.2. Praised for feminist themes, production design, and atmospheric storytelling."
+    },
+    "plotSummary": "During the Shangyuan Festival (上元节 / Lantern Festival), Princess Ningyuan dies under mysterious circumstances at a palace night banquet — apparently burned alive by supernatural fire. Li Peiyi (李佩仪), a county lady with elite combat skills, and Xiao Huaijin (萧怀瑾), a meticulous astrologer from the Imperial Astronomy Bureau, are ordered to investigate. The drama unfolds across 7 interconnected cases: (1) The Demonic Corpse-Burning Case — a staged death exploited with real gunpowder; (2) Hidden Corpse in the Palace Wall — blood-red peonies on Cold Palace walls hiding murdered women; (3) The Phantom Pregnancy Case — infant wailing from wombs, fetuses cut for 'blood medicine'; (4) The Human Blood Prescription — beauty contestants murdered with poisoned sachets; (5) The Headless Question-to-Heaven — a skeleton bride in a wedding palanquin, connecting to a 15-year-old massacre; (6) The Living Sacrifice — a palace cult exploiting superstition for political control; (7) The Night Banquet Case — fabricated star charts manufacturing 'heavenly omens' to legitimize a coup. All seven feed into the central mystery: 15 years ago, Prince Duan (Li Peiyi's father) and his entire household were massacred. The mastermind is Right Chancellor Cui Minzhong (崔悯忠), who fabricated treason charges to seize military power. Li Peiyi traps him but the Emperor suppresses the full truth to protect political stability.",
+    "historicalBasis": [
+      {
+        "topic": "Tang Dynasty Court and Taishi Bureau (太史局)",
+        "details": "The Imperial Astronomy Bureau was a real Tang institution under the Secretariat (秘书省), responsible for calendar-making, astronomical observation, recording omens, and timekeeping. Lingtai Lang (灵台郎) was a real rank-8 position for studying celestial phenomena. Xiao Huaijin's role is historically grounded — and the villains' fabrication of star charts was a real potential crime, as astronomical readings legitimized political decisions.",
+        "dynasties": ["Tang Dynasty (618-907 AD)"],
+        "figures": ["Di Renjie (狄仁杰) — real Tang official, served as chancellor under Empress Wu Zetian, most famous literary detective"]
+      },
+      {
+        "topic": "Chang'an's 108 Wards (坊)",
+        "details": "The production spent 30+ million yuan reconstructing the ward system of Tang Chang'an. The real Chang'an was organized into 108 residential wards plus 2 market wards. The Shangyuan Festival (元宵节/上元节) was when Chang'an's strict curfew was lifted and the city illuminated.",
+        "dynasties": ["Tang"],
+        "figures": []
+      },
+      {
+        "topic": "The Gong'an (公案) Detective Fiction Tradition",
+        "details": "Gong'an fiction originated in Song Dynasty, flourished in Ming/Qing. Famous examples: 包公案 (Judge Bao, Song Dynasty), 狄公案 (Judge Dee, Tang Dynasty). Di Renjie was a real Tang politician who served twice as chancellor under Empress Wu Zetian; Robert van Gulik's Judge Dee novels popularized him globally. Unveil Jadewind subverts the tradition: the lead investigator is a woman, and justice is compromised by imperial power.",
+        "dynasties": ["Song (origin)", "Ming/Qing (flourishing)", "Tang (setting)"],
+        "figures": ["Bao Zheng (包拯) — Song Dynasty judge", "Di Renjie (狄仁杰) — Tang chancellor/detective"]
+      },
+      {
+        "topic": "Heqin Political Marriage Alliances (和亲)",
+        "details": "The Tang Dynasty regularly married princesses to foreign rulers (Tibetans, Uyghurs/Huihe) for diplomatic purposes. The drama references a marriage alliance with the Huihe tribe. Princess Ningyuan's death is connected to a heqin arrangement she was trying to escape.",
+        "dynasties": ["Tang"],
+        "figures": []
+      },
+      {
+        "topic": "Production Design from Dunhuang Murals",
+        "details": "Costumes drawn directly from Dunhuang murals, with color palettes meticulously extracted from surviving frescoes. The production differentiated multiple shades of white into categories like 'oriental dawn' and 'congealed fat' (东方既白, 凝脂).",
+        "dynasties": ["Tang"],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Justice vs. Political Stability",
+        "explanation": "The Emperor suppresses the full truth about the massacre to maintain order. Li Peiyi achieves justice but only partially — the system protects itself. A profound commentary on how official historical narratives are shaped by power."
+      },
+      {
+        "theme": "Women's Suffering Under Patriarchy",
+        "explanation": "Nearly every case exposes injustices against women: manipulation as political pawns through marriage alliances, exploitation in the beauty selection process, violence hidden behind palace walls, murdered women's bodies concealed in walls."
+      },
+      {
+        "theme": "Historical Memory and Official Narratives",
+        "explanation": "Xiao Huaijin's role as a 'recorder of history' whose records are shaped by power. Li Peiyi's quest for truth is described as 'directly confronting the Emperor's officially sanctioned version of history.' The drama asks: who writes history, and for whom?"
+      },
+      {
+        "theme": "The Detective as Outsider (Sword and Sheath)",
+        "explanation": "Li Peiyi is 'the sword' (instinct, combat, emotional intelligence) and Xiao Huaijin is 'the sheath' (logic, memory, documentary records). Their partnership is built on intellectual respect rather than romance."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "唐宫奇案",
+        "pinyin": "táng gōng qí àn",
+        "meaning": "Strange Cases of the Tang Palace",
+        "relevance": "The drama's series title — each case involves supernatural-seeming events with rational explanations."
+      },
+      {
+        "characters": "太史局",
+        "pinyin": "tài shǐ jú",
+        "meaning": "Imperial Astronomy Bureau — real Tang government office for celestial observation",
+        "relevance": "Xiao Huaijin's workplace; the villains fabricate its star charts."
+      },
+      {
+        "characters": "上元节",
+        "pinyin": "shàng yuán jié",
+        "meaning": "Shangyuan Festival / Lantern Festival — when Chang'an's curfew was lifted",
+        "relevance": "The opening scene where Princess Ningyuan is murdered."
+      },
+      {
+        "characters": "公案",
+        "pinyin": "gōng àn",
+        "meaning": "Criminal case / court case — the genre of Chinese detective fiction",
+        "relevance": "The drama belongs to the gong'an tradition of detective stories."
+      },
+      {
+        "characters": "和亲",
+        "pinyin": "hé qīn",
+        "meaning": "Political marriage alliance — Tang Dynasty practice of marrying princesses to foreign rulers",
+        "relevance": "Princess Ningyuan was trying to escape a heqin arrangement."
+      },
+      {
+        "characters": "坊",
+        "pinyin": "fāng",
+        "meaning": "Ward — the 108 residential wards of Tang Chang'an",
+        "relevance": "The physical structure of the city the drama takes place in."
+      }
+    ],
+    "whyTrending": "Finished airing Feb 22 but still generating discussion. Bai Lu's 4th drama to break 10K on Youku. Netflix global release expanded audience. Divisive ending fueled ongoing debate. Feminist themes resonated strongly.",
+    "verifyFlags": []
+  },
+  "idiomMatches": [
+    {
+      "id": "ID084",
+      "characters": "柳暗花明",
+      "connection": "Each of the 7 cases appears supernatural — demonic fire, phantom pregnancies, blood-red peonies — but Li Peiyi and Xiao Huaijin find rational explanations. Every dark mystery opens into clarity.",
+      "strength": "strong",
+      "relevantTo": "the investigation structure"
+    },
+    {
+      "id": "ID124",
+      "characters": "蚁穴坏堤",
+      "connection": "Small clues in early cases — a fake death, blood-stained walls, poisoned sachets — accumulate into the revelation of a massive 15-year conspiracy. An ant hole bringing down the dike of the Right Chancellor's power.",
+      "strength": "strong",
+      "relevantTo": "the overarching conspiracy"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "Right Chancellor Cui Minzhong massacred the Prince Duan household 15 years ago. Li Peiyi's investigation is karma arriving — slowly, case by case, until the truth can no longer be hidden.",
+      "strength": "strong",
+      "relevantTo": "the central revenge arc"
+    },
+    {
+      "id": "ID273",
+      "characters": "盲人摸象",
+      "connection": "Each case reveals only part of the conspiracy. Li Peiyi and Xiao Huaijin are blind people touching an elephant — corpse-burning here, blood medicine there — until they step back and see the whole beast: the Chancellor's coup.",
+      "strength": "strong",
+      "relevantTo": "the investigative process"
+    },
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "Seven interconnected cases, each with twists within twists. The staged death that becomes real murder. The cure that's actually poison. The historical record that's been fabricated. Nothing is what it first appears.",
+      "strength": "strong",
+      "relevantTo": "the 7-case structure"
+    },
+    {
+      "id": "ID090",
+      "characters": "锲而不舍",
+      "connection": "Li Peiyi has waited 15 years to learn the truth about her father's massacre. Her persistence through 7 dangerous cases, each bringing her closer to the answer, is carving that never stops.",
+      "strength": "strong",
+      "relevantTo": "Li Peiyi's 15-year quest"
+    },
+    {
+      "id": "ID134",
+      "characters": "饮水思源",
+      "connection": "Li Peiyi's entire motivation: remembering the source. Every case she solves brings her closer to clearing her father Prince Duan's name and honoring the household that was destroyed.",
+      "strength": "strong",
+      "relevantTo": "Li Peiyi's motivation"
+    },
+    {
+      "id": "ID065",
+      "characters": "一丝不苟",
+      "connection": "Xiao Huaijin's investigative method: meticulous examination of star charts, documents, and physical evidence. Not a single thread overlooked. His precision exposes the fabricated astronomical readings.",
+      "strength": "strong",
+      "relevantTo": "Xiao Huaijin's method"
+    },
+    {
+      "id": "ID082",
+      "characters": "众志成城",
+      "connection": "Li Peiyi's martial skill + Xiao Huaijin's scholarly precision + their network of allies = a fortress that the Right Chancellor cannot breach. Unity defeats conspiracy.",
+      "strength": "medium",
+      "relevantTo": "the investigative partnership"
+    },
+    {
+      "id": "ID115",
+      "characters": "负重致远",
+      "connection": "Li Peiyi carries the weight of her murdered family's legacy for 15 years while building the skills and connections needed for justice. The ox bearing heavy burdens on a long journey.",
+      "strength": "strong",
+      "relevantTo": "Li Peiyi's 15-year burden"
+    },
+    {
+      "id": "ID233",
+      "characters": "愚公移山",
+      "connection": "The Right Chancellor's conspiracy seems as immovable as mountains — he controls the court, the consort, the historical record. Li Peiyi removes it piece by piece, case by case, like the Old Man who moved mountains.",
+      "strength": "strong",
+      "relevantTo": "dismantling the conspiracy"
+    },
+    {
+      "id": "ID104",
+      "characters": "明镜止水",
+      "connection": "Xiao Huaijin's calm, mirror-still mind allows him to see what others miss. His 麟符 (qilin tally) from the emperor represents the clarity of imperial authority — even when that authority ultimately fails.",
+      "strength": "medium",
+      "relevantTo": "Xiao Huaijin's character"
+    },
+    {
+      "id": "ID018",
+      "characters": "塞翁失马",
+      "connection": "Princess Ningyuan's death appears to be a tragedy but it cracks open the conspiracy. Each 'misfortune' in the investigation reveals another layer of truth. The old man's lost horse keeps returning.",
+      "strength": "medium",
+      "relevantTo": "unexpected turns in investigation"
+    },
+    {
+      "id": "ID005",
+      "characters": "百折不挠",
+      "connection": "Li Peiyi faces political obstruction, physical danger, and the Emperor himself suppressing truth. She bends but does not break — even the bittersweet ending cannot diminish what she accomplished.",
+      "strength": "strong",
+      "relevantTo": "Li Peiyi's unbreakable will"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every Unveil Jadewind (唐宫奇案) Fan Should Know: Murder, Mystery, and the Tang Court",
+      "slug": "unveil-jadewind-chinese-idioms-tang-dynasty-mystery",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Strategy & Action",
+      "description": "Bai Lu investigates 7 cases of supernatural horror in the Tang court — but the real monster is political corruption. These 10 idioms capture every twist of Unveil Jadewind (唐宫奇案之青雾风鸣).",
+      "idiomIds": ["ID084", "ID124", "ID024", "ID273", "ID007", "ID090", "ID134", "ID065", "ID233", "ID005"],
+      "outline": [
+        "Open with the Lantern Festival murder and the 7-case structure",
+        "柳暗花明 — every case looks supernatural but reveals rational (and more horrifying) explanations",
+        "蚁穴坏堤 and 盲人摸象 — small clues accumulating into the revelation of a massive 15-year conspiracy",
+        "因果报应 — the Chancellor's 15-year-old crime finally catching up to him, case by case",
+        "锲而不舍 and 百折不挠 — Li Peiyi's 15-year wait for truth, her refusal to stop even when the Emperor himself opposes her",
+        "愚公移山 — dismantling a mountain of conspiracy piece by piece"
+      ],
+      "keyFacts": [
+        "Bai Lu (白鹿) as Li Peiyi (李佩仪), Wang Xingyue (王星越) as Xiao Huaijin (萧怀瑾)",
+        "7 interconnected cases: corpse-burning, wall corpses, phantom pregnancy, blood prescription, headless bride, human sacrifice, fabricated star charts",
+        "Central mystery: 15-year-old massacre of Prince Duan's household — Li Peiyi's father",
+        "Mastermind: Right Chancellor Cui Minzhong (崔悯忠) who fabricated treason charges",
+        "Bittersweet ending: Emperor suppresses full truth to protect political stability",
+        "CCTV-8 peak 1.3%, Youku 10K+ heat index, Douban 7.0, Netflix global"
+      ]
+    },
+    {
+      "title": "The Real Tang Dynasty Behind Unveil Jadewind (唐宫奇案): Astronomy, Court Politics, and Chang'an's 108 Wards",
+      "slug": "unveil-jadewind-real-tang-dynasty-history-astronomy-changan",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "From the Imperial Astronomy Bureau to Chang'an's 108 wards — the real Tang Dynasty institutions, practices, and power dynamics that Unveil Jadewind brings to life.",
+      "idiomIds": ["ID065", "ID104", "ID134", "ID082", "ID018"],
+      "outline": [
+        "The Taishi Bureau (太史局) — the real Imperial Astronomy Bureau, its role in Tang governance, and why fabricating star charts was political dynamite",
+        "Chang'an's 108 wards (坊) — the 30+ million yuan reconstruction, how the real city was organized, the curfew system",
+        "上元节 (Shangyuan/Lantern Festival) — the one night Chang'an's curfew was lifted, the perfect setting for a murder",
+        "和亲 (Heqin) political marriages — how the Tang married princesses to Uyghurs and Tibetans for diplomacy",
+        "The imperial consort hierarchy and how women served as political currency",
+        "Dunhuang murals as costume reference — the production's obsessive historical accuracy"
+      ],
+      "keyFacts": [
+        "太史局 (Taishi Bureau) — real Tang institution under the Secretariat for astronomy and calendar-making",
+        "灵台郎 (Lingtai Lang) — real rank-8 Tang position for studying celestial phenomena",
+        "108 residential wards (坊) plus 2 market wards in real Tang Chang'an",
+        "30+ million yuan spent reconstructing the ward system for the drama",
+        "Costumes drawn from Dunhuang murals with differentiated shades of white",
+        "和亲 — Tang regularly married princesses to Tibetans and Uyghurs/Huihe for diplomacy"
+      ]
+    },
+    {
+      "title": "From Judge Dee to Li Peiyi: Unveil Jadewind and the 1,000-Year Tradition of Chinese Detective Fiction",
+      "slug": "unveil-jadewind-judge-dee-chinese-detective-fiction-gongan",
+      "angle": "Cultural References in [Topic] You Missed",
+      "theme": "Wisdom & Learning",
+      "description": "Unveil Jadewind belongs to a detective tradition older than Sherlock Holmes. From Judge Bao to Di Renjie to Bai Lu's Li Peiyi — and how the drama subverts 1,000 years of convention.",
+      "idiomIds": ["ID273", "ID007", "ID024", "ID115", "ID090"],
+      "outline": [
+        "公案 (Gong'an) fiction — the Chinese detective genre: Song Dynasty origins, Ming/Qing flourishing",
+        "包公案 — Judge Bao (Bao Zheng), the incorruptible Song Dynasty magistrate",
+        "狄仁杰 / Di Renjie — the real Tang chancellor who became China's most famous literary detective",
+        "Robert van Gulik's Judge Dee novels — how a Dutch diplomat brought Tang Dynasty detective fiction to the West",
+        "How Unveil Jadewind subverts the tradition: (1) female lead investigator, (2) justice compromised by power",
+        "Li Peiyi as 'the sword' vs Xiao Huaijin as 'the sheath' — emotional intelligence vs documentary precision",
+        "The divisive ending: the Emperor suppresses truth — is incomplete justice still justice?"
+      ],
+      "keyFacts": [
+        "公案 (gōng àn) — Chinese detective fiction genre, older than Western detective stories",
+        "包拯 (Bao Zheng) — real Song Dynasty judge, symbol of incorruptible justice",
+        "狄仁杰 (Di Renjie, 630-700) — real Tang chancellor under Empress Wu Zetian, China's most famous detective",
+        "Robert van Gulik — Dutch diplomat who wrote Judge Dee novels in English, popularizing Chinese detective fiction globally",
+        "Li Peiyi is 'the sword' (emotional intelligence, combat), Xiao Huaijin is 'the sheath' (logic, memory, records)",
+        "Novel by Sen Lin Lu (森林鹿), also wrote A Guide to Time-Traveling to the Tang Dynasty"
+      ]
+    },
+    {
+      "title": "The 7 Horrors of the Tang Court: Every Case in Unveil Jadewind (唐宫奇案) Explained Through Chinese Idioms",
+      "slug": "unveil-jadewind-7-cases-explained-chinese-idioms",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Life Philosophy",
+      "description": "Demonic fire. Bleeding walls. Skeleton brides. Fabricated stars. Each of Unveil Jadewind's 7 cases hides a devastating truth about power and injustice in the Tang court.",
+      "idiomIds": ["ID084", "ID124", "ID007", "ID233", "ID024"],
+      "outline": [
+        "Case 1 — Corpse-Burning: Princess stages death to escape 和亲, but noble lady Cui Manshu turns fake death into real murder with gunpowder",
+        "Case 2 — Palace Wall: Blood-red peonies painted with women's own blood over their murdered bodies — literally hiding crimes in the walls of power",
+        "Case 3 — Phantom Pregnancy: The most horrifying case — fetuses cut for 'blood medicine,' remains embedded in walls",
+        "Case 4 — Human Blood Prescription: Beauty contestants killed with poisoned sachets — women as political pawns",
+        "Case 5 — Headless Bride: A skeleton in wedding dress connects to the 15-year-old massacre",
+        "Case 6 — Living Sacrifice: Palace cult exploiting superstition for political control",
+        "Case 7 — Night Banquet: Fabricated star charts manufacturing heavenly omens for a coup d'état",
+        "柳暗花明 thread: every supernatural appearance has a rational (and more horrifying) explanation"
+      ],
+      "keyFacts": [
+        "7 interconnected cases (七大奇案), each with Chinese subtitle",
+        "Case 1: 客星出婺女 / 邪祟焚尸案 (Demonic Corpse-Burning)",
+        "Case 2: 壁上花 / 宫墙藏尸案 (Hidden Corpse in Palace Wall)",
+        "Case 3: 弦上婴啼 / 怪影入胎案 (Phantom Pregnancy)",
+        "Case 4: 血色天资 / 人命血方案 (Human Blood Prescription)",
+        "Case 5: 吉时秘闻 / 无头问天案 (Headless Question-to-Heaven)",
+        "Case 6: 所信非神 / 活人献祭案 (Living Sacrifice)",
+        "Case 7: 七星错 / 夜宴惊天案 (Night Banquet Shocking Case)"
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching Unveil Jadewind (唐宫奇案): Tang Dynasty Vocabulary, Court Titles, and Detective Idioms",
+      "slug": "unveil-jadewind-learn-chinese-tang-dynasty-vocabulary",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Unveil Jadewind is packed with Tang Dynasty vocabulary — 太史局, 上元节, 坊, 和亲. Here's your guide to the Chinese words behind every court title, festival, and investigation in the drama.",
+      "idiomIds": ["ID104", "ID065", "ID115", "ID134", "ID082"],
+      "outline": [
+        "Court titles: 太史丞 (Grand Astrologer), 县主 (County Lady), 右相 (Right Chancellor), 淑妃 (Consort Shu), 内侍 (Palace Eunuch)",
+        "Places: 坊 (ward), 灵台 (Spirit Terrace/observatory), 冷宫 (Cold Palace), 长安 (Chang'an)",
+        "Festivals: 上元节 (Shangyuan/Lantern Festival), its significance and why curfew was lifted",
+        "Investigation terms: 公案 (criminal case), 奇案 (strange case), 麟符 (qilin tally — imperial investigative authority)",
+        "明镜止水 — Xiao Huaijin's calm, analytical mind; useful for describing clear thinking",
+        "饮水思源 — remembering one's roots; Li Peiyi's 15-year quest for her father's truth",
+        "负重致远 — carrying heavy burdens for the long road; applicable to perseverance in Chinese study"
+      ],
+      "keyFacts": [
+        "太史局 (tài shǐ jú) = Imperial Astronomy Bureau",
+        "上元节 (shàng yuán jié) = Shangyuan/Lantern Festival",
+        "坊 (fāng) = residential ward in Tang Chang'an",
+        "和亲 (hé qīn) = political marriage alliance",
+        "公案 (gōng àn) = criminal case / detective genre",
+        "县主 (xiàn zhǔ) = County Lady (Li Peiyi's title)",
+        "麟符 (lín fú) = qilin tally, imperial investigative authority token"
+      ]
+    }
+  ]
+}

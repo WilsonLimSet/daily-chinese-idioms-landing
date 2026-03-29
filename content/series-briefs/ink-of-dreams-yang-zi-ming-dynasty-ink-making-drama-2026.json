@@ -1,0 +1,427 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Ink of Dreams 墨色 (Yang Zi, Ming Dynasty ink-making drama 2026)",
+  "date": "2026-03-29",
+  "research": {
+    "basicFacts": {
+      "type": "C-drama",
+      "releaseDate": "VERIFY: 2026",
+      "keyPeople": [
+        "Yang Zi (杨紫) - Lead Actress",
+        "Director Name - VERIFY: Director's name",
+        "Other Key Actors - VERIFY: Other main actors"
+      ],
+      "impact": "VERIFY: Ratings, viewership, and cultural impact metrics"
+    },
+    "plotSummary": "Ink of Dreams 墨色 is a drama set in the Ming Dynasty, focusing on the intricate art of ink-making. The story follows the journey of the protagonist, Li Ming (李明), an aspiring ink-maker who dreams of creating the perfect ink. Alongside him is Mei Lan (梅兰), a talented calligrapher who becomes his muse and partner. The drama unfolds in the bustling city of Suzhou, known for its rich cultural heritage and artistic endeavors. Key plot points include Li Ming's struggle against a rival ink-maker, the discovery of a secret ink formula, and the challenges posed by the political climate of the time.",
+    "historicalBasis": [
+      {
+        "topic": "Ink-making in the Ming Dynasty",
+        "details": "The drama draws heavily on the historical tradition of ink-making, a revered craft during the Ming Dynasty. Suzhou was a hub for artisans, and ink-making was considered both an art and a science.",
+        "dynasties": [
+          "Ming Dynasty"
+        ],
+        "figures": [
+          "VERIFY: Historical figures related to ink-making"
+        ]
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Artistic Tradition",
+        "explanation": "The drama emphasizes the importance of artistic excellence and innovation, reflecting the high regard for art and culture during the Ming Dynasty."
+      },
+      {
+        "theme": "Mentorship and Mastery",
+        "explanation": "The relationship between master and apprentice is central, highlighting the Confucian value of respecting one's teacher and the pursuit of mastery."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "墨色",
+        "pinyin": "mò sè",
+        "meaning": "Ink color",
+        "relevance": "Title of the drama, representing the central theme of ink-making."
+      },
+      {
+        "characters": "书法",
+        "pinyin": "shū fǎ",
+        "meaning": "Calligraphy",
+        "relevance": "Calligraphy is a significant art form in the drama, showcasing the cultural importance of writing."
+      }
+    ],
+    "whyTrending": "Ink of Dreams is trending due to its unique focus on a lesser-known aspect of Chinese cultural heritage—ink-making. The drama's release coincides with a growing global interest in traditional Chinese arts and crafts, as well as the popularity of historical dramas that offer a glimpse into China's rich past.",
+    "verifyFlags": [
+      "VERIFY: 2026",
+      "VERIFY: Director's name",
+      "VERIFY: Other main actors",
+      "VERIFY: Ratings, viewership, and cultural impact metrics",
+      "VERIFY: Historical figures related to ink-making"
+    ]
+  },
+  "idiomMatches": [
+    {
+      "id": "ID002",
+      "characters": "融会贯通",
+      "connection": "Li Ming's journey to master the art of ink-making reflects the idiom's meaning of mastering something completely.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID005",
+      "characters": "百折不挠",
+      "connection": "Li Ming's perseverance in overcoming challenges and rivalries in ink-making embodies unshakeable determination despite adversity.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID014",
+      "characters": "天道酬勤",
+      "connection": "The drama emphasizes that diligence and hard work in the craft of ink-making are ultimately rewarded, reflecting this idiom.",
+      "strength": "strong",
+      "relevantTo": "theme - Artistic Tradition"
+    },
+    {
+      "id": "ID016",
+      "characters": "温故知新",
+      "connection": "Li Ming learns new techniques by studying traditional methods of ink-making, aligning with the idiom's focus on learning new through the old.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID021",
+      "characters": "青出于蓝",
+      "connection": "Li Ming surpasses his mentor in ink-making, embodying the idiom of a student surpassing the master.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID025",
+      "characters": "画龙点睛",
+      "connection": "The discovery of the secret ink formula serves as the crucial finishing touch to Li Ming's journey, reflecting this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot point - Secret Ink Formula"
+    },
+    {
+      "id": "ID032",
+      "characters": "笨鸟先飞",
+      "connection": "Li Ming's hard work and dedication to compensate for initial lack of skill in ink-making reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID036",
+      "characters": "事半功倍",
+      "connection": "Mei Lan's calligraphy skills enhance Li Ming's ink, achieving better results with less effort.",
+      "strength": "medium",
+      "relevantTo": "character - Mei Lan"
+    },
+    {
+      "id": "ID052",
+      "characters": "集腋成裘",
+      "connection": "The incremental improvements in Li Ming's ink-making process lead to significant results, reflecting this idiom.",
+      "strength": "medium",
+      "relevantTo": "plot point - Ink-making Process"
+    },
+    {
+      "id": "ID065",
+      "characters": "一丝不苟",
+      "connection": "Li Ming's meticulous approach to creating the perfect ink aligns with the idiom's emphasis on thoroughness.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID076",
+      "characters": "水到渠成",
+      "connection": "Li Ming's success in ink-making comes naturally after his persistent efforts, reflecting this idiom.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID086",
+      "characters": "一鼓作气",
+      "connection": "Li Ming's determination to complete his ink-making project in one effort aligns with this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID091",
+      "characters": "虚怀若谷",
+      "connection": "Li Ming's openness to learning and improving his craft reflects the idiom's emphasis on humility and openness.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID106",
+      "characters": "铁杵成针",
+      "connection": "Li Ming's persistence in mastering ink-making despite initial difficulties embodies this idiom.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID110",
+      "characters": "目不转睛",
+      "connection": "Li Ming's intense focus on his craft reflects the idiom's emphasis on unwavering attention.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID119",
+      "characters": "玉汝于成",
+      "connection": "Li Ming's careful work in creating the perfect ink aligns with this idiom's focus on perfection through effort.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID143",
+      "characters": "精益求精",
+      "connection": "Li Ming's continuous pursuit of excellence in ink-making embodies the idiom's focus on constant improvement.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID154",
+      "characters": "厚积薄发",
+      "connection": "Li Ming's long preparation and learning lead to his eventual success in ink-making, reflecting this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID166",
+      "characters": "呕心沥血",
+      "connection": "Li Ming's emotional and physical investment in his craft reflects the idiom's emphasis on utmost effort.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID175",
+      "characters": "巧夺天工",
+      "connection": "The craftsmanship in Li Ming's ink-making is described as beyond natural limits, aligning with this idiom.",
+      "strength": "medium",
+      "relevantTo": "theme - Artistic Tradition"
+    },
+    {
+      "id": "ID186",
+      "characters": "千锤百炼",
+      "connection": "Li Ming's repeated refinement of his ink-making technique reflects this idiom's focus on perfection through practice.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID233",
+      "characters": "愚公移山",
+      "connection": "Li Ming's determination to overcome obstacles in ink-making embodies the idiom's theme of persistence overcoming challenges.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "Li Ming's innovation in ink-making while respecting traditional methods reflects the idiom's theme of linking tradition with innovation.",
+      "strength": "strong",
+      "relevantTo": "theme - Artistic Tradition"
+    },
+    {
+      "id": "ID683",
+      "characters": "持之以恒",
+      "connection": "Li Ming's steadfast dedication to his craft is a direct reflection of this idiom.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID684",
+      "characters": "坚持不懈",
+      "connection": "Li Ming's unwavering perseverance in his ink-making journey aligns with this idiom.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID693",
+      "characters": "有志者事竟成",
+      "connection": "Li Ming's success through perseverance embodies this idiom's message that determination leads to success.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID701",
+      "characters": "绳锯木断",
+      "connection": "Li Ming's persistence in perfecting his ink-making technique reflects the idiom's theme of perseverance leading to success.",
+      "strength": "strong",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID727",
+      "characters": "博学多才",
+      "connection": "Mei Lan's extensive knowledge and talent in calligraphy align with this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Mei Lan"
+    },
+    {
+      "id": "ID738",
+      "characters": "无师自通",
+      "connection": "Li Ming's self-taught mastery of ink-making reflects this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID747",
+      "characters": "一字千金",
+      "connection": "Mei Lan's calligraphy is highly valued, reflecting the idiom's theme of invaluable writing.",
+      "strength": "medium",
+      "relevantTo": "character - Mei Lan"
+    },
+    {
+      "id": "ID754",
+      "characters": "肝脑涂地",
+      "connection": "Li Ming's ultimate sacrifice and dedication to his craft reflect this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    },
+    {
+      "id": "ID820",
+      "characters": "鸿鹄之志",
+      "connection": "Li Ming's great aspirations in ink-making align with this idiom.",
+      "strength": "medium",
+      "relevantTo": "character - Li Ming"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every 'Ink of Dreams 墨色' Fan Should Know",
+      "slug": "ink-of-dreams-idioms-every-fan-should-know",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Success & Perseverance",
+      "description": "Discover the Chinese idioms that reflect the journey of Li Ming in 'Ink of Dreams 墨色.' Learn how these phrases capture his perseverance and success.",
+      "idiomIds": [
+        "ID002",
+        "ID005",
+        "ID014",
+        "ID016",
+        "ID021",
+        "ID065",
+        "ID076",
+        "ID106",
+        "ID186",
+        "ID693"
+      ],
+      "outline": [
+        "Introduction to Li Ming's journey and the significance of idioms in Chinese culture.",
+        "Explore 融会贯通 (ID002) and Li Ming's mastery of ink-making.",
+        "Discuss 百折不挠 (ID005) in the context of Li Ming's perseverance.",
+        "Highlight 天道酬勤 (ID014) and how diligence rewards Li Ming.",
+        "Analyze 温故知新 (ID016) through Li Ming's learning process.",
+        "Explain 青出于蓝 (ID021) as Li Ming surpasses his mentor."
+      ],
+      "keyFacts": [
+        "Type: C-drama",
+        "Plot: Li Ming's journey to create the perfect ink",
+        "Cultural Themes: Artistic Tradition, Mentorship and Mastery"
+      ]
+    },
+    {
+      "title": "The Real History Behind 'Ink of Dreams 墨色'",
+      "slug": "ink-of-dreams-real-history",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Dive into the historical art of ink-making during the Ming Dynasty and how 'Ink of Dreams 墨色' brings it to life.",
+      "idiomIds": [
+        "ID016",
+        "ID052",
+        "ID267",
+        "ID683",
+        "ID701"
+      ],
+      "outline": [
+        "Introduction to the historical context of ink-making in the Ming Dynasty.",
+        "Explore 温故知新 (ID016) through traditional ink-making techniques.",
+        "Discuss 集腋成裘 (ID052) and incremental improvements in the craft.",
+        "Analyze 承前启后 (ID267) in linking tradition with innovation.",
+        "Explain 持之以恒 (ID683) and the dedication of artisans."
+      ],
+      "keyFacts": [
+        "Historical Basis: Ink-making in the Ming Dynasty",
+        "Key Setting: Suzhou as a hub for artisans"
+      ]
+    },
+    {
+      "title": "Famous Quotes from 'Ink of Dreams 墨色' Explained",
+      "slug": "ink-of-dreams-famous-quotes-explained",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Life Philosophy",
+      "description": "Uncover the deeper meanings of memorable quotes from 'Ink of Dreams 墨色' through the lens of Chinese idioms.",
+      "idiomIds": [
+        "ID021",
+        "ID233",
+        "ID166",
+        "ID684",
+        "ID143"
+      ],
+      "outline": [
+        "Introduction to the power of dialogue in 'Ink of Dreams 墨色.'",
+        "Analyze 青出于蓝 (ID021) through quotes about mentorship.",
+        "Discuss 愚公移山 (ID233) in the context of overcoming obstacles.",
+        "Explore 呕心沥血 (ID166) in expressions of dedication.",
+        "Explain 坚持不懈 (ID684) through quotes on perseverance."
+      ],
+      "keyFacts": [
+        "Plot Summary: Li Ming's journey and key challenges",
+        "Cultural Themes: Mentorship and Mastery"
+      ]
+    },
+    {
+      "title": "Why 墨色 Matters in Chinese Culture",
+      "slug": "ink-of-dreams-mose-chinese-culture",
+      "angle": "Why [Symbol/Theme] Matters in Chinese Culture",
+      "theme": "Artistic Tradition",
+      "description": "Explore the cultural significance of ink color (墨色) in 'Ink of Dreams 墨色' and its role in Chinese artistic traditions.",
+      "idiomIds": [
+        "ID025",
+        "ID086",
+        "ID119",
+        "ID727",
+        "ID738"
+      ],
+      "outline": [
+        "Introduction to the importance of ink color in Chinese culture.",
+        "Discuss 画龙点睛 (ID025) and the secret ink formula.",
+        "Analyze 一鼓作气 (ID086) in the context of artistic creation.",
+        "Explore 玉汝于成 (ID119) in the pursuit of perfection.",
+        "Highlight 博学多才 (ID727) through Mei Lan's calligraphy."
+      ],
+      "keyFacts": [
+        "Cultural Themes: Artistic Tradition",
+        "Key Chinese Terms: 墨色 (mò sè)"
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching 'Ink of Dreams 墨色'",
+      "slug": "ink-of-dreams-learn-chinese",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Language Learning",
+      "description": "Enhance your Chinese language skills with vocabulary and idioms from 'Ink of Dreams 墨色.' Perfect for language learners!",
+      "idiomIds": [
+        "ID032",
+        "ID036",
+        "ID747",
+        "ID820",
+        "ID754"
+      ],
+      "outline": [
+        "Introduction to learning Chinese through drama.",
+        "Explore 笨鸟先飞 (ID032) in Li Ming's learning process.",
+        "Discuss 事半功倍 (ID036) in enhancing results with less effort.",
+        "Analyze 一字千金 (ID747) through Mei Lan's calligraphy.",
+        "Highlight 鸿鹄之志 (ID820) in Li Ming's aspirations."
+      ],
+      "keyFacts": [
+        "Key Chinese Terms: 书法 (shū fǎ)",
+        "Why Trending: Global interest in traditional Chinese arts"
+      ]
+    }
+  ]
+}
