@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getAllSlangTerms, loadTranslatedSlang, getTranslatedSlangBySlug } from '@/src/lib/slang';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -29,13 +29,24 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: 'Slang Not Found' };
   }
 
+  // Avoid redundant pinyin when it matches characters (e.g., PUA)
+  const pinyinSuffix = term.pinyin !== term.characters ? ` (${term.pinyin})` : '';
+  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
+
+  // Use custom meta from English source if available
+  const customTitle = term.metaTitle;
+  const title = customTitle
+    ? `${customTitle.replace(/\| Chinese.*$/, '')}| ${nativeName}`
+    : `${term.characters}${pinyinSuffix} — ${term.meaning.substring(0, 50)} | ${nativeName}`;
+  const description = `${term.characters}: ${term.meaning.substring(0, 120)}. ${term.origin.substring(0, 100)}`;
+
   return {
-    title: `${term.characters} (${term.pinyin}) — ${getTranslation(lang, 'slangMeaning')} | ${langName}`,
-    description: `${term.characters}: ${term.meaning}. ${term.origin.substring(0, 100)}`,
-    keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese slang', term.category, langName.toLowerCase()],
+    title,
+    description,
+    keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese slang', `${term.characters} chinese`, term.category, langName.toLowerCase()],
     openGraph: {
-      title: `${term.characters} — ${term.meaning.substring(0, 60)}`,
-      description: term.meaning,
+      title: customTitle || `${term.characters}${pinyinSuffix} — ${term.meaning.substring(0, 60)}`,
+      description: `${term.characters}: ${term.meaning.substring(0, 120)}`,
       url: `https://www.chineseidioms.com/${lang}/slang/${slug}`,
       siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),

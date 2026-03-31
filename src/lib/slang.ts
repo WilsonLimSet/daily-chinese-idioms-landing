@@ -11,6 +11,8 @@ export type SlangTerm = {
   category: string;
   era: string;
   formality: 'very informal' | 'informal' | 'neutral';
+  metaTitle?: string;
+  metaDescription?: string;
 };
 
 export type TranslatedSlangTerm = SlangTerm & {
@@ -40,6 +42,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Internet Culture',
     era: '2020s',
     formality: 'very informal',
+    metaTitle: 'YYDS Meaning — 永远的神 "Forever God" | Chinese Internet Slang',
+    metaDescription: 'YYDS (永远的神) means "Forever God" — the Chinese internet\'s way of saying GOAT. Born from a gaming streamer in 2020, now used everywhere from Bilibili to WeChat. Origin story, examples & how to use it.',
   },
   {
     slug: 'nei-juan',
@@ -54,6 +58,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Work & Hustle',
     era: '2020s',
     formality: 'informal',
+    metaTitle: '内卷 (Nèi Juǎn) — China\'s "Involution" Rat Race Explained',
+    metaDescription: 'What is 内卷 (involution)? China\'s viral term for the exhausting rat race where everyone works harder but nobody wins. From Tsinghua students biking with laptops to 996 culture — origin, meaning & examples.',
   },
   {
     slug: 'tang-ping',
@@ -68,6 +74,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Attitude & Lifestyle',
     era: '2021',
     formality: 'informal',
+    metaTitle: '躺平 (Tǎng Píng) — "Lying Flat": China\'s Anti-Hustle Movement',
+    metaDescription: '躺平 means "lying flat" — China\'s viral rejection of overwork culture. A factory worker quit, traveled on nothing, and inspired millions. How 躺平 became Gen Z\'s answer to 内卷 (involution). Meaning, origin & examples.',
   },
   {
     slug: 'bai-lan',
@@ -208,6 +216,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Social & Relationships',
     era: '2020s',
     formality: 'informal',
+    metaTitle: 'PUA in Chinese — Not "Pick-Up Artist" but Gaslighting & Manipulation',
+    metaDescription: 'In China, PUA doesn\'t mean Pick-Up Artist — it means psychological manipulation by bosses, partners, or anyone in power. Why this term went viral, how it\'s used at work and in dating, with real examples.',
   },
   {
     slug: 'i-ren-e-ren',
@@ -264,6 +274,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Emotions & Reactions',
     era: '2021',
     formality: 'very informal',
+    metaTitle: 'EMO Meaning in Chinese Slang — Not the Music Genre',
+    metaDescription: 'When Chinese people say "emo了" they don\'t mean the music genre — it means feeling temporarily sad or down. How "emo" became China\'s go-to word for a bad mood, with examples and when to use it.',
   },
   {
     slug: 'gao-qing-shang',
@@ -320,6 +332,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Internet Culture',
     era: '2019',
     formality: 'very informal',
+    metaTitle: 'CP Meaning in Chinese Chat — Couple, Shipping & 嗑CP Explained',
+    metaDescription: 'What does CP mean in Chinese online chat? Short for "couple" — used when fans ship two people (real or fictional) as a romantic pair. 嗑CP means obsessing over a ship. Used on Weibo, Douyin, anime forums & C-drama fandoms.',
   },
   {
     slug: 'da-call',
@@ -894,6 +908,8 @@ export const slangTerms: SlangTerm[] = [
     category: 'Internet Culture',
     era: '2010s',
     formality: 'very informal',
+    metaTitle: '666 Meaning in Chinese — Why Gamers Spam 666 in Chat',
+    metaDescription: 'Why do people spam 666 in gaming chats and livestreams? In Chinese, 6 (liù) sounds like 溜 (smooth/skilled). Typing 666 means "nice play!" or "awesome!" Origin from Chinese gaming culture, Bilibili & Twitch.',
   },
 ];
 

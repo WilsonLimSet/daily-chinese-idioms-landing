@@ -1198,5 +1198,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "내가 돼지를 잡아서 당신을 먹여 살릴게",
+    "context": "C-드라마 축옥(逐玉, 2026)의 가장 상징적인 대사. 도살업자의 딸 판창위가 남편 셰정에게 한 말. 중국 전통적 성역할을 뒤집는다. Douyin과 Weibo에서 여성 독립의 상징으로 바이럴.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

@@ -19,13 +19,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: 'Phrase Not Found' };
   }
 
+  // Clean pinyin for display (remove tone numbers)
+  const cleanPinyin = term.pinyin.replace(/[0-9]/g, '').trim();
+
   return {
-    title: `${term.characters} (${term.pinyin}) — Meaning & Usage | Chinese Phrases`,
-    description: `What does ${term.characters} mean? ${term.meaning} Learn when and how to use this common Chinese phrase with examples.`,
-    keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese phrases', `how to say ${term.meaning.toLowerCase()} in chinese`, term.category],
+    title: `${term.characters} — "${term.meaning}" in Chinese | How to Use It`,
+    description: `${term.characters} (${cleanPinyin}) means "${term.meaning}" — a ${term.difficulty}-level ${term.formality} phrase. ${term.context.substring(0, 100)} With pronunciation, examples & related phrases.`,
+    keywords: [`${term.characters} meaning`, `${cleanPinyin} meaning`, `${term.pinyin} meaning`, 'chinese phrases', `how to say ${term.meaning.toLowerCase()} in chinese`, `${term.characters} in english`, term.category],
     openGraph: {
-      title: `${term.characters} — ${term.meaning.substring(0, 60)}`,
-      description: `What does ${term.characters} mean? ${term.meaning}`,
+      title: `${term.characters} — "${term.meaning}" in Chinese`,
+      description: `${term.characters} (${cleanPinyin}): ${term.meaning}. ${term.context.substring(0, 100)}`,
       url: `https://www.chineseidioms.com/phrases/${slug}`,
       siteName: 'Chinese Idioms',
       locale: 'en_US',

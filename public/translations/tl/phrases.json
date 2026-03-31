@@ -1198,5 +1198,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Magkakatay ako ng baboy para buhayin kita",
+    "context": "Ang pinakakilalang linya mula sa C-drama na Pursuit of Jade (逐玉, 2026). Sinabi ni Fan Changyu — anak ng butcher — sa kanyang asawang si Xie Zheng. Binabaligtad ang tradisyonal na gender roles ng Tsina. Nag-viral sa Douyin at Weibo.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

@@ -20,9 +20,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   }
 
   return {
-    title: `${poem.titleChinese} (${poem.titlePinyin}) — ${poem.title} by ${poem.poet.name} | Chinese Poetry`,
-    description: `Read "${poem.titleChinese}" (${poem.title}) by ${poem.poet.name} (${poem.poet.nameChinese}). Original Chinese with pinyin, English translation, historical background, and literary analysis.`,
-    keywords: [`${poem.titleChinese}`, `${poem.title}`, `${poem.poet.name} poems`, `${poem.poet.nameChinese}`, 'chinese poetry translation', poem.theme],
+    title: `${poem.title} by ${poem.poet.name} — ${poem.titleChinese} | ${poem.poet.dynasty} Chinese Poetry`,
+    description: `"${poem.titleChinese}" (${poem.title}) by ${poem.poet.name} (${poem.poet.dynasty}). ${poem.background.substring(0, 120)} Original Chinese with pinyin & English translation.`,
+    keywords: [`${poem.titleChinese}`, `${poem.titlePinyin}`, `${poem.title}`, `${poem.poet.name} poems`, `${poem.poet.nameChinese}`, 'chinese poetry translation', `${poem.titleChinese} translation`, poem.theme],
     openGraph: {
       title: `${poem.titleChinese} — ${poem.title} by ${poem.poet.name}`,
       description: `${poem.translation.substring(0, 150)}...`,

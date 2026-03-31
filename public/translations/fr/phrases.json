@@ -1198,5 +1198,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Je tuerai des cochons pour subvenir à tes besoins",
+    "context": "La réplique la plus emblématique du C-drama Pursuit of Jade (逐玉, 2026). Prononcée par Fan Changyu, fille de boucher, à son mari Xie Zheng. Inverse la dynamique de genre traditionnelle chinoise. Devenue virale sur Douyin et Weibo.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

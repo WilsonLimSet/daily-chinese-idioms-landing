@@ -1208,5 +1208,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Em sẽ giết lợn nuôi anh",
+    "context": "Câu thoại mang tính biểu tượng nhất từ phim Trục Ngọc (逐玉, 2026). Được nói bởi Phạm Trường Ngọc — con gái người bán thịt — với chồng Tạ Chinh. Đảo ngược vai trò giới truyền thống Trung Quốc. Viral trên Douyin và Weibo.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

@@ -16,7 +16,7 @@ const OpenAI = require('openai');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-const CONCURRENCY = 5;
+const CONCURRENCY = parseInt(process.env.CONCURRENCY) || 10;
 
 const LANGUAGES = {
   'es': 'Spanish', 'pt': 'Brazilian Portuguese', 'id': 'Indonesian',

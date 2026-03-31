@@ -1164,6 +1164,21 @@ export const phraseTerms: PhraseTerm[] = [
     difficulty: 'beginner',
     formality: 'casual',
   },
+  // ===== C-Drama & Pop Culture =====
+  {
+    slug: 'wo-sha-zhu-yang-ni',
+    characters: '我杀猪养你',
+    pinyin: 'wǒ shā zhū yǎng nǐ',
+    meaning: 'I\'ll slaughter pigs to support you',
+    context: 'The most iconic line from the C-drama Pursuit of Jade (逐玉, 2026). Spoken by Fan Changyu — a butcher\'s daughter — to her husband Xie Zheng, it inverts the traditional Chinese gender dynamic where men provide. It went massively viral on Douyin and Weibo as a symbol of female independence and practical love. The line is both tender and subversive: she\'s not promising romantic words, she\'s promising food on the table.',
+    examples: [
+      '我杀猪养你啊。(I\'ll kill pigs to support you — from Pursuit of Jade)',
+      'Fans quote 我杀猪养你 as a new way to say "I\'ll take care of you" with a tough, practical twist.',
+    ],
+    category: 'Daily Life & Feelings',
+    difficulty: 'intermediate',
+    formality: 'casual',
+  },
 ];
 
 // Helper functions

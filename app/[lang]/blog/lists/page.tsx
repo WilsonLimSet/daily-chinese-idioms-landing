@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen } from 'lucide-react';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import ListicleFilter from '@/app/components/ListicleFilter';
@@ -19,15 +19,16 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = await params;
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
+  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
   const ogLocale = LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US';
 
   return {
-    title: `Chinese Idiom Lists - Curated Chengyu Collections (${langName})`,
-    description: `Browse curated lists of Chinese idioms (chengyu) organized by topic in ${langName}: business, love, friendship, success, motivation, and more.`,
-    keywords: ['chinese idiom lists', 'chengyu collections', 'chinese phrases by topic', 'learn chinese idioms', langName.toLowerCase()],
+    title: `250+ Chinese Idiom Lists — Love, Life, Success & More | ${nativeName}`,
+    description: `Explore 250+ curated Chinese idiom (成语) lists in ${nativeName}: love, patience, success, friendship, health, family & more. With pinyin, meanings, and example sentences.`,
+    keywords: ['chinese idiom lists', 'chengyu collections', 'chinese phrases by topic', 'learn chinese idioms', langName.toLowerCase(), nativeName.toLowerCase()],
     openGraph: {
-      title: `Chinese Idiom Lists - Curated Chengyu Collections (${langName})`,
-      description: `Explore curated lists of Chinese idioms organized by topic in ${langName}.`,
+      title: `250+ Chinese Idiom Lists by Topic | ${nativeName}`,
+      description: `Explore 250+ curated Chinese idiom lists in ${nativeName}: love, patience, success & more.`,
       url: `https://www.chineseidioms.com/${lang}/blog/lists`,
       siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),

@@ -1248,5 +1248,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "سأذبح الخنازير لأعيلك",
+    "context": "أشهر عبارة من المسلسل الصيني Pursuit of Jade (逐玉، 2026). قالتها فان تشانغيو — ابنة الجزار — لزوجها شيه تشنغ. تقلب الأدوار التقليدية بين الجنسين في الصين. انتشرت على Douyin و Weibo.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

@@ -7,12 +7,12 @@ import ListicleFilter from '@/app/components/ListicleFilter';
 import AdUnit from '@/app/components/AdUnit';
 
 export const metadata: Metadata = {
-  title: 'Chinese Idiom Lists - Curated Chengyu Collections by Topic',
-  description: 'Browse curated lists of Chinese idioms (chengyu) organized by topic: business, love, friendship, success, motivation, and more. Each list features carefully selected idioms with meanings and examples.',
-  keywords: ['chinese idiom lists', 'chengyu collections', 'chinese phrases by topic', 'learn chinese idioms', 'mandarin idiom guides'],
+  title: '250+ Chinese Idiom Lists by Topic — Love, Life, Success, Patience & More',
+  description: 'Explore 250+ curated Chinese idiom (成语) lists organized by topic: love, patience, success, friendship, health, family, hard work & more. Each list has pinyin, meanings, and example sentences.',
+  keywords: ['chinese idiom lists', 'chengyu collections', 'chinese phrases by topic', 'learn chinese idioms', 'chinese proverbs by topic', 'mandarin idiom guides'],
   openGraph: {
-    title: 'Chinese Idiom Lists - Curated Chengyu Collections',
-    description: 'Explore curated lists of Chinese idioms organized by topic. Perfect for learning idioms about business, love, friendship, success, and more.',
+    title: '250+ Chinese Idiom Lists by Topic',
+    description: 'Explore 250+ curated Chinese idiom lists: love, patience, success, friendship, health & more. With pinyin, meanings, and examples.',
     url: 'https://www.chineseidioms.com/blog/lists',
     siteName: 'Chinese Idioms',
     locale: 'en_US',

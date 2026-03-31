@@ -1218,5 +1218,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Mataré cerdos para mantenerte",
+    "context": "La frase más icónica del C-drama Pursuit of Jade (逐玉, 2026). Dicha por Fan Changyu, una hija de carnicero, a su esposo Xie Zheng. Invierte la dinámica de género tradicional china. Se volvió viral en Douyin y Weibo como símbolo de independencia femenina y amor práctico.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]

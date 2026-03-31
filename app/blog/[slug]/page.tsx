@@ -18,6 +18,15 @@ export async function generateStaticParams() {
   }));
 }
 
+// Custom meta overrides for high-traffic idioms with specific search intent
+const IDIOM_META_OVERRIDES: Record<string, { title: string; description: string; extraKeywords: string[] }> = {
+  'wu-ji-bi-fan': {
+    title: '物极必反 (wù jí bì fǎn) — "Extremes Lead to Reversal" | Karate Kid Quote Explained',
+    description: 'What does 物极必反 (wu ji bi fan) mean? "When things reach their extreme, they reverse." Made famous by Karate Kid — this 2000-year-old Chinese philosophy from the I Ching explains why nothing extreme lasts. Origin, meaning & examples.',
+    extraKeywords: ['wu ji bi fan karate kid', 'wujibifan', 'gu yi bi fan', 'wu yi bi fan', 'bu yi bi fan', 'wu ji bi fan meaning', 'wu ji bi fan significado', 'frase karate kid wu ji bi fan', '物极必反 英文', '物极必反 meaning'],
+  },
+};
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const post = await getBlogPost(slug);
@@ -34,14 +43,21 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   // Compute pinyin without tones for search matching (people search "ma dao cheng gong" not "mǎ dào chéng gōng")
   const pinyinNoTones = removeToneMarks(post.idiom.pinyin).toLowerCase();
 
-  // SEO title and description differ for article vs idiom posts
-  const title = isArticle
-    ? `${post.title} — Chinese Idioms`
-    : `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom`;
+  // Check for custom meta override
+  const override = IDIOM_META_OVERRIDES[slug];
 
-  const description = isArticle
+  // SEO title and description differ for article vs idiom posts
+  const title = override?.title || (isArticle
+    ? `${post.title} — Chinese Idioms`
+    : `${post.idiom.characters} (${pinyinNoTones}) — "${post.idiom.metaphoric_meaning}" | Meaning & Origin`);
+
+  const description = override?.description || (isArticle
     ? (post.idiom.description || post.title)
-    : `${post.idiom.characters} (${pinyinNoTones}) means "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Origin story, example sentences & cultural context explained.`;
+    : `What does ${post.idiom.characters} (${pinyinNoTones}) mean? "${post.idiom.metaphoric_meaning}" — literally "${post.idiom.meaning}". Learn the origin story, how to use it, and example sentences for this Chinese idiom (成语).`);
+
+  // Generate pinyin misspelling variants (no spaces, common errors)
+  const pinyinNoSpaces = pinyinNoTones.replace(/\s+/g, '');
+  const misspellingKeywords = pinyinNoSpaces !== pinyinNoTones ? [pinyinNoSpaces] : [];
 
   return {
     title,
@@ -57,7 +73,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       `${post.idiom.characters} 英文`,
       'chinese idiom',
       'chengyu',
-      post.idiom.theme.toLowerCase()
+      post.idiom.theme.toLowerCase(),
+      ...misspellingKeywords,
+      ...(override?.extraKeywords || []),
     ].join(', '),
     openGraph: {
       title,

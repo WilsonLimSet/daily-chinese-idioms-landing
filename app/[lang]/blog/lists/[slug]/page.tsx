@@ -9,7 +9,7 @@ import {
   getRelatedListiclesTranslated,
   TranslatedListicle
 } from '@/src/lib/listicles';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -42,6 +42,7 @@ export async function generateMetadata({
   }
 
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
+  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
   const ogLocale = LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US';
 
   // Get original slug for cross-language linking
@@ -58,7 +59,7 @@ export async function generateMetadata({
   }
 
   return {
-    title: `${listicle.title} | Chinese Idioms Guide (${langName})`,
+    title: `${listicle.title} | ${nativeName}`,
     description: listicle.metaDescription,
     keywords: listicle.keywords.join(', '),
     openGraph: {

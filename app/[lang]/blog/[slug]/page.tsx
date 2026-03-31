@@ -75,7 +75,7 @@ export async function generateMetadata({
   // SEO title and description differ for article vs idiom posts
   const title = isArticle
     ? `${post.title} | ${nativeName}`
-    : `${post.idiom.characters} (${pinyinNoTones}): ${post.idiom.metaphoric_meaning} — Chinese Idiom | ${nativeName}`;
+    : `${post.idiom.characters} (${pinyinNoTones}) — "${post.idiom.metaphoric_meaning}" | ${nativeName}`;
 
   const description = isArticle
     ? (post.idiom.description || post.title)
@@ -88,6 +88,7 @@ export async function generateMetadata({
       post.idiom.characters,
       post.idiom.pinyin,
       pinyinNoTones,
+      pinyinNoTones.replace(/\s+/g, ''),
       `${pinyinNoTones} meaning`,
       `${post.idiom.characters} ${meaningWord}`,
       `${post.idiom.characters} meaning`,

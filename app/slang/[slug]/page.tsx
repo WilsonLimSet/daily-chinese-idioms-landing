@@ -19,13 +19,20 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: 'Slang Not Found' };
   }
 
+  // Avoid redundant pinyin when it matches characters (e.g., PUA)
+  const pinyinSuffix = term.pinyin !== term.characters ? ` (${term.pinyin})` : '';
+
+  // Use custom meta if available, otherwise fall back to template
+  const title = term.metaTitle || `${term.characters}${pinyinSuffix} — ${term.meaning.substring(0, 50)} | Chinese Slang Explained`;
+  const description = term.metaDescription || `What does ${term.characters} mean in Chinese? ${term.meaning.substring(0, 120)} Real examples, origin story & why this slang is everywhere on Chinese social media.`;
+
   return {
-    title: `${term.characters} Meaning — What Does ${term.characters} Mean in Chinese? | Slang Explained`,
-    description: `${term.characters} (${term.pinyin}) means: ${term.meaning} See real examples, origin story, and why this term is everywhere on Chinese social media.`,
-    keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese internet slang', `what does ${term.characters} mean`, term.category],
+    title,
+    description,
+    keywords: [`${term.characters} meaning`, `${term.pinyin} meaning`, 'chinese internet slang', `what does ${term.characters} mean`, `${term.characters} chinese`, term.category],
     openGraph: {
-      title: `${term.characters} Meaning — ${term.meaning.substring(0, 60)}`,
-      description: `${term.characters} (${term.pinyin}) means: ${term.meaning}`,
+      title: term.metaTitle || `${term.characters}${pinyinSuffix} — ${term.meaning.substring(0, 60)}`,
+      description: term.metaDescription || `What does ${term.characters} mean? ${term.meaning.substring(0, 120)}`,
       url: `https://www.chineseidioms.com/slang/${slug}`,
       siteName: 'Chinese Idioms',
       locale: 'en_US',

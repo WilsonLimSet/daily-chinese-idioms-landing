@@ -1198,5 +1198,19 @@
     "category": "Daily Life & Feelings",
     "difficulty": "beginner",
     "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Я буду забивать свиней, чтобы тебя прокормить",
+    "context": "Самая культовая фраза из китайской дорамы «Погоня за нефритом» (逐玉, 2026). Сказана Фань Чанъюй — дочерью мясника — своему мужу Се Чжэну. Переворачивает традиционные гендерные роли в Китае. Стала вирусной на Douyin и Weibo.",
+    "examples": [
+      "我杀猪养你啊。(I'll kill pigs to support you — from Pursuit of Jade)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
   }
 ]
