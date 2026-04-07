@@ -9,6 +9,22 @@
         }
       ],
       "destination": "https://www.chineseidioms.com/ads.txt"
+    },
+    {
+      "source": "/:lang(ar|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/blog/lists/:slug*",
+      "destination": "/:lang/blog/lists"
+    },
+    {
+      "source": "/blog/lists/:slug*",
+      "destination": "/blog/lists"
+    },
+    {
+      "source": "/:lang(ar|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/blog/:slug*",
+      "destination": "/:lang/blog"
+    },
+    {
+      "source": "/blog/:slug*",
+      "destination": "/blog"
     }
   ],
   "redirects": [
@@ -4544,11 +4560,6 @@
       "permanent": true
     },
     {
-      "source": "/ru/blog/lists/kitajskie-idiomy-o-udivlenii-i-shoke",
-      "destination": "/ru/blog/lists",
-      "permanent": true
-    },
-    {
       "source": "/ru/blog/lists/kitayskiye-idiomy-o-lune",
       "destination": "/ru/blog/lists",
       "permanent": true
@@ -5136,6 +5147,71 @@
     {
       "source": "/th/blog/lists/sam-nuan-jin-sam-rap-instagram",
       "destination": "/th/blog/lists",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/kitajskie-idiomy-anglijskij-perevod",
+      "destination": "/ru/blog/lists/kitayskiye-idiomy-angliyskiye-perevody",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/kitayskiye-idiomy-dlya-novogo-goda",
+      "destination": "/ru/blog/lists/kitayskie-idiomy-na-novyj-god",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/pozdravleniya-s-kitayskim-novym-godom-dlya-studentov",
+      "destination": "/ru/blog/lists/kitayskiy-novyy-god-pojelaniya-dlya-studentov",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/kitaiskie-idiomy-dlya-nachinayushchikh",
+      "destination": "/ru/blog/lists/kitayskie-idiomy-dlya-nachinayushchih",
+      "permanent": true
+    },
+    {
+      "source": "/ru/blog/lists/kitayskie-idiomy-dlya-nachinayushchikh",
+      "destination": "/ru/blog/lists/kitayskie-idiomy-dlya-nachinayushchih",
+      "permanent": true
+    },
+    {
+      "source": "/vi/blog/lists/thanh-ngu-tet-nguyen-dan-cho-tre-em",
+      "destination": "/vi/blog/lists/thanh-ngu-tet-nguyen-dan-de-day-tre-em",
+      "permanent": true
+    },
+    {
+      "source": "/vi/blog/lists/thanh-ngu-chuc-mung-tan-gia",
+      "destination": "/vi/blog/lists/chinese-idioms-for-housewarming",
+      "permanent": true
+    },
+    {
+      "source": "/vi/blog/lists/thanh-ngu-nam-con-ngua-2026",
+      "destination": "/vi/blog/lists/thanh-ngu-nam-ngua-2026",
+      "permanent": true
+    },
+    {
+      "source": "/vi/blog/lists/thanh-ngu-tieng-trung-ve-mat-trang",
+      "destination": "/vi/blog/lists/thanh-ngu-tieng-trung-trung-thu-doan-vien-mat-trang",
+      "permanent": true
+    },
+    {
+      "source": "/vi/blog/lists/thanh-ngu-tieng-trung-ve-tinh-yeu-tu-cai-nhin-dau-tien",
+      "destination": "/vi/blog/lists/thanh-ngu-tieng-trung-ve-tinh-yeu",
+      "permanent": true
+    },
+    {
+      "source": "/pt/blog/lists/modismos-chineses-para-professores",
+      "destination": "/pt/blog/lists/modismos-chineses-para-o-dia-dos-professores",
+      "permanent": true
+    },
+    {
+      "source": "/tl/blog/lists/idyoma-ng-tsino-tungkol-sa-oras",
+      "destination": "/tl/blog/lists/idioma-ng-tsino-tungkol-sa-oras",
+      "permanent": true
+    },
+    {
+      "source": "/tl/blog/lists/idyoma-ng-tsino-kumpara-sa-proverbs-ng-korea",
+      "destination": "/tl/blog/lists/idyoma-ng-tsino-kumpara-sa-kotowaza-ng-hapon",
       "permanent": true
     }
   ],
