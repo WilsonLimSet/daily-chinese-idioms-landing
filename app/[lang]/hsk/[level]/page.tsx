@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
 import { HSK_LEVEL_DESCRIPTIONS, HSK_EXAM_INFO, HSK_LISTICLES, getTranslatedHSKByLevel } from '@/src/lib/hsk';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -25,16 +25,18 @@ export async function generateMetadata({ params }: { params: Promise<{ level: st
   const levelNum = parseInt(level);
   const info = HSK_LEVEL_DESCRIPTIONS[levelNum];
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES] || 'English';
+  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
   const ogLocale = LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US';
+  const t = (key: string) => getTranslation(lang, key as keyof typeof import('@/src/lib/translations').translations.en);
 
   if (!info) {
     return { title: 'Level Not Found' };
   }
 
   return {
-    title: `HSK ${level} Vocabulary List — ${info.wordCount} (${info.cefrLevel}) | ${langName}`,
-    description: `HSK ${level} (${info.cefrLevel}) complete vocabulary list: ${info.wordCount}. ${info.description} Study guide in ${langName}.`,
-    keywords: [`HSK ${level}`, `HSK ${level} vocabulary`, `HSK level ${level}`, `HSK ${level} word list`, info.cefrLevel, langName.toLowerCase()],
+    title: `HSK ${level} ${t('hskMetaVocabList')} — ${info.wordCount} (${info.cefrLevel}) | ${nativeName}`,
+    description: `HSK ${level} (${info.cefrLevel}) ${t('hskMetaCompleteList')}: ${info.wordCount}. ${info.description} ${t('hskMetaStudyGuide')} ${nativeName}.`,
+    keywords: [`HSK ${level}`, `HSK ${level} ${t('hskMetaVocabList').toLowerCase()}`, `HSK level ${level}`, info.cefrLevel, langName.toLowerCase()],
     openGraph: {
       title: `${getTranslation(lang, 'hskLevel')} ${level}`,
       description: info.description,

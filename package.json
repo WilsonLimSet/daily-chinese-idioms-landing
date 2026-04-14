@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "node scripts/generate-rss.js && next build && node scripts/post-build-english-slugs.js",
+    "build": "node scripts/generate-rss.js && next build && node scripts/post-build-english-slugs.js && node scripts/post-build-html-lang.js",
     "start": "next start",
     "lint": "next lint"
   },

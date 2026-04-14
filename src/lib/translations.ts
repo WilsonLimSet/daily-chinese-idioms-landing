@@ -170,6 +170,9 @@ export const translations = {
     hskQuestions: "questions",
     hskPass: "Pass",
     hskVocabulary: "Vocabulary",
+    hskMetaVocabList: "Vocabulary List",
+    hskMetaCompleteList: "complete vocabulary list",
+    hskMetaStudyGuide: "Study guide in",
 
     // Poems section
     poemsTitle: "Classical Chinese Poems",
@@ -1718,6 +1721,9 @@ export const translations = {
     hskQuestions: "Fragen",
     hskPass: "Bestanden",
     hskVocabulary: "Vokabular",
+    hskMetaVocabList: "Vokabelliste",
+    hskMetaCompleteList: "vollständige Vokabelliste",
+    hskMetaStudyGuide: "Lernhandbuch auf",
 
     // Poems section
     poemsTitle: "Klassische chinesische Gedichte",
