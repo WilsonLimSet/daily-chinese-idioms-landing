@@ -105,6 +105,15 @@ export default async function sitemap(props: {
       })),
     ];
 
+    const proverbsHub: MetadataRoute.Sitemap = [
+      {
+        url: `${baseUrl}/proverbs`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.9,
+      },
+    ];
+
     // Slang pages
     const slangTerms = getAllSlangTerms();
     const slangPages: MetadataRoute.Sitemap = [
@@ -223,7 +232,7 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages, ...comparePages];
+    return [...staticPages, ...blogPosts, ...themePages, ...proverbsHub, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages, ...comparePages];
   }
 
   // Sitemap 1: English listicles
@@ -287,6 +296,14 @@ export default async function sitemap(props: {
       priority: 0.8,
     });
   }
+
+  // Language proverbs hub
+  entries.push({
+    url: `${baseUrl}/${lang}/proverbs`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.85,
+  });
 
   // Language blog posts
   try {

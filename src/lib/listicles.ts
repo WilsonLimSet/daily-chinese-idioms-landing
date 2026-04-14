@@ -14,6 +14,7 @@ export type Listicle = {
   idiomIds: string[];
   category: string;
   publishedDate: string;
+  isProverb?: boolean;
 };
 
 export type TranslatedListicle = Listicle & {
@@ -1045,6 +1046,7 @@ export const listicles: Listicle[] = [
   // === NEW LISTICLES: High-Value Themes ===
   {
     slug: 'chinese-idioms-about-wisdom',
+    isProverb: true,
     title: '10 Chinese Idioms About Wisdom & Intelligence',
     description: 'Profound Chinese idioms about wisdom, cleverness, and intellectual insight - ancient Chinese perspectives on intelligence.',
     metaDescription: 'Learn 10 profound Chinese idioms about wisdom and intelligence. These chengyu express cleverness and insight in Mandarin.',
@@ -1124,6 +1126,7 @@ export const listicles: Listicle[] = [
   // === NEW LISTICLES: AI-Query Targeted ===
   {
     slug: 'chinese-proverbs-english-equivalents',
+    isProverb: true,
     title: '12 Chinese Idioms With English Proverb Equivalents',
     description: 'Chinese idioms that have similar meanings to famous English proverbs - bridge two languages through shared wisdom.',
     metaDescription: 'Learn 12 Chinese idioms with English proverb equivalents. These chengyu match familiar Western sayings in Mandarin.',
@@ -2102,6 +2105,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-idioms-vs-korean-proverbs',
+    isProverb: true,
     title: '10 Chinese Idioms & Their Korean Proverb Equivalents',
     description: 'Discover the connections between Chinese chengyu and Korean sajaseong-eo - shared East Asian proverbial wisdom.',
     metaDescription: 'Compare 10 Chinese idioms with Korean equivalents. These chengyu and sajaseong-eo reveal shared cultural wisdom.',
@@ -2300,6 +2304,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-idioms-about-old-age-wisdom',
+    isProverb: true,
     title: '10 Chinese Idioms About Old Age & Elder Wisdom',
     description: 'Respectful Chinese idioms about aging, elder wisdom, and the treasure of experience that comes with years.',
     metaDescription: 'Honor elders with 10 Chinese idioms about old age wisdom. These respectful chengyu celebrate the value of experience in Mandarin.',
@@ -2344,6 +2349,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'ancient-chinese-proverbs-about-life',
+    isProverb: true,
     title: '15 Ancient Chinese Proverbs About Life (2000+ Years of Wisdom)',
     description: 'Timeless Chinese proverbs about life, fate, and finding balance. These ancient sayings offer wisdom that resonates just as powerfully today.',
     metaDescription: 'These 15 Chinese proverbs about life have survived 2000+ years because they\'re still true. Timeless wisdom on balance, fate, and what makes a life well-lived. With pinyin.',
@@ -2355,6 +2361,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'best-chinese-proverbs-with-meanings',
+    isProverb: true,
     title: '12 Most Famous Chinese Proverbs — Meanings & Origins Explained',
     description: 'The most famous Chinese proverbs with full meanings explained. Each proverb includes literal translation, metaphorical meaning, and cultural context.',
     metaDescription: 'The 12 most famous Chinese proverbs, fully explained. Each one includes the literal meaning, the real meaning, the origin story, and when Chinese people actually use it.',
@@ -2366,6 +2373,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-proverbs-about-strength',
+    isProverb: true,
     title: '10 Chinese Proverbs About Strength That Will Give You Chills',
     description: 'Powerful Chinese proverbs about inner strength, resilience, and the courage to overcome any obstacle life throws your way.',
     metaDescription: '"A blade is sharpened on a whetstone; a person is refined through hardship." 10 Chinese proverbs about strength and resilience — with pinyin, meanings, and origin stories.',
@@ -2377,6 +2385,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-proverbs-about-family',
+    isProverb: true,
     title: '10 Chinese Proverbs About Family & Filial Piety',
     description: 'Heartfelt Chinese proverbs about family bonds, filial piety, and the deep respect for parents and elders in Chinese culture.',
     metaDescription: 'Honor family with 10 Chinese proverbs about filial piety and family bonds. These sayings capture the deep respect for family in Chinese tradition.',
@@ -2388,6 +2397,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-proverbs-for-students',
+    isProverb: true,
     title: '10 Chinese Proverbs for Students & Lifelong Learners',
     description: 'Inspiring Chinese proverbs about education, study habits, and the pursuit of knowledge for students of all ages.',
     metaDescription: 'Stay motivated with 10 Chinese proverbs for students. These ancient sayings about education and learning inspire dedication to knowledge.',
@@ -2399,6 +2409,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-sayings-about-love',
+    isProverb: true,
     title: '10 Chinese Sayings About Love — "Comparing Necks to Fly Together"',
     description: 'Romantic Chinese sayings about love, devotion, and eternal bonds. These poetic expressions capture the depth of love in Chinese culture.',
     metaDescription: 'Forget 我爱你 — Chinese has far more poetic ways to say "I love you." These 10 love sayings (with pinyin) range from childhood sweethearts to promises that outlast the stars.',
@@ -2410,6 +2421,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-sayings-about-success',
+    isProverb: true,
     title: '10 Chinese Sayings About Success — "Heaven Rewards the Diligent"',
     description: 'Motivating Chinese sayings about success, hard work, and the dedication it takes to achieve your goals.',
     metaDescription: '"Heaven rewards the diligent" (天道酬勤) — 10 Chinese sayings about success that reveal why effort always beats talent. With pinyin, literal meanings, and the stories behind each one.',
@@ -2421,6 +2433,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-sayings-about-friendship',
+    isProverb: true,
     title: '10 Chinese Sayings About Friendship & Loyalty',
     description: 'Meaningful Chinese sayings about true friendship, loyalty, and the bonds that stand the test of time.',
     metaDescription: 'Celebrate bonds with 10 Chinese sayings about friendship and loyalty. These expressions honor true friendship and unwavering trust.',
@@ -2432,6 +2445,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-sayings-about-patience',
+    isProverb: true,
     title: '10 Chinese Sayings About Patience — "Water Drops Pierce Stone"',
     description: 'Wise Chinese sayings about patience, perseverance, and the power of steady, persistent effort over time.',
     metaDescription: '"Water drops can pierce stone" (水滴石穿) — 10 Chinese sayings about patience that have guided people for centuries. Each with pinyin, literal meaning, and real-life usage.',
@@ -2443,6 +2457,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-sayings-about-change',
+    isProverb: true,
     title: '10 Chinese Sayings About Change & New Beginnings',
     description: 'Uplifting Chinese sayings about change, transformation, and embracing new beginnings with courage and optimism.',
     metaDescription: 'Embrace change with 10 Chinese sayings about new beginnings. These uplifting expressions inspire courage during life\'s biggest transitions.',
@@ -2454,6 +2469,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-quotes-for-motivation',
+    isProverb: true,
     title: '12 Chinese Motivational Quotes That Hit Different (With Pinyin)',
     description: 'Powerful Chinese quotes to fuel your daily motivation. These concise four-character expressions pack a punch of encouragement and drive.',
     metaDescription: '"A single spark can start a prairie fire" (星星之火) — 12 Chinese motivational quotes that pack centuries of wisdom into four characters. With pinyin, meanings & origin stories.',
@@ -2465,6 +2481,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'ancient-chinese-wisdom-quotes',
+    isProverb: true,
     title: '15 Ancient Chinese Wisdom Quotes — From Confucius to Laozi',
     description: 'Profound ancient Chinese wisdom quotes from Confucian, Taoist, and classical traditions. Timeless life guidance in just four characters each.',
     metaDescription: 'From Confucius to Laozi — 15 ancient Chinese wisdom quotes (2000+ years old) that are still shockingly relevant. Each with pinyin, literal meaning, origin story & why it still matters.',
@@ -2476,6 +2493,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-quotes-about-happiness',
+    isProverb: true,
     title: '10 Chinese Quotes About Happiness — Ancient Wisdom for Inner Peace',
     description: 'Serene Chinese quotes about happiness, contentment, and finding inner peace. Ancient wisdom for a calmer, more fulfilled life.',
     metaDescription: 'What did ancient Chinese philosophers say about happiness? These 10 quotes reveal a surprising secret to inner peace — and it\'s not what Western self-help teaches. With pinyin.',
@@ -2487,6 +2505,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'inspirational-chinese-quotes',
+    isProverb: true,
     title: '12 Inspirational Chinese Quotes That Will Change Your Perspective',
     description: 'Inspirational Chinese quotes that shift your perspective on success, failure, and what truly matters in life.',
     metaDescription: 'Change your perspective with 12 inspirational Chinese quotes. These powerful expressions offer fresh insight on success, failure, and life.',
@@ -2498,6 +2517,7 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-philosophy-quotes-life-lessons',
+    isProverb: true,
     title: '10 Chinese Philosophy Quotes & Life Lessons',
     description: 'Deep Chinese philosophy quotes that teach essential life lessons about consequences, timing, and the wisdom of knowing when to act.',
     metaDescription: 'Learn life lessons from 10 Chinese philosophy quotes. Deep wisdom about consequences, timing, and self-awareness from Chinese tradition.',
@@ -3251,4 +3271,77 @@ export function getListicleWithIdiomsTranslated(slug: string, lang?: string) {
     ...listicle,
     idioms: idiomsWithSlugs
   };
+}
+
+// ---- Proverb hub helpers ----
+
+export type ProverbGroupKey =
+  | 'life-wisdom'
+  | 'love-relationships'
+  | 'success-motivation'
+  | 'strength-character'
+  | 'study-learning'
+  | 'reference';
+
+export const PROVERB_GROUPS: Record<ProverbGroupKey, string[]> = {
+  'life-wisdom': [
+    'ancient-chinese-proverbs-about-life',
+    'ancient-chinese-wisdom-quotes',
+    'chinese-philosophy-quotes-life-lessons',
+    'chinese-idioms-about-wisdom',
+    'chinese-idioms-about-old-age-wisdom',
+  ],
+  'love-relationships': [
+    'chinese-sayings-about-love',
+    'chinese-proverbs-about-family',
+    'chinese-sayings-about-friendship',
+  ],
+  'success-motivation': [
+    'chinese-sayings-about-success',
+    'chinese-quotes-for-motivation',
+    'inspirational-chinese-quotes',
+    'chinese-quotes-about-happiness',
+  ],
+  'strength-character': [
+    'chinese-proverbs-about-strength',
+    'chinese-sayings-about-patience',
+    'chinese-sayings-about-change',
+  ],
+  'study-learning': [
+    'chinese-proverbs-for-students',
+  ],
+  'reference': [
+    'chinese-proverbs-english-equivalents',
+    'chinese-idioms-vs-korean-proverbs',
+    'best-chinese-proverbs-with-meanings',
+  ],
+};
+
+export function getProverbListicles(): Listicle[] {
+  return listicles.filter(l => l.isProverb);
+}
+
+export function getProverbListiclesTranslated(lang?: string): (Listicle | TranslatedListicle)[] {
+  if (!lang || lang === 'en') return getProverbListicles();
+  const translated = loadTranslatedListicles(lang);
+  const proverbOriginalSlugs = new Set(getProverbListicles().map(l => l.slug));
+  return translated.filter(l => proverbOriginalSlugs.has(l.originalSlug));
+}
+
+// Returns proverb listicles grouped by theme, preserving the order declared in PROVERB_GROUPS.
+// For non-English, resolves each English slug to its localized equivalent.
+export function getProverbListiclesGrouped(lang?: string): Array<{
+  key: ProverbGroupKey;
+  listicles: (Listicle | TranslatedListicle)[];
+}> {
+  const pool = getProverbListiclesTranslated(lang);
+  const bySlug = new Map<string, (Listicle | TranslatedListicle)>();
+  for (const l of pool) {
+    const original = (l as TranslatedListicle).originalSlug || l.slug;
+    bySlug.set(original, l);
+  }
+  return (Object.keys(PROVERB_GROUPS) as ProverbGroupKey[]).map(key => ({
+    key,
+    listicles: PROVERB_GROUPS[key].map(s => bySlug.get(s)).filter(Boolean) as (Listicle | TranslatedListicle)[],
+  }));
 }
