@@ -1,0 +1,1217 @@
+[
+  {
+    "slug": "mai-dan",
+    "originalSlug": "mai-dan",
+    "characters": "买单",
+    "pinyin": "mǎi dān",
+    "meaning": "Die Rechnung bitte / die Rechnung bezahlen",
+    "context": "Wird am Ende einer Mahlzeit verwendet, um zu signalisieren, dass man bezahlen möchte. Einfach die Hand heben und dies zum Kellner sagen. In einigen Regionen wird stattdessen 结账 (jié zhàng) verwendet.",
+    "examples": [
+      "服务员，买单！(Kellner, die Rechnung bitte!)",
+      "Can we 买单? We're ready to go. (Können wir die Rechnung bitte bezahlen? Wir sind bereit zu gehen.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-bao",
+    "originalSlug": "da-bao",
+    "characters": "打包",
+    "pinyin": "dǎ bāo",
+    "meaning": "Zum Mitnehmen / Hundetasche / einpacken",
+    "context": "Wird verwendet, wenn man übrig gebliebenes Essen hat und es mit nach Hause nehmen möchte. Sehr verbreitet und wird in China überhaupt nicht als unhöflich angesehen – Essen zu verschwenden ist schlimmer.",
+    "examples": [
+      "这个菜打包吧。(Lass uns dieses Gericht einpacken.)",
+      "可以打包吗？(Kann ich das zum Mitnehmen bekommen?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-yao-la",
+    "originalSlug": "bu-yao-la",
+    "characters": "不要辣",
+    "pinyin": "bù yào là",
+    "meaning": "Keine Gewürze / nicht scharf bitte",
+    "context": "Wichtige Überlebensphrase in Sichuan, Hunan und anderen gewürzreichen Regionen. Variationen: 少辣 (shǎo là, weniger scharf), 微辣 (wēi là, mild), 中辣 (zhōng là, mittel).",
+    "examples": [
+      "不要辣，谢谢。(Keine Gewürze, danke.)",
+      "我不能吃辣，少辣可以吗？(Ich kann kein scharfes Essen essen, können Sie es weniger scharf machen?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-shen-me-tui-jian",
+    "originalSlug": "you-shen-me-tui-jian",
+    "characters": "有什么推荐",
+    "pinyin": "yǒu shén me tuī jiàn",
+    "meaning": "Was empfehlen Sie?",
+    "context": "Eine großartige Möglichkeit, lokale Spezialitäten zu entdecken. Das Restaurantpersonal empfiehlt normalerweise gerne ihre Spezialitäten. Kann auch in Geschäften oder Cafés verwendet werden.",
+    "examples": [
+      "你们这儿有什么推荐？(Was empfehlen Sie hier?)",
+      "第一次来，有什么推荐的菜？(Ich bin zum ersten Mal hier, gibt es Gerichte, die Sie empfehlen können?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-chi-su",
+    "originalSlug": "wo-chi-su",
+    "characters": "我吃素",
+    "pinyin": "wǒ chī sù",
+    "meaning": "Ich bin Vegetarier / Ich esse vegetarisches Essen",
+    "context": "Wichtig für Vegetarier beim Essen gehen. Beachten Sie, dass \"vegetarisch\" in China möglicherweise immer noch Eier und Milchprodukte umfasst. Für vegan sagen Sie 我是纯素 (wǒ shì chún sù).",
+    "examples": [
+      "我吃素，有素菜吗？(Ich bin Vegetarier, haben Sie Gemüsegerichte?)",
+      "这个里面有肉吗？我吃素。(Hat das Fleisch? Ich bin Vegetarier.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gan-bei",
+    "originalSlug": "gan-bei",
+    "characters": "干杯",
+    "pinyin": "gān bēi",
+    "meaning": "Prost! / Auf ex!",
+    "context": "Wörtlich \"trockene Tasse\" – bedeutet, Ihr Getränk auf einmal zu leeren. Bei formellen Abendessen hören Sie das möglicherweise oft. Sie können auch 随意 (suí yì, trinken Sie in Ihrem eigenen Tempo) sagen, wenn Sie nicht mithalten können.",
+    "examples": [
+      "为我们的友谊干杯！(Prost auf unsere Freundschaft!)",
+      "来，干杯！(Komm schon, auf ex!)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-lai-yi-ge",
+    "originalSlug": "zai-lai-yi-ge",
+    "characters": "再来一个",
+    "pinyin": "zài lái yī gè",
+    "meaning": "Noch eins / noch einen bitte",
+    "context": "Wird verwendet, um ein weiteres Gericht, Getränk oder Portion zu bestellen. Funktioniert in Restaurants, Bars und Straßenständen.",
+    "examples": [
+      "这个很好吃，再来一个！(Das ist lecker, noch eins bitte!)",
+      "啤酒再来一个。(Noch ein Bier bitte.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "chi-bao-le",
+    "originalSlug": "chi-bao-le",
+    "characters": "吃饱了",
+    "pinyin": "chī bǎo le",
+    "meaning": "Ich bin satt / Ich habe genug gegessen",
+    "context": "Höfliche Art, mehr Essen abzulehnen. In der chinesischen Kultur bieten Gastgeber weiterhin Essen an. 吃饱了 zu sagen zeigt Wertschätzung und signalisiert, dass man genug hat.",
+    "examples": [
+      "谢谢，我吃饱了。(Danke, ich bin satt.)",
+      "真的吃饱了，不用再加了。(Ich bin wirklich satt, es ist nicht nötig, mehr hinzuzufügen.)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "aa-zhi",
+    "originalSlug": "aa-zhi",
+    "characters": "AA制",
+    "pinyin": "AA zhì",
+    "meaning": "Die Rechnung teilen / getrennt zahlen",
+    "context": "Häufig unter Freunden und jüngeren Menschen. In der traditionellen chinesischen Kultur zahlt normalerweise eine Person für den ganzen Tisch, aber AA制 wird besonders unter Millennials immer akzeptierter.",
+    "examples": [
+      "今天AA制吧。(Lass uns die Rechnung heute teilen.)",
+      "我们AA还是你请？(Teilen wir oder zahlst du?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhe-ge-zen-me-chi",
+    "originalSlug": "zhe-ge-zen-me-chi",
+    "characters": "这个怎么吃",
+    "pinyin": "zhè ge zěn me chī",
+    "meaning": "Wie isst man das?",
+    "context": "Nützlich, wenn man mit unbekannten chinesischen Gerichten wie Hotpot, Pekingente-Wraps oder xiaolongbao konfrontiert ist. Niemand wird Sie dafür verurteilen, dass Sie fragen – es zeigt echtes Interesse.",
+    "examples": [
+      "这个怎么吃？要蘸酱吗？(Wie isst man das? Soll ich es in die Sauce dippen?)",
+      "小笼包怎么吃才不会烫？(Wie isst man xiaolongbao, ohne sich zu verbrennen?)"
+    ],
+    "category": "Restaurant & Food",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "tai-gui-le",
+    "originalSlug": "tai-gui-le",
+    "characters": "太贵了",
+    "pinyin": "tài guì le",
+    "meaning": "Zu teuer!",
+    "context": "Der essentielle Satz für das Feilschen auf Märkten. Sagen Sie dies mit einem leicht schmerzhaften Ausdruck für maximale Wirkung. Funktioniert auf Märkten, in kleinen Geschäften und bei Straßenverkäufern – nicht in Einkaufszentren oder Kettenläden.",
+    "examples": [
+      "太贵了，便宜点吧！(Zu teuer, mach es günstiger!)",
+      "这个太贵了，我再看看。(Das ist zu teuer, ich schaue mich noch um.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "pian-yi-dian",
+    "originalSlug": "pian-yi-dian",
+    "characters": "便宜点",
+    "pinyin": "pián yi diǎn",
+    "meaning": "Ein bisschen günstiger bitte / geben Sie mir einen Rabatt",
+    "context": "Die Fortsetzung von 太贵了. Eine höfliche Möglichkeit, Verhandlungen zu beginnen. Kann mit Gründen kombiniert werden, wie den Kauf mehrerer Artikel oder ein Stammkunde zu sein.",
+    "examples": [
+      "老板，便宜点嘛！(Chef, gib mir einen besseren Preis!)",
+      "买两个能便宜点吗？(Kann es günstiger sein, wenn ich zwei kaufe?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "ke-yi-shi-shi-ma",
+    "originalSlug": "ke-yi-shi-shi-ma",
+    "characters": "可以试试吗",
+    "pinyin": "kě yǐ shì shì ma",
+    "meaning": "Kann ich es anprobieren / Kann ich es probieren?",
+    "context": "Verwendet in Bekleidungsgeschäften, Schuhgeschäften oder beim Probieren von Lebensmitteln. Die meisten Geschäfte lassen Sie Dinge anprobieren, obwohl einige Marktstände dies möglicherweise nicht tun.",
+    "examples": [
+      "这件衣服可以试试吗？(Kann ich dieses Kleidungsstück anprobieren?)",
+      "这个口味可以试试吗？(Kann ich diesen Geschmack probieren?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-mei-you-bie-de-yan-se",
+    "originalSlug": "you-mei-you-bie-de-yan-se",
+    "characters": "有没有别的颜色",
+    "pinyin": "yǒu méi yǒu bié de yán sè",
+    "meaning": "Haben Sie andere Farben?",
+    "context": "Nützlich beim Einkaufen von Kleidung, Accessoires oder Haushaltsgegenständen. Sie können 颜色 durch 尺码 (chǐ mǎ, Größe) oder 款式 (kuǎn shì, Stil) ersetzen.",
+    "examples": [
+      "这个有没有别的颜色？(Gibt es das in anderen Farben?)",
+      "有没有大一号的？(Haben Sie eine Nummer größer?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shua-ka-hai-shi-xian-jin",
+    "originalSlug": "shua-ka-hai-shi-xian-jin",
+    "characters": "刷卡还是现金",
+    "pinyin": "shuā kǎ hái shì xiàn jīn",
+    "meaning": "Karte oder Bargeld?",
+    "context": "Das hören Sie an der Kasse. Heutzutage akzeptieren die meisten Orte auch WeChat Pay und Alipay. Sie könnten auch hören: 微信还是支付宝 (WeChat oder Alipay?).",
+    "examples": [
+      "刷卡还是现金？——微信支付可以吗？(Karte oder Bargeld?——Kann ich WeChat Pay verwenden?)",
+      "可以刷卡吗？(Kann ich mit Karte bezahlen?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "da-zhe",
+    "originalSlug": "da-zhe",
+    "characters": "打折",
+    "pinyin": "dǎ zhé",
+    "meaning": "Rabatt / im Angebot",
+    "context": "In China werden Rabatte als Bruchteil des zu zahlenden Betrags ausgedrückt: 打八折 bedeutet 80% des Preises (20% Rabatt), 打五折 bedeutet 50% Rabatt. Dies ist das Gegenteil von der Funktionsweise von Rabatten im Englischen.",
+    "examples": [
+      "现在打折吗？(Gibt es jetzt einen Rabatt?)",
+      "这个打几折？(Wie hoch ist der Rabatt auf dieses?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jia-de-ba",
+    "originalSlug": "jia-de-ba",
+    "characters": "假的吧",
+    "pinyin": "jiǎ de ba",
+    "meaning": "Ist das gefälscht? / Auf keinen Fall!",
+    "context": "Verwendet, wenn die Authentizität von Produkten auf Märkten in Frage gestellt wird, oder als Ausdruck des Unglaubens im Gespräch. Seien Sie in Einkaufssituationen vorsichtig, dies zu aggressiv zu verwenden.",
+    "examples": [
+      "这个是真的还是假的？(Ist das echt oder gefälscht?)",
+      "五百块？假的吧！(500 Yuan? Auf keinen Fall!)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "bao-you-ma",
+    "originalSlug": "bao-you-ma",
+    "characters": "包邮吗",
+    "pinyin": "bāo yóu ma",
+    "meaning": "Ist der Versand kostenlos?",
+    "context": "Wesentlich für das Online-Shopping auf Taobao, JD.com usw. Eine der ersten Fragen, die chinesische Käufer stellen. Kann auch scherzhaft persönlich verwendet werden.",
+    "examples": [
+      "这个包邮吗？(Ist das mit kostenlosem Versand?)",
+      "满多少包邮？(Wie viel muss ich ausgeben, um kostenlosen Versand zu erhalten?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "tui-huo",
+    "originalSlug": "tui-huo",
+    "characters": "退货",
+    "pinyin": "tuì huò",
+    "meaning": "Ein Produkt zurückgeben / Rückerstattung",
+    "context": "Verwendet, wenn Sie etwas zurückgeben möchten, das Sie gekauft haben. 退款 (tuì kuǎn) bedeutet speziell Rückerstattung des Geldes. Online-Shopping-Plattformen haben normalerweise eine Rückgabefrist von 7 Tagen.",
+    "examples": [
+      "这个可以退货吗？(Kann ich das zurückgeben?)",
+      "我想退货退款。(Ich möchte das zurückgeben und eine Rückerstattung.)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zui-di-duo-shao",
+    "originalSlug": "zui-di-duo-shao",
+    "characters": "最低多少",
+    "pinyin": "zuì dī duō shǎo",
+    "meaning": "Was ist der niedrigste Preis? / Was ist Ihr bestes Angebot?",
+    "context": "Der Machtzug beim Feilschen. Verwenden Sie dies, nachdem Sie ein paar Mal hin und her gegangen sind. Es signalisiert, dass Sie ernsthaft kaufen möchten, aber einen besseren Preis benötigen.",
+    "examples": [
+      "最低多少钱？(Was ist der absolut niedrigste Preis?)",
+      "不用讲价了，最低多少？(Keine weiteren Verhandlungen, was ist Ihr Mindestpreis?)"
+    ],
+    "category": "Shopping & Bargaining",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "zen-me-zou",
+    "originalSlug": "zen-me-zou",
+    "characters": "怎么走",
+    "pinyin": "zěn me zǒu",
+    "meaning": "Wie komme ich dorthin? / Welcher Weg?",
+    "context": "Die grundlegendste Phrase, um nach dem Weg zu fragen. Zeigen Sie auf eine Karte oder erwähnen Sie ein Wahrzeichen und fragen Sie dann 怎么走. Die Leute werden Ihnen normalerweise auch mit einer Sprachbarriere den richtigen Weg zeigen.",
+    "examples": [
+      "请问，地铁站怎么走？(Entschuldigung, wie komme ich zur U-Bahn-Station?)",
+      "去天安门怎么走？(Wie komme ich zum Tiananmen?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "dao-le-ma",
+    "originalSlug": "dao-le-ma",
+    "characters": "到了吗",
+    "pinyin": "dào le ma",
+    "meaning": "Sind wir schon da? / Sind wir angekommen?",
+    "context": "Verwendet in Taxis, Bussen oder wenn jemand Sie fährt. Sie können auch den Fahrer fragen 快到了吗 (kuài dào le ma, sind wir fast da?).",
+    "examples": [
+      "师傅，到了吗？(Fahrer, sind wir schon da?)",
+      "还没到吗？还有多远？(Sind wir noch nicht angekommen? Wie viel weiter noch?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zai-na-li-xia-che",
+    "originalSlug": "zai-na-li-xia-che",
+    "characters": "在哪里下车",
+    "pinyin": "zài nǎ lǐ xià chē",
+    "meaning": "Wo steige ich aus?",
+    "context": "Verwendet in Bussen und U-Bahnen. Zeigen Sie dem Fahrer oder einem Mitfahrer Ihr Ziel auf Ihrem Handy und fragen Sie dies. In Bussen wird der Fahrer oder automatisierte Ansagen die Haltestellen ansagen.",
+    "examples": [
+      "请问，去故宫在哪里下车？(Entschuldigung, wo steige ich für die Verbotene Stadt aus?)",
+      "我应该在哪一站下车？(An welcher Haltestelle sollte ich aussteigen?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "du-che-le",
+    "originalSlug": "du-che-le",
+    "characters": "堵车了",
+    "pinyin": "dǔ chē le",
+    "meaning": "Es gibt einen Stau / im Verkehr feststecken",
+    "context": "Sehr häufig in chinesischen Städten, besonders während der Hauptverkehrszeit. Taxifahrer erwähnen dies oft proaktiv. Eine nützliche Ausrede, um zu spät zu kommen.",
+    "examples": [
+      "不好意思，堵车了，可能要迟到。(Entschuldigung, ich stecke im Verkehr fest, könnte spät dran sein.)",
+      "这条路总是堵车。(Diese Straße hat immer Staus.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shi-fu-ting-yi-xia",
+    "originalSlug": "shi-fu-ting-yi-xia",
+    "characters": "师傅停一下",
+    "pinyin": "shī fu tíng yī xià",
+    "meaning": "Fahrer, bitte hier anhalten",
+    "context": "Verwendet in Taxis und Fahrgemeinschaften, wenn Sie abgesetzt werden möchten. 师傅 (shī fu) ist die respektvolle Art, einen Fahrer anzusprechen. Sie können auch sagen 前面停 (qián miàn tíng, halten Sie bitte vorne an).",
+    "examples": [
+      "师傅，前面路口停一下。(Fahrer, bitte an der Kreuzung vorne anhalten.)",
+      "师傅，就这里停吧。(Fahrer, Sie können direkt hier anhalten.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mi-lu-le",
+    "originalSlug": "mi-lu-le",
+    "characters": "迷路了",
+    "pinyin": "mí lù le",
+    "meaning": "Ich habe mich verlaufen",
+    "context": "Zeigen Sie jemandem Ihr Handy mit dem Ziel auf einer Karte und sagen Sie dies. Die meisten Chinesen werden sich bemühen, Ihnen zu helfen, den Weg zu finden, manchmal sogar mit Ihnen dorthin zu gehen.",
+    "examples": [
+      "不好意思，我迷路了。(Entschuldigung, ich habe mich verlaufen.)",
+      "我迷路了，这里是哪儿？(Ich habe mich verlaufen, wo ist das hier?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-wifi-ma",
+    "originalSlug": "you-wifi-ma",
+    "characters": "有Wi-Fi吗",
+    "pinyin": "yǒu Wi-Fi ma",
+    "meaning": "Haben Sie WLAN?",
+    "context": "Wesentlich für Reisende. Die meisten Cafés, Restaurants und Hotels haben WLAN. Das Passwort wird oft auf einem Schild angezeigt oder Sie können fragen: 密码是什么 (mì mǎ shì shén me, was ist das Passwort?).",
+    "examples": [
+      "请问有Wi-Fi吗？密码是多少？(Haben Sie WLAN? Was ist das Passwort?)",
+      "这里Wi-Fi信号好吗？(Ist das WLAN-Signal hier gut?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "duo-jiu-neng-dao",
+    "originalSlug": "duo-jiu-neng-dao",
+    "characters": "多久能到",
+    "pinyin": "duō jiǔ néng dào",
+    "meaning": "Wie lange bis wir ankommen? / Wie lange dauert es?",
+    "context": "Verwendet in Taxis, bei Fahrgemeinschaften oder wenn man nach Fahrzeiten fragt. Funktioniert auch für Lieferzeiten und beim Treffen mit Freunden.",
+    "examples": [
+      "师傅，多久能到？(Fahrer, wie lange bis wir dort sind?)",
+      "坐地铁多久能到？(Wie lange dauert es mit der U-Bahn?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-bu-jin",
+    "originalSlug": "jin-bu-jin",
+    "characters": "近不近",
+    "pinyin": "jìn bù jìn",
+    "meaning": "Ist es in der Nähe? / Ist es nah?",
+    "context": "Eine schnelle Möglichkeit, die Entfernung abzuschätzen, bevor man sich entscheidet, irgendwohin zu gehen. Die Antwort ist oft 很近 (hěn jìn, sehr nah) oder 不远 (bù yuǎn, nicht weit) — obwohl die chinesischen Definitionen von \"nah\" stark variieren können.",
+    "examples": [
+      "地铁站近不近？(Ist die U-Bahn-Station in der Nähe?)",
+      "走路去近不近？(Ist es nah genug, um zu Fuß zu gehen?)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "dao-hang",
+    "originalSlug": "dao-hang",
+    "characters": "导航",
+    "pinyin": "dǎo háng",
+    "meaning": "GPS-Navigation / benutze die Karten-App",
+    "context": "Sagen Sie einem Taxifahrer, er soll dem GPS folgen, oder fragen Sie jemanden, der Ihnen beim Navigieren hilft. 高德地图 (Gaode/Amap) und 百度地图 (Baidu Maps) sind die Hauptnavigations-Apps in China.",
+    "examples": [
+      "师傅，你开导航吧。(Fahrer, folge einfach dem GPS.)",
+      "我导航一下。(Lass mich die Navigation überprüfen.)"
+    ],
+    "category": "Getting Around",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-kong-ma",
+    "originalSlug": "you-kong-ma",
+    "characters": "有空吗",
+    "pinyin": "yǒu kòng ma",
+    "meaning": "Bist du frei? / Hast du Zeit?",
+    "context": "Die Standardform, um jemanden einzuladen. Wird normalerweise von einem spezifischen Plan gefolgt. Kann für heute oder ein zukünftiges Datum verwendet werden – füge ein Zeitwort wie 明天 (míng tiān, morgen) oder 周末 (zhōu mò, Wochenende) hinzu.",
+    "examples": [
+      "周末有空吗？一起吃饭？(Bist du dieses Wochenende frei? Wollen wir zusammen essen?)",
+      "你明天有空吗？(Bist du morgen frei?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gai-tian-ba",
+    "originalSlug": "gai-tian-ba",
+    "characters": "改天吧",
+    "pinyin": "gǎi tiān ba",
+    "meaning": "Ein anderer Tag / Lass es uns später machen",
+    "context": "Eine höfliche Art, eine Einladung abzulehnen, ohne direkt nein zu sagen. In der chinesischen Sozialkultur ist dies eine sanfte Ablehnung, die beiden Parteien das Gesicht wahrt.",
+    "examples": [
+      "今天太忙了，改天吧。(Heute zu beschäftigt, lass es uns an einem anderen Tag machen.)",
+      "改天再约吧。(Lass uns für eine andere Zeit verabreden.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "sui-bian",
+    "originalSlug": "sui-bian",
+    "characters": "随便",
+    "pinyin": "suí biàn",
+    "meaning": "Egal / alles ist in Ordnung / es macht mir nichts aus",
+    "context": "Die häufigste (und manchmal frustrierende) Antwort, wenn Pläne gemacht werden. Wird verwendet, wenn man wirklich keine Präferenz hat. Warnung: Zu häufiges Sagen von 随便 kann gleichgültig erscheinen.",
+    "examples": [
+      "吃什么？——随便，都行。(Was möchtest du essen?——Egal, alles ist in Ordnung.)",
+      "你随便选吧。(Du kannst einfach auswählen, was du willst.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "kan-ni",
+    "originalSlug": "kan-ni",
+    "characters": "看你",
+    "pinyin": "kàn nǐ",
+    "meaning": "Liegt an dir / deine Entscheidung",
+    "context": "Die Entscheidung dem anderen überlassen. Ähnlich wie 随便, legt aber die Verantwortung auf die andere Person. Häufig, wenn Freunde entscheiden, wo sie essen, was sie tun usw.",
+    "examples": [
+      "去哪儿？——看你。(Wohin sollen wir gehen?——Liegt an dir.)",
+      "想看什么电影？看你吧。(Welchen Film möchtest du sehen? Deine Entscheidung.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "suan-le-phrase",
+    "originalSlug": "suan-le-phrase",
+    "characters": "算了",
+    "pinyin": "suàn le",
+    "meaning": "Vergiss es / mach dir nichts draus",
+    "context": "Wird verwendet, wenn man einen Plan aufgibt, eine Diskussion abbricht oder entscheidet, dass etwas den Aufwand nicht wert ist. Kann milde Frustration oder Akzeptanz ausdrücken.",
+    "examples": [
+      "等了半小时了，算了，走吧。(Eine halbe Stunde gewartet, vergiss es, lass uns gehen.)",
+      "算了算了，不想了。(Vergiss es, vergiss es, ich möchte nicht mehr darüber nachdenken.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wu-suo-wei",
+    "originalSlug": "wu-suo-wei",
+    "characters": "无所谓",
+    "pinyin": "wú suǒ wèi",
+    "meaning": "Es ist mir egal / es spielt keine Rolle",
+    "context": "Stärker als 随便. Kann gleichgültig oder wirklich entspannt klingen, je nach Tonfall. Vorsichtig verwenden – mit dem falschen Ton kann es abweisend wirken.",
+    "examples": [
+      "你迟到了！——无所谓，我也没事。(Du bist spät!——Es macht nichts, ich habe auch nichts gemacht.)",
+      "去不去都无所谓。(Es spielt keine Rolle, ob wir gehen oder nicht.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "xia-ci-ba",
+    "originalSlug": "xia-ci-ba",
+    "characters": "下次吧",
+    "pinyin": "xià cì ba",
+    "meaning": "Nächstes Mal / vielleicht nächstes Mal",
+    "context": "Eine weitere höfliche Möglichkeit, Pläne abzulehnen oder zu verschieben. Ähnlich wie 改天吧, bezieht sich aber speziell auf die nächste Gelegenheit. Manchmal bedeutet es wirklich nächstes Mal, manchmal ist es ein sanftes Nein.",
+    "examples": [
+      "今天去不了，下次吧。(Kann heute nicht, nächstes Mal.)",
+      "下次吧，这次太赶了。(Nächstes Mal, dieses Mal ist es zu hektisch.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yue-ma",
+    "originalSlug": "yue-ma",
+    "characters": "约吗",
+    "pinyin": "yuē ma",
+    "meaning": "Wollen wir uns treffen? / Möchtest du dich treffen?",
+    "context": "Eine lässige, oft textbasierte Einladung. Sehr verbreitet unter Freunden. Kann verwendet werden, um Essen, Getränke oder jede Aktivität vorzuschlagen. Manchmal spielerisch flirtend.",
+    "examples": [
+      "周末约吗？(Wollen wir uns dieses Wochenende treffen?)",
+      "好久不见，约个饭？(Lange nicht gesehen, wollen wir essen gehen?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-qing-ni",
+    "originalSlug": "wo-qing-ni",
+    "characters": "我请你",
+    "pinyin": "wǒ qǐng nǐ",
+    "meaning": "Ich lade dich ein / Ich bezahle für dich",
+    "context": "Das Angebot zu bezahlen ist ein großer Teil der chinesischen Sozialkultur. Oft gibt es einen freundlichen \"Kampf\" darüber, wer die Rechnung bezahlt. Zu sagen 我请你 vor dem Essen setzt die Erwartung.",
+    "examples": [
+      "今天我请你，别客气。(Heute lade ich dich ein, sei nicht höflich.)",
+      "这顿我请。(Dieses Essen geht auf mich.)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qu-bu-qu",
+    "originalSlug": "qu-bu-qu",
+    "characters": "去不去",
+    "pinyin": "qù bù qù",
+    "meaning": "Gehst du (oder nicht)? / Willst du gehen?",
+    "context": "Eine direkte, lässige Möglichkeit zu fragen, ob jemand an einer Aktivität teilnehmen möchte. Das A-nicht-A-Fragemuster (去不去, 要不要, 好不好) ist eine der nützlichsten Strukturen im Chinesischen.",
+    "examples": [
+      "明天爬山，你去不去？(Wandern morgen, gehst du?)",
+      "唱K去不去？(Willst du zum Karaoke gehen?)"
+    ],
+    "category": "Making Plans & Socializing",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "zhen-de-jia-de",
+    "originalSlug": "zhen-de-jia-de",
+    "characters": "真的假的",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "Echt?! / Meinst du das ernst? / Unmöglich!",
+    "context": "Ein Ausdruck von Überraschung oder Unglauben. Eine der am häufigsten verwendeten Reaktionen in chinesischen Gesprächen. Kann eine echte Frage oder eine rhetorische Ausrufung sein.",
+    "examples": [
+      "他辞职了！——真的假的？！(Er hat seinen Job gekündigt!——Meinst du das ernst?!)",
+      "真的假的，这么便宜？(Unmöglich, so billig?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "tai-kua-zhang-le",
+    "originalSlug": "tai-kua-zhang-le",
+    "characters": "太夸张了",
+    "pinyin": "tài kuā zhāng le",
+    "meaning": "Das ist so übertrieben / Das ist übertrieben",
+    "context": "Verwendet, um auf etwas Unglaubliches, Übermäßiges oder Dramatisches zu reagieren. Kann negativ (Preise, Verhalten) oder positiv mit Staunen (beeindruckende Leistung) sein.",
+    "examples": [
+      "排队两小时？太夸张了吧！(Zwei Stunden Schlange stehen? Das ist lächerlich!)",
+      "这个特效太夸张了。(Diese Spezialeffekte sind übertrieben.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "hai-hao-ba",
+    "originalSlug": "hai-hao-ba",
+    "characters": "还好吧",
+    "pinyin": "hái hǎo ba",
+    "meaning": "Es ist okay / nicht schlecht / so lala",
+    "context": "Eine lauwarme Antwort. Wird verwendet, wenn etwas weder großartig noch schrecklich ist. Chinesen verwenden dies oft, um bescheiden über Erfolge zu sein oder eine unverbindliche Meinung zu äußern.",
+    "examples": [
+      "这个餐厅怎么样？——还好吧，一般般。(Wie ist dieses Restaurant?——Es ist okay, nichts Besonderes.)",
+      "考试难吗？——还好吧。(War die Prüfung schwer?——Es war okay.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kan-qing-kuang",
+    "originalSlug": "kan-qing-kuang",
+    "characters": "看情况",
+    "pinyin": "kàn qíng kuàng",
+    "meaning": "Kommt auf die Situation an / wir werden sehen",
+    "context": "Eine unverbindliche Antwort, die ein definitives Ja oder Nein vermeidet. Sehr häufig in der chinesischen Kommunikation verwendet, wo Direktheit manchmal vermieden wird.",
+    "examples": [
+      "你去吗？——看情况吧。(Gehst du?——Kommt auf die Situation an.)",
+      "能不能做到？看情况。(Kann es gemacht werden? Wir werden sehen.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-xiang-dao",
+    "originalSlug": "mei-xiang-dao",
+    "characters": "没想到",
+    "pinyin": "méi xiǎng dào",
+    "meaning": "Hätte ich nicht gedacht / Ich hätte nie gedacht",
+    "context": "Drückt echte Überraschung über ein unerwartetes Ergebnis aus. Kann positiv oder negativ sein. Wird verwendet, wenn die Realität erheblich von den Erwartungen abweicht.",
+    "examples": [
+      "没想到你中文说得这么好！(Ich hätte nicht gedacht, dass dein Chinesisch so gut ist!)",
+      "真没想到他会来。(Ich hätte wirklich nicht gedacht, dass er kommt.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-dao-li",
+    "originalSlug": "you-dao-li",
+    "characters": "有道理",
+    "pinyin": "yǒu dào lǐ",
+    "meaning": "Das macht Sinn / Guter Punkt",
+    "context": "Wird verwendet, um mit jemandes Argumentation oder Logik übereinzustimmen. Eine häufige Antwort in Diskussionen, die zeigt, dass man zuhört und das Argument für gültig hält.",
+    "examples": [
+      "你说的有道理。(Was du gesagt hast, macht Sinn.)",
+      "有道理，我没想到这一点。(Guter Punkt, daran hatte ich nicht gedacht.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "shuo-de-ye-shi",
+    "originalSlug": "shuo-de-ye-shi",
+    "characters": "说的也是",
+    "pinyin": "shuō de yě shì",
+    "meaning": "Du hast einen Punkt / Das stimmt auch",
+    "context": "Anerkennung der Perspektive einer Person, oft wenn sie deine Meinung geändert oder einen Standpunkt hinzugefügt haben, den du nicht in Betracht gezogen hast. Etwas concessiver als 有道理.",
+    "examples": [
+      "说的也是，那我们换个地方吧。(Du hast einen Punkt, lass uns den Ort wechseln.)",
+      "说的也是，我再想想。(Das stimmt auch, lass mich darüber nachdenken.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ke-neng",
+    "originalSlug": "zen-me-ke-neng",
+    "characters": "怎么可能",
+    "pinyin": "zěn me kě néng",
+    "meaning": "Wie ist das möglich? / Das ist unmöglich!",
+    "context": "Starker Ausdruck des Unglaubens. Deutlicher als 真的假的. Wird verwendet, wenn etwas völlig unglaubwürdig erscheint oder der Logik widerspricht.",
+    "examples": [
+      "他一天跑了一百公里？怎么可能！(Er ist an einem Tag 100 km gelaufen? Das ist unmöglich!)",
+      "怎么可能这么快就卖完了？(Wie kann es schon ausverkauft sein?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "bu-zhi-yu",
+    "originalSlug": "bu-zhi-yu",
+    "characters": "不至于",
+    "pinyin": "bù zhì yú",
+    "meaning": "Es ist nicht so schlimm / sicher nicht / es muss nicht so weit gehen",
+    "context": "Wird verwendet, um jemanden zu beruhigen oder vorzuschlagen, dass sie überreagieren. Es setzt eine Grenze, wie extrem eine Situation wirklich ist.",
+    "examples": [
+      "不至于吧，没那么严重。(Komm schon, es ist nicht so ernst.)",
+      "迟到五分钟而已，不至于发火吧？(Nur fünf Minuten zu spät, da muss man doch nicht wütend werden, oder?)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  },
+  {
+    "slug": "cha-bu-duo",
+    "originalSlug": "cha-bu-duo",
+    "characters": "差不多",
+    "pinyin": "chà bù duō",
+    "meaning": "Fast gleich / mehr oder weniger / fast dasselbe",
+    "context": "Einer der vielseitigsten chinesischen Ausdrücke. Kann \"fast\", \"ungefähr gleich\", \"gut genug\" oder \"das ist in Ordnung\" bedeuten. Spiegelt eine flexible, nicht perfektionistische Haltung wider.",
+    "examples": [
+      "这两个差不多，买哪个都行。(Diese beiden sind ungefähr gleich, beide funktionieren.)",
+      "快好了吗？——差不多了。(Bald fertig?——Fast.)"
+    ],
+    "category": "Reactions & Opinions",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xin-ku-le",
+    "originalSlug": "xin-ku-le",
+    "characters": "辛苦了",
+    "pinyin": "xīn kǔ le",
+    "meaning": "Du hast hart gearbeitet / danke für deinen Einsatz",
+    "context": "Eine sehr wichtige Phrase in der chinesischen Berufs- und Sozialkultur. Wird verwendet, um die Anstrengungen oder die harte Arbeit einer Person anzuerkennen. Gesagt an Lieferfahrer, Kollegen nach einem langen Meeting oder an jeden, der dir geholfen hat.",
+    "examples": [
+      "辛苦了，快休息吧。(Du hast hart gearbeitet, nimm dir eine Auszeit.)",
+      "今天的会议辛苦大家了。(Danke an alle für eure harte Arbeit im heutigen Meeting.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "qing-duo-guan-zhao",
+    "originalSlug": "qing-duo-guan-zhao",
+    "characters": "请多关照",
+    "pinyin": "qǐng duō guān zhào",
+    "meaning": "Bitte kümmere dich um mich / Ich bin in deiner Obhut",
+    "context": "Wird gesagt, wenn man neue Kollegen, Geschäftspartner oder ein neues Team trifft. Zeigt Demut und Respekt. Ähnlich wie das japanische よろしくお願いします.",
+    "examples": [
+      "我是新来的，请多关照。(Ich bin neu hier, bitte kümmere dich um mich.)",
+      "初次见面，请多关照。(Schön, dich kennenzulernen, ich bin in deiner Obhut.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "jia-ban",
+    "originalSlug": "jia-ban",
+    "characters": "加班",
+    "pinyin": "jiā bān",
+    "meaning": "Überstunden machen / spät im Büro bleiben",
+    "context": "Ein Wort, das man in der chinesischen Arbeitskultur ständig hört. Leider sehr verbreitet, besonders in der Technologie- und Finanzbranche. Kann als Verb oder Substantiv verwendet werden.",
+    "examples": [
+      "今晚又要加班。(Muss heute Abend wieder Überstunden machen.)",
+      "你经常加班吗？(Machst du oft Überstunden?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kai-hui",
+    "originalSlug": "kai-hui",
+    "characters": "开会",
+    "pinyin": "kāi huì",
+    "meaning": "Ein Meeting haben / in einem Meeting sein",
+    "context": "Wird verwendet, um zu erklären, dass man beschäftigt ist, Meetings zu planen oder (oft) sich über zu viele Meetings zu beschweren. Kann als Ausrede verwendet werden, um Anrufe oder Nachrichten zu vermeiden.",
+    "examples": [
+      "我在开会，等会儿再说。(Ich bin in einem Meeting, lass uns später sprechen.)",
+      "下午三点开会。(Meeting um 15 Uhr.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "hui-bao",
+    "originalSlug": "hui-bao",
+    "characters": "汇报",
+    "pinyin": "huì bào",
+    "meaning": "Bericht erstatten / ein Update geben / den Chef informieren",
+    "context": "Wird in Arbeitsplatzsituationen verwendet, wenn Fortschritte oder Ergebnisse einem Vorgesetzten präsentiert werden. Eine Schlüsselaktivität in der chinesischen Unternehmenskultur, in der es wichtig ist, die Führung informiert zu halten.",
+    "examples": [
+      "这个项目需要向领导汇报。(Dieses Projekt muss der Führung berichtet werden.)",
+      "每周一汇报工作进展。(Berichte jeden Montag über den Arbeitsfortschritt.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "fang-bian-ma",
+    "originalSlug": "fang-bian-ma",
+    "characters": "方便吗",
+    "pinyin": "fāng biàn ma",
+    "meaning": "Ist es bequem? / Ist das eine gute Zeit?",
+    "context": "Eine höfliche Art, vor einer Anfrage oder Terminvereinbarung nachzufragen. Rücksichtsvoller als direkt eine Bitte zu äußern. Essentiell in der professionellen Kommunikation.",
+    "examples": [
+      "现在说话方便吗？(Ist es jetzt bequem zu sprechen?)",
+      "明天见面方便吗？(Ist es bequem, sich morgen zu treffen?)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "kao-lv-yi-xia",
+    "originalSlug": "kao-lv-yi-xia",
+    "characters": "考虑一下",
+    "pinyin": "kǎo lǜ yī xià",
+    "meaning": "Lass mich darüber nachdenken / Ich werde es in Betracht ziehen",
+    "context": "Eine höfliche Art, eine Entscheidung hinauszuzögern. In Geschäftskontexten bedeutet dies oft ein sanftes Nein. In persönlichen Kontexten bedeutet es normalerweise, dass man es ernsthaft überdenkt.",
+    "examples": [
+      "这个方案我考虑一下。(Lass mich über diesen Vorschlag nachdenken.)",
+      "考虑一下再决定吧。(Denk darüber nach, bevor du entscheidest.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-chi-lian-xi",
+    "originalSlug": "bao-chi-lian-xi",
+    "characters": "保持联系",
+    "pinyin": "bǎo chí lián xì",
+    "meaning": "In Kontakt bleiben / verbunden bleiben",
+    "context": "Wird am Ende von Meetings, Geschäftsessen oder beim Abschied gesagt. Oft begleitet von dem Austausch von WeChat-Kontakten. Aufrichtiger als sein englisches Äquivalent.",
+    "examples": [
+      "以后保持联系。(Lass uns in Kontakt bleiben.)",
+      "加个微信，保持联系。(Lass uns einander auf WeChat hinzufügen und in Kontakt bleiben.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jin-kuai",
+    "originalSlug": "jin-kuai",
+    "characters": "尽快",
+    "pinyin": "jǐn kuài",
+    "meaning": "So schnell wie möglich / ASAP",
+    "context": "Wird in Arbeits-E-Mails, Nachrichten und Gesprächen verwendet, um Dringlichkeit anzuzeigen. Sehr häufig in der professionellen Kommunikation. Kann mit 请 (qǐng, bitte) davor abgeschwächt werden.",
+    "examples": [
+      "请尽快回复。(Bitte antworte so schnell wie möglich.)",
+      "这个需要尽快完成。(Das muss ASAP abgeschlossen werden.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "beginner",
+    "formality": "formal"
+  },
+  {
+    "slug": "he-zuo-yu-kuai",
+    "originalSlug": "he-zuo-yu-kuai",
+    "characters": "合作愉快",
+    "pinyin": "hé zuò yú kuài",
+    "meaning": "Es war mir eine Freude, Geschäfte zu machen / großartig zusammenzuarbeiten",
+    "context": "Wird am Ende eines Geschäftsabschlusses, Projekts oder einer Zusammenarbeit gesagt. Ein häufiger Abschluss in Geschäftseinstellungen, der gegenseitige Zufriedenheit ausdrückt.",
+    "examples": [
+      "合作愉快！期待下次。(Es war großartig, zusammenzuarbeiten! Freue mich auf das nächste Mal.)",
+      "感谢大家的努力，合作愉快。(Danke für die Anstrengungen aller, es war mir eine Freude, zusammenzuarbeiten.)"
+    ],
+    "category": "Work & Professional",
+    "difficulty": "intermediate",
+    "formality": "formal"
+  },
+  {
+    "slug": "bang-bang-wo",
+    "originalSlug": "bang-bang-wo",
+    "characters": "帮帮我",
+    "pinyin": "bāng bāng wǒ",
+    "meaning": "Hilf mir bitte",
+    "context": "Eine direkte Bitte um Hilfe. Die Wiederholung von 帮 macht es dringlicher und emotionaler als nur 帮我. Verwende es, wenn du wirklich die Hilfe von jemandem benötigst.",
+    "examples": [
+      "帮帮我，我找不到我的酒店。(Hilf mir, ich kann mein Hotel nicht finden.)",
+      "谁能帮帮我？(Kann mir jemand helfen?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bu-shu-fu",
+    "originalSlug": "bu-shu-fu",
+    "characters": "不舒服",
+    "pinyin": "bù shū fu",
+    "meaning": "Ich fühle mich nicht wohl / Ich bin unwohl",
+    "context": "Verwendet, wenn man sich krank oder körperlich unwohl fühlt. In einem medizinischen Umfeld wird der Arzt fragen 哪里不舒服 (nǎ lǐ bù shū fu, wo tut es weh/was ist los?).",
+    "examples": [
+      "我不舒服，想休息。(Ich fühle mich nicht wohl, ich möchte mich ausruhen.)",
+      "你哪里不舒服？(Wo fühlst du dich unwohl?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "guo-min",
+    "originalSlug": "guo-min",
+    "characters": "过敏",
+    "pinyin": "guò mǐn",
+    "meaning": "Allergisch / Allergie",
+    "context": "Kritisch für Nahrungsmittelallergien oder Medikamente. Lerne zu sagen, wogegen du allergisch bist: 花生过敏 (huā shēng guò mǐn, Erdnussallergie), 海鲜过敏 (hǎi xiān guò mǐn, Meeresfrüchteallergie).",
+    "examples": [
+      "我对花生过敏。(Ich bin allergisch gegen Erdnüsse.)",
+      "这个里面有没有海鲜？我过敏。(Enthält das Meeresfrüchte? Ich bin allergisch.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "intermediate",
+    "formality": "neutral"
+  },
+  {
+    "slug": "bao-jing",
+    "originalSlug": "bao-jing",
+    "characters": "报警",
+    "pinyin": "bào jǐng",
+    "meaning": "Ruf die Polizei",
+    "context": "Die Notrufnummer in China ist 110 für die Polizei, 120 für den Krankenwagen, 119 für die Feuerwehr. 报警 bedeutet speziell, die Polizei zu benachrichtigen.",
+    "examples": [
+      "快报警！(Ruf schnell die Polizei!)",
+      "要不要报警？(Sollen wir die Polizei rufen?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "jiao-jiu-hu-che",
+    "originalSlug": "jiao-jiu-hu-che",
+    "characters": "叫救护车",
+    "pinyin": "jiào jiù hù chē",
+    "meaning": "Ruf einen Krankenwagen",
+    "context": "Für medizinische Notfälle rufe 120 für einen Krankenwagen in China. Stelle sicher, dass du die Adresse auf Chinesisch kennst oder sie auf deinem Handy hast, um sie jemandem zu zeigen.",
+    "examples": [
+      "快叫救护车！(Ruf schnell einen Krankenwagen!)",
+      "请帮忙叫救护车，有人晕倒了。(Bitte hilf, einen Krankenwagen zu rufen, jemand ist ohnmächtig geworden.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-de-dong-xi-diu-le",
+    "originalSlug": "wo-de-dong-xi-diu-le",
+    "characters": "我的东西丢了",
+    "pinyin": "wǒ de dōng xī diū le",
+    "meaning": "Ich habe meine Sachen verloren / meine Sachen fehlen",
+    "context": "Verwendet, wenn du etwas verloren hast oder Diebstahl vermutest. Gib an, was: 手机 (shǒu jī, Handy), 钱包 (qián bāo, Geldbörse), 护照 (hù zhào, Reisepass).",
+    "examples": [
+      "我的手机丢了！(Ich habe mein Handy verloren!)",
+      "我的钱包丢了，怎么办？(Ich habe meine Geldbörse verloren, was soll ich tun?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "neng-shuo-man-yi-dian-ma",
+    "originalSlug": "neng-shuo-man-yi-dian-ma",
+    "characters": "能说慢一点吗",
+    "pinyin": "néng shuō màn yī diǎn ma",
+    "meaning": "Kannst du langsamer sprechen?",
+    "context": "Der wichtigste Überlebenssatz für jeden Chinesischlerner. Die Leute werden deinen Versuch, zu verstehen, schätzen und in der Regel deutlich langsamer sprechen.",
+    "examples": [
+      "对不起，能说慢一点吗？(Entschuldigung, kannst du ein bisschen langsamer sprechen?)",
+      "请说慢一点，我在学中文。(Bitte sprich langsamer, ich lerne Chinesisch.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wo-ting-bu-dong",
+    "originalSlug": "wo-ting-bu-dong",
+    "characters": "我听不懂",
+    "pinyin": "wǒ tīng bù dǒng",
+    "meaning": "Ich verstehe nicht (was ich höre)",
+    "context": "Bedeutet speziell, dass du gesprochene Worte nicht verstehen kannst (im Gegensatz zu 看不懂 für geschriebene Texte). Sehr nützlich für Sprachlerner. Oft fordert es die Leute auf, einfachere Worte zu verwenden oder Gesten zu benutzen.",
+    "examples": [
+      "对不起，我听不懂，你能写下来吗？(Entschuldigung, ich verstehe nicht, kannst du es aufschreiben?)",
+      "他说的方言我听不懂。(Ich kann den Dialekt, den er spricht, nicht verstehen.)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "you-ren-hui-shuo-ying-wen-ma",
+    "originalSlug": "you-ren-hui-shuo-ying-wen-ma",
+    "characters": "有人会说英文吗",
+    "pinyin": "yǒu rén huì shuō yīng wén ma",
+    "meaning": "Spricht jemand Englisch?",
+    "context": "Letzte Möglichkeit, wenn die Kommunikation völlig zusammenbricht. In großen Städten und Touristengebieten spricht normalerweise jemand ein wenig Englisch. In kleineren Städten kennen jüngere Menschen eher etwas.",
+    "examples": [
+      "请问，有人会说英文吗？(Entschuldigung, spricht jemand Englisch?)",
+      "这里有会说英文的人吗？(Gibt es hier jemanden, der Englisch spricht?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "yao-dian-zai-na",
+    "originalSlug": "yao-dian-zai-na",
+    "characters": "药店在哪",
+    "pinyin": "yào diàn zài nǎ",
+    "meaning": "Wo ist die Apotheke?",
+    "context": "Apotheken (药店/药房) sind in China verbreitet und viele Medikamente sind ohne Rezept erhältlich. Du kannst Symptome beschreiben und Apotheker werden oft Medikamente empfehlen.",
+    "examples": [
+      "请问药店在哪？(Entschuldigung, wo ist die Apotheke?)",
+      "附近有药店吗？(Gibt es eine Apotheke in der Nähe?)"
+    ],
+    "category": "Emergencies & Help",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "lei-si-le",
+    "originalSlug": "lei-si-le",
+    "characters": "累死了",
+    "pinyin": "lèi sǐ le",
+    "meaning": "Ich bin erschöpft / tot müde",
+    "context": "Das Muster 死了 (sǐ le, \"bis zum Tod\") wird als dramatischer Verstärker verwendet. 累死了 wird sehr häufig nach einem langen Arbeitstag, Sightseeing oder Sport verwendet.",
+    "examples": [
+      "今天走了两万步，累死了。(Ich bin tot müde, ich bin heute 20.000 Schritte gelaufen.)",
+      "加班到十二点，累死了。(Ich bin erschöpft, ich habe bis Mitternacht Überstunden gemacht.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "fan-si-le",
+    "originalSlug": "fan-si-le",
+    "characters": "烦死了",
+    "pinyin": "fán sǐ le",
+    "meaning": "So nervig / Ich bin so frustriert",
+    "context": "Verwendet, um Irritation oder Frustration auszudrücken. Ein weiteres 死了-Verstärker-Muster. Häufig bei lästigen Situationen, Menschen oder Bürokratie.",
+    "examples": [
+      "这个问题烦死了！(Dieses Problem ist so nervig!)",
+      "排队排了一小时，烦死了。(Eine Stunde angestanden, so frustrierend.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "jia-you",
+    "originalSlug": "jia-you",
+    "characters": "加油",
+    "pinyin": "jiā yóu",
+    "meaning": "Du schaffst das! / Mach weiter! / Leg los!",
+    "context": "Bedeutet wörtlich \"Öl/Treibstoff hinzufügen.\" Eine der positivsten und ermutigendsten Phrasen im Chinesischen. Wird bei Sportveranstaltungen, vor Prüfungen, in schwierigen Zeiten oder zur Motivation verwendet.",
+    "examples": [
+      "明天考试，加油！(Prüfung morgen, du schaffst das!)",
+      "加油，我相信你！(Mach weiter, ich glaube an dich!)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "man-man-lai",
+    "originalSlug": "man-man-lai",
+    "characters": "慢慢来",
+    "pinyin": "màn man lái",
+    "meaning": "Nimm dir Zeit / kein Stress / langsam angehen",
+    "context": "Eine tröstende Phrase, die den Druck verringert. Wird verwendet, um jemandem zu sagen, dass es keine Eile gibt. Spiegelt eine geduldige, verständnisvolle Haltung wider. Auch verwendet, wenn man etwas Neues lernt.",
+    "examples": [
+      "别着急，慢慢来。(Mach dir keine Sorgen, nimm dir Zeit.)",
+      "学中文慢慢来，不要急。(Chinesisch lernen braucht Zeit, beeil dich nicht.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "mei-ban-fa",
+    "originalSlug": "mei-ban-fa",
+    "characters": "没办法",
+    "pinyin": "méi bàn fǎ",
+    "meaning": "Da können wir nichts machen / es gibt keinen Ausweg / kann nicht helfen",
+    "context": "Drückt Hilflosigkeit oder Akzeptanz einer unvermeidlichen Situation aus. Sehr häufig verwendet, um anzuerkennen, dass manche Dinge außerhalb deiner Kontrolle liegen.",
+    "examples": [
+      "堵车了，没办法，只能等。(Stau, da können wir nichts machen, wir müssen warten.)",
+      "没办法，规定就是这样。(Da können wir nichts machen, so sind die Regeln.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "xi-guan-le",
+    "originalSlug": "xi-guan-le",
+    "characters": "习惯了",
+    "pinyin": "xí guàn le",
+    "meaning": "Ich habe mich daran gewöhnt / Ich bin daran gewöhnt",
+    "context": "Wird verwendet, wenn etwas, das einst schwierig oder seltsam war, normal geworden ist. Kann positiv (sich an ein neues Leben anpassen) oder resigniert (etwas Unangenehmes akzeptieren) sein.",
+    "examples": [
+      "这里天气很热，但我习惯了。(Es ist hier sehr heiß, aber ich habe mich daran gewöhnt.)",
+      "加班加习惯了。(Ich habe mich daran gewöhnt, Überstunden zu machen.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "zen-me-ban",
+    "originalSlug": "zen-me-ban",
+    "characters": "怎么办",
+    "pinyin": "zěn me bàn",
+    "meaning": "Was soll ich/wir tun? / Was jetzt?",
+    "context": "Sucht Rat oder drückt Panik aus, wenn man mit einem Problem konfrontiert ist. Kann eine echte Frage oder ein rhetorischer Ausdruck von Hilflosigkeit sein.",
+    "examples": [
+      "手机没电了，怎么办？(Das Handy ist leer, was soll ich tun?)",
+      "飞机取消了，怎么办？(Der Flug wurde abgesagt, was jetzt?)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "gao-ding-le",
+    "originalSlug": "gao-ding-le",
+    "characters": "搞定了",
+    "pinyin": "gǎo dìng le",
+    "meaning": "Fertig! / Alles erledigt / habe es geregelt",
+    "context": "Eine befriedigende Phrase, die man verwendet, wenn man eine Aufgabe abgeschlossen oder ein Problem gelöst hat. Zeigt Selbstbewusstsein und Kompetenz. Sehr lässig und optimistisch.",
+    "examples": [
+      "机票搞定了！(Flugtickets sind gebucht!)",
+      "别担心，我搞定了。(Mach dir keine Sorgen, ich habe es geregelt.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "lai-bu-ji-le",
+    "originalSlug": "lai-bu-ji-le",
+    "characters": "来不及了",
+    "pinyin": "lái bù jí le",
+    "meaning": "Es gibt keine Zeit / zu spät / ich kann es nicht rechtzeitig schaffen",
+    "context": "Wird verwendet, wenn man unter Zeitdruck steht oder eine Frist/Möglichkeit verpasst hat. Schafft ein Gefühl der Dringlichkeit. Das Gegenteil ist 来得及 (lái de jí, es gibt noch Zeit).",
+    "examples": [
+      "来不及了，快走！(Keine Zeit, lass uns gehen!)",
+      "现在去还来得及吗？——来不及了。(Gibt es noch Zeit, jetzt zu gehen?——Es ist zu spät.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "neutral"
+  },
+  {
+    "slug": "wu-liao",
+    "originalSlug": "wu-liao",
+    "characters": "无聊",
+    "pinyin": "wú liáo",
+    "meaning": "Langweilig / langweilig",
+    "context": "Kann deinen eigenen Zustand beschreiben (Ich langweile mich) oder etwas, das langweilig ist. Sehr häufig unter jungen Leuten, besonders in sozialen Medien oder beim Texten.",
+    "examples": [
+      "好无聊啊，有什么好玩的吗？(So langweilig, gibt es etwas Spaßiges zu tun?)",
+      "这个电影太无聊了。(Dieser Film ist so langweilig.)"
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "beginner",
+    "formality": "casual"
+  },
+  {
+    "slug": "wo-sha-zhu-yang-ni",
+    "originalSlug": "wo-sha-zhu-yang-ni",
+    "characters": "我杀猪养你",
+    "pinyin": "wǒ shā zhū yǎng nǐ",
+    "meaning": "Ich schlachte Schweine, um dich zu unterstützen",
+    "context": "Die ikonischste Zeile aus dem C-Drama Pursuit of Jade (逐玉, 2026). Gesprochen von Fan Changyu — der Tochter eines Fleischers — zu ihrem Ehemann Xie Zheng, kehrt sie die traditionelle Geschlechterdynamik in China um, in der Männer für den Lebensunterhalt sorgen. Sie wurde auf Douyin und Weibo massiv viral und symbolisiert weibliche Unabhängigkeit und praktische Liebe. Die Zeile ist sowohl zärtlich als auch subversiv: Sie verspricht keine romantischen Worte, sondern Essen auf dem Tisch.",
+    "examples": [
+      "我杀猪养你啊。(Ich schlachte Schweine, um dich zu unterstützen — aus Pursuit of Jade)",
+      "Fans zitieren 我杀猪养你 als eine neue Art zu sagen \"Ich kümmere mich um dich\" mit einem harten, praktischen Twist."
+    ],
+    "category": "Daily Life & Feelings",
+    "difficulty": "intermediate",
+    "formality": "casual"
+  }
+]

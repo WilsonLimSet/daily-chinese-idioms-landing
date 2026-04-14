@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import "../globals.css";
 
 const SUPPORTED_LANGUAGES = new Set([
-  'es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'tl', 'ms', 'ru'
+  'es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'de', 'tl', 'ms', 'ru'
 ]);
 
 export default async function LangLayout({

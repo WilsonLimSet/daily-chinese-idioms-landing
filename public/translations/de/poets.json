@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "li-bai",
+    "name": "Li Bai",
+    "nameChinese": "李白",
+    "nameTraditional": "李白",
+    "courtesy": "Taibai",
+    "courtesyChinese": "字太白",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "762",
+    "title": "Der unsterbliche Dichter (诗仙)",
+    "bio": "Li Bai (701–762) gilt weithin als der größte romantische Dichter der chinesischen Geschichte und als eine der beiden herausragenden Figuren der Tang-Dynastie-Dichtung neben Du Fu. Er wurde in Suyab (im heutigen Kirgisistan) an der Seidenstraße geboren und wuchs in der Provinz Sichuan auf. Er bestand nie die kaiserlichen Prüfungen, wurde aber um 742 kurzzeitig an den Hof von Kaiser Xuanzong berufen, nur um nach zwei",
+    "style": "Li Bais Dichtung zeichnet sich durch kühne Vorstellungskraft, mühelose Spontaneität und ein Gefühl kosmischer Erhabenheit aus. Er verwendet häufig Hyperbeln („dreitausend Fuß“, „die Milchstraße, die vom Himmel fällt“), die sich irgendwie natürlich und nicht erzwungen anfühlen. Seine Verse bewegen sich zwischen zärtlicher Intimität und weitläufigen Ausblicken, zwischen trunkenem Verzicht und tiefer Einsamkeit. Er stützte sich stark auf die daoistische Philosophie und",
+    "legacy": "Li Bais Einfluss auf die chinesische Literatur ist unermesslich. Er ist Gegenstand unzähliger Legenden – dass er ertrank, als er versuchte, das Spiegelbild des Mondes in einem Fluss zu umarmen, dass er im betrunkenen Zustand Meisterwerke komponieren konnte, dass er ein „verstoßener Unsterblicher“ aus dem Himmel war. Seine Gedichte werden von jedem chinesischen Schulkind auswendig gelernt. Der Ausdruck „诗仙“ (Dichter-Unsterblicher) ist seit über tausend Jahren sein Titel. Hi",
+    "famousLines": [
+      {
+        "chinese": "床前明月光，疑是地上霜",
+        "pinyin": "chuáng qián míng yuè guāng, yí shì dì shàng shuāng",
+        "english": "Vor meinem Bett schimmert helles Mondlicht – ich frage mich, ob es",
+        "from": "Quiet Night Thought (静夜思)"
+      },
+      {
+        "chinese": "天生我材必有用，千金散尽还复来",
+        "pinyin": "tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái",
+        "english": "Der Himmel gab mir Talente, die genutzt werden müssen; tausend ausgegebene Goldmünzen werden alle wieder zurückkommen",
+        "from": "Bring in the Wine (将进酒)"
+      },
+      {
+        "chinese": "飞流直下三千尺，疑是银河落九天",
+        "pinyin": "fēi liú zhí xià sān qiān chǐ, yí shì yín hé luò jiǔ tiān",
+        "english": "Seine Flut stürzt dreitausend Fuß senkrecht hinab – als ob die Milchstraße vom neunten Himmel fiele",
+        "from": "Viewing the Waterfall at Mount Lu (望庐山瀑布)"
+      }
+    ],
+    "originalSlug": "li-bai"
+  },
+  {
+    "slug": "du-fu",
+    "name": "Du Fu",
+    "nameChinese": "杜甫",
+    "nameTraditional": "杜甫",
+    "courtesy": "Zimei",
+    "courtesyChinese": "字子美",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "712",
+    "deathYear": "770",
+    "title": "Der Dichter-Weise (诗圣)",
+    "bio": "Du Fu (712–770) wird als der größte realistische Dichter der chinesischen Geschichte verehrt und steht neben Li Bai als die höchste Figur der chinesischen Dichtung. Er wurde in eine Gelehrtenfamilie in Henan geboren und verbrachte Jahre damit, eine Beamtenkarriere zu verfolgen, bestand aber wiederholt die Prüfungen nicht. Sein Leben wurde durch die verheerende An Lushan Rebellion (755–763) auf den Kopf gestellt, die Millionen tötete und das goldene Zeitalter der Tang-Dynastie zerstörte.",
+    "style": "Du Fus Dichtung zeichnet sich durch ihre technische Perfektion, ihren moralischen Ernst und ihr unerschrockenes Mitgefühl aus. Er ist der anerkannte Meister des regulierten Verses (律诗) und erzielt Effekte von Dichte und Präzision, die in der chinesischen Literatur unübertroffen sind. Sein Werk reicht von intimen häuslichen Szenen bis hin zu weitläufigen Panoramen von Krieg und Vertreibung. Im Gegensatz zu Li Bais inspirierter Spontaneität liegt Du Fus Genie in sorgfältiger",
+    "legacy": "Du Fu wurde zu seinen Lebzeiten nicht allgemein gefeiert, aber in der Song-Dynastie wurde er als der höchste Dichter Chinas anerkannt. Sein Titel „诗圣“ (Dichter-Weise) spiegelt sowohl seine moralische Statur als auch seine technische Meisterschaft wider. Seine Gedichte „Drei Beamte“ und „Drei Abschiede“ gelten als die besten Kriegsgedichte Chinas. Sein Strohgedecktes Haus in Chengdu ist heute ein bedeutendes Museum und eine Kulturstätte. Du Fus Einfluss erstreckt sich",
+    "famousLines": [
+      {
+        "chinese": "国破山河在，城春草木深",
+        "pinyin": "guó pò shān hé zài, chéng chūn cǎo mù shēn",
+        "english": "Die Nation ist zerbrochen, obwohl Berge und Flüsse erhalten bleiben; die Stadt im Frühling ist mit Gras überwuchert",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "烽火连三月，家书抵万金",
+        "pinyin": "fēng huǒ lián sān yuè, jiā shū dǐ wàn jīn",
+        "english": "Leuchtfeuer brennen seit drei Monaten; ein Brief von zu Hause ist zehntausend Gold wert",
+        "from": "Spring View (春望)"
+      },
+      {
+        "chinese": "无边落木萧萧下，不尽长江滚滚来",
+        "pinyin": "wú biān luò mù xiāo xiāo xià, bú jìn cháng jiāng gǔn gǔn lái",
+        "english": "Grenzenlose fallende Blätter rascheln herab; der endlose Jangtse rollt und rollt weiter",
+        "from": "Climbing High (登高)"
+      }
+    ],
+    "originalSlug": "du-fu"
+  },
+  {
+    "slug": "wang-wei",
+    "name": "Wang Wei",
+    "nameChinese": "王维",
+    "nameTraditional": "王維",
+    "courtesy": "Mojie",
+    "courtesyChinese": "字摩诘",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "701",
+    "deathYear": "761",
+    "title": "Der Dichter-Buddha (诗佛)",
+    "bio": "Wang Wei (701–761) war ein Dichter, Musiker, Maler und Staatsmann der Tang-Dynastie, dessen Werk die Schnittstelle von Kunst, Natur und buddhistischer Spiritualität verkörpert. Er wurde in der Provinz Shanxi geboren, bestand in jungen Jahren die höchste kaiserliche Prüfung und bekleidete im Laufe seines Lebens verschiedene Regierungsposten. Nach dem Tod seiner Frau heiratete er nie wieder und wandte sich zunehmend dem Chan-Buddhismus (Zen) zu.",
+    "style": "Wang Weis Poesie wird für ihre meditative Stille, sensorische Präzision und spirituelle Tiefe gefeiert. Su Shi (Su Dongpo) sagte berühmt über ihn: „In seinen Gedichten gibt es Gemälde, und in seinen Gemälden gibt es Gedichte“ (诗中有画，画中有诗). Seine Naturpoesie erreicht eine leuchtende Stille, die seine buddhistische Praxis widerspiegelt – er findet tiefe Bedeutung in scheinbar einfachen Beobachtungen von Licht, Schatten, Klang, a",
+    "legacy": "Wang Wei ist einer der „Drei großen Dichter der Tang-Dynastie“ neben Li Bai und Du Fu und die prägende Figur der chinesischen Landschaftspoesie. Sein Titel „诗佛“ (Dichter-Buddha) spiegelt die spirituelle Dimension seines Werkes wider. Sein Einfluss erstreckt sich auf die chinesische Malerei – er gilt traditionell als der Gründer der südlichen Schule der chinesischen Landschaftsmalerei. Seine „Wang River Collection“ (辋川集) gilt als",
+    "famousLines": [
+      {
+        "chinese": "空山不见人，但闻人语响",
+        "pinyin": "kōng shān bú jiàn rén, dàn wén rén yǔ xiǎng",
+        "english": "In den leeren Bergen ist niemand zu sehen – doch Stimmen hallen von irgendwoher wider",
+        "from": "Deer Enclosure (鹿柴)"
+      },
+      {
+        "chinese": "劝君更尽一杯酒，西出阳关无故人",
+        "pinyin": "quàn jūn gèng jìn yī bēi jiǔ, xī chū yáng guān wú gù rén",
+        "english": "Ich bitte dich, noch eine Tasse Wein zu trinken – westlich des Yang-Passes wirst du keine alten Freunde haben",
+        "from": "Farewell to Yuan Er (送元二使安西)"
+      }
+    ],
+    "originalSlug": "wang-wei"
+  },
+  {
+    "slug": "bai-juyi",
+    "name": "Bai Juyi",
+    "nameChinese": "白居易",
+    "nameTraditional": "白居易",
+    "courtesy": "Letian",
+    "courtesyChinese": "字乐天",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "772",
+    "deathYear": "846",
+    "title": "Der Dichter des Volkes",
+    "bio": "Bai Juyi (772–846) war einer der produktivsten und beliebtesten Dichter der Tang-Dynastie, der für das Schreiben in einem klaren, zugänglichen Stil bekannt war, der von einfachen Leuten verstanden werden konnte. Der Legende nach las er seine Gedichte einer alten Frau vor und überarbeitete alles, was sie nicht verstehen konnte. Er hatte eine erfolgreiche offizielle Karriere und stieg in hohe Positionen auf, bevor er wegen seiner offenen Kritik an der Regierung ins Exil geschickt wurde.",
+    "style": "Bai Juyi pflegte bewusst einen schlichten, direkten Stil, da er glaubte, dass Poesie als sozialer Kommentar dienen sollte, der für alle zugänglich ist. Seine „New Yuefu“-Gedichte (新乐府) thematisierten direkt soziale Ungerechtigkeiten – Korruption, Wehrpflicht, Armut und die Exzesse der Reichen. Trotz dieser Zugänglichkeit erreicht sein bestes Werk bemerkenswerte emotionale Tiefe und erzählerische Kraft. Seine langen Balladen kombinieren s",
+    "legacy": "Bai Juyi war zu seinen Lebzeiten enorm populär – seine Gedichte wurden an Wände kopiert und in den Straßen Chinas gesungen. Sein Einfluss war besonders stark in Japan, wo er jahrhundertelang als der größte chinesische Dichter galt (dort populärer als Li Bai oder Du Fu). Seine Betonung auf Klarheit und soziale Relevanz beeinflusste Generationen chinesischer Schriftsteller. „Song of Everlasting Regret“ wurde",
+    "famousLines": [
+      {
+        "chinese": "野火烧不尽，春风吹又生",
+        "pinyin": "yě huǒ shāo bù jìn, chūn fēng chuī yòu shēng",
+        "english": "Wildfeuer kann sie nicht abbrennen; Frühlingswind weht und sie wachsen wieder",
+        "from": "Grasses (赋得古原草送别)"
+      },
+      {
+        "chinese": "离离原上草，一岁一枯荣",
+        "pinyin": "lí lí yuán shàng cǎo, yī suì yī kū róng",
+        "english": "Endlose Gräser in der Ebene – jedes Jahr verdorren und blühen sie wieder",
+        "from": "Grasses (赋得古原草送别)"
+      }
+    ],
+    "originalSlug": "bai-juyi"
+  },
+  {
+    "slug": "li-shangyin",
+    "name": "Li Shangyin",
+    "nameChinese": "李商隐",
+    "nameTraditional": "李商隱",
+    "courtesy": "Yishan",
+    "courtesyChinese": "字义山",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "813",
+    "deathYear": "858",
+    "title": "Meister der Anspielung",
+    "bio": "Li Shangyin (813–858) war ein Dichter der späten Tang-Dynastie, der für seine reichhaltig anspielungsreiche, emotional komplexe Dichtung gefeiert wurde. Er wurde in eine verfallende Adelsfamilie geboren, zeigte früh literarisches Talent und bestand die kaiserliche Prüfung mit Hilfe eines Gönners. Er geriet jedoch in fraktionelle Politik – seine Heirat mit der Tochter einer politischen Fraktion entfremdete die andere und beendete effektiv seine Chance.",
+    "style": "Li Shangyins Poesie ist bekannt für ihre dichten Bedeutungsebenen, ihre reiche Bildsprache und ihre emotionale Ambiguität. Seine \"Unbetitelten Gedichte\" (无题诗) gehören zu den am meisten diskutierten Werken der chinesischen Literatur – Gelehrte streiten seit Jahrhunderten darüber, ob sie romantische Liebe, politische Allegorie oder spirituelle Sehnsucht beschreiben. Seine Verse zeichnen sich durch sinnliche Bilder (Kerzen, Regen, Seide, Jade), komplizierte Anspielungen aus.",
+    "legacy": "Li Shangyin ist zusammen mit Du Mu als der \"Kleine Li und Du\" (小李杜) bekannt, der an den \"Großen Li und Du\" (Li Bai und Du Fu) erinnert. Sein Einfluss auf die chinesische Liebeslyrik ist tiefgreifend – seine Bilder von Kerzen, Regen und getrennten Liebenden wurden zu dauerhaften literarischen Konventionen. Seine Zeile \"Der Faden der Frühlingsseidenraupe endet erst, wenn sie stirbt\" (春蚕到死丝方尽) bleibt einer der berühmtesten Ausdrücke der Hingabe in China.",
+    "famousLines": [
+      {
+        "chinese": "君问归期未有期，巴山夜雨涨秋池",
+        "pinyin": "jūn wèn guī qī wèi yǒu qī, bā shān yè yǔ zhǎng qiū chí",
+        "english": "Du fragst, wann ich zurückkehren werde – es gibt keinen Termin. Der nächtliche Regen auf dem Berg Ba lässt die Herbsttümpel anschwellen.",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      },
+      {
+        "chinese": "何当共剪西窗烛，却话巴山夜雨时",
+        "pinyin": "hé dāng gòng jiǎn xī chuāng zhú, què huà bā shān yè yǔ shí",
+        "english": "Wann werden wir zusammensitzen, Kerzen am Westfenster anzünden und über diese Regennacht sprechen?",
+        "from": "Night Rain — Letter to the North (夜雨寄北)"
+      }
+    ],
+    "originalSlug": "li-shangyin"
+  },
+  {
+    "slug": "du-mu",
+    "name": "Du Mu",
+    "nameChinese": "杜牧",
+    "nameTraditional": "杜牧",
+    "courtesy": "Muzhi",
+    "courtesyChinese": "字牧之",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "803",
+    "deathYear": "852",
+    "title": "Der kleine Du (小杜)",
+    "bio": "Du Mu (803–852) war ein Dichter und Essayist der späten Tang-Dynastie, der für seine elegante, oft melancholische Dichtung und seinen scharfen historischen Kommentar bekannt war. Er wurde in eine prominente Familie geboren – sein Großvater Du You war Premierminister und Historiker – er bestand die kaiserlichen Prüfungen und diente in verschiedenen Regierungsposten. Er war bekannt für seinen Witz, seine Wertschätzung für Schönheit und sein scharfes Bewusstsein für den historischen Niedergang.",
+    "style": "Du Mus Poesie zeichnet sich durch ihre Eleganz, ihre lebendige Bildsprache und eine unverwechselbare Mischung aus sinnlicher Schönheit und historischer Melancholie aus. Seine Vierzeiler gelten als die besten der Tang-Dynastie – jeder einzelne ist ein perfekt gearbeitetes Miniaturgemälde mit einer emotionalen Wendung. Er zeichnete sich darin aus, gegenwärtige Szenen durch die Linse des historischen Wandels zu betrachten und fand Ergreifendes im Kontrast zwischen Vergangenheit.",
+    "legacy": "Zusammen mit Li Shangyin ist Du Mu als der \"Kleine Li und Du\" (小李杜) bekannt. Sein Gedicht \"Qingming\" ist dauerhaft mit dem Tomb-Sweeping Festival verbunden – es ist nahezu unmöglich, Qingming in China zu begehen, ohne es zitiert zu hören. Seine historischen Gedichte über den Niedergang früherer Dynastien wurden als Kommentare zum schwindenden Tang-Dynastie gelesen, was ihnen prophetische Resonanz verlieh. Seine Qua",
+    "famousLines": [
+      {
+        "chinese": "清明时节雨纷纷，路上行人欲断魂",
+        "pinyin": "qīng míng shí jié yǔ fēn fēn, lù shàng xíng rén yù duàn hún",
+        "english": "Während des Qingming-Festivals fällt dicker und schneller Regen; Reisende auf der Straße sind bis in ihre Seelen erschöpft.",
+        "from": "Qingming Festival (清明)"
+      },
+      {
+        "chinese": "借问酒家何处有，牧童遥指杏花村",
+        "pinyin": "jiè wèn jiǔ jiā hé chù yǒu, mù tóng yáo zhǐ xìng huā cūn",
+        "english": "\"Wo kann ich eine Taverne finden?\" – ein Hirtenjunge deutet auf das Apricot Blossom Village.",
+        "from": "Qingming Festival (清明)"
+      }
+    ],
+    "originalSlug": "du-mu"
+  },
+  {
+    "slug": "meng-haoran",
+    "name": "Meng Haoran",
+    "nameChinese": "孟浩然",
+    "nameTraditional": "孟浩然",
+    "courtesy": "Haoran",
+    "courtesyChinese": "名浩然",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "689",
+    "deathYear": "740",
+    "title": "Der Einsiedler-Dichter",
+    "bio": "Meng Haoran (689–740) war einer der bedeutendsten Hirten- und Naturdichter der Tang-Dynastie. Einzigartig unter den großen Tang-Dichtern bekleidete er nie eine offizielle Regierungsposition, sondern wählte stattdessen ein Leben in ländlicher Abgeschiedenheit und auf Reisen. Er wurde von Li Bai sehr bewundert, der ein berühmtes Gedicht schrieb, in dem er ihn lobte. Er reiste nach Chang'an, um eine offizielle Karriere anzustreben, bestand aber die Prüfung nicht, und eine Audienz",
+    "style": "Meng Haorans Poesie wird für ihre natürliche Einfachheit, ihr echtes Gefühl und ihre pastorale Schönheit gefeiert. Er ist die prägende Figur der Schule der „Berge und Felder“ (山水田园) der Tang-Dichtung. Seine Verse wirken unaufdringlich und spontan und fangen Momente natürlicher Schönheit mit einer Frische ein, die gelehrtere Dichter beneideten. Li Bai lobte seine „klare Poesie“, die „sich über die profane Welt erhob“. Seine beste Po",
+    "legacy": "Meng Haoran wird zusammen mit Wang Wei als die „Wang-Meng“-Schule (王孟) der Naturdichtung betrachtet, die den Höhepunkt des chinesischen Hirtenverses darstellt. Sein „Frühlingsmorgen“ (春晓) ist eines der ersten Gedichte, das jedes chinesische Kind lernt, was es zu einem der bekanntesten Gedichte in jeder Sprache macht. Seine Entscheidung für ein Leben außerhalb des Beamtentums beeinflusste Generationen chinesischer Literaten, die das Leben des Einsiedler-Dichters idealisierten",
+    "famousLines": [
+      {
+        "chinese": "春眠不觉晓，处处闻啼鸟",
+        "pinyin": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
+        "english": "Im Frühlingsschlaf kommt die Morgendämmerung unbemerkt – überall höre ich die Vögel singen",
+        "from": "Spring Morning (春晓)"
+      },
+      {
+        "chinese": "夜来风雨声，花落知多少",
+        "pinyin": "yè lái fēng yǔ shēng, huā luò zhī duō shǎo",
+        "english": "Letzte Nacht kam das Geräusch von Wind und Regen; wer weiß, wie viele Blütenblätter gefallen sind?",
+        "from": "Spring Morning (春晓)"
+      }
+    ],
+    "originalSlug": "meng-haoran"
+  },
+  {
+    "slug": "wang-changling",
+    "name": "Wang Changling",
+    "nameChinese": "王昌龄",
+    "nameTraditional": "王昌齡",
+    "courtesy": "Shaobo",
+    "courtesyChinese": "字少伯",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "698",
+    "deathYear": "756",
+    "title": "Meister der siebenstelligen Quatrains (七绝圣手)",
+    "bio": "Wang Changling (698–756) war ein Dichter der Hohen Tang-Zeit, der als der höchste Meister der siebenstelligen Quatrain-Form gilt. Er bestand die kaiserliche Prüfung und diente in verschiedenen Ämtern, erlitt aber politische Rückschläge und wurde zweimal in abgelegene südliche Regionen versetzt. Trotz seines literarischen Ruhms führte er ein schwieriges Beamtenleben. Er wurde während des Chaos der An Lushan Rebellion von einem eifersüchtigen lokalen Offi",
+    "style": "Wang Changlings Spezialität war der siebenstellige Quatrain (七言绝句), in dem er eine Perfektion erreichte, die ihm den Titel „Heiliger der siebenstelligen Quatrains“ (七绝圣手) einbrachte. Seine Grenzgedichte verbinden Kampfgeist mit tiefem Mitgefühl für einfache Soldaten und vermeiden sowohl chauvinistische Verherrlichung als auch defätistische Verzweiflung. Seine Palastgedichte und Abschiedsgedichte zeugen von gleicher Meisterschaft. Jeder Quatrain ist präzise",
+    "legacy": "Wang Changlings „Draußen an der Grenze“ (出塞) wird durchweg zu den größten Tang-Quatrains gezählt, die je geschrieben wurden. Seine Eröffnungszeile – „Der gleiche Mond, der in Qin schien, die gleichen Pässe aus der Han-Zeit“ – ist eine der bekanntesten Zeilen in der chinesischen Poesie. Seine Beherrschung der Quatrain-Form beeinflusste jeden nachfolgenden Dichter, der in diesem Genre arbeitete. Seine Grenzpoesie etablierte eine Vorlage dafür, wie Chi",
+    "famousLines": [
+      {
+        "chinese": "秦时明月汉时关，万里长征人未还",
+        "pinyin": "qín shí míng yuè hàn shí guān, wàn lǐ cháng zhēng rén wèi huán",
+        "english": "Der gleiche Mond, der in Qin schien, die gleichen Pässe aus der Han-Zeit – Soldaten marschierten zehntausend Meilen und sind nicht zurückgekehrt",
+        "from": "Out on the Frontier (出塞)"
+      },
+      {
+        "chinese": "但使龙城飞将在，不教胡马度阴山",
+        "pinyin": "dàn shǐ lóng chéng fēi jiàng zài, bù jiào hú mǎ dù yīn shān",
+        "english": "Wenn nur der Fliegende General hier wäre, würde er niemals zulassen, dass die feindlichen Pferde den Yin-Berg überqueren",
+        "from": "Out on the Frontier (出塞)"
+      }
+    ],
+    "originalSlug": "wang-changling"
+  },
+  {
+    "slug": "liu-zongyuan",
+    "name": "Liu Zongyuan",
+    "nameChinese": "柳宗元",
+    "nameTraditional": "柳宗元",
+    "courtesy": "Zihou",
+    "courtesyChinese": "字子厚",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "773",
+    "deathYear": "819",
+    "title": "Meister der Landschaftsprosa",
+    "bio": "Liu Zongyuan (773–819) war ein Essayist, Dichter und politischer Reformer der Tang-Dynastie, der zu den „Acht großen Prosameistern der Tang- und Song-Dynastie“ (唐宋八大家) gezählt wird. Er wurde in eine aristokratische Familie in Chang'an geboren, bestand in jungen Jahren die kaiserliche Prüfung und stieg schnell in der Regierung auf. Im Jahr 805 beteiligte er sich an einer politischen Reformbewegung, die nach nur 146 Tagen scheiterte. Die Reformer wurden bestraft.",
+    "style": "Liu Zongyuans Dichtung und Prosa verwandeln die Erfahrung des Exils in Kunst von höchster Qualität. Seine Landschafts-Essays („Acht Aufzeichnungen von Yongzhou“) gelten als die feinste Naturprosa im klassischen Chinesisch und verbinden präzise Beobachtung mit philosophischer Tiefe. Seine Dichtung, obwohl von geringerem Umfang, erzielt außergewöhnliche Effekte – „Flussschnee“ erschafft eine ganze gefrorene Welt in nur 20 Zeichen.",
+    "legacy": "Liu Zongyuans „Flussschnee“ (江雪) ist eines der visuell ikonischsten chinesischen Gedichte, das unaufhörlich in chinesischer Malerei und Kalligraphie reproduziert wird. Das Bild des einsamen Fischers in einer gefrorenen Landschaft ist zu einem universellen Symbol für prinzipielle Einsamkeit geworden. Seine Prosawerke etablierten den Standard für chinesische Landschaftsschreibung und beeinflussten die gesamte Tradition des Natur-Essays durch die Ming- und Qing-Dynastie.",
+    "famousLines": [
+      {
+        "chinese": "千山鸟飞绝，万径人踪灭",
+        "pinyin": "qiān shān niǎo fēi jué, wàn jìng rén zōng miè",
+        "english": "Von tausend Bergen sind die Vögel verschwunden; auf zehntausend Pfaden sind menschliche Spuren verschwunden",
+        "from": "River Snow (江雪)"
+      },
+      {
+        "chinese": "孤舟蓑笠翁，独钓寒江雪",
+        "pinyin": "gū zhōu suō lì wēng, dú diào hán jiāng xuě",
+        "english": "Ein einsames Boot, ein alter Mann im Strohmantel – fischt allein im kalten Flussschnee",
+        "from": "River Snow (江雪)"
+      }
+    ],
+    "originalSlug": "liu-zongyuan"
+  },
+  {
+    "slug": "wang-zhihuan",
+    "name": "Wang Zhihuan",
+    "nameChinese": "王之涣",
+    "nameTraditional": "王之渙",
+    "courtesy": "Jiling",
+    "courtesyChinese": "字季凌",
+    "dynasty": "Tang Dynasty",
+    "dynastyChinese": "唐代",
+    "birthYear": "688",
+    "deathYear": "742",
+    "title": "Der visionäre Dichter",
+    "bio": "Wang Zhihuan (688–742) ist einer der bemerkenswertesten Fälle in der chinesischen Literaturgeschichte: ein Dichter, dessen Ruhm auf nur sechs erhaltenen Gedichten beruht, von denen zwei zu den berühmtesten in der gesamten chinesischen Literatur zählen. Er wurde in der Provinz Shanxi geboren, bekleidete kleinere offizielle Positionen, verbrachte aber einen Großteil seines Lebens mit Reisen in den nördlichen Grenzregionen. Im Vergleich zu anderen bedeutenden Dichtern der Tang-Dynastie ist wenig über seine Biografie bekannt.",
+    "style": "Wang Zhihuans erhaltene Gedichte zeichnen sich durch ihre expansive Vision, kühne Bildsprache und philosophische Tiefe aus, die in extrem komprimierten Formen erreicht wird. Seine beiden Meisterwerke – „Den Storch-Turm besteigen“ und „Lied von Liangzhou“ – malen beide weite Panoramen der Landschaft und schwenken dann zu tiefgründigen Aussagen über menschliches Streben oder Grenzisolation. Seine Vision operiert auf kosmischer Ebene: Flüsse fließen.",
+    "legacy": "Wang Zhihuan beweist, dass literarische Unsterblichkeit Qualität und nicht Quantität erfordert. „Den Storch-Turm besteigen“ (登鹳雀楼) ist zu einem der am häufigsten zitierten Gedichte im Chinesischen geworden – seine letzten Zeilen „Steige noch eine Etage höher“ (更上一层楼) werden als Sprichwort für kontinuierliche Verbesserung in allem von Bildung bis Wirtschaft verwendet. „Lied von Liangzhou“ (凉州词) gilt als das definitive Grenzgedicht. Sein Werk ist der Beweis dafür, dass ein einzelnes.",
+    "famousLines": [
+      {
+        "chinese": "欲穷千里目，更上一层楼",
+        "pinyin": "yù qióng qiān lǐ mù, gèng shàng yī céng lóu",
+        "english": "Wenn du tausend Meilen weiter sehen willst, steige noch eine Etage des Turms hinauf",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      },
+      {
+        "chinese": "白日依山尽，黄河入海流",
+        "pinyin": "bái rì yī shān jìn, huáng hé rù hǎi liú",
+        "english": "Die weiße Sonne geht hinter den Bergen unter; der Gelbe Fluss fließt ins Meer",
+        "from": "Climbing Stork Tower (登鹳雀楼)"
+      }
+    ],
+    "originalSlug": "wang-zhihuan"
+  }
+]

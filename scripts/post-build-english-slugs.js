@@ -13,7 +13,7 @@ const path = require('path');
 
 const OUT_DIR = path.join(__dirname, '..', 'out');
 const TRANSLATIONS_DIR = path.join(__dirname, '..', 'public', 'translations');
-const LANGUAGES = ['ar', 'es', 'fr', 'hi', 'id', 'ja', 'ko', 'ms', 'pt', 'ru', 'th', 'tl', 'vi'];
+const LANGUAGES = ['ar', 'de', 'es', 'fr', 'hi', 'id', 'ja', 'ko', 'ms', 'pt', 'ru', 'th', 'tl', 'vi'];
 
 let copied = 0;
 let skipped = 0;

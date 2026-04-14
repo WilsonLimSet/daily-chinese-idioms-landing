@@ -64,7 +64,7 @@ const FAQ: Array<{ q: string; a: string }> = [
   },
 ];
 
-const LANG_CODES = ['ar', 'es', 'fr', 'hi', 'id', 'ja', 'ko', 'ms', 'pt', 'ru', 'th', 'tl', 'vi'] as const;
+const LANG_CODES = ['ar', 'de', 'es', 'fr', 'hi', 'id', 'ja', 'ko', 'ms', 'pt', 'ru', 'th', 'tl', 'vi'] as const;
 
 export const metadata: Metadata = {
   title: 'Chinese Proverbs: 200+ Ancient Sayings with Meanings (谚语)',
