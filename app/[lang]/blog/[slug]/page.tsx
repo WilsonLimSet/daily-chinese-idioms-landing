@@ -327,7 +327,22 @@ export default async function InternationalBlogPostPage({
           <AdUnit type="in-article" />
         </header>
 
-        <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: contentHtml }} />
+        {(() => {
+          const parts = contentHtml.split(/<hr\s*\/?>/);
+          if (parts.length < 3) {
+            return <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: contentHtml }} />;
+          }
+          const mid = Math.floor(parts.length / 2);
+          const firstHalf = parts.slice(0, mid).join('<hr/>') + '<hr/>';
+          const secondHalf = parts.slice(mid).join('<hr/>');
+          return (
+            <>
+              <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: firstHalf }} />
+              <AdUnit type="in-article" />
+              <div className="prose prose-lg max-w-none" dangerouslySetInnerHTML={{ __html: secondHalf }} />
+            </>
+          );
+        })()}
 
         <AdUnit type="multiplex" />
 

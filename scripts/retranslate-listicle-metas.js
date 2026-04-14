@@ -30,7 +30,7 @@ const LANGUAGES = {
   'es': 'Spanish', 'pt': 'Portuguese', 'id': 'Indonesian',
   'vi': 'Vietnamese', 'ja': 'Japanese', 'ko': 'Korean',
   'th': 'Thai', 'hi': 'Hindi', 'ar': 'Arabic',
-  'fr': 'French', 'tl': 'Filipino/Tagalog', 'ms': 'Malay', 'ru': 'Russian'
+  'fr': 'French', 'de': 'German', 'tl': 'Filipino/Tagalog', 'ms': 'Malay', 'ru': 'Russian'
 };
 
 // Slugs whose title/description/metaDescription were updated in English

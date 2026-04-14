@@ -376,7 +376,22 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
         </header>
 
         <div className="blog-content">
-          <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
+          {(() => {
+            const parts = contentHtml.split(/<hr\s*\/?>/);
+            if (parts.length < 3) {
+              return <div dangerouslySetInnerHTML={{ __html: contentHtml }} />;
+            }
+            const mid = Math.floor(parts.length / 2);
+            const firstHalf = parts.slice(0, mid).join('<hr/>') + '<hr/>';
+            const secondHalf = parts.slice(mid).join('<hr/>');
+            return (
+              <>
+                <div dangerouslySetInnerHTML={{ __html: firstHalf }} />
+                <AdUnit type="in-article" />
+                <div dangerouslySetInnerHTML={{ __html: secondHalf }} />
+              </>
+            );
+          })()}
         </div>
 
         <AdUnit type="multiplex" />

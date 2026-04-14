@@ -21,7 +21,7 @@ const CONCURRENCY = parseInt(process.env.CONCURRENCY) || 10;
 const LANGUAGES = {
   'es': 'Spanish', 'pt': 'Brazilian Portuguese', 'id': 'Indonesian',
   'vi': 'Vietnamese', 'ja': 'Japanese', 'ko': 'Korean', 'th': 'Thai',
-  'hi': 'Hindi', 'ar': 'Arabic', 'fr': 'French', 'tl': 'Filipino/Tagalog',
+  'hi': 'Hindi', 'ar': 'Arabic', 'fr': 'French', 'de': 'German', 'tl': 'Filipino/Tagalog',
   'ms': 'Malay', 'ru': 'Russian'
 };
 

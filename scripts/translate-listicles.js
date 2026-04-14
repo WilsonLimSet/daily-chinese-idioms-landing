@@ -36,6 +36,7 @@ const LANGUAGES = {
   'hi': 'Hindi',
   'ar': 'Arabic',
   'fr': 'French',
+  'de': 'German',
   'tl': 'Filipino/Tagalog',
   'ms': 'Malay',
   'ru': 'Russian'
