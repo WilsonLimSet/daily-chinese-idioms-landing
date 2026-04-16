@@ -237,6 +237,15 @@ export default async function Home() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">More Resources</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl">
             <Link
+              href="/sbti"
+              className="p-5 bg-indigo-50 rounded-xl border border-indigo-200 hover:shadow-md hover:border-indigo-300 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-gradient-to-r from-indigo-500 to-purple-500 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">SBTI Personality Test</p>
+              <p className="text-sm text-gray-600 mt-1">All 27 types matched to Chinese idioms</p>
+              <p className="text-xs text-indigo-600 font-medium mt-2">Find your type →</p>
+            </Link>
+            <Link
               href="/festivals"
               className="p-5 bg-red-50 rounded-xl border border-red-100 hover:shadow-md hover:border-red-200 transition-all group"
             >

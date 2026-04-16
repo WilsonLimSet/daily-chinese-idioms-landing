@@ -10,6 +10,7 @@ import { getAllPoems } from '@/src/lib/poems';
 import { getAllPoets } from '@/src/lib/poets';
 import { getAllComparisons } from '@/src/lib/comparisons';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
+import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
 
 const THEME_SLUGS = [
   'life-philosophy',
@@ -113,6 +114,24 @@ export default async function sitemap(props: {
         priority: 0.9,
       },
     ];
+
+    const sbtiHub: MetadataRoute.Sitemap = [
+      { url: `${baseUrl}/sbti`, lastModified: new Date() },
+      { url: `${baseUrl}/sbti/vs-mbti`, lastModified: new Date() },
+      { url: `${baseUrl}/sbti/what-is`, lastModified: new Date() },
+    ];
+
+    const sbtiTypes = getAllSbtiTypesEn();
+    const sbtiTypePages: MetadataRoute.Sitemap = [
+      { url: `${baseUrl}/sbti/slang`, lastModified: new Date() },
+      { url: `${baseUrl}/slang/tiktok-chinese`, lastModified: new Date() },
+    ];
+    for (const t of sbtiTypes) {
+      const slug = typeCodeToSlug(t.code);
+      sbtiTypePages.push({ url: `${baseUrl}/sbti/${slug}`, lastModified: new Date() });
+      sbtiTypePages.push({ url: `${baseUrl}/sbti/${slug}/how-to-get`, lastModified: new Date() });
+      sbtiTypePages.push({ url: `${baseUrl}/sbti/${slug}/compatibility`, lastModified: new Date() });
+    }
 
     // Slang pages
     const slangTerms = getAllSlangTerms();
@@ -232,7 +251,7 @@ export default async function sitemap(props: {
       })),
     ];
 
-    return [...staticPages, ...blogPosts, ...themePages, ...proverbsHub, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages, ...comparePages];
+    return [...staticPages, ...blogPosts, ...themePages, ...proverbsHub, ...sbtiHub, ...sbtiTypePages, ...slangPages, ...hskPages, ...phrasePages, ...charPages, ...poemPages, ...poetPages, ...comparePages];
   }
 
   // Sitemap 1: English listicles
@@ -304,6 +323,17 @@ export default async function sitemap(props: {
     changeFrequency: 'weekly',
     priority: 0.85,
   });
+
+  // Language SBTI hub + type pages + cheat guides + compatibility
+  entries.push({ url: `${baseUrl}/${lang}/sbti`, lastModified: new Date() });
+  for (const t of getAllSbtiTypes(lang)) {
+    const slug = typeCodeToSlug(t.code);
+    entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}`, lastModified: new Date() });
+    entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}/how-to-get`, lastModified: new Date() });
+    entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}/compatibility`, lastModified: new Date() });
+  }
+  entries.push({ url: `${baseUrl}/${lang}/sbti/slang`, lastModified: new Date() });
+  entries.push({ url: `${baseUrl}/${lang}/slang/tiktok-chinese`, lastModified: new Date() });
 
   // Language blog posts
   try {

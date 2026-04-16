@@ -8010,5 +8010,680 @@
     ],
     "category": "Kasaysayan at Kultura",
     "publishedDate": "2025-05-09"
+  },
+  {
+    "slug": "sbti-ctrl-personalidad-idioma-tsino",
+    "originalSlug": "sbti-ctrl-personality-chinese-idioms",
+    "title": "SBTI CTRL Personality — 5 Idioma Tsino para sa Uri ng Controller",
+    "description": "Ang SBTI CTRL ay nangangahulugang kontrol, istraktura, at kahusayan. Ang 5 idioma Tsino (chengyu) na ito ay perpektong kumukuha sa Controller",
+    "metaDescription": "Nakuha ang CTRL sa SBTI test? Tuklasin ang 5 idioma Tsino na tumutugma sa personalidad ng Controller — mga dalubhasa sa pagpaplano, istraktura, at pagpapatupad. May pinyin at mga kahulugan.",
+    "keywords": [
+      "sbti ctrl",
+      "sbti ctrl meaning",
+      "sbti controller type",
+      "sbti personality chinese idioms",
+      "ctrl sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Kung nakuha mo ang CTRL sa SBTI personality test, ikaw ang Controller — isang taong ang vibe ay kontrol, pagpapatupad, at istraktura. Ang kulturang Tsino ay may mga siglo ng karunungan tungkol sa kapangyarihan ng pagpaplano at kahusayan, na nakukuha sa mga idioma na tinatawag na chengyu (成语). Narito ang 5 na naglalaman ng personalidad ng CTRL.",
+    "idiomIds": [
+      "ID1027",
+      "ID077",
+      "ID532",
+      "ID053",
+      "ID666"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-atmer-personalidad-idioma-tsino",
+    "originalSlug": "sbti-atmer-personality-chinese-idioms",
+    "title": "SBTI ATM-er Personality — 5 Idioma Tsino para sa Uri ng Tagapagbigay",
+    "description": "Ang SBTI ATM-er ay ang walang pag-iimbot na Tagapagbigay na laging nagbabayad ng bill. 5 idioma Tsino na kumukuha sa mapagbigay at tapat na personalidad na ito.",
+    "metaDescription": "Ang resulta ng SBTI test na ATM-er ay nangangahulugang ikaw",
+    "keywords": [
+      "sbti atm-er",
+      "sbti atmer meaning",
+      "sbti giver type",
+      "sbti personality chinese idioms",
+      "atm-er sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Kung nakuha mo ang ATM-er sa SBTI personality test, ikaw ang Tagapagbigay — laging sumasagot sa bayarin, laging nandiyan para sa mga kaibigan, laging inuuna ang iba. Lubos na pinapahalagahan ng kulturang Tsino ang ganitong uri ng walang pag-iimbot na debosyon sa mga idioma nito (chengyu, 成语). Narito ang 5 na kumukuha sa diwa ng ATM-er.",
+    "idiomIds": [
+      "ID043",
+      "ID594",
+      "ID884",
+      "ID699",
+      "ID484"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-diors-personalidad-idioma-tsino",
+    "originalSlug": "sbti-diors-personality-chinese-idioms",
+    "title": "SBTI Dior-s Personality — 5 Idioma Tsino para sa Uri ng Loser-Sage",
+    "description": "Ang SBTI Dior-s ay ang anti-hustle na Loser-Sage na nakakahanap ng kapayapaan sa mababang pagnanasa. 5 idioma Tsino para sa hiwalay at kontentong personalidad na ito.",
+    "metaDescription": "Nakuha ang Dior-s sa SBTI? Ikaw",
+    "keywords": [
+      "sbti dior-s",
+      "sbti diors meaning",
+      "sbti loser sage",
+      "sbti personality chinese idioms",
+      "dior-s sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang Dior-s sa SBTI test ay nangangahulugang ikaw ang Loser-Sage — isang taong umalis sa hustle at nakahanap ng mas tahimik na karunungan. Matagal nang ipinagdiriwang ng pilosopiyang Tsino ang pagkakahiwalay na ito sa pamamagitan ng mga idioma (chengyu, 成语). Narito ang 5 na kumukuha sa paraan ng Dior-s.",
+    "idiomIds": [
+      "ID455",
+      "ID954",
+      "ID301",
+      "ID654",
+      "ID030"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-boss-personalidad-idioma-tsino",
+    "originalSlug": "sbti-boss-personality-chinese-idioms",
+    "title": "SBTI BOSS Personality — 5 Idioma Tsino para sa Uri ng Lider",
+    "description": "Ang SBTI BOSS ay nangangahulugang nag-uutos na puwersa, direksyon, at awtoridad. 5 idioma Tsino (chengyu) na kumukuha sa personalidad ng Lider.",
+    "metaDescription": "Nakakuha ng BOSS sa SBTI test? Namumuno ka nang may awtoridad at momentum. Ang 5 idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng BOSS — direksyon, pagiging mapagpasiya, kapangyarihan.",
+    "keywords": [
+      "sbti boss",
+      "sbti boss meaning",
+      "sbti leader type",
+      "sbti personality chinese idioms",
+      "boss sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang BOSS sa SBTI ay nangangahulugang ikaw ang Lider — nagtatakda ka ng direksyon, naglalapat ng presyon pataas, at nagpapangyari ng mga bagay. Ang estratehikong pag-iisip ng Tsino ay puno ng mga idioma (chengyu, 成语) tungkol sa nag-uutos na presensya at mapagpasyang pamumuno. Narito ang 5 na tumutugma sa vibe ng BOSS.",
+    "idiomIds": [
+      "ID042",
+      "ID693",
+      "ID268",
+      "ID294",
+      "ID440"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-thank-personalidad-idioma-tsino",
+    "originalSlug": "sbti-thank-personality-chinese-idioms",
+    "title": "SBTI THAN-K Personality — 5 Idioma Tsino para sa Uri ng Mapagpasalamat",
+    "description": "Ang SBTI THAN-K ay ang optimistiko at mapagpasalamat na kaluluwa na nakakahanap ng init sa paggaling. 5 idioma Tsino para sa maliwanag na personalidad na ito.",
+    "metaDescription": "Ang THAN-K sa SBTI ay nangangahulugang ikaw",
+    "keywords": [
+      "sbti than-k",
+      "sbti thank meaning",
+      "sbti thankful type",
+      "sbti personality chinese idioms",
+      "than-k sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang THAN-K sa SBTI test ay nangangahulugang ikaw ang Mapagpasalamat — ang taong bumabalik nang may init at nakakakita ng mga silver lining. Ang panitikang karunungan ng Tsino ay mayaman sa mga idioma (chengyu, 成语) tungkol sa optimismo at pasasalamat. Narito ang 5 na naglalaman ng diwa ng THAN-K.",
+    "idiomIds": [
+      "ID018",
+      "ID706",
+      "ID586",
+      "ID352",
+      "ID084"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-ohno-personalidad-idioma-tsino",
+    "originalSlug": "sbti-ohno-personality-chinese-idioms",
+    "title": "SBTI OH-NO Personalidad — 5 Idioma Tsino para sa Tagaiwas-Sakuna",
+    "description": "Nakikita ng SBTI OH-NO ang mga panganib nang maaga at nagtatakda ng mga limitasyon. 5 idioma Tsino (chengyu) para sa maingat at may pag-iisip na personalidad.",
+    "metaDescription": "Ang OH-NO sa SBTI ay nangangahulugang ikaw ay...",
+    "keywords": [
+      "sbti oh-no",
+      "sbti ohno meaning",
+      "sbti disaster preventer",
+      "sbti personality chinese idioms",
+      "oh-no sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang OH-NO sa SBTI ay nangangahulugang ikaw ang Tagaiwas-Sakuna — ang isa na nakakakita ng mga panganib bago pa man mangyari at nagtatakda ng mga limitasyon nang maaga. Ang estratehikong pag-iisip ng Tsino ay may malalim na paggalang sa pagiging maagap, na nakukuha sa mga idioma (chengyu, 成语). Narito ang 5 na tumutugma sa kaisipan ng OH-NO.",
+    "idiomIds": [
+      "ID524",
+      "ID809",
+      "ID211",
+      "ID423",
+      "ID037"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-gogo-personalidad-idioma-tsino",
+    "originalSlug": "sbti-gogo-personality-chinese-idioms",
+    "title": "SBTI GOGO Personalidad — 5 Idioma Tsino para sa Uri ng Tagagawa",
+    "description": "Ang SBTI GOGO ay kumikilos muna, nagsasalita mamaya. 5 idioma Tsino (chengyu) para sa mapagpasyang personalidad na may momentum.",
+    "metaDescription": "Ang GOGO sa SBTI ay nangangahulugang aksyon muna, talakayan pangalawa. Ang 5 idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng GOGO — mapagpasiya, matapang, may momentum.",
+    "keywords": [
+      "sbti gogo",
+      "sbti gogo meaning",
+      "sbti doer type",
+      "sbti personality chinese idioms",
+      "gogo sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang GOGO sa SBTI ay nangangahulugang ikaw ang Tagagawa — aksyon muna, talakayan mamaya. Ang mga idyoma ng militar at estratehikong Tsino (chengyu, 成语) ay puno ng enerhiya ng mapagpasyang aksyon. Narito ang 5 na kumukuha sa personalidad ng GOGO.",
+    "idiomIds": [
+      "ID168",
+      "ID342",
+      "ID983",
+      "ID288",
+      "ID825"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-sexy-personalidad-idioma-tsino",
+    "originalSlug": "sbti-sexy-personality-chinese-idioms",
+    "title": "SBTI SEXY Personalidad — 5 Idioma Tsino para sa Uri ng Magnetiko",
+    "description": "Ang SBTI SEXY ay nagpapalabas ng presensya at pang-akit. 5 idioma Tsino (chengyu) na kumukuha sa Magnetiko.",
+    "metaDescription": "Ang SEXY sa SBTI ay nangangahulugang magnetikong presensya at likas na pang-akit. Ang 5 idioma Tsino (chengyu) na ito ay nagdiriwang sa personalidad ng SEXY — kagandahan, karisma, grabidad ng atensyon.",
+    "keywords": [
+      "sbti sexy",
+      "sbti sexy meaning",
+      "sbti magnetic type",
+      "sbti personality chinese idioms",
+      "sexy sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang SEXY sa SBTI ay nangangahulugang ikaw ang Magnetiko — napapalingon ang mga tao at nagtitipon ang atensyon sa paligid mo. Ang klasikal na tulang Tsino ay may ilan sa mga pinakamagagandang idyoma (chengyu, 成语) sa mundo tungkol sa kagandahan at presensya. Narito ang 5 na tumutugma sa vibe ng SEXY.",
+    "idiomIds": [
+      "ID341",
+      "ID848",
+      "ID114",
+      "ID867",
+      "ID828"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-lover-personalidad-idioma-tsino",
+    "originalSlug": "sbti-lover-personality-chinese-idioms",
+    "title": "SBTI LOVE-R Personalidad — 5 Idioma Tsino para sa Uri ng Romantiko",
+    "description": "Ang SBTI LOVE-R ay ang Romantikong Maximalista — emosyonal na intensidad, malalim na debosyon. 5 idioma Tsino (chengyu) para sa madamdaming personalidad na ito.",
+    "metaDescription": "Ang LOVE-R sa SBTI ay nangangahulugang nagmamahal ka nang buong puso — debosyon, intensidad, mga ideyal. Ang 5 idioma Tsino (chengyu) na ito ay perpektong tumutugma sa personalidad ng LOVE-R.",
+    "keywords": [
+      "sbti love-r",
+      "sbti lover meaning",
+      "sbti romantic type",
+      "sbti personality chinese idioms",
+      "love-r sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang LOVE-R sa SBTI ay nangangahulugang ikaw ang Romantikong Maximalista — nagmamahal ka nang husto, nagtatalaga nang malalim, at nagdadala ng mga ideyal tungkol sa kung ano ang dapat na pag-ibig. Ang tulang Tsino ay nakagawa ng ilan sa mga pinakamagagandang idyoma (chengyu, 成语) sa kasaysayan tungkol sa debosyon. Narito ang 5 na tumutugma sa kaluluwa ng LOVE-R.",
+    "idiomIds": [
+      "ID606",
+      "ID682",
+      "ID056",
+      "ID385",
+      "ID611"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-mum-personalidad-idioma-tsino",
+    "originalSlug": "sbti-mum-personality-chinese-idioms",
+    "title": "SBTI MUM Personalidad — 5 Idioma Tsino para sa Uri ng Ina",
+    "description": "Ang SBTI MUM ay ang mapagmalasakit na tagapag-alaga na nagpapagaan at nag-aalaga. 5 idioma Tsino (chengyu) para sa mainit at sumusuportang personalidad na ito.",
+    "metaDescription": "Ang MUM sa SBTI ay nangangahulugang ikaw ay...",
+    "keywords": [
+      "sbti mum",
+      "sbti mum meaning",
+      "sbti mother type",
+      "sbti personality chinese idioms",
+      "mum sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang MUM sa SBTI ay nangangahulugang ikaw ang Ina — ang isa na nagpapagaan, sumusuporta, at humahawak sa emosyonal na espasyo para sa lahat sa paligid mo. Malalim na pinararangalan ng kulturang Tsino ang nag-aalagang enerhiya na ito sa mga idyoma nito (chengyu, 成语). Narito ang 5 na kumukuha sa diwa ng MUM.",
+    "idiomIds": [
+      "ID546",
+      "ID040",
+      "ID313",
+      "ID314",
+      "ID700"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-pekeng-personalidad-5-idiomang-tsino",
+    "originalSlug": "sbti-fake-personality-chinese-idioms",
+    "title": "SBTI PEKEng Personalidad — 5 Idiomang Tsino para sa Nagpapalit ng Maskara",
+    "description": "Ang SBTI PEKE ay ang umaangkop na Nagpapalit ng Maskara na may patong-patong na pagkakakilanlan. 5 idiomang Tsino (chengyu) para sa kumplikadong personalidad na ito.",
+    "metaDescription": "Ang PEKE sa SBTI ay nangangahulugang...",
+    "keywords": [
+      "sbti peke",
+      "sbti peke kahulugan",
+      "sbti nagpapalit ng maskara",
+      "sbti personalidad idiomang tsino",
+      "peke sbti ipinaliwanag",
+      "sbti resulta ng pagsusulit"
+    ],
+    "intro": "Ang PEKE sa SBTI ay hindi nangangahulugang hindi tunay — nangangahulugan ito na ikaw ang Nagpapalit ng Maskara, na inaangkop ang iyong presentasyon sa iba't ibang konteksto na may patong-patong na pagkakakilanlan. Ang kulturang Tsino ay may nuanced na bokabularyo para dito sa pamamagitan ng mga idyoma (chengyu, 成语). Narito ang 5 na tumutugma sa PEKEng personalidad.",
+    "idiomIds": [
+      "ID355",
+      "ID764",
+      "ID135",
+      "ID290",
+      "ID339"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-ojbk-personalidad-5-idiomang-tsino",
+    "originalSlug": "sbti-ojbk-personality-chinese-idioms",
+    "title": "SBTI OJBK Personalidad — 5 Idiomang Tsino para sa Anuman ang Uri",
+    "description": "Ang SBTI OJBK ay sumasabay sa agos at umiiwas sa alitan. 5 idiomang Tsino (chengyu) para sa madaling pakisamahang personalidad na ito.",
+    "metaDescription": "Ang OJBK sa SBTI ay nangangahulugang ikaw...",
+    "keywords": [
+      "sbti ojbk",
+      "sbti ojbk kahulugan",
+      "sbti anuman ang uri",
+      "sbti personalidad idiomang tsino",
+      "ojbk sbti ipinaliwanag",
+      "sbti resulta ng pagsusulit"
+    ],
+    "intro": "Ang OJBK sa SBTI ay nangangahulugang ikaw ang Anuman ang Tao — sumasabay ka sa mga bagay, umiiwas sa alitan, at pinapanatili ang iyong panloob na kapayapaan. Ang mga idiomang Tsino na naiimpluwensyahan ng Taoismo (chengyu, 成语) ay magandang nakukuha ang daloy na ito. Narito ang 5 na tumutugma sa OJBK vibe.",
+    "idiomIds": [
+      "ID616",
+      "ID710",
+      "ID811",
+      "ID409",
+      "ID426"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-malo-personalidad-5-idiomang-tsino",
+    "originalSlug": "sbti-malo-personality-chinese-idioms",
+    "title": "SBTI MALO Personalidad — 5 Idiomang Tsino para sa Uri ng Manlilinlang",
+    "description": "Ang SBTI MALO ay ang mapaglarong Unggoy na Utak na Manlilinlang na may kakaibang mga ideya. 5 idiomang Tsino (chengyu) para sa mapanlikhang personalidad na ito.",
+    "metaDescription": "Ang MALO sa SBTI ay nangangahulugang mapaglaro, matalino, hindi karaniwan. Ang 5 idiomang Tsino na ito (chengyu) ay tumutugma sa MALO personalidad — malikhaing kalokohan at mapanlikhang pag-iisip.",
+    "keywords": [
+      "sbti malo",
+      "sbti malo kahulugan",
+      "sbti unggoy na manlilinlang",
+      "sbti personalidad idiomang tsino",
+      "malo sbti ipinaliwanag",
+      "sbti resulta ng pagsusulit"
+    ],
+    "intro": "Ang MALO sa SBTI ay nangangahulugang ikaw ang Unggoy na Utak na Manlilinlang — mapaglaro, mapanlikha, at allergic sa pormalidad. Ang mga kuwentong Tsino ay puno ng matatalinong manlilinlang na mga pigura, at ang mga idyoma (chengyu, 成语) ay ipinagdiriwang ang ganitong uri ng katalinuhan. Narito ang 5 na tumutugma sa MALO personalidad.",
+    "idiomIds": [
+      "ID680",
+      "ID059",
+      "ID463",
+      "ID679",
+      "ID1027"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-joker-personalidad-5-idiomang-tsino",
+    "originalSlug": "sbti-joker-personality-chinese-idioms",
+    "title": "SBTI JOKE-R Personalidad — 5 Idiomang Tsino para sa Uri ng Payaso",
+    "description": "Ang SBTI JOKE-R ay nagtatago ng lalim sa likod ng katatawanan. 5 idiomang Tsino (chengyu) para sa personalidad ng Payaso...",
+    "metaDescription": "Ang JOKE-R sa SBTI ay nangangahulugang gumagamit ka ng katatawanan upang itago ang kawalan sa ilalim. Ang 5 idiomang Tsino na ito (chengyu) ay nakukuha ang JOKE-R personalidad...",
+    "keywords": [
+      "sbti joke-r",
+      "sbti joker kahulugan",
+      "sbti uri ng payaso",
+      "sbti personalidad idiomang tsino",
+      "joke-r sbti ipinaliwanag",
+      "sbti resulta ng pagsusulit"
+    ],
+    "intro": "Ang JOKE-R sa SBTI ay nangangahulugang ikaw ang Payaso — ikaw ang nagdadala ng katatawanan at nagdadala ng silid, ngunit may mas tahimik na bigat sa ilalim. Ang mga idiomang Tsino (chengyu, 成语) ay may nuanced na wika para sa ganitong uri ng patong-patong na pagganap. Narito ang 5 na tumutugma sa JOKE-R.",
+    "idiomIds": [
+      "ID245",
+      "ID246",
+      "ID587",
+      "ID097",
+      "ID225"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-woc-personalidad-5-idiomang-tsino",
+    "originalSlug": "sbti-woc-personality-chinese-idioms",
+    "title": "SBTI WOC Personalidad — 5 Idiomang Tsino para sa \"",
+    "description": "Ang SBTI WOC ay malakas na tumutugon ngunit tahimik na humahatol. 5 idiomang Tsino (chengyu) para sa dramatikong tagamasid na personalidad na ito.",
+    "metaDescription": "Ang WOC sa SBTI ay nangangahulugang malakas na reaksyon, tahimik na paghatol, dramatikong tagamasid. Ang 5 idiomang Tsino na ito (chengyu) ay tumutugma sa WOC personalidad...",
+    "keywords": [
+      "sbti woc",
+      "sbti woc kahulugan",
+      "sbti taong whoa",
+      "sbti personalidad idiomang tsino",
+      "woc sbti ipinaliwanag",
+      "sbti resulta ng pagsusulit"
+    ],
+    "intro": "Ang WOC sa SBTI ay nangangahulugang ikaw ang taong \"Whoa\" — malakas na reaksyon, tahimik na paghatol, ang dramatikong saksi sa bawat kuwento. Ang mga idiomang Tsino (chengyu, 成语) ay may tiyak na bokabularyo para sa dramatikong sorpresa at enerhiya ng tagapanood. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID498",
+      "ID415",
+      "ID064",
+      "ID179",
+      "ID198"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-think-personalidad-mga-idyoma-ng-tsino",
+    "originalSlug": "sbti-think-personality-chinese-idioms",
+    "title": "SBTI THIN-K Personalidad — 5 Idyoma ng Tsino para sa Uri ng Pag-iisip",
+    "description": "Ang SBTI THIN-K ay ang analitikal na nag-iisip na may cognitive distance. 5 idyoma ng Tsino (chengyu) para sa lohikal na personalidad na ito.",
+    "metaDescription": "Ang THIN-K sa SBTI ay nangangahulugang lohika, pagsusuri, deliberasyon. Ang 5 idyoma ng Tsino (chengyu) na ito ay tumutugma sa personalidad ng THIN-K — matalas na pananaw at malinaw na paningin.",
+    "keywords": [
+      "sbti thin-k",
+      "sbti think meaning",
+      "sbti thinker type",
+      "sbti personality chinese idioms",
+      "thin-k sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang THIN-K sa SBTI ay nangangahulugang ikaw ang Nag-iisip — sinusuri mo, nagdedeliberasyon ka, at pinapanatili mo ang cognitive distance habang ang lahat ay tumutugon. Iginagalang ng panitikang karunungan ng Tsino ang ganitong uri ng matalas na pananaw sa pamamagitan ng mga idyoma (chengyu, 成语). Narito ang 5 na tumutugma sa isip ng THIN-K.",
+    "idiomIds": [
+      "ID206",
+      "ID438",
+      "ID952",
+      "ID174",
+      "ID320"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-shit-personalidad-mga-idyoma-ng-tsino",
+    "originalSlug": "sbti-shit-personality-chinese-idioms",
+    "title": "SBTI SHIT Personalidad — 5 Idyoma ng Tsino para sa Mapait na Tagapagligtas ng Mundo",
+    "description": "Ang SBTI SHIT ay nagdadala ng paghamak sa labas, responsibilidad sa loob. 5 idyoma ng Tsino (chengyu) para sa mapanuyang-ngunit-nagmamalasakit na personalidad na ito.",
+    "metaDescription": "Ang SHIT sa SBTI ay nangangahulugang mapanuyang panlabas ngunit responsable sa ilalim. Ang 5 idyoma ng Tsino (chengyu) na ito ay tumutugma sa personalidad ng SHIT — pagod na sa mundo ngunit nagmamalasakit.",
+    "keywords": [
+      "sbti shit",
+      "sbti shit meaning",
+      "sbti cynic type",
+      "sbti personality chinese idioms",
+      "shit sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang SHIT sa SBTI ay hindi nangangahulugang kung ano ang iniisip mo — ito ang Mapait na Tagapagligtas ng Mundo, mapanuyang sa labas ngunit nagdadala ng malalim na responsibilidad sa ilalim. Ang mga klasikal na iskolar ng Tsino ay madalas na sumusulat sa ganitong boses; ang kanilang mga idyoma (chengyu, 成语) ay nakukuha ito nang mahusay. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID363",
+      "ID374",
+      "ID177",
+      "ID404",
+      "ID012"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-zzzz-personalidad-mga-idyoma-ng-tsino",
+    "originalSlug": "sbti-zzzz-personality-chinese-idioms",
+    "title": "SBTI ZZZZ Personalidad — 5 Idyoma ng Tsino para sa Uri ng Deadliner",
+    "description": "Ang SBTI ZZZZ ay aktibo lamang sa deadline. 5 idyoma ng Tsino (chengyu) para sa huling-minuto, personalidad na nagigising sa emergency.",
+    "metaDescription": "Ang ZZZZ sa SBTI ay nangangahulugang naantalang pag-activate, paggising sa emergency, hinihimok ng deadline. Ang 5 idyoma ng Tsino (chengyu) na ito ay nakukuha ang personalidad ng ZZZZ.",
+    "keywords": [
+      "sbti zzzz",
+      "sbti zzzz meaning",
+      "sbti deadliner",
+      "sbti personality chinese idioms",
+      "zzzz sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang ZZZZ sa SBTI ay nangangahulugang ikaw ang Deadliner — naghihibernate ka hanggang sa gisingin ka ng emergency, at pagkatapos ay ginagawa mo ang lahat nang sabay-sabay. Ang mga idyoma ng Tsino (chengyu, 成语) ay may mayamang bokabularyo para sa pagmamadali sa huling minuto. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID116",
+      "ID138",
+      "ID631",
+      "ID150",
+      "ID630"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-poor-personalidad-mga-idyoma-ng-tsino",
+    "originalSlug": "sbti-poor-personality-chinese-idioms",
+    "title": "SBTI POOR Personalidad — 5 Idyoma ng Tsino para sa Uri ng Makitid na Sinag",
+    "description": "Ang SBTI POOR ay nagtutuon nang husto at nagbibigay ng prayoridad nang walang awa. 5 idyoma ng Tsino (chengyu) para sa isahang-isip na personalidad na ito.",
+    "metaDescription": "Ang POOR sa SBTI ay nangangahulugang makitid na sinag ng pagtuon, mahigpit na pagbibigay ng prayoridad, piling enerhiya. Ang 5 idyoma ng Tsino (chengyu) na ito ay perpektong tumutugma sa personalidad ng POOR.",
+    "keywords": [
+      "sbti poor",
+      "sbti poor meaning",
+      "sbti narrow beam",
+      "sbti personality chinese idioms",
+      "poor sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang POOR sa SBTI ay nangangahulugang ikaw ang Makitid na Sinag — nagbibigay ka ng prayoridad nang walang awa, nagbubuhos ng enerhiya sa isang bagay sa isang pagkakataon, at binabalewala ang lahat. Ipinagdiriwang ng mga idyoma ng Tsino (chengyu, 成语) ang ganitong uri ng isahang-isip na pagtuon. Narito ang 5 na tumutugma sa vibe ng POOR.",
+    "idiomIds": [
+      "ID398",
+      "ID110",
+      "ID144",
+      "ID208",
+      "ID307"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-monk-personalidad-mga-idyoma-ng-tsino",
+    "originalSlug": "sbti-monk-personality-chinese-idioms",
+    "title": "SBTI MONK Personalidad — 5 Idyoma ng Tsino para sa Uri ng Monghe",
+    "description": "Ang SBTI MONK ay nagtataglay ng sagradong personal na espasyo at distansya. 5 idyoma ng Tsino (chengyu) para sa personalidad na mahilig sa pag-iisa.",
+    "metaDescription": "Ang MONK sa SBTI ay nangangahulugang privacy, distansya, sagradong personal na espasyo. Ang 5 idyoma ng Tsino (chengyu) na ito ay tumutugma sa personalidad ng MONK — transendensiya at pag-iisa.",
+    "keywords": [
+      "sbti monk",
+      "sbti monk meaning",
+      "sbti monk type",
+      "sbti personality chinese idioms",
+      "monk sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang MONK sa SBTI ay nangangahulugang ikaw ang Monghe — pinoprotektahan mo ang iyong personal na espasyo na parang sagradong lupa, at kusang-loob kang lumalayo sa kaguluhan. Ang mga impluwensya ng Taoista at Budista sa mga idyoma ng Tsino (chengyu, 成语) ay direktang nagsasalita dito. Narito ang 5 na tumutugma sa landas ng MONK.",
+    "idiomIds": [
+      "ID688",
+      "ID527",
+      "ID554",
+      "ID799",
+      "ID017"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-imsb-personalidad-idioma-tsino",
+    "originalSlug": "sbti-imsb-personality-chinese-idioms",
+    "title": "SBTI IMSB Personalidad — 5 Idioma Tsino para sa Hangal na Nagpapatalo sa Sarili",
+    "description": "Nilalabanan ng SBTI IMSB ang bugso ng damdamin gamit ang kawalan ng seguridad at labis na pagiging kumplikado. 5 Idioma Tsino (chengyu) para sa kontraproduktibong personalidad na ito.",
+    "metaDescription": "Ang IMSB sa SBTI ay nangangahulugang labis na pagiging kumplikado, bugso ng damdamin laban sa kawalan ng seguridad, pagpapatalo sa sarili. Ang 5 Idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng IMSB.",
+    "keywords": [
+      "sbti imsb",
+      "sbti imsb meaning",
+      "sbti self-defeating",
+      "sbti personality chinese idioms",
+      "imsb sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang IMSB sa SBTI ay nangangahulugang ikaw ay ang Hangal na Nagpapatalo sa Sarili — bugso ng damdamin na lumalaban sa kawalan ng seguridad, mga planong bumabalik, labis na pagiging kumplikado na sumisira sa magagandang bagay. Ang mga idioma Tsino (chengyu, 成语) ay may sikat na tiyak na wika para sa pattern na ito. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID996",
+      "ID079",
+      "ID152",
+      "ID190",
+      "ID230"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-solo-personalidad-idioma-tsino",
+    "originalSlug": "sbti-solo-personality-chinese-idioms",
+    "title": "SBTI SOLO Personalidad — 5 Idioma Tsino para sa Uri ng Taong Nakahiwalay",
+    "description": "Ang SBTI SOLO ay nagpapanatili ng nagtatanggol na distansya na may nakatagong pagiging sensitibo. 5 Idioma Tsino (chengyu) para sa malungkot-ngunit-independiyenteng personalidad na ito.",
+    "metaDescription": "Ang SOLO sa SBTI ay nangangahulugang nakahiwalay, nagtatanggol, nakatagong pagiging sensitibo. Ang 5 Idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng SOLO — paggawa nito nang mag-isa na may tahimik na lalim.",
+    "keywords": [
+      "sbti solo",
+      "sbti solo meaning",
+      "sbti isolated type",
+      "sbti personality chinese idioms",
+      "solo sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang SOLO sa SBTI ay nangangahulugang ikaw ay ang Taong Nakahiwalay — nagpapanatili ka ng nagtatanggol na distansya, hinahawakan ang mga bagay nang mag-isa, at nagdadala ng pagiging sensitibo na kakaunti ang nakakakita. Ang mga idioma Tsino (chengyu, 成语) ay nagsasalita sa nag-iisang katatagan na ito. Narito ang 5 na tumutugma sa SOLO.",
+    "idiomIds": [
+      "ID986",
+      "ID705",
+      "ID677",
+      "ID911",
+      "ID417"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-fuck-personalidad-idioma-tsino",
+    "originalSlug": "sbti-fuck-personality-chinese-idioms",
+    "title": "SBTI FUCK Personalidad — 5 Idioma Tsino para sa Uri ng Mabangis na Lakas",
+    "description": "Ang SBTI FUCK ay hilaw na sigla at hindi pa nasusupil na likas na ugali. 5 Idioma Tsino (chengyu) para sa anti-domestikadong personalidad na ito.",
+    "metaDescription": "Ang FUCK sa SBTI ay nangangahulugang hilaw na sigla, hindi pa nasusupil na likas na ugali, anti-domestikasyon. Ang 5 Idioma Tsino (chengyu) na ito ay kumukuha ng personalidad ng FUCK.",
+    "keywords": [
+      "sbti fuck",
+      "sbti fuck meaning",
+      "sbti wild force",
+      "sbti personality chinese idioms",
+      "fuck sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang FUCK sa SBTI ay nangangahulugang ikaw ay ang Mabangis na Lakas — hilaw na sigla, hindi pa nasusupil na likas na ugali, at isang pagtanggi na maging domestikado. Ang mga idioma Tsino (chengyu, 成语) ay may nagpapahayag na wika para sa hindi mapamahalaang enerhiya na ito. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID899",
+      "ID1012",
+      "ID130",
+      "ID172",
+      "ID251"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-dead-personalidad-idioma-tsino",
+    "originalSlug": "sbti-dead-personality-chinese-idioms",
+    "title": "SBTI DEAD Personalidad — 5 Idioma Tsino para sa Pagod na Pantas",
+    "description": "Ang SBTI DEAD ay nagdadala ng pagkapagod pagkatapos ng kahulugan at karunungan na may mababang pagnanais. 5 Idioma Tsino (chengyu) para sa personalidad na ito na burnout-wise.",
+    "metaDescription": "Ang DEAD sa SBTI ay nangangahulugang pagod na pantas, pagkapagod pagkatapos ng kahulugan, mababang kilig. Ang 5 Idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng DEAD.",
+    "keywords": [
+      "sbti dead",
+      "sbti dead meaning",
+      "sbti exhausted sage",
+      "sbti personality chinese idioms",
+      "dead sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang DEAD sa SBTI ay nangangahulugang ikaw ay ang Pagod na Pantas — burnout, mababang kilig, nakalipas na sa punto ng paghabol sa kahulugan. Ang klasikal na tulang Tsino ay puno ng parehong pagod na ito, na nakukuha sa mga idioma (chengyu, 成语). Narito ang 5 na tumutugma sa DEAD mood.",
+    "idiomIds": [
+      "ID321",
+      "ID213",
+      "ID244",
+      "ID522",
+      "ID948"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-imfw-personalidad-idioma-tsino",
+    "originalSlug": "sbti-imfw-personality-chinese-idioms",
+    "title": "SBTI IMFW Personalidad — 5 Idioma Tsino para sa Marupok na Mananampalataya",
+    "description": "Ang SBTI IMFW ay sensitibo at umaasa na may mababang emosyonal na baluti. 5 Idioma Tsino (chengyu) para sa marupok na personalidad na ito.",
+    "metaDescription": "Ang IMFW sa SBTI ay nangangahulugang sensitibo, umaasa, mababang emosyonal na baluti. Ang 5 Idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng IMFW.",
+    "keywords": [
+      "sbti imfw",
+      "sbti imfw meaning",
+      "sbti fragile believer",
+      "sbti personality chinese idioms",
+      "imfw sbti explained",
+      "sbti test result"
+    ],
+    "intro": "Ang IMFW sa SBTI ay nangangahulugang ikaw ay ang Marupok na Mananampalataya — sensitibo, madaling mataranta, nagdadala ng manipis na emosyonal na baluti. Ang mga idioma Tsino (chengyu, 成语) ay may tumpak na wika para sa ganitong uri ng nerbiyosong pagiging sensitibo. Narito ang 5 na tumutugma.",
+    "idiomIds": [
+      "ID046",
+      "ID355",
+      "ID987",
+      "ID220",
+      "ID272"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-hhhh-personalidad-idioma-tsino",
+    "originalSlug": "sbti-hhhh-personality-chinese-idioms",
+    "title": "SBTI HHHH Personalidad — 5 Idioma Tsino para sa Tagatawang Huli",
+    "description": "Ang SBTI HHHH ay ang uri ng fallback kapag sumasalungat ang mga sagot — pagkalito, kawalang-kabuluhan. 5 Idioma Tsino (chengyu) para sa nalilitong personalidad na ito.",
+    "metaDescription": "Ang HHHH sa SBTI ay nangangahulugang sinira mo ang pagsusulit — sumasalungat ang mga sagot, nag-trigger ang fallback. Ang 5 Idioma Tsino (chengyu) na ito ay kumukuha sa personalidad ng HHHH.",
+    "keywords": [
+      "sbti hhhh",
+      "kahulugan ng sbti hhhh",
+      "uri ng fallback ng sbti",
+      "sbti personalidad idioma tsino",
+      "ipinaliwanag ang hhhh sbti",
+      "resulta ng pagsusulit ng sbti"
+    ],
+    "intro": "Ang HHHH sa SBTI ay ang uri ng fallback — nangangahulugan ito na ang iyong mga sagot ay sumasalungat sa kanilang sarili sa 15 dimensyon at hindi ka kayang ikategorya ng sistema. Iyon ay sarili nitong uri ng katotohanan. Ang mga Idioma Tsino (chengyu, 成语) ay may magagandang salita para sa nalilitong, \"tumawa o umiyak\" na kalagayan na ito. Narito ang 5.",
+    "idiomIds": [
+      "ID330",
+      "ID378",
+      "ID388",
+      "ID465",
+      "ID515"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
+  },
+  {
+    "slug": "sbti-lasing-personalidad-idioma-tsino",
+    "originalSlug": "sbti-drunk-personality-chinese-idioms",
+    "title": "SBTI LASING Personalidad — 5 Idioma Tsino para sa Nakatagong Lasinggero",
+    "description": "Ang SBTI LASING ay ang nakatagong lihim na uri — kaguluhan na nag-trigger ng alkohol. 5 Idioma Tsino (chengyu) para sa masamang personalidad na ito.",
+    "metaDescription": "Na-unlock ang LASING sa SBTI? Ito ang nakatagong uri ng Easter-egg. Ang 5 Idioma Tsino (chengyu) na ito ay tumutugma sa personalidad ng LASING — masamang pagtakas at magulong panaginip.",
+    "keywords": [
+      "sbti lasing",
+      "kahulugan ng sbti lasing",
+      "uri ng lasinggero ng sbti",
+      "nakatagong uri ng sbti",
+      "paano makakuha ng lasing sbti",
+      "resulta ng pagsusulit ng sbti"
+    ],
+    "intro": "Ang LASING sa SBTI ay ang nakatagong lihim na uri — na-unlock mo ito sa pamamagitan ng pagpili ng \"Pag-inom\" sa tanong tungkol sa libangan at pagpapatuloy. Ang panulaang Tsino ay palaging nagromantisa sa alak at pagtakas, na nakukuha sa mga idioma (chengyu, 成语). Narito ang 5 na tumutugma sa mood ng LASING.",
+    "idiomIds": [
+      "ID162",
+      "ID164",
+      "ID215",
+      "ID540",
+      "ID786"
+    ],
+    "category": "SBTI Personality",
+    "publishedDate": "2026-04-16"
   }
 ]

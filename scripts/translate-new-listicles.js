@@ -26,7 +26,7 @@ const model = genAI.getGenerativeModel({
 });
 
 const RATE_LIMIT_MS = 4500; // ~13 RPM to stay safe under 15 RPM free tier
-const BATCH_SIZE = 5;
+const BATCH_SIZE = parseInt(process.env.TRANSLATE_BATCH_SIZE || '5', 10);
 const MAX_RETRIES = 2;
 
 const LANGUAGES = {

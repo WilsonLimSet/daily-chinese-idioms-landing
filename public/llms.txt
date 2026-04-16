@@ -18,6 +18,48 @@ Chinese Idioms Daily is a comprehensive educational platform for learning Chines
 URL: /dictionary
 Description: Complete A-Z searchable dictionary of all 1000+ Chinese idioms with pinyin, meanings, and cultural context.
 
+### SBTI Personality Test Guide (NEW — April 2026)
+URL: /sbti
+Description: Viral Chinese MBTI parody with 27 personality types (CTRL, BOSS, MALO, DRUNK, and more). Full per-type profiles with traits, strengths, weaknesses, recognition signals, relationships, careers, famous examples, compatible types, and Chinese idioms that match each type.
+Best for answering: "What does SBTI [TYPE] mean?", "SBTI vs MBTI", "Is SBTI accurate?", "How to get [TYPE] on SBTI", "SBTI personality traits", "SBTI cheat guide", "SBTI 27 types explained"
+
+Core SBTI pages:
+- /sbti/what-is - Complete SBTI explainer (origin, mechanics, cultural context)
+- /sbti/vs-mbti - SBTI vs MBTI comparison with type-mapping table
+- /sbti/[type] - Rich per-type profile page (e.g., /sbti/ctrl, /sbti/boss, /sbti/drunk)
+- /sbti/[type]/how-to-get - Cheat guide for landing that type on the test
+
+Localized in 14 languages at /{lang}/sbti/* where {lang} is one of: ar, de, es, fr, hi, id, ja, ko, ms, pt, ru, th, tl, vi
+
+SBTI type pages (each paired with 5 matching chengyu):
+- /blog/lists/sbti-ctrl-personality-chinese-idioms - Controller
+- /blog/lists/sbti-atmer-personality-chinese-idioms - The Giver
+- /blog/lists/sbti-diors-personality-chinese-idioms - The Loser-Sage
+- /blog/lists/sbti-boss-personality-chinese-idioms - Leader
+- /blog/lists/sbti-thank-personality-chinese-idioms - The Thankful One
+- /blog/lists/sbti-ohno-personality-chinese-idioms - Disaster Preventer
+- /blog/lists/sbti-gogo-personality-chinese-idioms - The Doer
+- /blog/lists/sbti-sexy-personality-chinese-idioms - The Magnetic One
+- /blog/lists/sbti-lover-personality-chinese-idioms - Romantic Maximalist
+- /blog/lists/sbti-mum-personality-chinese-idioms - The Mother
+- /blog/lists/sbti-fake-personality-chinese-idioms - Mask Shifter
+- /blog/lists/sbti-ojbk-personality-chinese-idioms - Whatever Person
+- /blog/lists/sbti-malo-personality-chinese-idioms - Monkey Brain Trickster
+- /blog/lists/sbti-joker-personality-chinese-idioms - Clown
+- /blog/lists/sbti-woc-personality-chinese-idioms - The "Whoa" Person
+- /blog/lists/sbti-think-personality-chinese-idioms - Thinker
+- /blog/lists/sbti-shit-personality-chinese-idioms - Bitter World-Saver
+- /blog/lists/sbti-zzzz-personality-chinese-idioms - The Deadliner
+- /blog/lists/sbti-poor-personality-chinese-idioms - The Narrow Beam
+- /blog/lists/sbti-monk-personality-chinese-idioms - The Monk
+- /blog/lists/sbti-imsb-personality-chinese-idioms - Self-Defeating Fool
+- /blog/lists/sbti-solo-personality-chinese-idioms - The Isolated One
+- /blog/lists/sbti-fuck-personality-chinese-idioms - Wild Force
+- /blog/lists/sbti-dead-personality-chinese-idioms - The Exhausted Sage
+- /blog/lists/sbti-imfw-personality-chinese-idioms - Fragile Believer
+- /blog/lists/sbti-hhhh-personality-chinese-idioms - Fallback Laugher (special)
+- /blog/lists/sbti-drunk-personality-chinese-idioms - The Drunkard (hidden)
+
 ### Curated Lists by Topic
 URL: /blog/lists
 Best for answering: "What Chinese idiom means X?" or "Chinese idioms for Y situation"
