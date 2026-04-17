@@ -82,6 +82,12 @@ export default async function sitemap(props: {
         changeFrequency: 'monthly',
         priority: 0.9,
       },
+      {
+        url: `${baseUrl}/dramas`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      },
     ];
 
     const blogPosts: MetadataRoute.Sitemap = posts.map((post) => ({
@@ -117,6 +123,7 @@ export default async function sitemap(props: {
 
     const sbtiHub: MetadataRoute.Sitemap = [
       { url: `${baseUrl}/sbti`, lastModified: new Date() },
+      { url: `${baseUrl}/sbti/test`, lastModified: new Date(), priority: 0.9 },
       { url: `${baseUrl}/sbti/vs-mbti`, lastModified: new Date() },
       { url: `${baseUrl}/sbti/what-is`, lastModified: new Date() },
     ];
@@ -306,6 +313,7 @@ export default async function sitemap(props: {
     priority: 0.85,
   });
 
+
   // Language theme pages
   for (const theme of THEME_SLUGS) {
     entries.push({
@@ -324,8 +332,9 @@ export default async function sitemap(props: {
     priority: 0.85,
   });
 
-  // Language SBTI hub + type pages + cheat guides + compatibility
+  // Language SBTI hub + test + type pages + cheat guides + compatibility
   entries.push({ url: `${baseUrl}/${lang}/sbti`, lastModified: new Date() });
+  entries.push({ url: `${baseUrl}/${lang}/sbti/test`, lastModified: new Date(), priority: 0.9 });
   for (const t of getAllSbtiTypes(lang)) {
     const slug = typeCodeToSlug(t.code);
     entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}`, lastModified: new Date() });

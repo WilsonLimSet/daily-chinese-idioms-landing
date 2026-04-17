@@ -129,6 +129,22 @@ export default async function LocalizedSbtiHubPage({
           </p>
         </header>
 
+        <div className="mb-8 rounded-2xl bg-gradient-to-br from-indigo-600 to-purple-600 p-6 text-white shadow-lg sm:p-8">
+          <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+            <div>
+              <p className="text-sm font-bold uppercase tracking-wider text-indigo-100">Take the test</p>
+              <p className="mt-1 text-xl font-bold sm:text-2xl">SBTI — 30 questions, instant result</p>
+            </div>
+            <Link
+              href={`/${lang}/sbti/test`}
+              className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 text-base font-bold text-indigo-600 shadow-md transition hover:bg-indigo-50"
+            >
+              Start
+              <ChevronRight className="h-5 w-5" />
+            </Link>
+          </div>
+        </div>
+
         <AdUnit type="display" />
 
         <section className="mb-14">

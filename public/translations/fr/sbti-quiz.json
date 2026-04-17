@@ -1,0 +1,861 @@
+{
+  "meta": {
+    "title": "Test de Personnalité SBTI",
+    "subtitle": "Le MBTI est dépassé. Le SBTI est arrivé.",
+    "attribution": "Test original du créateur Bilibili @蛆肉儿串儿 (Avril 2026). Ceci est une implémentation par un fan — l'algorithme de score et les 27 types sont fidèles à la source ; le texte des questions est adapté pour les lecteurs francophones.",
+    "disclaimer": "Ce test est uniquement à des fins de divertissement. Ne l'utilisez pas comme diagnostic, entretien d'embauche, outil de rencontre, motif de rupture, prédiction de l'avenir ou verdict sur votre vie.",
+    "creatorUrl": "https://space.bilibili.com/417038183",
+    "sourceLicense": "Algorithm + data derived from github.com/pingfanfan/SBTI (MIT)."
+  },
+  "dimensions": {
+    "S1": {
+      "name": "Estime de Soi",
+      "model": "Soi",
+      "levels": {
+        "L": "Vous douteriez d'un compliment avant de le croire — plus dur avec vous-même que n'importe qui d'autre.",
+        "M": "La confiance change avec le temps. Vent arrière et vous volez ; vent de face et vous vous repliez.",
+        "H": "Vous connaissez à peu près votre propre valeur, et le commentaire d'un inconnu ne la fait pas s'envoler."
+      }
+    },
+    "S2": {
+      "name": "Clarté Personnelle",
+      "model": "Soi",
+      "levels": {
+        "L": "Le canal intérieur est surtout statique. Vous tournez en boucle sur 'qui suis-je vraiment' plus que vous ne voudriez l'admettre.",
+        "M": "Vous vous reconnaissez la plupart du temps, même si votre humeur emprunte parfois le compte.",
+        "H": "Vous connaissez votre tempérament, vos envies et vos non catégoriques."
+      }
+    },
+    "S3": {
+      "name": "Valeurs Fondamentales",
+      "model": "Soi",
+      "levels": {
+        "L": "Le confort et la sécurité comptent plus. La vie n'a pas besoin d'être en mode sprint tous les jours.",
+        "M": "Une partie de vous veut grimper ; une partie veut s'allonger. Les deux négocient constamment.",
+        "H": "Vous êtes facilement entraîné par un objectif, un chemin de croissance ou quelque chose en quoi vous croyez."
+      }
+    },
+    "E1": {
+      "name": "Sécurité de l'Attachement",
+      "model": "Émotion",
+      "levels": {
+        "L": "Un message non lu peut déclencher un film mental complet sur la façon dont ça se termine. Le système d'alarme reste chaud.",
+        "M": "Moitié confiance, moitié test. Vous organisez des salles de guerre internes pour des petites choses.",
+        "H": "Vous faites confiance à la relation elle-même. Un peu de vent ne fait pas tomber la maison."
+      }
+    },
+    "E2": {
+      "name": "Investissement Émotionnel",
+      "model": "Émotion",
+      "levels": {
+        "L": "Vous vous retenez. La porte n'est pas fermée — le contrôle de sécurité est juste minutieux.",
+        "M": "Vous investirez, mais vous gardez une marge de sécurité. Pas d'envoi total.",
+        "H": "Une fois que vous êtes dedans, vous êtes dedans — temps, énergie, concentration, tout."
+      }
+    },
+    "E3": {
+      "name": "Limites & Dépendance",
+      "model": "Émotion",
+      "levels": {
+        "L": "Vous vous accrocherez et on s'accrochera à vous. La chaleur relationnelle compte beaucoup.",
+        "M": "À la fois proximité et indépendance — ajustable, au cas par cas.",
+        "H": "Vous avez besoin de votre propre espace. Même avec l'amour, une partie du terrain reste à vous seul."
+      }
+    },
+    "A1": {
+      "name": "Vision du Monde",
+      "model": "Attitude",
+      "levels": {
+        "L": "Le filtre par défaut est la suspicion. Douter d'abord, approcher ensuite.",
+        "M": "Pas naïf, pas un théoricien du complot complet. L'observation est votre mode naturel.",
+        "H": "Vous avez tendance à croire que les gens ont de bonnes intentions jusqu'à preuve du contraire."
+      }
+    },
+    "A2": {
+      "name": "Règles vs. Flexibilité",
+      "model": "Attitude",
+      "levels": {
+        "L": "Les règles sont facultatives quand le confort et la liberté ne le sont pas.",
+        "M": "Vous suivrez la règle qui compte. Vous plierez celle qui ne compte pas.",
+        "H": "L'ordre est agréable. Vous préférez exécuter le processus plutôt que d'improviser."
+      }
+    },
+    "A3": {
+      "name": "Sens de la Vie",
+      "model": "Attitude",
+      "levels": {
+        "L": "Le sens de la vie est faible. Beaucoup de choses donnent l'impression de simplement suivre le mouvement.",
+        "M": "Certains jours vous avez une mission, certains jours vous vous contentez de vibrer. La philosophie est à moitié démarrée.",
+        "H": "Vous savez à peu près dans quelle direction vous marchez, et pourquoi."
+      }
+    },
+    "Ac1": {
+      "name": "Motivation",
+      "model": "Volonté d'Action",
+      "levels": {
+        "L": "L'évitement des risques se déclenche avant l'ambition. 'Ne pas s'écraser' bat 'gagner'.",
+        "M": "Parfois vous voulez gagner ; parfois vous voulez juste qu'on vous fiche la paix.",
+        "H": "Résultats, progrès, mouvement vers l'avant — c'est ce qui vous motive."
+      }
+    },
+    "Ac2": {
+      "name": "Style de Décision",
+      "model": "Volonté d'Action",
+      "levels": {
+        "L": "Votre comité interne est long. Chaque décision est réexaminée.",
+        "M": "Vous délibérerez, mais vous ne vous attarderez pas. Hésitation normale.",
+        "H": "Vous décidez vite et ne rouvrez pas le dossier. Suivant."
+      }
+    },
+    "Ac3": {
+      "name": "Mode d'Exécution",
+      "model": "Volonté d'Action",
+      "levels": {
+        "L": "Vous et les dates limites avez une relation profonde. Plus c'est tard, plus vous vous réveillez.",
+        "M": "Vous pouvez faire le travail, mais l'état varie. Parfois constant, parfois en roue libre.",
+        "H": "Les choses inachevées ressemblent à des échardes. Vous poussez jusqu'à ce qu'elles soient terminées."
+      }
+    },
+    "So1": {
+      "name": "Initiative Sociale",
+      "model": "Social",
+      "levels": {
+        "L": "Lent à se réchauffer. 'Faire le premier pas' nécessite tout un discours d'encouragement intérieur.",
+        "M": "Vous vous engagerez si quelqu'un s'engage. Vous ne forcez pas les choses.",
+        "H": "Vous ouvrez la pièce. Se démarquer dans une foule ne vous dérange pas."
+      }
+    },
+    "So2": {
+      "name": "Limites Interpersonnelles",
+      "model": "Social",
+      "levels": {
+        "L": "Vous préférez la proximité et la fusion. Une fois que quelqu'un est dedans, il est rapidement dans le cercle intime.",
+        "M": "Vous voulez de la proximité et un peu d'espace. Dépend de la personne.",
+        "H": "Vos limites sont réelles. Trop près déclenche un recul instinctif."
+      }
+    },
+    "So3": {
+      "name": "Expression & Authenticité",
+      "model": "Social",
+      "levels": {
+        "L": "Vous êtes direct. Ce qui est dans la tête sort de la bouche, pratiquement sans filtre.",
+        "M": "Vous lisez la pièce. L'authenticité et la politesse sont dosées selon les besoins.",
+        "H": "Vous maîtrisez le changement de code. Le 'vrai vous' est libéré par couches."
+      }
+    }
+  },
+  "main": [
+    {
+      "id": "q1",
+      "dim": "S1",
+      "text": "Je suis un rat dans le noir, un cafard rampant. Je n'ai jamais été amoureux. Je suis timide et peu sûr de moi. Ma jeunesse n'est qu'une succession de rêveries — imaginant quelqu'un qui m'aime, errant dans les rues avec moi, traînant avec moi. La réalité est : j'ai dépensé l'argent de mes parents pour l'école, j'ai obtenu mon diplôme, je bosse dans un boulot, je poursuis des 'objectifs'. Chaque fois que je vois d'autres personnes faire des blagues joyeuses en ligne, j'ai envie de pleurer. J'envie les petites bonnes choses de la vie et je cherche encore ma voie. S'il vous plaît, laissez ceux d'entre nous qui se cachent sous les couvertures avoir une issue. Je ne veux vraiment plus tremper un oreiller de larmes.",
+      "options": [
+        {
+          "label": "J'ai pleuré en lisant ça…",
+          "value": 1
+        },
+        {
+          "label": "Quoi… c'est quoi ça ?",
+          "value": 2
+        },
+        {
+          "label": "Ce n'est PAS moi !",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "dim": "S1",
+      "text": "Je ne suis pas assez bon. Tout le monde autour de moi est plus compétent que moi.",
+      "options": [
+        {
+          "label": "Vrai",
+          "value": 1
+        },
+        {
+          "label": "Parfois",
+          "value": 2
+        },
+        {
+          "label": "Pas vraiment",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "dim": "S2",
+      "text": "J'ai une idée claire de qui je suis vraiment.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "dim": "S2",
+      "text": "Il y a quelque chose que je veux vraiment de la vie.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "dim": "S3",
+      "text": "J'ai besoin de continuer à grimper et à m'améliorer.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "dim": "S3",
+      "text": "L'opinion des inconnus à mon sujet ne m'importe pas vraiment.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "dim": "E1",
+      "text": "Votre partenaire ne vous a pas répondu depuis plus de 5 heures. Il finit par dire qu'il 'a eu la diarrhée tout le temps'. Votre réaction honnête ?",
+      "options": [
+        {
+          "label": "La diarrhée ne peut pas durer 5 heures. Il cache quelque chose.",
+          "value": 1
+        },
+        {
+          "label": "Coincé quelque part entre la confiance et le doute.",
+          "value": 2
+        },
+        {
+          "label": "Peut-être qu'il ne se sentait vraiment pas bien aujourd'hui.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "dim": "E1",
+      "text": "Je m'inquiète souvent d'être abandonné dans les relations.",
+      "options": [
+        {
+          "label": "Oui",
+          "value": 1
+        },
+        {
+          "label": "Parfois",
+          "value": 2
+        },
+        {
+          "label": "Non",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "dim": "E2",
+      "text": "La main sur le cœur — je prends chaque relation dans laquelle je suis au sérieux.",
+      "options": [
+        {
+          "label": "…Pas vraiment.",
+          "value": 1
+        },
+        {
+          "label": "Peut-être ?",
+          "value": 2
+        },
+        {
+          "label": "Oui ! (visage de bonne conscience)",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "dim": "E2",
+      "text": "Votre partenaire est : gentil avec les aînés, aimant avec les enfants, doux, honorable, éloquent, spirituel, observateur, cultivé, patient avec les débutants, amical, humble, ambitieux, rayonnant, incroyablement attirant, d'une beauté à faire tomber les nations. Que vous arrive-t-il ?",
+      "options": [
+        {
+          "label": "Peu importe à quel point il est parfait, je ne tomberai pas trop profondément.",
+          "value": 1
+        },
+        {
+          "label": "Quelque part entre A et C.",
+          "value": 2
+        },
+        {
+          "label": "Je le chérirai complètement. Oui, je deviendrai un imbécile absolu amoureux.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "dim": "E3",
+      "text": "Vous sortez avec quelqu'un de très collant. Votre avis ?",
+      "options": [
+        {
+          "label": "C'est génial, en fait.",
+          "value": 1
+        },
+        {
+          "label": "Peu importe, de toute façon.",
+          "value": 2
+        },
+        {
+          "label": "Je préfère garder mon propre espace.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "dim": "E3",
+      "text": "J'accorde de l'importance à l'espace personnel dans chaque relation.",
+      "options": [
+        {
+          "label": "Je préfère dépendre et qu'on dépende de moi.",
+          "value": 1
+        },
+        {
+          "label": "Ça dépend.",
+          "value": 2
+        },
+        {
+          "label": "Oui ! (dit sèchement, sans hésitation)",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "dim": "A1",
+      "text": "La plupart des gens sont bons.",
+      "options": [
+        {
+          "label": "Honnêtement ? Il y a plus de mal dans le cœur humain qu'il n'y a d'hémorroïdes dans le monde.",
+          "value": 1
+        },
+        {
+          "label": "Peut-être.",
+          "value": 2
+        },
+        {
+          "label": "Oui, je choisis de croire que les bonnes personnes sont plus nombreuses que les mauvaises.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "dim": "A1",
+      "text": "Vous marchez dans la rue. Une adorable petite fille (mignonne sous tous les angles, mignonne sur n'importe quelle caméra de téléphone, vraiment mignonne) s'approche de vous en sautillant et vous tend une sucette. Que ressentez-vous ?",
+      "options": [
+        {
+          "label": "Awwww elle est si douce et mignonne ! Elle m'a DONNÉ une sucette !",
+          "value": 3
+        },
+        {
+          "label": "Confus. Se gratte la tête.",
+          "value": 2
+        },
+        {
+          "label": "C'est peut-être une nouvelle sorte d'arnaque ? S'éloigner, juste au cas où.",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q15",
+      "dim": "A2",
+      "text": "Les examens finaux approchent. L'école impose des séances d'étude en soirée ; manquer coûte des points. Ce soir, cependant, votre crush vous a invité à jouer à votre jeu en ligne compétitif préféré, League of Legends. Que faites-vous ?",
+      "options": [
+        {
+          "label": "Je sèche ! Juste cette fois !",
+          "value": 1
+        },
+        {
+          "label": "Je fais une demande de congé.",
+          "value": 2
+        },
+        {
+          "label": "Les examens finaux arrivent littéralement, je ne vais nulle part.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "dim": "A2",
+      "text": "J'aime briser les routines et je n'aime pas être contraint.",
+      "options": [
+        {
+          "label": "D'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "Pas d'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "dim": "A3",
+      "text": "Je fais généralement les choses avec un objectif en tête.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "dim": "A3",
+      "text": "Un jour, ça vous frappe : quel sens réel la vie a-t-elle, de toute façon ? Dans un sens, les humains ne sont que des animaux poussés par des pulsions, contrôlés par des hormones — faim donc vous mangez, fatigué donc vous dormez. Juste une forme de vie terne et de bas niveau. Essentiellement pas différente des chats et des chiens.",
+      "options": [
+        {
+          "label": "Ouais, à peu près.",
+          "value": 1
+        },
+        {
+          "label": "Pourrait aller dans les deux sens.",
+          "value": 2
+        },
+        {
+          "label": "C'est absurde.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "dim": "Ac1",
+      "text": "Je fais les choses principalement pour obtenir des résultats et grandir, pas pour éviter les problèmes et les risques.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "dim": "Ac1",
+      "text": "Vous êtes assis sur les toilettes depuis 30 minutes, constipé, rien ne se passe. Vous êtes le plus comme :",
+      "options": [
+        {
+          "label": "S'asseoir encore 30 minutes. Ça pourrait venir.",
+          "value": 1
+        },
+        {
+          "label": "Se gifler les fesses et dire 'allez, bordel, sors !'",
+          "value": 2
+        },
+        {
+          "label": "Aller chercher un laxatif. En finir.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "dim": "Ac2",
+      "text": "Je décide de manière décisive. Je n'aime pas hésiter.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q22",
+      "dim": "Ac2",
+      "text": "Cette question n'a pas de question. Veuillez deviner à l'aveugle.",
+      "options": [
+        {
+          "label": "J'ai vraiment réfléchi et je pense que je devrais choisir A ?",
+          "value": 1
+        },
+        {
+          "label": "Euh… B ?",
+          "value": 2
+        },
+        {
+          "label": "En cas de doute, C.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "dim": "Ac3",
+      "text": "Quand les gens disent 'vous avez une forte capacité d'exécution', votre réponse intérieure honnête est :",
+      "options": [
+        {
+          "label": "Quand je suis dos au mur, ouais, mon exécution est SUPER forte…",
+          "value": 1
+        },
+        {
+          "label": "Euh, parfois.",
+          "value": 2
+        },
+        {
+          "label": "Oui. Les choses sont censées être faites.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "dim": "Ac3",
+      "text": "Je planifie généralement les choses, ____",
+      "options": [
+        {
+          "label": "mais les plans ne survivent jamais à la réalité.",
+          "value": 1
+        },
+        {
+          "label": "parfois je les termine, parfois non.",
+          "value": 2
+        },
+        {
+          "label": "et je déteste quand mon plan est perturbé.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "dim": "So1",
+      "text": "Vous vous êtes fait beaucoup d'amis en ligne grâce à un jeu que vous aimez. Ils vous invitent à vous rencontrer en personne. Votre geste ?",
+      "options": [
+        {
+          "label": "Parler en ligne, c'est bien — se rencontrer IRL me rend nerveux.",
+          "value": 1
+        },
+        {
+          "label": "Bien sûr, se rencontrer, c'est bien. Quiconque me parle, je lui répondrai.",
+          "value": 2
+        },
+        {
+          "label": "Je vais me faire beau et discuter avec enthousiasme. On ne sait jamais. Je veux dire, on ne SAIT JAMAIS.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "dim": "So1",
+      "text": "Votre ami amène son ami. Votre état le plus probable ?",
+      "options": [
+        {
+          "label": "Je ressens une distance instinctive de 'l'ami d'un ami'. Je ne veux pas gâcher la dynamique à deux.",
+          "value": 1
+        },
+        {
+          "label": "Dépend d'eux. Si on accroche, on accroche.",
+          "value": 2
+        },
+        {
+          "label": "L'ami d'un ami compte comme mon ami ! Allons-y — mode conversation enthousiaste.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "dim": "So2",
+      "text": "Mon ambiance sociale est fondamentalement une clôture électrique. Approchez-vous trop et l'alarme se déclenche automatiquement.",
+      "options": [
+        {
+          "label": "D'accord",
+          "value": 3
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "dim": "So2",
+      "text": "J'ai envie de proximité avec les gens en qui j'ai confiance — le genre de proximité où on se sent comme une famille perdue de vue depuis longtemps.",
+      "options": [
+        {
+          "label": "D'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "Pas d'accord",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "dim": "So3",
+      "text": "Parfois, vous avez une opinion différente ou négative sur quelque chose, mais vous ne l'exprimez pas. La principale raison est généralement :",
+      "options": [
+        {
+          "label": "Cela m'arrive rarement.",
+          "value": 1
+        },
+        {
+          "label": "Pour préserver la face ou la relation.",
+          "value": 2
+        },
+        {
+          "label": "Je ne veux pas que les gens sachent que j'ai un côté sombre.",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "dim": "So3",
+      "text": "Je montre différentes facettes de moi-même à différentes personnes.",
+      "options": [
+        {
+          "label": "Pas d'accord",
+          "value": 1
+        },
+        {
+          "label": "Neutre",
+          "value": 2
+        },
+        {
+          "label": "D'accord",
+          "value": 3
+        }
+      ]
+    }
+  ],
+  "special": [
+    {
+      "id": "drink_gate_q1",
+      "kind": "drink_gate",
+      "text": "Quels sont vos loisirs ?",
+      "options": [
+        {
+          "label": "Manger et se détendre.",
+          "value": 1
+        },
+        {
+          "label": "Les arts et les trucs créatifs.",
+          "value": 2
+        },
+        {
+          "label": "Boire.",
+          "value": 3
+        },
+        {
+          "label": "Faire de l'exercice.",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "id": "drink_gate_q2",
+      "kind": "drink_trigger",
+      "text": "Quelle est votre attitude envers la boisson ?",
+      "options": [
+        {
+          "label": "Un peu de temps en temps. Rien de lourd.",
+          "value": 1
+        },
+        {
+          "label": "Je garde de l'alcool fort dans un thermos et je le bois comme de l'eau. L'alcool me parle.",
+          "value": 2
+        }
+      ]
+    }
+  ],
+  "typePatterns": [
+    {
+      "code": "CTRL",
+      "pattern": "HHH-HMH-MHH-HHH-MHM"
+    },
+    {
+      "code": "ATM-er",
+      "pattern": "HHH-HHM-HHH-HMH-MHL"
+    },
+    {
+      "code": "Dior-s",
+      "pattern": "MHM-MMH-MHM-HMH-LHL"
+    },
+    {
+      "code": "BOSS",
+      "pattern": "HHH-HMH-MMH-HHH-LHL"
+    },
+    {
+      "code": "THAN-K",
+      "pattern": "MHM-HMM-HHM-MMH-MHL"
+    },
+    {
+      "code": "OH-NO",
+      "pattern": "HHL-LMH-LHH-HHM-LHL"
+    },
+    {
+      "code": "GOGO",
+      "pattern": "HHM-HMH-MMH-HHH-MHM"
+    },
+    {
+      "code": "SEXY",
+      "pattern": "HMH-HHL-HMM-HMM-HLH"
+    },
+    {
+      "code": "LOVE-R",
+      "pattern": "MLH-LHL-HLH-MLM-MLH"
+    },
+    {
+      "code": "MUM",
+      "pattern": "MMH-MHL-HMM-LMM-HLL"
+    },
+    {
+      "code": "FAKE",
+      "pattern": "HLM-MML-MLM-MLM-HLH"
+    },
+    {
+      "code": "OJBK",
+      "pattern": "MMH-MMM-HML-LMM-MML"
+    },
+    {
+      "code": "MALO",
+      "pattern": "MLH-MHM-MLH-MLH-LMH"
+    },
+    {
+      "code": "JOKE-R",
+      "pattern": "LLH-LHL-LML-LLL-MLM"
+    },
+    {
+      "code": "WOC!",
+      "pattern": "HHL-HMH-MMH-HHM-LHH"
+    },
+    {
+      "code": "THIN-K",
+      "pattern": "HHL-HMH-MLH-MHM-LHH"
+    },
+    {
+      "code": "SHIT",
+      "pattern": "HHL-HLH-LMM-HHM-LHH"
+    },
+    {
+      "code": "ZZZZ",
+      "pattern": "MHL-MLH-LML-MML-LHM"
+    },
+    {
+      "code": "POOR",
+      "pattern": "HHL-MLH-LMH-HHH-LHL"
+    },
+    {
+      "code": "MONK",
+      "pattern": "HHL-LLH-LLM-MML-LHM"
+    },
+    {
+      "code": "IMSB",
+      "pattern": "LLM-LMM-LLL-LLL-MLM"
+    },
+    {
+      "code": "SOLO",
+      "pattern": "LML-LLH-LHL-LML-LHM"
+    },
+    {
+      "code": "FUCK",
+      "pattern": "MLL-LHL-LLM-MLL-HLH"
+    },
+    {
+      "code": "DEAD",
+      "pattern": "LLL-LLM-LML-LLL-LHM"
+    },
+    {
+      "code": "IMFW",
+      "pattern": "LLH-LHL-LML-LLL-MLL"
+    }
+  ]
+}

@@ -107,9 +107,10 @@ export default async function InternationalThemePage({ params }: { params: Promi
   }
 
   const allPosts = await getAllBlogPosts(lang);
+  // Only show true idiom entries; drama/cultural articles have empty characters.
   const themePosts = allPosts.filter(post => {
     const postTheme = post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-');
-    return postTheme === theme;
+    return postTheme === theme && post.idiom.characters.trim() !== '';
   });
 
   const langName = LANGUAGES[lang as keyof typeof LANGUAGES];

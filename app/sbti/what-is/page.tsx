@@ -78,7 +78,7 @@ const FAQ = [
   },
   {
     q: 'Where can I take the SBTI test?',
-    a: 'Several sites host the quiz: sbtitest.com, sbti.dev, sbti.ai, and others. We don\'t host the test ourselves — we\'re the place to land after you take it, to understand your type in depth and find the Chinese idioms (chengyu) that match your SBTI personality.',
+    a: 'Take it here: /sbti/test hosts the full 30-question quiz, free, no signup, instant result. Your answers stay in your browser (nothing sent to a server). We also have localized versions in 14 languages. Afterwards you land on a result page with your 15-dimension radar and links to your type\'s full profile with matching Chinese idioms (chengyu).',
   },
   {
     q: 'Why is SBTI rooted in Chinese culture?',

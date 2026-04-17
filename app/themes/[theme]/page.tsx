@@ -93,9 +93,12 @@ export default async function ThemePage({ params }: { params: Promise<{ theme: s
   }
 
   const allPosts = await getAllBlogPosts();
+  // Only show true idiom entries on theme pages. Drama/cultural articles
+  // tagged with a theme for related-content purposes have empty idiom.characters
+  // and would otherwise render as blank cards.
   const themePosts = allPosts.filter(post => {
     const postTheme = post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-');
-    return postTheme === theme;
+    return postTheme === theme && post.idiom.characters.trim() !== '';
   });
 
   // Structured data for theme pages

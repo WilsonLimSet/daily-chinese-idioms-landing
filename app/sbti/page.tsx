@@ -1,14 +1,15 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import Script from 'next/script';
-import { ArrowLeft, BookOpen, ChevronRight, Sparkles } from 'lucide-react';
+import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import { getAllListicles } from '@/src/lib/listicles';
+import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
 export const metadata: Metadata = {
-  title: 'SBTI Personality Test Guide — All 27 Types Matched to Chinese Idioms',
-  description: 'Got your SBTI result? Find the Chinese idiom (chengyu) that matches every one of the 27 SBTI personality types — CTRL, BOSS, DRUNK, MALO and more.',
+  title: 'SBTI Test: All 27 Personality Types Explained (2026 Guide)',
+  description: 'The viral Chinese 27-type personality test, fully explained. Traits, strengths, compatibility, and the Chinese idiom (chengyu) that captures each type — CTRL, BOSS, DRUNK, MALO and more.',
   keywords: [
     'sbti',
     'sbti test',
@@ -23,10 +24,15 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: 'https://www.chineseidioms.com/sbti',
+    languages: {
+      'x-default': '/sbti',
+      en: '/sbti',
+      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/sbti`])),
+    },
   },
   openGraph: {
-    title: 'SBTI Personality Test — All 27 Types Matched to Chinese Idioms',
-    description: 'Every SBTI personality type paired with the Chinese idioms (chengyu) that capture its vibe. CTRL, BOSS, MALO, DRUNK and more.',
+    title: 'SBTI Test — All 27 Personality Types Explained',
+    description: 'The viral Chinese 27-type personality test. Full guide to every type — CTRL, BOSS, MALO, DRUNK and more — with traits, compatibility, and the chengyu that matches each one.',
     url: 'https://www.chineseidioms.com/sbti',
     siteName: 'Chinese Idioms',
     locale: 'en_US',
@@ -34,8 +40,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'SBTI Personality Test — All 27 Types + Chinese Idioms',
-    description: 'Every SBTI type paired with the Chinese chengyu that captures its vibe.',
+    title: 'SBTI Test — All 27 Personality Types Explained',
+    description: 'The viral Chinese 27-type personality test — every type explained, with the chengyu that captures its vibe.',
   },
 };
 
@@ -102,7 +108,7 @@ const FAQ: Array<{ q: string; a: string }> = [
   },
   {
     q: 'Where can I take the SBTI test?',
-    a: "The official test is hosted at several Chinese-origin sites. We don't host the quiz ourselves — we're the place to land after you take it, to understand your type in depth and see which Chinese idioms match your result.",
+    a: "You can take the SBTI test right here — see /sbti/test for the full 30-question quiz, free and in English. The result page shows your type, your 15-dimension radar, and links to the full profile with matching Chinese idioms. We also offer localized versions in 14 languages at /{lang}/sbti/test.",
   },
 ];
 
@@ -126,7 +132,7 @@ export default function SbtiHubPage() {
           '@type': 'ListItem',
           position: i + 1,
           name: `SBTI ${t.code} — ${t.displayName}`,
-          url: `https://www.chineseidioms.com/blog/lists/${t.slug}`,
+          url: `https://www.chineseidioms.com/sbti/${t.code.toLowerCase().replace(/[^a-z0-9]/g, '')}`,
         })),
       },
     },
@@ -156,7 +162,7 @@ export default function SbtiHubPage() {
   const existingSbtiSlugs = new Set(all.filter(l => l.category === 'SBTI Personality').map(l => l.slug));
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen flex flex-col">
       <Script
         id="sbti-hub-ld"
         type="application/ld+json"
@@ -165,152 +171,298 @@ export default function SbtiHubPage() {
         {JSON.stringify(structuredData)}
       </Script>
 
-      <nav className="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b border-gray-100">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <Link href="/" className="inline-flex items-center gap-2 text-gray-500 hover:text-gray-900 font-medium transition-colors">
-            <ArrowLeft className="w-4 h-4" />
+      {/* Hero */}
+      <section className="relative overflow-hidden bg-gray-950 text-white">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(185,28,28,0.18),transparent_60%)]" />
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-0 flex select-none items-center justify-end pr-4"
+        >
+          <span className="text-[28vw] font-bold leading-none tracking-tight text-white/[0.035] md:text-[22rem]">
+            SBTI
+          </span>
+        </div>
+
+        <nav className="relative mx-auto max-w-5xl px-6 pt-6">
+          <Link
+            href="/"
+            className="inline-flex items-center gap-2 text-sm text-white/50 transition-colors hover:text-white/80"
+          >
+            <ArrowLeft className="h-4 w-4" />
             Home
           </Link>
-        </div>
-      </nav>
+        </nav>
 
-      <article className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <header className="mb-10">
-          <div className="inline-flex items-center gap-2 text-sm font-semibold text-indigo-600 bg-indigo-50 px-3 py-1.5 rounded-full mb-4">
-            <Sparkles className="w-4 h-4" />
-            <span>SBTI Personality Guide</span>
-          </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-5 tracking-tight leading-tight">
-            SBTI Personality Test — All 27 Types, Explained with Chinese Idioms
+        <div className="relative mx-auto max-w-5xl px-6 pt-12 pb-16 md:pt-16">
+          <p className="mb-6 text-xs font-medium uppercase tracking-[0.25em] text-white/40">
+            The Personality Guide · Apr 2026
+          </p>
+          <h1 className="text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl">
+            Silly Behavioral
+            <br />
+            <span className="text-red-400">Type Indicator</span>
           </h1>
-          <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl">
-            SBTI (Silly Behavioral Type Indicator) is the viral Chinese parody of MBTI that took over social media in April 2026. We&apos;ve paired every one of the 27 types with the Chinese idioms (chengyu, 成语) that best capture its vibe — so you can read yourself in two cultural languages at once.
+          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/60">
+            The viral Chinese parody of MBTI. 27 types. 15 dimensions. 30 questions. We paired every type with the Chinese idioms (chengyu, 成语) that capture its vibe.
           </p>
-        </header>
 
-        <div className="mb-10 border-l-4 border-indigo-500 pl-6 py-4 bg-gradient-to-r from-indigo-50/50 to-transparent rounded-r-lg">
-          <p className="text-gray-700 leading-relaxed">
-            <strong>Already have your SBTI result?</strong> Jump to your type below to see which 5 Chinese idioms match it — each one paired with pinyin, literal meaning, and the story behind it.
-          </p>
-        </div>
-
-        <AdUnit type="display" />
-
-        <section className="mb-14">
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">The 25 Regular Types</h2>
-          <div className="grid gap-3 sm:gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {regularTypes.map((t) => {
-              const exists = existingSbtiSlugs.has(t.slug);
-              const card = (
-                <div className="group h-full bg-white rounded-2xl shadow-sm border border-gray-100 p-5 hover:shadow-xl hover:border-indigo-100 hover:-translate-y-0.5 transition-all duration-300">
-                  <div className="flex items-start justify-between mb-2">
-                    <span className="text-xs font-bold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2 py-1 rounded">
-                      {t.code}
-                    </span>
-                  </div>
-                  <h3 className="font-bold text-gray-900 text-lg mb-1 group-hover:text-indigo-600 transition-colors">{t.displayName}</h3>
-                  <p className="text-sm text-gray-500 leading-relaxed">{t.vibe}</p>
-                  <div className="mt-4 flex items-center gap-1 text-indigo-600 font-medium text-sm">
-                    <span>See matching idioms</span>
-                    <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                  </div>
-                </div>
-              );
-              return exists ? (
-                <Link key={t.code} href={`/blog/lists/${t.slug}`}>{card}</Link>
-              ) : (
-                <div key={t.code} className="opacity-60 cursor-not-allowed">{card}</div>
-              );
-            })}
-          </div>
-        </section>
-
-        <section className="mb-14">
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-3">The 2 Special Types</h2>
-          <p className="text-gray-600 mb-6">HHHH is the fallback when your answers contradict each other; DRUNK is the hidden Easter-egg type unlocked by specific alcohol-related answers.</p>
-          <div className="grid gap-4 md:grid-cols-2">
-            {specialTypes.map((t) => {
-              const exists = existingSbtiSlugs.has(t.slug);
-              const card = (
-                <div className="group h-full bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl shadow-sm border border-amber-200 p-5 hover:shadow-xl hover:border-amber-300 hover:-translate-y-0.5 transition-all duration-300">
-                  <div className="flex items-start justify-between mb-2">
-                    <span className="text-xs font-bold uppercase tracking-wider text-orange-700 bg-white/80 px-2 py-1 rounded">
-                      {t.code}
-                    </span>
-                  </div>
-                  <h3 className="font-bold text-gray-900 text-lg mb-1 group-hover:text-orange-700 transition-colors">{t.displayName}</h3>
-                  <p className="text-sm text-gray-600 leading-relaxed">{t.vibe}</p>
-                  <div className="mt-4 flex items-center gap-1 text-orange-700 font-medium text-sm">
-                    <span>See matching idioms</span>
-                    <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                  </div>
-                </div>
-              );
-              return exists ? (
-                <Link key={t.code} href={`/blog/lists/${t.slug}`}>{card}</Link>
-              ) : (
-                <div key={t.code} className="opacity-60 cursor-not-allowed">{card}</div>
-              );
-            })}
-          </div>
-        </section>
-
-        <AdUnit type="in-article" />
-
-        <section className="mb-16">
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
-          <div className="space-y-4">
-            {FAQ.map(({ q, a }, i) => (
-              <details key={i} className="group bg-white rounded-2xl shadow-sm border border-gray-100 p-5 hover:shadow-md transition-shadow">
-                <summary className="cursor-pointer font-semibold text-gray-900 text-base sm:text-lg flex items-start justify-between gap-4">
-                  <span>{q}</span>
-                  <ChevronRight className="w-5 h-5 mt-1 flex-shrink-0 text-gray-400 group-open:rotate-90 transition-transform" />
-                </summary>
-                <p className="mt-3 text-gray-600 leading-relaxed">{a}</p>
-              </details>
+          {/* Quick nav: types */}
+          <div className="mt-12 flex flex-wrap gap-2">
+            {regularTypes.slice(0, 10).map(t => (
+              <a
+                key={t.code}
+                href={`#${t.code.toLowerCase().replace(/[^a-z0-9]/g, '')}`}
+                className="group inline-flex items-center gap-2 rounded-lg border border-white/[0.08] bg-white/[0.05] px-3 py-1.5 text-sm transition-all hover:border-white/[0.15] hover:bg-white/[0.1]"
+              >
+                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-red-300">
+                  {t.code}
+                </span>
+                <span className="text-white/60 group-hover:text-white/80">{t.displayName}</span>
+              </a>
             ))}
+            <span className="inline-flex items-center px-2 text-xs text-white/40">
+              +{regularTypes.length - 10 + specialTypes.length} more
+            </span>
           </div>
-        </section>
-
-        <section className="relative overflow-hidden bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 rounded-3xl p-8 sm:p-12 text-center">
-          <div className="relative">
-            <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">Learn Chinese Idioms Daily</h2>
-            <p className="text-indigo-100 mb-8 max-w-2xl mx-auto text-base sm:text-lg leading-relaxed">
-              Every Chinese idiom (chengyu) in our library has pinyin, literal meaning, cultural story, and a real example. Get one delivered to your home screen every day.
-            </p>
-            <a
-              href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 bg-white text-indigo-600 px-8 py-4 rounded-2xl font-bold text-lg hover:bg-gray-50 hover:scale-105 transition-all duration-200 shadow-xl"
-            >
-              Download Free App
-            </a>
-          </div>
-        </section>
-
-        <div className="mt-12 text-center">
-          <Link href="/blog" className="inline-flex items-center gap-2 text-gray-600 hover:text-gray-900 font-medium">
-            <BookOpen className="w-4 h-4" />
-            Browse all Chinese idiom lists
-          </Link>
         </div>
-      </article>
+      </section>
 
-      <footer className="bg-gray-50 py-8 w-full border-t border-gray-100">
+      {/* Take the test CTA — primary action bar */}
+      <section className="border-b border-gray-200 bg-white">
+        <div className="mx-auto max-w-5xl px-6 py-8">
+          <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
+            <div>
+              <p className="text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                Don&apos;t know your type yet?
+              </p>
+              <p className="mt-1 text-xl font-bold text-gray-900 sm:text-2xl">
+                Take the 30-question test
+              </p>
+              <p className="mt-1 flex flex-wrap items-center gap-x-3 gap-y-1 text-sm text-gray-500">
+                <span className="flex items-center gap-1.5">
+                  <span className="h-1 w-1 rounded-full bg-red-400" />~5 minutes
+                </span>
+                <span className="flex items-center gap-1.5">
+                  <span className="h-1 w-1 rounded-full bg-red-400" />Instant result
+                </span>
+                <span className="flex items-center gap-1.5">
+                  <span className="h-1 w-1 rounded-full bg-red-400" />Free · no signup
+                </span>
+              </p>
+            </div>
+            <Link
+              href="/sbti/test"
+              className="group inline-flex shrink-0 items-center gap-2 rounded-lg bg-gray-950 px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-red-500"
+            >
+              Start the test
+              <ChevronRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Body */}
+      <div className="flex-1 bg-gray-50">
+        <div className="mx-auto max-w-5xl px-6 py-16 md:py-20">
+          {/* 25 regular types */}
+          <article className="mb-20">
+            <div className="mb-10 flex items-start gap-6 sm:gap-8">
+              <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">25</p>
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                  The catalogue
+                </p>
+                <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                  The 25 regular types
+                </h2>
+                <p className="mt-1 text-gray-500">Every type paired with matching chengyu.</p>
+              </div>
+            </div>
+
+            <div className="grid gap-3 sm:ml-32 sm:grid-cols-2 lg:grid-cols-3">
+              {regularTypes.map(t => {
+                const exists = existingSbtiSlugs.has(t.slug);
+                const anchor = t.code.toLowerCase().replace(/[^a-z0-9]/g, '');
+                const card = (
+                  <div
+                    id={anchor}
+                    className="group flex h-full flex-col justify-between rounded-lg border border-gray-200/80 bg-white p-5 transition hover:border-red-200 hover:shadow-sm"
+                  >
+                    <div>
+                      <div className="flex items-center gap-2">
+                        <span className="h-1 w-1 rounded-full bg-red-400" />
+                        <span className="text-xs font-semibold uppercase tracking-[0.2em] text-red-500">
+                          {t.code}
+                        </span>
+                      </div>
+                      <h3 className="mt-2 font-bold leading-snug text-gray-900 transition-colors group-hover:text-gray-900">
+                        {t.displayName}
+                      </h3>
+                      <p className="mt-1 text-sm leading-[1.5] text-gray-500">{t.vibe}</p>
+                    </div>
+                    <div className="mt-4 flex items-center gap-1 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400 transition-colors group-hover:text-red-500">
+                      <span>Read more</span>
+                      <ChevronRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
+                    </div>
+                  </div>
+                );
+                return exists ? (
+                  <Link key={t.code} href={`/blog/lists/${t.slug}`}>
+                    {card}
+                  </Link>
+                ) : (
+                  <div key={t.code} className="cursor-not-allowed opacity-50">
+                    {card}
+                  </div>
+                );
+              })}
+            </div>
+          </article>
+
+          {/* Special types — dark callout */}
+          <article className="mb-20">
+            <div className="mb-10 flex items-start gap-6 sm:gap-8">
+              <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">02</p>
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                  Hidden inside
+                </p>
+                <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                  The 2 special types
+                </h2>
+                <p className="mt-1 text-gray-500">
+                  HHHH is the fallback. DRUNK is an Easter egg only unlocked by a specific answer.
+                </p>
+              </div>
+            </div>
+
+            <div className="grid gap-4 sm:ml-32 md:grid-cols-2">
+              {specialTypes.map(t => {
+                const exists = existingSbtiSlugs.has(t.slug);
+                const card = (
+                  <div className="relative overflow-hidden rounded-xl bg-gray-950 p-6 transition hover:bg-gray-900">
+                    <div
+                      aria-hidden="true"
+                      className="pointer-events-none absolute -top-4 -right-4 select-none font-serif text-[100px] leading-none text-white/[0.05]"
+                    >
+                      {t.code === 'HHHH' ? '?' : '!'}
+                    </div>
+                    <div className="relative">
+                      <div className="inline-flex items-center gap-1.5 rounded bg-red-500/20 px-2 py-0.5">
+                        <span className="h-1 w-1 rounded-full bg-red-400" />
+                        <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-red-300">
+                          {t.code}
+                        </span>
+                      </div>
+                      <h3 className="mt-3 text-lg font-bold text-white">{t.displayName}</h3>
+                      <p className="mt-1 text-sm leading-relaxed text-white/60">{t.vibe}</p>
+                      <div className="mt-4 inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-[0.15em] text-red-300">
+                        <span>Read more</span>
+                        <ChevronRight className="h-3.5 w-3.5" />
+                      </div>
+                    </div>
+                  </div>
+                );
+                return exists ? (
+                  <Link key={t.code} href={`/blog/lists/${t.slug}`}>
+                    {card}
+                  </Link>
+                ) : (
+                  <div key={t.code} className="cursor-not-allowed opacity-50">
+                    {card}
+                  </div>
+                );
+              })}
+            </div>
+          </article>
+
+          <AdUnit type="in-article" />
+
+          {/* FAQ */}
+          <section className="mt-20 border-t border-gray-200 pt-16">
+            <div className="mb-10 flex items-start gap-6 sm:gap-8">
+              <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">?</p>
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                  Frequently asked
+                </p>
+                <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                  Questions people actually ask
+                </h2>
+              </div>
+            </div>
+            <div className="grid gap-x-12 gap-y-8 sm:ml-32 md:grid-cols-2">
+              {FAQ.map(({ q, a }, i) => (
+                <div key={i}>
+                  <h3 className="mb-2 font-semibold text-gray-900">{q}</h3>
+                  <p className="text-sm leading-relaxed text-gray-500">{a}</p>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          {/* App promo — dark editorial callout */}
+          <section className="relative mt-20 overflow-hidden rounded-xl bg-gray-950 p-8 sm:p-12">
+            <div
+              aria-hidden="true"
+              className="pointer-events-none absolute -top-8 -right-4 select-none text-[16rem] font-bold leading-none tracking-tight text-white/[0.03]"
+            >
+              成语
+            </div>
+            <div className="relative max-w-2xl">
+              <p className="mb-3 text-xs font-semibold uppercase tracking-[0.15em] text-red-300">
+                Daily ritual
+              </p>
+              <h2 className="text-2xl font-bold text-white sm:text-3xl">
+                Learn one Chinese idiom a day
+              </h2>
+              <p className="mt-3 text-base leading-[1.7] text-white/60">
+                Every chengyu in our library has pinyin, literal meaning, cultural story, and a real example. Get one delivered to your home screen every day.
+              </p>
+              <a
+                href="https://apps.apple.com/us/app/dailychineseidioms/id6740611324"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-6 inline-flex items-center gap-2 rounded-lg bg-white px-6 py-3 text-sm font-semibold text-gray-900 transition hover:bg-red-400 hover:text-white"
+              >
+                Download the free app
+                <ChevronRight className="h-4 w-4" />
+              </a>
+            </div>
+          </section>
+
+          <div className="mt-12 text-center">
+            <Link
+              href="/blog"
+              className="inline-flex items-center gap-2 text-sm font-medium text-gray-500 transition hover:text-gray-900"
+            >
+              <BookOpen className="h-4 w-4" />
+              Browse all Chinese idiom lists
+            </Link>
+          </div>
+        </div>
+      </div>
+
+      <footer className="w-full border-t border-gray-200 bg-gray-50 py-8">
         <div className="container mx-auto px-4">
-          <div className="text-center space-y-4">
-            <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-4">
-              <p className="text-gray-600">&copy; {new Date().getFullYear()} chineseidioms</p>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
-              <Link href="/blog" className="text-gray-600 hover:text-gray-900 transition-colors">
+          <div className="text-center">
+            <div className="flex flex-col items-center justify-center gap-2 sm:flex-row sm:gap-4">
+              <p className="text-sm text-gray-400">&copy; {new Date().getFullYear()} chineseidioms</p>
+              <span className="hidden text-gray-300 sm:inline">&bull;</span>
+              <Link href="/blog" className="text-sm text-gray-400 transition-colors hover:text-gray-600">
                 Blog
               </Link>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
-              <Link href="/privacy" className="text-gray-600 hover:text-gray-900 transition-colors">
+              <span className="hidden text-gray-300 sm:inline">&bull;</span>
+              <Link href="/privacy" className="text-sm text-gray-400 transition-colors hover:text-gray-600">
                 Privacy Policy
               </Link>
-              <span className="hidden sm:inline text-gray-400">&bull;</span>
+              <span className="hidden text-gray-300 sm:inline">&bull;</span>
               <LanguageSelector currentLang="en" />
             </div>
           </div>

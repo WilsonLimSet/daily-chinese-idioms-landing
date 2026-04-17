@@ -237,13 +237,13 @@ export default async function Home() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">More Resources</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl">
             <Link
-              href="/sbti"
+              href="/sbti/test"
               className="p-5 bg-indigo-50 rounded-xl border border-indigo-200 hover:shadow-md hover:border-indigo-300 transition-all group relative"
             >
               <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-gradient-to-r from-indigo-500 to-purple-500 px-2 py-0.5 rounded-full">New</span>
-              <p className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">SBTI Personality Test</p>
-              <p className="text-sm text-gray-600 mt-1">All 27 types matched to Chinese idioms</p>
-              <p className="text-xs text-indigo-600 font-medium mt-2">Find your type →</p>
+              <p className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">Take the SBTI Test</p>
+              <p className="text-sm text-gray-600 mt-1">30 questions, 27 types, instant result</p>
+              <p className="text-xs text-indigo-600 font-medium mt-2">Start the test →</p>
             </Link>
             <Link
               href="/festivals"
@@ -252,6 +252,15 @@ export default async function Home() {
               <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">Chinese Festivals</p>
               <p className="text-sm text-gray-600 mt-1">Traditions & idioms behind 8 major holidays</p>
               <p className="text-xs text-red-600 font-medium mt-2">Explore festivals →</p>
+            </Link>
+            <Link
+              href="/dramas"
+              className="p-5 bg-rose-50 rounded-xl border border-rose-100 hover:shadow-md hover:border-rose-200 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-rose-500 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-rose-600 transition-colors">Chinese Dramas</p>
+              <p className="text-sm text-gray-600 mt-1">First Frost, Pursuit of Jade, The Heir &amp; more</p>
+              <p className="text-xs text-rose-600 font-medium mt-2">Read essays →</p>
             </Link>
             <Link
               href="/poems"
