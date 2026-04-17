@@ -1,65 +1,82 @@
 {
   "meta": {
     "title": "Teste de Personalidade SBTI",
-    "subtitle": "MBTI está ultrapassado. O SBTI chegou.",
-    "disclaimer": "Este teste é apenas para entretenimento. Não use como diagnóstico, entrevista de emprego, motivos de término, previsão de futuro ou veredito de vida."
+    "subtitle": "MBTI é ultrapassado. SBTI chegou.",
+    "disclaimer": "Este teste é apenas para entretenimento. Não o use como diagnóstico, entrevista de emprego, combinação de casais, motivo de separação, previsão de futuro ou julgamento de vida."
   },
   "ui": {
-    "seoTestTitle": "Teste SBTI — Quiz de Personalidade Grátis com 30 Perguntas (2026)",
-    "seoTestDescription": "Faça o teste de personalidade SBTI viral. 30 perguntas, 27 tipos incluindo os ocultos DRUNK e HHHH. Resultado instantâneo com traços, compatibilidade e o provérbio que combina com seu tipo.",
+    "seoTestTitle": "Teste SBTI — Quiz de Personalidade com 30 Perguntas (2026)",
+    "seoTestDescription": "Faça o teste de personalidade SBTI viral. 30 perguntas, 27 tipos incluindo os ocultos DRUNK e HHHH. Resultado instantâneo com traços, compatibilidade e o ditado que corresponde ao seu tipo.",
     "seoHubTitle": "Teste de Personalidade SBTI — Todos os 27 Tipos Explicados",
-    "seoHubDescription": "Indicador de Tipos Comportamentais Bobos — a paródia viral do MBTI. 27 tipos, 15 dimensões, 30 perguntas e os provérbios que combinam com cada tipo.",
+    "seoHubDescription": "Silly Behavioral Type Indicator — a paródia viral da MBTI. 27 tipos, 15 dimensões, 30 perguntas, com ditados que correspondem a cada tipo.",
+    "homeCardSubtitle": "30 perguntas, 27 tipos, resultado instantâneo",
+    "homeCardLink": "Comece o teste",
+    "hubCatalogueKicker": "O catálogo",
+    "hubAllTypesHeading": "Os 25 tipos regulares",
+    "hubAllTypesSub": "Cada tipo emparelhado com o ditado correspondente.",
+    "hubSpecialKicker": "Escondido dentro",
+    "hubSpecialTypesHeading": "Os 2 tipos especiais",
+    "hubSpecialTypesSub": "HHHH é o padrão. DRUNK é um easter egg desbloqueado apenas por uma resposta específica.",
+    "hubCtaKicker": "Não sabe seu tipo ainda?",
+    "hubCtaTitle": "Faça o teste de 30 perguntas",
+    "hubCtaBullets": "~5 minutos · Resultado instantâneo · Gratuito · sem cadastro",
+    "hubExploreKicker": "Continue explorando",
+    "hubReadMore": "Saiba mais",
+    "hubWhatIsLabel": "O que é SBTI?",
+    "hubVsMbtiLabel": "SBTI vs MBTI",
+    "hubSlangLabel": "Decodificador de gírias SBTI",
+    "hubHomeLabel": "Início",
     "kicker": "O Teste de Personalidade · Abr 2026",
-    "titleLine1": "Indicador de Comportamento",
-    "titleLine2": "Bobo",
-    "questionsLabel": "perguntas",
+    "titleLine1": "Silly Behavioral",
+    "titleLine2": "Type Indicator",
+    "questionsLabel": "questões",
     "typesLabel": "tipos",
     "minutesLabel": "minutos",
     "instantResult": "Resultado instantâneo",
-    "hiddenInside": "Escondido por dentro",
-    "hiddenInsideDesc": "Dois dos 27 tipos — HHHH e DRUNK — são Easter eggs. Apenas um padrão específico de respostas irá desbloqueá-los.",
+    "hiddenInside": "Escondido dentro",
+    "hiddenInsideDesc": "Dois dos 27 tipos — HHHH e DRUNK — são easter eggs. Apenas um padrão específico de respostas os desbloqueará.",
     "beforeBegin": "Antes de começar",
-    "socialProof": "Viral no Twitter, Instagram e TikTok em abril de 2026.",
-    "begin": "Comece o teste",
-    "resumeFormat": "Continuar na Q{cur} / {total}",
+    "socialProof": "Viral no Weibo, Xiaohongshu e TikTok em abril de 2026.",
+    "begin": "Iniciar o teste",
+    "resumeFormat": "Retomar na Q{cur} / {total}",
     "startOver": "Recomeçar",
     "progressFormat": "Q{cur} / {total}",
     "answeredFormat": "{answered} / {total} respondidas",
     "readAndReact": "Leia. Reaja.",
     "bonusLabel": "Pergunta bônus",
-    "submit": "Me decodifique",
-    "submitIncomplete": "Responda todas as {remaining} restantes para continuar",
-    "computing": "Calculando…",
+    "submit": "Me decifre",
+    "submitIncomplete": "Responda todas {remaining} restantes para continuar",
+    "computing": "Computando…",
     "restart": "Recomeçar",
-    "errorState": "Algo deu errado. Vamos começar de novo.",
+    "errorState": "Algo deu errado. Vamos recomeçar.",
     "result": {
       "yourResult": "Seu resultado",
       "hiddenType": "Tipo oculto",
-      "fallbackType": "Tipo substituto",
+      "fallbackType": "Tipo padrão",
       "retakeTest": "Refazer o teste",
       "takeTheTest": "Faça o teste SBTI",
-      "matchStrong": "Forte compatibilidade",
-      "matchGood": "Boa compatibilidade",
-      "matchPartial": "Compatibilidade parcial",
-      "rarityTemplate": "~{rarity}% obtêm {code}",
+      "matchStrong": "Forte afinidade",
+      "matchGood": "Boa afinidade",
+      "matchPartial": "Afinidade parcial",
+      "rarityTemplate": "~{rarity}% tem {code}",
       "hiddenTypeBadge": "Easter egg",
-      "hiddenTypeDesc": "Desbloqueado pela resposta \"bebida forte em uma garrafa térmica\" — apenas ~1% dos participantes se arriscam nesta.",
+      "hiddenTypeDesc": "Desencadeado pela resposta \"licor forte em uma garrafa térmica\" — apenas ~1% dos participantes optam por essa.",
       "brokeModelBadge": "Você quebrou o modelo",
-      "brokeModelDesc": "Suas respostas não se encaixam perfeitamente em nenhum dos 25 tipos padrão (melhor correspondência abaixo de 60%).",
+      "brokeModelDesc": "Suas respostas não correspondem claramente a nenhum dos 25 tipos padrão (melhor correspondência abaixo de 60%).",
       "closestTemplate": "Tipo padrão mais próximo: {code}.",
-      "normalBestTemplate": "Seu melhor resultado normal seria {code}.",
+      "normalBestTemplate": "Sua melhor correspondência normal seria {code}.",
       "noResultDesc": "Esta é a página de perfil para {code}. Faça o teste para ver se isso corresponde ao seu próprio resultado.",
       "definingTraits": "Seus traços definidores",
       "showAll": "Mostrar todas as 15 dimensões",
-      "hideAll": "Ocultar",
+      "hideAll": "Esconder",
       "profileKicker": "O perfil",
       "profileHeading": "Sua análise de 15 dimensões",
-      "profileSub": "Dentro de 5 modelos · Eu, Emoção, Atitude, Ação, Social",
-      "shareKicker": "Envie",
+      "profileSub": "Em 5 modelos · Eu, Emoção, Atitude, Ação, Social",
+      "shareKicker": "Compartilhe",
       "shareHeading": "Compartilhe seu tipo",
       "goDeeperKicker": "Aprofunde-se",
       "goDeeperHeading": "Tudo sobre {code}",
-      "fullProfile": "Perfil completo de {code}",
+      "fullProfile": "Perfil completo {code}",
       "compatibility": "Compatibilidade",
       "howToGet": "Como conseguir {code}"
     }
@@ -69,135 +86,135 @@
       "name": "Autoestima",
       "model": "Eu",
       "levels": {
-        "L": "Você duvidaria de um elogio antes de confiar nele — é mais severo consigo mesmo do que qualquer outra pessoa é.",
-        "M": "Confiança varia com o clima. Com ventos a favor, você voa; com ventos contra, você desiste.",
-        "H": "Você conhece bem seu próprio valor, e um comentário passageiro de um estranho não abala isso."
+        "L": "Você duvidaria de um elogio antes de acreditar nele — mais duro consigo mesmo do que qualquer outra pessoa.",
+        "M": "Confiança altera com o clima. Com ventos a favor você voa; com ventos contra você se retrai.",
+        "H": "Você sabe mais ou menos seu valor, e um comentário aleatório de um estranho não o diminui."
       }
     },
     "S2": {
-      "name": "Clareza Pessoal",
+      "name": "Autoclaridade",
       "model": "Eu",
       "levels": {
-        "L": "Canal interno é estático na maior parte do tempo. Você se pergunta 'quem sou eu de verdade' mais do que gostaria de admitir.",
-        "M": "Você principalmente se reconhece, embora seu humor às vezes tome conta.",
+        "L": "Seu canal interno é principalmente estático. Você pensa mais em 'quem eu realmente sou' do que gostaria de admitir.",
+        "M": "Você se reconhece na maior parte do tempo, embora seu humor às vezes pegue emprestada a conta.",
         "H": "Você conhece seu temperamento, seus desejos e seus limites."
       }
     },
     "S3": {
-      "name": "Valores Fundamentais",
+      "name": "Valores Centrais",
       "model": "Eu",
       "levels": {
-        "L": "Conforto e segurança importam mais. A vida não precisa estar no modo sprint todos os dias.",
-        "M": "Parte de você quer subir; parte quer descansar. As duas partes negociam constantemente.",
-        "H": "Você é facilmente puxado por um objetivo, um caminho de crescimento ou algo em que acredita."
+        "L": "Conforto e segurança são mais importantes. A vida não precisa estar em modo corrida todos os dias.",
+        "M": "Uma parte de você quer subir; outra quer ficar deitada. As duas partes negociam constantemente.",
+        "H": "Você é facilmente impulsionado por um objetivo, um caminho de crescimento ou algo em que acredita."
       }
     },
     "E1": {
-      "name": "Segurança no Apego",
+      "name": "Segurança Emocional",
       "model": "Emoção",
       "levels": {
-        "L": "Uma mensagem não lida pode acionar um filme mental completo sobre como acaba. Sistema de alarme sempre ativo.",
-        "M": "Meia confiança, meio teste. Você faz reuniões de guerra internas por pequenas coisas.",
-        "H": "Você confia no relacionamento em si. Um vento leve não derruba a casa."
+        "L": "Uma mensagem não lida pode desencadear um filme mental completo sobre como termina. Sistema de alarme permanece ligado.",
+        "M": "Meia confiança, meio teste. Você faz batalhas internas sobre pequenas coisas.",
+        "H": "Você confia na relação em si. Um ventinho não derruba a casa."
       }
     },
     "E2": {
       "name": "Investimento Emocional",
       "model": "Emoção",
       "levels": {
-        "L": "Você se segura. A porta não está fechada — o procedimento de segurança é apenas rigoroso.",
-        "M": "Você investe, mas mantém um plano B. Sem grandes apostas.",
-        "H": "Uma vez que você está dentro, você está dentro — tempo, energia, foco, tudo."
+        "L": "Você se segura. A porta não está fechada — a checagem de segurança é apenas minuciosa.",
+        "M": "Você investe, mas mantém uma reserva. Sem entrega total.",
+        "H": "Uma vez dentro, você está dentro — tempo, energia, foco, tudo isso."
       }
     },
     "E3": {
       "name": "Limites e Dependência",
       "model": "Emoção",
       "levels": {
-        "L": "Você se apega e gosta que se apeguem a você. O calor do relacionamento importa muito.",
+        "L": "Você vai se agarrar e ser agarrado. O calor do relacionamento importa muito.",
         "M": "Tanto proximidade quanto independência — ajustável, caso a caso.",
-        "H": "Você precisa do seu próprio espaço. Mesmo com amor, alguns territórios são só seus."
+        "H": "Você precisa do seu próprio espaço. Mesmo com amor, algum terreno permanece só seu."
       }
     },
     "A1": {
       "name": "Visão de Mundo",
       "model": "Atitude",
       "levels": {
-        "L": "Filtro padrão é desconfiança. Duvida primeiro, aproxime-se depois.",
-        "M": "Nem ingênuo, nem teórico da conspiração completo. Observar é seu modo natural.",
-        "H": "Você tende a acreditar que as pessoas têm boas intenções até prova em contrário."
+        "L": "Filtro padrão é suspeita. Dúvida primeiro, aproximação depois.",
+        "M": "Nem ingênuo, nem um completo teorista da conspiração. Observar é seu modo natural.",
+        "H": "Você tende a acreditar que as pessoas querem dizer bem até prova em contrário."
       }
     },
     "A2": {
       "name": "Regras vs. Flexibilidade",
       "model": "Atitude",
       "levels": {
-        "L": "As regras são opcionais quando conforto e liberdade não são.",
-        "M": "Você seguirá a regra que importa. Irá dobrar a que não importa.",
-        "H": "A ordem parece correta. Você prefere seguir o processo do que improvisar."
+        "L": "Regras são opcionais quando conforto e liberdade não são.",
+        "M": "Você segue a regra que importa. Dobra aquela que não importa.",
+        "H": "Ordem parece certo. Você prefere seguir o processo do que improvisar."
       }
     },
     "A3": {
-      "name": "Sentido de Propósito",
+      "name": "Sentido de Significado",
       "model": "Atitude",
       "levels": {
-        "L": "O sentido está em baixa. Muitas coisas parecem rotina.",
-        "M": "Alguns dias você tem uma missão, outros apenas está aproveitando. A filosofia está meio carregada.",
-        "H": "Você sabe mais ou menos para onde está caminhando e por quê."
+        "L": "Significado é baixo. Muitas coisas parecem como se você estivesse apenas passando pelas etapas.",
+        "M": "Em alguns dias você tem uma missão, em outros você está apenas curtindo. A filosofia está meio ligada.",
+        "H": "Você mais ou menos sabe em que direção está caminhando e por quê."
       }
     },
     "Ac1": {
       "name": "Motivação",
-      "model": "Impulso de Ação",
+      "model": "Impulso para Ação",
       "levels": {
-        "L": "Evitamento de riscos vem antes da ambição. 'Não bater' supera 'vencer'.",
+        "L": "Evitar riscos dispara antes da ambição. 'Não colidir' vence 'ganhar'.",
         "M": "Às vezes você quer ganhar; às vezes só quer não ser incomodado.",
         "H": "Resultados, progresso, movimento para frente — é isso que te ilumina."
       }
     },
     "Ac2": {
       "name": "Estilo de Decisão",
-      "model": "Impulso de Ação",
+      "model": "Impulso para Ação",
       "levels": {
-        "L": "Seu comitê interno demora. Cada decisão é revisitada.",
+        "L": "Seu comitê interno é demorado. Cada decisão é revisitada.",
         "M": "Você delibera, mas não demora. Hesitação normal.",
-        "H": "Você decide rápido e não refaz a decisão. Seguinte."
+        "H": "Você decide rápido e não reconsidera. Próximo."
       }
     },
     "Ac3": {
       "name": "Modo de Execução",
-      "model": "Impulso de Ação",
+      "model": "Impulso para Ação",
       "levels": {
         "L": "Você e prazos têm um relacionamento profundo. Quanto mais tarde fica, mais você acorda.",
-        "M": "Você consegue fazer o trabalho, mas o estado varia. Às vezes consistente, às vezes deslizando.",
-        "H": "Coisas inacabadas parecem farpas. Você empurra até terminá-las."
+        "M": "Você pode fazer o trabalho, mas o estado varia. Às vezes consistente, às vezes apenas flutuando.",
+        "H": "Coisas inacabadas parecem estilhaços. Você empurra até que estejam feitas."
       }
     },
     "So1": {
       "name": "Iniciativa Social",
       "model": "Social",
       "levels": {
-        "L": "Aquecimento lento. 'Dar o primeiro passo' requer todo um incentivo interno.",
-        "M": "Você se envolve se alguém se envolver. Você não força.",
-        "H": "Você abre o espaço. Destacar-se na multidão não te abala."
+        "L": "Aquecedor lento. 'Fazer o primeiro movimento' leva um pep talk interno completo.",
+        "M": "Você se envolve se alguém se envolver. Você não força a barra.",
+        "H": "Você abre o espaço. Se destacar em uma multidão não te abala."
       }
     },
     "So2": {
       "name": "Limites Interpessoais",
       "model": "Social",
       "levels": {
-        "L": "Você prefere intimidade e fusão. Assim que alguém entra, eles rapidamente vão para o círculo interno.",
-        "M": "Você quer intimidade e um pouco de espaço. Depende da pessoa.",
-        "H": "Seus limites são reais. Aproximação excessiva ativa um passo para trás instintivo."
+        "L": "Você prefere proximidade e fusão. Uma vez que alguém está dentro, está rapidamente no círculo interno.",
+        "M": "Você quer proximidade e um pequeno espaço. Depende da pessoa.",
+        "H": "Seus limites são reais. Algo muito próximo te faz dar um passo atrás."
       }
     },
     "So3": {
       "name": "Expressão e Autenticidade",
       "model": "Social",
       "levels": {
-        "L": "Você é direto. O que está na cabeça, sai pela boca, basicamente sem filtro.",
-        "M": "Você lê o ambiente. Autenticidade e polidez são dosadas conforme necessário.",
-        "H": "Você é fluente em mudar o código. O 'você real' é liberado em camadas."
+        "L": "Você é direto. O que está na cabeça sai pela boca, basicamente sem filtros.",
+        "M": "Você lê o ambiente. Autenticidade e polidez são dosadas conforme necessidade.",
+        "H": "Você é fluente em mudar de código. O 'você real' é liberado em camadas."
       }
     }
   },
@@ -205,14 +222,14 @@
     {
       "id": "q1",
       "dim": "S1",
-      "text": "Sou um rato no escuro, uma barata rastejante. Nunca estive apaixonado. Sou tímido e inseguro. Minha juventude é um devaneio atrás do outro — imaginando alguém que me ama, vagando pelas ruas comigo, saindo comigo. A realidade é: gastei o dinheiro dos meus pais na escola, me formei, faço horas extras em um emprego, persigo 'objetivos'. Toda vez que vejo outras pessoas fazendo piadas felizes online, quero chorar. Invejo as pequenas coisas boas da vida e ainda estou procurando minha direção. Por favor, deixe aqueles de nós que se escondem sob as cobertas encontrar uma saída. Eu realmente não quero molhar um travesseiro de lágrimas novamente.",
+      "text": "Sou um rato no escuro, uma barata rastejante. Nunca estive apaixonado. Sou tímido e inseguro. Minha juventude é um devaneio atrás do outro — imaginando alguém que me ama, passeando pelas ruas comigo, saindo comigo. A realidade é: gastei o dinheiro dos meus pais na escola, me formei, trabalho moendo, persigo 'metas.' Toda vez que vejo outras pessoas fazendo piadas felizes online, quero chorar. Eu invejo as pequenas coisas boas da vida e ainda estou procurando meu caminho. Por favor, deixe aqueles de nós que se escondem sob as cobertas encontrarem uma saída. Eu realmente não quero encharcar meu travesseiro de lágrimas novamente.",
       "options": [
         {
           "label": "Chorei lendo isso…",
           "value": 1
         },
         {
-          "label": "O que... é isso?",
+          "label": "O que… é isso?",
           "value": 2
         },
         {
@@ -224,7 +241,7 @@
     {
       "id": "q2",
       "dim": "S1",
-      "text": "Eu não sou bom o suficiente. Todos ao meu redor são mais capazes que eu.",
+      "text": "Não sou bom o suficiente. Todos ao meu redor são mais capazes do que eu.",
       "options": [
         {
           "label": "Verdade",
@@ -235,7 +252,7 @@
           "value": 2
         },
         {
-          "label": "Não mesmo",
+          "label": "Não exatamente",
           "value": 3
         }
       ]
@@ -243,7 +260,7 @@
     {
       "id": "q3",
       "dim": "S2",
-      "text": "Eu tenho um sentido claro de quem eu realmente sou.",
+      "text": "Eu tenho um senso claro de quem realmente sou.",
       "options": [
         {
           "label": "Discordo",
@@ -281,7 +298,7 @@
     {
       "id": "q5",
       "dim": "S3",
-      "text": "Eu preciso continuar subindo e melhorando continuamente.",
+      "text": "Preciso continuar subindo e melhorando.",
       "options": [
         {
           "label": "Discordo",
@@ -300,7 +317,7 @@
     {
       "id": "q6",
       "dim": "S3",
-      "text": "Opiniões de estranhos realmente não importam para mim.",
+      "text": "A opinião de estranhos sobre mim realmente não importa para mim.",
       "options": [
         {
           "label": "Discordo",
@@ -319,10 +336,10 @@
     {
       "id": "q7",
       "dim": "E1",
-      "text": "Seu(a) parceiro(a) não respondeu a você por mais de 5 horas. Eventualmente, dizem que 'tiveram diarreia o tempo todo.' Sua reação honesta?",
+      "text": "Seu parceiro não respondeu há mais de 5 horas. Eventualmente, ele diz que 'teve diarreia o tempo todo.' Sua reação honesta?",
       "options": [
         {
-          "label": "Diarreia não dura 5 horas. Estão escondendo algo.",
+          "label": "Diarreia não pode durar 5 horas. Estão escondendo algo.",
           "value": 1
         },
         {
@@ -330,7 +347,7 @@
           "value": 2
         },
         {
-          "label": "Talvez realmente não estivessem se sentindo bem hoje.",
+          "label": "Talvez eles realmente não estivessem se sentindo bem hoje.",
           "value": 3
         }
       ]
@@ -338,7 +355,7 @@
     {
       "id": "q8",
       "dim": "E1",
-      "text": "Eu frequentemente me preocupo em ser abandonado em relacionamentos.",
+      "text": "Costumo me preocupar em ser abandonado em relacionamentos.",
       "options": [
         {
           "label": "Sim",
@@ -357,10 +374,10 @@
     {
       "id": "q9",
       "dim": "E2",
-      "text": "De mão no coração — eu levo a sério todos os relacionamentos em que estou.",
+      "text": "Com a mão no coração — levo a sério todos os relacionamentos em que estou.",
       "options": [
         {
-          "label": "...Não muito.",
+          "label": "...Não exatamente.",
           "value": 1
         },
         {
@@ -376,10 +393,10 @@
     {
       "id": "q10",
       "dim": "E2",
-      "text": "Seu(a) parceiro(a) é: gentil com os idosos, amoroso(a) com crianças, gentil, honroso, articulado, espirituoso, observador, bem lido, paciente com iniciantes, amigável, humilde, ambicioso, radiante, devastadoramente atraente, de beleza capaz de derrubar nações. O que acontece com você?",
+      "text": "Seu parceiro é: gentil com idosos, amoroso com crianças, gentil, honrado, articulado, espirituoso, observador, bem informado, paciente com iniciantes, amigável, humilde, ambicioso, radiante, devastadoramente atraente, bonito ao nível de derrubar nações. O que acontece com você?",
       "options": [
         {
-          "label": "Não importa quão perfeito(a) sejam, eu não cairei muito fundo.",
+          "label": "Não importa quão perfeito seja, não vou me apaixonar muito.",
           "value": 1
         },
         {
@@ -387,7 +404,7 @@
           "value": 2
         },
         {
-          "label": "Vou valorizá-lo(a) completamente. Sim, vou me tornar um completo idiota apaixonado.",
+          "label": "Vou valorizá-los completamente. Sim, vou me tornar um bobo apaixonado.",
           "value": 3
         }
       ]
@@ -395,18 +412,18 @@
     {
       "id": "q11",
       "dim": "E3",
-      "text": "Você está saindo com alguém muito pegajoso. Sua opinião?",
+      "text": "Você está saindo com alguém muito apegado. Sua opinião?",
       "options": [
         {
-          "label": "Na verdade, isso é ótimo.",
+          "label": "Isso é ótimo, na verdade.",
           "value": 1
         },
         {
-          "label": "Tanto faz, de qualquer maneira.",
+          "label": "Tanto faz, tanto faz.",
           "value": 2
         },
         {
-          "label": "Prefiro manter meu próprio espaço.",
+          "label": "Prefiro ter meu próprio espaço.",
           "value": 3
         }
       ]
@@ -414,10 +431,10 @@
     {
       "id": "q12",
       "dim": "E3",
-      "text": "Eu valorizo espaço pessoal em todos os relacionamentos.",
+      "text": "Valorizo espaço pessoal em todos os relacionamentos.",
       "options": [
         {
-          "label": "Eu prefiro depender e ser dependente.",
+          "label": "Prefiro depender e ser dependido.",
           "value": 1
         },
         {
@@ -425,7 +442,7 @@
           "value": 2
         },
         {
-          "label": "Sim! (dito sinceramente, sem hesitação)",
+          "label": "Sim! (dito de forma seca, sem hesitação)",
           "value": 3
         }
       ]
@@ -436,7 +453,7 @@
       "text": "A maioria das pessoas é boa.",
       "options": [
         {
-          "label": "Honestamente? Há mais maldade no coração humano do que existem hemorroidas no mundo.",
+          "label": "Honestamente? Há mais maldade no coração humano do que hemorroidas no mundo.",
           "value": 1
         },
         {
@@ -444,7 +461,7 @@
           "value": 2
         },
         {
-          "label": "Sim, escolho acreditar que pessoas boas superam as más.",
+          "label": "Sim, escolho acreditar que as pessoas boas superam as más.",
           "value": 3
         }
       ]
@@ -452,10 +469,10 @@
     {
       "id": "q14",
       "dim": "A1",
-      "text": "Você está andando pela rua. Uma linda garotinha (fofa de qualquer ângulo, fofa em qualquer câmera de celular, genuinamente fofa) vem até você e lhe entrega um pirulito. O que você sente?",
+      "text": "Você está andando na rua. Uma menininha adorável (fofa de qualquer ângulo, fofa em qualquer câmera de celular, genuinamente fofa) pula até você e te entrega um pirulito. O que você sente?",
       "options": [
         {
-          "label": "Awww ela é tão doce e fofa! Ela ME DEU um pirulito!",
+          "label": "Awwww ela é tão doce e fofa! Ela ME DEU um pirulito!",
           "value": 3
         },
         {
@@ -463,7 +480,7 @@
           "value": 2
         },
         {
-          "label": "Isso pode ser algum tipo novo de golpe? Saia andando, só por segurança.",
+          "label": "Isso pode ser algum tipo novo de golpe? Saia, só para garantir.",
           "value": 1
         }
       ]
@@ -471,18 +488,18 @@
     {
       "id": "q15",
       "dim": "A2",
-      "text": "As finais estão chegando. A escola manda sessões de estudo à noite; faltar custa pontos. Hoje à noite, porém, sua paquera te convidou para jogar seu jogo online competitivo favorito. O que você faz?",
+      "text": "As finais estão chegando. A escola exige sessões de estudo noturnas; faltar custa pontos. Hoje à noite, no entanto, sua paixão te convidou para jogar seu jogo competitivo online favorito. O que você faz?",
       "options": [
         {
           "label": "Faltar! Só desta vez!",
           "value": 1
         },
         {
-          "label": "Faço um pedido de dispensa.",
+          "label": "Fazer um pedido de licença.",
           "value": 2
         },
         {
-          "label": "As provas estão chegando, literalmente, não vou a lugar nenhum.",
+          "label": "As provas estão literalmente chegando, eu não vou a lugar nenhum.",
           "value": 3
         }
       ]
@@ -490,7 +507,7 @@
     {
       "id": "q16",
       "dim": "A2",
-      "text": "Eu gosto de quebrar rotinas e não gosto de ser constrangido.",
+      "text": "Gosto de quebrar rotinas e não gosto de ser limitado.",
       "options": [
         {
           "label": "Concordo",
@@ -509,7 +526,7 @@
     {
       "id": "q17",
       "dim": "A3",
-      "text": "Eu geralmente faço coisas com um objetivo em mente.",
+      "text": "Geralmente faço as coisas com um objetivo em mente.",
       "options": [
         {
           "label": "Discordo",
@@ -528,14 +545,14 @@
     {
       "id": "q18",
       "dim": "A3",
-      "text": "Um dia te bate: qual é o real significado da vida, afinal? Em algum sentido, humanos são apenas animais movidos por impulsos, controlados por hormônios — com fome, então você come, cansado, então você dorme. Apenas uma forma de vida tediosa e de baixo nível. Essencialmente sem diferença de gatos e cachorros.",
+      "text": "Um dia, isso te atinge: qual é o verdadeiro significado da vida, afinal? Em certo sentido, humanos são apenas animais guiados por impulsos, controlados por hormônios — com fome então você come, com sono então você dorme. Apenas uma forma de vida entediante e de baixo nível. Essencialmente não diferente de gatos e cachorros.",
       "options": [
         {
           "label": "Sim, basicamente.",
           "value": 1
         },
         {
-          "label": "Pode ser de qualquer maneira.",
+          "label": "Poderia ir de qualquer jeito.",
           "value": 2
         },
         {
@@ -547,7 +564,7 @@
     {
       "id": "q19",
       "dim": "Ac1",
-      "text": "Eu faço coisas principalmente para obter resultados e crescer, não para evitar problemas e riscos.",
+      "text": "Faço as coisas principalmente para obter resultados e crescer, não para evitar problemas e riscos.",
       "options": [
         {
           "label": "Discordo",
@@ -566,18 +583,18 @@
     {
       "id": "q20",
       "dim": "Ac1",
-      "text": "Você está sentado no banheiro há 30 minutos, constipado, nada acontece. Você provavelmente:",
+      "text": "Você está sentado no banheiro por 30 minutos, constipado, nada aconteceu. Você é mais como:",
       "options": [
         {
-          "label": "Ficar mais 30 minutos. Pode sair.",
+          "label": "Sentar mais 30 minutos. Pode ser que aconteça.",
           "value": 1
         },
         {
-          "label": "Dá um tapa no próprio traseiro e diz 'vamos lá, droga, sai!'",
+          "label": "Bater na própria bunda e dizer 'vamos, droga, sai!'",
           "value": 2
         },
         {
-          "label": "Vai pegar um laxante. Só para resolver logo.",
+          "label": "Pegar um laxante. Apenas resolver logo.",
           "value": 3
         }
       ]
@@ -585,7 +602,7 @@
     {
       "id": "q21",
       "dim": "Ac2",
-      "text": "Eu decido de maneira decisiva. Não gosto de hesitar.",
+      "text": "Eu decido decisivamente. Não gosto de hesitar.",
       "options": [
         {
           "label": "Discordo",
@@ -607,7 +624,7 @@
       "text": "Esta pergunta não tem pergunta. Por favor, adivinhe cegamente.",
       "options": [
         {
-          "label": "Pensei muito e acho que deveria escolher A?",
+          "label": "Pensei muito e acho que devo escolher A?",
           "value": 1
         },
         {
@@ -630,7 +647,7 @@
           "value": 1
         },
         {
-          "label": "Ah, às vezes.",
+          "label": "Eh, às vezes.",
           "value": 2
         },
         {
@@ -642,14 +659,14 @@
     {
       "id": "q24",
       "dim": "Ac3",
-      "text": "Eu geralmente planejo as coisas, ____",
+      "text": "Geralmente planejo as coisas, ____",
       "options": [
         {
           "label": "mas planos nunca sobrevivem à realidade.",
           "value": 1
         },
         {
-          "label": "às vezes eu termino, às vezes não.",
+          "label": "às vezes os termino, às vezes não.",
           "value": 2
         },
         {
@@ -661,18 +678,18 @@
     {
       "id": "q25",
       "dim": "So1",
-      "text": "Você fez muitos amigos online através de um jogo que adora. Eles te convidam para se encontrarem pessoalmente. Sua decisão?",
+      "text": "Você fez muitos amigos online através de um jogo que adora. Eles te convidam para um encontro pessoal. Sua jogada?",
       "options": [
         {
-          "label": "Falar online está bom — encontrar pessoalmente me deixa nervoso.",
+          "label": "Conversar online está bem — encontro presencial me deixa nervoso.",
           "value": 1
         },
         {
-          "label": "Claro, conhecer é tranquilo. Quem vier falar comigo, eu converso.",
+          "label": "Claro, encontrar está bem. Quem falar comigo, eu falo de volta.",
           "value": 2
         },
         {
-          "label": "Vou me vestir bem e conversar entusiasmadamente. Nunca se sabe. Quero dizer, NUNCA SE SABE.",
+          "label": "Vou me arrumar e conversar com entusiasmo. Você nunca sabe. Quero dizer, você NUNCA SABE.",
           "value": 3
         }
       ]
@@ -680,18 +697,18 @@
     {
       "id": "q26",
       "dim": "So1",
-      "text": "Seu amigo traz junto um amigo dele. Seu estado mais provável?",
+      "text": "Seu amigo traz um amigo junto. Seu estado mais provável?",
       "options": [
         {
-          "label": "Sinto uma distância instintiva de 'amigo do amigo'. Não quero bagunçar a dinâmica de duas pessoas.",
+          "label": "Sinto uma distância instintiva de 'amigo do amigo.' Não quero bagunçar a dinâmica de duas pessoas.",
           "value": 1
         },
         {
-          "label": "Depende deles. Se combinarmos, combinamos.",
+          "label": "Depende deles. Se dermos certo, damos certo.",
           "value": 2
         },
         {
-          "label": "O amigo de um amigo conta como meu amigo! Vamos lá — modo conversa entusiástica.",
+          "label": "O amigo de um amigo conta como meu amigo! Vamos lá — modo de bate-papo entusiasmado.",
           "value": 3
         }
       ]
@@ -699,7 +716,7 @@
     {
       "id": "q27",
       "dim": "So2",
-      "text": "Minha vibe social é basicamente uma cerca elétrica. Chegue muito perto e o alarme dispara automaticamente.",
+      "text": "Meu clima social é basicamente uma cerca elétrica. Chegue muito perto e o alarme dispara automaticamente.",
       "options": [
         {
           "label": "Concordo",
@@ -718,7 +735,7 @@
     {
       "id": "q28",
       "dim": "So2",
-      "text": "Eu anseio por proximidade com pessoas em quem confio — o tipo de proximidade onde nos sentimos como família há muito perdida.",
+      "text": "Eu desejo proximidade com pessoas em quem confio — a proximidade onde nos sentimos como família há muito perdida.",
       "options": [
         {
           "label": "Concordo",
@@ -737,18 +754,18 @@
     {
       "id": "q29",
       "dim": "So3",
-      "text": "Às vezes você tem uma opinião diferente ou negativa sobre algo, mas não expressa. O principal motivo é geralmente:",
+      "text": "Às vezes você tem uma opinião diferente ou negativa sobre algo, mas não a expressa. O principal motivo geralmente é:",
       "options": [
         {
           "label": "Isso raramente acontece comigo.",
           "value": 1
         },
         {
-          "label": "Para preservar a face ou o relacionamento.",
+          "label": "Para preservar a aparência ou o relacionamento.",
           "value": 2
         },
         {
-          "label": "Não quero que as pessoas saibam que tenho um lado sombrio.",
+          "label": "Eu não quero que as pessoas saibam que tenho um lado obscuro.",
           "value": 3
         }
       ]
@@ -756,7 +773,7 @@
     {
       "id": "q30",
       "dim": "So3",
-      "text": "Eu mostro diferentes lados de mim para diferentes pessoas.",
+      "text": "Eu mostro lados diferentes de mim para diferentes pessoas.",
       "options": [
         {
           "label": "Discordo",
@@ -792,7 +809,7 @@
           "value": 3
         },
         {
-          "label": "Exercitar-se.",
+          "label": "Fazer exercícios.",
           "value": 4
         }
       ]
@@ -800,14 +817,14 @@
     {
       "id": "drink_gate_q2",
       "kind": "drink_trigger",
-      "text": "Qual é sua atitude em relação a beber?",
+      "text": "Qual é sua atitude em relação ao álcool?",
       "options": [
         {
           "label": "Um pouco de vez em quando. Nada pesado.",
           "value": 1
         },
         {
-          "label": "Eu mantenho bebidas fortes em uma garrafa térmica e bebo como água. O álcool fala comigo.",
+          "label": "Guardo bebida forte em uma garrafa térmica e bebo como água. O álcool fala comigo.",
           "value": 2
         }
       ]

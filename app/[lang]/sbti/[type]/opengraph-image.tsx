@@ -1,19 +1,43 @@
 import { ImageResponse } from 'next/og';
-import { getAllSbtiTypesEn, getSbtiType, typeCodeToSlug } from '@/src/lib/sbti';
+import {
+  getAllSbtiTypesEn,
+  getSbtiType,
+  typeCodeToSlug,
+} from '@/src/lib/sbti';
+import { LANGUAGES } from '@/src/lib/constants';
 
 export const alt = 'SBTI personality type';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
+// Languages whose scripts the default next/og font can render without
+// advanced OpenType features. Arabic, Hindi, Thai, etc. need custom font
+// loading to render correctly — those langs' OG pages fall back to the
+// site's page-level OG metadata (which is text-only).
+const OG_LANGS = new Set(['en', 'es', 'pt', 'fr', 'de', 'id', 'vi', 'tl', 'ms', 'ja', 'ko', 'ru']);
+
 export async function generateStaticParams() {
-  return getAllSbtiTypesEn().map(t => ({ type: typeCodeToSlug(t.code) }));
+  const langs = Object.keys(LANGUAGES).filter(l => OG_LANGS.has(l));
+  const types = getAllSbtiTypesEn().map(t => typeCodeToSlug(t.code));
+  const out: { lang: string; type: string }[] = [];
+  for (const lang of langs) {
+    for (const type of types) {
+      out.push({ lang, type });
+    }
+  }
+  return out;
 }
 
-export default async function OgImage({ params }: { params: { type: string } }) {
-  const sbti = getSbtiType(params.type);
+export default async function OgImage({
+  params,
+}: {
+  params: { lang: string; type: string };
+}) {
+  const sbti = getSbtiType(params.type, params.lang);
   const code = (sbti?.code ?? 'SBTI').replace(/[^A-Z0-9?!-]/gi, '').slice(0, 6);
-  const displayName = sbti?.displayName ?? 'Silly Behavioral Type Indicator';
+  const displayName = sbti?.displayName ?? '';
   const tagline = sbti?.tagline ?? '';
+  const isRtl = params.lang === 'ar';
 
   return new ImageResponse(
     (
@@ -30,6 +54,7 @@ export default async function OgImage({ params }: { params: { type: string } }) 
           fontFamily: 'sans-serif',
           position: 'relative',
           overflow: 'hidden',
+          direction: isRtl ? 'rtl' : 'ltr',
         }}
       >
         <div
@@ -59,14 +84,7 @@ export default async function OgImage({ params }: { params: { type: string } }) 
         </div>
 
         <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 14 }}>
-          <div
-            style={{
-              width: 8,
-              height: 8,
-              borderRadius: 999,
-              background: '#f87171',
-            }}
-          />
+          <div style={{ width: 8, height: 8, borderRadius: 999, background: '#f87171' }} />
           <div
             style={{
               fontSize: 16,
@@ -91,16 +109,18 @@ export default async function OgImage({ params }: { params: { type: string } }) 
           >
             {code}
           </div>
-          <div
-            style={{
-              fontSize: 44,
-              fontWeight: 700,
-              marginTop: 12,
-              color: 'rgba(255, 255, 255, 0.75)',
-            }}
-          >
-            {displayName}
-          </div>
+          {displayName && (
+            <div
+              style={{
+                fontSize: 44,
+                fontWeight: 700,
+                marginTop: 12,
+                color: 'rgba(255, 255, 255, 0.75)',
+              }}
+            >
+              {displayName}
+            </div>
+          )}
           {tagline && (
             <div
               style={{
@@ -129,11 +149,9 @@ export default async function OgImage({ params }: { params: { type: string } }) 
           }}
         >
           <div style={{ width: 4, height: 4, borderRadius: 999, background: '#f87171' }} />
-          <span>27 types</span>
+          <span>{code}</span>
           <div style={{ width: 4, height: 4, borderRadius: 999, background: '#f87171' }} />
-          <span>30 questions</span>
-          <div style={{ width: 4, height: 4, borderRadius: 999, background: '#f87171' }} />
-          <span>~5 minutes</span>
+          <span>27 / 30 / 5m</span>
         </div>
       </div>
     ),

@@ -6,6 +6,7 @@ import { LANGUAGES } from '@/src/lib/constants'
 import LanguageSelector from '../components/LanguageSelector'
 import { getAllBlogPosts } from '@/src/lib/blog'
 import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles'
+import { getQuiz } from '@/src/lib/sbti-quiz'
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -109,6 +110,7 @@ export default async function InternationalHomePage({
   const { lang } = await params;
   const allPosts = await getAllBlogPosts();
   const allListicles = getAllListicles();
+  const quiz = getQuiz(lang);
 
   const translatedListicles = getAllListiclesTranslated(lang);
   const featuredListicles = FEATURED_LISTICLE_SLUGS
@@ -233,7 +235,16 @@ export default async function InternationalHomePage({
       <section className="bg-white py-8 border-b border-gray-100">
         <div className="container mx-auto px-6">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">{getTranslation(lang, 'slangMoreResources')}</h2>
-          <div className="grid sm:grid-cols-3 gap-4 max-w-3xl">
+          <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 max-w-4xl">
+            <Link
+              href={`/${lang}/sbti/test`}
+              className="p-5 bg-indigo-50 rounded-xl border border-indigo-200 hover:shadow-md hover:border-indigo-300 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-gray-950 px-2 py-0.5 rounded-full">SBTI</span>
+              <p className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">{quiz.meta.title}</p>
+              <p className="text-sm text-gray-600 mt-1">{quiz.ui.homeCardSubtitle}</p>
+              <p className="text-xs text-indigo-600 font-medium mt-2">{quiz.ui.homeCardLink} →</p>
+            </Link>
             <Link
               href={`/${lang}/slang`}
               className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"

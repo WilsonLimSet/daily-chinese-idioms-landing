@@ -20,7 +20,10 @@ type Props = {
   dimensions: Record<string, DimensionMeta>;
   tagline: string;
   /** Canonical URL back to this result page (including lang prefix if any). */
-  resultPath: string;
+  /** Canonical URL path back to this result view — kept in props so callers
+   *  don't need to change shape, even though we now share the canonical type
+   *  profile URL instead. */
+  resultPath?: string;
   /** Path to the full type profile (e.g. /sbti/ctrl or /ja/sbti/ctrl). */
   fullProfilePath: string;
   /** Path to retake the test (e.g. /sbti/test). */
@@ -39,7 +42,7 @@ export default function ResultInteractive({
   secondaryDisplayName,
   dimensions,
   tagline,
-  resultPath,
+  // resultPath intentionally unused — we share canonical URL now.
   fullProfilePath,
   retakePath,
   isRtl,
@@ -71,9 +74,9 @@ export default function ResultInteractive({
         : i18n.matchPartial
       : null;
 
-  const resultUrl = hasResult
-    ? `https://www.chineseidioms.com${resultPath}?v=${v}${simStr ? `&sim=${simStr}` : ''}${sec ? `&sec=${sec}` : ''}`
-    : `https://www.chineseidioms.com${fullProfilePath}`;
+  // Share the canonical profile URL so receivers get the per-type OG image
+  // and deep-links land on an indexable page rather than a query-string result.
+  const resultUrl = `https://www.chineseidioms.com${fullProfilePath}`;
 
   // Secondary display name takes priority from props if we got it from the
   // server; otherwise fall back to the raw sec code from the URL.

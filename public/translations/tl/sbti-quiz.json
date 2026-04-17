@@ -1,63 +1,80 @@
 {
   "meta": {
-    "title": "SBTI Personalidad na Pagsusulit",
-    "subtitle": "Luma na ang MBTI. Narito na ang SBTI.",
-    "disclaimer": "Ang pagsusulit na ito ay para sa libangan lamang. Huwag gamitin ito bilang diagnosis, sa interbyu sa trabaho, sa paghahanap ng kapareha, dahilan ng paghihiwalay, pamahiin, o pasya sa buhay."
+    "title": "SBTI Personality Test",
+    "subtitle": "MBTI ay luma na. Narito ang SBTI.",
+    "disclaimer": "Ang pagsusulit na ito ay para sa kasiyahan lamang. Huwag gamitin ito bilang diagnosis, sa job interview, sa pakikipag-match, sa rason ng pakikipaghiwalay, sa panghuhula, o sa hatol ng buhay."
   },
   "ui": {
-    "seoTestTitle": "SBTI Test — Libreng 30-Tanong Personalidad na Quiz (2026)",
-    "seoTestDescription": "Sagutan ang viral na Chinese SBTI personalidad na pagsusulit. 30 tanong, 27 uri kasama ang nakatagong DRUNK at HHHH. Instant na resulta kasama ang mga katangian, pagkakatugma, at ang chengyu na akma sa iyong uri.",
-    "seoHubTitle": "SBTI Personalidad na Pagsusulit — Buong 27 Uri Ipinaliwanag",
-    "seoHubDescription": "Silly Behavioral Type Indicator — ang viral na Chinese na parody ng MBTI. 27 uri, 15 dimensyon, 30 tanong, kasama ang mga Chinese idioms (chengyu) na akma sa bawat uri.",
-    "kicker": "Ang Pagsusulit sa Personalidad · Abr 2026",
+    "seoTestTitle": "SBTI Test — Libreng 30-Tanong na Pagsusulit ng Personalidad (2026)",
+    "seoTestDescription": "Kunin ang viral na Chinese SBTI na pagsusulit ng personalidad. 30 tanong, 27 uri kasama ang nakatagong DRUNK at HHHH. Instant na resulta na may mga katangian, pagkakatugma, at ang chengyu na katugma ng iyong uri.",
+    "seoHubTitle": "SBTI Personality Test — Paliwanag ng Lahat ng 27 Tipo",
+    "seoHubDescription": "Silly Behavioral Type Indicator — ang viral na Chinese parody ng MBTI. 27 tipo, 15 sukat, 30 tanong, kasama ang mga Chinese idiom (chengyu) na katugma ng bawat uri.",
+    "homeCardSubtitle": "30 tanong, 27 tipo, instant na resulta",
+    "homeCardLink": "Simulan ang pagsusulit",
+    "hubCatalogueKicker": "Ang katalogo",
+    "hubAllTypesHeading": "Ang 25 regular na tipo",
+    "hubAllTypesSub": "Bawat uri may katugmang chengyu.",
+    "hubSpecialKicker": "Nakatago sa loob",
+    "hubSpecialTypesHeading": "Ang 2 espesyal na tipo",
+    "hubSpecialTypesSub": "HHHH ay ang fallback. DRUNK ay isang Easter egg na mabubuksan lamang gamit ang isang partikular na sagot.",
+    "hubCtaKicker": "Hindi mo pa alam ang iyong tipo?",
+    "hubCtaTitle": "Kunin ang 30-tanong na pagsusulit",
+    "hubCtaBullets": "~5 minuto · Instant na resulta · Libre · walang sign-up",
+    "hubExploreKicker": "Patuloy na mag-explore",
+    "hubReadMore": "Magbasa pa",
+    "hubWhatIsLabel": "Ano ang SBTI?",
+    "hubVsMbtiLabel": "SBTI vs MBTI",
+    "hubSlangLabel": "SBTI slang decoder",
+    "hubHomeLabel": "Home",
+    "kicker": "Ang Pagsusulit ng Personalidad · Abril 2026",
     "titleLine1": "Silly Behavioral",
     "titleLine2": "Type Indicator",
-    "questionsLabel": "mga tanong",
-    "typesLabel": "mga uri",
+    "questionsLabel": "tanong",
+    "typesLabel": "tipo",
     "minutesLabel": "minuto",
-    "instantResult": "Agad na resulta",
+    "instantResult": "Instant na resulta",
     "hiddenInside": "Nakatago sa loob",
-    "hiddenInsideDesc": "Dalawa sa 27 uri — HHHH at DRUNK — ay Easter eggs. Tanging isang tiyak na pattern ng mga sagot ang makapagbubukas nito.",
+    "hiddenInsideDesc": "Dalawa sa 27 tipo — HHHH at DRUNK — ay mga Easter egg. Tanging ang isang partikular na pattern ng mga sagot ang magbubukas sa kanila.",
     "beforeBegin": "Bago ka magsimula",
     "socialProof": "Viral sa Weibo, Xiaohongshu, at TikTok noong Abril 2026.",
     "begin": "Simulan ang pagsusulit",
-    "resumeFormat": "Ipatuloy sa T{cur} / {total}",
-    "startOver": "Magsimulang muli",
+    "resumeFormat": "I-restart sa T{cur} / {total}",
+    "startOver": "Ulitin mula sa simula",
     "progressFormat": "T{cur} / {total}",
-    "answeredFormat": "{answered} / {total} nasagutan",
-    "readAndReact": "Basahin. Reaksyon.",
+    "answeredFormat": "{answered} / {total} nasagot na",
+    "readAndReact": "Basahin. Tumuloy.",
     "bonusLabel": "Bonus na tanong",
     "submit": "I-decode ako",
-    "submitIncomplete": "Sagutan ang lahat ng natitirang {remaining} bago magpatuloy",
-    "computing": "Pinoproseso…",
-    "restart": "Magsimulang muli",
-    "errorState": "May nangyaring mali. Magsimulang muli tayo.",
+    "submitIncomplete": "Sagutin ang lahat ng {remaining} upang magpatuloy",
+    "computing": "Kinukuwenta…",
+    "restart": "Magsimula muli",
+    "errorState": "May nangyaring mali. Magsimula tayong muli.",
     "result": {
       "yourResult": "Ang iyong resulta",
-      "hiddenType": "Nakatagong uri",
-      "fallbackType": "Pamantayang uri",
-      "retakeTest": "Uliting sagutan ang pagsusulit",
-      "takeTheTest": "Gawin ang SBTI pagsusulit",
-      "matchStrong": "Matinding tugma",
-      "matchGood": "Magandang tugma",
-      "matchPartial": "Bahagyang tugma",
+      "hiddenType": "Nakatagong tipo",
+      "fallbackType": "Fallback na tipo",
+      "retakeTest": "Kunin muli ang pagsusulit",
+      "takeTheTest": "Kunin ang SBTI na pagsusulit",
+      "matchStrong": "Malakas na pagkakatugma",
+      "matchGood": "Magandang pagkakatugma",
+      "matchPartial": "Bahagyang pagkakatugma",
       "rarityTemplate": "~{rarity}% nakakuha ng {code}",
       "hiddenTypeBadge": "Easter egg",
-      "hiddenTypeDesc": "Na-trigger ng sagot na 'malakas na espiritu sa thermos' — tanging ~1% ng kukuha nito ang nagkukompleto sa sagot na ito.",
-      "brokeModelBadge": "Nasira mo ang modelo",
-      "brokeModelDesc": "Ang iyong mga sagot ay hindi malinis na tugma sa alinman sa 25 pamantayang uri (pinakamahusay na tugma ay wala sa 60%).",
-      "closestTemplate": "Pinakabanal na pamantayang uri: {code}.",
-      "normalBestTemplate": "Ang iyong normal na pinakamahusay na tugma ay magiging {code}.",
-      "noResultDesc": "Ito ay ang pahina ng profile para sa {code}. Sagutan ang pagsusulit upang makita kung ito ang tumutugma sa iyong sariling resulta.",
-      "definingTraits": "Ang iyong mga naglalarawang katangian",
-      "showAll": "Ipakita ang lahat ng 15 dimensyon",
+      "hiddenTypeDesc": "Na-trigger ng sagot na \"matapang na alak sa thermos\" — tanging ~1% ng kumukuha ang gumagawa nito.",
+      "brokeModelBadge": "Inabot mo ang modelo",
+      "brokeModelDesc": "Ang iyong mga sagot ay hindi linaw na tugma sa alinman sa 25 pamantayang tipo (ang pinakamagandang tugma ay wala pang 60%).",
+      "closestTemplate": "Pinakamalapit na pamantayang tipo: {code}.",
+      "normalBestTemplate": "Ang iyong normal na pinakamagandang tugma sana ay {code}.",
+      "noResultDesc": "Ito ang pahina ng profile para sa {code}. Kunin ang pagsusulit upang makita kung ito ay tumutugma sa iyong sariling resulta.",
+      "definingTraits": "Ang iyong natatanging katangian",
+      "showAll": "Ipakita ang lahat ng 15 sukat",
       "hideAll": "Itago",
       "profileKicker": "Ang profile",
-      "profileHeading": "Ang iyong breakdown na 15-dimensyon",
-      "profileSub": "Sa kabuuan ng 5 modelo · Sarili, Emosyon, Pag-uugali, Gawa, Panlipunan",
+      "profileHeading": "Ang iyong 15-sukat na breakdown",
+      "profileSub": "Sa loob ng 5 modelo · Sarili, Emosyon, Saloobin, Aksyon, Sosyal",
       "shareKicker": "Ipadala ito",
-      "shareHeading": "Ibahagi ang iyong uri",
-      "goDeeperKicker": "Magsaliksik pa",
+      "shareHeading": "Ibahagi ang iyong tipo",
+      "goDeeperKicker": "Lumalim pa",
       "goDeeperHeading": "Lahat tungkol sa {code}",
       "fullProfile": "Buong profile ng {code}",
       "compatibility": "Pagkakatugma",
@@ -69,135 +86,135 @@
       "name": "Pagpapahalaga sa Sarili",
       "model": "Sarili",
       "levels": {
-        "L": "Mas pinapaniwalaan mong kasinungalingan ang isang papuri bago ito paniwalaan — mas marahas ka sa sarili mo kaysa sa ibang tao.",
-        "M": "Ang kumpiyansa ay nagbabago kasabay ng panahon. Sa ilalim ng hangin ay lumilipad ka; sa harang ay bumabalikwas.",
-        "H": "Alam mo higit pa sa iyong sariling halaga, at ang komentaryo ng mga estranghero ay hindi ito kayang baguhin."
+        "L": "Mas duda ka sa isang papuri bago mo ito pagkatiwalaan — mas mahigpit ka sa sarili m...",
+        "M": "Ang kumpiyansa ay gumagalaw sa panahon. Kapag hangin ang nasa likod ay lilipad ka; kapag hangin ang nasa harap ay matutupi ka.",
+        "H": "Alam mo ang iyong halaga, at ang walang-kilalang komentaryo ng iba ay hindi ito basta-basta nababago."
       }
     },
     "S2": {
-      "name": "Kalalinawan ng Sarili",
+      "name": "Kalinawan ng Sarili",
       "model": "Sarili",
       "levels": {
-        "L": "Karaniwan na ang static sa iyong kalooban. Mas madalas mong tanungin ang sarili mo ng 'sino ba talaga ako?' kaysa sa inaamin mo.",
-        "M": "Karamihan ng oras ay kilala mo ng lubos ang sarili mo, bagama't paminsan-minsan ay nagkakatalo ang iyong pakiramdam.",
-        "H": "Alam mo ang iyong ugali, kagustuhan, at mga matinding 'hindi'."
+        "L": "Tumatakbo lang ang static sa loob. Nauulit mo ang 'sino nga ba ako talaga' kaysa gusto mong aminin.",
+        "M": "Karamihan ay kilala mo ang sarili mo, ngunit minsan ay hiniram ng iyong mood ang account.",
+        "H": "Alam mo ang iyong ugali, ang iyong mga gusto, at ang iyong mahihigpit na 'hindi'."
       }
     },
     "S3": {
-      "name": "Pundamental na Mga Halaga",
+      "name": "Pangunahing Halaga",
       "model": "Sarili",
       "levels": {
-        "L": "Mas mahalaga ang kaginhawahan at seguridad. Hindi kailangang laging patakbuhin nang mabilis ang buhay araw-araw.",
-        "M": "Bahagi mo ay gustong umakyat; bahagi ay gusto humiga. Patuloy silang nag-uusap.",
-        "H": "Madali kang humantong sa isang layunin, landas ng paglago, o isang paniniwala."
+        "L": "Mas mahalaga ang kasiyahan at kaligtasan. Hindi kailangan ng buhay na maging laging takbo.",
+        "M": "Parti ng iyo ay nais umakyat; parti ay nais humiga. Ang dalawa ay palaging nag-uusap.",
+        "H": "Madali kang hatakin paunahan ng isang layunin, ng isang landas ng pag-unlad, o ng isang bagay na pinaniwalaan mo."
       }
     },
     "E1": {
-      "name": "Seguridad ng Pagtatali",
+      "name": "Seguridad sa Pagsumpong",
       "model": "Emosyon",
       "levels": {
-        "L": "Isang hindi nabasang mensahe ay maaaring magpalabas ng ganap na pelikula sa isip tungkol kung paano ito magtatapos. Ang alarma ay mainit pa rin.",
-        "M": "Kalahati ay tiwala, kalahati ay pagsubok. Nagpapatakbo ka ng mga panloob na silid ng digmaan kahit na sa maliliit na bagay.",
-        "H": "Pinagkakatiwalaan mo ang relasyon mismo. Ang kaunting hangin ay hindi magpapatumba sa bahay."
+        "L": "Maaaring mag-trigger ang isang hindi nabasang mensahe ng buong mental na pelikula tungkol sa paano ito magtatapos. Ang alarma ay palaging maingay.",
+        "M": "Kalahating tiwala, kalahating test. Nagsasagawa ka ng panloob na war room sa maliliit na bagay.",
+        "H": "Pinagkakatiwalaan mo ang mismong relasyon. Kaunting hangin ay hindi ito magigiba."
       }
     },
     "E2": {
-      "name": "Puhunan ng Emosyonal",
+      "name": "Pamumuhunan ng Emosyon",
       "model": "Emosyon",
       "levels": {
-        "L": "Ikaw ay nagpipigil. Hindi sarado ang pinto — masinsinang sinusuri lang.",
-        "M": "Magsusulong ka ng pagsisikap, subalit itatabi ang bahagyang puhunan. Walang buong pagbomba.",
-        "H": "Kapag nandiyan ka na, nandoon ka na — oras, enerhiya, pokus, lahat ng ito."
+        "L": "Ikaw ay nagpipigil. Ang pinto ay hindi nakasara — sadyang masinsin ang pagtatsek ng seguridad.",
+        "M": "Magpupuhunan ka, pero may iaalat ka. Walong-sentimo ang lahat.",
+        "H": "Kapag andiyan ka na, andiyan ka na — oras, lakas, konsentrasyon, lahat ng ito."
       }
     },
     "E3": {
-      "name": "Hangganan at Pagsandal",
+      "name": "Hangganan at Pagsalalay",
       "model": "Emosyon",
       "levels": {
-        "L": "Ikakapit mo at ikakapit ka. Napakahalaga ng init sa relasyon.",
-        "M": "Parehong kalapit at indibidwalidad — nababagay batay sa kaso.",
-        "H": "Kailangan mo ng sariling espasyo. Kahit na may pag-ibig, may lugar na sa iyo lamang."
+        "L": "Ikaw ay hahawak at paiikliin. Mahalaga ang init ng relasyon.",
+        "M": "Parehong kalapitan at kasarinlan ay naaayos sa kaso-kasong batayan.",
+        "H": "Kailangan mo ng sariling espasyo. Maski kasama ang pagmamahal, may parte kang para sa iyo lang."
       }
     },
     "A1": {
-      "name": "Pananaw",
-      "model": "Pag-uugali",
+      "name": "Mundo ng Pananaw",
+      "model": "Saloobin",
       "levels": {
-        "L": "Ang default na filter ay hinala. Duda muna, lapitan muna bago pagisipan.",
-        "M": "Hindi tanga, hindi rin kumpletong tagapaniwala ng kontrabida. Ang pagtitingin ay ang natural na mode mo.",
-        "H": "May hilig kang maniwala na mabuti ang hangarin ng mga tao hanggang may mapatunayang kabaligtaran."
+        "L": "Default na filter ay pagkakasuspetsa. Duda muna, lapit pagkatapos.",
+        "M": "Hindi tanga, hindi rin ganap na teoryang conspirasi. Obserbasyon ang natural mong moda.",
+        "H": "Ikaw ay naniniwala na ang mga tao ay may mabuting layunin hanggang sa maiba."
       }
     },
     "A2": {
-      "name": "Batas kumpara sa Kakayahang Mag-adjust",
-      "model": "Pag-uugali",
+      "name": "Alituntunin laban sa Kaluwagan",
+      "model": "Saloobin",
       "levels": {
-        "L": "Opsyonal ang mga batas kapag hindi kasama ang kaginhawahan at kalayaan.",
-        "M": "Susundin mo ang batas na may halaga. Babaguhin mo ang hindi dapat.",
-        "H": "Tama ang pagkakaroon ng kaayusan. Mas gusto mong pamahalaan ang proseso kaysa mag-improvise."
+        "L": "Opsyonal ang mga alituntunin kapag ang kasiyahan at kalayaan ay hindi.",
+        "M": "Sundin mo ang alituntunin na mahalaga. Babaliin mo ang hindi naman.",
+        "H": "Tama ang pagkakasunod-sunod. Mas gusto mong patakbuhin ang proseso kaysa mag-improvise."
       }
     },
     "A3": {
-      "name": "Damdamin ng Layunin",
-      "model": "Pag-uugali",
+      "name": "Damdamin ng Kahulugan",
+      "model": "Saloobin",
       "levels": {
-        "L": "Bumababa ang layunin. Maraming bagay ang pakiramdam ay parang ikot-ikot lang.",
-        "M": "May mga araw na may misyon ka, may mga araw na nagbibribing ka lang. Ang pilosopiya ay kalahating operational.",
-        "H": "Alam mo sa brohenya kung saan ka pupunta, at kung bakit."
+        "L": "Mababa ang kahulugan. Maraming mga bagay na parang pumapara lang sa kilos.",
+        "M": "May mga araw na may misyon ka, may mga araw na hinahangaan mo lang. Ang pilosopiya ay nag-boot pa lang.",
+        "H": "Roughly alam mo kung anong direksyon ang tinatahak mo, at bakit."
       }
     },
     "Ac1": {
-      "name": "Motibasyon",
-      "model": "Drive ng Gawa",
+      "name": "Pagganyak",
+      "model": "Drive sa Aksyon",
       "levels": {
-        "L": "Maunang pumuputok ang pag-iwas sa panganib kaysa ambisyon. 'Huwag bumagsak' ay nauuna sa 'ipanalo'.",
-        "M": "Minsan gusto mo manalo; minsan gusto mo lang hindi maistorbo.",
-        "H": "Mga resulta, progreso, galaw pasulong—iyan ang nagpapaliwanag sa iyo."
+        "L": "Risk-avoidance ay mas mabilis magkasunog kaysa sa ambisyon. 'Huwag ma-aksidente' ang mas nauuna kaysa 'manalo'.",
+        "M": "Minsan gusto mong manalo; minsan wala ka lang gustong abalahin.",
+        "H": "Mga resulta, progreso, kilusan paunahan — iyan ang nag-aapoy sa iyo."
       }
     },
     "Ac2": {
-      "name": "Estilo sa Desisyon",
-      "model": "Drive ng Gawa",
+      "name": "Estilo ng Desisyon",
+      "model": "Drive sa Aksyon",
       "levels": {
-        "L": "Mahaba ang itinatagal ng panloob na komite mo. Bawat desisyon ay binabalik-balikan pa.",
-        "M": "Nagbubulay-bulay ka, pero hindi ka nag-aaksaya ng oras. Normal na pag-aalinlangan.",
-        "H": "Bumibitaw ka agad at hindi muli kang nagbabalik-tanaw. Susunod na."
+        "L": "Matagal ang pagtakbo ng loon ng iyong komite ng panloob. Bawat desisyon ay nauulit.",
+        "M": "Magdedelibera ka, pero hindi ka nag-hang. Normal na pag-aalangan.",
+        "H": "Nagpapasya ka ng mabilis at hindi na inuulit. Next."
       }
     },
     "Ac3": {
-      "name": "Mode ng Pagpapatupad",
-      "model": "Drive ng Gawa",
+      "name": "Mode ng Pag-ganap",
+      "model": "Drive sa Aksyon",
       "levels": {
-        "L": "May malalim na relasyon ka sa mga deadline. Kapag lumaki na, nag-uumapaw ka.",
-        "M": "Kaya mong gawin ang trabaho, pero ang antas ay nag-iiba. Minsan consistent, minsan nagpapagalaw-galaw lang.",
-        "H": "Ang mga hindi natatapos na bagay ay parang pilas. Puputulin mo hanggang matapos na ito."
+        "L": "Ikaw at ang mga deadline ay may malalim na relasyon. Habang papalapit ito, mas nagigising ka.",
+        "M": "Kaya mo ang trabaho, pero ang estado ay nag-iiba. Minsan palagi, minsan umaangkop.",
+        "H": "Pakiramdam mo ang mga hindi natapos na bagay na parang mga tinik. Pinipilit mong matapos ito."
       }
     },
     "So1": {
-      "name": "Panlipunang Inisyatiba",
+      "name": "Inisyatibong Panlipunan",
       "model": "Panlipunan",
       "levels": {
-        "L": "Mas mabagal ang nagiging mainit. Ang 'unang hakbang' ay nangangailangan ng isang buong panloob na pep talk.",
-        "M": "Makikipag-ugnayan ka kung may ibang mag-uugnayan. Hindi mo ito pinipilit.",
-        "H": "Bubuksan mo ang kuwarto. Ang pag-angat sa grupo ay hindi nagpapagulo sa iyo."
+        "L": "Mabagal na pag-init. 'Paggawa ng unang hakbang' ay nangangailangan ng buong pep talk sa loob.",
+        "M": "Makikipag-ugnayan ka kung may makikipag-ugnayan sa iyo. Hindi mo siya pinipilit.",
+        "H": "Bubuksan mo ang kwarto. Ang pagkilala sa karamihan ay hindi ka natitigilan."
       }
     },
     "So2": {
-      "name": "Panlipunang Hangganan",
+      "name": "Mga Hangganang Interpersonal",
       "model": "Panlipunan",
       "levels": {
-        "L": "Mas gusto mo ang kalapitan at pagsasasama. Kapag pumasok na ang isang tao, mabilis silang makapasok sa kalooban.",
-        "M": "Gusto mo ng kalapitan at kaunting pagkabagal. Depende sa tao.",
-        "H": "Tunay ang iyong mga hangganan. Ang sobrang lapit ay nagiging sanhi ng pag-atras ng likas na ugali."
+        "L": "Mas gusto mo ang kalapitan at pagkakaisa. Kapag andiyan na ang isang tao, mabilis silang nagiging bahagi ng inner circle.",
+        "M": "Gusto mo ng kalapitan at kaunting espasyo. Depende sa tao.",
+        "H": "Tunay ang iyong mga hangganan. Ang sobrang lapit ay nagiging sanhi ng awtomatikong pag-iwas."
       }
     },
     "So3": {
       "name": "Pagpapahayag at Pagiging Totoo",
       "model": "Panlipunan",
       "levels": {
-        "L": "Direkta ka. Kung ano ang nasa isip ay lumalabas sa bibig, pangunahing hindi nasala.",
-        "M": "Nagbasa ka sa kuwarto. Ang pagiging totoo at paggalang ay sinasalin sa tamang sukat.",
-        "H": "Bihasa ka sa pagpalit sa code. Ang 'tunay na ikaw' ay naglalabas nang paunti-unti."
+        "L": "Ikaw ay direkta. Ang nasa isipan ay lumalabas sa bibig, halos walang filter.",
+        "M": "Binabasa mo ang kwarto. Ang pagiging tunay at ang paggalang ay hinahati kung kailangan.",
+        "H": "Fluent ka sa code-switching. Ang 'totoong ikaw' ay inilalabas sa mga layer."
       }
     }
   },
@@ -205,10 +222,10 @@
     {
       "id": "q1",
       "dim": "S1",
-      "text": "Ako ay isang daga sa dilim, isang gumagapang na ipis. Hindi pa ako nakaranas ng pag-ibig. Ako'y mahiyain at walang katiyakan sa sarili. Ang aking kabataan ay walang katapusang imahinasyon — iniisip ang tao na nagmamahal sa akin, naglalakad kasama ko sa mga kalsada, nakikisama sa akin. Ang reyalidad ay: Ginastos ko ang pera ng aking mga magulang sa paaralan, nakapagtapos naman, nagtatrabaho sa ilalim ng araw, hinahabol ang mga 'layunin'. Tuwing nakikita ko ang ibang tao na masayang nagbibiro sa online, gusto kong umiyak. Naiinggit ako sa mga maliliit na magandang bagay sa buhay at patuloy pa rin akong naghahanap ng aking direksyon. Pakiusap, siguruhin na makahanap tayo ng paraan palabas doon sa mga katulad natin na nanginginain ng unan ng luha. Ayoko ng ibabad pa ng luha ang aking unan.",
+      "text": "Isa akong daga sa kaitaasan, isang gumagapang na alitaptap. Hindi pa ako umiibig. Ako ay mahiyain at walang tiwala sa sarili. Ang aking kabataan ay isang panaginip nang isa't isa — iniisip ang isang taong nagmamahal sa akin, naglalakad sa kalsada kasama ko, nakikipag-hangout. Ang katotohanang: Inubos ko ang pera ng aking mga magulang sa pag-aaral, nakapagtapos, naghahanapbuhay, naghabol ng mga 'layunin.' Tuwing nakikita ko ang ibang tao na gumagawa ng masayang biro online, gusto kong umiyak. Naiinggit ako sa maliliit na magandang bagay sa buhay at patuloy pa ring hinahanap ang aking direksyon. Pakiusap, hilingin natin na ang mga kaming nakatago sa ilalim ng mga kumot ay magkaroon ng daan palabas. Hindi ko gusto muling magbabad ng unan sa luha.",
       "options": [
         {
-          "label": "Umiyak ako sa pag basa niyan…",
+          "label": "Umiyak ako ng nabasa ko to…",
           "value": 1
         },
         {
@@ -216,7 +233,7 @@
           "value": 2
         },
         {
-          "label": "Hindi iyon AKO!",
+          "label": "Hindi yan AKO!",
           "value": 3
         }
       ]
@@ -224,10 +241,10 @@
     {
       "id": "q2",
       "dim": "S1",
-      "text": "Hindi ako sapat. Ang lahat ng nakapaligid sa akin ay higit na mas magaling sa akin.",
+      "text": "Hindi ako magaling. Lahat ng tao sa paligid ko ay mas may kakayahan kaysa sa akin.",
       "options": [
         {
-          "label": "Totoo",
+          "label": "Tama",
           "value": 1
         },
         {
@@ -235,7 +252,7 @@
           "value": 2
         },
         {
-          "label": "Hindi gaano",
+          "label": "Hindi talaga",
           "value": 3
         }
       ]
@@ -243,14 +260,14 @@
     {
       "id": "q3",
       "dim": "S2",
-      "text": "Mayroon akong malinaw na pakiramdam kung sino talaga ako.",
+      "text": "May malinaw akong pananaw kung sino talaga ako.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -262,14 +279,14 @@
     {
       "id": "q4",
       "dim": "S2",
-      "text": "Mayroon akong bagay na talagang gusto ko mula sa buhay.",
+      "text": "May tunay akong gusto mula sa buhay.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -281,14 +298,14 @@
     {
       "id": "q5",
       "dim": "S3",
-      "text": "Kailangan kong patuloy na umakyat at patuloy na umunlad.",
+      "text": "Kailangan kong patuloy na umakyat at patuloy na gumaling.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -300,14 +317,14 @@
     {
       "id": "q6",
       "dim": "S3",
-      "text": "Hindi talaga mahalaga sa akin ang opinyon ng mga estranghero tungkol sa akin.",
+      "text": "Ang opinyon ng mga hindi kilalang tao tungkol sa akin ay hindi talaga mahalaga sa akin.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -319,18 +336,18 @@
     {
       "id": "q7",
       "dim": "E1",
-      "text": "Hindi pa nagrereply ang iyong partner mula sa'yo ng higit sa 5 oras. Sa huli ay sinabi nilang 'nagtataeng-talaga sila sa buong oras na iyon.' Ang iyong tapat na reaksyon?",
+      "text": "Hindi ka sinagot ng iyong kasintahan nang higit sa 5 oras. Sa wakas sinabi nilang \"nagka-diarrhea buong oras.\" Ano ang tapat mong reaksyon?",
       "options": [
         {
-          "label": "Hindi tumatagal ng 5 oras ang pagtatae. May tinatago sila.",
+          "label": "Hindi pwedeng diarrhea sa loob ng 5 oras. May tinatago sila.",
           "value": 1
         },
         {
-          "label": "Nasa pagitan ng tiwala at pag-aalinlangan.",
+          "label": "Saanman sa pagitan ng tiwala at duda.",
           "value": 2
         },
         {
-          "label": "Marahil hindi talaga sila maganda ang pakiramdam ngayon.",
+          "label": "Siguro hindi talaga maganda ang pakiramdam nila ngayon.",
           "value": 3
         }
       ]
@@ -338,7 +355,7 @@
     {
       "id": "q8",
       "dim": "E1",
-      "text": "Madalas akong nag-aalala tungkol sa pag-abandona sa mga relasyon.",
+      "text": "Madalas kong alalahanin ang mapang-iwan sa mga relasyon.",
       "options": [
         {
           "label": "Oo",
@@ -357,18 +374,18 @@
     {
       "id": "q9",
       "dim": "E2",
-      "text": "Taos-pusong kamay — seryoso ko ang bawat relasyon na pinapasukan ko.",
+      "text": "Kapat sa puso — tinatake ko ng seryoso ang bawat relasyon na ako ay nasa loob.",
       "options": [
         {
-          "label": "…Hindi naman talaga.",
+          "label": "…Hindi talaga.",
           "value": 1
         },
         {
-          "label": "Siguro?",
+          "label": "Baka?",
           "value": 2
         },
         {
-          "label": "Oo! (clear-conscience face)",
+          "label": "Oo! (mukhang malinis na konsensiya)",
           "value": 3
         }
       ]
@@ -376,18 +393,18 @@
     {
       "id": "q10",
       "dim": "E2",
-      "text": "Ang iyong kasintahan ay: mabait sa matatanda, maalalahanin sa mga bata, mahinahon, kagalang-galang, articulate, matalino, ma-obserba, maraming nabasa, mapagpasensya sa mga baguhan, magiliw, mapagpakumbaba, ambisyoso, nag-uumapaw sa buhay, napakagandang antas ng kagandahan. Anong nangyayari sa iyo?",
+      "text": "Ang iyong kapareha ay: mabait sa matatanda, mapagmahal sa mga bata, banayad, marangal, matalino, wais, mapagmasid, malawak ang kaalaman, may pasensya sa mga baguhan, palakaibigan, mapagkumbaba, ambisyoso, nagniningning, lubhang kaakit-akit, kagandahang-pambansa. Ano ang mangyayari sa iyo?",
       "options": [
         {
-          "label": "Gaano man sila kapursala, hindi ako babagsak ng pasalong-pasintak.",
+          "label": "Kahit gaano pa sila perpekto, hindi ako mahuhulog ng malalim.",
           "value": 1
         },
         {
-          "label": "Sa pagitan ng A at C.",
+          "label": "Nasa gitna ng A at C.",
           "value": 2
         },
         {
-          "label": "Iisa ganap ko sila. Oo, matutulad ako ng sakripisyo sa pag-ibig.",
+          "label": "Aalagaan ko sila ng buo. Oo, magiging ganap akong tanga sa pag-ibig.",
           "value": 3
         }
       ]
@@ -395,18 +412,18 @@
     {
       "id": "q11",
       "dim": "E3",
-      "text": "Nakikipag-date ka sa isang clingy na tao. Ang iyong pananaw?",
+      "text": "Nakikipag-date ka sa isang taong napaka-clingy. Ano ang pananaw mo?",
       "options": [
         {
-          "label": "Ok lang iyon sa akin.",
+          "label": "Nakakatuwa nga iyon.",
           "value": 1
         },
         {
-          "label": "Kahit paano, alinman ang pabor sa akin.",
+          "label": "Kahit ano, kahit saan.",
           "value": 2
         },
         {
-          "label": "Mas gusto ko ng sariling espasyo.",
+          "label": "Mas gusto kong may sarili kong espasyo.",
           "value": 3
         }
       ]
@@ -414,10 +431,10 @@
     {
       "id": "q12",
       "dim": "E3",
-      "text": "Pinahahalagahan ko ang espasyong personal sa bawat relasyon.",
+      "text": "Pinahahalagahan ko ang personal na espasyo sa bawat ugnayan.",
       "options": [
         {
-          "label": "Mas gusto ko ang pagsandal at pagkasandalan.",
+          "label": "Mas gusto kong umasa at umasa sa iba.",
           "value": 1
         },
         {
@@ -425,7 +442,7 @@
           "value": 2
         },
         {
-          "label": "Oo! (sabi ng tahimik at walang pag-aatubili)",
+          "label": "Oo! (walang pag-aatubili)",
           "value": 3
         }
       ]
@@ -433,18 +450,18 @@
     {
       "id": "q13",
       "dim": "A1",
-      "text": "Karamihan sa mga tao ay mabubuti.",
+      "text": "Karamihan sa mga tao ay mabuti.",
       "options": [
         {
-          "label": "Sa wala? Mas marami ang sapantaha sa puso ng tao kaysa sa mundo ng almoranas.",
+          "label": "Sa totoo lang? May mas maraming kasamaan sa puso ng tao kaysa sa may mga almoranas sa mundo.",
           "value": 1
         },
         {
-          "label": "Siguro.",
+          "label": "Marahil.",
           "value": 2
         },
         {
-          "label": "Oo, pinipili kong maniwala na mas marami ang mabubuting tao kaysa sa masama.",
+          "label": "Oo, pinipili kong maniwala na mas marami ang mabubuti kaysa sa masasamang tao.",
           "value": 3
         }
       ]
@@ -452,18 +469,18 @@
     {
       "id": "q14",
       "dim": "A1",
-      "text": "Naglalakad ka sa kalye. Isang kaakit-akit na batang babae (maganda mula sa bawat angulo, cute sa bawat camera ng telepono, tunay na kaakit-akit) ay lumapit sa'yo at nagbibigay sa iyo ng isang kendi. Ano ang nararamdaman mo?",
+      "text": "Naglalakad ka sa kalye. Isang kaibig-ibig na maliit na bata (cute sa lahat ng anggulo, cute sa anumang camera phone, totoong cute) ay lumapit sa iyo at nagbibigay ng lollipop. Ano ang nararamdaman mo?",
       "options": [
         {
-          "label": "Awwww ang cute at tamis niya! Ibinigay niya sa akin ang isang kendi!",
+          "label": "Awwww ang bait at cute niya! Binigyan niya ako ng lollipop!",
           "value": 3
         },
         {
-          "label": "Nalilito. Kakatihan ng ulo.",
+          "label": "Nalito. Nagkakamot ng ulo.",
           "value": 2
         },
         {
-          "label": "Maari ito ay isang bagong uri ng pandaraya? Lumayong, para lang hindi masira.",
+          "label": "Parang may ibang uri ng scam ito? Walk away, para sigurado.",
           "value": 1
         }
       ]
@@ -471,18 +488,18 @@
     {
       "id": "q15",
       "dim": "A2",
-      "text": "Paparating na ang finals. Ang paaralan ay nag-uutos ng evening study sessions; ang pag-skip ay nagkakabawas ng puntos. Ngayon, gayunpaman, inimbitahan ka ng crush mo na maglaro ng paborito mong kompetisyon na online game. Ano ang gagawin mo?",
+      "text": "Paparating na ang finals. Ang paaralan ay nagpapahina ng pag-aaral sa gabi; ang pagliban ay nagkakahalaga ng puntos. Ngayon gabi, gayunpaman, ang crush mo ay inanyayahan ka upang maglaro ng iyong paboritong competitive na online game. Ano ang gagawin mo?",
       "options": [
         {
-          "label": "Mag-skip! Sum once lang!",
+          "label": "Liban! Just this once!",
           "value": 1
         },
         {
-          "label": "Mag-file ng leave request.",
+          "label": "Pag-file ng leave request.",
           "value": 2
         },
         {
-          "label": "Paparating na ang finals, hindi ako aalis.",
+          "label": "Ang finals ay talagang paparating na, hindi ako pupunta kahit saan.",
           "value": 3
         }
       ]
@@ -490,18 +507,18 @@
     {
       "id": "q16",
       "dim": "A2",
-      "text": "Gusto kong basagin ang mga routine at hindi ko gusto ang pinipilit.",
+      "text": "Gusto kong sirain ang mga routine at hindi ko gusto ang napipigilan.",
       "options": [
         {
           "label": "Sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 3
         }
       ]
@@ -509,14 +526,14 @@
     {
       "id": "q17",
       "dim": "A3",
-      "text": "Karaniwan kong ginagawa ang mga bagay na may layunin.",
+      "text": "Karaniwan kong ginagawa ang mga bagay na may layunin sa isipan.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -528,18 +545,18 @@
     {
       "id": "q18",
       "dim": "A3",
-      "text": "Isang araw ay biglang dumating ito sa iyong isipan: ano ba talaga ang kahulugan ng buhay? Sa ilang sensyo, ang mga tao ay mga hayop na pinapatakbo ng pagnanasa, kinokontrol ng mga hormones — nagugutom kaya ka kumakain, pagod kaya ka natutulog. Isang mapurol, mababang antas ng buhay. Walang makabuluhang kaibahan sa mga pusa at aso.",
+      "text": "Minsan pumapasok sa isip mo: anong tunay na kahulugan ang mayroon ang buhay, pauna? Sa ilang aspekto, ang mga tao ay parang mga hayop lamang na pinapatakbo ng impulse, kontrolado ng mga hormone — gutom kaya kumain, pagod kaya matulog. Isang wala sa kalidad na anyo ng buhay. Sa prinsipyong hindi naiiba sa mga pusa at aso.",
       "options": [
         {
-          "label": "Oo, so far.",
+          "label": "Yeah, halos ganun nga.",
           "value": 1
         },
         {
-          "label": "Maari itong pumunta kahit saan.",
+          "label": "Pwedeng-pwede.",
           "value": 2
         },
         {
-          "label": "Kalokohan iyan.",
+          "label": "Kahit paano ay may kahulugan yan.",
           "value": 3
         }
       ]
@@ -547,14 +564,14 @@
     {
       "id": "q19",
       "dim": "Ac1",
-      "text": "Ginagawa ko ang mga bagay pangunahin sa pagkuha ng resulta at paglago, hindi upang iwasan ang kaguluhan at panganib.",
+      "text": "Ako ay nasa aksyon hindi upang maiwasan ang problema at panganib.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -566,18 +583,18 @@
     {
       "id": "q20",
       "dim": "Ac1",
-      "text": "Nakaupo kayo sa inidoro ng 30 minuto, kinonstipasyon, walang nangyayari. Pinakamalapit mong:",
+      "text": "Nasa banyo ka na nang 30 minuto, constipated, walang nangyayari. Ikaw ay pinaka-katulad ng:",
       "options": [
         {
-          "label": "Umupo ng isa pang 30 minuto. Maari itong dumating.",
+          "label": "Maupo pa ng 30 minuto. Baka ito dumating.",
           "value": 1
         },
         {
-          "label": "Sampal sa iyong pwet at sabihin 'lumabas na, pati na, lumabas!'",
+          "label": "Palo ang sariling puwet at sabihing 'lumabas, anak ng tiyuhin, lumabas!'",
           "value": 2
         },
         {
-          "label": "Pumunta kumuha ng pampadulas. Tapos na ito.",
+          "label": "Kumuha ng laxative. Tapusin ito.",
           "value": 3
         }
       ]
@@ -585,14 +602,14 @@
     {
       "id": "q21",
       "dim": "Ac2",
-      "text": "Nang-aatas ako ng desisyon. Hindi ko gusto mag-aalangan.",
+      "text": "Nagpapasya ako ng desidido. Ayaw ko ang pag-aalangan.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -604,10 +621,10 @@
     {
       "id": "q22",
       "dim": "Ac2",
-      "text": "Walang tanong ang tanong na ito. Manghula ka na lang nang walang maliwanag na layunin.",
+      "text": "Walang tanong sa tanong na ito. Manghulang walang basehan.",
       "options": [
         {
-          "label": "Pinag-isipan ko ng mabuti at sa palagay ko dapat kong piliin ang A?",
+          "label": "Nag-isip ako ng mabuti at sa palagay ko dapat kong piliin ang A?",
           "value": 1
         },
         {
@@ -615,7 +632,7 @@
           "value": 2
         },
         {
-          "label": "Pag may Pagdududa, C.",
+          "label": "Kapag pagdududa, C.",
           "value": 3
         }
       ]
@@ -623,18 +640,18 @@
     {
       "id": "q23",
       "dim": "Ac3",
-      "text": "Kapag sinasabi ng mga tao na 'malakas ang iyong pagpatupad,' ang iyong tapat na inner response ay:",
+      "text": "Kapag sinabi ng mga tao 'malakas ka sa pagkilos,' ano ang tapat na panloob na tugon mo:",
       "options": [
         {
-          "label": "Kapag nasa tabi ng pader, oow, sobrang lakas ng aking pagpapatupad...",
+          "label": "Kapag nasa kanto na ako, yeah, SUPER lakas ng pagkilos ko…",
           "value": 1
         },
         {
-          "label": "Eh, minsan lang.",
+          "label": "Eh, minsan.",
           "value": 2
         },
         {
-          "label": "Oo. Dapat makumpleto ang mga bagay.",
+          "label": "Oo. Ang mga bagay ay dapat tapusin.",
           "value": 3
         }
       ]
@@ -642,18 +659,18 @@
     {
       "id": "q24",
       "dim": "Ac3",
-      "text": "Karaniwan akong nagplano ng mga bagay, ____ ",
+      "text": "Karaniwan kong pinagpaplanuhan ang mga bagay, ____",
       "options": [
         {
-          "label": "ngunit ang mga plano ay hindi nabubuhay sa reyalidad.",
+          "label": "ngunit ang mga plano ay hindi nagtatagal sa realidad.",
           "value": 1
         },
         {
-          "label": "minsan natatapos ko sila, minsan hindi.",
+          "label": "minsan ay natatapos, minsan ay hindi.",
           "value": 2
         },
         {
-          "label": "at naiinis ako kapag natitigil ang plano ko.",
+          "label": "at naiinis ako kapag nasisira ang plano ko.",
           "value": 3
         }
       ]
@@ -661,18 +678,18 @@
     {
       "id": "q25",
       "dim": "So1",
-      "text": "Nakayanan ka ng maraming online friends sa pamamagitan ng isang paborito mong laro. Inimbitahan nila kayong makipagkita sa personal. Anong gagawin mo?",
+      "text": "Marami kang nakilalang mga kaibigan online sa isang laro na mahal mo. Inaanyayahan ka nilang makipagkita sa personal. Anong galaw mo?",
       "options": [
         {
-          "label": "Ok lang makipagsalita online — ang pakikipagkita ng harap ay nagiging dahilan ng kaba.",
+          "label": "Pag-uusap online ay okay na — ang personal na pagkikita ay kinakakabahan.",
           "value": 1
         },
         {
-          "label": "Sigurado, ok lang. Kung sino ang makipag-usap sa akin, kausapin ko rin.",
+          "label": "Sige, ayos ang pagkikita. Kung sino ang kausap sa akin, kakausapin ko.",
           "value": 2
         },
         {
-          "label": "Lalabas ako at makipagkuwentuhan ng masigla. Hindi mo alam. Ibig kong sabihin, hindi mo ALAM.",
+          "label": "Magbibihis ako at makikipag-chat ng malakas. Hindi mo alam. Ibig sabihin, HINDI MO ALAM.",
           "value": 3
         }
       ]
@@ -680,18 +697,18 @@
     {
       "id": "q26",
       "dim": "So1",
-      "text": "Dinadala ka ng kaibigan ng kanilang kaibigan. Ang pinaka-malamang mong kalagayan?",
+      "text": "Dinala ka ng kaibigan mo kasama ang kanilang kaibigan. Ano ang iyong malamang na kalagayan?",
       "options": [
         {
-          "label": "May instinctive distance mula sa 'kaibigan ng kaibigan.' Ayoko magkagulo ang dalawampu't taong dynamic.",
+          "label": "Nakakaramdam ka ng instinctive na distansya mula sa 'kaibigan ng kaibigan.' Ayaw mong masira ang dulong-dalawahang dinamika.",
           "value": 1
         },
         {
-          "label": "Depende sa kanila. Kung magka-klick, magka-klick.",
+          "label": "Depende sa kanila. Kung mag-click, mag-click.",
           "value": 2
         },
         {
-          "label": "Ang kaibigan ng kaibigan ay bilang tamang kaibigan ko rin! Tara na — masiglang chat mode.",
+          "label": "Ang kaibigan ng kaibigan ay bilang kaibigan ko! Sige na — mode ng masiglang chat.",
           "value": 3
         }
       ]
@@ -699,18 +716,18 @@
     {
       "id": "q27",
       "dim": "So2",
-      "text": "Ang aking sosyal na vibe ay puno ng electric fence. Kapag masyadong lumapit, automatic na nagka-alarm.",
+      "text": "Ang social vibe ko ay basically isang electric fence. Kapag sobrang lapit na, awtomatiko nang i-off ang alarm.",
       "options": [
         {
           "label": "Sang-ayon",
           "value": 3
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         }
       ]
@@ -718,18 +735,18 @@
     {
       "id": "q28",
       "dim": "So2",
-      "text": "Hinahangad ko ang kalakitan sa mga taong pinagkakatiwalaan ko — ang uri ng kalakitan na parang matagal na nawawala kaming pamilya.",
+      "text": "Nanabik ako sa kalapitan sa mga taong pinagkakatiwalaan ko — ang uri ng kalapitan na parang nawawalang pamilya.",
       "options": [
         {
           "label": "Sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 3
         }
       ]
@@ -737,18 +754,18 @@
     {
       "id": "q29",
       "dim": "So3",
-      "text": "Minsang may ibang opinyon ka tungkol sa isang bagay o may negatibong opinyon, ngunit hindi mo ito binabanggit. Ang pangunahing dahilan kadalasan ay:",
+      "text": "Minsan may iba o negatibong opinyon ka tungkol sa isang bagay, pero hindi mo ito sinasabi. Ang pangunahin dahilan ay madalas:",
       "options": [
         {
-          "label": "Madalang na nangyari ito sa akin.",
+          "label": "Bihirang mangyari ito sa akin.",
           "value": 1
         },
         {
-          "label": "Para mapanatili ang harapan o ang relasyon.",
+          "label": "Para mapanatili ang pagmumukha o ang relasyon.",
           "value": 2
         },
         {
-          "label": "Ayokong malaman ng mga tao na may masamang bahagi ako.",
+          "label": "Ayaw kong malaman ng mga tao na may madilim akong bahagi.",
           "value": 3
         }
       ]
@@ -756,14 +773,14 @@
     {
       "id": "q30",
       "dim": "So3",
-      "text": "Ipinapakita ko ang iba't ibang bahagi ng sarili ko sa iba't ibang tao.",
+      "text": "Ipinapakita ko ang iba't ibang bahagi ng aking sarili sa iba't ibang tao.",
       "options": [
         {
-          "label": "Hindi Sang-ayon",
+          "label": "Hindi sang-ayon",
           "value": 1
         },
         {
-          "label": "Neutro",
+          "label": "Neutral",
           "value": 2
         },
         {
@@ -777,14 +794,14 @@
     {
       "id": "drink_gate_q1",
       "kind": "drink_gate",
-      "text": "Ano ang mga libangan mo?",
+      "text": "Ano ang iyong mga hilig?",
       "options": [
         {
-          "label": "Kumakain at namamahinga.",
+          "label": "Pagkain at pagpapahinga.",
           "value": 1
         },
         {
-          "label": "Sining at malikhaing bagay.",
+          "label": "Sining at mga malikhaing bagay.",
           "value": 2
         },
         {
@@ -792,7 +809,7 @@
           "value": 3
         },
         {
-          "label": "Pag-eehersisyo.",
+          "label": "Pag-ehersisyo.",
           "value": 4
         }
       ]
@@ -800,14 +817,14 @@
     {
       "id": "drink_gate_q2",
       "kind": "drink_trigger",
-      "text": "Ano ang iyong pananaw sa pag-inom?",
+      "text": "Ano ang pananaw mo sa pag-inom?",
       "options": [
         {
-          "label": "Kaunti lang paminsan-minsan. Wala ng mabigat pa.",
+          "label": "Kaunti lang paminsan-minsan. Walang sobrang dami.",
           "value": 1
         },
         {
-          "label": "Naglalagay ako ng malakas na inumin sa thermos at iniinom ito na parang tubig. Ang alkohol ay nagsasalita para sa akin.",
+          "label": "May tindi akong alak sa thermos at iniinom ito na parang tubig. May mensahe ang alak sa akin.",
           "value": 2
         }
       ]

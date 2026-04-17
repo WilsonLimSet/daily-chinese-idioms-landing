@@ -1,14 +1,31 @@
 {
   "meta": {
     "title": "Tes Kepribadian SBTI",
-    "subtitle": "MBTI sudah ketinggalan zaman. SBTI hadir.",
-    "disclaimer": "Tes ini hanya untuk hiburan. Jangan gunakan untuk diagnosis, wawancara kerja, pencocokan pasangan, alasan putus, meramal nasib, atau vonis hidup."
+    "subtitle": "MBTI sudah ketinggalan zaman. SBTI hadir di sini.",
+    "disclaimer": "Tes ini hanya untuk hiburan. Jangan gunakan sebagai diagnosis, wawancara kerja, mencocokkan pasangan, alasan putus, ramalan, atau penentuan hidup."
   },
   "ui": {
-    "seoTestTitle": "Tes SBTI — Ujian Kepribadian 30 Pertanyaan Gratis (2026)",
-    "seoTestDescription": "Ikuti tes kepribadian SBTI yang viral dari China. 30 pertanyaan, 27 tipe termasuk DRUNK dan HHHH yang tersembunyi. Hasil instan dengan sifat, kompatibilitas, dan pepatah yang sesuai dengan tipe Anda.",
-    "seoHubTitle": "Tes Kepribadian SBTI — Penjelasan 27 Tipe",
-    "seoHubDescription": "Silly Behavioral Type Indicator — parodi MBTI yang viral dari China. 27 tipe, 15 dimensi, 30 pertanyaan, dengan idiom China yang cocok dengan setiap tipe.",
+    "seoTestTitle": "Tes SBTI - Kuis Kepribadian 30 Pertanyaan Gratis (2026)",
+    "seoTestDescription": "Ikuti tes kepribadian SBTI yang viral dari China. 30 pertanyaan, 27 tipe termasuk tipe tersembunyi DRUNK dan HHHH. Hasil instan dengan sifat, kompatibilitas, dan idiom yang sesuai dengan tipe Anda.",
+    "seoHubTitle": "Tes Kepribadian SBTI - Semua 27 Tipe Dijelaskan",
+    "seoHubDescription": "Silly Behavioral Type Indicator - parodi MBTI dari China yang viral. 27 tipe, 15 dimensi, 30 pertanyaan, dengan idiom China yang sesuai untuk setiap tipe.",
+    "homeCardSubtitle": "30 pertanyaan, 27 tipe, hasil instan",
+    "homeCardLink": "Mulai tes",
+    "hubCatalogueKicker": "Katalognya",
+    "hubAllTypesHeading": "25 tipe reguler",
+    "hubAllTypesSub": "Setiap tipe dipasangkan dengan idiom China yang sesuai.",
+    "hubSpecialKicker": "Tersembunyi di dalam",
+    "hubSpecialTypesHeading": "2 tipe khusus",
+    "hubSpecialTypesSub": "HHHH adalah tipe cadangan. DRUNK adalah telur Paskah yang hanya terbuka dengan jawaban tertentu.",
+    "hubCtaKicker": "Belum tahu tipe Anda?",
+    "hubCtaTitle": "Ikuti tes 30-pertanyaan",
+    "hubCtaBullets": "~5 menit · Hasil instan · Gratis · tanpa pendaftaran",
+    "hubExploreKicker": "Terus eksplor",
+    "hubReadMore": "Baca lebih lanjut",
+    "hubWhatIsLabel": "Apa itu SBTI?",
+    "hubVsMbtiLabel": "SBTI vs MBTI",
+    "hubSlangLabel": "Penerjemah bahasa gaul SBTI",
+    "hubHomeLabel": "Beranda",
     "kicker": "Tes Kepribadian · Apr 2026",
     "titleLine1": "Silly Behavioral",
     "titleLine2": "Type Indicator",
@@ -17,48 +34,48 @@
     "minutesLabel": "menit",
     "instantResult": "Hasil instan",
     "hiddenInside": "Tersembunyi di dalam",
-    "hiddenInsideDesc": "Dua dari 27 tipe — HHHH dan DRUNK — adalah kejutan. Hanya pola jawaban tertentu yang akan membukanya.",
+    "hiddenInsideDesc": "Dua dari 27 tipe — HHHH dan DRUNK — adalah telur Paskah. Hanya pola jawaban tertentu yang akan membukanya.",
     "beforeBegin": "Sebelum Anda mulai",
     "socialProof": "Viral di Weibo, Xiaohongshu, dan TikTok pada April 2026.",
     "begin": "Mulai tes",
-    "resumeFormat": "Lanjutkan di Q{cur} / {total}",
-    "startOver": "Mulai ulang",
+    "resumeFormat": "Lanjutkan ke Q{cur} / {total}",
+    "startOver": "Mulai lagi",
     "progressFormat": "Q{cur} / {total}",
-    "answeredFormat": "{answered} / {total} terjawab",
-    "readAndReact": "Baca. Bereaksi.",
+    "answeredFormat": "{answered} / {total} dijawab",
+    "readAndReact": "Baca. Reaksi.",
     "bonusLabel": "Pertanyaan bonus",
     "submit": "Dekode saya",
     "submitIncomplete": "Jawab semua {remaining} yang tersisa untuk melanjutkan",
-    "computing": "Menghitung…",
-    "restart": "Mulai ulang",
-    "errorState": "Ada yang salah. Mari mulai ulang.",
+    "computing": "Menghitung...",
+    "restart": "Mulai lagi",
+    "errorState": "Ada yang tidak beres. Mari kita mulai lagi.",
     "result": {
       "yourResult": "Hasil Anda",
       "hiddenType": "Tipe tersembunyi",
-      "fallbackType": "Tipe pilihan",
-      "retakeTest": "Ulangi tes",
+      "fallbackType": "Tipe cadangan",
+      "retakeTest": "Ikuti tes ulang",
       "takeTheTest": "Ikuti tes SBTI",
       "matchStrong": "Kecocokan kuat",
       "matchGood": "Kecocokan baik",
       "matchPartial": "Kecocokan sebagian",
       "rarityTemplate": "~{rarity}% mendapatkan {code}",
-      "hiddenTypeBadge": "Kejutan Paskah",
-      "hiddenTypeDesc": "Dipicu oleh jawaban \"minuman keras di termos\" — hanya ~1% peserta yang berkomitmen untuk ini.",
-      "brokeModelBadge": "Anda merusak modelnya",
-      "brokeModelDesc": "Jawaban Anda tidak cocok secara bersih dengan salah satu dari 25 tipe standar (kecocokan terbaik di bawah 60%).",
+      "hiddenTypeBadge": "Telur Paskah",
+      "hiddenTypeDesc": "Ditrigger oleh jawaban \"minuman keras di termos\" — hanya ~1% yang memilih ini.",
+      "brokeModelBadge": "Anda merusak model",
+      "brokeModelDesc": "Jawaban Anda tidak cocok dengan salah satu dari 25 tipe standar (kecocokan terbaik di bawah 60%).",
       "closestTemplate": "Tipe standar terdekat: {code}.",
-      "normalBestTemplate": "Kecocokan terbaik Anda yang normal seharusnya {code}.",
-      "noResultDesc": "Ini adalah halaman profil untuk {code}. Ambil tesnya untuk melihat apakah ini cocok dengan hasil Anda sendiri.",
+      "normalBestTemplate": "Kecocokan terbaik normal Anda adalah {code}.",
+      "noResultDesc": "Ini adalah halaman profil untuk {code}. Ikuti tes untuk melihat apakah ini cocok dengan hasil Anda.",
       "definingTraits": "Ciri khas Anda",
-      "showAll": "Tunjukkan semua 15 dimensi",
+      "showAll": "Tampilkan semua 15 dimensi",
       "hideAll": "Sembunyikan",
       "profileKicker": "Profilnya",
-      "profileHeading": "Pemecahan 15-dimensi Anda",
+      "profileHeading": "Rincian 15-dimensi Anda",
       "profileSub": "Melintasi 5 model · Diri, Emosi, Sikap, Tindakan, Sosial",
       "shareKicker": "Kirimkan",
       "shareHeading": "Bagikan tipe Anda",
-      "goDeeperKicker": "Telusuri lebih dalam",
-      "goDeeperHeading": "Segalanya tentang {code}",
+      "goDeeperKicker": "Lebih dalam lagi",
+      "goDeeperHeading": "Semua tentang {code}",
       "fullProfile": "Profil lengkap {code}",
       "compatibility": "Kompatibilitas",
       "howToGet": "Cara mendapatkan {code}"
@@ -69,135 +86,135 @@
       "name": "Harga Diri",
       "model": "Diri",
       "levels": {
-        "L": "Anda akan meragukan pujian sebelum mempercayainya — lebih keras pada diri sendiri daripada orang lain.",
-        "M": "Kepercayaan diri bergerak dengan cuaca. Angin bertiup dan Anda terbang; angin lawan dan Anda menyerah.",
-        "H": "Anda secara kasar tahu nilai diri Anda, dan komentar singkat dari orang asing tidak mengganggu itu."
+        "L": "Anda lebih suka meragukan pujian daripada mempercayainya — lebih keras terhadap diri sendiri daripada orang lain.",
+        "M": "Kepercayaan diri bergerak seiring cuaca. Angin dorong dan Anda terbang; angin lawan dan Anda tunduk.",
+        "H": "Anda kurang lebih tahu nilai Anda, dan komentar spontan orang asing tidak menyebarkannya."
       }
     },
     "S2": {
-      "name": "Kejelasan Diri",
+      "name": "Kejernihan Diri",
       "model": "Diri",
       "levels": {
-        "L": "Saluran dalamnya kebanyakan statis. Anda terus berpikir 'siapa sebenarnya aku' lebih dari yang mau Anda akui.",
-        "M": "Anda sebagian besar mengenali diri sendiri, meski suasana hati terkadang menguasai.",
-        "H": "Anda tahu temperamen Anda, keinginan Anda, dan batasan keras Anda."
+        "L": "Saluran dalam kebanyakan statis. Anda lebih sering berpikir 'siapa saya sebenarnya' daripada yang Anda akui.",
+        "M": "Anda sebagian besar mengenali diri Anda, meskipun suasana hati Anda kadang-kadang meminjam akun.",
+        "H": "Anda tahu temperamen Anda, keinginan Anda, dan kemauan Anda."
       }
     },
     "S3": {
       "name": "Nilai Inti",
       "model": "Diri",
       "levels": {
-        "L": "Kenyamanan dan keamanan lebih penting. Hidup tidak perlu dalam mode sprint setiap hari.",
-        "M": "Sebagian dari Anda ingin mendaki; sebagian ingin berbaring. Keduanya terus bernegosiasi.",
-        "H": "Anda mudah terdorong ke depan oleh tujuan, jalan pertumbuhan, atau sesuatu yang Anda yakini."
+        "L": "Kenyamanan dan keamanan lebih penting. Hidup tidak harus dalam mode sprint setiap hari.",
+        "M": "Sebagian dari diri Anda ingin mendaki; sebagian lain ingin berbaring. Keduanya terus bernegosiasi.",
+        "H": "Anda mudah tergerak oleh tujuan, jalur pertumbuhan, atau sesuatu yang Anda percayai."
       }
     },
     "E1": {
       "name": "Keamanan Keterikatan",
       "model": "Emosi",
       "levels": {
-        "L": "Pesan yang belum dibaca bisa memicu film mental penuh tentang bagaimana akhirnya. Sistem alarm tetap panas.",
-        "M": "Setengah percaya, setengah menguji. Anda menjalankan ruangan perang internal untuk hal-hal kecil.",
-        "H": "Anda mempercayai hubungan itu sendiri. Sedikit angin tidak akan meruntuhkan rumah."
+        "L": "Pesan yang belum dibaca bisa memicu film mental lengkap tentang bagaimana itu berakhir. Sistem alarm tetap panas.",
+        "M": "Setengah percaya, setengah uji. Anda menjalankan ruang perang internal untuk hal-hal kecil.",
+        "H": "Anda percaya pada hubungan itu sendiri. Sedikit angin tidak merobohkan rumah."
       }
     },
     "E2": {
       "name": "Investasi Emosional",
       "model": "Emosi",
       "levels": {
-        "L": "Anda menahan diri. Pintu tidak tertutup — pemeriksaan keamanan saja yang teliti.",
-        "M": "Anda akan berinvestasi, tetapi menyimpan cadangan. Tidak akan mengirim sepenuhnya.",
-        "H": "Setelah Anda masuk, Anda masuk sepenuhnya — waktu, energi, perhatian, semuanya."
+        "L": "Anda menahan diri. Pintu tidak ditutup — pemeriksaan keamanannya hanya menyeluruh.",
+        "M": "Anda akan berinvestasi, tetapi tetap menjaga cadangan. Tidak sepenuhnya membuka diri.",
+        "H": "Setelah Anda masuk, Anda benar-benar masuk — waktu, energi, fokus, semuanya."
       }
     },
     "E3": {
-      "name": "Batasan & Ketergantungan",
+      "name": "Batas & Ketergantungan",
       "model": "Emosi",
       "levels": {
-        "L": "Anda akan mencengkeram dan akan dicengkeram. Kehangatan hubungan sangat penting.",
-        "M": "Dekat dan mandiri — dapat disesuaikan, berdasarkan kasus.",
-        "H": "Anda butuh ruang sendiri. Bahkan dalam cinta, beberapa area tetap milik Anda sendiri."
+        "L": "Anda akan bergantung dan digantung. Kehangatan hubungan sangat penting.",
+        "M": "Baik kedekatan maupun kemandirian — dapat disesuaikan, tergantung kasus.",
+        "H": "Anda butuh ruang sendiri. Bahkan dalam cinta, beberapa tanah tetap milik Anda sendiri."
       }
     },
     "A1": {
       "name": "Pandangan Dunia",
       "model": "Sikap",
       "levels": {
-        "L": "Filter default adalah kecurigaan. Meragukan dahulu, mendekati kemudian.",
-        "M": "Tidak naif, tidak juga penganut teori konspirasi. Mengamati adalah mode alami Anda.",
-        "H": "Anda cenderung percaya orang memiliki niat baik sampai terbukti sebaliknya."
+        "L": "Filter default adalah kecurigaan. Ragu dulu, dekati nanti.",
+        "M": "Tidak naif, tidak juga teori konspirasi penuh. Mengamati adalah mode alami Anda.",
+        "H": "Anda cenderung mempercayai bahwa orang bermaksud baik sampai terbukti sebaliknya."
       }
     },
     "A2": {
       "name": "Aturan vs. Fleksibilitas",
       "model": "Sikap",
       "levels": {
-        "L": "Aturan bersifat opsional ketika kenyamanan dan kebebasan tidak ada.",
-        "M": "Anda akan mengikuti aturan yang penting. Anda akan melonggarkan yang tidak.",
-        "H": "Ketertiban terasa benar. Anda lebih suka menjalankan proses daripada berimprovisasi."
+        "L": "Aturan itu opsional ketika kenyamanan dan kebebasan tidak.",
+        "M": "Anda akan mengikuti aturan yang penting. Anda akan membengkokkan yang tidak.",
+        "H": "Tertib terasa benar. Anda lebih suka menjalankan proses daripada berimprovisasi."
       }
     },
     "A3": {
       "name": "Rasa Makna",
       "model": "Sikap",
       "levels": {
-        "L": "Rasa makna rendah. Banyak hal terasa seperti menjalani rutinitas seadanya.",
-        "M": "Beberapa hari Anda memiliki misi, beberapa hari Anda hanya menumpang. Filosofi setengah hidup.",
-        "H": "Anda secara kasar tahu ke mana arah Anda berjalan, dan mengapa."
+        "L": "Makna rendah. Banyak hal terasa seperti Anda hanya menjalani rutinitas.",
+        "M": "Beberapa hari Anda memiliki misi, beberapa hari Anda hanya sekadar menikmati suasana. Filosofinya setengah aktif.",
+        "H": "Anda kurang lebih tahu ke mana arah Anda berjalan, dan mengapa."
       }
     },
     "Ac1": {
       "name": "Motivasi",
       "model": "Dorongan Tindakan",
       "levels": {
-        "L": "Menghindari risiko berjalan sebelum ambisi. 'Jangan menabrak' mengalahkan 'menang'.",
-        "M": "Kadang-kadang Anda ingin menang; kadang-kadang Anda hanya ingin tidak diganggu.",
-        "H": "Hasil, kemajuan, gerak maju — itulah yang memotivasi Anda."
+        "L": "Menghindari risiko berfungsi sebelum ambisi. 'Jangan jatuh' mengalahkan 'menang'.",
+        "M": "Terkadang Anda ingin menang; terkadang Anda tidak ingin repot.",
+        "H": "Hasil, kemajuan, gerakan maju — itu yang menyemangati Anda."
       }
     },
     "Ac2": {
       "name": "Gaya Keputusan",
       "model": "Dorongan Tindakan",
       "levels": {
-        "L": "Komite internal Anda berlangsung lama. Setiap keputusan ditinjau kembali.",
-        "M": "Anda akan mempertimbangkan, tetapi tidak menggantung. Keraguan normal.",
-        "H": "Anda memutuskan cepat dan tidak mempertanyakan kembali. Selanjutnya."
+        "L": "Komite internal Anda berjalan lama. Setiap keputusan selalu diulas kembali.",
+        "M": "Anda akan mempertimbangkan, tetapi tidak terlalu lama. Keraguan normal.",
+        "H": "Anda memutuskan dengan cepat dan tidak menggugat. Selanjutnya."
       }
     },
     "Ac3": {
       "name": "Mode Eksekusi",
       "model": "Dorongan Tindakan",
       "levels": {
-        "L": "Anda dan tenggat waktu memiliki hubungan yang dalam. Semakin dekat tenggat, semakin Anda bangun.",
-        "M": "Anda bisa menyelesaikan pekerjaan, tetapi keadaan bervariasi. Kadang konsisten, kadang santai.",
-        "H": "Hal-hal yang tidak selesai terasa seperti serpihan. Anda mendorong sampai mereka selesai."
+        "L": "Anda dan tenggat waktu memiliki hubungan yang dalam. Semakin malam, semakin terbangun.",
+        "M": "Anda bisa melakukan pekerjaan, tetapi keadaan bervariasi. Kadang konsisten, kadang malas.",
+        "H": "Hal-hal yang belum selesai terasa seperti serpihan. Anda mendorong hingga selesai."
       }
     },
     "So1": {
       "name": "Inisiatif Sosial",
       "model": "Sosial",
       "levels": {
-        "L": "Pemanasan lambat. 'Membuat langkah pertama' memerlukan pembicaraan semangat dalam diri.",
-        "M": "Anda akan terlibat jika seseorang terlibat. Anda tidak memaksa.",
-        "H": "Anda akan membuka ruangan. Mencolok di kerumunan tidak menggoyahkan Anda."
+        "L": "Pemanasan lambat. 'Mengambil langkah pertama' membutuhkan pembicaraan motivasi dalam diri.",
+        "M": "Anda akan berbicara jika seseorang menyapa. Anda tidak memaksakannya.",
+        "H": "Anda akan membuka ruangan. Berdiri di keramaian tidak membuat Anda gemetar."
       }
     },
     "So2": {
-      "name": "Batasan Antarpribadi",
+      "name": "Batas Antarpribadi",
       "model": "Sosial",
       "levels": {
-        "L": "Anda lebih suka kedekatan dan fusi. Sekali seseorang masuk, mereka cepat menjadi bagian dalam lingkaran.",
-        "M": "Anda ingin kedekatan dan sedikit celah. Tergantung orangnya.",
-        "H": "Batasan Anda nyata. Terlalu dekat memicu insting mundur."
+        "L": "Anda lebih suka kedekatan dan penggabungan. Begitu seseorang masuk, mereka langsung masuk ke dalam lingkaran dalam.",
+        "M": "Anda ingin dekat dan sedikit jarak. Tergantung pada orangnya.",
+        "H": "Batasan Anda nyata. Terlalu dekat memicu langkah instingtif mundur."
       }
     },
     "So3": {
-      "name": "Ekspresi & Keaslian",
+      "name": "Ekspresi & Otentisitas",
       "model": "Sosial",
       "levels": {
-        "L": "Anda langsung. Apa yang di kepala langsung keluar dari mulut, tidak tersaring.",
-        "M": "Anda membaca ruangan. Keaslian dan kesopanan diberikan sesuai kebutuhan.",
-        "H": "Anda fasih melakukan penyesuaian kode. 'Anda yang sebenarnya' dikeluarkan secara bertahap."
+        "L": "Anda langsung. Apa yang ada di kepala langsung keluar dari mulut, pada dasarnya tanpa filter.",
+        "M": "Anda membaca situasi. Otentisitas dan kesopanan diberikan sesuai kebutuhan.",
+        "H": "Anda fasih dalam beralih kode. 'Diri yang sebenarnya' dilepaskan secara bertahap."
       }
     }
   },
@@ -205,14 +222,14 @@
     {
       "id": "q1",
       "dim": "S1",
-      "text": "Aku adalah tikus dalam gelap, kecoak yang merayap. Aku tidak pernah jatuh cinta. Aku penakut dan tidak percaya diri. Masa mudaku adalah serangkaian lamunan — membayangkan seseorang yang mencintaiku, berjalan di jalan bersamaku, bersantai bersamaku. Nyatanya: Aku menghabiskan uang orang tuaku untuk sekolah, aku lulus, aku bekerja keras, aku mengejar 'tujuan'. Setiap kali melihat orang lain bercanda bahagia online, aku ingin menangis. Aku iri pada hal-hal kecil yang menyenangkan dalam hidup dan masih mencari arah. Tolong, biarkan kami yang bersembunyi di bawah selimut memiliki jalan keluar. Aku benar-benar tidak ingin membasahi bantal dengan air mata lagi.",
+      "text": "Aku tikus di kegelapan, kecoak yang merayap. Aku belum pernah jatuh cinta. Aku penakut dan tidak aman. Masa muda ku adalah satu lamunan demi lamunan — membayangkan seseorang yang mencintaiku, berjalan-jalan bersamaku, menghabiskan waktu denganku. Nyatanya adalah: Aku menghabiskan uang orang tua untuk sekolah, aku lulus, aku bekerja keras, aku mengejar 'tujuan.' Setiap kali aku melihat orang lain membuat lelucon bahagia di internet, aku ingin menangis. Aku iri dengan hal-hal kecil yang indah dalam hidup dan aku masih mencari arahku. Tolong, biarkan kami yang bersembunyi di bawah selimut mendapat jalan keluar. Aku benar-benar tidak ingin membasahi bantal dengan air mata lagi.",
       "options": [
         {
-          "label": "Aku menangis membacanya…",
+          "label": "Aku menangis membaca itu...",
           "value": 1
         },
         {
-          "label": "Apa ini…?",
+          "label": "Apa... ini?",
           "value": 2
         },
         {
@@ -224,18 +241,18 @@
     {
       "id": "q2",
       "dim": "S1",
-      "text": "Aku tidak cukup baik. Semua orang di sekitarku lebih mampu daripadaku.",
+      "text": "Aku tidak cukup baik. Semua orang di sekitarku lebih mampu dariku.",
       "options": [
         {
           "label": "Benar",
           "value": 1
         },
         {
-          "label": "Kadang-kadang",
+          "label": "Kadang",
           "value": 2
         },
         {
-          "label": "Tidak benar-benar",
+          "label": "Tidak juga",
           "value": 3
         }
       ]
@@ -243,7 +260,7 @@
     {
       "id": "q3",
       "dim": "S2",
-      "text": "Aku memiliki pemahaman yang jelas tentang siapa diriku sebenarnya.",
+      "text": "Aku punya pandangan yang jelas tentang siapa diriku sebenarnya.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -262,7 +279,7 @@
     {
       "id": "q4",
       "dim": "S2",
-      "text": "Ada sesuatu yang benar-benar aku inginkan dari hidup ini.",
+      "text": "Ada sesuatu yang benar-benar aku inginkan dalam hidup.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -300,7 +317,7 @@
     {
       "id": "q6",
       "dim": "S3",
-      "text": "Pendapat orang asing tentangku sungguh tidak penting bagiku.",
+      "text": "Pendapat orang asing tentang diriku sungguh tidak penting bagiku.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -319,18 +336,18 @@
     {
       "id": "q7",
       "dim": "E1",
-      "text": "Pasangan Anda belum membalas Anda selama lebih dari 5 jam. Mereka akhirnya mengatakan 'diare sepanjang waktu.' Reaksi jujur Anda?",
+      "text": "Pasangan Anda belum membalas selama lebih dari 5 jam. Akhirnya mereka bilang mereka 'diare sepanjang waktu.' Reaksi jujurmu?",
       "options": [
         {
           "label": "Diare tidak bisa 5 jam. Mereka menyembunyikan sesuatu.",
           "value": 1
         },
         {
-          "label": "Berada di antara kepercayaan dan keraguan.",
+          "label": "Terjebak di antara percaya dan ragu.",
           "value": 2
         },
         {
-          "label": "Mungkin mereka sungguh tidak enak badan hari ini.",
+          "label": "Mungkin benar mereka tidak enak badan hari ini.",
           "value": 3
         }
       ]
@@ -338,7 +355,7 @@
     {
       "id": "q8",
       "dim": "E1",
-      "text": "Aku sering khawatir tentang ditinggalkan dalam hubungan.",
+      "text": "Aku sering khawatir ditinggalkan dalam hubungan.",
       "options": [
         {
           "label": "Ya",
@@ -357,10 +374,10 @@
     {
       "id": "q9",
       "dim": "E2",
-      "text": "Tangan di dada — aku menganggap setiap hubungan yang aku jalani dengan serius.",
+      "text": "Tangan di hati — aku serius dalam setiap hubungan yang aku jalin.",
       "options": [
         {
-          "label": "…Tidak benar-benar.",
+          "label": "…Tidak juga.",
           "value": 1
         },
         {
@@ -368,7 +385,7 @@
           "value": 2
         },
         {
-          "label": "Ya! (wajah berani)",
+          "label": "Ya! (wajah tanpa bersalah)",
           "value": 3
         }
       ]
@@ -376,10 +393,10 @@
     {
       "id": "q10",
       "dim": "E2",
-      "text": "Pasangan Anda adalah: baik kepada orang tua, penyayang dengan anak-anak, lembut, terhormat, pandai bicara, cerdas, pengamat, banyak membaca, sabar dengan pemula, ramah, rendah hati, ambisius, bersinar, sangat menarik, cantik tingkat menakjubkan. Apa yang terjadi dengan Anda?",
+      "text": "Pasangan Anda: baik kepada yang tua, penyayang anak-anak, lembut, terhormat, artikulatif, lucu, pengamat, banyak membaca, sabar dengan pemula, ramah, rendah hati, ambisius, berseri-seri, sangat menarik, sangat cantik sampai bisa menjatuhkan negara. Apa yang terjadi padamu?",
       "options": [
         {
-          "label": "Tidak peduli seberapa sempurna mereka, aku tidak akan jatuh terlalu dalam.",
+          "label": "Tidak peduli seberapa sempurna mereka, aku tidak akan terlalu jatuh cinta.",
           "value": 1
         },
         {
@@ -387,7 +404,7 @@
           "value": 2
         },
         {
-          "label": "Aku akan menyayangi mereka sepenuhnya. Ya, aku akan menjadi orang bodoh dalam cinta.",
+          "label": "Aku akan menghargai mereka sepenuhnya. Ya, aku akan menjadi bodoh dalam cinta.",
           "value": 3
         }
       ]
@@ -395,18 +412,18 @@
     {
       "id": "q11",
       "dim": "E3",
-      "text": "Anda sedang berpacaran dengan seseorang yang sangat lengket. Tanggapan Anda?",
+      "text": "Anda berpacaran dengan seseorang yang sangat lengket. Pendapat Anda?",
       "options": [
         {
-          "label": "Itu luar biasa, sebenarnya.",
+          "label": "Itu bagus sebenarnya.",
           "value": 1
         },
         {
-          "label": "Ya sudahlah, terserah.",
+          "label": "Terserah, terserah.",
           "value": 2
         },
         {
-          "label": "Aku lebih suka menjaga ruangku sendiri.",
+          "label": "Aku lebih suka tetap menjaga ruang pribadi.",
           "value": 3
         }
       ]
@@ -417,7 +434,7 @@
       "text": "Aku menghargai ruang pribadi dalam setiap hubungan.",
       "options": [
         {
-          "label": "Aku lebih suka bergantung dan menjadi tempat bergantung.",
+          "label": "Aku lebih suka bergantung dan bergantungan.",
           "value": 1
         },
         {
@@ -425,7 +442,7 @@
           "value": 2
         },
         {
-          "label": "Ya! (dikatakan datar, tanpa ragu)",
+          "label": "Ya! (dikatakan datar, tanpa keraguan)",
           "value": 3
         }
       ]
@@ -433,10 +450,10 @@
     {
       "id": "q13",
       "dim": "A1",
-      "text": "Kebanyakan orang itu baik.",
+      "text": "Sebagian besar orang baik.",
       "options": [
         {
-          "label": "Sejujurnya? Ada lebih banyak kejahatan di hati manusia dibandingkan wasir di dunia.",
+          "label": "Jujur? Ada lebih banyak keburukan dalam hati manusia daripada wasir di dunia.",
           "value": 1
         },
         {
@@ -452,10 +469,10 @@
     {
       "id": "q14",
       "dim": "A1",
-      "text": "Anda berjalan di jalan. Seorang gadis kecil yang lucu (imut dari semua sudut, imut di kamera ponsel manapun, benar-benar lucu) melompat menghampiri Anda dan memberikan lolipop. Apa yang Anda rasakan?",
+      "text": "Anda berjalan di jalan. Seorang gadis kecil yang menggemaskan (imut dari setiap sudut, imut di setiap kamera ponsel, benar-benar imut) melompat ke Anda dan memberikan Anda lolipop. Apa yang Anda rasakan?",
       "options": [
         {
-          "label": "Awwww dia sangat manis dan imut! Dia MEMBERIKAN KU lolipop!",
+          "label": "Awwww betapa manisnya dia! Dia MEMBERIKAN aku lolipop!",
           "value": 3
         },
         {
@@ -463,7 +480,7 @@
           "value": 2
         },
         {
-          "label": "Ini mungkin jenis penipuan baru? Pergi, untuk berjaga-jaga.",
+          "label": "Ini mungkin semacam penipuan baru? Pergi saja, untuk berjaga-jaga.",
           "value": 1
         }
       ]
@@ -471,18 +488,18 @@
     {
       "id": "q15",
       "dim": "A2",
-      "text": "Ujian akhir akan datang. Sekolah mewajibkan sesi belajar malam; bolos mengurangi poin. Namun malam ini, orang yang Anda suka mengundang bermain game online yang Anda suka. Apa yang Anda lakukan?",
+      "text": "Ujian akhir akan datang. Sekolah mewajibkan sesi belajar malam; melewatkannya mengurangi poin. Namun, malam ini, gebetan Anda mengundang Anda bermain game online kompetitif favorit Anda. Apa yang Anda lakukan?",
       "options": [
         {
-          "label": "Bolos! Hanya sekali ini!",
+          "label": "Lewatkan! Hanya sekali ini!",
           "value": 1
         },
         {
-          "label": "Ajukan izin.",
+          "label": "Ajukan permohonan cuti.",
           "value": 2
         },
         {
-          "label": "Ujian akhir benar-benar akan datang, aku tidak akan kemana-mana.",
+          "label": "Ujian akhir benar-benar akan datang, aku tidak akan ke mana-mana.",
           "value": 3
         }
       ]
@@ -490,7 +507,7 @@
     {
       "id": "q16",
       "dim": "A2",
-      "text": "Aku suka memecahkan rutinitas dan tidak suka disekang.",
+      "text": "Aku suka memecahkan rutinitas dan tidak suka dibatasi.",
       "options": [
         {
           "label": "Setuju",
@@ -509,7 +526,7 @@
     {
       "id": "q17",
       "dim": "A3",
-      "text": "Aku biasanya melakukan sesuatu dengan tujuan dalam pikiran.",
+      "text": "Aku biasanya melakukan sesuatu dengan tujuan di hati.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -528,14 +545,14 @@
     {
       "id": "q18",
       "dim": "A3",
-      "text": "Suatu hari Anda menyadari: apa makna sejati hidup ini, bagaimanapun? Dalam istilah tertentu, manusia hanyalah hewan yang dikendalikan oleh dorongan, dikendalikan oleh hormon — lapar jadi makan, lelah jadi tidur. Hanya makhluk hidup kelas bawah, biasa saja. Pada dasarnya tidak berbeda dari kucing dan anjing.",
+      "text": "Suatu hari Anda tersadar: apa sebenarnya makna hidup? Dalam arti tertentu, manusia hanyalah hewan yang didorong oleh dorongan, dikendalikan oleh hormon — lapar jadi makan, lelah jadi tidur. Hanya makhluk hidup yang membosankan dan rendah. Pada dasarnya tidak berbeda dengan kucing dan anjing.",
       "options": [
         {
-          "label": "Ya, cukup begitu.",
+          "label": "Ya, kurang lebih begitu.",
           "value": 1
         },
         {
-          "label": "Bisa jadi keduanya.",
+          "label": "Bisa ke mana saja.",
           "value": 2
         },
         {
@@ -547,7 +564,7 @@
     {
       "id": "q19",
       "dim": "Ac1",
-      "text": "Aku melakukan sesuatu terutama untuk mendapatkan hasil dan bertumbuh, bukan untuk menghindari masalah dan risiko.",
+      "text": "Aku melakukan sesuatu terutama untuk mendapatkan hasil dan tumbuh, bukan untuk menghindari masalah dan risiko.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -566,18 +583,18 @@
     {
       "id": "q20",
       "dim": "Ac1",
-      "text": "Anda duduk di toilet selama 30 menit, sembelit, tidak ada yang terjadi. Anda lebih suka:",
+      "text": "Anda telah duduk di toilet selama 30 menit, sembelit, tidak ada yang terjadi. Anda lebih suka:",
       "options": [
         {
-          "label": "Duduk 30 menit lagi. Mungkin akan datang.",
+          "label": "Duduk lagi 30 menit. Mungkin akan keluar.",
           "value": 1
         },
         {
-          "label": "Tampar pantat Anda sendiri dan katakan 'c'mon, sial, keluar!'",
+          "label": "Tampar pantat sendiri dan bilang 'ayo, sial, keluar!'",
           "value": 2
         },
         {
-          "label": "Ambil laxatif. Selesaikan saja.",
+          "label": "Pergi beli pencahar. Segera putuskan masalahnya.",
           "value": 3
         }
       ]
@@ -585,7 +602,7 @@
     {
       "id": "q21",
       "dim": "Ac2",
-      "text": "Aku memutuskan dengan tegas. Aku tidak suka ragu-ragu.",
+      "text": "Aku memutuskan dengan tegas. Aku tidak suka ragu.",
       "options": [
         {
           "label": "Tidak setuju",
@@ -604,10 +621,10 @@
     {
       "id": "q22",
       "dim": "Ac2",
-      "text": "Pertanyaan ini tidak punya pertanyaan. Silakan ditebak secara membabi-buta.",
+      "text": "Pertanyaan ini tidak ada pertanyaan. Silakan tebak secara membabi buta.",
       "options": [
         {
-          "label": "Aku berpikir keras dan aku rasa aku harus memilih A?",
+          "label": "Aku berpikir keras dan pikiranku harus memilih A?",
           "value": 1
         },
         {
@@ -615,7 +632,7 @@
           "value": 2
         },
         {
-          "label": "Jika ragu, C.",
+          "label": "Ketika ragu, C.",
           "value": 3
         }
       ]
@@ -623,10 +640,10 @@
     {
       "id": "q23",
       "dim": "Ac3",
-      "text": "Ketika orang mengatakan 'Anda memiliki eksekusi yang kuat,' jawaban jujur Anda:",
+      "text": "Ketika orang mengatakan 'Anda eksekusinya bagus,' reaksi dalam yang jujur adalah:",
       "options": [
         {
-          "label": "Ketika saya terpojok, ya, eksekusi saya sangat kuat…",
+          "label": "Ketika aku tersudut, ya, eksekusi aku sangat kuat…",
           "value": 1
         },
         {
@@ -634,7 +651,7 @@
           "value": 2
         },
         {
-          "label": "Ya. Hal-hal seharusnya diselesaikan.",
+          "label": "Ya. Sesuatu seharusnya diselesaikan.",
           "value": 3
         }
       ]
@@ -645,15 +662,15 @@
       "text": "Aku biasanya merencanakan sesuatu, ____",
       "options": [
         {
-          "label": "tetapi rencana tidak pernah bertahan dalam kenyataan.",
+          "label": "tetapi rencana tidak pernah bertahan dari kenyataan.",
           "value": 1
         },
         {
-          "label": "kadang-kadang saya menyelesaikannya, kadang tidak.",
+          "label": "kadang aku menyelesaikannya, kadang tidak.",
           "value": 2
         },
         {
-          "label": "dan aku benci ketika rencana saya terganggu.",
+          "label": "dan aku benci ketika rencanaku terganggu.",
           "value": 3
         }
       ]
@@ -661,18 +678,18 @@
     {
       "id": "q25",
       "dim": "So1",
-      "text": "Anda telah membuat banyak teman online melalui game yang Anda cintai. Mereka mengundang Anda untuk bertemu langsung. Langkah Anda?",
+      "text": "Anda sudah membuat banyak teman online melalui permainan yang Anda suka. Mereka mengundang Anda untuk bertemu langsung. Langkah Anda?",
       "options": [
         {
-          "label": "Berbicara online baik saja — bertemu langsung membuat saya gugup.",
+          "label": "Ngobrol online saja sudah cukup — bertemu langsung membuatku gugup.",
           "value": 1
         },
         {
-          "label": "Tentu, bertemu baik saja. Siapapun yang bicara pada saya, saya akan balas bicara.",
+          "label": "Tentu, bertemu tidak masalah. Siapa pun yang mengajakku bicara, aku akan berbicara balik.",
           "value": 2
         },
         {
-          "label": "Aku akan berdandan dan berbincang dengan antusias. Siapa tahu. Maksudku, siapa tahu.",
+          "label": "Aku akan berdandan dan mengobrol antusias. Anda tidak tahu. Maksudku, Anda BENAR-BENAR TIDAK TAHU.",
           "value": 3
         }
       ]
@@ -680,18 +697,18 @@
     {
       "id": "q26",
       "dim": "So1",
-      "text": "Teman Anda membawa temannya. Keadaan Anda yang paling mungkin?",
+      "text": "Teman Anda membawa teman mereka. Keadaan Anda yang paling mungkin?",
       "options": [
         {
-          "label": "Saya merasa jarak instingtif dari 'teman teman.' Tidak ingin mengacaukan dinamika dua orang.",
+          "label": "Aku merasa jarak instingtif dari 'teman dari teman'. Tidak ingin merusak dinamika dua orang.",
           "value": 1
         },
         {
-          "label": "Tergantung mereka. Jika kita cocok, kita cocok.",
+          "label": "Tergantung pada mereka. Jika kami nyambung, kami nyambung.",
           "value": 2
         },
         {
-          "label": "Teman teman dianggap sebagai teman saya! Ayo ngobrol dengan antusias.",
+          "label": "Teman dari teman dihitung sebagai temanku! Ayo, mode obrolan antusias.",
           "value": 3
         }
       ]
@@ -699,7 +716,7 @@
     {
       "id": "q27",
       "dim": "So2",
-      "text": "Getaran sosial saya pada dasarnya seperti pagar listrik. Terlalu dekat dan alarm berbunyi otomatis.",
+      "text": "Getar sosialku pada dasarnya adalah pagar listrik. Terlalu dekat dan alarm berbunyi otomatis.",
       "options": [
         {
           "label": "Setuju",
@@ -718,7 +735,7 @@
     {
       "id": "q28",
       "dim": "So2",
-      "text": "Aku mendambakan kedekatan dengan orang yang aku percaya — kedekatan yang membuat kami merasa seperti keluarga yang sudah lama hilang.",
+      "text": "Aku merindukan kedekatan dengan orang-orang yang aku percayai — jenis kedekatan di mana kita terasa seperti keluarga yang terpisah lama.",
       "options": [
         {
           "label": "Setuju",
@@ -737,18 +754,18 @@
     {
       "id": "q29",
       "dim": "So3",
-      "text": "Kadang-kadang Anda memiliki pendapat berbeda atau negatif tentang sesuatu, tetapi Anda tidak menyuarakannya. Alasan utamanya biasanya:",
+      "text": "Kadang-kadang Anda memiliki pendapat berbeda atau negatif tentang sesuatu, tetapi Anda tidak mengungkapkannya. Alasan utamanya biasanya:",
       "options": [
         {
           "label": "Ini jarang terjadi padaku.",
           "value": 1
         },
         {
-          "label": "Untuk menjaga wajah atau hubungan.",
+          "label": "Untuk menjaga muka atau hubungan.",
           "value": 2
         },
         {
-          "label": "Aku tidak ingin orang tahu aku punya sisi gelap.",
+          "label": "Aku tidak ingin orang tahu bahwa aku punya sisi gelap.",
           "value": 3
         }
       ]
@@ -784,15 +801,15 @@
           "value": 1
         },
         {
-          "label": "Seni dan hal kreatif.",
+          "label": "Kesenian dan hal-hal kreatif.",
           "value": 2
         },
         {
-          "label": "Minuman.",
+          "label": "Minum.",
           "value": 3
         },
         {
-          "label": "Olahraga.",
+          "label": "Berolahraga.",
           "value": 4
         }
       ]
@@ -800,14 +817,14 @@
     {
       "id": "drink_gate_q2",
       "kind": "drink_trigger",
-      "text": "Apa sikap Anda terhadap minum alkohol?",
+      "text": "Apa pandangan Anda terhadap minum alkohol?",
       "options": [
         {
-          "label": "Sedikit saja sesekali. Tidak yang berat.",
+          "label": "Sedikit sekali-kali. Tidak berat.",
           "value": 1
         },
         {
-          "label": "Saya menyimpan minuman keras dalam termos dan meminumnya seperti air. Alkohol berbicara kepada saya.",
+          "label": "Aku menyimpan minuman keras dalam termos dan meminumnya seperti air. Alkohol berbicara kepadaku.",
           "value": 2
         }
       ]

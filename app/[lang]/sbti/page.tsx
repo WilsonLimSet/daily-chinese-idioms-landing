@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Script from 'next/script';
-import { ArrowLeft, ChevronRight, Sparkles } from 'lucide-react';
+import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
 import { getQuiz } from '@/src/lib/sbti-quiz';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
@@ -60,6 +60,7 @@ export default async function LocalizedSbtiHubPage({
   const types = getAllSbtiTypes(lang);
   const regular = types.filter(t => !t.special);
   const special = types.filter(t => t.special);
+  const quiz = getQuiz(lang);
 
   const structuredData = [
     {
@@ -90,120 +91,232 @@ export default async function LocalizedSbtiHubPage({
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="flex min-h-screen flex-col" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
       <Script id={`sbti-${lang}-hub-ld`} type="application/ld+json" strategy="beforeInteractive">
         {JSON.stringify(structuredData)}
       </Script>
 
-      <nav className="bg-white/80 backdrop-blur-md shadow-sm sticky top-0 z-50 border-b border-gray-100">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <Link href={`/${lang}`} className="inline-flex items-center gap-2 text-gray-500 hover:text-gray-900 font-medium transition-colors">
-            <ArrowLeft className="w-4 h-4" />
-            Home
-          </Link>
+      {/* Hero */}
+      <section className="relative overflow-hidden bg-gray-950 text-white">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(185,28,28,0.18),transparent_60%)]" />
+        <div
+          aria-hidden="true"
+          className="pointer-events-none absolute inset-0 flex select-none items-center justify-end pr-4"
+        >
+          <span className="text-[28vw] font-bold leading-none tracking-tight text-white/[0.035] md:text-[22rem]">
+            SBTI
+          </span>
         </div>
-      </nav>
 
-      <article className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <header className="mb-10">
-          <div className="inline-flex items-center gap-2 text-sm font-semibold text-indigo-600 bg-indigo-50 px-3 py-1.5 rounded-full mb-4">
-            <Sparkles className="w-4 h-4" />
-            <span>SBTI</span>
-          </div>
-          <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 mb-5 tracking-tight leading-tight">
-            SBTI Personality Test — All 27 Types
-          </h1>
-          <p className="text-lg sm:text-xl text-gray-600 leading-relaxed max-w-3xl">
-            Silly Behavioral Type Indicator — 27 types, 15 dimensions, 30 questions.
+        <nav className="relative mx-auto max-w-5xl px-6 pt-6">
+          <Link
+            href={`/${lang}`}
+            className="inline-flex items-center gap-2 text-sm text-white/50 transition-colors hover:text-white/80"
+          >
+            <ArrowLeft className="h-4 w-4" />
+            {quiz.ui.hubHomeLabel}
+          </Link>
+        </nav>
+
+        <div className="relative mx-auto max-w-5xl px-6 pt-12 pb-16 md:pt-16">
+          <p className="mb-6 text-xs font-medium uppercase tracking-[0.25em] text-white/40">
+            {quiz.ui.kicker}
           </p>
-        </header>
+          <h1 className="text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl">
+            {quiz.ui.titleLine1}
+            <br />
+            <span className="text-red-400">{quiz.ui.titleLine2}</span>
+          </h1>
+          <p className="mt-6 max-w-2xl text-lg leading-relaxed text-white/60">
+            {quiz.meta.subtitle}
+          </p>
 
-        <div className="mb-8 rounded-2xl bg-gradient-to-br from-indigo-600 to-purple-600 p-6 text-white shadow-lg sm:p-8">
+          {/* Type quick nav */}
+          <div className="mt-12 flex flex-wrap gap-2">
+            {regular.slice(0, 10).map(t => (
+              <a
+                key={t.code}
+                href={`#${t.code.toLowerCase().replace(/[^a-z0-9]/g, '')}`}
+                className="group inline-flex items-center gap-2 rounded-lg border border-white/[0.08] bg-white/[0.05] px-3 py-1.5 text-sm transition-all hover:border-white/[0.15] hover:bg-white/[0.1]"
+              >
+                <span className="text-xs font-semibold uppercase tracking-[0.18em] text-red-300">
+                  {t.code}
+                </span>
+                <span className="text-white/60 group-hover:text-white/80">{t.displayName}</span>
+              </a>
+            ))}
+            <span className="inline-flex items-center px-2 text-xs text-white/40">
+              +{regular.length - 10 + special.length}
+            </span>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA strip */}
+      <section className="border-b border-gray-200 bg-white">
+        <div className="mx-auto max-w-5xl px-6 py-8">
           <div className="flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
             <div>
-              <p className="text-sm font-bold uppercase tracking-wider text-indigo-100">Take the test</p>
-              <p className="mt-1 text-xl font-bold sm:text-2xl">SBTI — 30 questions, instant result</p>
+              <p className="text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                {quiz.ui.hubCtaKicker}
+              </p>
+              <p className="mt-1 text-xl font-bold text-gray-900 sm:text-2xl">
+                {quiz.ui.hubCtaTitle}
+              </p>
+              <p className="mt-1 text-sm text-gray-500">{quiz.ui.hubCtaBullets}</p>
             </div>
             <Link
               href={`/${lang}/sbti/test`}
-              className="inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 text-base font-bold text-indigo-600 shadow-md transition hover:bg-indigo-50"
+              className="group inline-flex shrink-0 items-center gap-2 rounded-lg bg-gray-950 px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-red-500"
             >
-              Start
-              <ChevronRight className="h-5 w-5" />
+              {quiz.ui.begin}
+              <ChevronRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
             </Link>
           </div>
         </div>
+      </section>
 
-        <AdUnit type="display" />
+      {/* Body */}
+      <div className="flex-1 bg-gray-50">
+        <div className="mx-auto max-w-5xl px-6 py-16 md:py-20">
+          {/* Regular types */}
+          <article className="mb-20">
+            <div className="mb-10 flex items-start gap-6 sm:gap-8">
+              <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">25</p>
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                  {quiz.ui.hubCatalogueKicker}
+                </p>
+                <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                  {quiz.ui.hubAllTypesHeading}
+                </h2>
+                <p className="mt-1 text-gray-500">{quiz.ui.hubAllTypesSub}</p>
+              </div>
+            </div>
 
-        <section className="mb-14">
-          <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-6">25</h2>
-          <div className="grid gap-3 sm:gap-4 md:grid-cols-2 lg:grid-cols-3">
-            {regular.map((t) => (
+            <div className="grid gap-3 sm:ml-32 sm:grid-cols-2 lg:grid-cols-3">
+              {regular.map(t => {
+                const anchor = t.code.toLowerCase().replace(/[^a-z0-9]/g, '');
+                return (
+                  <Link
+                    key={t.code}
+                    href={`/${lang}/sbti/${typeCodeToSlug(t.code)}`}
+                    id={anchor}
+                    className="group flex h-full flex-col justify-between rounded-lg border border-gray-200/80 bg-white p-5 transition hover:border-red-200 hover:shadow-sm"
+                  >
+                    <div>
+                      <div className="flex items-center gap-2">
+                        <span className="h-1 w-1 rounded-full bg-red-400" />
+                        <span className="text-xs font-semibold uppercase tracking-[0.2em] text-red-500">
+                          {t.code}
+                        </span>
+                      </div>
+                      <h3 className="mt-2 font-bold leading-snug text-gray-900">
+                        {t.displayName}
+                      </h3>
+                      <p className="mt-1 text-sm leading-[1.5] text-gray-500">
+                        {t.tagline || t.coreVibe}
+                      </p>
+                    </div>
+                    <div className="mt-4 flex items-center gap-1 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400 transition-colors group-hover:text-red-500">
+                      <span>{quiz.ui.hubReadMore}</span>
+                      <ChevronRight className="h-3.5 w-3.5 transition-transform group-hover:translate-x-0.5" />
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </article>
+
+          {/* Special types */}
+          {special.length > 0 && (
+            <article className="mb-20">
+              <div className="mb-10 flex items-start gap-6 sm:gap-8">
+                <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                  <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">02</p>
+                </div>
+                <div className="min-w-0 flex-1">
+                  <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                    {quiz.ui.hubSpecialKicker}
+                  </p>
+                  <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                    {quiz.ui.hubSpecialTypesHeading}
+                  </h2>
+                  <p className="mt-1 text-gray-500">{quiz.ui.hubSpecialTypesSub}</p>
+                </div>
+              </div>
+              <div className="grid gap-4 sm:ml-32 md:grid-cols-2">
+                {special.map(t => (
+                  <Link
+                    key={t.code}
+                    href={`/${lang}/sbti/${typeCodeToSlug(t.code)}`}
+                    className="relative overflow-hidden rounded-xl bg-gray-950 p-6 transition hover:bg-gray-900"
+                  >
+                    <div
+                      aria-hidden="true"
+                      className="pointer-events-none absolute -top-4 -right-4 select-none font-serif text-[100px] leading-none text-white/[0.05]"
+                    >
+                      {t.code === 'HHHH' ? '?' : '!'}
+                    </div>
+                    <div className="relative">
+                      <div className="inline-flex items-center gap-1.5 rounded bg-red-500/20 px-2 py-0.5">
+                        <span className="h-1 w-1 rounded-full bg-red-400" />
+                        <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-red-300">
+                          {t.code}
+                        </span>
+                      </div>
+                      <h3 className="mt-3 text-lg font-bold text-white">{t.displayName}</h3>
+                      <p className="mt-1 text-sm leading-relaxed text-white/60">
+                        {t.tagline || t.coreVibe}
+                      </p>
+                      <div className="mt-4 inline-flex items-center gap-1 text-xs font-semibold uppercase tracking-[0.15em] text-red-300">
+                        <span>{quiz.ui.hubReadMore}</span>
+                        <ChevronRight className="h-3.5 w-3.5" />
+                      </div>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </article>
+          )}
+
+          <AdUnit type="in-article" />
+
+          {/* Explore */}
+          <section className="mt-20 border-t border-gray-200 pt-12">
+            <h2 className="mb-8 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+              {quiz.ui.hubExploreKicker}
+            </h2>
+            <div className="grid gap-3 md:grid-cols-3">
+              {/* Point to EN for what-is / vs-mbti since those pages aren't
+                  localized yet. Keep slang localized (it exists per-lang). */}
               <Link
-                key={t.code}
-                href={`/${lang}/sbti/${typeCodeToSlug(t.code)}`}
-                className="group h-full bg-white rounded-2xl shadow-sm border border-gray-100 p-5 hover:shadow-xl hover:border-indigo-100 hover:-translate-y-0.5 transition-all duration-300"
+                href="/sbti/what-is"
+                className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm"
               >
-                <div className="flex items-start justify-between mb-2">
-                  <span className="text-xs font-bold uppercase tracking-wider text-indigo-600 bg-indigo-50 px-2 py-1 rounded">
-                    {t.code}
-                  </span>
-                </div>
-                <h3 className="font-bold text-gray-900 text-lg mb-1 group-hover:text-indigo-600 transition-colors">{t.displayName}</h3>
-                <p className="text-sm text-gray-500 leading-relaxed">{t.tagline || t.coreVibe}</p>
-                <div className="mt-4 flex items-center gap-1 text-indigo-600 font-medium text-sm">
-                  <span>→</span>
-                  <ChevronRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                </div>
+                <p className="font-semibold text-gray-900">{quiz.ui.hubWhatIsLabel}</p>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
               </Link>
-            ))}
-          </div>
-        </section>
-
-        {special.length > 0 && (
-          <section className="mb-14">
-            <h2 className="text-2xl sm:text-3xl font-bold text-gray-900 mb-3">2</h2>
-            <div className="grid gap-4 md:grid-cols-2">
-              {special.map((t) => (
-                <Link
-                  key={t.code}
-                  href={`/${lang}/sbti/${typeCodeToSlug(t.code)}`}
-                  className="group h-full bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl shadow-sm border border-amber-200 p-5 hover:shadow-xl hover:border-amber-300 hover:-translate-y-0.5 transition-all duration-300"
-                >
-                  <span className="text-xs font-bold uppercase tracking-wider text-orange-700 bg-white/80 px-2 py-1 rounded inline-block mb-2">
-                    {t.code}
-                  </span>
-                  <h3 className="font-bold text-gray-900 text-lg mb-1 group-hover:text-orange-700 transition-colors">{t.displayName}</h3>
-                  <p className="text-sm text-gray-600 leading-relaxed">{t.tagline || t.coreVibe}</p>
-                </Link>
-              ))}
+              <Link
+                href="/sbti/vs-mbti"
+                className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm"
+              >
+                <p className="font-semibold text-gray-900">{quiz.ui.hubVsMbtiLabel}</p>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
+              </Link>
+              <Link
+                href={`/${lang}/sbti/slang`}
+                className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm"
+              >
+                <p className="font-semibold text-gray-900">{quiz.ui.hubSlangLabel}</p>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
+              </Link>
             </div>
           </section>
-        )}
-
-        <section className="mb-12 grid md:grid-cols-2 gap-4">
-          <Link href={`/${lang}/sbti/vs-mbti`} className="group bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-xl hover:border-indigo-100 transition-all duration-300">
-            <h3 className="font-bold text-gray-900 text-xl mb-2 group-hover:text-indigo-600 transition-colors">SBTI vs MBTI</h3>
-            <p className="text-sm text-gray-500 leading-relaxed">→</p>
-          </Link>
-          <Link href={`/${lang}/sbti/what-is`} className="group bg-white rounded-2xl shadow-sm border border-gray-100 p-6 hover:shadow-xl hover:border-indigo-100 transition-all duration-300">
-            <h3 className="font-bold text-gray-900 text-xl mb-2 group-hover:text-indigo-600 transition-colors">What is SBTI?</h3>
-            <p className="text-sm text-gray-500 leading-relaxed">→</p>
-          </Link>
-        </section>
-
-        <section className="relative overflow-hidden bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 rounded-3xl p-8 sm:p-12 text-center">
-          <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4">SBTI + 成语</h2>
-          <Link
-            href={`/${lang}/blog/lists`}
-            className="inline-flex items-center gap-2 bg-white text-indigo-600 px-6 py-3 rounded-xl font-bold hover:bg-gray-50 hover:scale-105 transition-all duration-200 shadow-xl"
-          >
-            →
-            <ChevronRight className="w-5 h-5" />
-          </Link>
-        </section>
-      </article>
+        </div>
+      </div>
 
       <footer className="bg-gray-50 py-8 border-t border-gray-100">
         <div className="container mx-auto px-4 text-center">
