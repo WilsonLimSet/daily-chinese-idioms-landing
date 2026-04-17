@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Script from 'next/script';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getQuiz } from '@/src/lib/sbti-quiz';
 import QuizClient from '@/app/sbti/test/QuizClient';
 
@@ -16,10 +16,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = await params;
   if (!(lang in LANGUAGES)) return { title: 'Not found' };
-  const nativeName =
-    LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName ||
-    LANGUAGES[lang as keyof typeof LANGUAGES];
   const ogLocale = LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US';
+  const quiz = getQuiz(lang);
 
   const languageAlternates: Record<string, string> = {
     'x-default': '/sbti/test',
@@ -30,24 +28,15 @@ export async function generateMetadata({
   }
 
   return {
-    title: `SBTI Test — Take the Free Personality Quiz (${nativeName})`,
-    description: `Take the viral Chinese SBTI personality test in ${nativeName}. 30 questions, 27 possible types including the hidden DRUNK and HHHH fallback.`,
-    keywords: [
-      'sbti test',
-      'sbti personality test',
-      'sbti quiz',
-      'take sbti test',
-      `sbti ${nativeName}`,
-      'silly behavioral type indicator',
-      'chinese personality test',
-    ].join(', '),
+    title: quiz.ui.seoTestTitle,
+    description: quiz.ui.seoTestDescription,
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/sbti/test`,
       languages: languageAlternates,
     },
     openGraph: {
-      title: `SBTI Test — 30 Questions, 27 Types`,
-      description: 'The viral Chinese SBTI personality test. Instant result in your language.',
+      title: quiz.ui.seoTestTitle,
+      description: quiz.ui.seoTestDescription,
       url: `https://www.chineseidioms.com/${lang}/sbti/test`,
       siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),
@@ -118,35 +107,15 @@ export default async function LocalizedSbtiTestPage({
       <div className="min-h-screen" dir={lang === 'ar' ? 'rtl' : 'ltr'}>
         <QuizClient
           resultBasePath={`/${lang}/sbti/test/result`}
+          backHref={`/${lang}/sbti`}
           dir={lang === 'ar' ? 'rtl' : 'ltr'}
           typePatterns={quiz.typePatterns}
           main={quiz.main}
           special={quiz.special}
-          t={{
-            progressFormat: '{cur} / {total}',
-            bonusLabel: 'Bonus',
-            back: 'Back',
-            next: 'Next',
-            submit: 'See result',
-            restart: 'Restart',
-            computing: '…',
-            readAndReact: 'Read & react',
-            resumeFormat: 'Resume ({cur}/{total})',
-            startOver: 'Start over',
-            errorState: 'Something went wrong. Please restart.',
-            intro: {
-              title: quiz.meta.title,
-              subtitle: quiz.meta.subtitle,
-              attribution: 'Original by @蛆肉儿串儿 · Bilibili',
-              disclaimer: quiz.meta.disclaimer,
-              start: 'Start',
-              questionCount: 'questions',
-              duration: 'minutes',
-              socialProof: 'Viral April 2026 · millions of takers globally',
-            },
-          }}
+          subtitle={quiz.meta.subtitle}
+          disclaimer={quiz.meta.disclaimer}
+          ui={quiz.ui}
         />
-
       </div>
     </>
   );

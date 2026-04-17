@@ -1,165 +1,222 @@
 {
   "meta": {
-    "title": "Bài Test Tính Cách SBTI",
-    "subtitle": "MBTI lỗi thời rồi. SBTI mới là chân ái.",
-    "attribution": "Bài test gốc của creator @蛆肉儿串儿 trên Bilibili (tháng 4/2026). Đây là bản dựng lại của fan – thuật toán chấm điểm và 27 kiểu mẫu tính cách được giữ nguyên; nội dung câu hỏi được điều chỉnh cho người Việt.",
-    "disclaimer": "Bài test này chỉ mang tính giải trí. Đừng dùng nó để chẩn đoán bệnh, phỏng vấn xin việc, mai mối, chia tay, bói toán hay phán xét cuộc đời.",
-    "creatorUrl": "https://space.bilibili.com/417038183",
-    "sourceLicense": "Algorithm + data derived from github.com/pingfanfan/SBTI (MIT)."
+    "title": "Bài Kiểm Tra Tính Cách SBTI",
+    "subtitle": "MBTI là xưa rồi. SBTI mới mẻ hơn.",
+    "disclaimer": "Bài kiểm tra này chỉ để giải trí. Đừng dùng nó như một công cụ chẩn đoán, phỏng vấn xin việc, mai mối, lý do chia tay, bói toán, hay phán quyết cuộc đời."
+  },
+  "ui": {
+    "seoTestTitle": "Bài Kiểm Tra SBTI — Kiểm Tra Tính Cách Miễn Phí 30 Câu (2026)",
+    "seoTestDescription": "Tham gia bài kiểm tra tính cách SBTI đang được lan truyền từ Trung Quốc. 30 câu hỏi, 27 loại bao gồm cả DRUNK và HHHH ẩn. Kết quả ngay với đặc điểm, độ tương hợp, và thành ngữ phù hợp với kiểu của bạn.",
+    "seoHubTitle": "Bài Kiểm Tra Tính Cách SBTI — Giải Thích Tất Cả 27 Loại",
+    "seoHubDescription": "Chỉ Số Hài Hước Về Hành Vi — một sự giễu cợt MBTI từ Trung Quốc đang lan truyền. 27 loại, 15 khía cạnh, 30 câu hỏi, với các thành ngữ Trung Quốc phù hợp với từng loại.",
+    "kicker": "Bài Kiểm Tra Tính Cách · Tháng Tư 2026",
+    "titleLine1": "Chỉ Số Hài Hước Về",
+    "titleLine2": "Hành Vi",
+    "questionsLabel": "câu hỏi",
+    "typesLabel": "loại",
+    "minutesLabel": "phút",
+    "instantResult": "Kết quả ngay lập tức",
+    "hiddenInside": "Bên trong ẩn",
+    "hiddenInsideDesc": "Hai trong số 27 loại — HHHH và DRUNK — là những quả trứng Phục Sinh. Chỉ một kiểu trả lời cụ thể mới mở khóa chúng.",
+    "beforeBegin": "Trước khi bắt đầu",
+    "socialProof": "Lan truyền trên Weibo, Xiaohongshu, và TikTok vào tháng Tư 2026.",
+    "begin": "Bắt đầu bài kiểm tra",
+    "resumeFormat": "Tiếp tục tại Câu {cur} / {total}",
+    "startOver": "Bắt đầu lại",
+    "progressFormat": "Câu {cur} / {total}",
+    "answeredFormat": "Đã trả lời {answered} / {total}",
+    "readAndReact": "Đọc. Phản ứng.",
+    "bonusLabel": "Câu hỏi phụ",
+    "submit": "Giải mã tôi",
+    "submitIncomplete": "Trả lời hết {remaining} câu còn lại để tiếp tục",
+    "computing": "Đang xử lý…",
+    "restart": "Bắt đầu lại",
+    "errorState": "Có vẻ như mọi thứ hơi sai. Bắt đầu lại từ đầu nào.",
+    "result": {
+      "yourResult": "Kết quả của bạn",
+      "hiddenType": "Loại ẩn",
+      "fallbackType": "Loại phòng hờ",
+      "retakeTest": "Làm lại bài kiểm tra",
+      "takeTheTest": "Làm bài kiểm tra SBTI",
+      "matchStrong": "Phù hợp mạnh",
+      "matchGood": "Phù hợp tốt",
+      "matchPartial": "Phù hợp một phần",
+      "rarityTemplate": "~{rarity}% chọn {code}",
+      "hiddenTypeBadge": "Trứng Phục Sinh",
+      "hiddenTypeDesc": "Kích hoạt bởi câu trả lời \"rượu mạnh trong phích\" — chỉ khoảng ~1% người tham gia chọn điều này.",
+      "brokeModelBadge": "Bạn đã phá vỡ mô hình",
+      "brokeModelDesc": "Câu trả lời của bạn không phù hợp với bất kỳ trong 25 loại tiêu chuẩn nào (phù hợp tốt nhất dưới 60%).",
+      "closestTemplate": "Loại chuẩn gần nhất: {code}.",
+      "normalBestTemplate": "Điểm phù hợp tốt nhất của bạn bình thường sẽ là {code}.",
+      "noResultDesc": "Đây là trang hồ sơ cho {code}. Làm bài kiểm tra để xem điều này có đúng với bạn không.",
+      "definingTraits": "Đặc điểm xác định của bạn",
+      "showAll": "Hiển thị tất cả 15 khía cạnh",
+      "hideAll": "Ẩn",
+      "profileKicker": "Hồ sơ cá nhân",
+      "profileHeading": "Phân tích 15 khía cạnh của bạn",
+      "profileSub": "Trong 5 mô hình · Bản thân, Cảm xúc, Thái độ, Hành động, Xã hội",
+      "shareKicker": "Gửi đi",
+      "shareHeading": "Chia sẻ kiểu của bạn",
+      "goDeeperKicker": "Khám phá sâu hơn",
+      "goDeeperHeading": "Mọi thứ về {code}",
+      "fullProfile": "Hồ sơ đầy đủ {code}",
+      "compatibility": "Tương hợp",
+      "howToGet": "Cách để đạt được {code}"
+    }
   },
   "dimensions": {
     "S1": {
-      "name": "Lòng Tự Trọng",
-      "model": "Bản Thân",
+      "name": "Tự Trọng",
+      "model": "Bản thân",
       "levels": {
-        "L": "Bạn sẽ nghi ngờ một lời khen trước khi tin nó – khắt khe với bản thân hơn bất kỳ ai khác.",
-        "M": "Sự tự tin thay đổi theo thời tiết. Gió xuôi thì bay, gió ngược thì gục.",
-        "H": "Bạn đại khái biết giá trị của mình, và một lời nhận xét vu vơ của người lạ không làm bạn lung lay."
+        "L": "Bạn nghi ngờ một lời khen trước khi tin vào nó – khó tính với bản thân hơn bất kỳ ai khác.",
+        "M": "Sự tự tin di chuyển theo thời tiết. Khi gió thuận, bạn bay; khi gió ngược, bạn chùng lại.",
+        "H": "Bạn biết giá trị bản thân mình và một bình luận vu vơ từ người lạ không làm bạn dao động."
       }
     },
     "S2": {
-      "name": "Sự Rõ Ràng về Bản Thân",
-      "model": "Bản Thân",
+      "name": "Tự Nhận Thức",
+      "model": "Bản thân",
       "levels": {
-        "L": "Kênh nội tâm chủ yếu là tĩnh. Bạn lặp lại câu 'mình thực sự là ai' nhiều hơn bạn muốn thừa nhận.",
-        "M": "Bạn phần lớn nhận ra chính mình, mặc dù tâm trạng đôi khi mượn tài khoản.",
-        "H": "Bạn biết tính khí, mong muốn và những điều tuyệt đối không của mình."
+        "L": "Kênh nội tâm chủ yếu là nhiễu. Bạn lặp đi lặp lại 'Tôi thực sự là ai' nhiều hơn bạn muốn thừa nhận.",
+        "M": "Bạn chủ yếu nhận ra bản thân, dù thỉnh thoảng tâm trạng mượn tài khoản.",
+        "H": "Bạn biết được tính khí, mong muốn, và điều tuyệt đối không."
       }
     },
     "S3": {
       "name": "Giá Trị Cốt Lõi",
-      "model": "Bản Thân",
+      "model": "Bản thân",
       "levels": {
-        "L": "Sự thoải mái và an toàn quan trọng hơn. Cuộc sống không cần phải luôn ở chế độ chạy nước rút.",
-        "M": "Một phần trong bạn muốn leo lên; một phần muốn nằm xuống. Cả hai thương lượng liên tục.",
-        "H": "Bạn dễ dàng bị lôi kéo bởi một mục tiêu, một con đường phát triển hoặc một điều gì đó bạn tin tưởng."
+        "L": "Thoải mái và an toàn quan trọng hơn. Cuộc sống không cần phải đô vật hàng ngày.",
+        "M": "Phần bạn muốn leo trèo; phần còn lại muốn nằm. Cả hai luôn thương lượng không ngừng.",
+        "H": "Bạn dễ bị lôi cuốn bởi một mục tiêu, một con đường phát triển, hoặc điều bạn tin tưởng."
       }
     },
     "E1": {
-      "name": "Mức Độ Gắn Bó",
-      "model": "Cảm Xúc",
+      "name": "An Toàn Gắn Bó",
+      "model": "Cảm xúc",
       "levels": {
-        "L": "Một tin nhắn chưa đọc có thể kích hoạt một bộ phim tinh thần đầy đủ về cách nó kết thúc. Hệ thống báo động luôn nóng.",
-        "M": "Nửa tin, nửa thử. Bạn điều hành các phòng chiến tranh nội bộ về những điều nhỏ nhặt.",
-        "H": "Bạn tin tưởng vào mối quan hệ. Một chút gió không thổi bay ngôi nhà."
+        "L": "Một tin nhắn chưa đọc có thể kích hoạt cả một bộ phim tinh thần về cách nó kết thúc. Hệ thống cảnh báo luôn sôi sục.",
+        "M": "Nửa tin tưởng, nửa kiểm tra. Bạn tổ chức hội thảo nội bộ về những điều nhỏ.",
+        "H": "Bạn tin tưởng chính mối quan hệ. Một chút gió không làm ngôi nhà sụp đổ."
       }
     },
     "E2": {
       "name": "Đầu Tư Cảm Xúc",
-      "model": "Cảm Xúc",
+      "model": "Cảm xúc",
       "levels": {
-        "L": "Bạn giữ lại. Cánh cửa không đóng – chỉ là kiểm tra an ninh kỹ lưỡng thôi.",
-        "M": "Bạn sẽ đầu tư, nhưng bạn giữ một túi sau. Không chơi tất tay.",
-        "H": "Một khi bạn đã vào, bạn đã vào – thời gian, năng lượng, sự tập trung, tất cả."
+        "L": "Bạn giữ lại. Cánh cửa không đóng – chỉ là kiểm tra an ninh kỹ lưỡng.",
+        "M": "Bạn sẽ đầu tư, nhưng bạn giữ một chiếc túi sau. Không bao giờ bỏ hết.",
+        "H": "Một khi bạn đã vào cuộc, bạn hết lòng – thời gian, năng lượng, tập trung, tất cả."
       }
     },
     "E3": {
-      "name": "Ranh Giới & Sự Phụ Thuộc",
-      "model": "Cảm Xúc",
+      "name": "Ranh Giới và Phụ Thuộc",
+      "model": "Cảm xúc",
       "levels": {
-        "L": "Bạn sẽ bám víu và bạn sẽ bị bám víu. Sự ấm áp trong mối quan hệ rất quan trọng.",
-        "M": "Cả sự gần gũi và độc lập – có thể điều chỉnh, tùy từng trường hợp.",
-        "H": "Bạn cần không gian riêng. Ngay cả với tình yêu, một số vùng đất vẫn là của riêng bạn."
+        "L": "Bạn sẽ bám víu và bạn sẽ được bám vào. Sự ấm áp trong mối quan hệ rất quan trọng.",
+        "M": "Cả gần gũi và độc lập – điều chỉnh tùy trường hợp.",
+        "H": "Bạn cần không gian riêng của mình. Ngay cả khi yêu, một số nơi vẫn là của riêng bạn."
       }
     },
     "A1": {
-      "name": "Thế Giới Quan",
-      "model": "Thái Độ",
+      "name": "Cái Nhìn Thế Giới",
+      "model": "Thái độ",
       "levels": {
-        "L": "Bộ lọc mặc định là nghi ngờ. Nghi ngờ trước, tiếp cận sau.",
-        "M": "Không ngây thơ, không phải là một nhà lý thuyết âm mưu hoàn toàn. Quan sát là chế độ tự nhiên của bạn.",
-        "H": "Bạn có xu hướng tin rằng mọi người có ý tốt cho đến khi được chứng minh ngược lại."
+        "L": "Lọc mặc định là nghi ngờ. Nghi ngờ đầu tiên, tiếp cận sau.",
+        "M": "Không ngây ngô, không phải là chuyên gia âm mưu đầy đủ. Quan sát là cách tự nhiên của bạn.",
+        "H": "Bạn có xu hướng tin rằng mọi người có ý tốt cho đến khi chứng minh ngược lại."
       }
     },
     "A2": {
       "name": "Quy Tắc vs. Linh Hoạt",
-      "model": "Thái Độ",
+      "model": "Thái độ",
       "levels": {
-        "L": "Các quy tắc là tùy chọn khi sự thoải mái và tự do không phải vậy.",
-        "M": "Bạn sẽ tuân theo quy tắc quan trọng. Bạn sẽ uốn cong cái không quan trọng.",
-        "H": "Trật tự cảm thấy đúng. Bạn thà chạy quy trình hơn là ứng biến."
-      }
-    },
-    "A3": {
-      "name": "Ý Nghĩa Cuộc Sống",
-      "model": "Thái Độ",
-      "levels": {
-        "L": "Ý nghĩa chạy thấp. Rất nhiều thứ cảm thấy như bạn chỉ đang trải qua các động tác.",
-        "M": "Vài ngày bạn có một nhiệm vụ, vài ngày bạn chỉ đang chill. Triết lý chỉ khởi động một nửa.",
-        "H": "Bạn đại khái biết mình đang đi về hướng nào và tại sao."
-      }
-    },
-    "Ac1": {
-      "name": "Động Lực",
-      "model": "Thúc Đẩy Hành Động",
-      "levels": {
-        "L": "Tránh rủi ro bùng nổ trước khi tham vọng kịp nhen nhóm. 'Đừng đâm' hơn 'chiến thắng'.",
-        "M": "Đôi khi bạn muốn thắng; đôi khi bạn chỉ muốn không bị làm phiền.",
-        "H": "Kết quả, tiến bộ, chuyển động về phía trước – đó là những gì thắp sáng bạn."
-      }
-    },
-    "Ac2": {
-      "name": "Phong Cách Quyết Định",
-      "model": "Thúc Đẩy Hành Động",
-      "levels": {
-        "L": "Ủy ban nội bộ của bạn chạy dài. Mọi quyết định đều được xem xét lại.",
-        "M": "Bạn sẽ cân nhắc, nhưng bạn không treo. Do dự bình thường.",
-        "H": "Bạn quyết định nhanh chóng và không tranh cãi lại. Tiếp theo."
-      }
-    },
-    "Ac3": {
-      "name": "Chế Độ Thực Thi",
-      "model": "Thúc Đẩy Hành Động",
-      "levels": {
-        "L": "Bạn và thời hạn có một mối quan hệ sâu sắc. Càng muộn, bạn càng thức dậy.",
-        "M": "Bạn có thể làm công việc, nhưng trạng thái khác nhau. Đôi khi nhất quán, đôi khi lướt sóng.",
-        "H": "Những thứ chưa hoàn thành cảm thấy như dằm. Bạn đẩy cho đến khi chúng được thực hiện."
-      }
-    },
-    "So1": {
-      "name": "Khởi Xướng Xã Hội",
-      "model": "Xã Hội",
-      "levels": {
-        "L": "Khởi động chậm. 'Thực hiện bước đầu tiên' cần một cuộc nói chuyện khích lệ tinh thần bên trong.",
-        "M": "Bạn sẽ tham gia nếu ai đó tham gia. Bạn không ép buộc nó.",
-        "H": "Bạn sẽ mở phòng. Nổi bật giữa đám đông không làm bạn bối rối."
-      }
-    },
-    "So2": {
-      "name": "Ranh Giới Cá Nhân",
-      "model": "Xã Hội",
-      "levels": {
-        "L": "Bạn thích sự gần gũi và hợp nhất. Một khi ai đó đã vào, họ sẽ vào vòng trong nhanh chóng.",
-        "M": "Bạn muốn sự gần gũi và một chút khoảng cách. Tùy thuộc vào người.",
-        "H": "Ranh giới của bạn là có thật. Quá gần kích hoạt một bước lùi bản năng."
-      }
-    },
-    "So3": {
-      "name": "Biểu Đạt & Tính Xác Thực",
-      "model": "Xã Hội",
-      "levels": {
-        "L": "Bạn trực tiếp. Những gì trong đầu sẽ ra khỏi miệng, về cơ bản là không được lọc.",
-        "M": "Bạn đọc phòng. Tính xác thực và lịch sự được định lượng khi cần thiết.",
-        "H": "Bạn thông thạo việc chuyển đổi mã. 'Con người thật của bạn' được giải phóng theo từng lớp."
-      }
+        "L": "Quy tắc là tùy chọn khi thoải mái và tự do không phải là.",
+        "M": "Bạn sẽ tuân theo quy tắc quan trọng. Bạn sẽ uốn cong cái không."
+      },
+      "H": "Trật tự có vẻ đúng. Bạn thích vận hành theo quá trình hơn là ứng biến."
+    }
+  },
+  "A3": {
+    "name": "Cảm Nhận Ý Nghĩa",
+    "model": "Thái độ",
+    "levels": {
+      "L": "Ý nghĩa chảy xuống thấp. Nhiều thứ cảm thấy như bạn chỉ đang đi qua những động tác.",
+      "M": "Đôi khi bạn có một sứ mệnh, đôi khi bạn chỉ đang cảm nhận. Triết lý chỉ cài động nửa chừng.",
+      "H": "Bạn đại khái biết hướng đi, và vì sao."
+    }
+  },
+  "Ac1": {
+    "name": "Động Lực",
+    "model": "Động lực Hành động",
+    "levels": {
+      "L": "Tránh rủi ro hoạt động trước tham vọng. 'Đừng gặp nạn' đánh bại 'chiến thắng'.",
+      "M": "Đôi khi bạn muốn chiến thắng; đôi khi bạn chỉ muốn không bị quấy rầy.",
+      "H": "Kết quả, tiến bộ, chuyển động – đó là những gì làm bạn hứng thú."
+    }
+  },
+  "Ac2": {
+    "name": "Phong Cách Quyết Định",
+    "model": "Động lực Hành động",
+    "levels": {
+      "L": "Hội đồng nội bộ của bạn chạy lâu. Mỗi quyết định đều được xem xét lại.",
+      "M": "Bạn sẽ cân nhắc, nhưng không đình trệ. Do dự bình thường.",
+      "H": "Bạn quyết định nhanh và không tái xét. Tiếp theo."
+    }
+  },
+  "Ac3": {
+    "name": "Chế Độ Thực Thi",
+    "model": "Động lực Hành động",
+    "levels": {
+      "L": "Bạn và thời hạn có một mối quan hệ sâu sắc. Càng trễ, bạn càng tỉnh táo.",
+      "M": "Bạn có thể thực hiện công việc, nhưng trạng thái thay đổi. Đôi khi nhất quán, đôi khi trôi dạt.",
+      "H": "Những thứ chưa hoàn thành giống như dằm gai. Bạn thúc đẩy cho đến khi xong."
+    }
+  },
+  "So1": {
+    "name": "Sáng Kiến Xã Hội",
+    "model": "Xã hội",
+    "levels": {
+      "L": "Khởi động chậm hơn. 'Làm bước đầu tiên' cần cả một cuộc nói chuyện khích lệ bên trong.",
+      "M": "Bạn sẽ tham gia nếu ai đó tham gia. Bạn không ép buộc.",
+      "H": "Bạn sẽ mở đầu căn phòng. Nổi bật trong đám đông không làm bạn bối rối."
+    }
+  },
+  "So2": {
+    "name": "Biên Giới Liên Cá Nhân",
+    "model": "Xã hội",
+    "levels": {
+      "L": "Bạn thích sự gần gũi và hòa nhập. Một khi ai đó đã vào, họ nhanh chóng thuộc vòng trong.",
+      "M": "Bạn muốn gần gũi và một chút khoảng cách. Tùy thuộc vào người khác.",
+      "H": "Biên giới của bạn là thật. Quá gần kích hoạt bản năng lùi bước."
+    }
+  },
+  "So3": {
+    "name": "Biểu Đạt & Tính Chân Thật",
+    "model": "Xã hội",
+    "levels": {
+      "L": "Bạn thẳng thắn. Cái trong đầu đi ra miệng, hầu như không lọc.",
+      "M": "Bạn đọc căn phòng. Tính chân thật và sự lịch sự được điều chỉnh khi cần.",
+      "H": "Bạn thông thạo chuyển đổi mã. 'Con người thật của bạn' được phát hành theo từng lớp."
     }
   },
   "main": [
     {
       "id": "q1",
       "dim": "S1",
-      "text": "Tôi là một con chuột trong bóng tối, một con gián bò lổm ngổm. Tôi chưa bao giờ yêu. Tôi nhút nhát và bất an. Tuổi trẻ của tôi là hết giấc mơ này đến giấc mơ khác – tưởng tượng một người yêu tôi, lang thang trên đường phố với tôi, đi chơi với tôi. Thực tế là: Tôi tiêu tiền của bố mẹ vào việc học, tôi tốt nghiệp, tôi cày cuốc một công việc, tôi theo đuổi 'mục tiêu'. Mỗi khi tôi thấy những người khác pha trò vui vẻ trên mạng, tôi muốn khóc. Tôi ghen tị với những điều tốt đẹp nhỏ nhặt trong cuộc sống và tôi vẫn đang tìm kiếm phương hướng của mình. Xin hãy cho những người trong chúng ta ẩn mình dưới chăn có một lối thoát. Tôi thực sự không muốn làm ướt gối bằng nước mắt nữa.",
+      "text": "Tôi là chuột trong bóng tối, một con gián bò. Tôi chưa bao giờ yêu. Tôi nhát gan và bất an. Tuổi trẻ của tôi là những mộng mơ hão huyền — tưởng tượng ai đó yêu tôi, lang thang cùng tôi trên phố, đi chơi với tôi. Thực tế là: Tôi tiêu tiền bố mẹ cho học hành, tốt nghiệp, làm việc chăm chỉ, đuổi theo \"mục tiêu.\" Mỗi khi thấy người khác đùa vui trên mạng, tôi muốn khóc. Tôi ghen tị với những điều nhỏ nhặt tốt đẹp trong cuộc sống và tôi vẫn đang tìm kiếm hướng đi của mình. Xin hãy cho những người trong chúng ta đang nấp dưới chăn một lối ra. Tôi thật sự không muốn ngâm gối trong nước mắt nữa.",
       "options": [
         {
           "label": "Tôi đã khóc khi đọc cái này…",
           "value": 1
         },
         {
-          "label": "Cái… gì đây?",
+          "label": "Cái gì… đây?",
           "value": 2
         },
         {
-          "label": "Đó KHÔNG phải là tôi!",
+          "label": "Đó không phải tôi!",
           "value": 3
         }
       ]
@@ -167,7 +224,7 @@
     {
       "id": "q2",
       "dim": "S1",
-      "text": "Tôi không đủ giỏi. Mọi người xung quanh tôi đều có năng lực hơn tôi.",
+      "text": "Tôi không đủ giỏi. Mọi người xung quanh tôi đều giỏi hơn tôi.",
       "options": [
         {
           "label": "Đúng",
@@ -186,7 +243,7 @@
     {
       "id": "q3",
       "dim": "S2",
-      "text": "Tôi có một cảm giác rõ ràng về con người thật của mình.",
+      "text": "Tôi có cảm giác rõ rệt về mình thực sự là ai.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -205,7 +262,7 @@
     {
       "id": "q4",
       "dim": "S2",
-      "text": "Có một điều gì đó tôi thực sự muốn từ cuộc sống.",
+      "text": "Có điều mà tôi thực sự muốn từ cuộc sống.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -224,7 +281,7 @@
     {
       "id": "q5",
       "dim": "S3",
-      "text": "Tôi cần tiếp tục leo lên và tiếp tục trở nên tốt hơn.",
+      "text": "Tôi cần tiếp tục leo thang và không ngừng cải thiện.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -243,7 +300,7 @@
     {
       "id": "q6",
       "dim": "S3",
-      "text": "Ý kiến của người lạ về tôi thực sự không quan trọng đối với tôi.",
+      "text": "Ý kiến của người lạ về tôi thực sự không ảnh hưởng đến tôi.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -262,18 +319,18 @@
     {
       "id": "q7",
       "dim": "E1",
-      "text": "Đối tác của bạn đã không trả lời bạn trong hơn 5 giờ. Cuối cùng họ nói rằng họ 'bị tiêu chảy suốt thời gian đó'. Phản ứng trung thực của bạn?",
+      "text": "Người yêu chưa trả lời bạn trong hơn 5 giờ. Cuối cùng họ nói rằng họ \"tiêu chảy suốt thời gian.\" Phản ứng chân thật của bạn?",
       "options": [
         {
-          "label": "Tiêu chảy không thể kéo dài 5 tiếng. Họ đang giấu giếm điều gì đó.",
+          "label": "Tiêu chảy không thể kéo dài 5 giờ. Họ đang giấu điều gì đó.",
           "value": 1
         },
         {
-          "label": "Mắc kẹt ở đâu đó giữa tin tưởng và nghi ngờ.",
+          "label": "Giằng co giữa tin tưởng và nghi ngờ.",
           "value": 2
         },
         {
-          "label": "Có lẽ hôm nay họ thực sự không khỏe.",
+          "label": "Có thể họ thực sự không khỏe hôm nay.",
           "value": 3
         }
       ]
@@ -281,7 +338,7 @@
     {
       "id": "q8",
       "dim": "E1",
-      "text": "Tôi thường lo lắng về việc bị bỏ rơi trong các mối quan hệ.",
+      "text": "Tôi thường lo lắng về bị bỏ rơi trong các mối quan hệ.",
       "options": [
         {
           "label": "Có",
@@ -300,10 +357,10 @@
     {
       "id": "q9",
       "dim": "E2",
-      "text": "Đặt tay lên tim – Tôi coi trọng mọi mối quan hệ mà tôi tham gia.",
+      "text": "Đặt tay lên tim — tôi xem trọng mọi mối quan hệ mà tôi có.",
       "options": [
         {
-          "label": "…Không hẳn.",
+          "label": "…Thật ra không lắm.",
           "value": 1
         },
         {
@@ -311,7 +368,7 @@
           "value": 2
         },
         {
-          "label": "Có! (mặt thanh thản)",
+          "label": "Có! (mặt vô tư)",
           "value": 3
         }
       ]
@@ -319,18 +376,18 @@
     {
       "id": "q10",
       "dim": "E2",
-      "text": "Đối tác của bạn: tốt bụng với người lớn tuổi, yêu thương trẻ em, dịu dàng, danh dự, hoạt ngôn, dí dỏm, tinh ý, đọc rộng, kiên nhẫn với người mới bắt đầu, thân thiện, khiêm tốn, đầy tham vọng, rạng rỡ, quyến rũ đến chết người, đẹp đến mức làm rung chuyển cả quốc gia. Điều gì xảy ra với bạn?",
+      "text": "Người yêu của bạn là: tử tế với người già, yêu thương trẻ nhỏ, dịu dàng, chính trực, mạch lạc, hóm hỉnh, quan sát tinh tế, đọc rộng, kiên nhẫn với người mới bắt đầu, thân thiện, khiêm tốn, tham vọng, rạng rỡ, vô cùng hấp dẫn, đẹp đến mức như làm đổ quốc gia. Bạn phản ứng như thế nào?",
       "options": [
         {
-          "label": "Dù họ có hoàn hảo đến đâu, tôi cũng sẽ không yêu quá sâu.",
+          "label": "Dù họ hoàn hảo đến mấy, tôi sẽ không chìm quá sâu.",
           "value": 1
         },
         {
-          "label": "Ở đâu đó giữa A và C.",
+          "label": "Đâu đó giữa A và C.",
           "value": 2
         },
         {
-          "label": "Tôi sẽ trân trọng họ hoàn toàn. Đúng, tôi sẽ trở thành một kẻ ngốc tuyệt đối trong tình yêu.",
+          "label": "Tôi sẽ trân trọng họ hoàn toàn. Có, tôi sẽ trở thành kẻ si tình ngốc nghếch.",
           "value": 3
         }
       ]
@@ -338,18 +395,18 @@
     {
       "id": "q11",
       "dim": "E3",
-      "text": "Bạn đang hẹn hò với một người rất bám víu. Ý kiến của bạn?",
+      "text": "Bạn đang hẹn hò với người rất bám dính. Quan điểm của bạn?",
       "options": [
         {
-          "label": "Thực ra điều đó rất tuyệt.",
+          "label": "Thật ra, điều đó tuyệt đấy.",
           "value": 1
         },
         {
-          "label": "Sao cũng được.",
+          "label": "Sao cũng được, dù thế nào cũng xong.",
           "value": 2
         },
         {
-          "label": "Tôi thích giữ không gian riêng của mình hơn.",
+          "label": "Tôi thích giữ không gian riêng của mình.",
           "value": 3
         }
       ]
@@ -357,14 +414,14 @@
     {
       "id": "q12",
       "dim": "E3",
-      "text": "Tôi coi trọng không gian cá nhân trong mọi mối quan hệ.",
+      "text": "Tôi đánh giá cao không gian cá nhân trong mọi mối quan hệ.",
       "options": [
         {
-          "label": "Tôi thích phụ thuộc và được phụ thuộc vào.",
+          "label": "Tôi thích dựa vào và được dựa vào.",
           "value": 1
         },
         {
-          "label": "Tùy thuộc.",
+          "label": "Còn tùy.",
           "value": 2
         },
         {
@@ -379,15 +436,15 @@
       "text": "Hầu hết mọi người đều tốt.",
       "options": [
         {
-          "label": "Thành thật mà nói? Có nhiều điều ác trong trái tim con người hơn là trĩ trên thế giới.",
+          "label": "Thành thật mà nói? Trong lòng người còn nhiều cái ác hơn cả mụn nhọt trên thế giới.",
           "value": 1
         },
         {
-          "label": "Có lẽ.",
+          "label": "Có thể.",
           "value": 2
         },
         {
-          "label": "Có, tôi chọn tin rằng người tốt đông hơn người xấu.",
+          "label": "Có, tôi chọn tin là người tốt nhiều hơn người xấu.",
           "value": 3
         }
       ]
@@ -395,10 +452,10 @@
     {
       "id": "q14",
       "dim": "A1",
-      "text": "Bạn đang đi bộ trên đường. Một cô bé đáng yêu (dễ thương từ mọi góc độ, dễ thương trên mọi camera điện thoại, thực sự dễ thương) chạy lon ton đến bạn và đưa cho bạn một cây kẹo mút. Bạn cảm thấy thế nào?",
+      "text": "Bạn đang đi bộ trên đường. Một bé gái đáng yêu (đẹp từ mọi góc độ, chụp camera điện thoại nào cũng dễ thương) nhảy tới và đưa cho bạn một cây kẹo mút. Bạn cảm thấy sao?",
       "options": [
         {
-          "label": "Awwww cô bé thật ngọt ngào và dễ thương! Cô bé ĐÃ cho tôi một cây kẹo mút!",
+          "label": "Awwww, cô bé thật ngọt ngào và dễ thương! Cô ấy ĐÃ đưa tôi một cây kẹo mút!",
           "value": 3
         },
         {
@@ -406,7 +463,7 @@
           "value": 2
         },
         {
-          "label": "Đây có thể là một loại lừa đảo mới? Đi chỗ khác, đề phòng.",
+          "label": "Đây có thể là một kiểu lừa đảo mới chăng? Đi tránh xa, cho chắc.",
           "value": 1
         }
       ]
@@ -414,18 +471,18 @@
     {
       "id": "q15",
       "dim": "A2",
-      "text": "Kỳ thi cuối kỳ đang đến gần. Trường yêu cầu các buổi học buổi tối; bỏ học sẽ bị trừ điểm. Tuy nhiên, tối nay, crush của bạn mời bạn chơi game Liên Quân Mobile yêu thích của bạn. Bạn làm gì?",
+      "text": "Thi cuối kỳ sắp đến. Trường học bắt buộc các buổi học tối; bỏ qua sẽ mất điểm. Nhưng tối nay, người bạn thích mời bạn chơi game online yêu thích. Bạn làm gì?",
       "options": [
         {
-          "label": "Bỏ! Chỉ lần này thôi!",
+          "label": "Bỏ học! Chỉ một lần này thôi!",
           "value": 1
         },
         {
-          "label": "Xin phép nghỉ.",
+          "label": "Xin nghỉ phép.",
           "value": 2
         },
         {
-          "label": "Kỳ thi cuối kỳ sắp đến rồi, tôi không đi đâu cả.",
+          "label": "Thi cuối kỳ đúng là gần kề rồi, tôi không đi đâu cả.",
           "value": 3
         }
       ]
@@ -433,7 +490,7 @@
     {
       "id": "q16",
       "dim": "A2",
-      "text": "Tôi thích phá vỡ thói quen và tôi không thích bị gò bó.",
+      "text": "Tôi thích phá vỡ thói quen và không thích bị gò bó.",
       "options": [
         {
           "label": "Đồng ý",
@@ -452,7 +509,7 @@
     {
       "id": "q17",
       "dim": "A3",
-      "text": "Tôi thường làm mọi việc với một mục tiêu trong đầu.",
+      "text": "Tôi thường làm mọi thứ với một mục tiêu trong đầu.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -471,18 +528,18 @@
     {
       "id": "q18",
       "dim": "A3",
-      "text": "Một ngày nọ, bạn nhận ra: cuộc sống có ý nghĩa thực sự gì? Theo một nghĩa nào đó, con người chỉ là động vật bị thúc đẩy bởi những thôi thúc, bị kiểm soát bởi hormone – đói thì ăn, mệt thì ngủ. Chỉ là một dạng sống ngu si đần độn, cấp thấp. Về cơ bản không khác gì mèo và chó.",
+      "text": "Có một ngày, bạn tự hỏi: rốt cuộc thì cuộc sống có ý nghĩa gì? Ở một khía cạnh nào đó, con người cũng chỉ là động vật bị thôi thúc bởi bản năng, điều khiển bởi hormone — đói thì ăn, mệt thì ngủ. Chỉ là một dạng sống đơn điệu, thấp kém. Về bản chất không khác gì mèo và chó.",
       "options": [
         {
           "label": "Ừ, gần như vậy.",
           "value": 1
         },
         {
-          "label": "Có thể đi theo cả hai hướng.",
+          "label": "Có thể là vậy.",
           "value": 2
         },
         {
-          "label": "Thật vô nghĩa.",
+          "label": "Vớ vẩn.",
           "value": 3
         }
       ]
@@ -490,7 +547,7 @@
     {
       "id": "q19",
       "dim": "Ac1",
-      "text": "Tôi làm mọi việc chủ yếu để đạt được kết quả và phát triển, không phải để tránh rắc rối và rủi ro.",
+      "text": "Tôi làm việc chủ yếu để đạt được kết quả và phát triển, không phải để tránh rắc rối và rủi ro.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -509,18 +566,18 @@
     {
       "id": "q20",
       "dim": "Ac1",
-      "text": "Bạn đã ngồi trên bồn cầu 30 phút, táo bón, không có gì xảy ra. Bạn giống:",
+      "text": "Bạn đã ngồi trên toilet 30 phút, táo bón, không có gì xảy ra. Bạn giống nhất với:",
       "options": [
         {
-          "label": "Ngồi thêm 30 phút nữa. Nó có thể đến.",
+          "label": "Ngồi thêm 30 phút nữa. Có thể sẽ đến.",
           "value": 1
         },
         {
-          "label": "Tát vào mông và nói 'ra đi, chết tiệt, ra!'",
+          "label": "Vỗ vào mông và nói 'ra đi, chết tiệt, ra!'",
           "value": 2
         },
         {
-          "label": "Đi lấy thuốc nhuận tràng. Cho xong chuyện.",
+          "label": "Đi lấy thuốc nhuận tràng. Cho xong đi.",
           "value": 3
         }
       ]
@@ -528,7 +585,7 @@
     {
       "id": "q21",
       "dim": "Ac2",
-      "text": "Tôi quyết định dứt khoát. Tôi không thích do dự.",
+      "text": "Tôi quyết định quyết đoán. Tôi không thích chần chừ.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -547,10 +604,10 @@
     {
       "id": "q22",
       "dim": "Ac2",
-      "text": "Câu hỏi này không có câu hỏi. Vui lòng đoán mò.",
+      "text": "Câu hỏi này không có câu hỏi. Hãy đoán ngẫu nhiên.",
       "options": [
         {
-          "label": "Tôi đã suy nghĩ rất kỹ và tôi nghĩ tôi nên chọn A?",
+          "label": "Tôi đã suy nghĩ rất kỹ và tôi nghĩ mình nên chọn A?",
           "value": 1
         },
         {
@@ -566,14 +623,14 @@
     {
       "id": "q23",
       "dim": "Ac3",
-      "text": "Khi mọi người nói 'bạn có khả năng thực thi mạnh mẽ', phản ứng bên trong trung thực của bạn là:",
+      "text": "Khi người khác nói 'bạn có khả năng thực thi mạnh mẽ', phản ứng thành thật trong bạn là:",
       "options": [
         {
-          "label": "Khi tôi bị dồn vào chân tường, ừ, khả năng thực thi của tôi SIÊU mạnh mẽ…",
+          "label": "Khi bị đẩy vào chân tường, đúng, khả năng thực thi của tôi là SIÊU mạnh…",
           "value": 1
         },
         {
-          "label": "Ờ, đôi khi.",
+          "label": "Ờ, thi thoảng.",
           "value": 2
         },
         {
@@ -588,15 +645,15 @@
       "text": "Tôi thường lên kế hoạch cho mọi thứ, ____",
       "options": [
         {
-          "label": "nhưng kế hoạch không bao giờ tồn tại được trong thực tế.",
+          "label": "nhưng kế hoạch không bao giờ tồn tại trong thực tế.",
           "value": 1
         },
         {
-          "label": "đôi khi tôi hoàn thành chúng, đôi khi không.",
+          "label": "đôi khi tôi hoàn thành, đôi khi không.",
           "value": 2
         },
         {
-          "label": "và tôi ghét khi kế hoạch của mình bị gián đoạn.",
+          "label": "và tôi ghét khi kế hoạch bị phá vỡ.",
           "value": 3
         }
       ]
@@ -604,18 +661,18 @@
     {
       "id": "q25",
       "dim": "So1",
-      "text": "Bạn đã kết bạn với rất nhiều người trên mạng thông qua một trò chơi bạn yêu thích. Họ mời bạn gặp mặt trực tiếp. Bạn làm gì?",
+      "text": "Bạn đã có nhiều bạn online qua một trò chơi bạn yêu thích. Họ mời bạn gặp mặt trực tiếp. Động thái của bạn?",
       "options": [
         {
-          "label": "Nói chuyện trực tuyến là ổn – gặp IRL khiến tôi lo lắng.",
+          "label": "Nói chuyện trên mạng thì ổn — gặp mặt trực tiếp làm tôi lo lắng.",
           "value": 1
         },
         {
-          "label": "Chắc chắn, gặp mặt là ổn. Ai nói chuyện với tôi, tôi sẽ nói lại.",
+          "label": "Được, gặp thì gặp thôi. Ai nói chuyện với tôi, tôi sẽ nói chuyện lại.",
           "value": 2
         },
         {
-          "label": "Tôi sẽ ăn mặc đẹp và trò chuyện nhiệt tình. Bạn không bao giờ biết. Ý tôi là, bạn KHÔNG BAO GIỜ BIẾT.",
+          "label": "Tôi sẽ ăn mặc đẹp và trò chuyện nhiệt tình. Bạn đâu biết được. Ý tôi là, bạn KHÔNG BAO GIỜ biết được.",
           "value": 3
         }
       ]
@@ -623,18 +680,18 @@
     {
       "id": "q26",
       "dim": "So1",
-      "text": "Bạn của bạn dẫn theo bạn của họ. Trạng thái có khả năng nhất của bạn?",
+      "text": "Bạn của bạn đưa theo người bạn của họ. Tình trạng có khả năng cao nhất của bạn?",
       "options": [
         {
-          "label": "Tôi cảm thấy khoảng cách bản năng với 'bạn của bạn'. Không muốn làm rối tung động lực hai người.",
+          "label": "Tôi cảm thấy khoảng cách tự nhiên với 'bạn của bạn'. Không muốn phá hỏng động lực hai người.",
           "value": 1
         },
         {
-          "label": "Tùy thuộc vào họ. Nếu chúng ta hợp nhau, chúng ta sẽ hợp nhau.",
+          "label": "Còn tùy vào họ. Nếu hòa hợp, thì hòa hợp.",
           "value": 2
         },
         {
-          "label": "Bạn của bạn được tính là bạn của tôi! Đi thôi – chế độ trò chuyện nhiệt tình.",
+          "label": "Bạn của bạn tôi là bạn của tôi! Đi nào — chế độ trò chuyện nhiệt tình.",
           "value": 3
         }
       ]
@@ -642,7 +699,7 @@
     {
       "id": "q27",
       "dim": "So2",
-      "text": "Rung cảm xã hội của tôi về cơ bản là một hàng rào điện. Đến quá gần và báo động sẽ tự động vang lên.",
+      "text": "Khí chất xã hội của tôi khá giống một hàng rào điện. Đến quá gần và chuông báo động tự động phát ra.",
       "options": [
         {
           "label": "Đồng ý",
@@ -661,7 +718,7 @@
     {
       "id": "q28",
       "dim": "So2",
-      "text": "Tôi khao khát sự gần gũi với những người tôi tin tưởng – kiểu gần gũi mà chúng ta cảm thấy như gia đình thất lạc từ lâu.",
+      "text": "Tôi khao khát gần gũi với người tôi tin tưởng — gần gũi tới mức chúng tôi cảm thấy như gia đình thất lạc lâu năm.",
       "options": [
         {
           "label": "Đồng ý",
@@ -680,7 +737,7 @@
     {
       "id": "q29",
       "dim": "So3",
-      "text": "Đôi khi bạn có một ý kiến khác hoặc tiêu cực về điều gì đó, nhưng bạn không nói ra. Lý do chính thường là:",
+      "text": "Đôi khi bạn có ý kiến khác hoặc tiêu cực về một vấn đề, nhưng bạn không nói ra. Lý do chính thường là:",
       "options": [
         {
           "label": "Điều này hiếm khi xảy ra với tôi.",
@@ -691,7 +748,7 @@
           "value": 2
         },
         {
-          "label": "Tôi không muốn mọi người biết tôi có một mặt tối.",
+          "label": "Tôi không muốn người khác biết tôi có một mặt tối.",
           "value": 3
         }
       ]
@@ -699,7 +756,7 @@
     {
       "id": "q30",
       "dim": "So3",
-      "text": "Tôi thể hiện những khía cạnh khác nhau của bản thân cho những người khác nhau.",
+      "text": "Tôi thể hiện các mặt khác nhau của bản thân với từng người.",
       "options": [
         {
           "label": "Không đồng ý",
@@ -723,19 +780,19 @@
       "text": "Sở thích của bạn là gì?",
       "options": [
         {
-          "label": "Ăn uống và thư giãn.",
+          "label": "Ăn và thư giãn.",
           "value": 1
         },
         {
-          "label": "Nghệ thuật và những thứ sáng tạo.",
+          "label": "Nghệ thuật và sáng tạo.",
           "value": 2
         },
         {
-          "label": "Uống rượu.",
+          "label": "Uống.",
           "value": 3
         },
         {
-          "label": "Tập thể dục.",
+          "label": "Tập luyện.",
           "value": 4
         }
       ]
@@ -746,11 +803,11 @@
       "text": "Thái độ của bạn đối với việc uống rượu là gì?",
       "options": [
         {
-          "label": "Một chút thỉnh thoảng. Không có gì nặng nề.",
+          "label": "Thỉnh thoảng một chút. Không quá nặng.",
           "value": 1
         },
         {
-          "label": "Tôi giữ rượu mạnh trong bình giữ nhiệt và uống nó như nước. Rượu nói chuyện với tôi.",
+          "label": "Tôi giữ rượu mạnh trong phích và uống như nước. Rượu nói lên với tôi.",
           "value": 2
         }
       ]

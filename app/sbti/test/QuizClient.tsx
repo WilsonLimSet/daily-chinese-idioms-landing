@@ -1,9 +1,8 @@
 'use client';
 
-import { useEffect, useMemo, useState, useCallback, useRef } from 'react';
+import { useEffect, useMemo, useState, useCallback } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
-import { ArrowLeft, ArrowRight } from 'lucide-react';
 import {
   calcDimensionScores,
   scoresToLevels,
@@ -20,37 +19,42 @@ function typeCodeToSlug(code: string): string {
   return code.toLowerCase().replace(/[^a-z0-9]/g, '');
 }
 
+type UI = {
+  kicker: string;
+  titleLine1: string;
+  titleLine2: string;
+  questionsLabel: string;
+  typesLabel: string;
+  minutesLabel: string;
+  instantResult: string;
+  hiddenInside: string;
+  hiddenInsideDesc: string;
+  beforeBegin: string;
+  socialProof: string;
+  begin: string;
+  resumeFormat: string;
+  startOver: string;
+  progressFormat: string;
+  answeredFormat: string;
+  readAndReact: string;
+  bonusLabel: string;
+  submit: string;
+  submitIncomplete: string;
+  computing: string;
+  restart: string;
+  errorState: string;
+};
+
 type Props = {
   resultBasePath: string;
   typePatterns: TypePattern[];
   main: QuizQuestion[];
   special: SpecialQuestion[];
-  t: {
-    /** Template with {cur} and {total} placeholders, e.g. "Q{cur} / {total}". */
-    progressFormat: string;
-    bonusLabel: string;
-    back: string;
-    next: string;
-    submit: string;
-    restart: string;
-    computing: string;
-    readAndReact: string;
-    /** Template with {cur} and {total} placeholders. */
-    resumeFormat: string;
-    startOver: string;
-    errorState: string;
-    intro: {
-      title: string;
-      subtitle: string;
-      attribution: string;
-      disclaimer: string;
-      start: string;
-      questionCount: string;
-      duration: string;
-      socialProof?: string;
-    };
-  };
+  subtitle: string;
+  disclaimer: string;
+  ui: UI;
   dir?: 'ltr' | 'rtl';
+  backHref: string;
 };
 
 type UIQuestion =
@@ -74,35 +78,39 @@ function getOrCreateSeed(): number {
   }
 }
 
+function fmt(template: string, vars: Record<string, string | number>): string {
+  return template.replace(/\{(\w+)\}/g, (_, k) => String(vars[k] ?? ''));
+}
+
 export default function QuizClient({
   resultBasePath,
   typePatterns,
   main,
   special,
-  t,
+  subtitle,
+  disclaimer,
+  ui,
   dir = 'ltr',
+  backHref,
 }: Props) {
   const router = useRouter();
   const [started, setStarted] = useState(false);
   const [hydrated, setHydrated] = useState(false);
   const [answers, setAnswers] = useState<Answers>({});
-  const [idx, setIdx] = useState(0);
   const [seed, setSeed] = useState(0);
   const [submitting, setSubmitting] = useState(false);
   const [savedHasProgress, setSavedHasProgress] = useState(false);
-  const questionHeadingRef = useRef<HTMLParagraphElement | null>(null);
 
   useEffect(() => {
     setSeed(getOrCreateSeed());
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (raw) {
-        const parsed = JSON.parse(raw) as { answers?: Answers; idx?: number };
+        const parsed = JSON.parse(raw) as { answers?: Answers };
         if (parsed.answers && Object.keys(parsed.answers).length > 0) {
           setAnswers(parsed.answers);
           setSavedHasProgress(true);
         }
-        if (typeof parsed.idx === 'number') setIdx(parsed.idx);
       }
     } catch {}
     setHydrated(true);
@@ -111,9 +119,9 @@ export default function QuizClient({
   useEffect(() => {
     if (!hydrated || typeof window === 'undefined') return;
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify({ answers, idx }));
+      localStorage.setItem(STORAGE_KEY, JSON.stringify({ answers }));
     } catch {}
-  }, [answers, idx, hydrated]);
+  }, [answers, hydrated]);
 
   const drinkGateIdx = useMemo(
     () => drinkGatePosition(seed || 0, main.length),
@@ -136,34 +144,33 @@ export default function QuizClient({
     return arr;
   }, [main, drinkGateQ1, drinkGateQ2, drinkGateIdx, showDrinkTrigger]);
 
-  const total = flow.length;
-  const current = flow[Math.min(idx, Math.max(0, total - 1))];
-  const isSpecial = current?.kind === 'special';
   const mainCount = main.length;
-  const mainAnswered = current?.kind === 'main' ? current.mainIdx + 1 : null;
-  const progressPct = Math.round(((idx + 1) / total) * 100);
+  const mainAnsweredCount = main.filter(q => answers[q.id] != null).length;
+  const gateAnswered = !drinkGateQ1 || answers[drinkGateQ1.id] != null;
+  const triggerAnswered = !showDrinkTrigger || (drinkGateQ2 && answers[drinkGateQ2.id] != null);
+  const allAnswered = mainAnsweredCount === mainCount && gateAnswered && triggerAnswered;
+  const remainingMain = mainCount - mainAnsweredCount + (gateAnswered ? 0 : 1);
+  const progressPct = Math.round((mainAnsweredCount / mainCount) * 100);
+  const firstUnansweredIdx = main.findIndex(q => answers[q.id] == null);
 
-  const pick = useCallback(
-    (value: number) => {
-      if (!current) return;
-      setAnswers(prev => ({ ...prev, [current.q.id]: value }));
-    },
-    [current]
-  );
+  const pick = useCallback((qid: string, value: number) => {
+    setAnswers(prev => ({ ...prev, [qid]: value }));
+  }, []);
 
   const startOver = useCallback(() => {
     try {
       localStorage.removeItem(STORAGE_KEY);
     } catch {}
     setAnswers({});
-    setIdx(0);
     setStarted(true);
+    setTimeout(() => {
+      const el = document.getElementById('q-top');
+      el?.scrollIntoView({ behavior: 'auto', block: 'start' });
+    }, 0);
   }, []);
 
-  const canNext = current ? answers[current.q.id] != null : false;
-  const isLast = idx >= total - 1;
-
   const submit = useCallback(() => {
+    if (!allAnswered) return;
     setSubmitting(true);
     const dimensionScores = calcDimensionScores(answers, main);
     const userLevels = scoresToLevels(dimensionScores);
@@ -179,56 +186,40 @@ export default function QuizClient({
       params.set('sec', typeCodeToSlug(result.secondary.code));
     }
     router.push(`${resultBasePath}/${slug}?${params.toString()}`);
-  }, [answers, drinkGateQ2, main, typePatterns, router, resultBasePath]);
+  }, [allAnswered, answers, drinkGateQ2, main, typePatterns, router, resultBasePath]);
 
-  const goNext = useCallback(() => {
-    if (!canNext) return;
-    if (isLast) {
-      submit();
-      return;
+  // Auto-scroll to next unanswered question when user picks an answer.
+  const onPick = useCallback(
+    (qid: string, value: number) => {
+      pick(qid, value);
+      // Find next question in visible flow and scroll to it
+      const currentFlowIdx = flow.findIndex(x => x.q.id === qid);
+      if (currentFlowIdx < 0 || currentFlowIdx >= flow.length - 1) return;
+      // Delay so the state update + any dynamic insertion (drink trigger) resolves
+      setTimeout(() => {
+        const nextItem = flow[currentFlowIdx + 1];
+        if (!nextItem) return;
+        const el = document.getElementById(`q-${nextItem.q.id}`);
+        if (el) {
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }, 180);
+    },
+    [pick, flow]
+  );
+
+  const scrollToFirstUnanswered = useCallback(() => {
+    const first = flow.find(f => answers[f.q.id] == null);
+    if (first) {
+      const el = document.getElementById(`q-${first.q.id}`);
+      el?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
-    setIdx(i => i + 1);
-  }, [canNext, isLast, submit]);
+  }, [flow, answers]);
 
-  const goBack = useCallback(() => {
-    setIdx(i => Math.max(0, i - 1));
-  }, []);
-
-  useEffect(() => {
-    if (!started) return;
-    questionHeadingRef.current?.focus();
-  }, [idx, started]);
-
-  useEffect(() => {
-    if (!started) return;
-    function onKey(e: KeyboardEvent) {
-      if (e.target instanceof HTMLButtonElement && e.target.getAttribute('role') === 'radio') {
-        return;
-      }
-      if (e.key === 'Enter') {
-        e.preventDefault();
-        goNext();
-      } else if (e.key === 'ArrowLeft') {
-        if (dir === 'rtl') goNext();
-        else goBack();
-      } else if (e.key === 'ArrowRight') {
-        if (dir === 'rtl') goBack();
-        else goNext();
-      } else if (/^[1-4]$/.test(e.key)) {
-        const n = parseInt(e.key, 10);
-        const opt = current?.q.options[n - 1];
-        if (opt) pick(opt.value);
-      }
-    }
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
-  }, [started, goNext, goBack, dir, current, pick]);
-
-  // ---- Intro view ---------------------------------------------------------
+  // -- Intro -----------------------------------------------------------------
   if (!started) {
     return (
       <div dir={dir}>
-        {/* Hero */}
         <section className="relative overflow-hidden bg-gray-950 text-white">
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(185,28,28,0.18),transparent_60%)]" />
           <div className="pointer-events-none absolute -top-10 end-0 select-none text-[18rem] font-bold leading-none tracking-tight text-white/[0.03] md:text-[22rem]">
@@ -236,7 +227,7 @@ export default function QuizClient({
           </div>
           <nav className="relative mx-auto max-w-3xl px-6 pt-6">
             <Link
-              href="/sbti"
+              href={backHref}
               className="inline-flex items-center gap-2 text-sm text-white/50 transition-colors hover:text-white/80"
             >
               ← SBTI
@@ -244,59 +235,55 @@ export default function QuizClient({
           </nav>
           <div className="relative mx-auto max-w-3xl px-6 pt-12 pb-20 md:pt-16 md:pb-24">
             <p className="mb-6 text-xs font-medium uppercase tracking-[0.25em] text-white/40">
-              The Personality Test · Apr 2026
+              {ui.kicker}
             </p>
             <h1 className="text-4xl font-bold leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl">
-              Silly Behavioral
+              {ui.titleLine1}
               <br />
-              <span className="text-red-400">Type Indicator</span>
+              <span className="text-red-400">{ui.titleLine2}</span>
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-white/60">
-              {t.intro.subtitle}
+              {subtitle}
             </p>
 
-            {/* Meta strip */}
             <div className="mt-10 flex flex-wrap items-center gap-x-6 gap-y-3 text-sm">
               <div className="flex items-center gap-2 text-white/50">
                 <span className="h-1 w-1 rounded-full bg-red-400" />
-                30 questions
+                30 {ui.questionsLabel}
               </div>
               <div className="flex items-center gap-2 text-white/50">
                 <span className="h-1 w-1 rounded-full bg-red-400" />
-                27 types
+                27 {ui.typesLabel}
               </div>
               <div className="flex items-center gap-2 text-white/50">
                 <span className="h-1 w-1 rounded-full bg-red-400" />
-                ~5 minutes
+                ~5 {ui.minutesLabel}
               </div>
               <div className="flex items-center gap-2 text-white/50">
                 <span className="h-1 w-1 rounded-full bg-red-400" />
-                Instant result
+                {ui.instantResult}
               </div>
             </div>
 
-            {t.intro.socialProof && (
+            {ui.socialProof && (
               <div className="mt-10 inline-flex items-center gap-2 rounded bg-red-500/15 px-3 py-1.5">
                 <span className="h-1 w-1 rounded-full bg-red-400" />
                 <span className="text-[11px] font-semibold uppercase tracking-[0.18em] text-red-200">
-                  {t.intro.socialProof}
+                  {ui.socialProof}
                 </span>
               </div>
             )}
           </div>
         </section>
 
-        {/* CTA + disclaimer block */}
         <section className="bg-gray-50">
           <div className="mx-auto max-w-3xl px-6 py-16 md:py-20">
             <div className="grid gap-8 md:grid-cols-[1.3fr_1fr]">
               <div>
                 <p className="mb-3 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
-                  Before you begin
+                  {ui.beforeBegin}
                 </p>
-                <p className="text-lg leading-[1.7] text-gray-700">
-                  {t.intro.disclaimer}
-                </p>
+                <p className="text-lg leading-[1.7] text-gray-700">{disclaimer}</p>
               </div>
               <div className="relative overflow-hidden rounded-xl bg-gray-950 p-6">
                 <div className="pointer-events-none absolute -top-4 -end-4 select-none font-serif text-[120px] leading-none text-white/[0.04]">
@@ -306,13 +293,11 @@ export default function QuizClient({
                   <div className="mb-3 inline-flex items-center gap-1.5 rounded bg-red-500/20 px-2 py-0.5">
                     <span className="h-1 w-1 rounded-full bg-red-400" />
                     <span className="text-[10px] font-semibold uppercase tracking-[0.15em] text-red-300">
-                      Hidden inside
+                      {ui.hiddenInside}
                     </span>
                   </div>
                   <p className="text-[15px] leading-[1.65] text-white/80">
-                    Two of the 27 types — <strong className="font-semibold text-white">HHHH</strong> and{' '}
-                    <strong className="font-semibold text-white">DRUNK</strong> — are Easter eggs.
-                    Only a specific pattern of answers will unlock them.
+                    {ui.hiddenInsideDesc}
                   </p>
                 </div>
               </div>
@@ -323,22 +308,26 @@ export default function QuizClient({
                 <div className="flex flex-col gap-3 sm:flex-row">
                   <button
                     type="button"
-                    onClick={() => setStarted(true)}
+                    onClick={() => {
+                      setStarted(true);
+                      setTimeout(scrollToFirstUnanswered, 0);
+                    }}
                     className="group inline-flex flex-1 items-center justify-between gap-3 rounded-xl bg-gray-950 px-6 py-5 text-base font-semibold text-white transition hover:bg-red-500"
                   >
                     <span>
-                      {t.resumeFormat
-                        .replace('{cur}', String(Math.min(idx + 1, mainCount)))
-                        .replace('{total}', String(mainCount))}
+                      {fmt(ui.resumeFormat, {
+                        cur: Math.min(mainAnsweredCount + 1, mainCount),
+                        total: mainCount,
+                      })}
                     </span>
-                    <ArrowRight className={'h-5 w-5 transition-transform group-hover:translate-x-1' + (dir === 'rtl' ? ' rotate-180' : '')} />
+                    <span className={dir === 'rtl' ? 'rotate-180' : ''}>→</span>
                   </button>
                   <button
                     type="button"
                     onClick={startOver}
                     className="rounded-xl border border-gray-300 bg-white px-6 py-5 text-sm font-semibold text-gray-600 transition hover:border-gray-400 hover:text-gray-900"
                   >
-                    {t.startOver}
+                    {ui.startOver}
                   </button>
                 </div>
               ) : (
@@ -347,20 +336,10 @@ export default function QuizClient({
                   onClick={() => setStarted(true)}
                   className="group inline-flex w-full items-center justify-between gap-3 rounded-xl bg-gray-950 px-6 py-5 text-base font-semibold text-white transition hover:bg-red-500"
                 >
-                  <span>{t.intro.start}</span>
-                  <ArrowRight className={'h-5 w-5 transition-transform group-hover:translate-x-1' + (dir === 'rtl' ? ' rotate-180' : '')} />
+                  <span>{ui.begin}</span>
+                  <span className={dir === 'rtl' ? 'rotate-180' : ''}>→</span>
                 </button>
               )}
-              <p className="mt-4 text-xs text-gray-400">
-                <a
-                  href="https://space.bilibili.com/417038183"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="underline decoration-gray-200 underline-offset-2 hover:text-gray-600 hover:decoration-gray-400"
-                >
-                  {t.intro.attribution}
-                </a>
-              </p>
             </div>
           </div>
         </section>
@@ -368,167 +347,183 @@ export default function QuizClient({
     );
   }
 
-  // ---- Error state --------------------------------------------------------
-  if (!current) {
-    return (
-      <div className="mx-auto max-w-md px-6 py-20 text-center" dir={dir}>
-        <p className="text-lg text-gray-700">{t.errorState}</p>
-        <button
-          type="button"
-          onClick={startOver}
-          className="mt-6 inline-flex items-center gap-2 rounded-xl bg-gray-950 px-5 py-3 text-sm font-semibold text-white hover:bg-red-500"
-        >
-          {t.restart}
-        </button>
-      </div>
-    );
-  }
-
-  const selected = answers[current.q.id];
-  const isLongText = current.q.text.length > 250;
-  const questionLabel = isSpecial
-    ? current.variant === 'trigger'
-      ? `${t.bonusLabel} · 02`
-      : `${t.bonusLabel} · 01`
-    : mainAnswered != null
-    ? t.progressFormat.replace('{cur}', String(mainAnswered)).replace('{total}', String(mainCount))
-    : t.bonusLabel;
-
-  // ---- Question view ------------------------------------------------------
+  // -- Single-scroll quiz ----------------------------------------------------
   return (
     <div className="relative min-h-screen bg-gray-50" dir={dir}>
-      {/* Massive Chinese-character watermark behind content — echoes festivals page */}
-      <div className="pointer-events-none fixed inset-x-0 top-20 select-none text-center md:top-32">
-        <span className="text-[28vw] font-bold leading-none tracking-tight text-gray-900/[0.025] md:text-[20rem]">
-          Q{String((mainAnswered ?? 0) || idx + 1).padStart(2, '0')}
-        </span>
-      </div>
-
-      <div className="relative mx-auto max-w-2xl px-6 pb-40 pt-8 md:pt-14">
-        {/* Progress header */}
-        <div className="flex items-baseline justify-between" aria-live="polite">
-          <span className="text-xs font-semibold uppercase tracking-[0.2em] text-gray-400">
-            {questionLabel}
-          </span>
-          <span className="text-xs tracking-[0.15em] text-gray-400">
-            {String(progressPct).padStart(2, '0')}%
-          </span>
-        </div>
-        <div
-          className="relative mt-3 h-px bg-gray-200"
-          role="progressbar"
-          aria-valuenow={progressPct}
-          aria-valuemin={0}
-          aria-valuemax={100}
-        >
-          <div
-            className="absolute inset-y-0 h-px bg-red-500 transition-[width] duration-500"
-            style={{ width: `${progressPct}%`, [dir === 'rtl' ? 'right' : 'left']: 0 }}
-          />
-        </div>
-
-        {/* Question */}
-        <div className="mt-12 md:mt-16">
-          {isLongText ? (
-            <div className="relative">
-              <div className="mb-5 flex items-center gap-2">
-                <span className="h-1 w-1 rounded-full bg-red-400" />
-                <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-red-500">
-                  {t.readAndReact}
-                </p>
-              </div>
-              <blockquote className="relative border-s-2 border-red-400 ps-5">
-                <p
-                  ref={questionHeadingRef}
-                  tabIndex={-1}
-                  className="text-[1.15rem] leading-[1.65] text-gray-700 focus:outline-none md:text-[1.3rem]"
-                >
-                  {current.q.text}
-                </p>
-              </blockquote>
+      {/* Sticky progress header */}
+      <div className="sticky top-0 z-20 border-b border-gray-200 bg-white/95 backdrop-blur">
+        <div className="mx-auto flex max-w-2xl items-center gap-4 px-6 py-3">
+          <div className="flex-1" aria-live="polite">
+            <div className="flex items-baseline justify-between">
+              <span className="text-[11px] font-semibold uppercase tracking-[0.2em] text-gray-500">
+                {fmt(ui.answeredFormat, { answered: mainAnsweredCount, total: mainCount })}
+              </span>
+              <span className="text-[11px] tracking-[0.15em] text-gray-400">
+                {String(progressPct).padStart(2, '0')}%
+              </span>
             </div>
-          ) : (
-            <p
-              ref={questionHeadingRef}
-              tabIndex={-1}
-              className="text-[1.6rem] font-bold leading-[1.2] tracking-tight text-gray-900 focus:outline-none md:text-[2rem]"
+            <div
+              className="relative mt-1.5 h-px bg-gray-200"
+              role="progressbar"
+              aria-valuenow={progressPct}
+              aria-valuemin={0}
+              aria-valuemax={100}
             >
-              {current.q.text}
-            </p>
+              <div
+                className="absolute inset-y-0 h-px bg-red-500 transition-[width] duration-500"
+                style={{
+                  width: `${progressPct}%`,
+                  [dir === 'rtl' ? 'right' : 'left']: 0,
+                }}
+              />
+            </div>
+          </div>
+          {mainAnsweredCount > 0 && !allAnswered && firstUnansweredIdx >= 0 && (
+            <button
+              type="button"
+              onClick={scrollToFirstUnanswered}
+              className="shrink-0 rounded-lg border border-gray-200 bg-white px-3 py-1.5 text-[11px] font-semibold uppercase tracking-[0.15em] text-gray-600 transition hover:border-red-200 hover:text-red-500"
+            >
+              ↓ Next
+            </button>
           )}
         </div>
+      </div>
 
-        {/* Options */}
-        <div
-          className="mt-10 divide-y divide-gray-200 border-y border-gray-200"
-          role="radiogroup"
-          aria-label={current.q.text.slice(0, 100)}
-        >
-          {current.q.options.map((opt, i) => {
-            const isSel = selected === opt.value;
+      <div id="q-top" className="mx-auto max-w-2xl px-6 pb-32 pt-10 md:pt-14">
+        <div className="space-y-16">
+          {flow.map((item) => {
+            const q = item.q;
+            const isSpecial = item.kind === 'special';
+            const isTrigger = isSpecial && item.variant === 'trigger';
+            const selected = answers[q.id];
+            const isLongText = q.text.length > 250;
+            const mainIdx = item.kind === 'main' ? item.mainIdx : null;
+            const questionLabel = isSpecial
+              ? isTrigger
+                ? `${ui.bonusLabel} · 02`
+                : `${ui.bonusLabel} · 01`
+              : mainIdx != null
+              ? fmt(ui.progressFormat, { cur: mainIdx + 1, total: mainCount })
+              : '';
+
             return (
-              <button
-                key={`${current.q.id}-${i}`}
-                type="button"
-                role="radio"
-                aria-checked={isSel}
-                onClick={() => pick(opt.value)}
-                className={
-                  'group grid w-full grid-cols-[2.5rem_1fr] items-start gap-4 px-2 py-5 text-start transition focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 ' +
-                  (isSel
-                    ? 'bg-gray-950 text-white'
-                    : 'text-gray-800 hover:bg-white')
-                }
+              <section
+                key={q.id}
+                id={`q-${q.id}`}
+                className="scroll-mt-24"
+                aria-labelledby={`q-title-${q.id}`}
               >
-                <span
-                  className={
-                    'pt-0.5 text-[11px] font-semibold uppercase tracking-[0.2em] transition-colors ' +
-                    (isSel ? 'text-red-300' : 'text-gray-400 group-hover:text-red-500')
-                  }
+                <div className="mb-4 flex items-center gap-2">
+                  <span
+                    className={
+                      'h-1 w-1 rounded-full ' +
+                      (isSpecial ? 'bg-rose-400' : 'bg-red-400')
+                    }
+                  />
+                  <p
+                    className={
+                      'text-[10px] font-semibold uppercase tracking-[0.2em] ' +
+                      (isSpecial ? 'text-rose-500' : 'text-gray-400')
+                    }
+                  >
+                    {questionLabel}
+                  </p>
+                </div>
+
+                {isLongText ? (
+                  <div>
+                    <p className="mb-3 text-[10px] font-semibold uppercase tracking-[0.2em] text-red-500">
+                      {ui.readAndReact}
+                    </p>
+                    <blockquote className="border-s-2 border-red-400 ps-5">
+                      <p
+                        id={`q-title-${q.id}`}
+                        className="text-[1.1rem] leading-[1.65] text-gray-700 md:text-[1.25rem]"
+                      >
+                        {q.text}
+                      </p>
+                    </blockquote>
+                  </div>
+                ) : (
+                  <h2
+                    id={`q-title-${q.id}`}
+                    className="text-[1.5rem] font-bold leading-[1.2] tracking-tight text-gray-900 md:text-[1.8rem]"
+                  >
+                    {q.text}
+                  </h2>
+                )}
+
+                <div
+                  className="mt-6 divide-y divide-gray-200 border-y border-gray-200"
+                  role="radiogroup"
+                  aria-labelledby={`q-title-${q.id}`}
                 >
-                  {LETTERS[i] ?? String(i + 1)}
-                </span>
-                <span
-                  className={
-                    'text-[1.05rem] leading-[1.5] transition-colors ' +
-                    (isSel ? 'text-white' : 'text-gray-800')
-                  }
-                >
-                  {opt.label}
-                </span>
-              </button>
+                  {q.options.map((opt, oi) => {
+                    const isSel = selected === opt.value;
+                    return (
+                      <button
+                        key={`${q.id}-${oi}`}
+                        type="button"
+                        role="radio"
+                        aria-checked={isSel}
+                        onClick={() => onPick(q.id, opt.value)}
+                        className={
+                          'group grid w-full grid-cols-[2.5rem_1fr] items-start gap-4 px-2 py-4 text-start transition focus:outline-none focus-visible:ring-2 focus-visible:ring-red-400 ' +
+                          (isSel
+                            ? 'bg-gray-950 text-white'
+                            : 'text-gray-800 hover:bg-white')
+                        }
+                      >
+                        <span
+                          className={
+                            'pt-0.5 text-[11px] font-semibold uppercase tracking-[0.2em] transition-colors ' +
+                            (isSel
+                              ? 'text-red-300'
+                              : 'text-gray-400 group-hover:text-red-500')
+                          }
+                        >
+                          {LETTERS[oi] ?? String(oi + 1)}
+                        </span>
+                        <span
+                          className={
+                            'text-[1.02rem] leading-[1.5] transition-colors ' +
+                            (isSel ? 'text-white' : 'text-gray-800')
+                          }
+                        >
+                          {opt.label}
+                        </span>
+                      </button>
+                    );
+                  })}
+                </div>
+              </section>
             );
           })}
         </div>
-      </div>
 
-      {/* Sticky bottom nav */}
-      <div
-        className="fixed inset-x-0 bottom-0 z-30 border-t border-gray-200 bg-white/95 backdrop-blur"
-        style={{ paddingBottom: 'env(safe-area-inset-bottom)' }}
-      >
-        <div className="mx-auto flex max-w-2xl items-stretch">
+        {/* Submit block */}
+        <div id="q-submit" className="mt-20 border-t border-gray-200 pt-10">
           <button
             type="button"
-            onClick={goBack}
-            disabled={idx === 0}
-            className="flex items-center gap-2 border-e border-gray-200 px-5 py-4 text-xs font-semibold uppercase tracking-[0.18em] text-gray-500 transition hover:text-gray-900 disabled:opacity-30 disabled:hover:text-gray-500"
+            onClick={submit}
+            disabled={!allAnswered || submitting}
+            className="group inline-flex w-full items-center justify-between gap-3 rounded-xl bg-gray-950 px-6 py-5 text-base font-semibold text-white transition hover:bg-red-500 disabled:cursor-not-allowed disabled:opacity-40 disabled:hover:bg-gray-950"
           >
-            {dir === 'rtl' ? <ArrowRight className="h-4 w-4" /> : <ArrowLeft className="h-4 w-4" />}
-            {t.back}
+            <span>{submitting ? ui.computing : ui.submit}</span>
+            <span className={dir === 'rtl' ? 'rotate-180' : ''}>→</span>
           </button>
+          {!allAnswered && !submitting && (
+            <p className="mt-3 text-center text-xs text-gray-500">
+              {fmt(ui.submitIncomplete, { remaining: remainingMain })}
+            </p>
+          )}
           <button
             type="button"
-            onClick={goNext}
-            disabled={!canNext || submitting}
-            className="group inline-flex flex-1 items-center justify-between gap-2 bg-gray-950 px-5 py-4 text-xs font-semibold uppercase tracking-[0.18em] text-white transition hover:bg-red-500 disabled:opacity-40 disabled:hover:bg-gray-950"
+            onClick={startOver}
+            className="mt-4 block w-full text-center text-xs font-medium uppercase tracking-[0.15em] text-gray-400 hover:text-gray-600"
           >
-            <span>{isLast ? (submitting ? t.computing : t.submit) : t.next}</span>
-            {dir === 'rtl' ? (
-              <ArrowLeft className="h-4 w-4 transition-transform group-hover:-translate-x-1" />
-            ) : (
-              <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
-            )}
+            {ui.restart}
           </button>
         </div>
       </div>

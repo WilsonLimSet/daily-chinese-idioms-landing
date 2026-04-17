@@ -4,7 +4,8 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, ChevronRight, Sparkles } from 'lucide-react';
 import { getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { getQuiz } from '@/src/lib/sbti-quiz';
+import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -19,10 +20,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { lang } = await params;
   if (!(lang in LANGUAGES)) return { title: 'Not found' };
-
-  const langName = LANGUAGES[lang as keyof typeof LANGUAGES];
-  const nativeName = LANGUAGE_CONFIG[lang as keyof typeof LANGUAGE_CONFIG]?.nativeName || langName;
   const ogLocale = LOCALE_MAP[lang as keyof typeof LOCALE_MAP] || 'en-US';
+  const quiz = getQuiz(lang);
 
   const languageAlternates: Record<string, string> = {
     'x-default': '/sbti',
@@ -33,25 +32,15 @@ export async function generateMetadata({
   }
 
   return {
-    title: `SBTI Personality Test — All 27 Types | ${nativeName}`,
-    description: `SBTI (Silly Behavioral Type Indicator) — the viral Chinese personality test with 27 types: CTRL, BOSS, MALO, DRUNK, and more. Full ${nativeName} guide.`,
-    keywords: [
-      'sbti',
-      'sbti test',
-      'sbti personality test',
-      'sbti types',
-      'sbti 27 types',
-      'sbti meaning',
-      'sbti vs mbti',
-      'what is sbti',
-    ].join(', '),
+    title: quiz.ui.seoHubTitle,
+    description: quiz.ui.seoHubDescription,
     alternates: {
       canonical: `https://www.chineseidioms.com/${lang}/sbti`,
       languages: languageAlternates,
     },
     openGraph: {
-      title: `SBTI Personality Test — All 27 Types`,
-      description: 'Every SBTI personality type with traits, recognition signals, and matching Chinese idioms.',
+      title: quiz.ui.seoHubTitle,
+      description: quiz.ui.seoHubDescription,
       url: `https://www.chineseidioms.com/${lang}/sbti`,
       siteName: 'Chinese Idioms',
       locale: ogLocale.replace('-', '_'),

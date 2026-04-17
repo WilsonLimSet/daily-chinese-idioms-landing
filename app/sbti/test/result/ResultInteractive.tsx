@@ -4,7 +4,7 @@ import { useSearchParams } from 'next/navigation';
 import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { decodeVector, DIMENSION_ORDER } from '@/src/lib/sbti-engine';
-import type { DimensionMeta } from '@/src/lib/sbti-quiz';
+import type { DimensionMeta, QuizUIResult } from '@/src/lib/sbti-quiz';
 import RadarChart from './RadarChart';
 import ShareRow from './ShareRow';
 import DimensionBreakdown from './DimensionBreakdown';
@@ -26,27 +26,7 @@ type Props = {
   /** Path to retake the test (e.g. /sbti/test). */
   retakePath: string;
   isRtl?: boolean;
-  i18n: {
-    takeTheTest: string;
-    matchStrong: string;
-    matchGood: string;
-    matchPartial: string;
-    rarityTemplate: string;
-    hiddenTypeBadge: string;
-    hiddenTypeDesc: string;
-    brokeModelBadge: string;
-    brokeModelDesc: string;
-    closestTemplate: string;
-    normalBestTemplate: string;
-    noResultTitle: string;
-    noResultDesc: string;
-    definingTraits: string;
-    showAll: string;
-    hideAll: string;
-    profileKicker: string;
-    profileHeading: string;
-    profileSub: string;
-  };
+  i18n: QuizUIResult;
 };
 
 export default function ResultInteractive({
@@ -242,11 +222,24 @@ export default function ResultInteractive({
                 </div>
               </article>
 
-              <ShareLinks
-                typeCode={typeCode}
-                tagline={tagline}
-                resultUrl={resultUrl}
-              />
+              <article>
+                <div className="mb-8 flex items-start gap-6 sm:gap-8">
+                  <div className="hidden w-24 shrink-0 pt-1 sm:block">
+                    <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">·</p>
+                  </div>
+                  <div className="min-w-0 flex-1">
+                    <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
+                      {i18n.shareKicker}
+                    </p>
+                    <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
+                      {i18n.shareHeading}
+                    </h2>
+                  </div>
+                </div>
+                <div className="sm:ms-32">
+                  <ShareRow typeCode={typeCode} tagline={tagline} resultUrl={resultUrl} />
+                </div>
+              </article>
             </div>
           </div>
         </section>
@@ -262,6 +255,7 @@ export default function ResultInteractive({
                 typeSlug={typeSlug}
                 fullProfilePath={fullProfilePath}
                 isRtl={!!isRtl}
+                i18n={i18n}
               />
             </div>
           </div>
@@ -271,49 +265,21 @@ export default function ResultInteractive({
   );
 }
 
-function ShareLinks({
-  typeCode,
-  tagline,
-  resultUrl,
-}: {
-  typeCode: string;
-  tagline: string;
-  resultUrl: string;
-}) {
-  return (
-    <article>
-      <div className="mb-8 flex items-start gap-6 sm:gap-8">
-        <div className="hidden w-24 shrink-0 pt-1 sm:block">
-          <p className="text-6xl font-bold leading-none tracking-tight text-gray-200">·</p>
-        </div>
-        <div className="min-w-0 flex-1">
-          <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
-            Send it
-          </p>
-          <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
-            Share your type
-          </h2>
-        </div>
-      </div>
-      <div className="sm:ms-32">
-        <ShareRow typeCode={typeCode} tagline={tagline} resultUrl={resultUrl} />
-      </div>
-    </article>
-  );
-}
-
 function GoDeeperRow({
   typeCode,
   typeSlug,
   fullProfilePath,
   isRtl,
+  i18n,
 }: {
   typeCode: string;
   typeSlug: string;
   fullProfilePath: string;
   isRtl: boolean;
+  i18n: QuizUIResult;
 }) {
   const base = fullProfilePath.replace(/\/[^/]+$/, '');
+  const fmt = (t: string) => t.replace('{code}', typeCode);
   return (
     <article>
       <div className="mb-8 flex items-start gap-6 sm:gap-8">
@@ -322,10 +288,10 @@ function GoDeeperRow({
         </div>
         <div className="min-w-0 flex-1">
           <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-gray-400">
-            Go deeper
+            {i18n.goDeeperKicker}
           </p>
           <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
-            Everything about {typeCode}
+            {fmt(i18n.goDeeperHeading)}
           </h2>
         </div>
       </div>
@@ -334,21 +300,21 @@ function GoDeeperRow({
           href={fullProfilePath}
           className="group flex items-center justify-between rounded-lg bg-gray-950 px-5 py-4 text-white transition hover:bg-red-500"
         >
-          <span className="font-semibold">Full {typeCode} profile</span>
+          <span className="font-semibold">{fmt(i18n.fullProfile)}</span>
           <ArrowRight className={'h-4 w-4 text-white/70 transition-transform group-hover:translate-x-1' + (isRtl ? ' rotate-180' : '')} />
         </Link>
         <Link
           href={`${base}/${typeSlug}/compatibility`}
           className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 text-gray-800 transition hover:border-red-200 hover:shadow-sm"
         >
-          <span className="text-sm font-medium">Compatibility</span>
+          <span className="text-sm font-medium">{i18n.compatibility}</span>
           <ArrowRight className={'h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400' + (isRtl ? ' rotate-180' : '')} />
         </Link>
         <Link
           href={`${base}/${typeSlug}/how-to-get`}
           className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 text-gray-800 transition hover:border-red-200 hover:shadow-sm"
         >
-          <span className="text-sm font-medium">How to get {typeCode}</span>
+          <span className="text-sm font-medium">{fmt(i18n.howToGet)}</span>
           <ArrowRight className={'h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400' + (isRtl ? ' rotate-180' : '')} />
         </Link>
       </div>

@@ -147,32 +147,13 @@ export default function SbtiTestPage() {
       <div className="min-h-screen">
         <QuizClient
           resultBasePath="/sbti/test/result"
+          backHref="/sbti"
           typePatterns={quiz.typePatterns}
           main={quiz.main}
           special={quiz.special}
-          t={{
-            progressFormat: 'Q{cur} / {total}',
-            bonusLabel: 'Bonus',
-            back: 'Previous',
-            next: 'Continue',
-            submit: 'Decode me',
-            restart: 'Start over',
-            computing: 'Computing…',
-            readAndReact: 'Read. React.',
-            resumeFormat: 'Resume at Q{cur} / {total}',
-            startOver: 'Start over',
-            errorState: 'Something went sideways. Let’s start over.',
-            intro: {
-              title: quiz.meta.title,
-              subtitle: quiz.meta.subtitle,
-              attribution: 'Original by @蛆肉儿串儿 on Bilibili · fan edition',
-              disclaimer: quiz.meta.disclaimer,
-              start: 'Begin the test',
-              questionCount: 'questions',
-              duration: 'minutes',
-              socialProof: 'Viral on Weibo, Xiaohongshu, and TikTok in April 2026.',
-            },
-          }}
+          subtitle={quiz.meta.subtitle}
+          disclaimer={quiz.meta.disclaimer}
+          ui={quiz.ui}
         />
       </div>
     </>

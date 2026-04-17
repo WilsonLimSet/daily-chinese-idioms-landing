@@ -55,23 +55,25 @@ function buildPrompt(source, langName) {
 
 ## Rules (critical)
 
-1. Preserve the top-level shape: keys "meta", "dimensions", "main", "special", "typePatterns".
+1. Preserve the top-level shape: keys "meta", "ui", "dimensions", "main", "special", "typePatterns".
 2. DO NOT translate or modify "typePatterns" at all — copy that array verbatim.
 3. DO NOT change any "id", "dim", "kind", "value", or "position" fields. Keep them byte-identical.
 4. DO NOT reorder options within a question. Some questions have reversed scoring (value 3 appears first, value 1 last). Preserve option order exactly as given.
-5. Translate these human-readable fields into natural, culturally appropriate ${langName}:
-   - meta.title, meta.subtitle, meta.attribution, meta.disclaimer
+5. Translate ALL human-readable string fields into natural, culturally appropriate ${langName}:
+   - meta.title, meta.subtitle, meta.disclaimer
+   - Every string under ui.* (including ui.result.*) — buttons, labels, kickers, descriptions
    - dimensions.*.name, dimensions.*.model, dimensions.*.levels.L/M/H
    - main[].text, main[].options[].label
    - special[].text, special[].options[].label
-6. Keep the original's deadpan, Gen-Z cynical, absurdist tone. The creator is known for dry humor.
-7. Localize culturally-loaded references rather than translating literally:
+6. Placeholder tokens in curly braces ({cur}, {total}, {answered}, {rarity}, {code}, {remaining}) MUST be preserved verbatim. Do not translate or reorder them. Example: "Q{cur} / {total}" → translated equivalent keeping {cur} and {total}.
+7. Keep the original's deadpan, Gen-Z cynical, absurdist tone. The creator is known for dry humor.
+8. Localize culturally-loaded references rather than translating literally:
    - "baijiu" (Chinese liquor) → use the local strong spirit but keep the "in a thermos, drinking it like water" image. In languages where baijiu is unfamiliar, say "hard liquor" or the local equivalent.
    - References to specific online games → replace with a well-known competitive game familiar in the target culture.
    - Q1's long self-pitying monologue → preserve the length, the bleak humor, and the sudden plea at the end.
    - Q22 ("this question has no question, please guess blindly") → preserve the absurdity.
    - Q7 "diarrhea" should be translated directly; the absurdity is the point.
-8. Preserve meta.creatorUrl and meta.sourceLicense unchanged.
+9. "SBTI", "MBTI", type codes like "CTRL", "DRUNK", "HHHH" stay unchanged — they're brand tokens.
 
 ## Source (JSON)
 
@@ -104,8 +106,6 @@ async function translateForLang(langCode, langName) {
 
       parsed.typePatterns = source.typePatterns;
       parsed.meta = parsed.meta || {};
-      parsed.meta.creatorUrl = source.meta.creatorUrl;
-      parsed.meta.sourceLicense = source.meta.sourceLicense;
 
       for (let i = 0; i < source.main.length; i++) {
         const src = source.main[i];

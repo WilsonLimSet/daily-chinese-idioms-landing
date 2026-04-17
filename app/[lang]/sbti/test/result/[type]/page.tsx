@@ -100,7 +100,7 @@ export default async function LocalizedSbtiResultPage({
             className="inline-flex items-center gap-2 text-sm text-white/50 transition-colors hover:text-white/80"
           >
             <ArrowLeft className={'h-4 w-4' + (isRtl ? ' rotate-180' : '')} />
-            Retake the test
+            {quiz.ui.result.retakeTest}
           </Link>
         </nav>
 
@@ -113,7 +113,7 @@ export default async function LocalizedSbtiResultPage({
                   (isDrunk ? 'bg-rose-400' : isFallback ? 'bg-amber-400' : 'bg-red-400')
                 }
               />
-              {isDrunk ? 'Hidden type' : isFallback ? 'Fallback type' : 'Your result'}
+              {isDrunk ? quiz.ui.result.hiddenType : isFallback ? quiz.ui.result.fallbackType : quiz.ui.result.yourResult}
             </span>
           </p>
 
@@ -140,30 +140,7 @@ export default async function LocalizedSbtiResultPage({
               fullProfilePath={`/${lang}/sbti/${type}`}
               retakePath={`/${lang}/sbti/test`}
               isRtl={isRtl}
-              i18n={{
-                takeTheTest: 'Take the SBTI test',
-                matchStrong: 'Strong match',
-                matchGood: 'Good match',
-                matchPartial: 'Partial match',
-                rarityTemplate: '~{rarity}% get {code}',
-                hiddenTypeBadge: 'Easter egg',
-                hiddenTypeDesc:
-                  'Triggered by the "hard liquor in a thermos" answer — only ~1% of takers commit to this one.',
-                brokeModelBadge: 'You broke the model',
-                brokeModelDesc:
-                  'Your answers don\'t cleanly match any of the 25 standard types.',
-                closestTemplate: 'Closest standard type: {code}.',
-                normalBestTemplate: 'Your normal best match: {code}.',
-                noResultTitle: 'Profile page',
-                noResultDesc:
-                  'This is the profile page for {code}. Take the test to see if this matches your result.',
-                definingTraits: 'Your defining traits',
-                showAll: 'Show all 15',
-                hideAll: 'Hide',
-                profileKicker: 'The profile',
-                profileHeading: '15-dimension breakdown',
-                profileSub: '',
-              }}
+              i18n={quiz.ui.result}
             />
           </Suspense>
         </div>
