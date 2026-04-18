@@ -151,7 +151,7 @@ export default async function TranslatedListiclePage({
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Home",
+          "name": getTranslation(lang, 'home'),
           "item": `https://www.chineseidioms.com/${lang}`
         },
         {

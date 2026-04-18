@@ -76,7 +76,7 @@ export default async function TranslatedPoetDetailPage({ params }: { params: Pro
       "@type": "BreadcrumbList",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": getTranslation(lang, 'home'), "item": `https://www.chineseidioms.com/${lang}` },
-        { "@type": "ListItem", "position": 2, "name": "Poets", "item": `https://www.chineseidioms.com/${lang}/poets` },
+        { "@type": "ListItem", "position": 2, "name": getTranslation(lang, 'poetsTitle'), "item": `https://www.chineseidioms.com/${lang}/poets` },
         { "@type": "ListItem", "position": 3, "name": poet.nameChinese, "item": `https://www.chineseidioms.com/${lang}/poets/${slug}` },
       ],
     },

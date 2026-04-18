@@ -85,12 +85,12 @@ export default async function TranslatedPhraseDetailPage({ params }: { params: P
       "mainEntity": [
         {
           "@type": "Question",
-          "name": `What does ${term.characters} mean?`,
+          "name": getTranslation(lang, 'phrasesFaqQ1Template').replace('{term}', term.characters),
           "acceptedAnswer": { "@type": "Answer", "text": term.meaning }
         },
         {
           "@type": "Question",
-          "name": `When do you use ${term.characters}?`,
+          "name": getTranslation(lang, 'phrasesFaqWhenTemplate').replace('{term}', term.characters),
           "acceptedAnswer": { "@type": "Answer", "text": term.context }
         }
       ]

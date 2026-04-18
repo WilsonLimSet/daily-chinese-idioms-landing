@@ -212,6 +212,24 @@ export const translations = {
     // Poets hub
     poetsDynastyMasters: "Tang Dynasty Masters",
 
+    // Slang detail schema
+    slangFaqOriginTemplate: "What is the origin of {term}?",
+
+    // Slang hub FAQ schema
+    slangFaqQ1Template: "What does {term} mean in Chinese?",
+    slangFaqQ2Template: "What does {term} mean?",
+    slangFaqQ3: "What is Chinese internet slang?",
+    slangFaqA3: "Chinese internet slang refers to informal expressions used in Chinese social media, messaging apps, and online culture.",
+
+    // Phrases detail schema
+    phrasesFaqWhenTemplate: "When do you use {term}?",
+
+    // Phrases hub FAQ schema
+    phrasesFaqQ1Template: "What does {term} mean?",
+    phrasesFaqQ2Template: "What does {term} mean?",
+    phrasesFaqQ3: "What are the most useful Chinese phrases?",
+    phrasesFaqA3: "The most useful Chinese phrases include practical expressions for restaurants, shopping, travel, work, and daily life — covering real situations you'll encounter in China.",
+
     // HSK schema FAQ
     hskFaqQ1: "What is the HSK test?",
     hskFaqA1: "HSK (Hanyu Shuiping Kaoshi) is China's standardized test of Chinese language proficiency for non-native speakers. It has 6 levels, from HSK 1 (beginner, ~150 words) to HSK 6 (advanced, ~5000 words).",
@@ -584,6 +602,16 @@ export const translations = {
     hskSchemaItemListName: "Vocabulario HSK {level}",
     slangCollectionName: "Jerga de Internet China",
     phrasesCollectionName: "Frases Comunes en Chino",
+    slangFaqQ1Template: "¿Qué significa {term} en chino?",
+    slangFaqQ2Template: "¿Qué significa {term}?",
+    slangFaqQ3: "¿Qué es la jerga de internet china?",
+    slangFaqA3: "La jerga de internet china se refiere a expresiones informales utilizadas en las redes sociales chinas, aplicaciones de mensajería y la cultura en línea.",
+    phrasesFaqQ1Template: "¿Qué significa {term}?",
+    phrasesFaqQ2Template: "¿Qué significa {term}?",
+    phrasesFaqQ3: "¿Cuáles son las frases chinas más útiles?",
+    phrasesFaqA3: "Las frases chinas más útiles incluyen expresiones prácticas para restaurantes, compras, viajes, trabajo y la vida diaria — cubriendo situaciones reales que encontrarás en China.",
+    slangFaqOriginTemplate: "¿Cuál es el origen de {term}?",
+    phrasesFaqWhenTemplate: "¿Cuándo se utiliza {term}?",
   },
 
   id: {
@@ -842,6 +870,16 @@ export const translations = {
     hskSchemaItemListName: "Kosakata HSK {level}",
     slangCollectionName: "Bahasa Gaul Internet Tionghoa",
     phrasesCollectionName: "Frasa Umum Tionghoa",
+    slangFaqQ1Template: "Apa arti {term} dalam bahasa Tionghoa?",
+    slangFaqQ2Template: "Apa arti {term}?",
+    slangFaqQ3: "Apa itu bahasa gaul internet Tionghoa?",
+    slangFaqA3: "Bahasa gaul internet Tionghoa mengacu pada ungkapan informal yang digunakan di media sosial Tionghoa, aplikasi pesan, dan budaya online.",
+    phrasesFaqQ1Template: "Apa arti {term}?",
+    phrasesFaqQ2Template: "Apa arti {term}?",
+    phrasesFaqQ3: "Apa frasa Tionghoa yang paling berguna?",
+    phrasesFaqA3: "Frasa Tionghoa yang paling berguna mencakup ungkapan praktis untuk restoran, belanja, perjalanan, pekerjaan, dan kehidupan sehari-hari — mencakup situasi nyata yang akan Anda temui di Tiongkok.",
+    slangFaqOriginTemplate: "Apa asal usul {term}?",
+    phrasesFaqWhenTemplate: "Kapan Anda menggunakan {term}?",
   },
 
   ja: {
@@ -1103,6 +1141,16 @@ export const translations = {
     hskSchemaItemListName: "HSK {level} 語彙",
     slangCollectionName: "中国のネットスラング",
     phrasesCollectionName: "一般的な中国語フレーズ",
+    slangFaqQ1Template: "{term} は中国語でどういう意味ですか？",
+    slangFaqQ2Template: "{term} はどういう意味ですか？",
+    slangFaqQ3: "中国のインターネットスラングとは何ですか？",
+    slangFaqA3: "中国のインターネットスラングは、中国のソーシャルメディア、メッセージングアプリ、オンライン文化で使用される非公式な表現を指します。",
+    phrasesFaqQ1Template: "{term} はどういう意味ですか？",
+    phrasesFaqQ2Template: "{term} はどういう意味ですか？",
+    phrasesFaqQ3: "最も役立つ中国語のフレーズは何ですか？",
+    phrasesFaqA3: "最も役立つ中国語のフレーズには、レストラン、ショッピング、旅行、仕事、日常生活などで使える実用的な表現が含まれています。",
+    slangFaqOriginTemplate: "{term}の起源は何ですか？",
+    phrasesFaqWhenTemplate: "{term}はいつ使いますか？",
   },
 
   pt: {
@@ -1363,6 +1411,16 @@ export const translations = {
     hskSchemaItemListName: "Vocabulário HSK {level}",
     slangCollectionName: "Gírias da Internet Chinesa",
     phrasesCollectionName: "Frases Comuns em Chinês",
+    slangFaqQ1Template: "O que significa {term} em chinês?",
+    slangFaqQ2Template: "O que significa {term}?",
+    slangFaqQ3: "O que é gíria da internet chinesa?",
+    slangFaqA3: "Gíria da internet chinesa refere-se a expressões informais usadas em mídias sociais chinesas, aplicativos de mensagens e na cultura online.",
+    phrasesFaqQ1Template: "O que significa {term}?",
+    phrasesFaqQ2Template: "O que significa {term}?",
+    phrasesFaqQ3: "Quais são as frases chinesas mais úteis?",
+    phrasesFaqA3: "As frases chinesas mais úteis incluem expressões práticas para restaurantes, compras, viagens, trabalho e vida diária — abrangendo situações reais que você encontrará na China.",
+    slangFaqOriginTemplate: "Qual é a origem de {term}?",
+    phrasesFaqWhenTemplate: "Quando você usa {term}?",
   },
 
   vi: {
@@ -1624,6 +1682,16 @@ export const translations = {
     hskSchemaItemListName: "Từ vựng HSK {level}",
     slangCollectionName: "Tiếng Lóng Internet Trung Quốc",
     phrasesCollectionName: "Các Cụm Từ Thông Dụng Tiếng Trung",
+    slangFaqQ1Template: "{term} có nghĩa là gì trong tiếng Trung?",
+    slangFaqQ2Template: "{term} có nghĩa là gì?",
+    slangFaqQ3: "Tiếng lóng internet tiếng Trung là gì?",
+    slangFaqA3: "Tiếng lóng internet tiếng Trung đề cập đến các biểu đạt không chính thức được sử dụng trên mạng xã hội, ứng dụng nhắn tin và văn hóa trực tuyến tiếng Trung.",
+    phrasesFaqQ1Template: "{term} có nghĩa là gì?",
+    phrasesFaqQ2Template: "{term} có nghĩa là gì?",
+    phrasesFaqQ3: "Những cụm từ tiếng Trung nào hữu ích nhất?",
+    phrasesFaqA3: "Những cụm từ tiếng Trung hữu ích nhất bao gồm các biểu đạt thực tế cho nhà hàng, mua sắm, du lịch, công việc và cuộc sống hàng ngày — bao gồm những tình huống thực tế bạn sẽ gặp phải ở Trung Quốc.",
+    slangFaqOriginTemplate: "Nguồn gốc của {term} là gì?",
+    phrasesFaqWhenTemplate: "Bạn sử dụng {term} khi nào?",
   },
 
   // Add more languages as needed...
@@ -1886,6 +1954,16 @@ export const translations = {
     hskSchemaItemListName: "Vocabulaire HSK {level}",
     slangCollectionName: "Argot Internet Chinois",
     phrasesCollectionName: "Phrases Chinoises Courantes",
+    slangFaqQ1Template: "Que signifie {term} en chinois ?",
+    slangFaqQ2Template: "Que signifie {term} ?",
+    slangFaqQ3: "Qu'est-ce que l'argot internet chinois ?",
+    slangFaqA3: "L'argot internet chinois fait référence aux expressions informelles utilisées sur les réseaux sociaux chinois, les applications de messagerie et la culture en ligne.",
+    phrasesFaqQ1Template: "Que signifie {term} ?",
+    phrasesFaqQ2Template: "Que signifie {term} ?",
+    phrasesFaqQ3: "Quelles sont les phrases chinoises les plus utiles ?",
+    phrasesFaqA3: "Les phrases chinoises les plus utiles incluent des expressions pratiques pour les restaurants, le shopping, les voyages, le travail et la vie quotidienne — couvrant des situations réelles que vous rencontrerez en Chine.",
+    slangFaqOriginTemplate: "Quelle est l'origine de {term} ?",
+    phrasesFaqWhenTemplate: "Quand utilise-t-on {term} ?",
   },
 
   de: {
@@ -2198,6 +2276,16 @@ export const translations = {
     hskSchemaItemListName: "HSK {level} Wortschatz",
     slangCollectionName: "Chinesischer Internetslang",
     phrasesCollectionName: "Gängige chinesische Ausdrücke",
+    slangFaqQ1Template: "Was bedeutet {term} auf Chinesisch?",
+    slangFaqQ2Template: "Was bedeutet {term}?",
+    slangFaqQ3: "Was ist chinesischer Internetslang?",
+    slangFaqA3: "Chinesischer Internetslang bezieht sich auf informelle Ausdrücke, die in sozialen Medien, Messaging-Apps und der Online-Kultur in China verwendet werden.",
+    phrasesFaqQ1Template: "Was bedeutet {term}?",
+    phrasesFaqQ2Template: "Was bedeutet {term}?",
+    phrasesFaqQ3: "Was sind die nützlichsten chinesischen Redewendungen?",
+    phrasesFaqA3: "Die nützlichsten chinesischen Redewendungen umfassen praktische Ausdrücke für Restaurants, Einkaufen, Reisen, Arbeit und das tägliche Leben – sie decken Situationen ab, denen Sie in China begegnen werden.",
+    slangFaqOriginTemplate: "Woher stammt {term}?",
+    phrasesFaqWhenTemplate: "Wann verwendet man {term}?",
   },
 
   ko: {
@@ -2459,6 +2547,16 @@ export const translations = {
     hskSchemaItemListName: "HSK {level} 어휘",
     slangCollectionName: "중국어 인터넷 속어",
     phrasesCollectionName: "일반 중국어 문구",
+    slangFaqQ1Template: "{term}은(는) 중국어로 무슨 뜻인가요?",
+    slangFaqQ2Template: "{term}은(는) 무슨 뜻인가요?",
+    slangFaqQ3: "중국어 인터넷 속어란 무엇인가요?",
+    slangFaqA3: "중국어 인터넷 속어는 중국 소셜 미디어, 메시징 앱, 온라인 문화에서 사용되는 비공식 표현을 말합니다.",
+    phrasesFaqQ1Template: "{term}은(는) 무슨 뜻인가요?",
+    phrasesFaqQ2Template: "{term}은(는) 무슨 뜻인가요?",
+    phrasesFaqQ3: "가장 유용한 중국어 문구는 무엇인가요?",
+    phrasesFaqA3: "가장 유용한 중국어 문구는 레스토랑, 쇼핑, 여행, 업무, 일상 생활에서 실제 상황을 다룬 실용적인 표현을 포함합니다. 이는 중국에서 접하게 될 상황들을 커버합니다.",
+    slangFaqOriginTemplate: "{term}의 기원은 무엇인가요?",
+    phrasesFaqWhenTemplate: "{term}은 언제 사용하나요?",
   },
 
   th: {
@@ -2720,6 +2818,16 @@ export const translations = {
     hskSchemaItemListName: "คำศัพท์ HSK {level}",
     slangCollectionName: "สแลงอินเทอร์เน็ตจีน",
     phrasesCollectionName: "วลีภาษาจีนทั่วไป",
+    slangFaqQ1Template: "{term} หมายถึงอะไรในภาษาจีน?",
+    slangFaqQ2Template: "{term} หมายถึงอะไร?",
+    slangFaqQ3: "คำสแลงของอินเทอร์เน็ตจีนคืออะไร?",
+    slangFaqA3: "คำสแลงของอินเทอร์เน็ตจีนหมายถึงการแสดงออกที่ไม่เป็นทางการที่ใช้ในสื่อสังคมออนไลน์ แอปแชท และวัฒนธรรมออนไลน์ของจีน",
+    phrasesFaqQ1Template: "{term} หมายถึงอะไร?",
+    phrasesFaqQ2Template: "{term} หมายถึงอะไร?",
+    phrasesFaqQ3: "วลีภาษาจีนใดที่มีประโยชน์ที่สุด?",
+    phrasesFaqA3: "วลีภาษาจีนที่มีประโยชน์ที่สุดรวมถึงการแสดงออกที่ใช้ได้จริงสำหรับร้านอาหาร การช็อปปิ้ง การเดินทาง การทำงาน และชีวิตประจำวัน — ครอบคลุมสถานการณ์จริงที่คุณจะพบในจีน",
+    slangFaqOriginTemplate: "ที่มาของ {term} คืออะไร?",
+    phrasesFaqWhenTemplate: "คุณใช้ {term} เมื่อไหร่?",
   },
 
   hi: {
@@ -2977,6 +3085,16 @@ export const translations = {
     hskSchemaItemListName: "HSK {level} शब्दावली",
     slangCollectionName: "चीनी इंटरनेट स्लैंग",
     phrasesCollectionName: "आम चीनी वाक्यांश",
+    slangFaqQ1Template: "{term} का चीनी में क्या मतलब है?",
+    slangFaqQ2Template: "{term} का क्या मतलब है?",
+    slangFaqQ3: "चीनी इंटरनेट स्लैंग क्या है?",
+    slangFaqA3: "चीनी इंटरनेट स्लैंग से तात्पर्य उन अनौपचारिक अभिव्यक्तियों से है जो चीनी सोशल मीडिया, मैसेजिंग ऐप्स और ऑनलाइन संस्कृति में उपयोग की जाती हैं।",
+    phrasesFaqQ1Template: "{term} का क्या मतलब है?",
+    phrasesFaqQ2Template: "{term} का क्या मतलब है?",
+    phrasesFaqQ3: "सबसे उपयोगी चीनी वाक्यांश कौन से हैं?",
+    phrasesFaqA3: "सबसे उपयोगी चीनी वाक्यांशों में रेस्तरां, खरीदारी, यात्रा, कार्य और दैनिक जीवन के लिए व्यावहारिक अभिव्यक्तियाँ शामिल हैं — जो वास्तविक स्थितियों को कवर करती हैं जिनका आप चीन में सामना करेंगे।",
+    slangFaqOriginTemplate: "{term} की उत्पत्ति क्या है?",
+    phrasesFaqWhenTemplate: "आप {term} का उपयोग कब करते हैं?",
   },
 
   ar: {
@@ -3238,6 +3356,16 @@ export const translations = {
     hskSchemaItemListName: "مفردات HSK {level}",
     slangCollectionName: "العامية الصينية على الإنترنت",
     phrasesCollectionName: "العبارات الصينية الشائعة",
+    slangFaqQ1Template: "ماذا يعني {term} باللغة الصينية؟",
+    slangFaqQ2Template: "ماذا يعني {term}؟",
+    slangFaqQ3: "ما هو مصطلح الإنترنت في اللغة الصينية؟",
+    slangFaqA3: "مصطلح الإنترنت الصينية يشير إلى التعبيرات غير الرسمية المستخدمة في وسائل التواصل الاجتماعي، وتطبيقات المراسلة، والثقافة الإلكترونية باللغة الصينية.",
+    phrasesFaqQ1Template: "ماذا يعني {term}؟",
+    phrasesFaqQ2Template: "ماذا يعني {term}؟",
+    phrasesFaqQ3: "ما هي أكثر العبارات الصينية فائدة؟",
+    phrasesFaqA3: "تشمل أكثر العبارات الصينية فائدة التعبيرات العملية للمطاعم والتسوق والسفر والعمل والحياة اليومية — تغطي مواقف حقيقية ستواجهها في الصين.",
+    slangFaqOriginTemplate: "ما هو أصل {term}؟",
+    phrasesFaqWhenTemplate: "متى تستخدم {term}؟",
   },
 
   tl: {
@@ -3487,6 +3615,16 @@ export const translations = {
     hskSchemaItemListName: "Bokabularyo ng HSK {level}",
     slangCollectionName: "Tsino na Internet Slang",
     phrasesCollectionName: "Karaniwang Parirala sa Tsino",
+    slangFaqQ1Template: "Ano ang ibig sabihin ng {term} sa Tsino?",
+    slangFaqQ2Template: "Ano ang ibig sabihin ng {term}?",
+    slangFaqQ3: "Ano ang Tsino internet slang?",
+    slangFaqA3: "Ang Tsino internet slang ay tumutukoy sa mga impormal na ekspresyon na ginagamit sa mga social media, messaging apps, at online na kultura ng mga Tsino.",
+    phrasesFaqQ1Template: "Ano ang ibig sabihin ng {term}?",
+    phrasesFaqQ2Template: "Ano ang ibig sabihin ng {term}?",
+    phrasesFaqQ3: "Ano ang mga pinaka-kapaki-pakinabang na pariralang Tsino?",
+    phrasesFaqA3: "Ang mga pinaka-kapaki-pakinabang na pariralang Tsino ay kinabibilangan ng mga praktikal na ekspresyon para sa mga restoran, pamimili, paglalakbay, trabaho, at pang-araw-araw na buhay — mga tunay na sitwasyong madadatnan mo sa Tsina.",
+    slangFaqOriginTemplate: "Ano ang pinagmulan ng {term}?",
+    phrasesFaqWhenTemplate: "Kailan mo ginagamit ang {term}?",
   },
 
   ms: {
@@ -3736,6 +3874,16 @@ export const translations = {
     hskSchemaItemListName: "Perbendaharaan Kata HSK {level}",
     slangCollectionName: "Bahasa Slanga Internet Cina",
     phrasesCollectionName: "Frasa Biasa Cina",
+    slangFaqQ1Template: "Apa maksud {term} dalam bahasa Cina?",
+    slangFaqQ2Template: "Apa maksud {term}?",
+    slangFaqQ3: "Apakah itu slanga internet Cina?",
+    slangFaqA3: "Slanga internet Cina merujuk kepada ungkapan tidak formal yang digunakan dalam media sosial, aplikasi mesej, dan budaya dalam talian Cina.",
+    phrasesFaqQ1Template: "Apa maksud {term}?",
+    phrasesFaqQ2Template: "Apa maksud {term}?",
+    phrasesFaqQ3: "Apakah frasa Cina yang paling berguna?",
+    phrasesFaqA3: "Frasa Cina yang paling berguna merangkumi ungkapan praktikal untuk restoran, membeli-belah, perjalanan, kerja, dan kehidupan harian — meliputi situasi sebenar yang anda akan temui di China.",
+    slangFaqOriginTemplate: "Apakah asal-usul {term}?",
+    phrasesFaqWhenTemplate: "Bilakah anda menggunakan {term}?",
   },
 
   ru: {
@@ -3985,6 +4133,16 @@ export const translations = {
     slangCollectionName: "Китайский интернет-сленг",
     phrasesCollectionName: "Распространенные китайские фразы",
     poemTranslationLabel: "Перевод",
+    slangFaqQ1Template: "Что означает {term} на китайском?",
+    slangFaqQ2Template: "Что означает {term}?",
+    slangFaqQ3: "Что такое китайский интернет-сленг?",
+    slangFaqA3: "Китайский интернет-сленг — это неформальные выражения, используемые в китайских социальных сетях, мессенджерах и онлайн-культуре.",
+    phrasesFaqQ1Template: "Что означает {term}?",
+    phrasesFaqQ2Template: "Что означает {term}?",
+    phrasesFaqQ3: "Какие китайские фразы самые полезные?",
+    phrasesFaqA3: "Самые полезные китайские фразы включают практические выражения для ресторанов, покупок, путешествий, работы и повседневной жизни.",
+    slangFaqOriginTemplate: "Каково происхождение {term}?",
+    phrasesFaqWhenTemplate: "Когда используется {term}?",
   }
 };
 

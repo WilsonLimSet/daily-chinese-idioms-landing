@@ -97,12 +97,12 @@ export default async function TranslatedSlangDetailPage({ params }: { params: Pr
       "mainEntity": [
         {
           "@type": "Question",
-          "name": `What does ${term.characters} mean?`,
+          "name": getTranslation(lang, 'slangFaqQ2Template').replace('{term}', term.characters),
           "acceptedAnswer": { "@type": "Answer", "text": term.meaning }
         },
         {
           "@type": "Question",
-          "name": `What is the origin of ${term.characters}?`,
+          "name": getTranslation(lang, 'slangFaqOriginTemplate').replace('{term}', term.characters),
           "acceptedAnswer": { "@type": "Answer", "text": term.origin }
         }
       ]

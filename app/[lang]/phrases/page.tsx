@@ -66,18 +66,18 @@ export default async function TranslatedPhrasesIndexPage({ params }: { params: P
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What does 买单 (mǎi dān) mean?",
-          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'mai-dan')?.meaning || 'Check please / pay the bill' }
+          "name": getTranslation(lang, 'phrasesFaqQ1Template').replace('{term}', '买单 (mǎi dān)'),
+          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'mai-dan')?.meaning || '' }
         },
         {
           "@type": "Question",
-          "name": "What does 太贵了 (tài guì le) mean?",
-          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'tai-gui-le')?.meaning || 'Too expensive!' }
+          "name": getTranslation(lang, 'phrasesFaqQ2Template').replace('{term}', '太贵了 (tài guì le)'),
+          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'tai-gui-le')?.meaning || '' }
         },
         {
           "@type": "Question",
-          "name": "What are the most useful Chinese phrases?",
-          "acceptedAnswer": { "@type": "Answer", "text": "The most useful Chinese phrases include practical expressions for restaurants, shopping, travel, work, and daily life — covering real situations you'll encounter in China." }
+          "name": getTranslation(lang, 'phrasesFaqQ3'),
+          "acceptedAnswer": { "@type": "Answer", "text": getTranslation(lang, 'phrasesFaqA3') }
         }
       ]
     },

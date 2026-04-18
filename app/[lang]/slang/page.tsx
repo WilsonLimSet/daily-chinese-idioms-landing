@@ -68,18 +68,18 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What does YYDS mean in Chinese?",
-          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'yyds')?.meaning || 'GOAT - Greatest Of All Time' }
+          "name": getTranslation(lang, 'slangFaqQ1Template').replace('{term}', 'YYDS'),
+          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'yyds')?.meaning || '' }
         },
         {
           "@type": "Question",
-          "name": "What does 内卷 (nèi juǎn) mean?",
-          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'nei-juan')?.meaning || 'Involution - toxic competition' }
+          "name": getTranslation(lang, 'slangFaqQ2Template').replace('{term}', '内卷 (nèi juǎn)'),
+          "acceptedAnswer": { "@type": "Answer", "text": allTerms.find(t => t.slug === 'nei-juan')?.meaning || '' }
         },
         {
           "@type": "Question",
-          "name": "What is Chinese internet slang?",
-          "acceptedAnswer": { "@type": "Answer", "text": "Chinese internet slang refers to informal expressions used in Chinese social media, messaging apps, and online culture." }
+          "name": getTranslation(lang, 'slangFaqQ3'),
+          "acceptedAnswer": { "@type": "Answer", "text": getTranslation(lang, 'slangFaqA3') }
         }
       ]
     },
