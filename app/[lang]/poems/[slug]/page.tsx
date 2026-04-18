@@ -145,7 +145,7 @@ export default async function TranslatedPoemDetailPage({ params }: { params: Pro
           </section>
 
           <section className="py-10 border-b border-neutral-200">
-            <h2 className="text-sm font-semibold text-neutral-900 mb-4">Translation ({langName})</h2>
+            <h2 className="text-sm font-semibold text-neutral-900 mb-4">{getTranslation(lang, 'poemTranslationLabel')} ({langName})</h2>
             <p className="text-neutral-700 leading-[1.9] text-lg italic">
               {poem.translation}
             </p>

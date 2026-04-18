@@ -52,7 +52,7 @@ export default async function TranslatedCharactersIndexPage({ params }: { params
             {t('charactersTitle')}
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl">
-            Explore {characters.length}+ Chinese characters that appear in our collection of 1000+ idioms (chengyu).
+            {t('charactersHeroDesc').replace('{count}', String(characters.length))}
           </p>
         </header>
 

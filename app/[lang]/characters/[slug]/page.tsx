@@ -74,10 +74,13 @@ export default async function TranslatedCharacterPage({ params }: { params: Prom
             <span className="text-white text-5xl font-bold">{char.character}</span>
           </div>
           <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">
-            Chinese Idioms Containing &ldquo;{char.character}&rdquo;
+            {getTranslation(lang, 'charactersDetailTitle').replace('{char}', char.character)}
           </h1>
           <p className="text-lg text-gray-600">
-            {char.count} idiom{char.count !== 1 ? 's' : ''} featuring this character
+            {getTranslation(
+              lang,
+              char.count === 1 ? 'charactersDetailCountSingular' : 'charactersDetailCount'
+            ).replace('{count}', String(char.count))}
           </p>
         </header>
 

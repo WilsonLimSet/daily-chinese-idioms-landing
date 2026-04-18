@@ -34,14 +34,27 @@ const LANGS = {
 };
 
 const KEYS = {
-  festivalsCardTitle: "Chinese Festivals",
-  festivalsCardSubtitle: "Traditions & idioms behind 8 major holidays",
-  festivalsCardCta: "Explore festivals",
-  dramasCardTitle: "Chinese Dramas",
-  dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir & more",
-  dramasCardCta: "Read essays",
-  poemsCardSubtitle: "27 iconic poems from Li Bai, Du Fu & more",
-  poemsCardCta: "Read poems",
+  festivalsFaqTitle: "Frequently Asked Questions",
+  festivalsFaqQ1: "What are the most important Chinese festivals?",
+  festivalsFaqA1: "Spring Festival is the most important, followed by Mid-Autumn Festival. Dragon Boat, Qingming, and Lantern Festival complete the \"big five.\"",
+  festivalsFaqQ2: "How are festival dates determined?",
+  festivalsFaqA2: "Most follow the lunisolar calendar, shifting yearly. Qingming (~April 4-5) and Winter Solstice (~December 21-22) are solar-term exceptions.",
+  festivalsFaqQ3: "What connects festivals and idioms?",
+  festivalsFaqA3: "Many idioms originated from festival legends — loyalty idioms tie to Dragon Boat, reunion idioms to Mid-Autumn. Using the right one shows cultural fluency.",
+  festivalsFaqQ4: "Do Chinese people celebrate Western holidays?",
+  festivalsFaqA4: "Valentine's Day, Christmas, and Halloween are popular in cities among younger generations, but traditional festivals remain primary for family gatherings.",
+  charactersHeroDesc: "Explore {count}+ Chinese characters that appear in our collection of 1000+ idioms (chengyu).",
+  charactersDetailTitle: "Chinese Idioms Containing \"{char}\"",
+  charactersDetailCount: "{count} idioms featuring this character",
+  charactersDetailCountSingular: "{count} idiom featuring this character",
+  poetsDynastyMasters: "Tang Dynasty Masters",
+  hskFaqQ1: "What is the HSK test?",
+  hskFaqA1: "HSK (Hanyu Shuiping Kaoshi) is China's standardized test of Chinese language proficiency for non-native speakers. It has 6 levels, from HSK 1 (beginner, ~150 words) to HSK 6 (advanced, ~5000 words).",
+  hskFaqQ2: "How many HSK levels are there?",
+  hskFaqA2: "There are 6 HSK levels. HSK 1-2 are beginner (CEFR A1-A2), HSK 3-4 are intermediate (B1-B2), and HSK 5-6 are advanced (C1-C2).",
+  hskSchemaItemListName: "HSK {level} Vocabulary",
+  slangCollectionName: "Chinese Internet Slang",
+  phrasesCollectionName: "Common Chinese Phrases",
 };
 
 function buildPrompt(langName) {

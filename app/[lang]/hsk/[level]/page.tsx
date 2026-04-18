@@ -84,7 +84,7 @@ export default async function TranslatedHSKLevelPage({ params }: { params: Promi
     {
       "@context": "https://schema.org",
       "@type": "ItemList",
-      "name": `HSK ${level} Vocabulary`,
+      "name": getTranslation(lang, 'hskSchemaItemListName').replace('{level}', String(level)),
       "description": info.description,
       "url": `https://www.chineseidioms.com/${lang}/hsk/${level}`,
       "numberOfItems": words.length,

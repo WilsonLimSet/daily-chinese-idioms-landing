@@ -75,13 +75,13 @@ export default async function TranslatedHSKIndexPage({ params }: { params: Promi
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "What is the HSK test?",
-          "acceptedAnswer": { "@type": "Answer", "text": "HSK (Hanyu Shuiping Kaoshi) is China's standardized test of Chinese language proficiency for non-native speakers. It has 6 levels, from HSK 1 (beginner, ~150 words) to HSK 6 (advanced, ~5000 words)." }
+          "name": getTranslation(lang, 'hskFaqQ1'),
+          "acceptedAnswer": { "@type": "Answer", "text": getTranslation(lang, 'hskFaqA1') }
         },
         {
           "@type": "Question",
-          "name": "How many HSK levels are there?",
-          "acceptedAnswer": { "@type": "Answer", "text": "There are 6 HSK levels. HSK 1-2 are beginner (CEFR A1-A2), HSK 3-4 are intermediate (B1-B2), and HSK 5-6 are advanced (C1-C2)." }
+          "name": getTranslation(lang, 'hskFaqQ2'),
+          "acceptedAnswer": { "@type": "Answer", "text": getTranslation(lang, 'hskFaqA2') }
         }
       ]
     },

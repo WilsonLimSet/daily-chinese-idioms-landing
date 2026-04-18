@@ -87,7 +87,7 @@ export default async function TranslatedSlangDetailPage({ params }: { params: Pr
       "description": term.meaning,
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
-        "name": "Chinese Internet Slang",
+        "name": getTranslation(lang, 'slangCollectionName'),
         "url": `https://www.chineseidioms.com/${lang}/slang`
       }
     },

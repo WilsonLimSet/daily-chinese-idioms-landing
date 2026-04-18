@@ -83,35 +83,21 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
     },
   };
 
+  const faqEntries = [
+    { q: getTranslation(lang, 'festivalsFaqQ1'), a: getTranslation(lang, 'festivalsFaqA1') },
+    { q: getTranslation(lang, 'festivalsFaqQ2'), a: getTranslation(lang, 'festivalsFaqA2') },
+    { q: getTranslation(lang, 'festivalsFaqQ3'), a: getTranslation(lang, 'festivalsFaqA3') },
+    { q: getTranslation(lang, 'festivalsFaqQ4'), a: getTranslation(lang, 'festivalsFaqA4') },
+  ];
+
   const faqStructuredData = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What are the most important Chinese festivals?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The most important Chinese festivals are Spring Festival (Chinese New Year), Mid-Autumn Festival, Dragon Boat Festival, Qingming Festival, and Lantern Festival.",
-        },
-      },
-      {
-        "@type": "Question",
-        "name": "How are Chinese festival dates determined?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Most Chinese festivals follow the traditional lunisolar calendar, so their dates shift each year on the Western calendar. Exceptions include Qingming Festival (around April 4-5) and Winter Solstice (December 21-22).",
-        },
-      },
-      {
-        "@type": "Question",
-        "name": "What is the connection between Chinese festivals and idioms?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Chinese idioms (chengyu) are deeply woven into festival traditions. Many originated from festival legends — idioms about loyalty connect to Qu Yuan and Dragon Boat Festival, while idioms about family reunion are central to Mid-Autumn and Spring Festival greetings.",
-        },
-      },
-    ],
+    "mainEntity": faqEntries.map(({ q, a }) => ({
+      "@type": "Question",
+      "name": q,
+      "acceptedAnswer": { "@type": "Answer", "text": a },
+    })),
   };
 
   return (
@@ -290,34 +276,12 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
               {getTranslation(lang, 'festivalsFAQ')}
             </h2>
             <div className="grid md:grid-cols-2 gap-x-12 gap-y-8">
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-2">What are the most important Chinese festivals?</h3>
-                <p className="text-gray-500 text-sm leading-relaxed">
-                  Spring Festival is the most important, followed by Mid-Autumn Festival.
-                  Dragon Boat, Qingming, and Lantern Festival complete the &ldquo;big five.&rdquo;
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-2">How are festival dates determined?</h3>
-                <p className="text-gray-500 text-sm leading-relaxed">
-                  Most follow the lunisolar calendar, shifting yearly. Qingming (~April 4-5) and
-                  Winter Solstice (~December 21-22) are solar-term exceptions.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-2">What connects festivals and idioms?</h3>
-                <p className="text-gray-500 text-sm leading-relaxed">
-                  Many idioms originated from festival legends — loyalty idioms tie to Dragon Boat,
-                  reunion idioms to Mid-Autumn. Using the right one shows cultural fluency.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-semibold text-gray-900 mb-2">Do Chinese people celebrate Western holidays?</h3>
-                <p className="text-gray-500 text-sm leading-relaxed">
-                  Valentine&apos;s Day, Christmas, and Halloween are popular in cities among younger generations,
-                  but traditional festivals remain primary for family gatherings.
-                </p>
-              </div>
+              {faqEntries.map(({ q, a }, i) => (
+                <div key={i}>
+                  <h3 className="font-semibold text-gray-900 mb-2">{q}</h3>
+                  <p className="text-gray-500 text-sm leading-relaxed">{a}</p>
+                </div>
+              ))}
             </div>
           </section>
         </div>

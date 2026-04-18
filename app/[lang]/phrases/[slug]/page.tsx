@@ -75,7 +75,7 @@ export default async function TranslatedPhraseDetailPage({ params }: { params: P
       "description": term.meaning,
       "inDefinedTermSet": {
         "@type": "DefinedTermSet",
-        "name": "Common Chinese Phrases",
+        "name": getTranslation(lang, 'phrasesCollectionName'),
         "url": `https://www.chineseidioms.com/${lang}/phrases`
       }
     },

@@ -40,7 +40,6 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 export default async function TranslatedPoetsIndexPage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
   const poets = loadTranslatedPoets(lang);
-  const langName = LANGUAGES[lang as keyof typeof LANGUAGES] || 'English';
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
@@ -57,12 +56,12 @@ export default async function TranslatedPoetsIndexPage({ params }: { params: Pro
       <main className="flex-1">
         <div className="max-w-5xl mx-auto px-6">
           <header className="pt-20 pb-16 text-center">
-            <p className="text-sm font-medium text-amber-600 tracking-widest uppercase mb-4">Tang Dynasty Masters</p>
+            <p className="text-sm font-medium text-amber-600 tracking-widest uppercase mb-4">{getTranslation(lang, 'poetsDynastyMasters')}</p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-neutral-900 tracking-tight leading-[1.1]">
               {getTranslation(lang, 'poetsTitle')}
             </h1>
             <p className="text-lg text-neutral-500 mt-5 max-w-xl mx-auto leading-relaxed">
-              The golden age of Chinese poetry. Biographies and poems in {langName}.
+              {getTranslation(lang, 'poetsSubtitle')}
             </p>
           </header>
 
