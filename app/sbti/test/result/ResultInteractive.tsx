@@ -8,6 +8,7 @@ import type { DimensionMeta, QuizUIResult } from '@/src/lib/sbti-quiz';
 import RadarChart from './RadarChart';
 import ShareRow from './ShareRow';
 import DimensionBreakdown from './DimensionBreakdown';
+import AdUnit from '@/app/components/AdUnit';
 
 type Props = {
   typeCode: string;
@@ -243,6 +244,8 @@ export default function ResultInteractive({
                   <ShareRow typeCode={typeCode} tagline={tagline} resultUrl={resultUrl} />
                 </div>
               </article>
+
+              <AdUnit type="in-article" className="mt-10" />
             </div>
           </div>
         </section>

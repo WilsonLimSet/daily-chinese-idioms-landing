@@ -7,6 +7,7 @@ import LanguageSelector from '../components/LanguageSelector'
 import { getAllBlogPosts } from '@/src/lib/blog'
 import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles'
 import { getQuiz } from '@/src/lib/sbti-quiz'
+import AdUnit from '../components/AdUnit'
 
 export async function generateStaticParams() {
   return Object.keys(LANGUAGES).map((lang) => ({ lang }));
@@ -185,6 +186,11 @@ export default async function InternationalHomePage({
           </div>
         </div>
       </section>
+
+      {/* In-article ad between themes and curated collections */}
+      <div className="container mx-auto px-6 bg-white">
+        <AdUnit type="in-article" className="max-w-4xl mx-auto" />
+      </div>
 
       {/* Curated Collections */}
       <section className="bg-gray-50 py-12">

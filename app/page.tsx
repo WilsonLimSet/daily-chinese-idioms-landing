@@ -2,6 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { BookOpen, Search, Layers, ArrowRight } from 'lucide-react'
 import LanguageSelector from './components/LanguageSelector'
+import AdUnit from './components/AdUnit'
 import { getAllBlogPosts } from '@/src/lib/blog'
 import { getAllListicles } from '@/src/lib/listicles'
 
@@ -157,6 +158,11 @@ export default async function Home() {
           </div>
         </div>
       </section>
+
+      {/* In-article ad between Browse by Theme and Curated Collections */}
+      <div className="container mx-auto px-6 bg-white">
+        <AdUnit type="in-article" className="max-w-4xl mx-auto" />
+      </div>
 
       {/* Curated Collections */}
       <section className="bg-gray-50 py-12">
