@@ -2,19 +2,19 @@
   {
     "id": "P030",
     "slug": "jiang-jin-jiu",
-    "title": "Bring in the Wine",
+    "title": "Bawa Anggur Itu",
     "titleChinese": "将进酒",
     "titlePinyin": "jiāng jìn jiǔ",
     "translation": "Do you not see the waters of the Yellow River come from heaven, rushing to the sea, never to return? Do you not see the mirrors in high halls reflecting white hair in grief — black silk at dawn, snow by dusk? When life goes well, enjoy it to the fullest; don't let your golden cup sit empty under the moon. Heaven gave me talents that must be put to use; a thousand gold coins spent will all come back again. Roast your mutton, slaughter your cattle, and make merry — we must drink three hundred cups",
     "background": "Ini adalah puisi minum Li Bai yang paling terkenal dan salah satu puisi Tiongkok terhebat yang pernah ditulis. Dia menyusunnya sekitar tahun 752 M saat mengunjungi teman-teman Cen Xun dan Danqiu di pegunungan. Puisi ini adalah perayaan kehidupan yang menantang di tengah kefanaan, pemberontakan terhadap nilai-nilai konvensional kekayaan dan status, dan argumen yang penuh semangat untuk hidup sepenuhnya di saat ini.",
     "analysis": "Puisi ini dibuka dengan dua gambar termegah dalam puisi Tiongkok: Sungai Kuning mengalir dari surga dan rambut berubah dari hitam menjadi putih dalam satu hari. Keduanya menyampaikan kecepatan mengerikan di mana kehidupan berlalu. Dari krisis eksistensial ini, Li Bai tidak beralih ke keputusasaan tetapi ke ekstasi — jika hidup ini singkat, maka rebutlah kegembiraan sekarang. Eskalasi tidak henti-hentinya: minum 300 cangkir, jangan pernah berhenti, tukar kudamu",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Syair Kuno (古体诗)",
     "theme": "Life & Philosophy",
     "originalSlug": "jiang-jin-jiu",
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -122,18 +122,19 @@
         "pinyin": "yǔ ěr tóng xiāo wàn gǔ chóu."
       }
     ],
-    "traditionalChinese": "君不見，黃河之水天上來，奔流到海不復回。君不見，高堂明鏡悲白髮，朝如青絲暮成雪。人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。烹羊宰牛且為樂，會須一飲三百杯。岑夫子，丹丘生，將進酒，杯莫停。與君歌一曲，請君為我傾耳聽。鐘鼓饌玉不足貴，但願長醉不願醒。古來聖賢皆寂寞，惟有飲者留其名。陳王昔時宴平樂，斗酒十千恣歡謔。主人何為言少錢，徑須沽取對君酌。五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。"
+    "traditionalChinese": "君不見，黃河之水天上來，奔流到海不復回。君不見，高堂明鏡悲白髮，朝如青絲暮成雪。人生得意須盡歡，莫使金樽空對月。天生我材必有用，千金散盡還復來。烹羊宰牛且為樂，會須一飲三百杯。岑夫子，丹丘生，將進酒，杯莫停。與君歌一曲，請君為我傾耳聽。鐘鼓饌玉不足貴，但願長醉不願醒。古來聖賢皆寂寞，惟有飲者留其名。陳王昔時宴平樂，斗酒十千恣歡謔。主人何為言少錢，徑須沽取對君酌。五花馬，千金裘，呼兒將出換美酒，與爾同銷萬古愁。",
+    "themeTranslated": "Kehidupan & Filosofi"
   },
   {
     "id": "P001",
     "slug": "jing-ye-si",
-    "title": "Pikiran Malam yang Tenang",
+    "title": "Renungan Malam yang Tenang",
     "titleChinese": "静夜思",
     "titlePinyin": "jìng yè sī",
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -161,9 +162,10 @@
     "translation": "Di depan tempat tidurku, cahaya bulan yang cerah bersinar — aku bertanya-tanya apakah itu embun beku di tanah. Aku mengangkat kepalaku untuk menatap bulan yang cerah, lalu menundukkannya, memikirkan tanah airku.",
     "background": "Ditulis sekitar tahun 726 M, ini mungkin adalah puisi Tiongkok yang paling terkenal yang pernah ditulis. Li Bai menulisnya saat bepergian jauh dari kampung halamannya di Sichuan. Puisi ini menangkap momen universal: terjaga di malam hari, melihat cahaya bulan, dan merasakan sakitnya jauh dari rumah. Hampir setiap orang Tiongkok dapat menghafal puisi ini, karena ini adalah salah satu puisi pertama yang diajarkan kepada anak-anak.",
     "analysis": "Kecerdasan puisi ini terletak pada kesederhanaannya. Dalam hanya 20 karakter, Li Bai menciptakan lengkungan emosional yang lengkap: pengamatan (cahaya bulan), kebingungan (apakah itu embun beku?), tindakan (melihat ke atas), dan perasaan (rindu rumah). Struktur paralel dari dua baris terakhir — mengangkat dan menundukkan kepala — mencerminkan gerakan antara dunia eksternal (bulan) dan perasaan internal (kerinduan). Bulan berfungsi sebagai jembatan antara penyair dan rumahnya yang jauh, karena bulan yang sama bersinar di keduanya.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Homesickness & Longing",
-    "originalSlug": "jing-ye-si"
+    "originalSlug": "jing-ye-si",
+    "themeTranslated": "Rindu & Kerinduan"
   },
   {
     "id": "P002",
@@ -174,7 +176,7 @@
     "poet": {
       "name": "Meng Haoran",
       "nameChinese": "孟浩然",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "689",
       "deathYear": "740",
@@ -202,9 +204,10 @@
     "translation": "Dalam tidur musim semi, fajar tiba tanpa terasa — di mana-mana aku mendengar burung bernyanyi. Suara angin dan hujan datang semalam; siapa yang tahu berapa banyak kelopak yang telah jatuh?",
     "background": "Puisi yang tampaknya sederhana ini adalah salah satu puisi pertama yang dipelajari anak-anak Tiongkok. Meng Haoran menangkap kesenangan mengantuk dari tidur larut di pagi musim semi, lalu beralih ke melankolis lembut saat ia bertanya-tanya tentang bunga yang terjatuh karena hujan semalam. Puisi ini berasal dari awal abad ke-8.",
     "analysis": "Puisi ini bergerak melalui indra: pertama sentuhan (kehangatan tempat tidur), kemudian pendengaran (nyanyian burung, kemudian suara hujan yang diingat), dan akhirnya imajinasi (bunga yang jatuh). Pertanyaan penutup bersifat terbuka — penyair tidak bangun untuk memeriksa, meninggalkan kehilangan keindahan sebagai pemikiran yang mengganggu. Interaksi antara kenyamanan dan ketidakabadian ini sangat khas dalam sensibilitas estetika Tiongkok.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "chun-xiao"
+    "originalSlug": "chun-xiao",
+    "themeTranslated": "Musim & Waktu"
   },
   {
     "id": "P003",
@@ -215,7 +218,7 @@
     "poet": {
       "name": "Wang Zhihuan",
       "nameChinese": "王之涣",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "688",
       "deathYear": "742",
@@ -243,9 +246,10 @@
     "translation": "Matahari putih terbenam di balik gunung; Sungai Kuning mengalir ke laut. Jika kamu ingin melihat seribu mil lebih jauh, naiklah satu lantai lagi dari menara.",
     "background": "Ditulis di Menara Bangau (鹳雀楼) di provinsi Shanxi, menghadap Sungai Kuning. Menara ini, yang awalnya dibangun selama Dinasti Zhou Utara, adalah tempat wisata terkenal. Puisi ini telah menjadi peribahasa untuk ambisi dan perbaikan diri — \"naik satu lantai lagi\" digunakan dalam bahasa Tiongkok sehari-hari untuk berarti \"mencapai tingkat berikutnya.\"",
     "analysis": "Dua baris pertama melukiskan panorama yang luas: matahari menghilang di balik gunung, sungai mengalir ke laut yang jauh. Kedua gambar ini menyampaikan kebesaran dan perjalanan hal-hal di luar kendali manusia. Dua baris terakhir beralih dari pengamatan ke filosofi: untuk melihat lebih jauh, kamu harus mendaki lebih tinggi. Metafora untuk perbaikan diri yang berkelanjutan ini telah menjadikan puisi ini sebagai motto yang abadi dalam budaya Tiongkok.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Life & Philosophy",
-    "originalSlug": "deng-guan-que-lou"
+    "originalSlug": "deng-guan-que-lou",
+    "themeTranslated": "Kehidupan & Filosofi"
   },
   {
     "id": "P004",
@@ -256,7 +260,7 @@
     "poet": {
       "name": "Luo Binwang",
       "nameChinese": "骆宾王",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "619",
       "deathYear": "687",
@@ -284,20 +288,21 @@
     "translation": "Angsa, angsa, angsa — kamu membungkukkan lehermu dan bernyanyi ke arah langit. Bulu putih mengapung di atas air hijau; kaki merah mendayung ombak yang jernih.",
     "background": "Legenda mengatakan bahwa Luo Binwang mengarang puisi ini pada usia tujuh tahun ketika seorang yang lebih tua memintanya untuk menulis tentang angsa. Ini biasanya adalah puisi pertama yang diajarkan kepada anak-anak Tiongkok, dicintai karena warna-warnanya yang cerah, pengulangan yang menyenangkan, dan keajaiban anak-anak. Puisi ini berasal dari sekitar tahun 626 M.",
     "analysis": "Pengulangan tiga kali dari \"angsa\" di awal meniru kegembiraan seorang anak. Puisi ini kemudian membangun palet warna yang hidup: bulu putih, air hijau, kaki merah, ombak jernih. Setiap detailnya tepat dan sensori. Meskipun kesederhanaannya, puisi ini menunjukkan teknik yang canggih — kontras warna dan kata kerja dinamis (mengapung, mendayung) menghidupkan adegan.",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Syair Kuno (古体诗)",
     "theme": "Nature & Landscape",
-    "originalSlug": "yong-e"
+    "originalSlug": "yong-e",
+    "themeTranslated": "Alam & Pemandangan"
   },
   {
     "id": "P005",
     "slug": "min-nong",
-    "title": "Simpatik untuk Para Petani",
+    "title": "Kepedulian untuk Petani",
     "titleChinese": "悯农（其二）",
     "titlePinyin": "mǐn nóng (qí èr)",
     "poet": {
       "name": "Li Shen",
       "nameChinese": "李绅",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -325,20 +330,21 @@
     "translation": "Mencangkul biji-bijian di bawah sinar matahari tengah hari, keringat menetes ke tanah di bawah tanaman. Siapa yang tahu bahwa makanan di piringmu — setiap butirnya adalah hasil kerja keras?",
     "background": "Puisi ini adalah pelajaran moral tentang menghormati makanan dan kerja keras di baliknya. Ini dibacakan oleh hampir setiap anak Tiongkok dan sering dikutip oleh orang tua saat waktu makan. Puisi ini ditulis pada masa ketika kesenjangan antara kelas kaya dan pekerja sangat mencolok, dan Li Shen berusaha mengingatkan orang-orang yang berprivilege tentang biaya manusia di balik makanan mereka.",
     "analysis": "Kekuatan puisi ini terletak pada ketegasannya. Dua baris pertama menempatkan kita di ladang di bawah sinar matahari yang menyengat — kita dapat merasakan panas dan melihat keringat. Pertanyaan retoris di baris ketiga langsung mengarah kepada pembaca, menciptakan rasa bersalah atau tanggung jawab. Baris terakhir, dengan pengulangan \"setiap butir\" (粒粒), menekankan bahwa tidak ada jumlah makanan yang boleh disia-siakan.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Life & Philosophy",
-    "originalSlug": "min-nong"
+    "originalSlug": "min-nong",
+    "themeTranslated": "Kehidupan & Filosofi"
   },
   {
     "id": "P006",
     "slug": "wang-lu-shan-pu-bu",
-    "title": "Melihat Air Terjun di Gunung Lu",
+    "title": "Pemandangan Air Terjun di Gunung Lu",
     "titleChinese": "望庐山瀑布",
     "titlePinyin": "wàng lú shān pù bù",
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -366,9 +372,10 @@
     "translation": "Cahaya matahari di Puncak Pembakar Dupa menghasilkan kabut ungu; dari jauh saya melihat air terjun menggantung di atas sungai. Arusnya terjun langsung sejauh tiga ribu kaki — seolah-olah Galaksi Bima Sakti jatuh dari surga kesembilan.",
     "background": "Li Bai menulis puisi ini saat mengunjungi Gunung Lu (庐山) di provinsi Jiangxi, salah satu gunung paling terkenal di Tiongkok. \"Puncak Pembakar Dupa\" (香炉峰) adalah puncak yang kabutnya, ketika diterangi cahaya matahari, menyerupai asap dupa. Air terjun yang dijelaskan kemungkinan adalah Air Terjun Kai先 (开先瀑布), salah satu dari beberapa air terjun di Gunung Lu.",
     "analysis": "Puisi ini menunjukkan hiperbola dan imajinasi kosmik khas Li Bai. Progresi membangun dari pengamatan realistis (cahaya matahari di kabut) menuju deskripsi yang semakin fantastis — air terjun \"menggantung\" seperti tirai, terjun \"tiga ribu kaki,\" dan akhirnya menjadi Galaksi Bima Sakti itu sendiri jatuh dari surga. Angka \"sembilan\" dalam kosmologi Tiongkok mewakili yang tertinggi, menjadikan \"surga kesembilan\" sebagai ketinggian tertinggi.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "wang-lu-shan-pu-bu"
+    "originalSlug": "wang-lu-shan-pu-bu",
+    "themeTranslated": "Alam & Pemandangan"
   },
   {
     "id": "P007",
@@ -379,7 +386,7 @@
     "poet": {
       "name": "Du Fu",
       "nameChinese": "杜甫",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "712",
       "deathYear": "770",
@@ -423,20 +430,21 @@
     "translation": "Negara ini hancur, meskipun gunung dan sungai tetap ada; kota di musim semi ditumbuhi rumput dan pohon. Tergerak oleh zaman, bunga-bunga membawa air mata; membenci perpisahan, suara burung mengejutkan hati. Api suar telah menyala selama tiga bulan berturut-turut; surat dari rumah bernilai sepuluh ribu dalam emas. Saya menggaruk rambut putih saya, yang semakin menipis — segera tidak akan bisa menahan jepit rambut.",
     "background": "Ditulis pada musim semi tahun 757 M, selama Pemberontakan An Lushan (755–763) yang menghancurkan Dinasti Tang. Du Fu terjebak di ibu kota yang diduduki pemberontak, Chang'an, terpisah dari keluarganya. Puisi ini menangkap kesedihan menyaksikan kehancuran nasional sambil khawatir tentang orang-orang tercinta. Ini dianggap sebagai salah satu puisi perang terbesar dalam sastra Tiongkok.",
     "analysis": "Baris pembuka sangat mencolok dalam kontrasnya: negara ini \"hancur\" tetapi alam bertahan — gunung dan sungai tetap acuh tak acuh terhadap bencana manusia. Dalam baris ketiga dan keempat yang terkenal, bahkan hal-hal yang indah (bunga, suara burung) menjadi sumber rasa sakit karena keadaan emosional penyair mengubah segalanya. Frasa \"surat dari rumah bernilai sepuluh ribu dalam emas\" (家书抵万金) telah menjadi ungkapan umum Tiongkok yang masih digunakan hingga hari ini.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Syair Regulasi Lima-Karakter (五言律诗)",
     "theme": "War & Frontier",
-    "originalSlug": "chun-wang"
+    "originalSlug": "chun-wang",
+    "themeTranslated": "Perang & Perbatasan"
   },
   {
     "id": "P008",
     "slug": "lu-chai",
-    "title": "Kandang Rusa",
+    "title": "Pagar Rusa",
     "titleChinese": "鹿柴",
     "titlePinyin": "lù zhài",
     "poet": {
       "name": "Wang Wei",
       "nameChinese": "王维",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "761",
@@ -464,20 +472,21 @@
     "translation": "Di gunung yang kosong, tidak ada yang bisa dilihat — namun suara bergema dari suatu tempat. Cahaya matahari yang kembali memasuki hutan yang dalam dan bersinar lagi di atas lumut hijau.",
     "background": "Ini adalah salah satu dari dua puluh puisi dalam \"Koleksi Sungai Wang\" (辋川集) karya Wang Wei, yang menggambarkan pemandangan di sekitar perkebunan pedesannya di Pegunungan Zhongnan dekat Chang'an. Kandang Rusa adalah lokasi spesifik di properti tersebut. Wang Wei menyusun puisi-puisi ini selama periode pengunduran diri dari kehidupan resmi, sangat dipengaruhi oleh Buddhisme Chan (Zen).",
     "analysis": "Puisi ini adalah kelas master dalam menciptakan suasana melalui ketidakhadiran. \"Gunung kosong\" dengan suara yang tidak terlihat menciptakan paradoks — kekosongan tidak benar-benar kosong. Sinar matahari yang memasuki hutan yang dalam hanya menerangi lumut, menunjukkan betapa jarangnya cahaya (atau orang) menembus tempat ini. Puisi ini mewujudkan konsep Zen tentang menemukan kehadiran yang mendalam dalam kekosongan yang tampak.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "lu-chai"
+    "originalSlug": "lu-chai",
+    "themeTranslated": "Alam & Pemandangan"
   },
   {
     "id": "P010",
     "slug": "song-yuan-er-shi-an-xi",
-    "title": "Perpisahan dengan Yuan Er dalam Misinya ke Anxi",
+    "title": "Perpisahan dengan Yuan Er saat Tugas ke Anxi",
     "titleChinese": "送元二使安西",
     "titlePinyin": "sòng yuán èr shǐ ān xī",
     "poet": {
       "name": "Wang Wei",
       "nameChinese": "王维",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "761",
@@ -505,9 +514,10 @@
     "translation": "Hujan pagi di Weicheng telah membasahi debu ringan; penginapan segar dan hijau dengan warna willow baru. Saya mendesak Anda untuk minum satu cangkir anggur lagi — di barat Gerbang Yang, Anda tidak akan memiliki teman lama.",
     "background": "Wang Wei menulis puisi ini untuk mengucapkan selamat tinggal kepada temannya Yuan Er, yang sedang dikirim dalam misi diplomatik ke Anxi (di Xinjiang modern), jauh di luar perbatasan barat. Gerbang Yang (阳关) adalah gerbang terakhir sebelum wilayah barat yang tandus. Puisi ini kemudian diatur menjadi musik sebagai \"Tiga Variasi di Gerbang Yang\" (阳关三叠), menjadi lagu perpisahan paling terkenal dalam sejarah Tiongkok.",
     "analysis": "Hujan pagi yang mencuci debu menciptakan pemandangan kesegaran dan kejernihan yang kontras dengan perpisahan yang akan datang. Willow (柳) adalah simbol perpisahan tradisional dalam budaya Tiongkok, karena kata tersebut terdengar seperti \"tinggal\" (留). Urgensi dalam baris ketiga — \"minum satu cangkir lagi\" — membawa beban mengetahui ini mungkin adalah terakhir kalinya teman-teman berbagi anggur. Baris terakhir sangat menghancurkan dalam kesederhanaannya: di luar Gerbang Yang, tidak akan ada orang yang Anda kenal.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "song-yuan-er-shi-an-xi"
+    "originalSlug": "song-yuan-er-shi-an-xi",
+    "themeTranslated": "Persahabatan & Perpisahan"
   },
   {
     "id": "P011",
@@ -518,7 +528,7 @@
     "poet": {
       "name": "Meng Jiao",
       "nameChinese": "孟郊",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "751",
       "deathYear": "814",
@@ -554,20 +564,21 @@
     "translation": "Benang kasih sayang seorang ibu ada di tangannya — pakaian untuk anaknya yang mengembara. Sebelum dia pergi, dia menjahit dengan jahitan yang rapat dan padat, takut dia akan lama kembali. Siapa yang bilang hati sehelai rumput dapat membalas kehangatan tiga musim sinar matahari?",
     "background": "Meng Jiao menulis puisi ini setelah akhirnya lulus ujian kekaisaran pada usia 46 tahun. Puisi ini adalah penghormatan kepada ibunya, yang mendukung dan mempercayainya melalui dekade kegagalan dan kemiskinan. Ini telah menjadi puisi Tiongkok yang paling khas tentang cinta seorang ibu dan dibacakan pada Hari Ibu di seluruh dunia berbahasa Tiongkok.",
     "analysis": "Puisi ini menciptakan kekuatan emosionalnya melalui satu gambar konkret: seorang ibu menjahit pakaian untuk putranya yang pergi. \"Jahitan yang rapat dan padat\" mengungkapkan kecemasannya — seolah-olah menjahit lebih erat bisa menjaga dia lebih dekat atau melindunginya lebih lama. Metafora penutup membandingkan kemampuan anak untuk membalas ibunya dengan sehelai rumput yang mencoba membalas matahari untuk tiga musim kehangatan — utang rasa syukur yang mustahil.",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Syair Kuno (古体诗)",
     "theme": "Love & Devotion",
-    "originalSlug": "you-zi-yin"
+    "originalSlug": "you-zi-yin",
+    "themeTranslated": "Cinta & Pengabdian"
   },
   {
     "id": "P012",
     "slug": "jiang-xue",
-    "title": "River Snow",
+    "title": "Salju di Sungai",
     "titleChinese": "江雪",
     "titlePinyin": "jiāng xuě",
     "poet": {
       "name": "Liu Zongyuan",
       "nameChinese": "柳宗元",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "773",
       "deathYear": "819",
@@ -595,20 +606,21 @@
     "translation": "Dari seribu gunung, burung telah menghilang; di sepuluh ribu jalan, jejak manusia telah lenyap. Sebuah perahu sendirian, seorang lelaki tua dengan jubah dan topi jerami — memancing sendirian di salju sungai yang dingin.",
     "background": "Liu Zongyuan menulis puisi ini selama pengasingan politiknya di Yongzhou (Hunan modern). Setelah diusir karena perannya dalam gerakan reformasi yang gagal, ia menghabiskan lebih dari satu dekade di selatan yang terpencil. Puisi ini dibaca luas sebagai potret diri penyair dalam pengasingan — sendirian dan tak tertekuk. Ini adalah salah satu puisi Tiongkok yang paling ikonik secara visual, sering digambarkan dalam lukisan tradisional.",
     "analysis": "Puisi ini mencapai ketenangan luar biasa melalui negasi sistematis. Pertama semua burung menghilang, kemudian semua jejak manusia. Dunia kosong dari semua kehidupan kecuali satu lelaki tua. Skala sangat luas (seribu gunung, sepuluh ribu jalan) namun menyempit menjadi satu titik (satu perahu, satu sosok). Nelayan tua, sendirian di lanskap beku, mewujudkan integritas Konfusian — mempertahankan prinsip meskipun dalam isolasi total.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Kuint Kuatrin Lima-Karakter (五言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "jiang-xue"
+    "originalSlug": "jiang-xue",
+    "themeTranslated": "Alam & Pemandangan"
   },
   {
     "id": "P013",
     "slug": "chu-sai",
-    "title": "Out on the Frontier",
+    "title": "Di Perbatasan",
     "titleChinese": "出塞",
     "titlePinyin": "chū sài",
     "poet": {
       "name": "Wang Changling",
       "nameChinese": "王昌龄",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "698",
       "deathYear": "756",
@@ -636,20 +648,21 @@
     "translation": "Bulan yang sama yang bersinar di Qin, jalur yang sama dari Han — tentara berbaris sepuluh ribu mil dan belum kembali. Andai saja Jenderal Terbang dari Kota Naga ada di sini, dia tidak akan membiarkan kuda musuh melintasi Gunung Yin.",
     "background": "Puisi perbatasan ini (边塞诗) mencerminkan siklus tanpa akhir dari peperangan perbatasan sepanjang sejarah Tiongkok. \"Jenderal Terbang\" (飞将) merujuk pada Li Guang, seorang jenderal legendaris dari Dinasti Han yang terkenal karena mengalahkan nomaden Xiongnu. Wang Changling menulis selama periode kampanye militer Tang yang sedang berlangsung melawan bangsa utara dan barat.",
     "analysis": "Baris pembuka sangat menakjubkan dalam kompresi waktu: bulan yang sama dan jalur perbatasan yang sama telah menyaksikan peperangan dari Dinasti Qin hingga Han dan ke Tang saat ini. Abad berlalu tetapi situasi tidak pernah berubah — tentara masih berbaris pergi dan tidak kembali. Harapan akan seorang jenderal besar seperti Li Guang adalah patriotik dan menyedihkan, menyiratkan bahwa kepemimpinan saat ini tidak memadai dan tentara mati tanpa alasan.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "War & Frontier",
-    "originalSlug": "chu-sai"
+    "originalSlug": "chu-sai",
+    "themeTranslated": "Perang & Perbatasan"
   },
   {
     "id": "P014",
     "slug": "ye-yu-ji-bei",
-    "title": "Night Rain — Letter to the North",
+    "title": "Hujan Malam — Surat ke Utara",
     "titleChinese": "夜雨寄北",
     "titlePinyin": "yè yǔ jì běi",
     "poet": {
       "name": "Li Shangyin",
       "nameChinese": "李商隐",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "813",
       "deathYear": "858",
@@ -677,20 +690,21 @@
     "translation": "Kau bertanya kapan aku akan kembali — tidak ada tanggal yang ditetapkan. Hujan malam di Gunung Ba membengkak kolam musim gugur. Kapan kita akan duduk bersama memangkas lilin di jendela barat, dan berbicara tentang malam hujan ini di Gunung Ba?",
     "background": "Li Shangyin menulis puisi ini saat terjebak di daerah Ba (Sichuan), jauh dari istrinya di Chang'an. Surat yang ia terima menanyakan kapan ia akan kembali, tetapi ia tidak memiliki jawaban. Puisi ini luar biasa karena strukturnya: saat ini (hujan, kesepian) dan masa depan yang dibayangkan (pertemuan kembali) saling melipat melalui frasa yang diulang \"hujan malam di Gunung Ba.\"",
     "analysis": "Pengulangan \"hujan malam Gunung Ba\" (巴山夜雨) menciptakan loop temporal. Di masa kini, hujan adalah sumber melankolis. Di masa depan yang dibayangkan, hujan yang sama menjadi cerita untuk dibagikan dengan orang yang dicintai — mengubah penderitaan menjadi kenangan, kesepian menjadi keintiman. Tindakan \"memangkas lilin\" menyiratkan percakapan panjang yang tidak terburu-buru hingga larut malam. Puisi ini mengubah rasa sakit saat ini menjadi kelembutan di masa depan.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Love & Devotion",
-    "originalSlug": "ye-yu-ji-bei"
+    "originalSlug": "ye-yu-ji-bei",
+    "themeTranslated": "Cinta & Pengabdian"
   },
   {
     "id": "P015",
     "slug": "qing-ming",
-    "title": "Qingming Festival",
+    "title": "Festival Qingming",
     "titleChinese": "清明",
     "titlePinyin": "qīng míng",
     "poet": {
       "name": "Du Mu",
       "nameChinese": "杜牧",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "803",
       "deathYear": "852",
@@ -718,20 +732,21 @@
     "translation": "Selama Festival Qingming, hujan turun deras dan cepat; para pelancong di jalan lelah hingga ke jiwa mereka. \"Di mana aku bisa menemukan sebuah kedai?\" tanyaku — seorang anak gembala menunjuk ke Desa Bunga Aprikot di kejauhan.",
     "background": "Festival Qingming (Festival Kecerahan Jernih, juga disebut Hari Menyapu Makam) terjadi pada awal April, ketika keluarga mengunjungi makam leluhur. Hujan selama Qingming dianggap menguntungkan tetapi membuat acara yang sudah suram menjadi lebih melankolis. Puisi ini telah menjadi begitu terjalin dengan festival sehingga hampir tidak mungkin untuk menyebut Qingming tanpa seseorang mengutipnya.",
     "analysis": "Puisi ini menceritakan sebuah cerita miniatur. Hujan dan beban emosional festival ditetapkan dalam dua baris pertama. Kemudian pertukaran pertanyaan dan jawaban sederhana antara pelancong dan anak gembala memberikan perubahan. Gambar terakhir — sebuah desa jauh yang dinamai berdasarkan bunga aprikot — menawarkan perlindungan literal (sebuah kedai untuk beristirahat) dan harapan simbolis (keindahan di balik hujan). Struktur naratif puisi ini membuatnya terasa seperti adegan dari sebuah film.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "qing-ming"
+    "originalSlug": "qing-ming",
+    "themeTranslated": "Musim & Waktu"
   },
   {
     "id": "P016",
     "slug": "fu-de-gu-yuan-cao-song-bie",
-    "title": "Grasses",
+    "title": "Rumput",
     "titleChinese": "赋得古原草送别",
     "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
     "poet": {
       "name": "Bai Juyi",
       "nameChinese": "白居易",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -775,20 +790,21 @@
     "translation": "Rumput tak berujung di dataran — setiap tahun mereka layu dan tumbuh kembali. Kebakaran hutan tidak dapat membakarnya; angin musim semi bertiup dan mereka tumbuh sekali lagi. Aroma jauh mereka mencapai jalan tua; hijau yang terkena sinar matahari mereka bertemu dengan kota yang hancur. Sekali lagi aku mengantar seorang teman pergi — rumput tebal melimpah dengan kesedihan perpisahan.",
     "background": "Bai Juyi menulis puisi ini pada usia 16 tahun sebagai karya ujian. Legenda mengatakan bahwa ketika penyair terkenal Gu Kuang pertama kali membacanya, ia terkejut oleh bakat penyair muda tersebut. Baris \"Kebakaran hutan tidak dapat membakarnya; angin musim semi bertiup dan mereka tumbuh sekali lagi\" menjadi salah satu pasangan yang paling banyak dikutip dalam sastra Tiongkok, melambangkan ketahanan yang tak tergoyahkan.",
     "analysis": "Puisi ini bekerja pada dua level: sebagai pengamatan alam dan sebagai perpisahan. Rumput menjadi metafora untuk ketahanan kehidupan (bertahan dari api, kembali setiap musim semi) dan ketahanan kesedihan (selalu tumbuh kembali ketika teman berpisah). Bagian tengah memperluas pemandangan — rumput menjangkau sepanjang jalan kuno dan melawan kota yang hancur — menghubungkan perpisahan pribadi dengan perjalanan sejarah. Penutupan mengikat semuanya ke momen spesifik perpisahan.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Syair Regulasi Lima-Karakter (五言律诗)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "fu-de-gu-yuan-cao-song-bie"
+    "originalSlug": "fu-de-gu-yuan-cao-song-bie",
+    "themeTranslated": "Persahabatan & Perpisahan"
   },
   {
     "id": "P017",
     "slug": "zao-fa-bai-di-cheng",
-    "title": "Keberangkatan Awal dari Kota Kaisar Putih",
+    "title": "Keberangkatan Dini dari Kota Kaisar Putih",
     "titleChinese": "早发白帝城",
     "titlePinyin": "zǎo fā bái dì chéng",
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -816,20 +832,21 @@
     "translation": "Saat fajar saya meninggalkan Kota Kaisar Putih di antara awan berwarna-warni; seribu mil ke Jiangling, saya akan kembali dalam satu hari. Dari kedua tepi, jeritan monyet tak pernah berhenti — perahu ringan saya telah melewati sepuluh ribu gunung.",
     "background": "Li Bai menulis puisi ini pada tahun 759 M setelah diampuni dari pengasingan. Ia telah dijatuhi hukuman pengasingan di Guizhou yang terpencil karena keterlibatannya dalam pemberontakan politik, tetapi amnesti diumumkan saat ia sedang melakukan perjalanan ke hulu sungai. Puisi ini menangkap kebahagiaannya saat ia bergegas kembali ke hilir melalui Tiga Ngarai Sungai Yangtze. Keceriaan itu terasa nyata.",
     "analysis": "Puisi ini meluap dengan kecepatan dan kegembiraan. \"Awan berwarna-warni\" membingkai keberangkatan dalam keindahan; \"seribu mil dalam satu hari\" menyampaikan kecepatan yang menakjubkan. Jeritan monyet — simbol tradisional kesedihan dalam puisi Tiongkok — diubah di sini: mereka tidak dapat memperlambatnya. Kalimat terakhir yang menggunakan bentuk lampau (\"telah melewati\") menciptakan perasaan tanpa usaha, seolah-olah gunung-gunung melintas saat kita tidak melihat. Ini adalah Li Bai dalam keadaan paling gembira.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "zao-fa-bai-di-cheng"
+    "originalSlug": "zao-fa-bai-di-cheng",
+    "themeTranslated": "Alam & Pemandangan"
   },
   {
     "id": "P018",
     "slug": "huang-he-lou-song-meng-hao-ran",
-    "title": "Mengantar Meng Haoran di Menara Kran Kuning",
+    "title": "Selamat Tinggal kepada Meng Haoran di Menara Bangau Kuning",
     "titleChinese": "黄鹤楼送孟浩然之广陵",
     "titlePinyin": "huáng hè lóu sòng mèng hào rán zhī guǎng líng",
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -857,9 +874,10 @@
     "translation": "Teman lamaku mengucapkan selamat tinggal di Menara Kran Kuning di barat, di tengah kabut dan bunga bulan Maret, menuju Yangzhou. Bayangan layar tunggalnya yang jauh menghilang ke langit biru — yang saya lihat hanyalah Sungai Yangtze mengalir ke tepi surga.",
     "background": "Li Bai menulis puisi ini untuk mengantar temannya dan sesama penyair Meng Haoran, yang sedang bepergian ke timur menuju Yangzhou. Menara Kran Kuning di Wuhan adalah salah satu landmark paling terkenal di Tiongkok. Kedua penyair memiliki persahabatan yang dalam, dan Li Bai sangat mengagumi Meng Haoran yang lebih tua. Puisi ini berlatar bulan terindah — Maret, ketika tepi sungai dipenuhi bunga.",
     "analysis": "Puisi ini tidak secara langsung menyatakan perasaan Li Bai — sebaliknya, emosinya disampaikan melalui apa yang ia saksikan. Ia berdiri di menara mengamati perahu temannya hingga layar menghilang ke cakrawala, lalu terus mengamati saat sungai mengalir. Fakta bahwa ia terus menatap setelah perahu menghilang mengungkapkan kedalaman keterikatannya. Gambar terakhir — Sungai Yangtze membentang ke tepi surga — mengubah kesedihan pribadi menjadi kebesaran kosmik.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "huang-he-lou-song-meng-hao-ran"
+    "originalSlug": "huang-he-lou-song-meng-hao-ran",
+    "themeTranslated": "Persahabatan & Perpisahan"
   },
   {
     "id": "P019",
@@ -870,7 +888,7 @@
     "poet": {
       "name": "Du Fu",
       "nameChinese": "杜甫",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "712",
       "deathYear": "770",
@@ -914,20 +932,21 @@
     "translation": "Angin kencang, langit tinggi, monyet melolong dalam kesedihan; pulau yang jelas, pasir putih, burung berputar kembali. Daun-daun yang jatuh tanpa batas berdesir turun; Sungai Yangtze yang tak berujung mengalir dan mengalir terus. Sepuluh ribu mil dari rumah, selamanya menjadi tamu di musim gugur yang menyedihkan; seratus tahun sakit, saya mendaki teras sendirian. Kesulitan dan penyesalan pahit telah membekukan pelipis saya; lelah, saya baru saja menyerahkan cangkir anggur keruh saya.",
     "background": "Ditulis pada tahun 767 M di Kuizhou (sekarang Chongqing) selama tahun-tahun akhir Du Fu. Penyair itu sudah tua, sakit, miskin, dan jauh dari rumah. Tradisi Festival Double Ninth mengharuskan mendaki tempat tinggi dan minum anggur, tetapi Du Fu terlalu sakit untuk minum. Puisi ini dianggap sebagai puisi teratur (律诗) terbesar yang pernah ditulis dalam bahasa Tiongkok.",
     "analysis": "Setiap pasangan bait diciptakan dengan mahir. Dua baris pembuka menyajikan enam gambar dalam urutan cepat (angin, langit, monyet, pulau, pasir, burung) yang menciptakan pengalaman sensorik yang luar biasa. Baris tiga dan empat mencapai salah satu efek panorama besar puisi: daun-daun yang tak berujung jatuh dan sungai yang mengalir tanpa henti — kedua gambar dari hal-hal yang melampaui kendali manusia. Pergeseran ke pribadi dalam baris lima dan enam sangat menghancurkan: seumur hidup mengembara dan sakit, mendaki sendirian. Pasangan bait terakhir yang dipaksa untuk sadar (bahkan anggur pun ditolak) membuat kesedihan puisi ini menjadi mutlak.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Syair Regulasi Tujuh-Karakter (七言律诗)",
     "theme": "Life & Philosophy",
-    "originalSlug": "deng-gao"
+    "originalSlug": "deng-gao",
+    "themeTranslated": "Kehidupan & Filosofi"
   },
   {
     "id": "P027",
     "slug": "hui-xiang-ou-shu",
-    "title": "Kembali ke Rumah — Sebuah Puisi Impromptu",
+    "title": "Kembali ke Rumah — Sebuah Syair Spontan",
     "titleChinese": "回乡偶书",
     "titlePinyin": "huí xiāng ǒu shū",
     "poet": {
       "name": "He Zhizhang",
       "nameChinese": "贺知章",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "659",
       "deathYear": "744",
@@ -955,20 +974,21 @@
     "translation": "Saya meninggalkan rumah muda dan kembali tua — aksen lokal saya tidak berubah, tetapi rambut pelipis saya telah menipis. Anak-anak desa melihat saya tetapi tidak mengenali saya; sambil tersenyum, mereka bertanya: \"Pengunjung, dari mana kamu berasal?\"",
     "background": "He Zhizhang menulis puisi ini saat kembali ke kampung halamannya di Yongxing (di Zhejiang modern) setelah lebih dari 50 tahun menjabat sebagai pejabat di ibu kota Chang'an. Pada usia 86, ia akhirnya pensiun dan pulang, hanya untuk menemukan bahwa tidak ada yang mengenalinya. Humor pahit manis menjadi orang asing di kampung halaman sendiri sangat bergema dalam budaya Tiongkok.",
     "analysis": "Dampak emosional puisi ini berasal dari kesenjangan antara identitas dan pengakuan. Penyair tahu siapa dirinya — aksennya tidak berubah — tetapi waktu telah mengubahnya hingga tidak dikenali. Pertanyaan polos anak-anak itu menghancurkan tepat karena ceria: mereka melihat seorang pengunjung yang ramah, bukan penduduk asli yang kembali. Puisi ini menangkap salah satu ironi paling kejam dalam hidup: Anda bisa pulang, tetapi rumah mungkin tidak mengenali Anda lagi.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Homesickness & Longing",
-    "originalSlug": "hui-xiang-ou-shu"
+    "originalSlug": "hui-xiang-ou-shu",
+    "themeTranslated": "Rindu & Kerinduan"
   },
   {
     "id": "P020",
     "slug": "qiantang-lake-spring-walk",
-    "title": "Jalan Musim Semi di Danau Qiantang",
+    "title": "Berjalan-jalan di Musim Semi di Danau Qiantang",
     "titleChinese": "钱塘湖春行",
     "titlePinyin": "Qián Táng Hú Chūn Xíng",
     "poet": {
       "name": "Bai Juyi",
       "nameChinese": "白居易",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -1012,20 +1032,21 @@
     "translation": "Di utara Kuil Bukit Kesendirian, barat Paviliun Jia, permukaan air baru saja datar, awan rendah menyapu gelombang. Di sini dan di sana, oriol awal bersaing untuk pohon hangat; siapa yang baru saja mengais tanah liat musim semi? Bunga liar secara bertahap menjadi menakjubkan di mata; rumput dangkal hampir tidak bisa menutupi kuku kuda. Yang paling saya cintai adalah bagian timur danau di mana saya tidak pernah cukup berjalan — jalan pasir putih di tengah bayangan willow hijau.",
     "background": "Ditulis sekitar tahun 822 M ketika Bai Juyi menjabat sebagai gubernur Hangzhou, puisi ini menangkap keindahan Danau Barat (Danau Qiantang) di awal musim semi. Bai Juyi adalah pencinta setia Danau Barat dan membangun jalan terkenal (Jalan Bai) yang masih membawa namanya hingga hari ini.",
     "analysis": "Puisi ini adalah kelas master dalam menangkap momen tepat awal musim semi. Setiap pasangan bait menambahkan detail sensorik baru: tingkat air yang naik, oriol yang bersaing, swalow yang membangun sarang, bunga yang mekar, dan rumput muda. Progresi dari lanskap jauh ke detail dekat menciptakan jalan sinematik di sekitar danau. Pasangan bait terakhir mengungkapkan keterikatan pribadi penyair yang dalam terhadap tempat ini.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Syair Regulasi Tujuh-Karakter (七言律诗)",
     "theme": "Seasons & Time",
-    "originalSlug": "qiantang-lake-spring-walk"
+    "originalSlug": "qiantang-lake-spring-walk",
+    "themeTranslated": "Musim & Waktu"
   },
   {
     "id": "P021",
     "slug": "untitled-hard-to-meet",
-    "title": "Tanpa Judul — Sulit Bertemu, Sulit Berpisah",
+    "title": "Tak Berjudul — Sulit untuk Bertemu, Sulit untuk Berpisah",
     "titleChinese": "无题·相见时难别亦难",
     "titlePinyin": "Wú Tí · Xiāng Jiàn Shí Nán Bié Yì Nán",
     "poet": {
       "name": "Li Shangyin",
       "nameChinese": "李商隐",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "813",
       "deathYear": "858",
@@ -1069,20 +1090,21 @@
     "translation": "Sulit untuk bertemu dan sulit untuk berpisah; angin timur tak berdaya, seratus bunga layu. Ulat sutra musim semi memintal sutra hingga mati; air mata lilin hanya mengering saat berubah menjadi abu. Menghadapi cermin pagi, dia khawatir rambutnya yang seperti awan akan berubah; melantunkan puisi di malam hari, dia pasti merasakan dinginnya sinar bulan. Dari sini ke Gunung Penglai, jalannya tidak jauh — semoga burung biru dengan rajin pergi mencariku.",
     "background": "Ini adalah puisi cinta Li Shangyin yang paling terkenal, kemungkinan ditulis pada tahun 840-an. Puisi \"Tanpa Judul\" Li Shangyin dikenal karena ambiguitasnya — mereka mungkin merujuk pada hubungan cinta terlarang, frustrasi politik, atau kerinduan spiritual. Pasangan ketiga (\"ulat sutra musim semi\" dan \"air mata lilin\") telah menjadi salah satu baris yang paling banyak dikutip dalam seluruh puisi Tiongkok.",
     "analysis": "Kejeniusan puisi ini terletak pada metafora berlapisnya. Benang ulat sutra (丝/sī) adalah homofon untuk kerinduan (思/sī), jadi \"ulat sutra memintal hingga mati\" berarti \"kerinduanku berakhir hanya dengan kematian.\" Lilin yang menangis air mata lilin mencerminkan kesedihan tak berujung sang kekasih. Setiap gambar memperkuat tema pengabdian hingga mati. Pasangan terakhir memperkenalkan harapan melalui burung biru mitos utusan Ratu Ibu Barat, menunjukkan bahwa bahkan melintasi jarak yang mustahil, cinta mencari koneksi.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Syair Regulasi Tujuh-Karakter (七言律诗)",
     "theme": "Love & Longing",
-    "originalSlug": "untitled-hard-to-meet"
+    "originalSlug": "untitled-hard-to-meet",
+    "themeTranslated": "Cinta & Kerinduan"
   },
   {
     "id": "P022",
     "slug": "mountain-walk",
-    "title": "Jalan Gunung",
+    "title": "Berjalan di Gunung",
     "titleChinese": "山行",
     "titlePinyin": "Shān Xíng",
     "poet": {
       "name": "Du Mu",
       "nameChinese": "杜牧",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "803",
       "deathYear": "852",
@@ -1110,20 +1132,21 @@
     "translation": "Jauh di atas gunung yang dingin, jalan setapak berbatu berkelok; di mana awan putih naik, ada rumah-rumah. Aku menghentikan keretaku, terpesona oleh hutan maple saat senja — daun yang tersentuh embun beku lebih merah daripada bunga Februari.",
     "background": "Ditulis selama perjalanan musim gugur, puisi ini menangkap perjalanan Du Mu di jalur gunung. Du Mu, yang dikenal sebagai \"Du Kecil\" (小杜) untuk membedakannya dari Du Fu (\"Du Tua\"), dirayakan karena kuatrainnya yang elegan dan hidup. Puisi ini telah menjadi puisi Tiongkok definitif tentang pemandangan musim gugur.",
     "analysis": "Dalam hanya empat baris, Du Mu menciptakan perjalanan yang lengkap: jalan yang berkelok, rumah-rumah jauh di awan, pemberhentian mendadak, dan pengungkapan yang menakjubkan. Baris terakhir adalah stroke jenius puisi ini — membandingkan daun maple merah musim gugur dengan bunga musim semi, membalikkan tradisi puisi Tiongkok yang biasanya meratapi musim gugur dan merayakan musim semi. Kata \"坐\" (zuò, \"karena\") daripada makna homofonnya \"duduk\" menunjukkan bahwa penyair terpaksa berhenti, bukan memilih untuk beristirahat.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "mountain-walk"
+    "originalSlug": "mountain-walk",
+    "themeTranslated": "Musim & Waktu"
   },
   {
     "id": "P023",
     "slug": "visiting-old-friends-farm",
-    "title": "Mengunjungi Pertanian Teman Lama",
+    "title": "Mengunjungi Sahabat Lama",
     "titleChinese": "过故人庄",
     "titlePinyin": "Guò Gù Rén Zhuāng",
     "poet": {
       "name": "Meng Haoran",
       "nameChinese": "孟浩然",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "689",
       "deathYear": "740",
@@ -1167,9 +1190,10 @@
     "translation": "Teman lamaku menyiapkan ayam dan millet, dan mengundangku ke rumah pertaniannya. Pohon hijau mengelilingi desa; gunung biru miring di luar tembok. Kami membuka jendela yang menghadap ke taman dan ladang, dan di atas anggur kami berbicara tentang murbei dan rami. Ketika Festival Double Ninth tiba, aku akan kembali untuk menikmati krisan.",
     "background": "Puisi ini menangkap kunjungan sederhana ke rumah pedesaan seorang teman. Meng Haoran, yang menghabiskan sebagian besar hidupnya sebagai pertapa dekat kampung halamannya di Hubei, adalah penyair besar kehidupan pastoral. Berbeda dengan banyak penyair Tang yang mencari karier resmi, Meng Haoran memilih untuk hidup dekat dengan alam, dan puisi ini mewujudkan idealnya tentang kepuasan pedesaan.",
     "analysis": "Keindahan puisi ini terletak pada kesederhanaannya yang sempurna. Tidak ada metafora besar, tidak ada meditasi filosofis — hanya undangan seorang teman, makanan yang baik, pemandangan yang indah, anggur, percakapan tentang pertanian, dan janji untuk kembali. Pasangan tengah melukiskan pemandangan pedesaan yang idilis: pohon hijau mengelilingi desa, gunung di luar, jendela yang terbuka ke ladang. Kehangatan puisi ini berasal dari ketidakadaan pretensi, menjadikannya salah satu puisi persahabatan yang paling dicintai dalam sastra Tiongkok.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Syair Regulasi Lima-Karakter (五言律诗)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "visiting-old-friends-farm"
+    "originalSlug": "visiting-old-friends-farm",
+    "themeTranslated": "Persahabatan & Perpisahan"
   },
   {
     "id": "P024",
@@ -1180,7 +1204,7 @@
     "poet": {
       "name": "Wang Changling",
       "nameChinese": "王昌龄",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "698",
       "deathYear": "756",
@@ -1208,20 +1232,21 @@
     "translation": "Hujan dingin menyatu dengan sungai, memasuki Wu di malam hari; saat fajar aku mengantar temanku, gunung Chu berdiri sendiri. Jika teman dan keluarga di Luoyang menanyakan tentangku — hatiku murni seperti es dalam wadah giok.",
     "background": "Ditulis sekitar tahun 742 M ketika Wang Changling ditempatkan di selatan, jauh dari ibu kota. Temannya Xin Jian sedang dalam perjalanan kembali ke Luoyang, dan Wang Changling menyusun perpisahan ini di Menara Lotus (di Zhenjiang, Jiangsu saat ini). Dikenal sebagai \"Sage dari Kuatrain Tujuh Karakter,\" Wang Changling pada saat ini menjabat di posisi kecil setelah diturunkan dari ibu kota.",
     "analysis": "Puisi ini bergerak dari yang luas ke yang intim: hujan malam di atas sungai, gunung sepi saat fajar, lalu pesan pribadi. Baris terakhir — \"一片冰心在玉壶\" (sepotong hati es dalam wadah giok) — telah menjadi ungkapan klasik tentang kemurnian moral. Meskipun penurunan jabatannya dan pengasingan, hati Wang Changling tetap tidak tercemar. Metafora \"es dalam giok\" menyampaikan transparansi dan nilai, sebuah deklarasi integritas yang melampaui keadaannya.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "seeing-off-xin-jian-at-lotus-tower"
+    "originalSlug": "seeing-off-xin-jian-at-lotus-tower",
+    "themeTranslated": "Persahabatan & Perpisahan"
   },
   {
     "id": "P025",
     "slug": "the-fisherman",
-    "title": "Nelayan",
+    "title": "Si Nelayan",
     "titleChinese": "渔翁",
     "titlePinyin": "Yú Wēng",
     "poet": {
       "name": "Liu Zongyuan",
       "nameChinese": "柳宗元",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "773",
       "deathYear": "819",
@@ -1257,20 +1282,21 @@
     "translation": "Nelayan tua tidur di tebing barat di malam hari; saat fajar ia mengambil air jernih Sungai Xiang dan membakar bambu Chu. Ketika kabut menghilang dan matahari terbit, ia tidak terlihat — bunyi dayungnya, dan gunung serta air berubah hijau. Melihat kembali ke tepi langit, ia melayang di tengah arus; di atas tebing, awan tanpa beban saling mengejar.",
     "background": "Ditulis selama pengasingan Liu Zongyuan di Yongzhou (Hunan modern) sekitar tahun 810 M. Setelah diusir dari ibu kota karena perannya dalam reformasi politik yang gagal, Liu Zongyuan menghabiskan satu dekade di selatan yang terpencil. Puisi ini mencerminkan keadaan spiritualnya — nelayan adalah sosok nyata dan proyeksi keinginan penyair untuk kebebasan dari kekhawatiran duniawi.",
     "analysis": "Baris keempat adalah salah satu yang paling dirayakan dalam puisi Tiongkok: \"欸乃一声山水绿\" — satu suara dayung, dan tiba-tiba seluruh lanskap berubah hijau. Ini adalah mahakarya sinestetik: suara berubah menjadi warna. Nelayan muncul dan menghilang seperti roh lanskap. Gambar terakhir dari \"awan tanpa pikiran\" (无心云) yang saling mengejar melambangkan keadaan ideal Daois yang bertindak tanpa niat. Su Shi kemudian menyarankan bahwa pasangan terakhir tidak perlu, tetapi sebagian besar pembaca menghargai penutupan kontemplatifnya.",
-    "form": "Seven-character Ancient Verse (七言古诗)",
+    "form": "Syair Kuno Tujuh-Karakter (七言古诗)",
     "theme": "Seasons & Time",
-    "originalSlug": "the-fisherman"
+    "originalSlug": "the-fisherman",
+    "themeTranslated": "Musim & Waktu"
   },
   {
     "id": "P026",
     "slug": "song-of-liangzhou",
-    "title": "Song of Liangzhou",
+    "title": "Lagu dari Liangzhou",
     "titleChinese": "凉州词",
     "titlePinyin": "Liáng Zhōu Cí",
     "poet": {
       "name": "Wang Zhihuan",
       "nameChinese": "王之涣",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dinasti Tang",
       "dynastyChinese": "唐代",
       "birthYear": "688",
       "deathYear": "742",
@@ -1298,8 +1324,9 @@
     "translation": "Sungai Kuning mengalir jauh ke dalam awan putih; sebuah kota benteng yang sepi berdiri di tengah gunung setinggi sepuluh ribu kaki. Mengapa seruling Qiang harus mengeluh tentang pohon willow? Angin musim semi tidak pernah melintasi Gerbang Jade.",
     "background": "Salah satu puisi perbatasan terbesar (边塞诗) dari Dinasti Tang. Wang Zhihuan menulis ini saat ditempatkan di perbatasan barat laut. Liangzhou (sekarang Wuwei, Gansu) adalah kota garnisun perbatasan di Jalur Sutra. Gerbang Jade (Yumen Guan) menandai batas barat kekaisaran Tiongkok, di luarnya terletak gurun luas Asia Tengah.",
     "analysis": "Puisi ini dibangun dari citra yang mungkin paling megah — Sungai Kuning tampak mengalir ke atas ke dalam awan — hingga suara intim dari seruling seorang prajurit. \"Willow\" dalam baris ketiga merujuk pada lagu rakyat \"Mematahkan Willow\" (折杨柳), yang secara tradisional dimainkan saat perpisahan, saat para pelancong mematahkan cabang willow sebagai hadiah perpisahan. Baris terakhir sangat menghancurkan dalam kesederhanaannya: angin musim semi (kehangatan, peradaban, rumah) secara harfiah tidak dapat mencapai tempat ini di luar gerbang. Ini mengekspresikan kesepian para prajurit perbatasan dengan ungkapan yang membuatnya semakin kuat.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Kuint Kuatrin Tujuh-Karakter (七言绝句)",
     "theme": "War & Frontier",
-    "originalSlug": "song-of-liangzhou"
+    "originalSlug": "song-of-liangzhou",
+    "themeTranslated": "Perang & Perbatasan"
   }
 ]

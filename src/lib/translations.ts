@@ -174,9 +174,36 @@ export const translations = {
     hskMetaCompleteList: "complete vocabulary list",
     hskMetaStudyGuide: "Study guide in",
 
+    // Phrase categories (displayed on /[lang]/phrases)
+    phraseCategoryRestaurantFood: "Restaurant & Food",
+    phraseCategoryShoppingBargaining: "Shopping & Bargaining",
+    phraseCategoryGettingAround: "Getting Around",
+    phraseCategoryMakingPlansSocializing: "Making Plans & Socializing",
+    phraseCategoryReactionsOpinions: "Reactions & Opinions",
+    phraseCategoryWorkProfessional: "Work & Professional",
+    phraseCategoryEmergenciesHelp: "Emergencies & Help",
+    phraseCategoryDailyLifeFeelings: "Daily Life & Feelings",
+
+    // Slang categories (displayed on /[lang]/slang)
+    slangCategoryWorkHustle: "Work & Hustle",
+    slangCategoryAttitudeLifestyle: "Attitude & Lifestyle",
+    slangCategorySocialRelationships: "Social & Relationships",
+    slangCategoryInternetCulture: "Internet Culture",
+    slangCategoryEmotionsReactions: "Emotions & Reactions",
+    slangCategoryYouthCulture: "Youth Culture",
+
+    // Idiom themes (displayed on /themes/[theme])
+    idiomThemeSuccessPerseverance: "Success & Perseverance",
+    idiomThemeLifePhilosophy: "Life Philosophy",
+    idiomThemeWisdomLearning: "Wisdom & Learning",
+    idiomThemeRelationshipsCharacter: "Relationships & Character",
+    idiomThemeStrategyAction: "Strategy & Action",
+
     // Poems section
     poemsTitle: "Classical Chinese Poems",
     poemsSubtitle: "Timeless verses from China's greatest poets",
+    poemsHubSubtitle: "{count} iconic poems with translations in {lang}.",
+    poemsCount: "poems",
     allPoems: "All Poems",
     poemOriginalText: "Original Text",
     poemBackground: "Historical Background",

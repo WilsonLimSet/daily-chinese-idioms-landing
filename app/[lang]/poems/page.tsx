@@ -79,7 +79,7 @@ export default async function TranslatedPoemsIndexPage({ params }: { params: Pro
               {getTranslation(lang, 'poemsTitle')}
             </h1>
             <p className="text-lg text-neutral-500 mt-4 max-w-2xl leading-relaxed">
-              {translatedPoems.length} iconic poems with translations in {langName}.
+              {getTranslation(lang, 'poemsHubSubtitle').replace('{count}', String(translatedPoems.length)).replace('{lang}', langName)}
             </p>
           </header>
 
@@ -88,10 +88,11 @@ export default async function TranslatedPoemsIndexPage({ params }: { params: Pro
           {POEM_THEMES.map(theme => {
             const themePoems = translatedPoems.filter(p => p.theme === theme);
             if (themePoems.length === 0) return null;
+            const displayTheme = themePoems[0].themeTranslated || theme;
             return (
               <section key={theme} className="py-10 border-b border-neutral-200">
-                <h2 className="text-lg font-semibold text-neutral-900 mb-1">{theme}</h2>
-                <p className="text-sm text-neutral-400 mb-6">{themePoems.length} poems</p>
+                <h2 className="text-lg font-semibold text-neutral-900 mb-1">{displayTheme}</h2>
+                <p className="text-sm text-neutral-400 mb-6">{themePoems.length} {getTranslation(lang, 'poemsCount')}</p>
                 <div className="divide-y divide-neutral-100 border border-neutral-200 rounded-xl overflow-hidden">
                   {themePoems.map(poem => (
                     <Link

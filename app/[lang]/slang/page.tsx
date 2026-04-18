@@ -148,6 +148,15 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
         terms={allTerms.map(t => ({ slug: t.slug, characters: t.characters, pinyin: t.pinyin, meaning: t.meaning, category: t.category, era: t.era }))}
         eras={getSlangEras()}
         categories={[...SLANG_CATEGORIES]}
+        categoryLabels={Object.fromEntries(
+          SLANG_CATEGORIES.map(cat => [
+            cat,
+            getTranslation(
+              lang,
+              ('slangCategory' + cat.replace(/[&\s]+/g, '')) as Parameters<typeof getTranslation>[1]
+            ),
+          ])
+        )}
         langPrefix={`/${lang}`}
       />
 

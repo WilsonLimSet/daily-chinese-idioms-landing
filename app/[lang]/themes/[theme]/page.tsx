@@ -39,6 +39,8 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     };
   }
 
+  const displayTheme = getThemeTranslation(lang, themeName);
+
   const localeMap: { [key: string]: string } = {
     'es': 'es_ES',
     'pt': 'pt_BR',
@@ -61,7 +63,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     .map(l => localeMap[l] || 'en_US');
 
   return {
-    title: `${themeName} Chinese Idioms (${langName})`,
+    title: `${displayTheme} (${langName})`,
     description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}. Complete chengyu guide with translations and cultural context.`,
     keywords: [
       `${themeName.toLowerCase()} chinese idioms`,
@@ -71,8 +73,8 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
       langName
     ],
     openGraph: {
-      title: `${themeName} Chinese Idioms`,
-      description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}`,
+      title: displayTheme,
+      description: `${displayTheme} — ${langName}`,
       url: `https://www.chineseidioms.com/${lang}/themes/${theme}`,
       siteName: 'Chinese Idioms',
       locale: ogLocale,
@@ -81,7 +83,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${themeName} Chinese Idioms (${langName})`,
+      title: `${displayTheme} (${langName})`,
       description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}. Chengyu with translations and cultural context.`,
       images: ['/og-image.png'],
     },

@@ -27,11 +27,15 @@ const ERA_BUCKETS = [
 export default function SlangEraFilter({
   terms,
   categories,
+  categoryLabels,
   langPrefix = '',
 }: {
   terms: SlangTerm[];
   eras: string[];
   categories: string[];
+  /** Optional map of EN category → translated label for display. Filtering
+   *  still uses the EN category as the stable key. */
+  categoryLabels?: Record<string, string>;
   langPrefix?: string;
 }) {
   const [selectedBucket, setSelectedBucket] = useState<number | null>(null);
@@ -90,7 +94,7 @@ export default function SlangEraFilter({
         {groupedByCategory.map(({ category, terms: catTerms }) => (
           <section key={category} id={category.toLowerCase().replace(/[&\s]+/g, '-')}>
             <div className="flex items-center justify-between mb-6">
-              <h2 className="text-sm font-semibold text-neutral-900">{category}</h2>
+              <h2 className="text-sm font-semibold text-neutral-900">{categoryLabels?.[category] ?? category}</h2>
               <span className="text-xs text-neutral-400">{catTerms.length}</span>
             </div>
 

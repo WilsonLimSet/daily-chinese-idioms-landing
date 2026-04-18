@@ -34,6 +34,9 @@ export type Poem = {
 
 export type TranslatedPoem = Poem & {
   originalSlug: string;
+  /** Display-ready translation of the theme; p.theme remains EN as a stable
+   *  grouping key. Falls back to theme if translation is missing. */
+  themeTranslated?: string;
 };
 
 export const POEM_THEMES = [

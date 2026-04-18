@@ -8,7 +8,7 @@
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -36,9 +36,10 @@
     "translation": "Avant mon lit, la lumière de la lune brille — je me demande si c'est du givre sur le sol. Je lève la tête pour contempler la lune brillante, puis je l'abaisse, pensant à ma patrie.",
     "background": "Écrit vers 726 après J.-C., c'est peut-être le poème chinois le plus célèbre jamais composé. Li Bai l'a écrit alors qu'il voyageait loin de sa ville natale du Sichuan. Le poème capture un moment universel : allongé éveillé la nuit, voyant la lumière de la lune et ressentant la douleur d'être loin de chez soi. Pratiquement chaque Chinois peut réciter ce poème de mémoire, car c'est l'un des premiers poèmes enseignés aux enfants.",
     "analysis": "Le génie de ce poème réside dans sa simplicité. En seulement 20 caractères, Li Bai crée un arc émotionnel complet : observation (lumière de la lune), confusion (est-ce du givre ?), action (regarder en haut) et sentiment (nostalgie). La structure parallèle des deux dernières lignes — lever et abaisser la tête — reflète le mouvement entre le monde extérieur (lune) et les sentiments intérieurs (désir). La lune sert de pont entre le poète et son lointain foyer, puisque la même lune brille sur les deux.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Homesickness & Longing",
-    "originalSlug": "jing-ye-si"
+    "originalSlug": "jing-ye-si",
+    "themeTranslated": "Mal du pays & Désir"
   },
   {
     "id": "P002",
@@ -49,7 +50,7 @@
     "poet": {
       "name": "Meng Haoran",
       "nameChinese": "孟浩然",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "689",
       "deathYear": "740",
@@ -77,9 +78,10 @@
     "translation": "Dans le sommeil printanier, l'aube arrive sans être remarquée — partout j'entends les oiseaux chanter. La nuit dernière est venu le son du vent et de la pluie ; qui sait combien de pétales sont tombés ?",
     "background": "Ce poème apparemment simple fait partie des premiers poèmes que les enfants chinois apprennent. Meng Haoran capture le plaisir somnolent de dormir tard un matin de printemps, puis passe à une douce mélancolie alors qu'il se demande combien de fleurs ont été abattues par la pluie nocturne. Le poème date du début du 8ème siècle.",
     "analysis": "Le poème passe par les sens : d'abord le toucher (la chaleur du lit), puis l'ouïe (le chant des oiseaux, puis les sons rappelés de la pluie), et enfin l'imagination (les fleurs tombées). La question de clôture est ouverte — le poète ne se lève pas pour vérifier, laissant la perte de beauté comme une pensée persistante. Ce jeu entre confort et impermanence est typiquement chinois dans sa sensibilité esthétique.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "chun-xiao"
+    "originalSlug": "chun-xiao",
+    "themeTranslated": "Saisons & Temps"
   },
   {
     "id": "P003",
@@ -90,7 +92,7 @@
     "poet": {
       "name": "Wang Zhihuan",
       "nameChinese": "王之涣",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "688",
       "deathYear": "742",
@@ -118,9 +120,10 @@
     "translation": "Le soleil blanc se couche derrière les montagnes ; le fleuve Jaune se jette dans la mer. Si vous souhaitez voir mille miles plus loin, grimpez un étage de plus de la tour.",
     "background": "Écrit à la Tour des Cigognes (鹳雀楼) dans la province du Shanxi, surplombant le fleuve Jaune. La tour, construite à l'origine pendant la dynastie Zhou du Nord, était un célèbre site pittoresque. Le poème est devenu un proverbe pour l'ambition et l'amélioration de soi — \"grimpez un étage de plus\" est utilisé dans le chinois quotidien pour signifier \"atteindre le niveau suivant.\"",
     "analysis": "Les deux premières lignes peignent un vaste panorama : le soleil disparaissant derrière les montagnes, le fleuve s'écoulant vers la mer lointaine. Les deux dernières lignes pivotent de l'observation à la philosophie : pour voir plus loin, vous devez grimper plus haut. Cette métaphore de l'amélioration continue de soi a fait du poème un slogan durable dans la culture chinoise.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Life & Philosophy",
-    "originalSlug": "deng-guan-que-lou"
+    "originalSlug": "deng-guan-que-lou",
+    "themeTranslated": "Vie & Philosophie"
   },
   {
     "id": "P004",
@@ -131,7 +134,7 @@
     "poet": {
       "name": "Luo Binwang",
       "nameChinese": "骆宾王",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "619",
       "deathYear": "687",
@@ -159,9 +162,10 @@
     "translation": "Oie, oie, oie — tu plies ton cou et chantes vers le ciel. Des plumes blanches flottent sur l'eau verte ; des pieds rouges pagaient dans les vagues claires.",
     "background": "La légende dit que Luo Binwang a composé ce poème à l'âge de sept ans lorsqu'un aîné lui a demandé d'écrire sur les oies. C'est généralement le tout premier poème enseigné aux enfants chinois, apprécié pour ses couleurs vives, sa répétition ludique et son émerveillement enfantin. Le poème date d'environ 626 après J.-C.",
     "analysis": "La triple répétition d'ouverture de \"oie\" imite l'excitation d'un enfant. Le poème construit ensuite une palette de couleurs vive : plumes blanches, eau verte, pieds rouges, vagues claires. Chaque détail est précis et sensoriel. Malgré sa simplicité, le poème démontre une technique sophistiquée — le contraste des couleurs et les verbes dynamiques (flotter, pagayer) donnent vie à la scène.",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Vers anciens (古体诗)",
     "theme": "Nature & Landscape",
-    "originalSlug": "yong-e"
+    "originalSlug": "yong-e",
+    "themeTranslated": "Nature & Paysage"
   },
   {
     "id": "P005",
@@ -172,7 +176,7 @@
     "poet": {
       "name": "Li Shen",
       "nameChinese": "李绅",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -200,9 +204,10 @@
     "translation": "Sarclant le grain sous le soleil de midi, la sueur goutte sur le sol sous les cultures. Qui sait que la nourriture sur votre assiette — chaque grain a été gagné par un dur labeur ?",
     "background": "Ce poème est une leçon morale sur le respect de la nourriture et du travail qui la sous-tend. Il est récité par pratiquement chaque enfant chinois et est souvent cité par les parents lors des repas. Le poème a été écrit à une époque où l'écart entre les riches et les classes ouvrières était marqué, et Li Shen cherchait à rappeler aux privilégiés le coût humain derrière leurs repas.",
     "analysis": "La puissance du poème réside dans sa directivité. Les deux premières lignes nous placent dans le champ sous un soleil brûlant — nous pouvons sentir la chaleur et voir la sueur. La question rhétorique de la troisième ligne s'adresse directement au lecteur, créant un sentiment de culpabilité ou de responsabilité. La dernière ligne, avec sa répétition de \"chaque grain\" (粒粒), souligne le point que aucune quantité de nourriture ne devrait être gaspillée.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Life & Philosophy",
-    "originalSlug": "min-nong"
+    "originalSlug": "min-nong",
+    "themeTranslated": "Vie & Philosophie"
   },
   {
     "id": "P006",
@@ -213,7 +218,7 @@
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -241,9 +246,10 @@
     "translation": "La lumière du soleil sur le pic de l'Encens produit une brume violette ; de loin, je vois la cascade suspendue au-dessus de la rivière. Son torrent plonge droit vers le bas sur trois mille pieds — comme si la Voie lactée tombait du neuvième ciel.",
     "background": "Li Bai a écrit ce poème lors de sa visite au mont Lu (庐山) dans la province du Jiangxi, l'une des montagnes les plus célèbres de Chine. Le \"pic de l'Encens\" (香炉峰) est un sommet dont la brume, lorsqu'elle est éclairée par la lumière du soleil, ressemble à de la fumée d'encens. La cascade décrite est probablement la cascade Kai先 (开先瀑布), l'une des plusieurs au mont Lu.",
     "analysis": "Ce poème met en avant l'hyperbole caractéristique de Li Bai et son imagination cosmique. La progression passe de l'observation réaliste (lumière du soleil sur la brume) à une description de plus en plus fantastique — la cascade \"pend\" comme un rideau, plonge \"trois mille pieds\", et devient finalement la Voie lactée elle-même tombant du ciel. Le nombre \"neuf\" dans la cosmologie chinoise représente le plus haut, faisant du \"neuvième ciel\" la hauteur ultime.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "wang-lu-shan-pu-bu"
+    "originalSlug": "wang-lu-shan-pu-bu",
+    "themeTranslated": "Nature & Paysage"
   },
   {
     "id": "P007",
@@ -254,7 +260,7 @@
     "poet": {
       "name": "Du Fu",
       "nameChinese": "杜甫",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "712",
       "deathYear": "770",
@@ -298,9 +304,10 @@
     "translation": "La nation est brisée, bien que montagnes et rivières demeurent ; la ville au printemps est envahie par l'herbe et les arbres. Ému par les temps, les fleurs apportent des larmes ; haïssant la séparation, le chant des oiseaux éveille le cœur. Les feux de signalisation ont brûlé pendant trois mois d'affilée ; une lettre de chez soi vaut dix mille en or. Je gratte mes cheveux blancs, devenus de plus en plus fins — bientôt, ils ne tiendront même plus une épingle à cheveux.",
     "background": "Écrit au printemps 757 après J.-C., pendant la rébellion d'An Lushan (755–763) qui a dévasté la dynastie Tang. Du Fu était piégé dans la capitale occupée par les rebelles, Chang'an, séparé de sa famille. Le poème capture l'angoisse de témoigner de la destruction nationale tout en s'inquiétant impuissant pour ses proches. Il est considéré comme l'un des plus grands poèmes de guerre de la littérature chinoise.",
     "analysis": "La première ligne est saisissante dans son contraste : la nation est \"brisée\" mais la nature endure — montagnes et rivières restent indifférentes à la catastrophe humaine. Dans les célèbres troisième et quatrième lignes, même les belles choses (fleurs, chant des oiseaux) deviennent des sources de douleur car l'état émotionnel du poète transforme tout. L'expression \"une lettre de chez soi vaut dix mille en or\" (家书抵万金) est devenue un dicton chinois courant encore utilisé aujourd'hui.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Vers régulier en cinq caractères (五言律诗)",
     "theme": "War & Frontier",
-    "originalSlug": "chun-wang"
+    "originalSlug": "chun-wang",
+    "themeTranslated": "Guerre & Frontière"
   },
   {
     "id": "P008",
@@ -311,7 +318,7 @@
     "poet": {
       "name": "Wang Wei",
       "nameChinese": "王维",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "761",
@@ -339,9 +346,10 @@
     "translation": "Dans les montagnes vides, personne n'est visible — pourtant des voix résonnent de quelque part. La lumière du soleil revenante entre dans la forêt profonde et brille à nouveau sur la mousse verte.",
     "background": "C'est l'un des vingt poèmes de la \"Collection de la rivière Wang\" (辋川集) de Wang Wei, décrivant des scènes autour de son domaine rural dans les montagnes Zhongnan près de Chang'an. L'Enclos à cerfs était un lieu spécifique sur la propriété. Wang Wei a composé ces poèmes lors de périodes de retraite de la vie officielle, profondément influencé par le bouddhisme Chan (Zen).",
     "analysis": "Ce poème est une leçon magistrale sur la création d'atmosphère par l'absence. La \"montagne vide\" avec des voix invisibles crée un paradoxe — le vide n'est pas vraiment vide. Le rayon de soleil entrant dans la forêt profonde illumine seulement la mousse, suggérant à quel point la lumière (ou les gens) pénètrent rarement cet endroit. Le poème incarne le concept zen de trouver une présence profonde dans un vide apparent.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "lu-chai"
+    "originalSlug": "lu-chai",
+    "themeTranslated": "Nature & Paysage"
   },
   {
     "id": "P010",
@@ -352,7 +360,7 @@
     "poet": {
       "name": "Wang Wei",
       "nameChinese": "王维",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "761",
@@ -380,9 +388,10 @@
     "translation": "La pluie du matin à Weicheng a humidifié la légère poussière ; l'auberge est fraîche et verte avec les nouvelles couleurs des saules. Je t'encourage à boire une tasse de vin de plus — à l'ouest du Pass Yang, tu n'auras plus d'anciens amis.",
     "background": "Wang Wei a écrit ce poème pour faire ses adieux à son ami Yuan Er, qui était envoyé en mission diplomatique à Anxi (dans le Xinjiang moderne), bien au-delà de la frontière occidentale. Le Pass Yang (阳关) était la dernière porte avant les régions désertiques de l'ouest. Le poème a ensuite été mis en musique sous le titre \"Trois variations sur le Pass Yang\" (阳关三叠), devenant la chanson d'adieu la plus célèbre de l'histoire chinoise.",
     "analysis": "La pluie du matin lavant la poussière crée une scène de fraîcheur et de clarté qui contraste avec la séparation imminente. Les saules (柳) sont un symbole traditionnel d'adieu dans la culture chinoise, car le mot sonne comme \"rester\" (留). L'urgence de la troisième ligne — \"bois une tasse de plus\" — porte le poids de savoir que cela pourrait être la dernière fois que des amis partagent du vin. La dernière ligne est dévastatrice dans sa simplicité : au-delà du Pass Yang, il n'y aura personne que tu connaisses.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "song-yuan-er-shi-an-xi"
+    "originalSlug": "song-yuan-er-shi-an-xi",
+    "themeTranslated": "Amitié & Adieux"
   },
   {
     "id": "P011",
@@ -393,7 +402,7 @@
     "poet": {
       "name": "Meng Jiao",
       "nameChinese": "孟郊",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "751",
       "deathYear": "814",
@@ -429,20 +438,21 @@
     "translation": "Le fil d'une mère aimante est dans sa main — des vêtements pour son enfant errant. Avant qu'il parte, elle coud avec des points serrés et denses, craignant qu'il ne tarde à revenir. Qui dit que le cœur d'un pouce d'herbe peut rembourser la chaleur de trois printemps de soleil ?",
     "background": "Meng Jiao a écrit ce poème après avoir enfin réussi l'examen impérial à l'âge de 46 ans. Le poème est un hommage à sa mère, qui l'a soutenu et cru en lui à travers des décennies d'échecs et de pauvreté. Il est devenu le poème chinois par excellence sur l'amour maternel et est récité lors de la fête des mères dans le monde sinophone.",
     "analysis": "Le poème crée sa puissance émotionnelle à travers une seule image concrète : une mère cousant des vêtements pour son fils qui part. Les \"points serrés et denses\" révèlent son anxiété — comme si coudre plus serré pouvait d'une manière ou d'une autre le garder plus près ou le protéger plus longtemps. La métaphore de clôture compare la capacité de l'enfant à rembourser sa mère à une brin d'herbe essayant de rembourser le soleil pour trois saisons de chaleur — une dette de gratitude impossible.",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Vers anciens (古体诗)",
     "theme": "Love & Devotion",
-    "originalSlug": "you-zi-yin"
+    "originalSlug": "you-zi-yin",
+    "themeTranslated": "Amour & Dévotion"
   },
   {
     "id": "P012",
     "slug": "jiang-xue",
-    "title": "River Snow",
+    "title": "Neige sur la rivière",
     "titleChinese": "江雪",
     "titlePinyin": "jiāng xuě",
     "poet": {
       "name": "Liu Zongyuan",
       "nameChinese": "柳宗元",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "773",
       "deathYear": "819",
@@ -470,20 +480,21 @@
     "translation": "Des milliers de montagnes, les oiseaux ont disparu ; sur dix mille chemins, les traces humaines sont parties. Une barque solitaire, un vieil homme en manteau de paille et chapeau — pêchant seul dans la neige froide de la rivière.",
     "background": "Liu Zongyuan a écrit ce poème pendant son exil politique à Yongzhou (Hunan moderne). Ayant été banni pour son rôle dans un mouvement de réforme échoué, il a passé plus d'une décennie dans le sud éloigné. Le poème est largement lu comme un autoportrait du poète en exil — seul et indomptable. C'est l'un des poèmes chinois les plus visuellement iconiques, souvent représenté dans la peinture traditionnelle.",
     "analysis": "Le poème atteint une immobilité extraordinaire par la négation systématique. D'abord tous les oiseaux disparaissent, puis toutes les traces humaines. Le monde est vidé de toute vie sauf d'un vieil homme. L'échelle est vaste (des milliers de montagnes, dix mille chemins) mais se resserre à un seul point (une barque, une figure). Le vieux pêcheur, seul dans un paysage gelé, incarne l'intégrité confucéenne — maintenant ses principes malgré une isolation complète.",
-    "form": "Five-character Quatrain (五言绝句)",
+    "form": "Quatrain en cinq caractères (五言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "jiang-xue"
+    "originalSlug": "jiang-xue",
+    "themeTranslated": "Nature & Paysage"
   },
   {
     "id": "P013",
     "slug": "chu-sai",
-    "title": "Out on the Frontier",
+    "title": "Sur la Frontière",
     "titleChinese": "出塞",
     "titlePinyin": "chū sài",
     "poet": {
       "name": "Wang Changling",
       "nameChinese": "王昌龄",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "698",
       "deathYear": "756",
@@ -511,20 +522,21 @@
     "translation": "La même lune qui brillait à Qin, les mêmes passes de la Han — les soldats ont marché dix mille miles et ne sont pas revenus. Si seulement le Général Volant de la Ville du Dragon était ici, il ne laisserait jamais les chevaux ennemis traverser la Montagne Yin.",
     "background": "Ce poème de frontière (边塞诗) réfléchit sur le cycle sans fin de la guerre frontalière tout au long de l'histoire chinoise. Le \"Général Volant\" (飞将) fait référence à Li Guang, un général légendaire de la dynastie Han célèbre pour avoir vaincu les nomades Xiongnu. Wang Changling a écrit pendant une période de campagnes militaires tang en cours contre les peuples du nord et de l'ouest.",
     "analysis": "La première ligne est à couper le souffle par sa compression du temps : la même lune et les mêmes passes frontalières ont été témoins de la guerre depuis la dynastie Qin jusqu'à la Han et jusqu'à la Tang actuelle. Les siècles passent mais la situation ne change jamais — les soldats marchent toujours et ne reviennent pas. Le souhait d'un grand général comme Li Guang est à la fois patriotique et déchirant, impliquant que le leadership actuel est inadéquat et que les soldats meurent inutilement.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "War & Frontier",
-    "originalSlug": "chu-sai"
+    "originalSlug": "chu-sai",
+    "themeTranslated": "Guerre & Frontière"
   },
   {
     "id": "P014",
     "slug": "ye-yu-ji-bei",
-    "title": "Night Rain — Letter to the North",
+    "title": "Pluie nocturne — Lettre au Nord",
     "titleChinese": "夜雨寄北",
     "titlePinyin": "yè yǔ jì běi",
     "poet": {
       "name": "Li Shangyin",
       "nameChinese": "李商隐",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "813",
       "deathYear": "858",
@@ -552,20 +564,21 @@
     "translation": "Tu demandes quand je reviendrai — il n'y a pas de date fixée. La pluie nocturne sur le Mont Ba gonfle les bassins d'automne. Quand pourrons-nous nous asseoir ensemble à tailler des bougies près de la fenêtre ouest, et parler de cette nuit de pluie sur le Mont Ba ?",
     "background": "Li Shangyin a écrit ce poème alors qu'il était bloqué dans la région de Ba (Sichuan), loin de sa femme à Chang'an. La lettre qu'il a reçue demandait quand il reviendrait, mais il n'avait pas de réponse. Le poème est remarquable par sa structure : le présent (pluie, solitude) et un futur imaginé (réunion) se plient l'un dans l'autre à travers la phrase répétée \"pluie nocturne sur le Mont Ba.\"",
     "analysis": "La répétition de \"pluie nocturne sur le Mont Ba\" (巴山夜雨) crée une boucle temporelle. Dans le présent, la pluie est une source de mélancolie. Dans le futur imaginé, cette même pluie devient une histoire à partager avec un être cher — transformant la souffrance en mémoire, la solitude en intimité. L'acte de \"tailler des bougies\" suggère une longue conversation tranquille tard dans la nuit. Le poème transforme la douleur présente en tendresse future.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Love & Devotion",
-    "originalSlug": "ye-yu-ji-bei"
+    "originalSlug": "ye-yu-ji-bei",
+    "themeTranslated": "Amour & Dévotion"
   },
   {
     "id": "P015",
     "slug": "qing-ming",
-    "title": "Qingming Festival",
+    "title": "Festival de Qingming",
     "titleChinese": "清明",
     "titlePinyin": "qīng míng",
     "poet": {
       "name": "Du Mu",
       "nameChinese": "杜牧",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "803",
       "deathYear": "852",
@@ -593,20 +606,21 @@
     "translation": "Pendant le Festival Qingming, la pluie tombe épaisse et rapide ; les voyageurs sur la route sont fatigués jusqu'à l'âme. \"Où puis-je trouver une taverne ?\" je demande — un garçon berger pointe vers le Village des Fleurs d'Abricot au loin.",
     "background": "Le Festival Qingming (Festival de la Lumière Claire, également appelé Jour de Nettoyage des Tombes) a lieu début avril, lorsque les familles visitent les tombes ancestrales. La pluie pendant Qingming est considérée comme de bon augure mais rend l'occasion déjà sombre plus mélancolique. Ce poème est devenu si imbriqué avec le festival qu'il est pratiquement impossible de mentionner Qingming sans que quelqu'un le cite.",
     "analysis": "Le poème raconte une histoire miniature. La pluie et le poids émotionnel du festival sont établis dans les deux premières lignes. Ensuite, un simple échange de questions et réponses entre le voyageur et le garçon berger fournit le tournant. La dernière image — un village lointain nommé d'après des fleurs d'abricot — offre à la fois un abri littéral (une taverne pour se reposer) et un espoir symbolique (la beauté au-delà de la pluie). La structure narrative du poème le fait ressembler à une scène d'un film.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "qing-ming"
+    "originalSlug": "qing-ming",
+    "themeTranslated": "Saisons & Temps"
   },
   {
     "id": "P016",
     "slug": "fu-de-gu-yuan-cao-song-bie",
-    "title": "Grasses",
+    "title": "Herbes",
     "titleChinese": "赋得古原草送别",
     "titlePinyin": "fù dé gǔ yuán cǎo sòng bié",
     "poet": {
       "name": "Bai Juyi",
       "nameChinese": "白居易",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -650,9 +664,10 @@
     "translation": "Des herbes sans fin sur la plaine — chaque année elles se fanent et refleurissent. Le feu sauvage ne peut pas les brûler ; le vent de printemps souffle et elles repoussent à nouveau. Leur parfum lointain atteint l'ancienne route ; leur vert ensoleillé rencontre la ville en ruine. Une fois de plus, je vois un ami partir — les herbes denses débordent de chagrin de séparation.",
     "background": "Bai Juyi a écrit ce poème à l'âge de 16 ans comme pièce d'examen. La légende dit que lorsque le célèbre poète Gu Kuang l'a lu pour la première fois, il a été stupéfait par le talent du jeune poète. Les vers \"Le feu sauvage ne peut pas les brûler ; le vent de printemps souffle et elles repoussent à nouveau\" sont devenus l'un des couplets les plus cités de la littérature chinoise, symbolisant la résilience indomptable.",
     "analysis": "Le poème fonctionne sur deux niveaux : comme observation de la nature et comme adieu. L'herbe devient une métaphore à la fois de la persistance de la vie (survivant au feu, revenant chaque printemps) et de la persistance du chagrin (toujours repoussant lorsque les amis partent). La section médiane élargit la scène — l'herbe atteignant le long des anciennes routes et contre les villes en ruine — reliant l'adieu personnel au passage de l'histoire. La clôture lie tout au moment spécifique de dire au revoir.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Vers régulier en cinq caractères (五言律诗)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "fu-de-gu-yuan-cao-song-bie"
+    "originalSlug": "fu-de-gu-yuan-cao-song-bie",
+    "themeTranslated": "Amitié & Adieux"
   },
   {
     "id": "P017",
@@ -663,7 +678,7 @@
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -691,9 +706,10 @@
     "translation": "À l'aube, je quitte la ville de l'Empereur Blanc parmi les nuages colorés ; à mille miles de Jiangling, je reviendrai en une seule journée. Des deux rives, les cris des singes ne cessent jamais — ma légère barque a déjà passé dix mille montagnes.",
     "background": "Li Bai a écrit ce poème en 759 après J.-C. après avoir été gracié de son exil. Il avait été condamné à l'exil dans le lointain Guizhou pour son implication dans une rébellion politique, mais une amnistie a été déclarée alors qu'il voyageait en amont. Ce poème capture sa joie alors qu'il descend rapidement le fleuve à travers les Trois Gorges du Yangtsé. L'exubérance est palpable.",
     "analysis": "Le poème déborde de vitesse et d'allégresse. \"Nuages colorés\" encadrent le départ dans la beauté ; \"mille miles en un jour\" transmet une vitesse à couper le souffle. Les cris des singes — un symbole traditionnel de chagrin dans la poésie chinoise — sont ici transformés : ils ne peuvent pas le ralentir. Le temps passé de la dernière ligne (\"a déjà passé\") crée un sentiment de facilité, comme si les montagnes avaient filé pendant que nous ne regardions pas. C'est Li Bai à son plus jubilatoire.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Nature & Landscape",
-    "originalSlug": "zao-fa-bai-di-cheng"
+    "originalSlug": "zao-fa-bai-di-cheng",
+    "themeTranslated": "Nature & Paysage"
   },
   {
     "id": "P018",
@@ -704,7 +720,7 @@
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -732,9 +748,10 @@
     "translation": "Mon vieil ami fait ses adieux à la Tour de la Grue Jaune à l'ouest, au milieu de la brume et des fleurs de mars, se dirigeant vers Yangzhou. L'ombre lointaine de sa voile solitaire disparaît dans le ciel bleu — tout ce que je vois, c'est le Yangtsé coulant vers le bord du ciel.",
     "background": "Li Bai a écrit ce poème pour faire ses adieux à son ami et poète Meng Haoran, qui se dirigeait vers l'est à Yangzhou. La Tour de la Grue Jaune à Wuhan est l'un des monuments les plus célèbres de Chine. Les deux poètes avaient une profonde amitié, et Li Bai admirait beaucoup l'aîné Meng Haoran. Le poème se déroule dans le mois le plus beau — mars, lorsque les rives du fleuve sont couvertes de fleurs.",
     "analysis": "Le poème ne déclare jamais directement les sentiments de Li Bai — au lieu de cela, ses émotions sont transmises par ce qu'il observe. Il se tient à la tour en regardant le bateau de son ami jusqu'à ce que la voile disparaisse à l'horizon, puis continue à regarder alors que le fleuve s'écoule. Le fait qu'il continue à regarder après que le bateau a disparu révèle la profondeur de son attachement. La dernière image — le Yangtsé s'étendant jusqu'au bord du ciel — transforme le chagrin personnel en immensité cosmique.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "huang-he-lou-song-meng-hao-ran"
+    "originalSlug": "huang-he-lou-song-meng-hao-ran",
+    "themeTranslated": "Amitié & Adieux"
   },
   {
     "id": "P019",
@@ -745,7 +762,7 @@
     "poet": {
       "name": "Du Fu",
       "nameChinese": "杜甫",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "712",
       "deathYear": "770",
@@ -789,9 +806,10 @@
     "translation": "Vent violent, ciel haut, singes hurlant de chagrin ; îlot clair, sable blanc, oiseaux tournant en rond. Des feuilles tombantes sans fin bruissent ; le Yangtsé sans fin roule et roule. Dix mille miles de chez moi, éternellement un invité dans un automne triste ; cent ans de maladie, je grimpe seul sur la terrasse. Les difficultés et le regret amer ont gelé mes tempes ; épuisé, j'ai récemment abandonné ma coupe de vin trouble.",
     "background": "Écrit en 767 après J.-C. à Kuizhou (Chongqing moderne) durant les dernières années de Du Fu. Le poète était vieux, malade, pauvre et loin de chez lui. La tradition du Festival du Double Neuvième appelait à grimper des hauteurs et à boire du vin, mais Du Fu était trop malade pour boire. Ce poème est largement considéré comme le plus grand vers régulé (律诗) jamais écrit en chinois.",
     "analysis": "Chaque couplet est magistralement conçu. Les deux premières lignes présentent six images en succession rapide (vent, ciel, singes, îlot, sable, oiseaux) qui créent une expérience sensorielle écrasante. Les lignes trois et quatre atteignent l'un des grands effets panoramiques de la poésie : des feuilles infinies tombant et le fleuve infini s'écoulant — les deux images de choses échappant au contrôle humain. Le tournant vers le personnel dans les lignes cinq et six est dévastateur : une vie de vagabondage et de maladie, grimpant seul. Le dernier couplet, avec sa sobriété forcée (même le vin lui est refusé) rend la tristesse du poème absolue.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Vers régulier en sept caractères (七言律诗)",
     "theme": "Life & Philosophy",
-    "originalSlug": "deng-gao"
+    "originalSlug": "deng-gao",
+    "themeTranslated": "Vie & Philosophie"
   },
   {
     "id": "P027",
@@ -802,7 +820,7 @@
     "poet": {
       "name": "He Zhizhang",
       "nameChinese": "贺知章",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "659",
       "deathYear": "744",
@@ -830,9 +848,10 @@
     "translation": "Je suis parti jeune et je reviens vieux — mon accent local n'a pas changé, mais mes cheveux sur les tempes ont clairsemé. Les enfants du village me voient mais ne me reconnaissent pas ; souriant, ils demandent : \"Visiteur, d'où viens-tu ?\"",
     "background": "He Zhizhang a écrit ce poème en revenant dans sa ville natale de Yongxing (dans le Zhejiang moderne) après plus de 50 ans de service en tant qu'officiel dans la capitale Chang'an. À 86 ans, il a enfin pris sa retraite et est rentré chez lui, seulement pour découvrir que personne ne le reconnaissait. L'humour doux-amer d'être un étranger dans sa propre ville natale a profondément résonné dans la culture chinoise.",
     "analysis": "L'impact émotionnel du poème vient de l'écart entre l'identité et la reconnaissance. Le poète sait qui il est — son accent n'a pas changé — mais le temps l'a transformé au-delà de la reconnaissance. La question innocente des enfants est dévastatrice précisément parce qu'elle est joyeuse : ils voient un visiteur amical, pas un natif de retour. Le poème capture l'une des ironies les plus cruelles de la vie : vous pouvez rentrer chez vous, mais la maison peut ne plus vous connaître.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Homesickness & Longing",
-    "originalSlug": "hui-xiang-ou-shu"
+    "originalSlug": "hui-xiang-ou-shu",
+    "themeTranslated": "Mal du pays & Désir"
   },
   {
     "id": "P030",
@@ -843,7 +862,7 @@
     "poet": {
       "name": "Li Bai",
       "nameChinese": "李白",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "701",
       "deathYear": "762",
@@ -955,9 +974,10 @@
     "translation": "Ne vois-tu pas les eaux du fleuve Jaune venir du ciel, se précipitant vers la mer, jamais pour revenir ? Ne vois-tu pas les miroirs dans les hautes salles refléter des cheveux blancs dans le chagrin — soie noire à l'aube, neige au crépuscule ? Quand la vie va bien, profite-en au maximum ; ne laisse pas ta coupe dorée rester vide sous la lune. Le ciel m'a donné des talents qui doivent être utilisés ; mille pièces d'or dépensées reviendront toutes. Rôtis ton mouton, abat tes bovins, et fais la fête — nous devons boire trois cents coupes d'un coup ! Maître Cen, jeune Danqiu — apportez le vin, ne stoppez pas les coupes ! Laissez-moi vous chanter une chanson — veuillez me prêter vos oreilles et écouter. Les cloches, les tambours, la bonne nourriture et le jade ne sont pas ce que je chéris — je souhaite seulement rester ivre et ne jamais me réveiller. Depuis les temps anciens, les sages et les hommes sages ont tous été oubliés — seuls les grands buveurs laissent leurs noms derrière eux. Le Prince de Chen a un jour festoyé au Palais du Plaisir, dépensant dix mille en vin et se réjouissant librement. Pourquoi notre hôte dit-il qu'il a trop peu d'argent ? Va juste acheter plus de vin pour que nous puissions boire ensemble ! Mon cheval tacheté, mon manteau en fourrure d'un millier d'or — appelle le garçon pour les sortir et échanger contre du bon vin, et ensemble nous dissoudrons les chagrins de dix mille âges.",
     "background": "C'est le poème de vin le plus célèbre de Li Bai et l'un des plus grands poèmes chinois jamais écrits. Il l'a composé vers 752 après J.-C. en rendant visite à des amis Cen Xun et Danqiu dans les montagnes. Le poème est une célébration défiant la vie face à la mortalité, une rébellion contre les valeurs conventionnelles de richesse et de statut, et un argument passionné pour vivre pleinement dans le moment présent.",
     "analysis": "Le poème s'ouvre sur deux des plus grandes images de la poésie chinoise : le fleuve Jaune coulant du ciel et les cheveux passant du noir au blanc en une seule journée. Les deux transmettent la vitesse terrifiante à laquelle la vie passe. De cette crise existentielle, Li Bai pivote non pas vers le désespoir mais vers l'extase — si la vie est courte, alors saisissez la joie maintenant. L'escalade est implacable : buvez 300 coupes, ne vous arrêtez jamais, échangez votre cheval et vos fourrures contre plus de vin. La ligne \"天生我材必有用\" (Le ciel m'a donné des talents qui doivent être utilisés) est devenue l'une des phrases les plus motivantes en chinois, tandis que \"与尔同销万古愁\" (dissoudre ensemble les chagrins de dix mille âges) capture l'esprit défiant du poème.",
-    "form": "Ancient Verse (古体诗)",
+    "form": "Vers anciens (古体诗)",
     "theme": "Life & Philosophy",
-    "originalSlug": "jiang-jin-jiu"
+    "originalSlug": "jiang-jin-jiu",
+    "themeTranslated": "Vie & Philosophie"
   },
   {
     "id": "P020",
@@ -968,7 +988,7 @@
     "poet": {
       "name": "Bai Juyi",
       "nameChinese": "白居易",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "772",
       "deathYear": "846",
@@ -1012,9 +1032,10 @@
     "translation": "Au nord du temple de la colline solitaire, à l'ouest du pavillon Jia, la surface de l'eau vient juste de se niveler, les nuages bas frôlent les vagues. Ici et là, les orioles précoces rivalisent pour les arbres chauds ; quels nouvelles hirondelles picorent la boue printanière ? Les fleurs sauvages deviennent progressivement éblouissantes pour les yeux ; l'herbe peu profonde peut à peine couvrir les sabots du cheval. Ce que j'aime le plus, c'est l'est du lac où je ne marche jamais assez — la chaussée de sable blanc au milieu de l'ombre des saules verts.",
     "background": "Écrit vers 822 après J.-C. lorsque Bai Juyi était gouverneur de Hangzhou, ce poème capture la beauté du lac de l'Ouest (lac Qiantang) au début du printemps. Bai Juyi était un amoureux dévoué du lac de l'Ouest et a construit la célèbre chaussée (chaussée Bai) qui porte encore son nom aujourd'hui.",
     "analysis": "Ce poème est un chef-d'œuvre pour capturer le moment exact du début du printemps. Chaque couplet ajoute un nouveau détail sensoriel : le niveau d'eau élevé, les orioles qui rivalisent, les hirondelles qui construisent des nids, les fleurs en fleurs et l'herbe jeune. La progression du paysage lointain aux détails rapprochés crée une promenade cinématographique autour du lac. Le dernier couplet révèle l'attachement personnel profond du poète à cet endroit.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Vers régulier en sept caractères (七言律诗)",
     "theme": "Seasons & Time",
-    "originalSlug": "qiantang-lake-spring-walk"
+    "originalSlug": "qiantang-lake-spring-walk",
+    "themeTranslated": "Saisons & Temps"
   },
   {
     "id": "P021",
@@ -1025,7 +1046,7 @@
     "poet": {
       "name": "Li Shangyin",
       "nameChinese": "李商隐",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "813",
       "deathYear": "858",
@@ -1069,9 +1090,10 @@
     "translation": "Il est difficile de se rencontrer et difficile de se séparer ; le vent de l'est est impuissant, cent fleurs se fanent. Le ver à soie du printemps file de la soie jusqu'à sa mort ; les larmes de la bougie ne sèchent que lorsqu'elle se transforme en cendres. Face au miroir du matin, elle craint que ses cheveux en nuage ne changent ; en chantant des poèmes la nuit, elle doit sentir le froid de la lumière de la lune. D'ici à la montagne Penglai, le chemin n'est pas loin — que l'oiseau bleu aille diligemment me chercher.",
     "background": "C'est le poème d'amour le plus célèbre de Li Shangyin, probablement écrit dans les années 840. Les poèmes \"Sans titre\" de Li Shangyin sont connus pour leur ambiguïté — ils peuvent faire référence à une liaison interdite, à une frustration politique ou à un désir spirituel. Le troisième couplet (\"ver à soie du printemps\" et \"larmes de bougie\") est devenu l'une des lignes les plus citées de toute la poésie chinoise.",
     "analysis": "Le génie du poème réside dans ses métaphores superposées. Le fil du ver à soie (丝/sī) est un homophone pour le désir (思/sī), donc \"le ver à soie file jusqu'à la mort\" signifie \"mon désir ne se termine qu'à la mort.\" La bougie pleurant des larmes de cire reflète le chagrin sans fin de l'amant. Chaque image renforce le thème de la dévotion jusqu'à la mort. Le dernier couplet introduit l'espoir à travers l'oiseau bleu mythique messager de la Reine Mère de l'Ouest, suggérant qu'à travers des distances impossibles, l'amour cherche la connexion.",
-    "form": "Seven-character Regulated Verse (七言律诗)",
+    "form": "Vers régulier en sept caractères (七言律诗)",
     "theme": "Love & Longing",
-    "originalSlug": "untitled-hard-to-meet"
+    "originalSlug": "untitled-hard-to-meet",
+    "themeTranslated": "Amour & Désir"
   },
   {
     "id": "P022",
@@ -1082,7 +1104,7 @@
     "poet": {
       "name": "Du Mu",
       "nameChinese": "杜牧",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "803",
       "deathYear": "852",
@@ -1110,9 +1132,10 @@
     "translation": "Loin dans la froide montagne, le chemin de pierre serpente ; là où les nuages blancs s'élèvent, il y a des maisons. J'arrête ma voiture, enchanté par la forêt d'érables au crépuscule — les feuilles touchées par le gel sont plus rouges que les fleurs de février.",
     "background": "Écrit lors d'une excursion d'automne, ce poème capture le voyage de Du Mu sur un chemin de montagne. Du Mu, connu sous le nom de \"Petit Du\" (小杜) pour le distinguer de Du Fu (\"Vieux Du\"), était célébré pour ses quatrains élégants et vivants. Ce poème est devenu le poème chinois définitif sur le paysage automnal.",
     "analysis": "En seulement quatre lignes, Du Mu crée un voyage complet : le chemin sinueux, les maisons lointaines dans les nuages, l'arrêt soudain et la révélation à couper le souffle. La dernière ligne est le coup de génie du poème — comparant les feuilles rouges d'érable d'automne aux fleurs du printemps, subvertissant la tradition poétique chinoise qui pleure généralement l'automne et célèbre le printemps. Le mot \"坐\" (zuò, \"parce que\") plutôt que son homophone signifiant \"s'asseoir\" montre que le poète est contraint de s'arrêter, ne choisissant pas de se reposer.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Seasons & Time",
-    "originalSlug": "mountain-walk"
+    "originalSlug": "mountain-walk",
+    "themeTranslated": "Saisons & Temps"
   },
   {
     "id": "P023",
@@ -1123,7 +1146,7 @@
     "poet": {
       "name": "Meng Haoran",
       "nameChinese": "孟浩然",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "689",
       "deathYear": "740",
@@ -1167,9 +1190,10 @@
     "translation": "Mon vieil ami a préparé du poulet et du millet, et m'a invité dans sa ferme. Des arbres verts entourent le village ; des montagnes bleues s'inclinent au-delà du mur extérieur. Nous ouvrons la fenêtre donnant sur le jardin et le champ de battage, et autour du vin, nous parlons de mûrier et de chanvre. Quand la fête du Double Neuvième arrive, je reviendrai pour profiter des chrysanthèmes.",
     "background": "Ce poème capture une simple visite chez un ami à la campagne. Meng Haoran, qui a passé la majeure partie de sa vie en ermite près de sa ville natale dans le Hubei, était le grand poète de la vie pastorale. Contrairement à de nombreux poètes Tang qui cherchaient des carrières officielles, Meng Haoran a choisi de vivre près de la nature, et ce poème incarne son idéal de contentement rustique.",
     "analysis": "La beauté de ce poème réside dans sa parfaite simplicité. Il n'y a pas de grande métaphore, pas de méditation philosophique — juste une invitation d'un ami, de la bonne nourriture, de beaux paysages, du vin, des conversations sur l'agriculture et une promesse de retour. Les couplets du milieu peignent une scène rurale idyllique : des arbres verts entourant le village, des montagnes au-delà, une fenêtre s'ouvrant sur des champs. La chaleur du poème vient de son absence complète de prétention, en faisant l'un des poèmes d'amitié les plus aimés de la littérature chinoise.",
-    "form": "Five-character Regulated Verse (五言律诗)",
+    "form": "Vers régulier en cinq caractères (五言律诗)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "visiting-old-friends-farm"
+    "originalSlug": "visiting-old-friends-farm",
+    "themeTranslated": "Amitié & Adieux"
   },
   {
     "id": "P024",
@@ -1180,7 +1204,7 @@
     "poet": {
       "name": "Wang Changling",
       "nameChinese": "王昌龄",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "698",
       "deathYear": "756",
@@ -1208,9 +1232,10 @@
     "translation": "La pluie froide se mêle à la rivière, entrant à Wu la nuit ; à l'aube, je fais mes adieux à mon ami, les montagnes Chu se tiennent seules. Si des amis et de la famille à Luoyang demandent de mes nouvelles — mon cœur est pur comme de la glace dans un vase de jade.",
     "background": "Écrit vers 742 après J.-C. lorsque Wang Changling était stationné dans le sud, loin de la capitale. Son ami Xin Jian rentrait à Luoyang, et Wang Changling a composé cet adieu à la tour de Lotus (dans l'actuelle Zhenjiang, Jiangsu). Connu comme le \"Sage des quatrains à sept caractères\", Wang Changling occupait à ce moment un poste mineur après avoir été rétrogradé de la capitale.",
     "analysis": "Le poème passe du vaste à l'intime : la pluie nocturne sur la rivière, la montagne solitaire à l'aube, puis le message personnel. La dernière ligne — \"一片冰心在玉壶\" (un morceau de cœur de glace dans un vase de jade) — est devenue une expression classique de pureté morale. Malgré sa rétrogradation et son exil, le cœur de Wang Changling reste pur. La métaphore \"glace dans jade\" évoque à la fois la transparence et la précieuse, une déclaration d'intégrité qui transcende ses circonstances.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "Friendship & Farewell",
-    "originalSlug": "seeing-off-xin-jian-at-lotus-tower"
+    "originalSlug": "seeing-off-xin-jian-at-lotus-tower",
+    "themeTranslated": "Amitié & Adieux"
   },
   {
     "id": "P025",
@@ -1221,7 +1246,7 @@
     "poet": {
       "name": "Liu Zongyuan",
       "nameChinese": "柳宗元",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "773",
       "deathYear": "819",
@@ -1257,9 +1282,10 @@
     "translation": "Le vieux pêcheur dort près de la falaise occidentale la nuit ; à l'aube, il tire de l'eau claire de la rivière Xiang et brûle du bambou de Chu. Lorsque la brume se dissipe et que le soleil se lève, il n'est nulle part à voir — le grincement de son aviron, et les montagnes et l'eau deviennent vertes. En regardant le bord du ciel, il dérive au milieu du courant ; au-dessus de la falaise, des nuages insouciants se poursuivent les uns les autres.",
     "background": "Écrit pendant l'exil de Liu Zongyuan à Yongzhou (Hunan moderne) vers 810 après J.-C. Après avoir été banni de la capitale pour son rôle dans une réforme politique ratée, Liu Zongyuan a passé une décennie dans le sud éloigné. Ce poème reflète son état spirituel — le pêcheur est à la fois une figure réelle et une projection du désir du poète de liberté face aux préoccupations mondaines.",
     "analysis": "Le quatrième vers est l'un des plus célébrés de la poésie chinoise : \"欸乃一声山水绿\" — un seul son d'un aviron, et soudain tout le paysage devient vert. C'est un chef-d'œuvre synesthésique : le son se transforme en couleur. Le pêcheur apparaît et disparaît comme un esprit du paysage. L'image finale des \"nuages sans esprit\" (无心云) se poursuivant symbolise l'état idéal taoïste d'agir sans intention. Su Shi a plus tard suggéré que le dernier couplet était inutile, mais la plupart des lecteurs chérissent sa clôture contemplative.",
-    "form": "Seven-character Ancient Verse (七言古诗)",
+    "form": "Vers anciens en sept caractères (七言古诗)",
     "theme": "Seasons & Time",
-    "originalSlug": "the-fisherman"
+    "originalSlug": "the-fisherman",
+    "themeTranslated": "Saisons & Temps"
   },
   {
     "id": "P026",
@@ -1270,7 +1296,7 @@
     "poet": {
       "name": "Wang Zhihuan",
       "nameChinese": "王之涣",
-      "dynasty": "Tang Dynasty",
+      "dynasty": "Dynastie Tang",
       "dynastyChinese": "唐代",
       "birthYear": "688",
       "deathYear": "742",
@@ -1298,8 +1324,9 @@
     "translation": "Le fleuve Jaune s'élève loin dans les nuages blancs ; une ville fortifiée solitaire se dresse au milieu de montagnes de dix mille pieds de haut. Pourquoi la flûte Qiang devrait-elle se plaindre des saules ? Le vent de printemps ne traverse jamais le Pass de la Porte de Jade.",
     "background": "L'un des plus grands poèmes de frontière (边塞诗) de la dynastie Tang. Wang Zhihuan a écrit cela alors qu'il était stationné à la frontière nord-ouest. Liangzhou (Wuwei moderne, Gansu) était une ville de garnison frontalière sur la route de la soie. Le Pass de la Porte de Jade (Yumen Guan) marquait la frontière occidentale de l'empire chinois, au-delà de laquelle se trouvait le vaste désert d'Asie centrale.",
     "analysis": "Le poème se construit à partir de l'image la plus grandiose possible — le fleuve Jaune semblant s'écouler vers le haut dans les nuages — jusqu'au son intime de la flûte d'un soldat. Le \"saule\" dans le troisième vers fait référence à la chanson folklorique \"Briser les Saules\" (折杨柳), traditionnellement jouée lors des séparations, alors que les voyageurs brisaient des branches de saule comme cadeaux d'adieu. La dernière ligne est dévastatrice dans sa simplicité : le vent de printemps (chaleur, civilisation, foyer) ne peut littéralement pas atteindre cet endroit au-delà du pass. Elle exprime la solitude des soldats de la frontière avec une retenue qui la rend d'autant plus puissante.",
-    "form": "Seven-character Quatrain (七言绝句)",
+    "form": "Quatrain en sept caractères (七言绝句)",
     "theme": "War & Frontier",
-    "originalSlug": "song-of-liangzhou"
+    "originalSlug": "song-of-liangzhou",
+    "themeTranslated": "Guerre & Frontière"
   }
 ]

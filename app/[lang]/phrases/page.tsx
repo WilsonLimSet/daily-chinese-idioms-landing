@@ -157,10 +157,12 @@ export default async function TranslatedPhrasesIndexPage({ params }: { params: P
         {PHRASE_CATEGORIES.map((category, catIdx) => {
           const categoryTerms = allTerms.filter(t => t.category === category);
           if (categoryTerms.length === 0) return null;
+          const categoryKey = ('phraseCategory' + category.replace(/[&\s]+/g, '')) as Parameters<typeof getTranslation>[1];
+          const displayCategory = getTranslation(lang, categoryKey);
 
           return (
             <section key={category} id={category.toLowerCase().replace(/[&\s]+/g, '-')} className="mb-12">
-              <h2 className="text-2xl font-bold text-gray-900 mb-6">{category}</h2>
+              <h2 className="text-2xl font-bold text-gray-900 mb-6">{displayCategory}</h2>
               <div className="grid gap-4 sm:grid-cols-2">
                 {categoryTerms.map(term => (
                   <Link
