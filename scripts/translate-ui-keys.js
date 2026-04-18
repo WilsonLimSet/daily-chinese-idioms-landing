@@ -34,22 +34,14 @@ const LANGS = {
 };
 
 const KEYS = {
-  poemsHubSubtitle: "{count} iconic poems with translations in {lang}.",
-  poemsCount: "poems",
-  phraseCategoryRestaurantFood: "Restaurant & Food",
-  phraseCategoryShoppingBargaining: "Shopping & Bargaining",
-  phraseCategoryGettingAround: "Getting Around",
-  phraseCategoryMakingPlansSocializing: "Making Plans & Socializing",
-  phraseCategoryReactionsOpinions: "Reactions & Opinions",
-  phraseCategoryWorkProfessional: "Work & Professional",
-  phraseCategoryEmergenciesHelp: "Emergencies & Help",
-  phraseCategoryDailyLifeFeelings: "Daily Life & Feelings",
-  slangCategoryWorkHustle: "Work & Hustle",
-  slangCategoryAttitudeLifestyle: "Attitude & Lifestyle",
-  slangCategorySocialRelationships: "Social & Relationships",
-  slangCategoryInternetCulture: "Internet Culture",
-  slangCategoryEmotionsReactions: "Emotions & Reactions",
-  slangCategoryYouthCulture: "Youth Culture",
+  festivalsCardTitle: "Chinese Festivals",
+  festivalsCardSubtitle: "Traditions & idioms behind 8 major holidays",
+  festivalsCardCta: "Explore festivals",
+  dramasCardTitle: "Chinese Dramas",
+  dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir & more",
+  dramasCardCta: "Read essays",
+  poemsCardSubtitle: "27 iconic poems from Li Bai, Du Fu & more",
+  poemsCardCta: "Read poems",
 };
 
 function buildPrompt(langName) {
@@ -114,7 +106,10 @@ async function main() {
       const before = source.slice(0, closeIdx);
       const after = source.slice(closeIdx);
 
-      if (before.includes('poemsHubSubtitle') && before.lastIndexOf('poemsHubSubtitle') > afterStart) {
+      // Idempotency: skip if this run's first key is already present in the
+      // language block.
+      const sentinelKey = Object.keys(KEYS)[0];
+      if (before.includes(sentinelKey) && before.lastIndexOf(sentinelKey) > afterStart) {
         console.log('already present, skipping');
         continue;
       }

@@ -252,6 +252,31 @@ export default async function InternationalHomePage({
               <p className="text-xs text-indigo-600 font-medium mt-2">{quiz.ui.homeCardLink} →</p>
             </Link>
             <Link
+              href={`/${lang}/festivals`}
+              className="p-5 bg-red-50 rounded-xl border border-red-100 hover:shadow-md hover:border-red-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-red-600 transition-colors">{getTranslation(lang, 'festivalsCardTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'festivalsCardSubtitle')}</p>
+              <p className="text-xs text-red-600 font-medium mt-2">{getTranslation(lang, 'festivalsCardCta')} →</p>
+            </Link>
+            <Link
+              href={`/${lang}/dramas`}
+              className="p-5 bg-rose-50 rounded-xl border border-rose-100 hover:shadow-md hover:border-rose-200 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-rose-500 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-rose-600 transition-colors">{getTranslation(lang, 'dramasCardTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'dramasCardSubtitle')}</p>
+              <p className="text-xs text-rose-600 font-medium mt-2">{getTranslation(lang, 'dramasCardCta')} →</p>
+            </Link>
+            <Link
+              href={`/${lang}/poems`}
+              className="p-5 bg-amber-50 rounded-xl border border-amber-100 hover:shadow-md hover:border-amber-200 transition-all group"
+            >
+              <p className="font-bold text-gray-900 group-hover:text-amber-600 transition-colors">{getTranslation(lang, 'poemsTitle')}</p>
+              <p className="text-sm text-gray-600 mt-1">{getTranslation(lang, 'poemsCardSubtitle')}</p>
+              <p className="text-xs text-amber-600 font-medium mt-2">{getTranslation(lang, 'poemsCardCta')} →</p>
+            </Link>
+            <Link
               href={`/${lang}/slang`}
               className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
             >

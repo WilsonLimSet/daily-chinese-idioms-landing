@@ -192,6 +192,16 @@ export const translations = {
     slangCategoryEmotionsReactions: "Emotions & Reactions",
     slangCategoryYouthCulture: "Youth Culture",
 
+    // Homepage "More Resources" cards
+    festivalsCardTitle: "Chinese Festivals",
+    festivalsCardSubtitle: "Traditions & idioms behind 8 major holidays",
+    festivalsCardCta: "Explore festivals",
+    dramasCardTitle: "Chinese Dramas",
+    dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir & more",
+    dramasCardCta: "Read essays",
+    poemsCardSubtitle: "27 iconic poems from Li Bai, Du Fu & more",
+    poemsCardCta: "Read poems",
+
     // Poems section
     poemsTitle: "Classical Chinese Poems",
     poemsSubtitle: "Timeless verses from China's greatest poets",
@@ -512,6 +522,14 @@ export const translations = {
     slangCategoryInternetCulture: "Cultura de Internet",
     slangCategoryEmotionsReactions: "Emociones y Reacciones",
     slangCategoryYouthCulture: "Cultura Juvenil",
+    festivalsCardTitle: "Festivales Chinos",
+    festivalsCardSubtitle: "Tradiciones y modismos detrás de 8 días festivos principales",
+    festivalsCardCta: "Explorar festivales",
+    dramasCardTitle: "Dramas Chinos",
+    dramasCardSubtitle: "Primera Escarcha, Persecución de Jade, El Heredero y más",
+    dramasCardCta: "Leer ensayos",
+    poemsCardSubtitle: "27 poemas icónicos de Li Bai, Du Fu y más",
+    poemsCardCta: "Leer poemas",
   },
 
   id: {
@@ -740,6 +758,14 @@ export const translations = {
     slangCategoryInternetCulture: "Budaya Internet",
     slangCategoryEmotionsReactions: "Emosi & Reaksi",
     slangCategoryYouthCulture: "Budaya Anak Muda",
+    festivalsCardTitle: "Festival Tiongkok",
+    festivalsCardSubtitle: "Tradisi & idiom di balik 8 liburan utama",
+    festivalsCardCta: "Jelajahi festival",
+    dramasCardTitle: "Drama Tiongkok",
+    dramasCardSubtitle: "Frost Pertama, Pengejaran Giok, Pewaris & lainnya",
+    dramasCardCta: "Baca esai",
+    poemsCardSubtitle: "27 puisi ikonik dari Li Bai, Du Fu & lainnya",
+    poemsCardCta: "Baca puisi",
   },
 
   ja: {
@@ -971,6 +997,14 @@ export const translations = {
     slangCategoryInternetCulture: "インターネット文化",
     slangCategoryEmotionsReactions: "感情と反応",
     slangCategoryYouthCulture: "若者文化",
+    festivalsCardTitle: "中国の祭り",
+    festivalsCardSubtitle: "8つの主要な祝日の伝統と慣用句",
+    festivalsCardCta: "祭りを探検する",
+    dramasCardTitle: "中国のドラマ",
+    dramasCardSubtitle: "霜降、玉の追求、相続者 など",
+    dramasCardCta: "エッセイを読む",
+    poemsCardSubtitle: "李白、杜甫 などの27の象徴的な詩",
+    poemsCardCta: "詩を読む",
   },
 
   pt: {
@@ -1201,6 +1235,14 @@ export const translations = {
     slangCategoryInternetCulture: "Cultura da Internet",
     slangCategoryEmotionsReactions: "Emoções & Reações",
     slangCategoryYouthCulture: "Cultura Jovem",
+    festivalsCardTitle: "Festivais Chineses",
+    festivalsCardSubtitle: "Tradições e expressões por trás de 8 grandes feriados",
+    festivalsCardCta: "Explorar festivais",
+    dramasCardTitle: "Dramas Chineses",
+    dramasCardSubtitle: "Primeira Geada, Busca do Jade, O Herdeiro e mais",
+    dramasCardCta: "Ler ensaios",
+    poemsCardSubtitle: "27 poemas icônicos de Li Bai, Du Fu e mais",
+    poemsCardCta: "Ler poemas",
   },
 
   vi: {
@@ -1432,6 +1474,14 @@ export const translations = {
     slangCategoryInternetCulture: "Văn hóa Internet",
     slangCategoryEmotionsReactions: "Cảm xúc & Phản ứng",
     slangCategoryYouthCulture: "Văn hóa giới trẻ",
+    festivalsCardTitle: "Lễ Hội Trung Quốc",
+    festivalsCardSubtitle: "Truyền thống và thành ngữ đằng sau 8 ngày lễ chính",
+    festivalsCardCta: "Khám phá lễ hội",
+    dramasCardTitle: "Phim Truyền Hình Trung Quốc",
+    dramasCardSubtitle: "Sương Giá Đầu Mùa, Theo Đuổi Ngọc Bích, Người Thừa Kế & nhiều hơn nữa",
+    dramasCardCta: "Đọc tiểu luận",
+    poemsCardSubtitle: "27 bài thơ nổi tiếng của Lý Bạch, Đỗ Phủ & nhiều hơn nữa",
+    poemsCardCta: "Đọc thơ",
   },
 
   // Add more languages as needed...
@@ -1664,6 +1714,14 @@ export const translations = {
     slangCategoryInternetCulture: "Culture Internet",
     slangCategoryEmotionsReactions: "Émotions & Réactions",
     slangCategoryYouthCulture: "Culture Jeunesse",
+    festivalsCardTitle: "Fêtes Chinoises",
+    festivalsCardSubtitle: "Traditions et idiomes derrière 8 fêtes majeures",
+    festivalsCardCta: "Explorer les fêtes",
+    dramasCardTitle: "Dramas Chinois",
+    dramasCardSubtitle: "Première Gelée, À la Poursuite du Jade, L'Héritier & plus",
+    dramasCardCta: "Lire les essais",
+    poemsCardSubtitle: "27 poèmes emblématiques de Li Bai, Du Fu & autres",
+    poemsCardCta: "Lire les poèmes",
   },
 
   de: {
@@ -1946,6 +2004,14 @@ export const translations = {
     slangCategoryInternetCulture: "Internetkultur",
     slangCategoryEmotionsReactions: "Gefühle & Reaktionen",
     slangCategoryYouthCulture: "Jugendkultur",
+    festivalsCardTitle: "Chinesische Feste",
+    festivalsCardSubtitle: "Traditionen & Redewendungen hinter 8 wichtigen Feiertagen",
+    festivalsCardCta: "Feste erkunden",
+    dramasCardTitle: "Chinesische Dramen",
+    dramasCardSubtitle: "Erster Frost, Jagd nach Jade, Der Erbe & mehr",
+    dramasCardCta: "Aufsätze lesen",
+    poemsCardSubtitle: "27 ikonische Gedichte von Li Bai, Du Fu & mehr",
+    poemsCardCta: "Gedichte lesen",
   },
 
   ko: {
@@ -2177,6 +2243,14 @@ export const translations = {
     slangCategoryInternetCulture: "인터넷 문화",
     slangCategoryEmotionsReactions: "감정 & 반응",
     slangCategoryYouthCulture: "청소년 문화",
+    festivalsCardTitle: "중국의 축제",
+    festivalsCardSubtitle: "8개의 주요 명절 뒤에 숨겨진 전통과 관용구",
+    festivalsCardCta: "축제 탐색하기",
+    dramasCardTitle: "중국 드라마",
+    dramasCardSubtitle: "첫 서리, 비취의 추구, 상속인 등",
+    dramasCardCta: "에세이 읽기",
+    poemsCardSubtitle: "이백, 두보 등의 27편 대표 시",
+    poemsCardCta: "시 읽기",
   },
 
   th: {
@@ -2408,6 +2482,14 @@ export const translations = {
     slangCategoryInternetCulture: "วัฒนธรรมอินเทอร์เน็ต",
     slangCategoryEmotionsReactions: "อารมณ์ & ปฏิกิริยา",
     slangCategoryYouthCulture: "วัฒนธรรมเยาวชน",
+    festivalsCardTitle: "เทศกาลจีน",
+    festivalsCardSubtitle: "ประเพณีและสำนวนที่อยู่เบื้องหลังวันหยุดสำคัญ 8 วัน",
+    festivalsCardCta: "สำรวจเทศกาล",
+    dramasCardTitle: "ละครจีน",
+    dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir และอื่นๆ",
+    dramasCardCta: "อ่านบทความ",
+    poemsCardSubtitle: "บทกวีเด่นจำนวน 27 บทจากหลี่ไป๋, ตู้ฝู่ และอื่นๆ",
+    poemsCardCta: "อ่านบทกวี",
   },
 
   hi: {
@@ -2635,6 +2717,14 @@ export const translations = {
     slangCategoryInternetCulture: "इंटरनेट संस्कृति",
     slangCategoryEmotionsReactions: "भावनाएँ और प्रतिक्रियाएँ",
     slangCategoryYouthCulture: "युवा संस्कृति",
+    festivalsCardTitle: "चीनी उत्सव",
+    festivalsCardSubtitle: "8 प्रमुख छुट्टियों के पीछे की परंपराएं और मुहावरे",
+    festivalsCardCta: "उत्सवों को जानें",
+    dramasCardTitle: "चीनी नाटक",
+    dramasCardSubtitle: "फर्स्ट फ्रॉस्ट, जेड की खोज, द हेयर एवं अधिक",
+    dramasCardCta: "निबंध पढ़ें",
+    poemsCardSubtitle: "ली बाई, दु फ़ू एवं अधिक के 27 प्रसिद्ध कविताएँ",
+    poemsCardCta: "कविताएँ पढ़ें",
   },
 
   ar: {
@@ -2866,6 +2956,14 @@ export const translations = {
     slangCategoryInternetCulture: "ثقافة الإنترنت",
     slangCategoryEmotionsReactions: "المشاعر وردود الفعل",
     slangCategoryYouthCulture: "ثقافة الشباب",
+    festivalsCardTitle: "المهرجانات الصينية",
+    festivalsCardSubtitle: "تقاليد وتعابير وراء 8 أعياد رئيسية",
+    festivalsCardCta: "استكشاف المهرجانات",
+    dramasCardTitle: "المسلسلات الصينية",
+    dramasCardSubtitle: "الصقيع الأول، مطاردة اليشم، الوارث والمزيد",
+    dramasCardCta: "اقرأ المقالات",
+    poemsCardSubtitle: "27 قصيدة مشهورة من لي باي، دو فو والمزيد",
+    poemsCardCta: "اقرأ القصائد",
   },
 
   tl: {
@@ -3085,6 +3183,14 @@ export const translations = {
     slangCategoryInternetCulture: "Kultura ng Internet",
     slangCategoryEmotionsReactions: "Damdamin at Reaksyon",
     slangCategoryYouthCulture: "Kultura ng Kabataan",
+    festivalsCardTitle: "Mga Pista ng Tsino",
+    festivalsCardSubtitle: "Mga Tradisyon at idyoma sa likod ng 8 pangunahing pista",
+    festivalsCardCta: "Tuklasin ang mga pista",
+    dramasCardTitle: "Mga Drama ng Tsino",
+    dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir at iba pa",
+    dramasCardCta: "Basahin ang mga sanaysay",
+    poemsCardSubtitle: "27 tanyag na mga tula mula kina Li Bai, Du Fu at iba pa",
+    poemsCardCta: "Basahin ang mga tula",
   },
 
   ms: {
@@ -3304,6 +3410,14 @@ export const translations = {
     slangCategoryInternetCulture: "Budaya Internet",
     slangCategoryEmotionsReactions: "Emosi & Reaksi",
     slangCategoryYouthCulture: "Budaya Belia",
+    festivalsCardTitle: "Perayaan Cina",
+    festivalsCardSubtitle: "Tradisi & simpulan bahasa di sebalik 8 perayaan utama",
+    festivalsCardCta: "Terokai perayaan",
+    dramasCardTitle: "Drama Cina",
+    dramasCardSubtitle: "First Frost, Pursuit of Jade, The Heir & banyak lagi",
+    dramasCardCta: "Baca esei",
+    poemsCardSubtitle: "27 puisi ikonik daripada Li Bai, Du Fu & banyak lagi",
+    poemsCardCta: "Baca puisi",
   },
 
   ru: {
@@ -3523,6 +3637,14 @@ export const translations = {
     slangCategoryInternetCulture: "Интернет-культура",
     slangCategoryEmotionsReactions: "Эмоции и реакции",
     slangCategoryYouthCulture: "Молодежная культура",
+    festivalsCardTitle: "Китайские фестивали",
+    festivalsCardSubtitle: "Традиции и идиомы за 8 основными праздниками",
+    festivalsCardCta: "Изучить фестивали",
+    dramasCardTitle: "Китайские драмы",
+    dramasCardSubtitle: "Первый мороз, В погоне за нефритом, Наследник и другие",
+    dramasCardCta: "Читать эссе",
+    poemsCardSubtitle: "27 знаковых стихотворений от Ли Бая, Ду Фу и других",
+    poemsCardCta: "Читать стихи",
   }
 };
 
