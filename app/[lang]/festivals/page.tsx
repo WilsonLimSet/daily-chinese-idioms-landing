@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
-import { getAllFestivals } from '@/src/lib/festivals';
+import { getAllFestivalsTranslated } from '@/src/lib/festivals';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
 import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
 
 export default async function TranslatedFestivalsPage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang } = await params;
-  const festivals = getAllFestivals();
+  const festivals = getAllFestivalsTranslated(lang);
 
   let translatedListicles: { slug: string; title: string; publishedDate: string }[] = [];
   try {
@@ -56,8 +56,8 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Chinese Festivals & Holidays",
-    "description": "Complete guide to Chinese festivals, traditions, and the idioms behind each celebration.",
+    "name": getTranslation(lang, 'festivalsTitle'),
+    "description": getTranslation(lang, 'festivalsSubtitle'),
     "url": `https://www.chineseidioms.com/${lang}/festivals`,
     "inLanguage": lang,
     "isPartOf": {
@@ -68,8 +68,8 @@ export default async function TranslatedFestivalsPage({ params }: { params: Prom
     "breadcrumb": {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": `https://www.chineseidioms.com/${lang}` },
-        { "@type": "ListItem", "position": 2, "name": "Festivals", "item": `https://www.chineseidioms.com/${lang}/festivals` },
+        { "@type": "ListItem", "position": 1, "name": getTranslation(lang, 'home'), "item": `https://www.chineseidioms.com/${lang}` },
+        { "@type": "ListItem", "position": 2, "name": getTranslation(lang, 'festivalsTitle'), "item": `https://www.chineseidioms.com/${lang}/festivals` },
       ]
     },
     "mainEntity": {

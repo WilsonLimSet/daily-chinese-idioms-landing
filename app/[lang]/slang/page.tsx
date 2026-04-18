@@ -87,7 +87,7 @@ export default async function TranslatedSlangIndexPage({ params }: { params: Pro
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": `https://www.chineseidioms.com/${lang}` },
+        { "@type": "ListItem", "position": 1, "name": getTranslation(lang, 'home'), "item": `https://www.chineseidioms.com/${lang}` },
         { "@type": "ListItem", "position": 2, "name": getTranslation(lang, 'slangTitle'), "item": `https://www.chineseidioms.com/${lang}/slang` }
       ]
     }

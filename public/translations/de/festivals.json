@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Frühlingsfest",
+    "alternateName": "Chinesisches Neujahr",
+    "significance": "Das Frühlingsfest ist der bedeutendste Feiertag in der chinesischen Kultur und markiert den Beginn des neuen Mondjahres. Familien reisen durchs ganze Land, um an Versammlungsessen (年夜饭) teilzunehmen, rote Umschläge (红包) auszutauschen und mit Feuerwerken und Löwentänzen zu feiern. Das Fest trägt über 4.000 Jahre Tradition in sich, die in der Legende vom Monster Nian (年) verwurzelt ist, das durch laute Geräusche und die Farbe Rot verjagt wurde. Jedes Jahr ist mit einem der 12 Tierkreiszeichen verbunden — 2026 ist das Jahr des Pferdes (马年).",
+    "traditions": [
+      "Versammlungsessen (年夜饭) am Silvesterabend",
+      "Rote Umschläge (红包) mit Geld für Kinder und ältere Menschen",
+      "Löwen- und Drachentänze",
+      "Feuerwerke und Böller um Mitternacht",
+      "Frühlingscouplets (春联) an Türen kleben",
+      "Bis Mitternacht wach bleiben (守岁)"
+    ],
+    "funFact": "Das Frühlingsfest löst die größte jährliche menschliche Migration auf der Erde aus — \"Chunyun\" (春运) — mit Milliarden von Reisen, da die Menschen nach Hause reisen, um sich zu versammeln."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Laternenfest",
+    "alternateName": "",
+    "significance": "Das Laternenfest markiert das Ende der Frühlingsfestfeierlichkeiten mit dem ersten Vollmond des neuen Jahres. Straßen und Tempel sind gefüllt mit farbenfrohen Laternen jeder Form — von traditionellen roten Kugeln bis hin zu kunstvollen Drachenskulpturen. Das Fest reicht über 2.000 Jahre bis in die Han-Dynastie zurück, als Kaiser Ming Laternen zur Ehren Buddhas anzünden ließ. Heute vereint es alte Rituale mit gemeinschaftlichen Feierlichkeiten, da sich Familien versammeln, um Laternenrätsel (猜灯谜) zu lösen, Aufführungen zu beobachten und süße Klebereisbällchen (汤圆) zu teilen, die Einheit und Zusammengehörigkeit symbolisieren.",
+    "traditions": [
+      "Farbenfrohe Laternen anzeigen und bewundern",
+      "Laternenrätsel (猜灯谜) lösen",
+      "Tangyuan (汤圆) essen — süße Reisbällchen, die Wiedervereinigung symbolisieren",
+      "Drachen- und Löwentanzprozessionen",
+      "Rätsel raten, die auf Laternen geschrieben sind"
+    ],
+    "funFact": "Tangyuan (汤圆) sind rund, um die familiäre Zusammengehörigkeit und Vollständigkeit zu symbolisieren — das chinesische Wort für \"rund\" (圆) klingt gleich wie \"Wiedervereinigung\" (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Qingming-Fest",
+    "alternateName": "Gräberfegtages",
+    "significance": "Qingming bedeutet wörtlich \"klar und hell\" — es fällt, wenn der Frühling in vollem Gange ist, und macht es sowohl zu einem Tag, um der Toten zu gedenken, als auch das lebendige Leben zu feiern. Familien besuchen Gräber von Ahnen, um sie zu reinigen, bieten Essen und Räucherwerk an und verbrennen Papieropfer. Doch Qingming ist nicht nur düster. Der Dichter der Tang-Dynastie, Du Mu, schrieb das berühmte Gedicht \"清明时节雨纷纷\" (Es nieselt unaufhörlich während Qingming), das einfängt, wie Trauer und die Schönheit des Frühlings sich verweben. Nach dem Respektzahlen genießen Familien traditionell Frühlingsausflüge (踏青), lassen Drachen steigen und pflanzen Weiden — indem sie Erneuerung und Erinnerung zugleich umarmen.",
+    "traditions": [
+      "Das Kehren und Säubern von Ahnen-Gräbern",
+      "Essen, Tee und Räucherwerk an Gräbern anbieten",
+      "Verbrennen von Joss-Papier und Papieropfern",
+      "Frühlingsausflüge (踏青) — in der Natur spazieren",
+      "Drachen steigen lassen, manchmal sie freilassen, um Unglück loszuwerden",
+      "Qingtuan (青团) essen — grüne Reisbällchen mit süßer Füllung"
+    ],
+    "funFact": "Die Tradition des kalten Essens (寒食节) vor Qingming ehrt Jie Zitui, einen loyalen Diener, der ablehnte, eine Belohnung zu verlangen, und unabsichtlich getötet wurde, als ein Herzog einen Wald in Flammen setzte, um ihn herauszulocken."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Drachenbootfest",
+    "alternateName": "",
+    "significance": "Das Drachenbootfest gedenkt Qu Yuan (屈原), einem patriotischen Dichter aus der Zeit der Streitenden Reiche, der sich 278 v. Chr. im Fluss Miluo ertränkte, nachdem sein geliebter Staat Chu an Invasoren gefallen war. Dorfbewohner rasten mit Booten, um ihn zu retten, und warfen Reis ins Wasser, um die Fische davon abzuhalten, seinen Körper zu fressen — was zu Drachenbootrennen und Zongzi (mit Bambusblättern umwickelte Reisbällchen) führte. Das Fest feiert Loyalität, Integrität und das Eintreten für das Richtige, selbst auf persönliche Kosten. Drachenbootrennen sind seither ein internationaler Sport geworden, bei dem Teams weltweit antreten.",
+    "traditions": [
+      "Drachenbootrennen (赛龙舟)",
+      "Zongzi (粽子) essen — klebrige Reisknödel in Bambusblättern",
+      "Beifuß (艾草) und Kalmus aufhängen, um Böses fernzuhalten",
+      "Realgar-Wein (雄黄酒) trinken",
+      "Fünf-Farben-Seidenbänder als Schutz tragen",
+      "Eier um Mittag balancieren (eine Duanwu-Tradition)"
+    ],
+    "funFact": "Qu Yuan wird als einer der größten Dichter Chinas angesehen. Sein Meisterwerk \"Li Sao\" (离骚, \"Begegnung mit Kummer\") ist eines der längsten Gedichte der alten chinesischen Literatur und drückt sein Leid über politische Korruption aus."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Qixi-Fest",
+    "alternateName": "Chinesischer Valentinstag",
+    "significance": "Qixi feiert die Liebesgeschichte des Kuhhirten Niulang (牛郎) und des Webermädchens Zhinu (织女), Liebende, die durch die Milchstraße getrennt sind und nur einmal im Jahr aufeinandertreffen dürfen, wenn Elstern eine Brücke über den Himmel bilden. Die Geschichte reicht über 2.600 Jahre zurück und steht für treue, dauerhafte Liebe gegen unmögliche Gegebenheiten. Anders als der westliche Valentinstag (auch am 14. Februar in China gefeiert) trägt Qixi ein tieferes kulturelles Gewicht — es ist mit Astronomie (die Sterne Altair und Vega), Textilkunst und der Spannung zwischen Pflicht und Verlangen in der chinesischen Tradition verbunden.",
+    "traditions": [
+      "Die Sterne Altair (Niulang) und Vega (Zhinu) betrachten",
+      "Um Geschicklichkeit in der Handarbeit (乞巧) beten",
+      "Blumen, Schokolade und Schmuck schenken (modern)",
+      "Liebesbriefe und Gedichte schreiben",
+      "Junge Frauen zeigen Handarbeitsfähigkeiten"
+    ],
+    "funFact": "Es heißt, am Vorabend von Qixi, dass man, wenn man unter einem Weinstock steht, das geflüsterte Gespräch zwischen Niulang und Zhinu belauschen kann, wenn sie sich wieder vereinen."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Mittherbstfest",
+    "alternateName": "Mondfest",
+    "significance": "Das Mittherbstfest ist nach dem Frühlingsfest der zweitwichtigste chinesische Feiertag. Es fällt auf die Nacht des hellsten Vollmonds und feiert Ernte, Überfluss und Familientreffen. Die Legende von Chang'e (嫦娥) — die ein Elixier der Unsterblichkeit trank und zum Mond schwebte — verleiht dem Fest seine romantische Mythologie. Mondkuchen (月饼) werden zwischen Familien und Freunden ausgetauscht, jeder runde Kuchen symbolisiert Vollständigkeit und Wiedervereinigung. Das Fest erinnert Familien daran, dass sie trotz großer Entfernung denselben Mond teilen — ein Gefühl, das in der berühmten Zeile \"但愿人长久，千里共婵娟\" (Möge uns Langlebigkeit geschenkt sein, die Mondstrahlen über tausend Meilen zu teilen) festgehalten ist.",
+    "traditions": [
+      "Mondkuchen (月饼) mit verschiedenen Füllungen essen",
+      "Mit der Familie den Mond betrachten",
+      "Laternen anzünden und tragen",
+      "Osmanthuswein (桂花酒) trinken",
+      "Die Legende von Chang'e und dem Jadehasen erzählen",
+      "Familienzusammenkunftsessen"
+    ],
+    "funFact": "In der Yuan-Dynastie verwendeten Revolutionäre Mondkuchen, um versteckte Nachrichten zu schmuggeln, die eine Erhebung gegen die mongolische Herrschaft koordinierten — und machten Mondkuchen zu einem Symbol sowohl der Wiedervereinigung als auch des Widerstands."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Doppelneun-Festival",
+    "alternateName": "Chongyang-Fest",
+    "significance": "Doppelneun hat seinen Namen vom Verdoppeln der Zahl Neun (九, jiǔ) — die höchste einzelne Yang-Zahl in der chinesischen Numerologie, was den 9/9 zu \"doppeltem Yang\" macht. Da neun auch wie das Wort für \"lang anhaltend\" (久, jiǔ) klingt, wird das Fest mit Langlebigkeit assoziiert und ist seit 1989 Chinas offizielles Tag der Senioren geworden. Die Tradition, an diesem Tag Höhen zu erklimmen (登高), begann als eine Flucht vor der Pest — der Legende nach wurde ein Mann namens Huan Jing von einem Weisen gewarnt, seine Familie auf eine Anhöhe zu bringen, und als sie zurückkehrten, war all ihr Vieh gestorben. Heute ist es ein Tag, um Älteste zu ehren, Chrysanthemen-Tee zu genießen und die herbstliche Landschaft von Berggipfeln zu bewundern.",
+    "traditions": [
+      "Berge oder Hügel erklimmen (登高)",
+      "Chrysanthemenwein oder -tee (菊花酒) trinken",
+      "Zhuyu (茱萸) Pflanzenzweige als Schutz tragen",
+      "Chongyang-Kuchen (重阳糕) essen",
+      "Ältere Familienmitglieder besuchen und ehren"
+    ],
+    "funFact": "Das berühmte Tang-Dynastie-Gedicht von Wang Wei, \"独在异乡为异客，每逢佳节倍思亲\" (Allein als Fremder in einem fremden Land, vermisse ich an jedem Fest meine Familie mehr), wurde am Doppelneun verfasst — und wird bis heute von jedem chinesischen Schüler auswendig gelernt."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Wintersonnenwende-Festival",
+    "alternateName": "",
+    "significance": "Die Wintersonnenwende wird in China seit über 2.500 Jahren gefeiert — und liegt zeitlich sogar vor dem Frühlingsfest. Im alten China wurde sie als \"Beginn des neuen Jahres\" angesehen, da sie den Zeitpunkt markiert, an dem das Tageslicht zunimmt und die Yang-Energie zurückkehrt. Das Sprichwort \"冬至大如年\" (Die Wintersonnenwende ist so wichtig wie das Neujahr) spiegelt ihr historisches Gewicht wider. Nordchinesen essen Knödel (饺子) — der Legende nach verhindert dies, dass die Ohren Frostbeulen bekommen, da die Knödel Ohren ähneln. Südchinesen essen Tangyuan (汤圆), dieselben süßen Reisbällchen wie beim Laternenfest, da ein zusätzliches Lebensjahr an der Sonnenwende mit einer Familienfeier verbunden ist.",
+    "traditions": [
+      "Knödel (饺子) in Nordchina essen",
+      "Tangyuan (汤圆) in Südchina essen",
+      "Familienzusammenkünfte und Wiedervereinigungsgespräche",
+      "Die \"neun Neunen\" zählen (数九) — 81 Tage bis zum Frühling zählen",
+      "Opfergaben an Ahnen darbringen"
+    ],
+    "funFact": "Der \"Neun-Neunen\"-Kalender (九九消寒图) ist eine traditionelle Methode, um den Winter zu zählen: Menschen malen jeden Tag ein Blütenblatt auf eine Pflaumenblüte für 81 Tage (9 Gruppen von 9), und wenn die Blume vollständig ist, ist der Frühling angekommen."
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Festival da Primavera",
+    "alternateName": "Ano Novo Chinês",
+    "significance": "O Festival da Primavera é o feriado mais importante na cultura chinesa, marcando o início do novo ano lunar. Famílias viajam pelo país para jantares de reunião (年夜饭), trocam envelopes vermelhos (红包) e celebram com fogos de artifício e danças do leão. O festival carrega mais de 4.000 anos de tradição, enraizado na lenda do monstro Nian (年) que foi assustado por barulhos altos e pela cor vermelha. Cada ano é associado a um dos 12 animais do zodíaco — 2026 é o Ano do Cavalo (马年).",
+    "traditions": [
+      "Jantar de reunião (年夜饭) na véspera do Ano Novo",
+      "Envelopes vermelhos (红包) com dinheiro para crianças e idosos",
+      "Danças do leão e do dragão",
+      "Fogos de artifício e rojões à meia-noite",
+      "Parede com versos de Primavera (春联) colados nas portas",
+      "Ficar acordado até meia-noite (守岁)"
+    ],
+    "funFact": "O Festival da Primavera desencadeia a maior migração humana anual na Terra — \"Chunyun\" (春运) — com bilhões de deslocamentos feitos enquanto as pessoas viajam para casa para a reunião."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Festival das Lanternas",
+    "alternateName": "",
+    "significance": "O Festival das Lanternas marca o fim das celebrações do Festival da Primavera com a primeira lua cheia do novo ano. Ruas e templos ficam enfeitados com lanternas coloridas de todas as formas — desde globos vermelhos tradicionais até esculturas elaboradas de dragões. O festival remonta a mais de 2.000 anos, à Dinastia Han, quando o Imperador Ming ordenou que lanternas fossem acesas para homenagear Buda. Hoje, mistura ritual antigo com celebração comunitária, enquanto as famílias se reúnem para resolver enigmas nas lanternas (猜灯谜), assistir performances e compartilhar bolinhos de arroz glutinosos doces (汤圆) que simbolizam união e proximidade.",
+    "traditions": [
+      "Exibir e admirar lanternas coloridas",
+      "Resolver enigmas nas lanternas (猜灯谜)",
+      "Comer tangyuan (汤圆) — bolinhos de arroz doce que simbolizam reunião",
+      "Procissões de danças do dragão e do leão",
+      "Adivinhar enigmas escritos nas lanternas"
+    ],
+    "funFact": "Os Tangyuan (汤圆) são redondos para simbolizar união familiar e completude — a palavra chinesa para \"redondo\" (圆) soa como \"reunião\" (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Festival Qingming",
+    "alternateName": "Dia de Limpeza dos Túmulos",
+    "significance": "Qingming significa literalmente \"claro e brilhante\" — acontece quando a primavera chega em pleno, fazendo dele tanto um dia para honrar os mortos quanto para celebrar o mundo dos vivos. As famílias visitam os túmulos ancestrais para limpar lápides, oferecer comida e incenso e queimar oferendas de papel. Mas Qingming não é apenas sombrio. O poeta da Dinastia Tang, Du Mu, escreveu o famoso poema \"清明时节雨纷纷\" (Chove sem parar durante Qingming), capturando como o luto e a beleza da primavera se entrelaçam. Depois de prestar homenagens, as famílias tradicionalmente desfrutam de passeios de primavera (踏青), soltam pipas e plantam salgueiros — abraçando a renovação junto com a lembrança.",
+    "traditions": [
+      "Limpar e limpar túmulos ancestrais",
+      "Oferecer comida, chá e incenso nos túmulos",
+      "Queimar papel joss e oferendas de papel",
+      "Passeios de primavera (踏青) — caminhadas na natureza",
+      "Soltar pipas, às vezes soltando-as para se livrar de infortúnios",
+      "Comer qingtuan (青团) — bolinhos de arroz verde com recheio doce"
+    ],
+    "funFact": "A tradição de comer comidas frias (寒食节) antes do Qingming homenageia Jie Zitui, um ministro leal que se recusou a buscar recompensa e foi acidentalmente morto quando um duque incendiou uma floresta para atraí-lo para fora."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Festival do Barco-Dragão",
+    "alternateName": "",
+    "significance": "O Festival do Barco-Dragão comemora Qu Yuan (屈原), um poeta patriota do período dos Reinos Combatentes que se afogou no Rio Miluo em 278 a.C. após seu amado estado de Chu cair para invasores. Aldeões remaram com barcos para salvá-lo e jogaram arroz na água para evitar que os peixes comessem seu corpo — originando assim as corridas de barco-dragão e o zongzi (bolinhos de arroz embrulhados em folhas de bambu). O festival celebra lealdade, integridade, e a luta pelo que é certo, mesmo a custo pessoal. As corridas de barco-dragão acabaram se tornando um esporte internacional, com equipes competindo em todo o mundo.",
+    "traditions": [
+      "Corridas de barco-dragão (赛龙舟)",
+      "Comer zongzi (粽子) — bolinhos de arroz embrulhados em folhas de bambu",
+      "Pendurar artemísia (艾草) e cálamo para afastar o mal",
+      "Beber vinho de realgar (雄黄酒)",
+      "Usar fios de seda de cinco cores para proteção",
+      "Equilibrar ovos ao meio-dia (uma tradição do Duanwu)"
+    ],
+    "funFact": "Qu Yuan é considerado um dos maiores poetas da China. Sua obra-prima \"Li Sao\" (离骚, \"Enfrentando a Tristeza\") é um dos poemas mais longos da literatura chinesa antiga, expressando sua angústia com a corrupção política."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Festival Qixi",
+    "alternateName": "Dia dos Namorados Chinês",
+    "significance": "Qixi celebra a história de amor do pastor Niulang (牛郎) e da tecelã Zhinu (织女), amantes separados pela Via Láctea que só podem se encontrar uma vez por ano, quando pegas formam uma ponte no céu. A história remonta a mais de 2.600 anos e representa o amor fiel e duradouro contra todas as adversidades. Diferente do Dia dos Namorados Ocidental (também celebrado na China em 14 de fevereiro), o Qixi possui um significado cultural mais profundo — está ligado à astronomia (as estrelas Altair e Vega), às artes têxteis e à tensão entre dever e desejo na tradição chinesa.",
+    "traditions": [
+      "Observar as estrelas Altair (Niulang) e Vega (Zhinu)",
+      "Rezar por destreza em trabalhos manuais (乞巧)",
+      "Presentear com flores, chocolates e joias (moderno)",
+      "Escrever cartas de amor e poemas",
+      "Jovens exibindo habilidades em artesanato"
+    ],
+    "funFact": "Na véspera do Qixi, dizem que se você ficar sob uma videira, pode ouvir a conversa sussurrada entre Niulang e Zhinu enquanto se reencontram."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Festival do Meio Outono",
+    "alternateName": "Festival da Lua",
+    "significance": "O Festival do Meio Outono é o segundo feriado chinês mais importante após o Festival da Primavera. Ele ocorre na noite da lua cheia mais brilhante, celebrando a colheita, a abundância e a reunião familiar. A lenda de Chang'e (嫦娥) — que bebeu um elixir de imortalidade e flutuou para a lua — dá ao festival sua mitologia romântica. Os bolos da lua (月饼) são trocados entre famílias e amigos, cada bolo redondo simbolizando integridade e reunião. O festival lembra às famílias que, por mais distantes que estejam, compartilham a mesma lua — um sentimento capturado na famosa frase \"但愿人长久，千里共婵娟\" (Que todos sejamos abençoados com longevidade, compartilhando o luar através de mil milhas).",
+    "traditions": [
+      "Comer bolos da lua (月饼) com vários recheios",
+      "Observar a lua com a família",
+      "Acender e carregar lanternas",
+      "Beber vinho de osmanthus (桂花酒)",
+      "Contar a lenda de Chang'e e o Coelho de Jade",
+      "Jantares de reunião familiar"
+    ],
+    "funFact": "Na Dinastia Yuan, revolucionários usaram bolos da lua para contrabandear mensagens secretas coordenando uma revolta contra o domínio mongol — tornando os bolos da lua um símbolo tanto de reunião quanto de resistência."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Festival do Nono Duplo",
+    "alternateName": "Festival Chongyang",
+    "significance": "O Nono Duplo recebe esse nome do duplicação do número nove (九, jiǔ) — o maior número yang único na numerologia chinesa, fazendo de 9/9 \"duplo yang\". Como nove também soa como a palavra para \"duradouro\" (久, jiǔ), o festival é associado à longevidade e se tornou o Dia Oficial dos Idosos na China desde 1989. A tradição de subir a alturas (登高) nesse dia começou como uma maneira de escapar da peste — a lenda diz que um homem chamado Huan Jing foi avisado por um sábio para levar sua família ao alto, e quando retornaram, todos os seus animais haviam perecido. Hoje é um dia para honrar os mais velhos, apreciar o chá de crisântemo e apreciar a paisagem de outono a partir de picos de montanhas.",
+    "traditions": [
+      "Escalar montanhas ou colinas (登高)",
+      "Beber vinho ou chá de crisântemo (菊花酒)",
+      "Usar ramos da planta zhuyu (茱萸) para proteção",
+      "Comer bolo chongyang (重阳糕)",
+      "Visitar e honrar membros idosos da família"
+    ],
+    "funFact": "O famoso poema da Dinastia Tang de Wang Wei, \"独在异乡为异客，每逢佳节倍思亲\" (Sozinho como um estranho em terra estranha, a cada festival sinto ainda mais saudades da família), foi escrito no Nono Duplo — e ainda hoje é memorizado por todos os estudantes chineses."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Festival do Solstício de Inverno",
+    "alternateName": "",
+    "significance": "O Solstício de Inverno vem sendo celebrado na China por mais de 2.500 anos — anterior até mesmo ao Festival da Primavera. Na China antiga, era considerado o \"início do novo ano\" porque marca o ponto em que a luz do dia começa a aumentar e a energia yang retorna. O ditado \"冬至大如年\" (Solstício de Inverno é tão importante quanto o Ano Novo) reflete seu peso histórico. Os chineses do norte comem bolinhos (饺子) — diz a lenda que isso previne que as orelhas congelem, já que os bolinhos se assemelham a orelhas. Os chineses do sul comem tangyuan (汤圆), as mesmas bolinhas de arroz doce do Festival das Lanternas, porque adicionar um ano de idade no solstício requer uma celebração familiar.",
+    "traditions": [
+      "Comer bolinhos (饺子) na China do Norte",
+      "Comer tangyuan (汤圆) na China do Sul",
+      "Reuniões familiares e refeições de reunião",
+      "Contar os \"nove noves\" (数九) — trinta anos até a primavera",
+      "Oferecer sacrifícios aos ancestrais"
+    ],
+    "funFact": "O gráfico dos \"Nove Noves\" (九九消寒图) é uma maneira tradicional de contar os dias de inverno: as pessoas pintam uma pétala de uma flor de ameixa a cada dia por 81 dias (9 grupos de 9), e quando a flor está completa, a primavera chegou."
+  }
+]

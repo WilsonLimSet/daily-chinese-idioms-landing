@@ -101,7 +101,7 @@ export default async function DictionaryPage({
   const structuredData = {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Chinese Idioms Dictionary",
+    "name": getTranslation(lang, 'dictionaryTitle'),
     "description": "Complete dictionary of Chinese idioms (chengyu) with meanings, pinyin, and examples",
     "url": `https://www.chineseidioms.com/${lang}/dictionary`,
     "inLanguage": lang,
@@ -127,7 +127,7 @@ export default async function DictionaryPage({
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Dictionary",
+          "name": getTranslation(lang, 'dictionaryTitle'),
           "item": `https://www.chineseidioms.com/${lang}/dictionary`
         }
       ]

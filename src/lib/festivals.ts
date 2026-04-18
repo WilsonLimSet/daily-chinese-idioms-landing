@@ -1,3 +1,6 @@
+import fs from 'fs';
+import path from 'path';
+
 export type Festival = {
   slug: string;
   chineseName: string;
@@ -215,4 +218,52 @@ export function getAllFestivals(): Festival[] {
 
 export function getFestival(slug: string): Festival | undefined {
   return FESTIVALS.find(f => f.slug === slug);
+}
+
+/**
+ * Load festivals with translated body copy for a given language. Falls back
+ * to English (the FESTIVALS source array) for any field the translation
+ * file doesn't cover. Non-translatable fields (slug, pinyin, chineseName,
+ * month, date2026, lunarDate, relatedListicleSlugs) are always taken from
+ * the EN source to avoid drift.
+ */
+export function getAllFestivalsTranslated(lang?: string): Festival[] {
+  if (!lang || lang === 'en') return FESTIVALS;
+  try {
+    const p = path.join(
+      process.cwd(),
+      'public',
+      'translations',
+      lang,
+      'festivals.json'
+    );
+    if (fs.existsSync(p)) {
+      const translated = JSON.parse(fs.readFileSync(p, 'utf8')) as Array<{
+        slug: string;
+        englishName?: string;
+        alternateName?: string;
+        significance?: string;
+        traditions?: string[];
+        funFact?: string;
+      }>;
+      const bySlug = new Map(translated.map(t => [t.slug, t]));
+      return FESTIVALS.map(f => {
+        const t = bySlug.get(f.slug);
+        if (!t) return f;
+        return {
+          ...f,
+          englishName: t.englishName || f.englishName,
+          alternateName: t.alternateName !== undefined ? t.alternateName : f.alternateName,
+          significance: t.significance || f.significance,
+          traditions: Array.isArray(t.traditions) && t.traditions.length === f.traditions.length
+            ? t.traditions
+            : f.traditions,
+          funFact: t.funFact || f.funFact,
+        };
+      });
+    }
+  } catch {
+    // fall through
+  }
+  return FESTIVALS;
 }

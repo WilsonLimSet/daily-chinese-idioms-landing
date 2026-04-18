@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Fête du Printemps",
+    "alternateName": "Nouvel An Chinois",
+    "significance": "La Fête du Printemps est la fête la plus importante dans la culture chinoise, marquant le début de la nouvelle année lunaire. Les familles traversent le pays pour des dîners de retrouvailles (年夜饭), échangent des enveloppes rouges (红包), et célèbrent avec des feux d'artifice et des danses de lions. Le festival s'appuie sur plus de 4 000 ans de tradition, enracinée dans la légende du monstre Nian (年) qui était effrayé par les bruits forts et la couleur rouge. Chaque année est associée à l'un des 12 animaux du zodiaque — 2026 est l'Année du Cheval (马年).",
+    "traditions": [
+      "Dîner de retrouvailles (年夜饭) la veille du Nouvel An",
+      "Enveloppes rouges (红包) avec de l'argent pour les enfants et les aînés",
+      "Danses du lion et du dragon",
+      "Feux d'artifice et pétards à minuit",
+      "Couplets du printemps (春联) collés sur les portes",
+      "Veiller jusqu'à minuit (守岁)"
+    ],
+    "funFact": "La Fête du Printemps déclenche la plus grande migration humaine annuelle sur Terre — \"Chunyun\" (春运) — avec des milliards de voyages alors que les gens rentrent chez eux pour les retrouvailles."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Fête des Lanternes",
+    "alternateName": "",
+    "significance": "La Fête des Lanternes marque la fin des célébrations de la Fête du Printemps avec la première pleine lune de la nouvelle année. Les rues et les temples se remplissent de lanternes colorées de toutes formes — des globes rouges traditionnels aux sculptures élaborées de dragons. Le festival remonte à plus de 2 000 ans, à la dynastie Han, lorsque l'empereur Ming a ordonné d'allumer des lanternes pour honorer Bouddha. Aujourd'hui, il allie rituel ancien et célébration communautaire, les familles se rassemblant pour résoudre des énigmes de lanternes (猜灯谜), assister à des spectacles et partager des boules de riz glutineuses sucrées (汤圆) qui symbolisent l'unité et la cohésion.",
+    "traditions": [
+      "Exposer et admirer des lanternes colorées",
+      "Résoudre des énigmes de lanternes (猜灯谜)",
+      "Manger des tangyuan (汤圆) — boules de riz sucrées symbolisant la réunion",
+      "Processions de danses du dragon et du lion",
+      "Deviner les énigmes écrites sur les lanternes"
+    ],
+    "funFact": "Les tangyuan (汤圆) sont ronds pour symboliser la cohésion et la complétude familiale — le mot chinois pour « rond » (圆) sonne comme « réunion » (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Fête de Qingming",
+    "alternateName": "Jour du Balayage des Tombes",
+    "significance": "Qingming signifie littéralement « clair et lumineux » — il tombe quand le printemps est pleinement arrivé, en faisant à la fois un jour pour honorer les morts et pour célébrer le monde vivant. Les familles visitent les tombes ancestrales pour nettoyer les pierres tombales, offrir nourriture et encens, et brûler des offrandes en papier. Mais Qingming n'est pas uniquement sombre. Le poète de la dynastie Tang, Du Mu, a écrit le poème célèbre \"清明时节雨纷纷\" (Il pleut sans cesse pendant Qingming), capturant comment le chagrin et la beauté du printemps s'entrelacent. Après avoir rendu hommage, les familles apprécient traditionnellement des sorties printanières (踏青), font voler des cerfs-volants, et plantent des saules — embrassant le renouveau tout en se souvenant.",
+    "traditions": [
+      "Balayer et nettoyer les tombes ancestrales",
+      "Offrir de la nourriture, du thé et de l'encens sur les tombes",
+      "Brûler du papier d'encens et des offrandes en papier",
+      "Sorties printanières (踏青) — marcher dans la nature",
+      "Faire voler des cerfs-volants, parfois les libérer pour se débarrasser de la malchance",
+      "Manger du qingtuan (青团) — boules de riz vertes avec garniture sucrée"
+    ],
+    "funFact": "La tradition de la nourriture froide (寒食节) avant Qingming honore Jie Zitui, un ministre loyal qui a refusé de demander une récompense et est mort accidentellement lorsque un duc a mis le feu à une forêt pour le faire sortir."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Fête des Bateaux-Dragons",
+    "alternateName": "",
+    "significance": "La Fête des Bateaux-Dragons commémore Qu Yuan (屈原), un poète patriote de la période des Royaumes Combattants qui s’est noyé dans la rivière Miluo en 278 av. J-C après que son bien-aimé État de Chu est tombé sous les envahisseurs. Les villageois ont couru avec des bateaux pour le sauver et ont jeté du riz dans l'eau pour empêcher les poissons de manger son corps — donnant naissance aux courses de bateaux-dragons et aux zongzi (boulettes de riz enveloppées dans des feuilles de bambou). Le festival est une célébration de la loyauté, de l'intégrité, et de la défense de ce qui est juste, même au prix personnel. Les courses de bateaux-dragons sont depuis devenues un sport international, avec des équipes qui concourent dans le monde entier.",
+    "traditions": [
+      "Courses de bateaux-dragons (赛龙舟)",
+      "Manger des zongzi (粽子) — boulettes de riz gluant dans des feuilles de bambou",
+      "Accrocher de l'armoise (艾草) et du calame pour chasser les mauvais esprits",
+      "Boire du vin de réalgar (雄黄酒)",
+      "Porter des fils de soie de cinq couleurs pour la protection",
+      "Équilibrer des œufs à midi (une tradition du Duanwu)"
+    ],
+    "funFact": "Qu Yuan est considéré comme l'un des plus grands poètes chinois. Son œuvre maîtresse \"Li Sao\" (离骚, « Rencontrer la tristesse ») est l'un des plus longs poèmes de la littérature chinoise ancienne, exprimant son angoisse face à la corruption politique."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Fête de Qixi",
+    "alternateName": "Saint-Valentin Chinoise",
+    "significance": "Qixi célèbre l'histoire d'amour du vacher Niulang (牛郎) et de la tisserande Zhinu (织女), des amants séparés par la Voie lactée qui ne peuvent se rencontrer qu'une fois par an quand les pies forment un pont dans le ciel. L'histoire remonte à plus de 2 600 ans et représente un amour fidèle et durable contre des obstacles impossibles. Contrairement à la Saint-Valentin occidentale (également célébrée en Chine le 14 février), Qixi porte un poids culturel plus profond — il est lié à l'astronomie (les étoiles Altaïr et Véga), aux arts textiles, et à la tension entre le devoir et le désir dans la tradition chinoise.",
+    "traditions": [
+      "Contempler les étoiles Altaïr (Niulang) et Véga (Zhinu)",
+      "Prier pour des mains habiles dans la couture (乞巧)",
+      "Offrir des fleurs, des chocolats et des bijoux (moderne)",
+      "Écrire des lettres d'amour et des poèmes",
+      "Jeunes femmes montrant leurs compétences en artisanat"
+    ],
+    "funFact": "La veille de Qixi, on dit que si vous vous tenez sous une vigne, vous pouvez entendre la conversation chuchotée entre Niulang et Zhinu alors qu'ils se retrouvent."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Fête de la Mi-Automne",
+    "alternateName": "Fête de la Lune",
+    "significance": "La Fête de la Mi-Automne est la deuxième fête chinoise la plus importante après la Fête du Printemps. Elle se tient la nuit où la pleine lune est la plus brillante, célébrant la récolte, l'abondance, et la réunion familiale. La légende de Chang'e (嫦娥) — qui a bu un élixir d'immortalité et s'est envolée vers la lune — donne au festival sa mythologie romantique. Les gâteaux de lune (月饼) sont échangés entre familles et amis, chaque gâteau rond symbolisant la complétude et la réunion. Le festival rappelle aux familles que, peu importe la distance qui les sépare, elles partagent la même lune — un sentiment capturé dans le vers célèbre « 但愿人长久，千里共婵娟 » (Puissions-nous tous être bénis avec longévité, partageant la lumière de la lune à travers mille lieues).",
+    "traditions": [
+      "Manger des gâteaux de lune (月饼) avec des garnitures variées",
+      "Observer la lune en famille",
+      "Allumer et porter des lanternes",
+      "Boire du vin d'osmanthe (桂花酒)",
+      "Raconter la légende de Chang'e et du Lapin de Jade",
+      "Dîners de retrouvailles en famille"
+    ],
+    "funFact": "Sous la dynastie Yuan, des révolutionnaires utilisaient les gâteaux de lune pour faire passer des messages secrets coordonnant un soulèvement contre le règne mongol — faisant des gâteaux de lune un symbole à la fois de réunion et de résistance."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Fête du Double Neuf",
+    "alternateName": "Fête de Chongyang",
+    "significance": "Le Double Neuf tire son nom du doublement du chiffre neuf (九, jiǔ) — le plus grand nombre yang unique en numérologie chinoise, faisant de 9/9 un « double yang ». Puisque neuf sonne aussi comme le mot pour « durable » (久, jiǔ), le festival est associé à la longévité et est devenu le Jour officiel des Citoyens Âgés en Chine depuis 1989. La tradition de grimper aux hauteurs (登高) ce jour-là a commencé comme un moyen d'échapper à la peste — la légende dit qu'un homme nommé Huan Jing a été averti par un sage de prendre sa famille en hauteur, et à leur retour, tout leur bétail avait péri. Aujourd'hui, c'est une journée pour honorer les aînés, apprécier le thé de chrysanthème, et admirer le paysage d'automne depuis les sommets des montagnes.",
+    "traditions": [
+      "Escalader montagnes ou collines (登高)",
+      "Boire du vin ou du thé de chrysanthème (菊花酒)",
+      "Porter des brins de plante zhuyu (茱萸) pour la protection",
+      "Manger du gâteau de chongyang (重阳糕)",
+      "Visiter et honorer les membres âgés de la famille"
+    ],
+    "funFact": "Le célèbre poème de la dynastie Tang de Wang Wei, « 独在异乡为异客，每逢佳节倍思亲 » (Seul comme un étranger dans une terre étrangère, à chaque festival je pense d'autant plus à ma famille), a été écrit pour le Double Neuf — et est encore mémorisé par chaque élève chinois aujourd'hui."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Fête du Solstice d'Hiver",
+    "alternateName": "",
+    "significance": "Le Solstice d'Hiver est célébré en Chine depuis plus de 2 500 ans — précédant même la Fête du Printemps. Dans la Chine ancienne, il était considéré comme le « début de la nouvelle année » car il marque le moment où la lumière du jour commence à augmenter et l'énergie yang revient. L'expression « 冬至大如年 » (Le Solstice d'Hiver est aussi important que le Nouvel An) reflète son poids historique. Les Chinois du nord mangent des raviolis (饺子) — la légende dit que cela empêche les oreilles d’avoir des engelures, car les raviolis ressemblent à des oreilles. Les Chinois du sud mangent des tangyuan (汤圆), les mêmes boules de riz sucrées que pour la Fête des Lanternes, car ajouter une année d'âge au solstice nécessite une célébration familiale.",
+    "traditions": [
+      "Manger des raviolis (饺子) dans le Nord de la Chine",
+      "Manger des tangyuan (汤圆) dans le Sud de la Chine",
+      "Réunions familiales et repas de retrouvailles",
+      "Compter les « neuf neufs » (数九) — suivre 81 jours jusqu'au printemps",
+      "Offrir des sacrifices aux ancêtres"
+    ],
+    "funFact": "Le tableau des « Neuf Neufs » (九九消寒图) est une façon traditionnelle de compter l'hiver: les gens peignent un pétale de fleur de prunier chaque jour pendant 81 jours (9 groupes de 9), et quand la fleur est complète, le printemps est arrivé."
+  }
+]

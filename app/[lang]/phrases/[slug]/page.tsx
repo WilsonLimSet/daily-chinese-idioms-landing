@@ -99,8 +99,8 @@ export default async function TranslatedPhraseDetailPage({ params }: { params: P
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": `https://www.chineseidioms.com/${lang}` },
-        { "@type": "ListItem", "position": 2, "name": "Phrases", "item": `https://www.chineseidioms.com/${lang}/phrases` },
+        { "@type": "ListItem", "position": 1, "name": getTranslation(lang, 'home'), "item": `https://www.chineseidioms.com/${lang}` },
+        { "@type": "ListItem", "position": 2, "name": getTranslation(lang, 'phrasesTitle'), "item": `https://www.chineseidioms.com/${lang}/phrases` },
         { "@type": "ListItem", "position": 3, "name": term.characters, "item": `https://www.chineseidioms.com/${lang}/phrases/${slug}` }
       ]
     }

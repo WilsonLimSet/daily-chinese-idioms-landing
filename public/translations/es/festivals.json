@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Festival de Primavera",
+    "alternateName": "Año Nuevo Chino",
+    "significance": "El Festival de Primavera es la festividad más importante en la cultura china, marcando el comienzo del nuevo año lunar. Las familias viajan por todo el país para las cenas de reunión (年夜饭), intercambian sobres rojos (红包) y celebran con fuegos artificiales y danzas de leones. El festival tiene más de 4,000 años de tradición, arraigada en la leyenda del monstruo Nian (年) que fue ahuyentado por ruidos fuertes y el color rojo. Cada año está asociado con uno de los 12 animales del zodiaco — 2026 es el Año del Caballo (马年).",
+    "traditions": [
+      "Cena de reunión (年夜饭) en Nochevieja",
+      "Sobres rojos (红包) con dinero para niños y ancianos",
+      "Danzas de leones y dragones",
+      "Fuegos artificiales y petardos a medianoche",
+      "Coplas de primavera (春联) pegadas en las puertas",
+      "Permanecer despierto hasta la medianoche (守岁)"
+    ],
+    "funFact": "El Festival de Primavera desencadena la mayor migración humana anual en la Tierra — \"Chunyun\" (春运) — con miles de millones de viajes realizados mientras las personas regresan a casa para reunirse."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Festival de los Faroles",
+    "alternateName": "",
+    "significance": "El Festival de los Faroles marca el final de las celebraciones del Festival de Primavera con la primera luna llena del nuevo año. Las calles y templos se llenan de faroles coloridos de varias formas — desde globos rojos tradicionales hasta elaboradas esculturas de dragones. El festival se remonta a más de 2,000 años a la dinastía Han, cuando el Emperador Ming ordenó encender faroles para honrar a Buda. Hoy en día combina rituales antiguos con celebraciones comunitarias, mientras las familias se reúnen para resolver acertijos de faroles (猜灯谜), ver actuaciones y compartir bollos de arroz glutinoso dulce (汤圆) que simbolizan la unidad y el compañerismo.",
+    "traditions": [
+      "Mostrar y admirar faroles coloridos",
+      "Resolver acertijos de faroles (猜灯谜)",
+      "Comer tangyuan (汤圆) — bolitas de arroz dulce que simbolizan la reunión",
+      "Procesiones de danzas de dragones y leones",
+      "Adivinar acertijos escritos en faroles"
+    ],
+    "funFact": "Los tangyuan (汤圆) son redondos para simbolizar la unión familiar y la plenitud — la palabra china para \"redondo\" (圆) suena igual que \"reunión\" (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Festival de Qingming",
+    "alternateName": "Día del Barrido de Tumbas",
+    "significance": "Qingming significa literalmente \"claro y brillante\" — ocurre cuando la primavera llega en su totalidad, convirtiéndose en un día para honrar a los muertos y celebrar el mundo viviente. Las familias visitan las tumbas ancestrales para limpiar lápidas, ofrecer comida e incienso, y quemar ofrendas de papel. Pero Qingming no es solo solemne. El poeta de la dinastía Tang, Du Mu, escribió el famoso poema \"清明时节雨纷纷\" (Llueve sin cesar durante Qingming), capturando cómo el duelo y la belleza de la primavera se entrelazan. Después de rendir respetos, las familias tradicionalmente disfrutan de excursiones al aire libre (踏青), vuelan cometas y plantan sauces — abrazando la renovación junto con el recuerdo.",
+    "traditions": [
+      "Barrer y limpiar las tumbas ancestrales",
+      "Ofrecer comida, té e incienso en las tumbas",
+      "Quemar papel de incienso y ofrendas de papel",
+      "Excursiones primaverales (踏青) — caminar en la naturaleza",
+      "Volar cometas, a veces soltándolas para dejar ir la desgracia",
+      "Comer qingtuan (青团) — bolitas de arroz verde con relleno dulce"
+    ],
+    "funFact": "La tradición de la comida fría (寒食节) antes de Qingming honra a Jie Zitui, un ministro leal que se negó a buscar recompensa y fue asesinado accidentalmente cuando un duque prendió fuego a un bosque para atraerlo."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Festival del Bote del Dragón",
+    "alternateName": "",
+    "significance": "El Festival del Bote del Dragón conmemora a Qu Yuan (屈原), un poeta patriótico del periodo de los Estados Guerreros que se ahogó en el río Miluo en 278 a.C. después de que su amado estado de Chu cayera ante los invasores. Los aldeanos remaron botes para salvarlo y arrojaron arroz al agua para evitar que los peces se comieran su cuerpo — dando origen a las carreras de botes dragón y a los zongzi (empanadillas de arroz envueltas en hojas de bambú). El festival celebra la lealtad, la integridad y defender lo que es correcto, incluso a costa personal. Las carreras de botes dragón se han convertido desde entonces en un deporte internacional, con equipos compitiendo en todo el mundo.",
+    "traditions": [
+      "Carreras de botes dragón (赛龙舟)",
+      "Comer zongzi (粽子) — empanadillas de arroz en hojas de bambú",
+      "Colgar artemisa (艾草) y cálamo para ahuyentar el mal",
+      "Beber vino de realgar (雄黄酒)",
+      "Usar hilos de seda de cinco colores para protección",
+      "Equilibrar huevos al mediodía (una tradición de Duanwu)"
+    ],
+    "funFact": "Qu Yuan es considerado uno de los más grandes poetas de China. Su obra maestra \"Li Sao\" (离骚, \"Encuentro con la tristeza\") es uno de los poemas más largos de la literatura china antigua, expresando su angustia por la corrupción política."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Festival Qixi",
+    "alternateName": "San Valentín Chino",
+    "significance": "Qixi celebra la historia de amor del pastor Niulang (牛郎) y la tejedora Zhinu (织女), amantes separados por la Vía Láctea que solo pueden encontrarse una vez al año cuando las urracas forman un puente en el cielo. La historia data de hace más de 2,600 años y representa el amor fiel y duradero contra obstáculos imposibles. A diferencia del Día de San Valentín occidental (también celebrado en China el 14 de febrero), Qixi tiene un peso cultural más profundo — está ligado a la astronomía (las estrellas Altair y Vega), las artes textiles y la tensión entre el deber y el deseo en la tradición china.",
+    "traditions": [
+      "Observar las estrellas Altair (Niulang) y Vega (Zhinu)",
+      "Rezar por manos hábiles en la costura (乞巧)",
+      "Regalar flores, chocolates y joyas (moderno)",
+      "Escribir cartas y poemas de amor",
+      "Jóvenes exhibiendo habilidades artesanales"
+    ],
+    "funFact": "Se dice que en la víspera de Qixi, si te paras bajo una parra, puedes escuchar la conversación susurrada entre Niulang y Zhinu al reunirse."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Festival de Medio Otoño",
+    "alternateName": "Festival de la Luna",
+    "significance": "El Festival de Medio Otoño es la segunda festividad china más importante después del Festival de Primavera. Se celebra en la noche de la luna llena más brillante, celebrando la cosecha, la abundancia y la reunión familiar. La leyenda de Chang'e (嫦娥) — quien bebió un elixir de inmortalidad y flotó hacia la luna — da al festival su mitología romántica. Los pastelitos de luna (月饼) se intercambian entre familias y amigos, cada pastel redondo simbolizando la plenitud y la reunión. El festival recuerda a las familias que, no importa lo lejos que estén, comparten la misma luna — un sentimiento capturado en la famosa línea \"但愿人长久，千里共婵娟\" (Que seamos bendecidos con longevidad, compartiendo la luz de la luna a través de mil millas).",
+    "traditions": [
+      "Comer pastelitos de luna (月饼) con diferentes rellenos",
+      "Contemplar la luna con la familia",
+      "Encender y llevar faroles",
+      "Beber vino de osmanthus (桂花酒)",
+      "Contar la leyenda de Chang'e y el Conejo de Jade",
+      "Cenas de reunión familiar"
+    ],
+    "funFact": "En la dinastía Yuan, los revolucionarios usaron pastelitos de luna para contrabandear mensajes ocultos que coordinaban un levantamiento contra el dominio mongol — haciendo que los pastelitos de luna sean un símbolo tanto de reunión como de resistencia."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Festival del Doble Nueve",
+    "alternateName": "Festival Chongyang",
+    "significance": "El Doble Nueve toma su nombre de la duplicación del número nueve (九, jiǔ) — el número yang más alto en la numerología china, haciendo que el 9/9 sea \"doble yang.\" Dado que nueve también suena como la palabra para \"duradero\" (久, jiǔ), el festival está asociado con la longevidad y se ha convertido en el Día Oficial de los Ciudadanos Mayores en China desde 1989. La tradición de escalar alturas (登高) en este día comenzó como una forma de escapar de la peste — la leyenda dice que un hombre llamado Huan Jing fue advertido por un sabio para llevar a su familia a tierras altas, y cuando regresaron, todo su ganado había perecido. Hoy es un día para honrar a los ancianos, disfrutar del té de crisantemo y apreciar el paisaje otoñal desde las cumbres de las montañas.",
+    "traditions": [
+      "Escalar montañas o colinas (登高)",
+      "Beber vino o té de crisantemo (菊花酒)",
+      "Usar ramitas de zhuyu (茱萸) para protección",
+      "Comer pastel de chongyang (重阳糕)",
+      "Visitar y honrar a los miembros mayores de la familia"
+    ],
+    "funFact": "El famoso poema de la dinastía Tang de Wang Wei, \"独在异乡为异客，每逢佳节倍思亲\" (Solo como un extraño en tierra extraña, cada festival extraño echo más de menos a mi familia), fue escrito en el Doble Nueve — y aún es memorizado por cada estudiante chino hoy en día."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Festival del Solsticio de Invierno",
+    "alternateName": "",
+    "significance": "El Solsticio de Invierno se ha celebrado en China durante más de 2,500 años — incluso antes del Festival de Primavera. En la antigua China, se consideraba el \"comienzo del año nuevo\" porque es el punto en el que la luz del día comienza a aumentar y la energía yang regresa. El dicho \"冬至大如年\" (El Solsticio de Invierno es tan importante como el Año Nuevo) refleja su peso histórico. Los chinos del norte comen dumplings (饺子) — la leyenda dice que esto previene que las orejas se congelen, ya que los dumplings se parecen a las orejas. Los chinos del sur comen tangyuan (汤圆), las mismas bolitas de arroz dulce que en el Festival de los Faroles, porque añadir un año de edad en el solsticio requiere una celebración familiar.",
+    "traditions": [
+      "Comer dumplings (饺子) en el norte de China",
+      "Comer tangyuan (汤圆) en el sur de China",
+      "Reuniones familiares y cenas de reunión",
+      "Contar los \"nueve nueves\" (数九) — contando 81 días hasta la primavera",
+      "Ofrecer sacrificios a los antepasados"
+    ],
+    "funFact": "El gráfico de los \"Nueve Nueves\" (九九消寒图) es una forma tradicional de contar el invierno: las personas pintan un pétalo de una flor de ciruelo cada día por 81 días (9 grupos de 9), y cuando la flor está completa, ha llegado la primavera."
+  }
+]

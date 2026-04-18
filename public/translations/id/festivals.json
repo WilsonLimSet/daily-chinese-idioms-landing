@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Festival Musim Semi",
+    "alternateName": "Tahun Baru Cina",
+    "significance": "Festival Musim Semi adalah hari libur terpenting dalam budaya Cina, menandai awal tahun baru lunar. Keluarga bepergian ke seluruh negeri untuk makan malam reuni (年夜饭), bertukar amplop merah (红包), dan merayakan dengan kembang api dan tarian naga. Festival ini membawa tradisi lebih dari 4.000 tahun, berakar pada legenda monster Nian (年) yang takut dengan suara keras dan warna merah. Setiap tahun diasosiasikan dengan salah satu dari 12 hewan zodiak — tahun 2026 adalah Tahun Kuda (马年).",
+    "traditions": [
+      "Makan malam reuni (年夜饭) pada Malam Tahun Baru",
+      "Amplop merah (红包) berisi uang untuk anak-anak dan orang tua",
+      "Tarian singa dan naga",
+      "Kembang api dan petasan pada tengah malam",
+      "Pasangan musim semi (春联) ditempel di pintu",
+      "Begadang sampai tengah malam (守岁)"
+    ],
+    "funFact": "Festival Musim Semi memicu migrasi manusia tahunan terbesar di Bumi — \"Chunyun\" (春运) — dengan miliaran perjalanan dilakukan saat orang-orang pulang untuk reuni."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Festival Lampion",
+    "alternateName": "",
+    "significance": "Festival Lampion menandai akhir perayaan Festival Musim Semi dengan bulan purnama pertama di tahun baru. Jalanan dan kuil dipenuhi dengan lampion berwarna-warni dari berbagai bentuk — dari bola merah tradisional hingga pahatan naga yang rumit. Festival ini berasal lebih dari 2.000 tahun lalu pada zaman Dinasti Han, ketika Kaisar Ming memerintahkan lampion dinyalakan untuk menghormati Buddha. Hari ini hal ini menggabungkan ritual kuno dengan perayaan komunitas, karena keluarga berkumpul untuk menyelesaikan teka-teki lampion (猜灯谜), menonton pertunjukan, dan berbagi bola nasi ketan manis (汤圆) yang melambangkan persatuan dan kebersamaan.",
+    "traditions": [
+      "Menampilkan dan mengagumi lampion berwarna-warni",
+      "Menyelesaikan teka-teki lampion (猜灯谜)",
+      "Makan tangyuan (汤圆) — bola nasi manis yang melambangkan reuni",
+      "Prosesi tarian naga dan singa",
+      "Menebak teka-teki yang tertulis di lampion"
+    ],
+    "funFact": "Tangyuan (汤圆) berbentuk bulat untuk melambangkan kebersamaan keluarga dan kelengkapan — kata Cina untuk \"bulat\" (圆) memiliki suara yang sama dengan \"reuni\" (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Festival Qingming",
+    "alternateName": "Hari Menyapu Makam",
+    "significance": "Qingming secara harfiah berarti \"jernih dan cerah\" — jatuh saat musim semi tiba sepenuhnya, menjadikannya baik hari untuk menghormati yang sudah mati maupun untuk merayakan dunia yang hidup. Keluarga mengunjungi makam leluhur untuk membersihkan batu nisan, menawarkan makanan dan dupa, serta membakar persembahan kertas. Namun, Qingming tidak sepenuhnya suram. Penyair Dinasti Tang, Du Mu menulis puisi terkenal \"清明时节雨纷纷\" (Hujan terus-menerus selama Qingming), menangkap bagaimana kesedihan dan keindahan musim semi saling terkait. Setelah memberikan penghormatan, keluarga secara tradisional menikmati tamasya musim semi (踏青), menerbangkan layang-layang, dan menanam pohon willow — merangkul pembaruan bersamaan dengan penghormatan.",
+    "traditions": [
+      "Menyapu dan membersihkan makam leluhur",
+      "Menawarkan makanan, teh, dan dupa di makam",
+      "Membakar kertas sembahyang dan persembahan kertas",
+      "Tamasya musim semi (踏青) — berjalan-jalan di alam",
+      "Menerbangkan layang-layang, kadang dilepaskan untuk menghilangkan nasib buruk",
+      "Makan qingtuan (青团) — bola nasi hijau dengan isi manis"
+    ],
+    "funFact": "Tradisi makanan dingin (寒食节) sebelum Qingming menghormati Jie Zitui, seorang menteri setia yang menolak hadiah dan tewas secara tidak sengaja ketika seorang pangeran membakar hutan untuk memaksanya keluar."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Festival Perahu Naga",
+    "alternateName": "",
+    "significance": "Festival Perahu Naga memperingati Qu Yuan (屈原), seorang penyair patriotik dari periode Negara Berperang yang menenggelamkan dirinya di Sungai Miluo pada 278 SM setelah negara tercintanya, Chu, jatuh ke tangan penjajah. Penduduk desa berlayar dengan perahu untuk menyelamatkannya dan melempar nasi ke air agar ikan tidak memakan tubuhnya — menimbulkan balapan perahu naga dan zongzi (lontong beras yang dibungkus daun bambu). Festival ini adalah perayaan kesetiaan, integritas, dan keberanian untuk mempertahankan apa yang benar, bahkan dengan biaya pribadi. Balap perahu naga kemudian menjadi olahraga internasional, dengan tim yang bersaing di seluruh dunia.",
+    "traditions": [
+      "Balap perahu naga (赛龙舟)",
+      "Makan zongzi (粽子) — lontong beras ketan dalam daun bambu",
+      "Menggantung mugwort (艾草) dan calamus untuk mengusir roh jahat",
+      "Minum anggur realgar (雄黄酒)",
+      "Memakai benang sutra lima warna untuk perlindungan",
+      "Menyeimbangkan telur pada tengah hari (tradisi Duanwu)"
+    ],
+    "funFact": "Qu Yuan dianggap sebagai salah satu penyair terbesar di Cina. Karya olahannya \"Li Sao\" (离骚, \"Menemui Kesedihan\") adalah salah satu puisi terpanjang dalam literatur Cina kuno, mengekspresikan penderitaannya atas korupsi politik."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Festival Qixi",
+    "alternateName": "Hari Valentine Cina",
+    "significance": "Qixi merayakan kisah cinta gembala Niulang (牛郎) dan gadis penenun Zhinu (织女), pasangan kekasih yang dipisahkan oleh Bima Sakti yang hanya dapat bertemu sekali setahun ketika burung murai membentuk jembatan di langit. Cerita ini berasal lebih dari 2.600 tahun yang lalu dan mewakili cinta setia yang abadi melawan peluang yang tidak mungkin. Tidak seperti Hari Valentine Barat (yang juga dirayakan di Cina pada 14 Februari), Qixi membawa bobot budaya yang lebih dalam — ini terkait dengan astronomi (bintang Altair dan Vega), seni tekstil, dan ketegangan antara tugas dan keinginan dalam tradisi Cina.",
+    "traditions": [
+      "Menatap bintang Altair (Niulang) dan Vega (Zhinu)",
+      "Berdoa untuk tangan yang terampil dalam menjahit (乞巧)",
+      "Memberi bunga, cokelat, dan perhiasan (modern)",
+      "Menulis surat dan puisi cinta",
+      "Wanita muda menunjukkan keterampilan kerajinan tangan"
+    ],
+    "funFact": "Pada malam Qixi, dikatakan bahwa jika Anda berdiri di bawah pohon anggur, Anda bisa mendengar bisikan percakapan antara Niulang dan Zhinu saat mereka bersatu kembali."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Festival Pertengahan Musim Gugur",
+    "alternateName": "Festival Bulan",
+    "significance": "Festival Pertengahan Musim Gugur adalah hari libur Cina terpenting kedua setelah Festival Musim Semi. Ini jatuh pada malam bulan purnama yang paling terang, merayakan panen, kelimpahan, dan reuni keluarga. Legenda Chang'e (嫦娥) — yang meminum eliksir keabadian dan melayang ke bulan — memberi festival ini mitologi romantis. Mooncake (月饼) ditukar antara keluarga dan teman-teman, masing-masing kue bundar melambangkan kelengkapan dan reuni. Festival ini mengingatkan keluarga bahwa tidak peduli seberapa jauh mereka terpisah, mereka berbagi bulan yang sama — sentimen yang terekam dalam kalimat terkenal \"但愿人长久，千里共婵娟\" (Semoga kita semua diberkati dengan panjang umur, berbagi sinar bulan ribuan mil jauhnya).",
+    "traditions": [
+      "Makan mooncake (月饼) dengan berbagai isian",
+      "Menatap bulan bersama keluarga",
+      "Menyalakan dan membawa lampion",
+      "Minum anggur osmanthus (桂花酒)",
+      "Menceritakan legenda Chang'e dan Kelinci Giok",
+      "Makan malam reuni keluarga"
+    ],
+    "funFact": "Pada Dinasti Yuan, para revolusioner menggunakan mooncake untuk menyelundupkan pesan tersembunyi guna mengoordinasikan pemberontakan melawan kekuasaan Mongol — menjadikan mooncake simbol reuni dan perlawanan."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Festival Kesembilan Ganda",
+    "alternateName": "Festival Chongyang",
+    "significance": "Kesembilan Ganda mengambil namanya dari penggandaan angka sembilan (九, jiǔ) — angka tunggal tertinggi dalam numerologi Cina, menjadikan 9/9 sebagai \"ganda yang tinggi.\" Karena sembilan juga terdengar seperti kata untuk \"panjang umur\" (久, jiǔ), festival ini diasosiasikan dengan umur panjang dan telah menjadi Hari Warga Senior resmi Cina sejak 1989. Tradisi naik ke ketinggian (登高) pada hari ini dimulai sebagai cara untuk menghindari wabah — legenda mengatakan seorang pria bernama Huan Jing diperingatkan oleh seorang bijak untuk membawa keluarganya ke tempat tinggi, dan ketika mereka kembali, semua ternak mereka telah mati. Hari ini adalah hari untuk menghormati orang tua, menikmati teh krisan, dan menghargai pemandangan musim gugur dari puncak gunung.",
+    "traditions": [
+      "Mendaki gunung atau bukit (登高)",
+      "Minum anggur atau teh krisan (菊花酒)",
+      "Memakai ranting tanaman zhuyu (茱萸) untuk perlindungan",
+      "Makan kue chongyang (重阳糕)",
+      "Mengunjungi dan menghormati anggota keluarga yang lebih tua"
+    ],
+    "funFact": "Puisi terkenal Dinasti Tang karya Wang Wei, \"独在异乡为异客，每逢佳节倍思亲\" (Sendiri sebagai orang asing di negeri orang, setiap festival aku lebih merindukan keluargaku), ditulis pada Kesembilan Ganda — dan masih dihafalkan oleh setiap pelajar Cina hingga hari ini."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Festival Solstis Musim Dingin",
+    "alternateName": "",
+    "significance": "Solstis Musim Dingin telah dirayakan di Cina selama lebih dari 2.500 tahun — mendahului bahkan Festival Musim Semi. Pada zaman Cina kuno, itu dianggap sebagai \"awal tahun baru\" karena menandai titik ketika sinar matahari mulai meningkat dan energi yang menyembuhkan Matahari kembali. Pepatah \"冬至大如年\" (Solstis Musim Dingin sepenting Tahun Baru) mencerminkan bobot historisnya. Orang Cina utara makan pangsit (饺子) — legenda mengatakan ini mencegah telinga dari radang dingin, karena pangsit menyerupai telinga. Orang Cina selatan makan tangyuan (汤圆), bola nasi manis yang sama seperti Festival Lampion, karena menambah satu tahun umur pada titik balik matahari membutuhkan perayaan keluarga.",
+    "traditions": [
+      "Makan pangsit (饺子) di Cina Utara",
+      "Makan tangyuan (汤圆) di Cina Selatan",
+      "Kumpul keluarga dan makan malam reuni",
+      "Menghitung \"sembilan sembilan\" (数九) — menghitung 81 hari hingga musim semi",
+      "Mempersembahkan pengorbanan kepada leluhur"
+    ],
+    "funFact": "Bagan \"Sembilan Sembilan\" (九九消寒图) adalah cara tradisional untuk menghitung mundur musim dingin: orang melukis satu kelopak bunga plum setiap hari selama 81 hari (9 kelompok dari 9), dan ketika bunga tersebut selesai, musim semi telah tiba."
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "spring-festival",
+    "englishName": "Tết Nguyên Đán",
+    "alternateName": "Tết Trung Quốc",
+    "significance": "Tết Nguyên Đán là ngày lễ quan trọng nhất trong văn hoá Trung Quốc, đánh dấu khởi đầu của năm mới âm lịch. Các gia đình đi khắp đất nước để dự tiệc đoàn viên (年夜饭), trao phong bao lì xì đỏ (红包), và tổ chức bắn pháo hoa cùng múa lân. Lễ hội này mang hơn 4,000 năm truyền thống, bắt nguồn từ truyền thuyết về quái vật Nian (年) bị đuổi đi bởi tiếng động lớn và màu đỏ. Mỗi năm gắn liền với một trong 12 con giáp — năm 2026 là năm con Ngựa (马年).",
+    "traditions": [
+      "Dự tiệc đoàn viên (年夜饭) vào đêm Giao thừa",
+      "Phong bao lì xì (红包) cho trẻ em và người già",
+      "Múa lân và múa rồng",
+      "Bắn pháo hoa và pháo đốt lúc nửa đêm",
+      "Dán câu đối Tết (春联) trên cửa",
+      "Thức khuya chờ giao thừa (守岁)"
+    ],
+    "funFact": "Tết Nguyên Đán kích hoạt cuộc di cư lớn nhất hàng năm trên Trái đất — \"Chunyun\" (春运) — với hàng tỷ chuyến đi khi mọi người trở về đoàn tụ gia đình."
+  },
+  {
+    "slug": "lantern-festival",
+    "englishName": "Tết Nguyên Tiêu",
+    "alternateName": "",
+    "significance": "Tết Nguyên Tiêu đánh dấu kết thúc các lễ hội Tết Nguyên Đán với trăng rằm đầu tiên của năm mới. Đường phố và chùa chiền được trang trí với những chiếc đèn lồng đủ hình dạng — từ quả cầu đỏ truyền thống đến các tác phẩm điêu khắc rồng công phu. Lễ hội này có từ hơn 2,000 năm trước từ thời nhà Hán, khi Hoàng đế Minh cho thắp sáng đèn lồng để tôn vinh Đức Phật. Ngày nay, lễ hội hòa quyện giữa nghi thức cổ xưa và lễ hội cộng đồng, khi các gia đình tụ họp để giải câu đố đèn lồng (猜灯谜), xem biểu diễn, và chia sẻ những viên bánh trôi ngọt (汤圆) tượng trưng cho sự đoàn tụ và gắn kết.",
+    "traditions": [
+      "Trưng bày và chiêm ngưỡng các đèn lồng màu sắc",
+      "Giải câu đố đèn lồng (猜灯谜)",
+      "Ăn tangyuan (汤圆) — bánh trôi ngọt tượng trưng cho sự đoàn tụ",
+      "Diễu hành múa rồng và múa lân",
+      "Đoán câu đố viết trên đèn lồng"
+    ],
+    "funFact": "Tangyuan (汤圆) có hình tròn để tượng trưng cho sự đoàn tụ và trọn vẹn của gia đình — từ \"tròn\" (圆) trong tiếng Trung nghe giống từ \"đoàn tụ\" (团圆)."
+  },
+  {
+    "slug": "qingming-festival",
+    "englishName": "Tết Thanh Minh",
+    "alternateName": "Ngày Tảo Mộ",
+    "significance": "Thanh Minh có nghĩa là \"trong và sáng\" — diễn ra khi mùa xuân đến hoàn toàn, làm cho nó trở thành ngày để tưởng nhớ người đã khuất và chào đón thế giới sống. Các gia đình thăm mộ tổ tiên để quét dọn bia mộ, dâng đồ ăn, nhang và đốt giấy vàng mã. Nhưng Thanh Minh không chỉ là ngày buồn. Nhà thơ Đường Du Mục đã viết bài thơ nổi tiếng \"清明时节雨纷纷\" (Trong ngày Thanh Minh mưa rào lất phất), ghi lại sự đan xen giữa nỗi buồn và vẻ đẹp mùa xuân. Sau khi viếng mộ, các gia đình thường tham gia dã ngoại xuân (踏青), thả diều và trồng liễu — đón xuân bên cạnh sự tưởng nhớ.",
+    "traditions": [
+      "Quét dọn và lau chùi mộ tổ tiên",
+      "Dâng đồ ăn, trà và nhang tại mộ",
+      "Đốt vàng mã và giấy tiền",
+      "Dã ngoại xuân (踏青) — đi bộ trong thiên nhiên",
+      "Thả diều, đôi khi thả diều để xua đi xui rủi",
+      "Ăn qingtuan (青团) — bánh gạo nếp xanh với nhân ngọt"
+    ],
+    "funFact": "Truyền thống ăn đồ lạnh (寒食节) trước Thanh Minh để tưởng nhớ Giới Tử Thôi, một đại thần trung thành không chịu nhận phần thưởng và đã bị thiêu chết khi một công tước đốt rừng để tìm ông."
+  },
+  {
+    "slug": "dragon-boat-festival",
+    "englishName": "Lễ hội Thuyền Rồng",
+    "alternateName": "",
+    "significance": "Lễ hội Thuyền Rồng tưởng nhớ Khuất Nguyên (屈原), một nhà thơ yêu nước từ thời Chiến Quốc, người đã tự trầm trong sông Mịch La vào năm 278 TCN sau khi nước Sở thân yêu của ông bị xâm chiếm. Dân làng đua thuyền để cứu ông và ném gạo xuống nước để cá không ăn xác ông — từ đó ra đời đua thuyền rồng và zongzi (bánh ú gạo được gói trong lá tre). Lễ hội này là sự tôn vinh lòng trung thành, sự chính trực và đứng lên vì chính nghĩa, dù phải trả giá bằng bản thân. Đua thuyền rồng từ đó đã trở thành môn thể thao quốc tế, với các đội tuyển trên toàn thế giới.",
+    "traditions": [
+      "Đua thuyền rồng (赛龙舟)",
+      "Ăn zongzi (粽子) — bánh ú gạo nếp trong lá tre",
+      "Treo cây ngải cứu (艾草) và calamus để xua đuổi tà ma",
+      "Uống rượu hùng hoàng (雄黄酒)",
+      "Đeo chỉ ngũ sắc để bảo vệ",
+      "Cân bằng trứng vào giữa trưa (truyền thống Duanwu)"
+    ],
+    "funFact": "Khuất Nguyên được coi là một trong những nhà thơ vĩ đại nhất của Trung Quốc. Tác phẩm chính của ông \"Lý Tao\" (离骚, \"Gặp Gỡ Nỗi Buồn\") là một trong những bài thơ dài nhất trong văn học cổ Trung Quốc, bày tỏ nỗi đau của ông về tham nhũng chính trị."
+  },
+  {
+    "slug": "qixi-festival",
+    "englishName": "Lễ Thất Tịch",
+    "alternateName": "Ngày Valentine Trung Quốc",
+    "significance": "Lễ Thất Tịch kỷ niệm câu chuyện tình yêu giữa chàng chăn bò Ngưu Lang (牛郎) và nàng dệt vải Chức Nữ (织女), những người yêu nhau nhưng bị ngăn cách bởi Dải Ngân Hà và chỉ có thể gặp nhau một lần trong năm khi các con quạ hình thành một cây cầu trên bầu trời. Câu chuyện này có từ hơn 2,600 năm trước và tượng trưng cho tình yêu chung thủy và bền bỉ trước những nghịch cảnh không thể vượt qua. Không giống như Ngày Valentine phương Tây (cũng được tổ chức ở Trung Quốc vào ngày 14 tháng 2), Lễ Thất Tịch mang tính văn hoá sâu sắc hơn — nó liên quan đến thiên văn học (các ngôi sao Altair và Vega), nghệ thuật dệt vải và sự xung đột giữa trách nhiệm và khát vọng trong truyền thống Trung Quốc.",
+    "traditions": [
+      "Ngắm sao Altair (Ngưu Lang) và Vega (Chức Nữ)",
+      "Cầu nguyện cho đôi tay khéo léo trong may vá (乞巧)",
+      "Tặng hoa, sô-cô-la và trang sức (hiện đại)",
+      "Viết thư tình và thơ",
+      "Các cô gái trẻ thi tài khéo tay"
+    ],
+    "funFact": "Vào đêm Lễ Thất Tịch, người ta nói rằng nếu bạn đứng dưới gốc nho, bạn có thể nghe thấy cuộc trò chuyện thì thầm giữa Ngưu Lang và Chức Nữ khi họ tái ngộ."
+  },
+  {
+    "slug": "mid-autumn-festival",
+    "englishName": "Tết Trung Thu",
+    "alternateName": "Lễ hội Trăng",
+    "significance": "Tết Trung Thu là ngày lễ quan trọng thứ hai sau Tết Nguyên Đán trong văn hóa Trung Quốc. Nó rơi vào đêm trăng tròn sáng nhất, kỷ niệm mùa gặt, sự sung túc và đoàn viên gia đình. Truyền thuyết về Hằng Nga (嫦娥) — người đã uống tiên dược bất tử và bay lên mặt trăng — tạo nên tính thần thoại lãng mạn cho lễ hội này. Bánh trung thu (月饼) được trao đổi giữa các gia đình và bạn bè, mỗi chiếc bánh tròn tượng trưng cho sự trọn vẹn và đoàn viên. Lễ hội nhắc nhở các gia đình rằng dù họ có cách xa nhau bao xa, họ đều chia sẻ cùng một mặt trăng — một tình cảm được thể hiện trong câu thơ nổi tiếng \"但愿人长久，千里共婵娟\" (Cầu chúc mọi người sống lâu, chia sẻ ánh trăng dù cách xa hàng ngàn dặm).",
+    "traditions": [
+      "Ăn bánh trung thu (月饼) với nhiều loại nhân",
+      "Ngắm trăng cùng gia đình",
+      "Thắp đèn lồng và rước đèn",
+      "Uống rượu hoa quế (桂花酒)",
+      "Kể chuyện về Hằng Nga và Thỏ Ngọc",
+      "Tiệc đoàn viên gia đình"
+    ],
+    "funFact": "Trong thời nhà Nguyên, cách mạng đã sử dụng bánh trung thu để chuyển những thông điệp mật, phối hợp cuộc nổi dậy chống lại sự cai trị của người Mông Cổ — làm cho bánh trung thu trở thành biểu tượng của cả đoàn viên và kháng chiến."
+  },
+  {
+    "slug": "double-ninth-festival",
+    "englishName": "Lễ hội Trùng Cửu",
+    "alternateName": "Lễ hội Chongyang",
+    "significance": "Trùng Cửu lấy tên từ việc lặp lại số chín (九, jiǔ) — số dương đơn lớn nhất trong số học Trung Quốc, làm cho ngày 9/9 trở thành \"hai lần dương\". Vì số chín cũng nghe giống từ \"trường thọ\" (久, jiǔ), lễ hội này liên quan đến sự bền lâu và trở thành Ngày Người Già Trung Quốc chính thức kể từ năm 1989. Truyền thống leo lên độ cao (登高) trong ngày này bắt đầu như một cách để tránh dịch bệnh — truyền thuyết kể rằng một người tên Hoàn Cảnh đã được một vị hiền nhân cảnh báo để đưa gia đình lên cao, và khi họ trở về, toàn bộ gia súc của họ đã bị chết sạch. Ngày nay, đây là một ngày để tôn vinh người già, thưởng thức trà hoa cúc và tận hưởng cảnh đẹp mùa thu từ đỉnh núi.",
+    "traditions": [
+      "Leo núi hoặc đồi (登高)",
+      "Uống rượu hoặc trà hoa cúc (菊花酒)",
+      "Đeo cành zhuyu (茱萸) để bảo vệ",
+      "Ăn bánh chongyang (重阳糕)",
+      "Thăm viếng và tôn vinh người lớn tuổi trong gia đình"
+    ],
+    "funFact": "Bài thơ nổi tiếng thời Đường của Vương Duy, \"独在异乡为异客，每逢佳节倍思亲\" (Một mình như khách lạ ở nơi xa, mỗi mùa lễ hội nhân việc nhớ nhà!), được viết vào ngày Trùng Cửu — và vẫn được tất cả học sinh Trung Quốc ngày nay học thuộc."
+  },
+  {
+    "slug": "winter-solstice",
+    "englishName": "Lễ Đông Chí",
+    "alternateName": "",
+    "significance": "Lễ Đông Chí đã được tổ chức ở Trung Quốc hơn 2,500 năm — còn lâu hơn cả Tết Nguyên Đán. Trong Trung Quốc cổ đại, nó được coi là \"khởi đầu của năm mới\" vì nó đánh dấu điểm khi ban ngày bắt đầu tăng và năng lượng dương quay trở lại. Câu nói \"冬至大如年\" (Lễ Đông Chí quan trọng như Tết) phản ánh tầm quan trọng lịch sử của nó. Người Trung Hoa phía Bắc ăn bánh bao (饺子) — truyền thuyết kể rằng điều này ngăn ngừa tai khỏi bị tê cóng, vì bánh bao trông giống tai. Người Trung Quốc phía Nam ăn tangyuan (汤圆), những viên bánh trôi ngọt giống như Tết Nguyên Tiêu, vì thêm một tuổi vào dịp đông chí cần có sự kiện đoàn tụ gia đình.",
+    "traditions": [
+      "Ăn bánh bao (饺子) ở Trung Quốc miền Bắc",
+      "Ăn tangyuan (汤圆) ở Trung Quốc miền Nam",
+      "Tụ tập và ăn uống gia đình",
+      "Đếm \"chín chín\" (数九) — đếm 81 ngày cho đến xuân",
+      "Lễ vật tế tổ tiên"
+    ],
+    "funFact": "\"Bảng chín chín\" (九九消寒图) là một cách truyền thống để đếm ngược mùa đông: mỗi ngày người ta vẽ một cánh hoa mai và khi hoa hoàn thiện, mùa xuân đã tới."
+  }
+]

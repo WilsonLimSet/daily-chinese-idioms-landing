@@ -157,13 +157,13 @@ export default async function TranslatedListiclePage({
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "Blog",
+          "name": getTranslation(lang, 'footerBlog'),
           "item": `https://www.chineseidioms.com/${lang}/blog`
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "Lists",
+          "name": getTranslation(lang, 'chineseIdiomLists'),
           "item": `https://www.chineseidioms.com/${lang}/blog/lists`
         },
         {
