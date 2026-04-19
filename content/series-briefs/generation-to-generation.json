@@ -1,0 +1,401 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Generation to Generation (江湖夜雨十年灯)",
+  "date": "2026-04-19",
+  "research": {
+    "basicFacts": {
+      "type": "Drama",
+      "releaseDate": "February 22, 2026",
+      "keyPeople": [
+        "Director: Lü Haojiji (侣皓吉吉), co-director Guo Feng (郭锋)",
+        "Screenwriter: Shao Sihan (邵思涵)",
+        "Source novel: *江湖夜雨十年灯* by Guan Xin Ze Luan (关心则乱)"
+      ],
+      "impact": "The drama has polarized ratings with a Douban score of 5.7/10 but high ratings on Tencent Video (9.2/10) and iQiyi (7.1/10). It trended on Weibo and TikTok with significant fan engagement."
+    },
+    "plotSummary": "The drama follows Cai Zhao, who is sent to train at Qingque Sect and rescues Mu Qingyan, an undercover Demon Sect young lord. The story unfolds a 15–17-year-old tragedy involving Cai Pingshu, Mu Zhengming, and Qi Yunke. The drama culminates in a confrontation at Qingque Sect's ancestral ceremony, where past grievances are addressed, and Mu Qingyan proposes to Cai Zhao.",
+    "historicalBasis": [
+      {
+        "topic": "The Title Poem — 《寄黄几复》by Huang Tingjian (1085 CE)",
+        "details": "The drama's title is derived from a famous couplet in a Song-dynasty poem by Huang Tingjian, which reflects themes of friendship, memory, and time.",
+        "dynasties": [
+          "Song"
+        ],
+        "figures": [
+          "Huang Tingjian"
+        ]
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Generational debt / 父辈恩怨",
+        "explanation": "The drama explores the literal meaning of the English title, focusing on inherited grievances and responsibilities."
+      },
+      {
+        "theme": "The lie of 'orthodox vs. heretic' (正邪对立的虚伪)",
+        "explanation": "The drama critiques the perceived moral superiority of the orthodox sects, revealing their corruption compared to the demon sect."
+      },
+      {
+        "theme": "无人不冤，有情皆孽",
+        "explanation": "This phrase means 'no one is innocent; every love becomes sin,' capturing the drama's exploration of complex moral and emotional entanglements."
+      },
+      {
+        "theme": "Friendship, memory, and time",
+        "explanation": "These themes are borrowed directly from the source poem by Huang Tingjian, emphasizing the enduring impact of past relationships."
+      },
+      {
+        "theme": "Cycle vs. choice",
+        "explanation": "The drama questions whether the next generation can break free from the cycles of vengeance and tragedy that plagued their predecessors."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "恩怨分明",
+        "pinyin": "ēn yuàn fēn míng",
+        "meaning": "clear about debts of gratitude and grievance",
+        "relevance": "This is Mu Qingyan's core principle."
+      },
+      {
+        "characters": "快意恩仇",
+        "pinyin": "kuài yì ēn chóu",
+        "meaning": "settling scores with satisfaction",
+        "relevance": "A theme from 史记·刺客列传 relevant to the drama's exploration of vengeance."
+      },
+      {
+        "characters": "侠肝义胆",
+        "pinyin": "xiá gān yì dǎn",
+        "meaning": "chivalrous heart and dutiful courage",
+        "relevance": "Embodied by Cai Pingshu."
+      },
+      {
+        "characters": "爱恨交织",
+        "pinyin": "ài hèn jiāo zhī",
+        "meaning": "love and hatred interwoven",
+        "relevance": "Describes the complex relationships in the Pingshu–Zhengming–Yunke triangle."
+      },
+      {
+        "characters": "血债血偿",
+        "pinyin": "xuè zhài xuè cháng",
+        "meaning": "blood debts paid in blood",
+        "relevance": "Refers to the Chang Family Fort massacre."
+      },
+      {
+        "characters": "以德报怨",
+        "pinyin": "yǐ dé bào yuàn",
+        "meaning": "repay resentment with virtue",
+        "relevance": "A principle rejected in the drama."
+      },
+      {
+        "characters": "同归于尽",
+        "pinyin": "tóng guī yú jìn",
+        "meaning": "mutual destruction",
+        "relevance": "Describes Cai Pingshu's death."
+      },
+      {
+        "characters": "处心积虑",
+        "pinyin": "chǔ xīn jī lǜ",
+        "meaning": "premeditated scheming",
+        "relevance": "Relevant to Qi Yunke's villain arc."
+      },
+      {
+        "characters": "身不由己",
+        "pinyin": "shēn bù yóu jǐ",
+        "meaning": "no control over one's fate",
+        "relevance": "Reflects the inherited-curse theme."
+      },
+      {
+        "characters": "沉冤昭雪",
+        "pinyin": "chén yuān zhāo xuě",
+        "meaning": "long-buried injustice vindicated",
+        "relevance": "Central plot engine."
+      },
+      {
+        "characters": "骨肉相残",
+        "pinyin": "gǔ ròu xiāng cán",
+        "meaning": "kin slaughtering kin",
+        "relevance": "Describes the conflict between twin brothers Mu Zhengming and Zhengyang."
+      },
+      {
+        "characters": "隐姓埋名",
+        "pinyin": "yǐn xìng mái míng",
+        "meaning": "hiding name and identity",
+        "relevance": "Describes Mu Qingyan's undercover role as 'Chang Ning.'"
+      },
+      {
+        "characters": "刻骨铭心",
+        "pinyin": "kè gǔ míng xīn",
+        "meaning": "engraved on bones and heart",
+        "relevance": "Reflects the survivors' trauma."
+      },
+      {
+        "characters": "忍辱负重",
+        "pinyin": "rěn rǔ fù zhòng",
+        "meaning": "endure humiliation to bear responsibility",
+        "relevance": "Describes Cai Zhao's aunt's legacy."
+      },
+      {
+        "characters": "物是人非",
+        "pinyin": "wù shì rén fēi",
+        "meaning": "places remain but people are gone",
+        "relevance": "Echoes the mood of the title poem."
+      }
+    ],
+    "whyTrending": "The drama trended due to its engaging plot, complex characters, and the viral 'Chair Kiss' scene. It also sparked discussions among wuxia purists and fans on platforms like Weibo and TikTok.",
+    "verifyFlags": []
+  },
+  "externalResearchMd": "# Generation to Generation (江湖夜雨十年灯) — Research Brief for chineseidioms.com\n\n**Source:** Web research (Douban, Baidu Baike, MyDramaList, Weibo, Tencent, Wikipedia, Jinjiang) conducted 2026-04-19.\n\n## Drama Identity — CONFIRMED\n\nThe user's guessed Chinese titles (生生不息 / 代代相传 / 世世代代) are INCORRECT. Actual title:\n\n**《江湖夜雨十年灯》 (Jiāng Hú Yè Yǔ Shí Nián Dēng)**\n- Literal: \"Jianghu, Night Rain, Ten Years of Lamplight\"\n- Official English: *Generation to Generation*\n\n**CRITICAL SEO ANGLE:** The English title \"Generation to Generation\" is a thematic translation, not literal. The actual Chinese title is a direct lift from one of the most famous couplets in Song-dynasty poetry by **Huang Tingjian (黄庭坚), «寄黄几复» (1085 CE)**. Zero English coverage currently links the drama to this poem — huge moat opportunity.\n\n## Production Facts\n\n| Field | Detail |\n|---|---|\n| Year | 2026 (premiered Feb 22, 2026) |\n| Finale | March 11, 2026 |\n| Episodes | 37 (45 min each) |\n| Platform | Tencent Video, iQiyi (domestic); WeTV (international) |\n| Genre | Wuxia / ancient costume / romance / martial arts |\n| Director | Lü Haojiji (侣皓吉吉), co-director Guo Feng (郭锋) |\n| Screenwriter | Shao Sihan (邵思涵) |\n| Source novel | *江湖夜雨十年灯* by **Guan Xin Ze Luan (关心则乱)** — same author as *The Story of Minglan* and *Love Like the Galaxy* |\n| Novel serialization | Jinjiang Literature City, Feb 2021 – Nov 2023, ~914,000 characters |\n| Production | Tencent Penguin Pictures + Xinguang Pictures (新光影业) |\n| Filming | Hengdian World Studios + Sichuan, wrapped Jan 14, 2025 |\n| OST | Theme performed by **Li Yuchun (李宇春)** |\n\n**Ratings at finale:**\n- Douban: **5.7/10** (polarized — visuals praised, wuxia purists unhappy)\n- Tencent Video: 9.2/10\n- iQiyi: 7.1/10\n- MyDramaList: **7.9/10** (~4,700 votes)\n- IMDb: 7.9/10\n\n## Cast\n\n### Current generation (主线)\n| Actor | Role | Description |\n|---|---|---|\n| **Zhou Yiran (周翊然)** | **Mu Qingyan / Chang Ning (慕清晏 / 常宁)** | \"Double-faced young lord\" of the Demon Sect (离教). Crippled and imprisoned for 5 years as a child by traitor Nie Zhe; rescued by his father. Goes undercover in orthodox Qingque Sect (青阙宗) as \"Chang Ning\". 白切黑 (bái qiē hēi — \"white-cut-black\") trope. |\n| **Bao Shangen (包上恩)** | **Cai Zhao (蔡昭)** | Successor of Luoying Valley (落英谷). Free-spirited, Buddhist-detached. Niece of tragic heroine Cai Pingshu. |\n| Yu Jiacheng (于加诚) | Song Yuzhi (宋郁之) | Second male lead, moral compass |\n| Fan Jingyi (范静怡) | Qi Lingbo (戚凌波) | Antagonist's daughter |\n\n### Previous generation (上一辈) — emotional heart via flashbacks\n| Actor | Role | Arc |\n|---|---|---|\n| **Wan Peng (万鹏)** | **Cai Pingshu (蔡平殊)** | \"White moonlight\" of orthodox world. Fell in love with Demon Sect's Mu Zhengming. Manipulated into personally killing him; dies sacrificing herself to kill Cult Leader Nie Hengcheng. |\n| **Li Yunrui (李昀锐)** | **Mu Zhengming / Mu Zhengyang (慕正明 / 慕正扬)** | Dual role as twin brothers. Zhengming is the honorable Demon Sect heir; twin Zhengyang betrays him. |\n| Jing Chao (经超) | **Qi Yunke (戚云柯)** | Former head of orthodox alliance. Silently loved Cai Pingshu. After she dies, descends into madness — the wulin's ultimate villain. |\n| Peter Sheng (盛一伦) | Guest role | |\n\n## Plot (3-Act)\n\n**Act 1 — The Survivor:** Cai Zhao is sent to train at Qingque Sect. En route she rescues \"Chang Ning\" — actually Mu Qingyan, undercover Demon Sect young lord investigating his father's death. Two enemies by affiliation become reluctant partners.\n\n**Act 2 — The Sins of the Fathers:** Peels back a 15–17-year-old tragedy — the triangle between Cai Pingshu, Mu Zhengming, and Qi Yunke. Mu Zhengyang and Qi Yunke together forged letters, planted evidence, manipulated Cai Pingshu into stabbing her own lover. She spent the rest of her short life in Luoying Valley. Qi Yunke, driven mad by her death, became the demon he once fought.\n\n**Act 3 — The Reckoning:** At Qingque Sect's ancestral ceremony, Luo Yuanrong publicly exposes sect master Qiu Yuanfeng's collusion with the Demon Sect 17 years earlier; she carries Wu Yuanying's body off a cliff in a love-suicide. Cai Zhao, Mu Qingyan, the Six Sects, and the righteous Demon Sect faction unite to defeat Qi Yunke. Mu Qingyan proposes; they marry in Luoying Valley.\n\n**Thematic 3-word summary:** **过去, 现在, 选择** (past, present, choice).\n\n## Core Themes\n\n1. **Generational debt / 父辈恩怨** — the literal meaning of the English title\n2. **The lie of \"orthodox vs. heretic\" (正邪对立的虚伪)** — the righteous sects are more corrupt than the demon sect\n3. **无人不冤，有情皆孽** — \"no one is innocent; every love becomes sin\" — critics' catchphrase for this drama\n4. **Friendship, memory, and time** — borrowed directly from Huang Tingjian source poem\n5. **Cycle vs. choice** — can the next generation break the cycle?\n\n## Viral / Fan Moments\n\n- **\"Chair Kiss\" (椅子吻)** — viral romantic set-piece, trended on Weibo\n- **\"Mu Mu Zhao Zhao\" CP (慕慕昭昭)** — ship nickname; fans pooled 1.3M RMB for \"cloud-viewing party\"\n- **Douyin/TikTok:** 12.19 billion topic plays on premiere day; 525K+ TikTok posts\n- **Pre-launch:** 2.05M posts in Weibo superfan topic before premiere\n- **Li Yuchun OST** became a trending music moment\n- **Wuxia purists on Zhihu/Douban:** accused drama of \"emptying out spirit of xiá (侠义精神空洞化)\" — main reason for 5.7 Douban\n- **Standout:** Zhou Yiran as Mu Qingyan; supporting praise for Wan Peng + Li Yunrui as tragic parents\n\n## The Title Poem — 《寄黄几复》by Huang Tingjian (1085 CE)\n\n**This is the SEO goldmine.** Full text:\n\n> 我居北海君南海，寄雁传书谢不能。\n> **桃李春风一杯酒，江湖夜雨十年灯。**\n> 持家但有四立壁，治病不蕲三折肱。\n> 想得读书头已白，隔溪猿哭瘴溪藤。\n\n**Key couplet (drama's title source):**\n- 桃李春风一杯酒 / 江湖夜雨十年灯\n- *Táo lǐ chūn fēng yī bēi jiǔ / Jiāng hú yè yǔ shí nián dēng*\n- \"Peach and plum in spring breeze, a single cup of wine / Jianghu, night rain, ten years of lamplight\"\n\n**Rhetorical device:** perfect antithesis — \"one\" (一) against \"ten\" (十), joy of reunion against pain of separation, 6 nouns vs. 6 nouns with no verbs. Considered one of the greatest couplets in Song poetry. Written when Huang Tingjian (40, posted in Shandong) remembered childhood friend Huang Jifu in distant Guangdong.\n\n**This couplet alone justifies an entire article.**\n\n## 15 Chengyu for the Drama\n\n1. **恩怨分明 (ēn yuàn fēn míng)** — clear about debts of gratitude and grievance; Mu Qingyan's core principle\n2. **快意恩仇 (kuài yì ēn chóu)** — settling scores with satisfaction; from 史记·刺客列传\n3. **侠肝义胆 (xiá gān yì dǎn)** — chivalrous heart and dutiful courage; Cai Pingshu\n4. **爱恨交织 (ài hèn jiāo zhī)** — love and hatred interwoven; Pingshu–Zhengming–Yunke triangle\n5. **血债血偿 (xuè zhài xuè cháng)** — blood debts paid in blood; Chang Family Fort massacre\n6. **以德报怨 (yǐ dé bào yuàn)** — repay resentment with virtue; rejected in this drama\n7. **同归于尽 (tóng guī yú jìn)** — mutual destruction; Cai Pingshu's death\n8. **处心积虑 (chǔ xīn jī lǜ)** — premeditated scheming; Qi Yunke's villain arc\n9. **身不由己 (shēn bù yóu jǐ)** — no control over one's fate; inherited-curse theme\n10. **沉冤昭雪 (chén yuān zhāo xuě)** — long-buried injustice vindicated; central plot engine\n11. **骨肉相残 (gǔ ròu xiāng cán)** — kin slaughtering kin; twin brothers Mu Zhengming/Zhengyang\n12. **隐姓埋名 (yǐn xìng mái míng)** — hiding name and identity; Mu Qingyan as \"Chang Ning\"\n13. **刻骨铭心 (kè gǔ míng xīn)** — engraved on bones and heart; survivors' trauma\n14. **忍辱负重 (rěn rǔ fù zhòng)** — endure humiliation to bear responsibility; Cai Zhao's aunt's legacy\n15. **物是人非 (wù shì rén fēi)** — places remain but people are gone; direct echo of title poem's mood\n\n**Bonus:** 桃李春风 / 江湖夜雨 as quasi-idiomatic phrases are SEO candidates themselves.\n\n## Historical / Cultural Setting\n\n- **Period:** Ambiguous wuxia \"Jianghu time\" — costuming leans Song-Ming aesthetic\n- **World:** 北宸六派 (Six Orthodox Sects of the North) vs. 离教 (Demon Sect / Parting Sect). Qingque Sect (青阙宗) orthodox flagship; Luoying Valley (落英谷) neutral haven.\n- **Cultural concepts for \"History Behind\" article:**\n  - **Jianghu (江湖)** — history from Zhuangzi to Jin Yong\n  - **Xia (侠) / 侠义精神** — from 史记·游侠列传 through Tang chuanqi to modern wuxia\n  - **正邪二元论** (orthodox-heretic dualism) — why modern wuxia keeps deconstructing it\n  - **Sect (宗门) structure** — patriarchal lineage, master-disciple inheritance, generational sin\n  - **Generational vengeance tropes** in Chinese literature (Shiji assassins to Jin Yong)\n  - **Song-dynasty friendship poetry tradition** (Huang Tingjian, Su Shi circle)\n\n## Learn Chinese Angle\n\n- **Level:** HSK 5+ recommended; heavy classical/literary vocabulary\n- **Genre vocabulary:**\n  - Martial: 剑法 jiànfǎ, 轻功 qīnggōng, 内力 nèilì, 掌门 zhǎngmén, 门派 ménpài, 走火入魔\n  - Jianghu: 正派/魔教, 师门, 恩怨, 师兄/师妹, 叛徒\n  - Emotional: 情劫 qíngjié, 痴情, 负心, 遗憾, 命数\n  - Classical registers: 之乎者也, 4-character compressions, literary flourishes\n- **Dialogue patterns:** identity reveals (「我本是…」/「原来你就是…」), oath-taking (「此生此世…」), sect honorifics (前辈/晚辈/阁下/在下)\n- **Caveat:** wuxia Chinese is stylized and archaizing — excellent for vocabulary, poor model for daily conversation\n\n## Proposed Article Angles (4)\n\n1. **\"Generation to Generation Chinese Idioms Every Fan Should Know\"** — 15 chengyu above; anchor each to specific character\n2. **\"The Huang Tingjian Poem Hidden in the Title of Generation to Generation\"** — explainer on the 1085 CE couplet; the HIGHEST-MOAT article, no English competitor has this\n3. **\"Famous Quotes from Generation to Generation Explained\"** — chair-kiss scene lines, Luo Yuanrong's public accusation, final confrontation (PAIR WITH live viewing for exact quotes)\n4. **\"Learn Chinese Watching Generation to Generation\"** — HSK 5+ framing, wuxia vocab pack\n\n## Sources\n\n- [Generation to Generation — MyDramaList](https://mydramalist.com/703209-jiang-hu-ye-yu-shi-nian-deng)\n- [Generation to Generation — Wikipedia](https://en.wikipedia.org/wiki/Generation_to_Generation)\n- [江湖夜雨十年灯 — Baidu Baike](https://baike.baidu.com/item/江湖夜雨十年灯/63110659)\n- [江湖夜雨十年灯 — Douban](https://movie.douban.com/subject/36449471/)\n- [Jinjiang novel](https://www.jjwxc.net/onebook.php?novelid=4956302)\n- [寄黄几复 — Gushiwen](https://m.gushiwen.cn/mingju/juv_5c2785522014.aspx)\n- [DramaPanda announcement](https://dramapanda.com/2025/01/generation-to-generation-zhou-yiran-bao-shangen-wuxia-romance.html)\n",
+  "idiomMatches": [
+    {
+      "id": "ID254",
+      "characters": "身不由己",
+      "connection": "The central inherited-curse theme — children cannot control the conflict their parents bequeathed them",
+      "strength": "strong",
+      "relevantTo": "theme (generational debt)"
+    },
+    {
+      "id": "ID183",
+      "characters": "刻骨铭心",
+      "connection": "Mu Qingyan's five-year childhood imprisonment; Cai Pingshu's forced murder of Mu Zhengming",
+      "strength": "strong",
+      "relevantTo": "survivors' trauma"
+    },
+    {
+      "id": "ID864",
+      "characters": "千钧一发",
+      "connection": "The climactic Qingque Sect ceremony confrontation",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID874",
+      "characters": "忍辱负重",
+      "connection": "Cai Pingshu spending the rest of her life in Luoying Valley after being tricked into killing her lover",
+      "strength": "strong",
+      "relevantTo": "character (Cai Pingshu)"
+    },
+    {
+      "id": "ID861",
+      "characters": "破镜重圆",
+      "connection": "Mu Qingyan and Cai Zhao's marriage in Luoying Valley — the generation that breaks the cycle",
+      "strength": "strong",
+      "relevantTo": "ending"
+    },
+    {
+      "id": "ID015",
+      "characters": "物极必反",
+      "connection": "Qi Yunke's descent from orthodox alliance head to wulin's ultimate villain",
+      "strength": "strong",
+      "relevantTo": "character (Qi Yunke)"
+    },
+    {
+      "id": "ID764",
+      "characters": "恩将仇报",
+      "connection": "Mu Zhengyang betraying his twin Mu Zhengming; Qi Yunke turning on the woman he loved",
+      "strength": "strong",
+      "relevantTo": "betrayal theme"
+    },
+    {
+      "id": "ID788",
+      "characters": "瞒天过海",
+      "connection": "Mu Qingyan going undercover as Chang Ning, sole survivor of Chang Family Fort",
+      "strength": "strong",
+      "relevantTo": "character (Mu Qingyan)"
+    },
+    {
+      "id": "ID806",
+      "characters": "大义灭亲",
+      "connection": "Mu Zhengming's twin brother betrayal — righteous cause vs. blood kin",
+      "strength": "strong",
+      "relevantTo": "moral conflict"
+    },
+    {
+      "id": "ID929",
+      "characters": "一脉相承",
+      "connection": "The English title Generation to Generation literalizes this — literary, sect, and trauma lineages handed down",
+      "strength": "strong",
+      "relevantTo": "title theme"
+    },
+    {
+      "id": "ID419",
+      "characters": "源远流长",
+      "connection": "Huang Tingjian's Song-dynasty friendship poetry tradition that the title is drawn from",
+      "strength": "strong",
+      "relevantTo": "Song Dynasty context"
+    },
+    {
+      "id": "ID118",
+      "characters": "倾盖如故",
+      "connection": "The Huang Tingjian / Huang Jifu childhood friendship the title poem commemorates",
+      "strength": "strong",
+      "relevantTo": "Song Dynasty context"
+    },
+    {
+      "id": "ID599",
+      "characters": "刎颈之交",
+      "connection": "Sworn-friendship register the drama's parent generation invokes and the children must live up to",
+      "strength": "medium",
+      "relevantTo": "Song Dynasty context"
+    },
+    {
+      "id": "ID267",
+      "characters": "承前启后",
+      "connection": "The children's generation linking their parents' unfinished conflicts to a new resolution",
+      "strength": "strong",
+      "relevantTo": "title theme"
+    },
+    {
+      "id": "ID600",
+      "characters": "相濡以沫",
+      "connection": "The Zhuangzi metaphor the drama quietly inverts — love in crisis, chosen rather than survived",
+      "strength": "medium",
+      "relevantTo": "classical allusion"
+    },
+    {
+      "id": "ID081",
+      "characters": "笑里藏刀",
+      "connection": "The hypocritical orthodox sect leaders who are more corrupt than the heretics they persecute",
+      "strength": "strong",
+      "relevantTo": "antagonist types"
+    },
+    {
+      "id": "ID252",
+      "characters": "狐狸尾巴",
+      "connection": "Qi Yunke's true nature eventually revealed at the Qingque Sect ceremony",
+      "strength": "strong",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID992",
+      "characters": "东窗事发",
+      "connection": "Luo Yuanrong publicly exposing sect master Qiu Yuanfeng's 17-year-old collusion",
+      "strength": "strong",
+      "relevantTo": "plot reveal"
+    },
+    {
+      "id": "ID704",
+      "characters": "否极泰来",
+      "connection": "The 17-year-delayed vindication for Mu Zhengming and Cai Pingshu via their children",
+      "strength": "strong",
+      "relevantTo": "structure"
+    },
+    {
+      "id": "ID594",
+      "characters": "肝胆相照",
+      "connection": "The parent-generation triangle before manipulation — pure friendship turned tragedy",
+      "strength": "strong",
+      "relevantTo": "parent generation"
+    }
+  ],
+  "articles": [
+    {
+      "title": "10 Chinese Idioms Every Generation to Generation (江湖夜雨十年灯) Fan Should Know",
+      "slug": "generation-to-generation-chinese-idioms-every-fan-should-know",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Relationships & Character",
+      "description": "The new wuxia drama borrows its title from a 1085 CE Song-dynasty poem. These 10 Chinese idioms decode the children paying for their parents' sins.",
+      "idiomIds": [
+        "ID254",
+        "ID183",
+        "ID864",
+        "ID874",
+        "ID861",
+        "ID015",
+        "ID764",
+        "ID788",
+        "ID806",
+        "ID929"
+      ],
+      "outline": [
+        "Introduction to the drama and its themes of generational conflict.",
+        "Explore '身不由己' (shēn bù yóu jǐ) and its relevance to inherited curses.",
+        "Discuss '刻骨铭心' (kè gǔ míng xīn) in relation to the characters' trauma.",
+        "Highlight '恩怨分明' (ēn yuàn fēn míng) as Mu Qingyan's guiding principle.",
+        "Analyze '快意恩仇' (kuài yì ēn chóu) in the context of vengeance."
+      ],
+      "keyFacts": [
+        "The drama follows Cai Zhao and Mu Qingyan amid generational conflict.",
+        "Themes include inherited grievances and the struggle for identity."
+      ]
+    },
+    {
+      "title": "The Huang Tingjian Poem Hidden in Generation to Generation (江湖夜雨十年灯)",
+      "slug": "generation-to-generation-huang-tingjian-poem-song-dynasty",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "The 2026 wuxia drama's title is a direct quote from Huang Tingjian's 1085 poem to his childhood friend Huang Jifu. Here's what the couplet means.",
+      "idiomIds": [
+        "ID419",
+        "ID118",
+        "ID599",
+        "ID267",
+        "ID929"
+      ],
+      "outline": [
+        "Introduction to the Song dynasty and its cultural significance.",
+        "Examine Huang Tingjian's poem and its influence on the drama's title.",
+        "Discuss the theme of friendship and memory in the context of the poem.",
+        "Analyze the drama's critique of orthodox vs. heretic through historical lens.",
+        "Connect idioms to historical events and figures from the Song dynasty."
+      ],
+      "keyFacts": [
+        "The drama's title is derived from Huang Tingjian's poem.",
+        "Themes reflect Song dynasty values of friendship and memory."
+      ]
+    },
+    {
+      "title": "Generation to Generation (江湖夜雨十年灯): Famous Quotes Explained in Chinese and English",
+      "slug": "generation-to-generation-famous-quotes-chinese-explained",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Life Philosophy",
+      "description": "The chair-kiss scene. The public accusation. The final confrontation. Chinese text, pinyin, and the cultural weight each line carries.",
+      "idiomIds": [
+        "ID254",
+        "ID183",
+        "ID600",
+        "ID704",
+        "ID594"
+      ],
+      "outline": [
+        "Introduction to the drama's philosophical dialogues.",
+        "Explore key quotes and their connections to Chinese idioms.",
+        "Analyze Cai Zhao's dialogue about generational debt.",
+        "Discuss Mu Qingyan's reflections on vengeance and virtue.",
+        "Interpret the drama's concluding proposal scene through idioms."
+      ],
+      "keyFacts": [
+        "The drama culminates in a confrontation at Qingque Sect's ceremony.",
+        "Key dialogues reflect themes of vengeance and virtue."
+      ]
+    },
+    {
+      "title": "Cultural References You Missed in Generation to Generation (江湖夜雨十年灯)",
+      "slug": "generation-to-generation-cultural-references-you-missed",
+      "angle": "Cultural References in [Topic] You Missed",
+      "theme": "Life Philosophy",
+      "description": "Wuxia classical allusions, Song-dynasty antithesis, and the real history of jianghu morality the drama quietly subverts.",
+      "idiomIds": [
+        "ID081",
+        "ID252",
+        "ID992",
+        "ID704",
+        "ID806"
+      ],
+      "outline": [
+        "Introduction to the drama's cultural depth and symbolism.",
+        "Discuss the symbolism of the Qingque Sect's ancestral ceremony.",
+        "Highlight the 'Chair Kiss' scene and its cultural impact.",
+        "Analyze the drama's critique of moral superiority through idioms.",
+        "Explore the theme of 'cycle vs. choice' in the drama's resolution."
+      ],
+      "keyFacts": [
+        "The drama trended due to its engaging plot and complex characters.",
+        "The 'Chair Kiss' scene sparked significant fan engagement."
+      ]
+    }
+  ]
+}

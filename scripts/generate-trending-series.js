@@ -24,8 +24,20 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const OpenAI = require('openai');
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+
+// Gemini 2.5 Pro handles the long-form article writing — GPT-4o stays for
+// structured JSON (research extraction, idiom matching, planning, review).
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const writerModel = genAI.getGenerativeModel({
+  model: 'gemini-2.5-pro',
+  generationConfig: {
+    temperature: 0.7,
+    maxOutputTokens: 16384,
+  },
+});
 
 const BLOG_DIR = path.join(__dirname, '../content/blog');
 const BRIEFS_DIR = path.join(__dirname, '../content/series-briefs');
@@ -70,7 +82,7 @@ function getToday() {
 
 // ─── Phase 1: RESEARCH ─────────────────────────────────
 
-async function doResearch(topic, articleCount, idioms) {
+async function doResearch(topic, articleCount, idioms, externalResearchMd) {
   console.log('🔍 Step 1/3: Researching topic and matching idioms...\n');
 
   const idiomRef = idioms.map(i =>
@@ -78,7 +90,27 @@ async function doResearch(topic, articleCount, idioms) {
   ).join('\n');
 
   // Step 1: Deep research on the topic
-  const researchPrompt = `You are a Chinese culture researcher. Research the following topic thoroughly.
+  const researchPrompt = externalResearchMd
+    ? `You are a Chinese culture researcher. Below is a web-sourced research brief about a topic. Your job is to EXTRACT and STRUCTURE it into the JSON schema specified — do NOT add new facts, do NOT invent details. Only restructure what's already in the brief. If a field has no supporting information in the brief, leave it empty.
+
+TOPIC: "${topic}"
+
+WEB-SOURCED RESEARCH BRIEF:
+"""
+${externalResearchMd}
+"""
+
+Return as JSON (pull every detail from the brief above):
+{
+  "basicFacts": { "type": "", "releaseDate": "", "keyPeople": [], "impact": "" },
+  "plotSummary": "",
+  "historicalBasis": [{ "topic": "", "details": "", "dynasties": [], "figures": [] }],
+  "culturalThemes": [{ "theme": "", "explanation": "" }],
+  "keyChineseTerms": [{ "characters": "", "pinyin": "", "meaning": "", "relevance": "" }],
+  "whyTrending": "",
+  "verifyFlags": []
+}`
+    : `You are a Chinese culture researcher. Research the following topic thoroughly.
 
 TOPIC: "${topic}"
 
@@ -118,7 +150,9 @@ Return as JSON:
   });
 
   const research = JSON.parse(researchResult.choices[0].message.content);
-  console.log('   ✅ Research complete');
+  console.log(externalResearchMd
+    ? '   ✅ Research extracted from external brief'
+    : '   ✅ Research complete');
 
   if (research.verifyFlags && research.verifyFlags.length > 0) {
     console.log('\n   ⚠️  ITEMS TO FACT-CHECK:');
@@ -201,7 +235,7 @@ Return JSON:
       "title": "...",
       "slug": "...",
       "angle": "which type from above",
-      "theme": "Success & Perseverance | Life Philosophy | Wisdom & Learning | Relationships & Character | Strategy & Action",
+      "theme": "<PICK EXACTLY ONE of these 5 strings verbatim — do not combine with pipes, do not invent: 'Success & Perseverance', 'Life Philosophy', 'Wisdom & Learning', 'Relationships & Character', 'Strategy & Action'>",
       "description": "150-200 char meta description, make it clickable",
       "idiomIds": ["ID001", ...],
       "outline": "4-6 bullet points of what specific content this article will cover. Be concrete — name characters, scenes, historical parallels.",
@@ -232,6 +266,9 @@ Return JSON:
     topic,
     date: getToday(),
     research,
+    // Preserve full web-sourced research so generate step has access to depth
+    // the structured JSON schema drops (cast, controversies, viral moments, etc.)
+    externalResearchMd: externalResearchMd || null,
     idiomMatches: idiomMatches.matches,
     articles: plan.articles,
   };
@@ -250,9 +287,10 @@ async function generateArticle(articlePlan, brief, idioms) {
     `${idx + 1}. ${i.characters} (${i.pinyin})
    Literal: ${i.meaning}
    Metaphoric: ${i.metaphoric_meaning}
-   Origin: ${i.description.slice(0, 400)}
+   Origin: ${i.description.slice(0, 600)}
    Example: ${i.example}
-   Chinese: ${i.chineseExample}`
+   Chinese: ${i.chineseExample}
+   Slug: ${pinyinToSlug(i.pinyin)}`
   ).join('\n\n');
 
   // Internal links to other articles in the series
@@ -262,10 +300,13 @@ async function generateArticle(articlePlan, brief, idioms) {
     .join('\n');
 
   // Build research context specific to this article
-  const researchContext = `
+  const structuredContext = `
 TOPIC: "${brief.topic}"
 TYPE: ${brief.research.basicFacts.type}
 KEY PEOPLE: ${brief.research.basicFacts.keyPeople?.join(', ') || 'N/A'}
+
+PLOT SUMMARY (source of truth — do NOT contradict):
+${brief.research.plotSummary || 'N/A'}
 
 RELEVANT HISTORICAL CONTEXT:
 ${brief.research.historicalBasis.map(h => `- ${h.topic}: ${h.details}`).join('\n')}
@@ -276,9 +317,20 @@ ${brief.research.keyChineseTerms.map(t => `- ${t.characters} (${t.pinyin}): ${t.
 KEY FACTS THIS ARTICLE SHOULD USE:
 ${(articlePlan.keyFacts || []).map(f => `- ${f}`).join('\n')}`;
 
+  // If the brief has a full web-sourced research markdown, include it as
+  // additional context. Structured JSON extraction drops 80% of the original
+  // depth (cast, controversies, viral moments, specific quotes) — passing the
+  // raw markdown restores it for the writer.
+  const fullResearchSection = brief.externalResearchMd
+    ? `\n\nFULL WEB-SOURCED RESEARCH BRIEF (authoritative — use for specifics, cast names, controversies, viral moments, cultural depth):
+"""
+${brief.externalResearchMd}
+"""`
+    : '';
+
   const prompt = `Write a long-form blog article for chineseidioms.com.
 
-${researchContext}
+${structuredContext}${fullResearchSection}
 
 ARTICLE TITLE: "${articlePlan.title}"
 ANGLE: ${articlePlan.angle}
@@ -292,29 +344,155 @@ ${idiomDetails}
 OTHER ARTICLES IN THIS SERIES (link to 2-3 naturally within the text):
 ${otherArticles}
 
-WRITING RULES:
-- 1500-3000 words. Prioritize depth over length.
-- Write like a knowledgeable cultural essayist, not a content mill. Your Pursuit of Jade articles are the benchmark — specific, opinionated, historically grounded.
-- Each idiom section: characters + pinyin heading, meaning, the SPECIFIC connection to this topic (not generic), and a "**Use it:**" line for practical application.
-- Include SPECIFIC details: character names with Chinese (范长玉), dynasty names, historical dates, named historical figures, legal codes, actual cultural practices.
-- Use markdown: ## for sections, ** for bold, * for italics, --- for section breaks
-- Link to idiom pages naturally: [卧薪尝胆](/blog/wo-xin-chang-dan) using pinyin-slug format
-- DO NOT include the title (it's in frontmatter)
-- DO NOT add a conclusion section or "final thoughts" — end on the last idiom or a strong point
-- Start with a compelling hook paragraph that establishes why this topic matters NOW
-- NEVER use: "let's dive in", "in this article", "without further ado", "whether you're a beginner", "in conclusion", "as we've seen"
-- If you're unsure about a fact, omit it rather than risk being wrong
+═══════════════════════════════════════════════════════════
+HARD RULES — violations will be visible and the article will be rejected:
+═══════════════════════════════════════════════════════════
+
+LENGTH: 2000-3500 words. The benchmark Pursuit of Jade articles are ~3,500 words. If you find yourself under 2,000 words, you have not done your job — expand the idiom origin stories and the topic-specific connections.
+
+PER-IDIOM STRUCTURE (every idiom section must have ALL of these):
+1. Heading: ## {chinese characters} ({pinyin}) — "{short English gloss}"
+2. **Meaning:** one-line English meaning.
+3. **Origin paragraph**: where does this idiom COME FROM? Name the classical text, dynasty, historical figure, or story. Example: "卧薪尝胆 comes from King Goujian of Yue (勾践), who..." — if the structured idiom data doesn't have an origin, write what you know to be true from the classical canon. NEVER skip this.
+4. **Connection paragraph**: how does it map onto a specific character, scene, or plot beat in the drama? Name the character, the episode, or the event. Generic connections are a failure.
+5. **Use it:** a one-line practical guide, not an example sentence.
+
+FACTUAL ACCURACY (non-negotiable):
+- Before writing each character's name, verify against the PLOT SUMMARY and KEY PEOPLE lists. If the research says "Chu Qiao has amnesia", you must never say another character has amnesia.
+- If the drama is a sequel (like Rebirth → Princess Agents 2), do not confuse the two. State which is which.
+- If a fact is not in the research, do not invent it. Omit it.
+
+TONE:
+- Write like a knowledgeable cultural essayist. Take positions. "Patience is not passivity — it's strategy forged in suffering" is the benchmark register.
+- Include specific cultural or textual references: 史记, 左传, 论语, I Ching, Tang/Song poets by name.
+- Identify the single thematic thesis of the drama early and return to it.
+
+LEVERAGE THE RESEARCH:
+- If the research mentions a controversy, viral moment, ratings flop, actor drama, or famous quote — USE IT. Mentioning something once in the intro and dropping it is a failure.
+- If there is a famous poem, folk saying, or cultural concept named in the research, name it in the article with its Chinese + pinyin + source.
+
+INTERNAL LINKING:
+- At least 5 idiom character-headings should link to the idiom's slug page: [卧薪尝胆](/blog/wo-xin-chang-dan) — use the slug provided in the IDIOMS list.
+- Link to 2-3 other articles from OTHER ARTICLES IN THIS SERIES naturally in the body.
+
+FORMATTING:
+- ## for sections, ** for bold, * for italics, --- between idiom sections
+- DO NOT include the title (it's in frontmatter).
+- DO NOT add a conclusion section, "final thoughts", "in summary", or a wrap-up paragraph. End on the last idiom's content.
+
+BANNED PHRASES (if any appear, the article will be rejected):
+- "In a world where"
+- "let's dive in"
+- "in this article"
+- "without further ado"
+- "whether you're a beginner"
+- "in conclusion"
+- "as we've seen"
+- "intricate tapestry"
+- "emerges as"
+- "highly anticipated"
+- "captivates" / "captivating"
+- "unfolds" / "unfolding"
+- "delve into"
 
 OUTPUT: Return ONLY the article markdown body. No frontmatter, no title.`;
 
+  const result = await writerModel.generateContent(prompt);
+  let text = result.response.text().trim();
+
+  // Gemini sometimes wraps output in ```markdown ... ``` — strip if present
+  if (text.startsWith('```')) {
+    text = text.replace(/^```(?:markdown|md)?\s*\n?/, '').replace(/\n?```\s*$/, '').trim();
+  }
+  // Also strip any leading frontmatter the model might have added against instructions
+  if (text.startsWith('---')) {
+    const endIdx = text.indexOf('---', 3);
+    if (endIdx !== -1) {
+      text = text.slice(endIdx + 3).trim();
+    }
+  }
+
+  // Gemini sometimes nests ### on top of ## for idiom headings — flatten to ##
+  text = text.replace(/^###\s+##\s+/gm, '## ');
+  // And normalize any accidental #### to ## as well
+  text = text.replace(/^####\s+##\s+/gm, '## ');
+
+  return text;
+}
+
+// Copied from src/lib/utils/pinyin.ts for Node usage
+function pinyinToSlug(pinyin) {
+  const TONE_MAP = {
+    'ā':'a','á':'a','ǎ':'a','à':'a',
+    'ē':'e','é':'e','ě':'e','è':'e',
+    'ī':'i','í':'i','ǐ':'i','ì':'i',
+    'ō':'o','ó':'o','ǒ':'o','ò':'o',
+    'ū':'u','ú':'u','ǔ':'u','ù':'u',
+    'ü':'v','ǖ':'v','ǘ':'v','ǚ':'v','ǜ':'v',
+    'ń':'n','ň':'n','ǹ':'n',
+  };
+  return pinyin
+    .split('')
+    .map(c => TONE_MAP[c] || c)
+    .join('')
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-');
+}
+
+// Self-review step: catches factual errors, banned phrases, missing origins
+async function reviewArticle(articleBody, articlePlan, brief) {
+  const plotSummary = brief.research.plotSummary || '';
+  const keyPeople = brief.research.basicFacts.keyPeople?.join('\n') || '';
+
+  const reviewPrompt = `You are a factual reviewer for chineseidioms.com blog articles. Review the article below against the ground-truth research and flag any problems.
+
+ARTICLE TITLE: ${articlePlan.title}
+
+GROUND TRUTH — PLOT:
+${plotSummary}
+
+GROUND TRUTH — KEY PEOPLE:
+${keyPeople}
+
+ARTICLE TO REVIEW:
+"""
+${articleBody}
+"""
+
+Check and return JSON:
+{
+  "factualErrors": ["list statements that contradict the plot/people ground truth"],
+  "bannedPhrases": ["any phrases like: 'In a world where', 'intricate tapestry', 'delve into', 'emerges as', 'captivates', 'unfolds', 'highly anticipated'"],
+  "hasConcludingWrapUp": true_or_false,
+  "missingOriginStories": ["list any idiom headings that don't explain where the idiom comes from (classical text, historical figure, dynasty)"],
+  "hasIntroHook": true_or_false,
+  "introHookQuality": "strong|weak|missing",
+  "internalIdiomLinkCount": number_of_markdown_links_to_blog_idiom_slugs,
+  "dramaContextMentions": number_of_times_the_article_body_(not_intro)_cites_specific_drama_facts_like_ratings_cast_episodes_controversies,
+  "wordCount": approximate_number,
+  "overallGrade": "A|B|C|D|F",
+  "needsRegeneration": true_or_false
+}
+
+Set needsRegeneration=true if ANY of:
+- factualErrors.length > 0
+- hasConcludingWrapUp is true
+- missingOriginStories.length > 0
+- hasIntroHook is false
+- internalIdiomLinkCount < 5
+- wordCount < 2500
+- dramaContextMentions < 3`;
+
   const result = await openai.chat.completions.create({
     model: 'gpt-4o',
-    messages: [{ role: 'user', content: prompt }],
-    max_tokens: 8192,
-    temperature: 0.7,
+    messages: [{ role: 'user', content: reviewPrompt }],
+    max_tokens: 2048,
+    temperature: 0,
+    response_format: { type: 'json_object' },
   });
 
-  return result.choices[0].message.content.trim();
+  return JSON.parse(result.choices[0].message.content);
 }
 
 function saveArticle(articlePlan, body, today) {
@@ -366,21 +544,33 @@ async function main() {
     return;
   }
 
-  // research --topic "..."
+  // research --topic "..." [--research-file <path>]
   if (command === 'research') {
     const topicIdx = args.indexOf('--topic');
     if (topicIdx === -1) {
-      console.error('Usage: node scripts/generate-trending-series.js research --topic "Topic Name" [--articles N]');
+      console.error('Usage: node scripts/generate-trending-series.js research --topic "Topic Name" [--articles N] [--research-file path/to/research.md]');
       process.exit(1);
     }
     const topic = args[topicIdx + 1];
     const countIdx = args.indexOf('--articles');
     const articleCount = countIdx !== -1 ? parseInt(args[countIdx + 1]) : 5;
 
+    const researchFileIdx = args.indexOf('--research-file');
+    let externalResearchMd = null;
+    if (researchFileIdx !== -1) {
+      const researchFilePath = args[researchFileIdx + 1];
+      if (!fs.existsSync(researchFilePath)) {
+        console.error(`Research file not found: ${researchFilePath}`);
+        process.exit(1);
+      }
+      externalResearchMd = fs.readFileSync(researchFilePath, 'utf-8');
+      console.log(`📄 Using external research: ${researchFilePath} (${externalResearchMd.length} chars)\n`);
+    }
+
     const idioms = loadIdioms();
     console.log(`📚 Loaded ${idioms.length} idioms\n`);
 
-    const brief = await doResearch(topic, articleCount, idioms);
+    const brief = await doResearch(topic, articleCount, idioms, externalResearchMd);
 
     // Save brief
     ensureDir(BRIEFS_DIR);
@@ -433,12 +623,55 @@ async function main() {
     for (const [i, article] of brief.articles.entries()) {
       console.log(`✍️  ${i + 1}/${brief.articles.length}: "${article.title}"...`);
 
-      const body = await generateArticle(article, brief, idioms);
+      let body = await generateArticle(article, brief, idioms);
+      let wordCount = body.split(/\s+/).length;
+      console.log(`   📝 Draft: ${wordCount} words`);
+
+      // Self-review: check for factual errors, banned phrases, missing origins
+      console.log(`   🔍 Reviewing...`);
+      const review = await reviewArticle(body, article, brief);
+
+      const issues = [];
+      if (review.factualErrors?.length) issues.push(`${review.factualErrors.length} factual error(s)`);
+      if (review.bannedPhrases?.length) issues.push(`${review.bannedPhrases.length} banned phrase(s)`);
+      if (review.hasConcludingWrapUp) issues.push('conclusion section');
+      if (review.missingOriginStories?.length) issues.push(`${review.missingOriginStories.length} idiom(s) missing origin`);
+      if (!review.hasIntroHook) issues.push('no intro hook');
+      if ((review.internalIdiomLinkCount || 0) < 5) issues.push(`${review.internalIdiomLinkCount || 0}/5 internal idiom links`);
+      if ((review.dramaContextMentions || 0) < 3) issues.push(`${review.dramaContextMentions || 0}/3 drama context mentions`);
+      if (review.wordCount < 2500) issues.push(`under 2500 words (${review.wordCount})`);
+
+      if (review.needsRegeneration && issues.length > 0) {
+        console.log(`   ⚠️  Issues: ${issues.join(', ')} — regenerating with feedback...`);
+
+        // Second attempt with explicit feedback on what to fix
+        const feedback = `
+PREVIOUS DRAFT FAILED REVIEW. Specific issues to fix:
+${review.factualErrors?.length ? `\nFACTUAL ERRORS (contradicted the research):\n${review.factualErrors.map(e => `- ${e}`).join('\n')}` : ''}
+${review.bannedPhrases?.length ? `\nBANNED PHRASES USED — remove every instance:\n${review.bannedPhrases.map(p => `- ${p}`).join('\n')}` : ''}
+${review.hasConcludingWrapUp ? `\nCONCLUSION SECTION FOUND — remove any wrap-up, summary, or "final thoughts" paragraph. End on the last idiom.` : ''}
+${review.missingOriginStories?.length ? `\nIDIOMS MISSING ORIGIN STORIES — every idiom needs a paragraph naming the classical text, historical figure, or dynasty it comes from:\n${review.missingOriginStories.map(e => `- ${e}`).join('\n')}` : ''}
+${!review.hasIntroHook ? `\nNO INTRO HOOK — the article started with a bare idiom heading. Add 2-3 opening paragraphs BEFORE the first idiom heading that establish: what the drama is, why it matters right now (use Douban ratings, viral moments, cast controversy from the research), and what the reader will learn. The Pursuit of Jade article opens with "If you've been watching Pursuit of Jade (逐玉) — the 2026 C-drama that shattered records with a 55.1% daily market share..." — match that register.` : ''}
+${(review.internalIdiomLinkCount || 0) < 5 ? `\nINSUFFICIENT INTERNAL LINKS — the first mention of each idiom in a section heading should be a markdown link to its slug, e.g. [卧薪尝胆](/blog/wo-xin-chang-dan). Need at least 5.` : ''}
+${(review.dramaContextMentions || 0) < 3 ? `\nNOT USING THE RESEARCH — the article body (not just intro) must cite at least 3 specific drama facts: Douban rating, Tencent heat score, Zhao Liying controversy, OST plagiarism scandal, Huangyang Tiantian meta-layer, specific episode ranges, SEA fandom, etc. Generic statements about "the drama" don't count.` : ''}
+${review.wordCount < 2500 ? `\nWORD COUNT TOO LOW (${review.wordCount} — target 2800+): expand origin stories (each should be 3-5 sentences with specific dates, figures, texts) and topic-specific connections (each should name specific characters, episodes, scenes).` : ''}
+
+Rewrite the article addressing EVERY issue above. Do not just touch the problem lines — re-think and expand.`;
+
+        body = await generateArticle({
+          ...article,
+          outline: article.outline + '\n\n' + feedback,
+        }, brief, idioms);
+        wordCount = body.split(/\s+/).length;
+        console.log(`   🔄 Revised: ${wordCount} words`);
+      } else {
+        console.log(`   ✅ Review passed (grade: ${review.overallGrade})`);
+      }
+
       const filePath = saveArticle(article, body, today);
       savedFiles.push(filePath);
 
-      const wordCount = body.split(/\s+/).length;
-      console.log(`   ✅ ${wordCount} words → ${path.basename(filePath)}`);
+      console.log(`   → ${path.basename(filePath)}`);
 
       if (i < brief.articles.length - 1) {
         await new Promise(r => setTimeout(r, 2000));
@@ -470,11 +703,15 @@ async function main() {
   console.log(`Trending Series Generator — Two-Phase Workflow
 
 Phase 1 (Research & Plan):
-  node scripts/generate-trending-series.js research --topic "Drama Name (中文)" [--articles 5]
+  node scripts/generate-trending-series.js research --topic "Drama Name (中文)" [--articles 5] [--research-file path.md]
 
   → Creates a brief in content/series-briefs/ for you to review/edit
   → Flags uncertain facts for you to verify
   → Matches idioms to the topic with explanations
+
+  --research-file: Use a pre-written web-sourced research markdown as input
+                   (bypasses GPT-4o's stale training knowledge for new dramas)
+                   See content/series-briefs/research/ for examples.
 
 Phase 2 (Generate Articles):
   node scripts/generate-trending-series.js generate --brief content/series-briefs/topic.json
