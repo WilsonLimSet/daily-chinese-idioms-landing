@@ -186,7 +186,7 @@ export default async function ListiclePage({ params }: { params: Promise<{ slug:
           </p>
         </div>
 
-        <AdUnit type="display" />
+        <AdUnit type="display" priority />
 
         {/* Idiom List */}
         <div className="space-y-6">

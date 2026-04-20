@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react"
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -106,6 +107,16 @@ export default function RootLayout({
       <body className="antialiased">
         {children}
         <Analytics />
+        {/* AdSense loader — lazyOnload keeps it out of the LCP path. Ad
+            containers reserve their own heights to prevent CLS. Individual
+            AdUnit components queue themselves via adsbygoogle.push() once
+            in viewport (or immediately if priority=true). */}
+        <Script
+          id="adsense-loader"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5703994433505618"
+          crossOrigin="anonymous"
+          strategy="lazyOnload"
+        />
       </body>
     </html>
   );

@@ -376,7 +376,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             </>
           )}
 
-          <AdUnit type="in-article" />
+          <AdUnit type="in-article" priority />
         </header>
 
         <div className="blog-content">

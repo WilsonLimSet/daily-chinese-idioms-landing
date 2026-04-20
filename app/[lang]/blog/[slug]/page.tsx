@@ -330,7 +330,7 @@ export default async function InternationalBlogPostPage({
             </div>
           )}
 
-          <AdUnit type="in-article" />
+          <AdUnit type="in-article" priority />
         </header>
 
         {(() => {

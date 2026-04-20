@@ -213,7 +213,7 @@ export default async function TranslatedListiclePage({
           </p>
         </div>
 
-        <AdUnit type="display" />
+        <AdUnit type="display" priority />
 
         {/* Idiom List */}
         <div className="space-y-6">
