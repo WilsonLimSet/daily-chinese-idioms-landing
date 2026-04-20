@@ -1,17 +1,12 @@
 ---
-title: >-
-  10 Chinese Idioms Every The Heir (祯娘传) Fan Should Know: Ink, Ambition, and
-  Ming Dynasty Craft
+title: 'The Heir (祯娘传) ファン必見の10の中国語成語: インク、野心、明朝の技'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
-description: >-
-  Yang Zi stars as a woman who defies Ming Dynasty tradition to master
-  ink-making in The Heir (祯娘传). These 10 idioms capture every step of her
-  journey from fallen daughter to master artisan.
+description: Yang Ziが主演するThe Heir (祯娘传)で、明朝の伝統を破りインク作りを極める女性の物語を描く。彼女の旅路を表す10の成語を紹介。
 ---
 **The Heir (祯娘传)** は、40話の歴史ロマンスの中心にインク作りを据えた、これまでのCドラマにはない試みをしています。Yang Zi (杨紫) は、李家の第八支流の最年少の娘、李祯 (Li Zhen) を演じています — かつて名声を誇った徽州のインク一族の中で最も低い地位にあるメンバーで、貢墨案（tribute ink scandal）によって地位を落としました。Han Dongjun (韩东君) は、ライバルの羅家の次男、羅文謙 (Luo Wenqian) を演じており、彼自身の復権の策略が李祯の台頭と衝突します。*Story of Yanxi Palace* (延禧攻略) の監督、惠楷栋 (Hui Kaidong) によって監督され、ドラマは安徽省の実際の徽派村、宏村 (Hongcun)、西递 (Xidi)、呈坎 (Chengkan) で撮影され、Yang Zi は撮影開始前に実際のインク作りの技術を3ヶ月間訓練しました。
 

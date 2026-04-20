@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every Unveil Jadewind (唐宫奇案) Fan Should Know: Murder,
-  Mystery, and the Tang Court
+title: 10 تعبيرات صينية يجب أن يعرفها كل معجب بـUnveil Jadewind (唐宫奇案)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Strategy & Action
 description: >-
-  Bai Lu investigates 7 cases of supernatural horror in the Tang court — but the
-  real monster is political corruption. These 10 idioms capture every twist of
-  Unveil Jadewind (唐宫奇案之青雾风鸣).
+  تحقق Bai Lu في 7 قضايا رعب خارق في محكمة تانغ — لكن الوحش الحقيقي هو الفساد
+  السياسي. هذه 10 تعبيرات تلتقط كل تطور في Unveil Jadewind (唐宫奇案之青雾风鸣).
 originalSlug: unveil-jadewind-chinese-idioms-tang-dynasty-mystery
 ---
 **Unveil: Jadewind (唐宫奇案之青雾风鸣)** يبدأ بامرأة تحترق حية في حفل مهرجان الفوانيس، ويصبح الوضع أكثر ظلمة من هناك. تلعب Bai Lu (白鹿) دور Li Peiyi (李佩仪)، سيدة من المقاطعة تتمتع بمهارات قتالية نادرة وحدس حاد. تلعب Wang Xingyue (王星越) دور Xiao Huaijin (萧怀瑾)، عالم فلك في مكتب الفلك الإمبراطوري (太史局) يتمتع بذاكرة استثنائية وعقل منهجي. معًا، يحققان في سبع قضايا من الرعب الخارق للطبيعة داخل محكمة سلالة تانغ — حرق الجثث، جدران تنزف، حملات وهمية، عرائس هياكل عظمية — ليكتشفوا أن كل حدث "خارجي" له تفسير عقلاني وأكثر رعبًا متجذر في الفساد السياسي.

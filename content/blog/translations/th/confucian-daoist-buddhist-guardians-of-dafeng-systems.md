@@ -1,7 +1,5 @@
 ---
-title: >-
-  Confucians, Daoists & Buddhists: The Cultivation Systems of Guardians of the
-  Dafeng (大奉打更人) Explained
+title: 'ขงจื๊อ, เต๋า & พุทธ: ระบบการฝึกฝนใน Guardians of the Dafeng'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  In Guardians of the Dafeng, Confucian scholars can make 'words become law,'
-  Daoists form golden cores, and Buddhist monks achieve diamond bodies. Here's
-  how each system connects to real Chinese philosophy.
+  ใน Guardians of the Dafeng, ขงจื๊อทำให้ 'คำกลายเป็นกฎหมาย', เต๋าสร้างแกนทอง,
+  พระสงฆ์บรรลุร่างเพชร เชื่อมโยงกับปรัชญาจีนจริง
 originalSlug: guardians-of-dafeng-cultivation-system-confucian-daoist-buddhist
 ---
 **Guardians of the Dafeng (大奉打更人)** ไม่ได้แค่ยืมปรัชญาจีนมาเพื่อเพิ่มรสชาติ — แต่มันสร้างระบบพลังงานทั้งหมดจากกรอบความคิดที่แท้จริงของลัทธิขงจื๊อ, ลัทธิเต๋า, และพุทธศาสนา ผลลัพธ์คือโลกแห่งการฝึกฝนที่การต่อยให้แรงขึ้นต้องเข้าใจ *Analects* (论语), การสร้างแกนทองหมายถึงการเข้าใจการฝึกฝนภายในของลัทธิเต๋าอย่างแท้จริง, และอาวุธที่ทำลายล้างที่สุดในโลกคือประโยคที่ถูกสร้างขึ้นอย่างดี

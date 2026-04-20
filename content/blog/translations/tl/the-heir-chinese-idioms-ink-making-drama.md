@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every The Heir (祯娘传) Fan Should Know: Ink, Ambition, and
-  Ming Dynasty Craft
+title: 10 Sawikain na Dapat Malaman ng Bawat Fan ng The Heir (祯娘传)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
 description: >-
-  Yang Zi stars as a woman who defies Ming Dynasty tradition to master
-  ink-making in The Heir (祯娘传). These 10 idioms capture every step of her
-  journey from fallen daughter to master artisan.
+  Si Yang Zi ay bida bilang isang babaeng sumusuway sa tradisyon ng Ming upang
+  maging dalubhasa sa paggawa ng tinta sa The Heir (祯娘传).
 ---
 **The Heir (祯娘传)** ay gumagawa ng isang bagay na hindi pa nagagawa ng anumang C-drama: ginagawa ang paggawa ng tinta bilang sentro ng isang 40-episode na makasaysayang romansa. Si Yang Zi (杨紫) ay gumanap bilang Li Zhen (李祯), ang bunsong anak na babae ng ikawalong sangay ng pamilya Li — ang pinakamababang katayuan sa isang dating prestihiyosong angkan ng tinta sa Huizhou na bumagsak dahil sa isang iskandalo sa tribute ink (贡墨案). Si Han Dongjun (韩东君) ay gumanap bilang Luo Wenqian (骆文谦), pangalawang anak ng magkalabang pamilyang Luo, na ang sariling mga plano para sa pagbabalik ay sumasalungat sa pag-angat ni Li Zhen. Idinirehe ni Hui Kaidong (惠楷栋), ang parehong direktor ng *Story of Yanxi Palace* (延禧攻略), ang drama ay kinunan sa mga tunay na nayon ng estilo ng Hui sa Hongcun (宏村), Xidi (西递), at Chengkan (呈坎) sa Lalawigan ng Anhui, kung saan si Yang Zi ay nagsanay sa mga aktwal na teknika ng paggawa ng tinta sa loob ng tatlong buwan bago nagsimula ang pagkuha.
 

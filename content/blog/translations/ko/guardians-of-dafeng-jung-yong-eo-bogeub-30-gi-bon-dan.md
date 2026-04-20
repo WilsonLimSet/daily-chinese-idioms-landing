@@ -1,17 +1,12 @@
 ---
-title: >-
-  Learn Chinese Watching Guardians of the Dafeng (大奉打更人): 30 Essential Words &
-  Phrases
+title: '대봉타경인(大奉打更人)으로 중국어 배우기: 30개 필수 단어와 구문'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
-description: >-
-  Turn your Guardians of the Dafeng binge into a Chinese lesson. 30 essential
-  vocabulary words and phrases from the drama — from court politics to
-  cultivation ranks — with pinyin and example sentences.
+description: 대봉타경인 몰아보기를 중국어 수업으로 바꿔보세요. 궁정 정치부터 수련 등 드라마의 30개 필수 어휘와 예문 제공.
 originalSlug: guardians-of-dafeng-learn-chinese-vocabulary-phrases
 ---
 **Guardians of the Dafeng (大奉打更人)**는 초급과 중급 사이에 있는 중국어 학습자에게 가장 적합한 C-드라마일 수 있습니다. 왜냐하면 주인공인 Xu Qi'an (许七安)은 현대인이 고대 세계로 떨어진 환생자이기 때문입니다. 이는 그가 현대 구어 중국어와 고전적인 공식 언어 사이에서 끊임없이 번역하고 있다는 것을 의미합니다. 그가 Dafeng 왕조에서 아무도 이해하지 못하는 농담을 할 때, 여러분은 그와 같은 교훈을 배우고 있습니다: 맥락이 중국어에서 모든 것을 어떻게 변화시키는지.

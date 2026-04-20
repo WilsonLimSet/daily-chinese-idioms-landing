@@ -1,17 +1,12 @@
 ---
-title: >-
-  How Pursuit of Jade Made Supporting Actors Into Stars: The Chinese Concept of
-  配角逆袭
+title: 'Pursuit of Jadeが脇役をスターにした方法: 中国の配角逆袭'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
-description: >-
-  Lin Muran gained 1.4 million followers from one scene. Kong Xueer trended
-  nationally. Deng Kai's villain reveal stunned everyone. How Pursuit of Jade
-  created the rarest C-drama phenomenon: 配角逆袭.
+description: 林木然は1シーンで140万人のフォロワーを獲得。孔雪儿は全国トレンド入り。邓凯の悪役の正体が衝撃。Pursuit of Jadeが生んだ配角逆袭。
 originalSlug: pursuit-of-jade-supporting-actors-stars-pei-jue-ni-xi
 ---
 Cドラマ業界では、主役がマーケティング予算、雑誌の表紙、ファン同士の戦争を手に入れます。脇役は給料をもらい、運が良ければ午後の間だけトレンド入りするハッシュタグを得ることができます。**Pursuit of Jade (逐玉)**はこのパターンを徹底的に打破し、エンターテインメントジャーナリストたちは起こったことに特定の用語を使い始めました：**配角逆袭** (pèi jué nì xí) — 「脇役の逆襲」。

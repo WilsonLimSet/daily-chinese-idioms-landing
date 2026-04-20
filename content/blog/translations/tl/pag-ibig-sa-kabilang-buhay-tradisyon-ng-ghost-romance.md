@@ -1,7 +1,7 @@
 ---
 title: >-
-  The Ghost Romance Tradition Behind Love Beyond the Grave (白日提灯): From 聊斋 to
-  Dilraba
+  Ang Tradisyon ng Ghost Romance sa Love Beyond the Grave (白日提灯): Mula 聊斋
+  hanggang Dilraba
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,10 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Love Beyond the Grave continues a literary tradition older than Shakespeare.
-  From Pu Songling's ghost tales to A Chinese Ghost Story — here's the real
-  cultural DNA behind Dilraba's Ghost King.
+  Ang Love Beyond the Grave ay nagpatuloy sa tradisyong pampanitikan na mas
+  matanda pa kay Shakespeare. Mula sa mga kwento ni Pu Songling hanggang sa A
+  Chinese Ghost Story — narito ang tunay na kultural na DNA sa likod ng Ghost
+  King ni Dilraba.
 originalSlug: love-beyond-the-grave-ghost-romance-tradition-liaozhai
 ---
 Noong 1766, isang nabigong tagasuri ng civil service na si Pu Songling (蒲松龄) ay naglathala ng *Strange Tales from a Chinese Studio* (聊斋志异) — higit sa 500 supernatural na kwento na permanente nang pinagsama ang pag-ibig at kamatayan sa imahinasyong pampanitikan ng Tsina. Dalawang daan at animnapung taon mamaya, ang *Love Beyond the Grave* (白日提灯) ay nagbukas sa Tencent Video na may 6.745 milyong reserbasyon, ang pinakamataas para sa anumang drama ng Tsina sa 2026, at 23,552 sa heat index sa loob ng unang oras. Ang mga manonood ay hindi lamang dumating para kay Dilraba at Arthur Chen. Dumating sila para sa isang genre na nagbabalik-tanaw sa mga ideya ng Tsina tungkol sa pag-ibig, mortalidad, at mga hangganan ng sarili sa loob ng mga siglo.

@@ -1,5 +1,5 @@
 ---
-title: 10 Chinese Idioms Every Pursuit of Jade (逐玉) Fan Should Know
+title: 10 Chengyu na Dapat Malaman ng Bawat Tagahanga ng Pursuit of Jade (逐玉)
 date: '2026-03-20'
 characters: ''
 pinyin: ''
@@ -7,9 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Discover the Chinese idioms (chengyu) woven into Pursuit of Jade's story of
-  love, war, and revenge — from Xie Zheng's hidden identity to Fan Changyu's
-  battlefield courage.
+  Tuklasin ang mga chengyu sa kwento ng pag-ibig, digmaan, at paghihiganti sa
+  Pursuit of Jade — mula sa lihim ni Xie Zheng hanggang sa tapang ni Fan
+  Changyu.
 originalSlug: pursuit-of-jade-chinese-idioms-every-fan-should-know
 ---
 If you've been watching **Pursuit of Jade (逐玉)** — the 2026 C-drama that shattered records with a 55.1% daily market share and overtook *Joy of Life 2* — you've already been immersed in a world rich with classical Chinese storytelling. Zhang Linghe at Tian Xiwei's portrayal of a fallen Marquis and a butcher's daughter navigating love, war, and political intrigue draws on centuries of literary tradition.

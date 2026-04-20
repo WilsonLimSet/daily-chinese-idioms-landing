@@ -1,5 +1,5 @@
 ---
-title: 'Pursuit of Jade (逐玉): Famous Quotes Explained in Chinese and English'
+title: 'Pursuit of Jade (逐玉): Citas Famosas Explicadas en Chino e Inglés'
 date: '2026-03-22'
 characters: ''
 pinyin: ''
@@ -7,9 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Break down the most viral quotes from Pursuit of Jade — from Fan Changyu's
-  iconic butcher lines to Xie Zheng's battlefield vows. Chinese text, pinyin,
-  and cultural context.
+  Desglosa las citas virales de Pursuit of Jade, desde las líneas icónicas de
+  Fan Changyu hasta los votos de Xie Zheng. Texto chino, pinyin y contexto
+  cultural.
 originalSlug: pursuit-of-jade-famous-quotes-chinese-explained
 ---
 **Pursuit of Jade (逐玉)** no solo rompió récords de audiencia, sino que también rompió internet. Las líneas del drama se volvieron virales en Douyin, TikTok y Weibo dentro de los días posteriores al estreno en marzo de 2026. Pero para los que no hablan chino, las capas culturales en estas citas pueden ser fáciles de pasar por alto.

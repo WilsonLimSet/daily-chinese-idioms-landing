@@ -1,7 +1,7 @@
 ---
 title: >-
-  Learn Chinese Watching The Heir (祯娘传): Ink-Making Vocabulary, Ming Dynasty
-  Terms, and Essential Idioms
+  Matutong Mag-Chinese sa Panonood ng The Heir (祯娘传): Bokabularyo ng Paggawa ng
+  Tinta
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  The Heir (祯娘传) is packed with Ming Dynasty vocabulary you won't find in
-  textbooks — 徽墨, 贡墨, 炼烟, 文房四宝. Here's your complete guide to the Chinese words
-  and idioms behind the drama.
+  Ang The Heir (祯娘传) ay puno ng bokabularyo ng Dinastiyang Ming — 徽墨, 贡墨, 炼烟,
+  文房四宝. Narito ang iyong kumpletong gabay sa mga salitang Tsino at idyoma sa
+  drama.
 ---
 Standard Mandarin textbooks will teach you how to order food, ask for directions, and discuss the weather. They will not teach you the word for "refining soot from burning tung oil in a sealed chamber" (炼烟) or "the tribute ink sent to the Jiajing Emperor's court" (贡墨). *The Heir* (祯娘传) will.
 

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Confucians, Daoists & Buddhists: The Cultivation Systems of Guardians of the
-  Dafeng (大奉打更人) Explained
+title: 'Confucians, Daoists & Buddhists: Ang Mga Sistema ng Guardians of the Dafeng'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,10 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  In Guardians of the Dafeng, Confucian scholars can make 'words become law,'
-  Daoists form golden cores, and Buddhist monks achieve diamond bodies. Here's
-  how each system connects to real Chinese philosophy.
+  Sa Guardians of the Dafeng, ang mga Confucian ay nagiging batas ang salita,
+  ang mga Daoist ay bumubuo ng golden cores, at ang mga Buddhist ay nakakamit
+  ang diamond bodies. Narito kung paano konektado ang bawat sistema sa tunay na
+  pilosopiyang Tsino.
 originalSlug: guardians-of-dafeng-cultivation-system-confucian-daoist-buddhist
 ---
 **Guardians of the Dafeng (大奉打更人)** ay hindi lamang nanghihiram ng pilosopiyang Tsino para sa lasa — ito ay bumubuo ng buong sistema ng kapangyarihan mula sa aktwal na balangkas ng Confucianism, Daoism, at Buddhism. Ang resulta ay isang mundo ng pagsasanay kung saan ang mas malakas na suntok ay nangangailangan ng pag-unawa sa *Analects* (论语), kung saan ang pagbuo ng isang golden core ay nangangahulugang tunay na pag-unawa sa Daoist internal alchemy, at kung saan ang pinaka nakasisirang sandata sa mundo ay isang maayos na nakabuo na pangungusap.

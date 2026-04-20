@@ -1,7 +1,7 @@
 ---
 title: >-
-  Confucians, Daoists & Buddhists: The Cultivation Systems of Guardians of the
-  Dafeng (大奉打更人) Explained
+  Confucéens, Taoïstes & Bouddhistes : Les Systèmes de Cultivation de Guardians
+  of the Dafeng (大奉打更人) Expliqués
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +9,10 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  In Guardians of the Dafeng, Confucian scholars can make 'words become law,'
-  Daoists form golden cores, and Buddhist monks achieve diamond bodies. Here's
-  how each system connects to real Chinese philosophy.
+  Dans Guardians of the Dafeng, les érudits confucéens font des 'mots une loi',
+  les taoïstes forment des noyaux dorés, et les moines bouddhistes atteignent
+  des corps de diamant. Voici comment chaque système se relie à la philosophie
+  chinoise réelle.
 originalSlug: guardians-of-dafeng-cultivation-system-confucian-daoist-buddhist
 ---
 **Guardians of the Dafeng (大奉打更人)** ne se contente pas d'emprunter la philosophie chinoise pour l'ambiance — elle construit des systèmes de pouvoir entiers à partir des véritables cadres du confucianisme, du taoïsme et du bouddhisme. Le résultat est un monde de cultivation où frapper plus fort nécessite de comprendre les *Analects* (论语), où former un noyau doré signifie saisir véritablement l'alchimie interne taoïste, et où l'arme la plus dévastatrice qui existe est une phrase bien construite.

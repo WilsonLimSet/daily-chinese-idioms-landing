@@ -1,7 +1,5 @@
 ---
-title: >-
-  Ang Tunay na Kasaysayan sa Likod ng Pursuit of Jade (逐玉): Matrilocal na Kasal,
-  Mga Purga sa Militar, at mga Babaeng Mandirigma
+title: 'Tunay na Kwento ng Pursuit of Jade (逐玉): Aling Dinastiya?'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
@@ -9,10 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Ang Pursuit of Jade ay nakatakbo sa isang kathang-isip na dinastiya, ngunit
-  ang mga tema nito ay nakaugat sa tunay na kasaysayan ng Tsina — mula sa 入赘
-  matrilocal na kasal hanggang sa mga purga sa militar at mga kababaihan sa
-  larangan ng digmaan.
+  Ang Pursuit of Jade ay sumasalamin sa kasaysayan ng Tsina: matrilocal na
+  kasal, purga sa militar, at mga babaeng mandirigma sa isang kathang-isip na
+  dinastiya.
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)** ay nakatakbo sa kathang-isip na Dinastiyang Dayin, at ang mga pangunahing tauhan nito — si Fan Changyu, anak ng butcher, at si Xie Zheng, ang nahulog na Marquis — ay ganap na imbento. Ngunit ang mga manunulat ng drama ay hindi nagsimula sa wala. Halos bawat pangunahing elemento ng kwento ay nakaugat sa tunay na mga kasanayan sa kasaysayan ng Tsina, mga estruktura ng lipunan, at mga pattern ng politika.

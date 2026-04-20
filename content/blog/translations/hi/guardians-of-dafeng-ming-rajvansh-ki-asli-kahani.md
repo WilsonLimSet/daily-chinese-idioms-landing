@@ -1,7 +1,5 @@
 ---
-title: >-
-  The Real History Behind Guardians of the Dafeng (大奉打更人): Night Watchmen, Ming
-  Dynasty Spies & the Daoist Emperor
+title: '大奉打更人 के पीछे की असली कहानी: नाइट वॉचमेन, मिंग जासूस और दाओ सम्राट'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Guardians of the Dafeng (大奉打更人) draws from real Chinese history — Ming Dynasty
-  secret police, the five-watch night system, and an emperor who ruled through
-  Daoism. Here's what's real and what's fiction.
+  Guardians of the Dafeng (大奉打更人) असली चीनी इतिहास से प्रेरित है — मिंग राजवंश
+  की गुप्त पुलिस, पांच-घड़ी रात प्रणाली, और दाओवाद के माध्यम से शासन करने वाला
+  सम्राट।
 originalSlug: guardians-of-dafeng-real-history-night-watchmen
 ---
 **Guardians of the Dafeng (大奉打更人)** दिसंबर 2024 में CCTV-8 और Tencent Video पर रिलीज़ हुआ और तुरंत ही इस सीज़न के सबसे उच्च रेटिंग वाले C-ड्रामा में से एक बन गया। डायलन वांग ने शु क्यूआन का किरदार निभाया, जो एक आधुनिक आदमी है जो काल्पनिक दा फेंग राजवंश में एक निम्न श्रेणी के कांस्टेबल के रूप में पुनर्जन्म लेता है, जो नाइटवॉचमेन के माध्यम से ऊपर उठता है — एक गुप्त संगठन जो भ्रष्टाचार की निगरानी करता है, अलौकिक अपराधों की जांच करता है, और सीधे सम्राट को रिपोर्ट करता है।

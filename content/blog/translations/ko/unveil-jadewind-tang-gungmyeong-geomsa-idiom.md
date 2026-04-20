@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching Unveil Jadewind (唐宫奇案): Tang Dynasty Vocabulary, Court
-  Titles, and Detective Idioms
+title: 드라마 Unveil Jadewind (唐宫奇案)로 배우는 당나라 어휘와 탐정 관용구
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Court titles, Tang geography, festival vocabulary, and investigation terms —
-  learn real Chinese by watching Unveil Jadewind, with pinyin, context, and
-  usage notes for every word.
+  궁중 직책, 당나라 지리, 축제 어휘, 수사 용어 — Unveil Jadewind를 통해 실전 중국어를 배우세요. 각 단어에 대한 병음,
+  맥락, 사용 노트 포함.
 originalSlug: unveil-jadewind-learn-chinese-tang-dynasty-vocabulary
 ---
 *Unveil Jadewind (唐宫奇案之青雾风鸣)*은 중국어 학습에 매우 유용합니다. 그 이유는 이 드라마의 어휘가 일반적인 시대극의 채우기 용어가 아니라, 중국 역사, 문학 및 다른 C-드라마에서 다시 만날 수 있는 실제 당나라 제도에 특화되어 있기 때문입니다. 궁중 직책은 정확하고, 지명은 실제 장소와 일치합니다. 수사 용어는 천 년 동안 중국 정부를 형성한 법적 전통에서 유래되었습니다.

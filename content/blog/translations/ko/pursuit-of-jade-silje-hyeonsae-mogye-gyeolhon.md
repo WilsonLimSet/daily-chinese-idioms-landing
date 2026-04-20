@@ -1,14 +1,12 @@
 ---
-title: 'Pursuit of Jade (逐玉)의 실제 역사: 모계 결혼, 군사 숙청, 그리고 여성 전사들'
+title: 'Pursuit of Jade 실화: 逐玉의 역사적 배경과 여성 전사들'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  Pursuit of Jade는 허구의 왕조를 배경으로 하지만, 그 주제는 실제 중국 역사에 뿌리를 두고 있습니다 — 入赘 모계 결혼에서 군사
-  숙청, 전장에서의 여성들까지.
+description: 'Pursuit of Jade는 실화에 기반한 중국 역사 속 모계 결혼, 군사 숙청, 여성 전사들의 시대를 배경으로 합니다.'
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)**는 허구의 대인 왕조를 배경으로 하고 있으며, 그 주인공인 정육점 주인의 딸 팬 창위와 몰락한 후작 셰 정은 완전히 창작된 인물입니다. 그러나 드라마의 작가들은 무에서 시작하지 않았습니다. 거의 모든 주요 줄거리 요소는 실제 중국 역사적 관습, 사회 구조 및 정치적 패턴에 기반하고 있습니다.

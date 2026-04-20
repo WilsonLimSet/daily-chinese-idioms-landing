@@ -1,7 +1,5 @@
 ---
-title: >-
-  Lịch Sử Thực Sự Đằng Sau Pursuit of Jade (逐玉): Hôn Nhân Nhập Trạch, Cuộc Tẩy
-  Chay Quân Đội, và Những Nữ Chiến Binh
+title: 'Lịch Sử Thật Đằng Sau Pursuit of Jade (逐玉): Triều Đại Nào?'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Pursuit of Jade được đặt trong một triều đại hư cấu, nhưng các chủ đề của nó
-  có nguồn gốc từ lịch sử Trung Quốc thực sự — từ hôn nhân nhập trạch (入赘) đến
-  cuộc tẩy chay quân đội và phụ nữ trên chiến trường.
+  Pursuit of Jade dựa trên lịch sử Trung Quốc: hôn nhân nhập trạch, tẩy chay
+  quân đội, nữ chiến binh thời cổ.
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)** được đặt trong triều đại hư cấu Đại Ấn, và các nhân vật chính của nó — Fan Changyu, con gái của người bán thịt, và Xie Zheng, một hầu tước sa cơ — hoàn toàn là hư cấu. Nhưng các nhà viết kịch của bộ phim không xây dựng từ con số không. Gần như mọi yếu tố cốt truyện chính đều dựa trên các thực hành lịch sử Trung Quốc thực sự, cấu trúc xã hội và mô hình chính trị.

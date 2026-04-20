@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every The Heir (祯娘传) Fan Should Know: Ink, Ambition, and
-  Ming Dynasty Craft
+title: 'The Heir (祯娘传) 팬이 알아야 할 10가지 중국어 성어: 먹, 야망, 명나라 공예'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
 description: >-
-  Yang Zi stars as a woman who defies Ming Dynasty tradition to master
-  ink-making in The Heir (祯娘传). These 10 idioms capture every step of her
-  journey from fallen daughter to master artisan.
+  양자 (杨紫)는 The Heir (祯娘传)에서 명나라 전통을 거스르고 먹 만들기를 마스터하는 여성을 연기합니다. 이 10가지 성어는 그녀의
+  여정을 담고 있습니다.
 ---
 **The Heir (祯娘传)**는 어떤 C-드라마도 해본 적 없는 일을 하고 있습니다: 40부작 역사 로맨스의 중심에 먹 만들기를 두고 있습니다. 양자 (杨紫)는 리젠 (李祯) 역할을 맡아, 한때 명망 있던 회주 먹 가문의 최하위 지위인 리 가족의 여덟 번째 지부의 막내딸로 등장합니다 — 조세 먹 스캔들 (贡墨案)로 인해 몰락한 가문입니다. 한동준 (韩东君)은 라이벌인 로 가족의 둘째 아들인 로우엔치안 (骆文谦) 역할을 맡아, 자신의 복구 계획이 리젠의 상승과 충돌하게 됩니다. *Story of Yanxi Palace* (延禧攻略)의 감독인 후이 카이둥 (惠楷栋)이 연출한 이 드라마는 실제 안후이 성의 홍촌 (宏村), 시디 (西递), 청칸 (呈坎) 회주 스타일 마을에서 촬영되었으며, 양자는 촬영 시작 전 3개월 동안 실제 먹 만들기 기술을 훈련했습니다.
 

@@ -1,7 +1,7 @@
 ---
 title: >-
-  From Butcher's Daughter to General: The Chinese Idioms Behind Fan Changyu's
-  Finale Arc in Pursuit of Jade (逐玉)
+  จากลูกสาวคนขายเนื้อสู่แม่ทัพ: สำนวนจีนในบทสรุปของ Fan Changyu ใน Pursuit of
+  Jade (逐玉)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
 description: >-
-  Fan Changyu kills the villain with her father's butcher knife and earns the
-  title General Huaihua. Here are the Chinese idioms that capture her
-  transformation across 40 episodes of Pursuit of Jade.
+  Fan Changyu ฆ่าตัวร้ายด้วยมีดเชือดของพ่อและได้รับตำแหน่ง General Huaihua
+  นี่คือสำนวนจีนที่บอกเล่าการเปลี่ยนแปลงของเธอใน 40 ตอนของ Pursuit of Jade
 originalSlug: pursuit-of-jade-fan-changyu-finale-butcher-to-general
 ---
 **คำเตือน: สปอยล์ทั้งหมดสำหรับ Pursuit of Jade (逐玉) ตอนที่ 30-40**

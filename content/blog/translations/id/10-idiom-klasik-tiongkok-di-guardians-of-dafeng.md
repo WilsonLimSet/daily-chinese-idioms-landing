@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms & Classical Quotes in Guardians of the Dafeng (大奉打更人) Every
-  Fan Should Know
+title: 10 Idiom & Kutipan Klasik Tiongkok di Guardians of the Dafeng
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Dari empat kalimat terkenal Zhang Zai hingga permainan kata-kata lucu Xu Qi'an
-  — 10 referensi klasik Tiongkok yang paling penting dalam Guardians of the
-  Dafeng, dijelaskan dengan pinyin dan konteks.
+  Dari kalimat terkenal Zhang Zai hingga permainan kata Xu Qi'an — 10 referensi
+  klasik Tiongkok penting di Guardians of the Dafeng, dengan pinyin dan konteks.
 originalSlug: guardians-of-dafeng-chinese-idioms-classical-quotes
 ---
 **Guardians of the Dafeng (大奉打更人)** — dikenal oleh pembaca novel sebagai *Dàfèng Dǎgēngrén* — adalah salah satu novel web Tiongkok yang paling dicintai yang pernah ditulis, dan adaptasi dramanya pada tahun 2026 telah membawa campuran liar dari filosofi Konfusianisme, pengembangan seni bela diri, intrik politik, dan komedi tanpa malu kepada audiens baru yang besar. Cerita ini mengikuti Xu Qi'an (许七安), seorang pria modern yang terlahir kembali ke dunia kuno di mana para sarjana Konfusianisme memiliki kekuatan supernatural melalui pengembangan moral, di mana para Buddhis dapat membentuk kembali realitas, dan di mana seorang penjaga malam yang rendah dapat mengutip filsuf Dinasti Song satu saat dan melontarkan lelucon cabul di saat berikutnya.

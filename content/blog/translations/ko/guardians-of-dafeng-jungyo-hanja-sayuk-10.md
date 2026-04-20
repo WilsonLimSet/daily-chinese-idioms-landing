@@ -1,17 +1,12 @@
 ---
-title: >-
-  10 Chinese Idioms & Classical Quotes in Guardians of the Dafeng (大奉打更人) Every
-  Fan Should Know
+title: 팬이라면 알아야 할 대奉打更人 속 10가지 중국 고전 명언
 date: '2026-03-31'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
-description: >-
-  From Zhang Zai's famous four sentences to Xu Qi'an's hilarious idiom wordplay
-  — the 10 most important classical Chinese references in Guardians of the
-  Dafeng, explained with pinyin and context.
+description: '장재의 유명한 네 문장부터 허치안의 유머러스한 관용구까지, 대奉打更人 속 중요한 고전 중국어 참조 10가지를 설명합니다.'
 originalSlug: guardians-of-dafeng-chinese-idioms-classical-quotes
 ---
 **Guardians of the Dafeng (大奉打更人)** — 소설 독자들에게 *Dàfèng Dǎgēngrén*으로 알려진 이 작품은 지금까지 쓰여진 가장 사랑받는 중국 웹 소설 중 하나이며, 2026년 드라마 각색은 유교 철학, 무술 수련, 정치적 음모, 그리고 부끄러움 없는 코미디의 야생적인 혼합을 대규모 새로운 관객에게 선보였습니다. 이야기는 Xu Qi'an (许七安)이라는 현대인이 유교 학자들이 도덕적 수련을 통해 초자연적 힘을 휘두르는 고대 세계로 다시 태어나는 과정을 따릅니다. 불교도들은 현실을 재형성할 수 있으며, 하찮은 야경꾼은 송나라 철학자들을 인용하고 다음 순간에는 외설적인 농담을 할 수 있는 세계입니다.

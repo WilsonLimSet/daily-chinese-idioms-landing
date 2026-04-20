@@ -1,5 +1,5 @@
 ---
-title: 10 Chinese Idioms Every Love Beyond the Grave (白日提灯) Fan Should Know
+title: Love Beyond the Grave (白日提灯) 팬이 알아야 할 10가지 중국어 성어
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -7,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  The C-drama Love Beyond the Grave (白日提灯) stars Dilraba as a 400-year-old Ghost
-  King who can't feel — until she borrows a mortal's senses. These 10 idioms
-  capture every emotion in the drama.
+  C-드라마 Love Beyond the Grave (白日提灯)에서 Dilraba는 400년 된 유령왕으로 출연하며, 이 드라마의 감정을 담은
+  10가지 성어를 소개합니다.
 originalSlug: love-beyond-the-grave-chinese-idioms-every-fan-should-know
 ---
 **Love Beyond the Grave (白日提灯)** — 2026년 판타지 로맨스 드라마로, 6.745백만의 방송 전 예약과 첫 시간에 23,552의 열지수를 기록하며 텐센트 비디오 기록을 깨뜨렸습니다 — 이 드라마가 전형적인 유령 사랑 이야기가 아니라는 것을 이미 알고 계실 것입니다. Dilraba Dilmurat (迪丽热巴)는 400년 된 유령왕 He Simu (贺思慕)를 연기하며, 그녀는 *태어난* 악령이지 죽은 인간이 된 것이 아닙니다. 그녀는 유령 세계를 규율과 절제로 다스리지만, 색깔, 맛, 촉감, 냄새, 음악을 경험한 적이 없습니다. Arthur Chen Feiyu (陈飞宇)는 Duan Xu (段胥) 역할을 맡아, 대량왕국의 젊은 장군으로, 그녀에게 자신의 감각을 빌려줄 수 있는 유일한 사람이 되지만, 자신의 수명을 대가로 치르게 됩니다.

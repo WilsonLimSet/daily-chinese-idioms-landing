@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching Unveil Jadewind (唐宫奇案): Tang Dynasty Vocabulary, Court
-  Titles, and Detective Idioms
+title: Matuto ng Tsino sa Panonood ng Unveil Jadewind (唐宫奇案)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Court titles, Tang geography, festival vocabulary, and investigation terms —
-  learn real Chinese by watching Unveil Jadewind, with pinyin, context, and
-  usage notes for every word.
+  Mga pamagat ng korte, heograpiya ng Tang, bokabularyo ng pista, at mga termino
+  ng imbestigasyon — matuto ng tunay na Tsino sa Unveil Jadewind.
 originalSlug: unveil-jadewind-learn-chinese-tang-dynasty-vocabulary
 ---
 *Unveil Jadewind (唐宫奇案之青雾风鸣)* ay hindi pangkaraniwan na mahusay para sa pag-aaral ng wikang Tsino dahil ang bokabularyo nito ay hindi pangkaraniwang filler ng period-drama — ito ay tiyak sa mga tunay na institusyon ng Dinastiyang Tang na makikita mo muli sa kasaysayan ng Tsina, panitikan, at iba pang C-drama. Ang mga pamagat ng korte ay tumpak. Ang mga pangalan ng lugar ay tumutugma sa mga tunay na lokasyon. Ang terminolohiya ng imbestigasyon ay nagmula sa isang legal na tradisyon na humubog sa pamamahala ng Tsina sa loob ng isang libong taon.

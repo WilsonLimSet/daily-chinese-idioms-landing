@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms & Classical Quotes in Guardians of the Dafeng (大奉打更人) Every
-  Fan Should Know
+title: हर प्रशंसक को जानने योग्य Guardians of the Dafeng के 10 चीनी मुहावरे
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  From Zhang Zai's famous four sentences to Xu Qi'an's hilarious idiom wordplay
-  — the 10 most important classical Chinese references in Guardians of the
-  Dafeng, explained with pinyin and context.
+  Zhang Zai के प्रसिद्ध वाक्य से लेकर Xu Qi'an के मजेदार मुहावरे तक — Guardians
+  of the Dafeng में 10 महत्वपूर्ण चीनी संदर्भ, पिनयिन और संदर्भ के साथ।
 originalSlug: guardians-of-dafeng-chinese-idioms-classical-quotes
 ---
 **Guardians of the Dafeng (大奉打更人)** — उपन्यास पाठकों के लिए *Dàfèng Dǎgēngrén* के रूप में जाना जाता है — यह अब तक लिखी गई सबसे प्रिय चीनी वेब उपन्यासों में से एक है, और इसका 2026 का नाटक रूपांतरण इसकी कन्फ्यूशियस दर्शन, मार्शल आर्ट्स की खेती, राजनीतिक साजिशों और बेधड़क कॉमेडी का एक जंगली मिश्रण एक विशाल नए दर्शकों तक लाया है। कहानी Xu Qi'an (许七安) का अनुसरण करती है, जो एक आधुनिक व्यक्ति है जो एक प्राचीन दुनिया में पुनर्जन्म लेता है जहां कन्फ्यूशियस विद्वान नैतिक खेती के माध्यम से अलौकिक शक्ति का उपयोग करते हैं, जहां बौद्ध वास्तविकता को फिर से आकार दे सकते हैं, और जहां एक निम्न रात के पहरेदार एक पल में सोंग राजवंश के दार्शनिकों का उद्धरण दे सकता है और अगले पल गंदे मजाक कर सकता है।

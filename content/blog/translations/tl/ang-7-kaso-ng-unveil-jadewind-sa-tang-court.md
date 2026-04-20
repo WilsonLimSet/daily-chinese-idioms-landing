@@ -1,7 +1,7 @@
 ---
 title: >-
-  The 7 Horrors of the Tang Court: Every Case in Unveil Jadewind (唐宫奇案)
-  Explained Through Chinese Idioms
+  Ang 7 Kababalaghan ng Tang Court: Bawat Kaso sa Unveil Jadewind (唐宫奇案)
+  Ipinaliwanag sa Pamamagitan ng mga Sawikain
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Demonic fire. Bleeding walls. Skeleton brides. Fabricated stars. Each of
-  Unveil Jadewind's 7 cases hides a devastating truth about power and injustice
-  in the Tang court.
+  Apoy ng demonyo. Dumudugong pader. Skeleton na mga nobya. Pekeng mga bituin.
+  Ang bawat kaso sa Unveil Jadewind ay nagtatago ng mapaminsalang katotohanan
+  tungkol sa kapangyarihan at kawalang-katarungan sa Tang court.
 originalSlug: unveil-jadewind-7-cases-explained-chinese-idioms
 ---
 Bawat kaso sa *Unveil Jadewind (唐宫奇案之青雾风鸣)* ay sumusunod sa parehong estruktural na lohika: may nangyayaring imposibleng bagay, ang korte ay naguguluhan tungkol sa mga demonyo at mga palatandaan, at pagkatapos ay sina Li Peiyi (李佩仪, Bai Lu) at Xiao Huaijin (萧怀瑾, Wang Xingyue) ay nag-aalis ng supernatural na balot upang makahanap ng mas masahol pa — ang kalupitan ng tao na may political backing. Sa 34 na episode at pitong magkakaugnay na kaso, ang takot ay tumataas mula sa indibidwal na pagpatay hanggang sa sistematikong sabwatan, lahat ay nagbabalik sa Right Chancellor Cui Minzhong (崔悯忠) at ang pagpatay sa sambahayan ni Prince Duan labinlimang taon na ang nakalipas.

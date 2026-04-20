@@ -1,7 +1,5 @@
 ---
-title: >-
-  Bakit Ito Tinawag na 'Pursuit of Jade'? Ang Malalim na Simbolismo ng 玉 sa
-  Kultura ng Tsina
+title: Ano ang Kahulugan ng 'Pursuit of Jade (逐玉)' sa Kultura ng Tsina?
 date: '2026-03-18'
 characters: ''
 pinyin: ''
@@ -9,10 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Ang jade ay hindi lamang isang batong hiyas sa Tsina — ito ay kumakatawan sa
-  kabutihan, karakter, at moral na kasakdalan. Tuklasin kung ano ang ibig
-  sabihin ng 玉 sa mga idyoma ng Tsino at kung bakit ito sentro sa hit na drama
-  na Pursuit of Jade (逐玉).
+  Ang 'Pursuit of Jade (逐玉)' ay sumasalamin sa jade bilang simbolo ng kabutihan
+  at moralidad sa kulturang Tsino, kaya't ito ang pamagat ng drama.
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 Kapag narinig ng mga Kanlurang tagapanood ang "jade," iniisip nila ang isang berdeng batong hiyas na ginagamit sa alahas. Kapag narinig ng mga Tsino ang 玉 (yù), naririnig nila ang 5,000 taon ng pilosopiya, moralidad, at pagkakakilanlan sa kultura. Ang pag-unawa sa pagkakaibang ito ay susi sa pag-unawa kung bakit ang hit na drama noong 2026 ay tinawag na **Pursuit of Jade (逐玉)** — at kung ano talaga ang hinahabol ng mga tauhan nito.

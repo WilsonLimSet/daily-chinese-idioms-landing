@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms & Classical Quotes in Guardians of the Dafeng (大奉打更人) Every
-  Fan Should Know
+title: 10 Chengyu at Klasikong Sipi sa Guardians of the Dafeng
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  From Zhang Zai's famous four sentences to Xu Qi'an's hilarious idiom wordplay
-  — the 10 most important classical Chinese references in Guardians of the
-  Dafeng, explained with pinyin and context.
+  Mula sa sikat na apat na pangungusap ni Zhang Zai hanggang sa nakakatawang
+  salita ni Xu Qi'an — 10 mahahalagang sanggunian sa Guardians of the Dafeng.
 originalSlug: guardians-of-dafeng-chinese-idioms-classical-quotes
 ---
 **Guardians of the Dafeng (大奉打更人)** — kilala sa mga mambabasa ng nobela bilang *Dàfèng Dǎgēngrén* — ay isa sa mga pinakapaboritong web novel sa Tsina na naisulat, at ang drama adaptation nito noong 2026 ay nagdala ng kakaibang halo ng pilosopiyang Confucian, pagsasanay sa martial arts, intriga sa politika, at walang hiya na komedya sa isang napakalaking bagong madla. Ang kwento ay sumusunod kay Xu Qi'an (许七安), isang modernong tao na muling isinilang sa isang sinaunang mundo kung saan ang mga iskolar ng Confucian ay may supernatural na kapangyarihan sa pamamagitan ng moral na pagsasanay, kung saan ang mga Buddhist ay maaaring muling hubugin ang realidad, at kung saan ang isang mababang nightwatchman ay maaaring magbanggit ng mga pilosopo ng Dinastiyang Song sa isang sandali at magbiro ng mga bastos na biro sa susunod.

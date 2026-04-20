@@ -1,7 +1,7 @@
 ---
 title: >-
-  From Judge Dee to Li Peiyi: Unveil Jadewind and the 1,000-Year Tradition of
-  Chinese Detective Fiction
+  Mula kay Judge Dee hanggang Li Peiyi: Tuklasin ang Jadewind at 1,000 Taon ng
+  Tradisyon ng Chinese Detective Fiction
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,10 +9,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Chinese detective fiction is older than Sherlock Holmes by 800 years. From
-  Judge Bao's incorruptible court to Di Renjie's Tang investigations to Li
-  Peiyi's sword — how Unveil Jadewind subverts a millennium of gong'an
-  tradition.
+  Mas matanda ng 800 taon ang Chinese detective fiction kaysa kay Sherlock
+  Holmes. Paano binabago ng Unveil Jadewind ang milenyo ng tradisyon ng gong'an.
 originalSlug: unveil-jadewind-judge-dee-chinese-detective-fiction-gongan
 ---
 Chinese detective fiction ay hindi nagsimula kay Sherlock Holmes. Hindi ito kinakailangan. Sa oras na inilathala ni Arthur Conan Doyle ang *A Study in Scarlet* noong 1887, ang genre ng 公案 (gong'an) ay umuunlad na sa loob ng mahigit 800 taon — at *Unveil Jadewind (唐宫奇案之青雾风鸣)* ay alam na alam kung saan ito nakaupo sa linya ng tradisyon. Ang 34-episode na drama ni Director Yin Tao ay hindi lamang nagmana ng tradisyon. Sinisira nito ito sa dalawang tiyak na paraan na walang naunang gong'an adaptation ang nagtangkang gawin nang sabay-sabay: isang babaeng pangunahing imbestigador, at isang sistema ng katarungan na nabigo.

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Pourquoi s'appelle-t-il 'Poursuite de Jade' ? Le profond symbolisme de 玉 dans
-  la culture chinoise
+title: 'Signification de ''Pursuit of Jade (逐玉)'' : Symbolisme du jade'
 date: '2026-03-18'
 characters: ''
 pinyin: ''
@@ -9,10 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Le jade n'est pas qu'une pierre précieuse en Chine — il représente la vertu,
-  le caractère et la perfection morale. Explorez ce que 玉 signifie dans les
-  idiomes chinois et pourquoi il est central à la série à succès Poursuite de
-  Jade (逐玉).
+  Le jade symbolise la vertu et la perfection en Chine, central dans 'Pursuit of
+  Jade (逐玉)'. Découvrez son rôle culturel et philosophique.
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 Lorsque les publics occidentaux entendent « jade », ils pensent à une pierre précieuse verte utilisée dans les bijoux. Lorsque les publics chinois entendent 玉 (yù), ils entendent 5 000 ans de philosophie, de moralité et d'identité culturelle. Comprendre cette différence est la clé pour comprendre pourquoi le drame à succès de 2026 s'appelle **Poursuite de Jade (逐玉)** — et ce que ses personnages poursuivent réellement.

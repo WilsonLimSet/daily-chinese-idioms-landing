@@ -1,5 +1,5 @@
 ---
-title: 10 Chinese Idioms Every Love Beyond the Grave (白日提灯) Fan Should Know
+title: 10 สำนวนจีนที่แฟน Love Beyond the Grave (白日提灯) ควรรู้
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -7,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  The C-drama Love Beyond the Grave (白日提灯) stars Dilraba as a 400-year-old Ghost
-  King who can't feel — until she borrows a mortal's senses. These 10 idioms
-  capture every emotion in the drama.
+  ซีรีส์ Love Beyond the Grave (白日提灯) นำแสดงโดยดิลราบาเป็นราชาผี 400
+  ปีที่ไม่รู้สึก จนยืมสัมผัสจากมนุษย์ สำนวนเหล่านี้สะท้อนอารมณ์ในเรื่อง
 originalSlug: love-beyond-the-grave-chinese-idioms-every-fan-should-know
 ---
 ถ้าคุณได้ดู **Love Beyond the Grave (白日提灯)** — โรแมนติกแฟนตาซีในปี 2026 ที่ทำลายสถิติ Tencent Video ด้วยการจองล่วงหน้า 6.745 ล้านครั้งและดัชนีความร้อน 23,552 ภายในชั่วโมงแรก — คุณก็คงรู้แล้วว่านี่ไม่ใช่เรื่องราวความรักของผีแบบทั่วไป ดิลราบา ดิลมูรัต (迪丽热巴) รับบทเป็น เฮอซิหมู่ (贺思慕) ราชาผีอายุ 400 ปีที่ *เกิด* มาเป็นผีชั่วร้าย ไม่ใช่มนุษย์ที่ตายแล้วและกลายเป็นผี เธอปกครองอาณาจักรผีด้วยวินัยและการควบคุม แต่เธอไม่เคยสัมผัสสีสัน รสชาติ สัมผัส กลิ่น หรือเสียงเพลง อาร์เธอร์ เฉินเฟยหยู่ (陈飞宇) รับบทเป็น ต้วนซู (段胥) นายพลหนุ่มของอาณาจักรใหญ่เลี่ยงที่ไม่รู้ตัวว่าเขาเป็นคนเดียวที่สามารถให้ประสาทสัมผัสกับเธอได้ — โดยต้องแลกกับอายุขัยของเขาเอง

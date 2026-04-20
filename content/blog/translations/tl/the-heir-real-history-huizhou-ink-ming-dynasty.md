@@ -1,7 +1,7 @@
 ---
 title: >-
-  The Real History of Huizhou Ink (徽墨): Why The Heir's (祯娘传) Ming Dynasty
-  Setting Matters
+  Ang Tunay na Kasaysayan ng Huizhou Ink (徽墨): Bakit Mahalaga ang Setting ng
+  Ming Dynasty sa The Heir (祯娘传)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  From Li Tinggui's Tang Dynasty workshop to the Cheng vs Fang rivalry that
-  produced masterpieces of woodblock printing — the real ink dynasties behind
-  The Heir (祯娘传), and the 36-step process Yang Zi spent three months learning.
+  Mula sa workshop ni Li Tinggui noong Tang Dynasty hanggang sa tunggalian ng
+  Cheng vs Fang — ang mga tunay na dinastiya ng tinta sa likod ng The Heir (祯娘传)
+  at ang 36-hakbang na proseso na natutunan ni Yang Zi sa loob ng tatlong buwan.
 ---
 Karamihan sa mga makasaysayang C-drama ay gumagamit ng kanilang setting bilang wallpaper. *The Heir* (祯娘传) ay hindi. Pinili ng direktor na si Hui Kaidong (惠楷栋) — ang tao sa likod ng *Story of Yanxi Palace* — ang panahon ng Jiajing (嘉靖, 1522-1566) ng Dinastiyang Ming at ang mga workshop ng tinta sa Huizhou (徽州) sa Lalawigan ng Anhui para sa isang dahilan: ito ang sandali kung kailan ang paggawa ng tinta ay tumigil na maging isang sining at naging isang industriya, isang anyo ng sining, at isang pampulitikang sandata nang sabay-sabay.
 

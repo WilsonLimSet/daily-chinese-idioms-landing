@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching The Heir (祯娘传): Ink-Making Vocabulary, Ming Dynasty
-  Terms, and Essential Idioms
+title: 'The Heir (祯娘传) देखकर चीनी सीखें: स्याही शब्दावली और मुहावरे'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  The Heir (祯娘传) is packed with Ming Dynasty vocabulary you won't find in
-  textbooks — 徽墨, 贡墨, 炼烟, 文房四宝. Here's your complete guide to the Chinese words
-  and idioms behind the drama.
+  The Heir (祯娘传) में मिंग राजवंश की शब्दावली है — 徽墨, 贡墨, 炼烟, 文房四宝। नाटक के
+  शब्दों और मुहावरों की पूरी गाइड यहां है।
 ---
 मानक मंदारिन पाठ्यपुस्तकें आपको खाना ऑर्डर करना, दिशा पूछना और मौसम पर चर्चा करना सिखाएंगी। वे "सील किए गए कक्ष में जलते हुए तुंग तेल से कालिख को परिष्कृत करना" (炼烟) या "जियाजिंग सम्राट के दरबार में भेजा गया श्रद्धांजलि स्याही" (贡墨) का शब्द नहीं सिखाएंगी। *The Heir* (祯娘传) आपको यह सब सिखाएगा।
 

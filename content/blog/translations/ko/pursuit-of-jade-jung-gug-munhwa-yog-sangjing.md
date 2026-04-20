@@ -1,14 +1,12 @@
 ---
-title: 왜 'Pursuit of Jade'라고 불리나요? 중국 문화에서 玉의 깊은 상징성
+title: 'Pursuit of Jade 뜻: 逐玉의 의미와 중국 옥의 상징성'
 date: '2026-03-18'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  옥은 중국에서 단순한 보석이 아닙니다 — 그것은 미덕, 인격, 도덕적 완벽함을 나타냅니다. 중국 관용구에서 玉이 의미하는 바와 그것이 인기
-  드라마 Pursuit of Jade (逐玉)에서 중심적인 이유를 탐구해 보세요.
+description: Pursuit of Jade (逐玉)는 중국에서 옥의 미덕과 도덕적 완벽함을 상징합니다. 드라마 제목의 깊은 의미를 알아보세요.
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 서양 관객들이 "옥"이라고 들으면, 그들은 보석에 사용되는 녹색 보석을 떠올립니다. 중국 관객들이 玉 (yù)이라고 들으면, 그들은 5,000년의 철학, 도덕, 문화적 정체성을 듣습니다. 이 차이를 이해하는 것이 2026년 인기 드라마가 **Pursuit of Jade (逐玉)**라고 불리는 이유와 그 캐릭터들이 실제로 무엇을 쫓고 있는지를 이해하는 열쇠입니다.

@@ -1,15 +1,12 @@
 ---
-title: 10 Chinese Idioms Every Pursuit of Jade (逐玉) Fan Should Know
+title: Pursuit of Jade (逐玉) ファンが知るべき10の中国成語
 date: '2026-03-20'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
-description: >-
-  Discover the Chinese idioms (chengyu) woven into Pursuit of Jade's story of
-  love, war, and revenge — from Xie Zheng's hidden identity to Fan Changyu's
-  battlefield courage.
+description: 謝政の隠された正体から范昌宇の戦場での勇気まで、愛と戦争、復讐の物語に織り込まれた成語を発見しよう。
 originalSlug: pursuit-of-jade-chinese-idioms-every-fan-should-know
 ---
 もしあなたが**Pursuit of Jade (逐玉)**を見ているなら — 2026年のCドラマで、55.1%のデイリーマーケットシェアを記録し、*Joy of Life 2*を超えた作品 — あなたはすでに古典的な中国の物語に満ちた世界に浸っています。張凌赫と天希瑋の演じる堕落した侯爵と肉屋の娘が愛、戦争、政治的陰謀を乗り越える姿は、何世紀にもわたる文学の伝統に基づいています。

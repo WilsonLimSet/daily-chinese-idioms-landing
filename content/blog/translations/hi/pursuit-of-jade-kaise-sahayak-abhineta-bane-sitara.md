@@ -1,7 +1,5 @@
 ---
-title: >-
-  How Pursuit of Jade Made Supporting Actors Into Stars: The Chinese Concept of
-  配角逆袭
+title: 'कैसे Pursuit of Jade ने सहायक अभिनेताओं को बनाया सितारे: 配角逆袭'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
 description: >-
-  Lin Muran gained 1.4 million followers from one scene. Kong Xueer trended
-  nationally. Deng Kai's villain reveal stunned everyone. How Pursuit of Jade
-  created the rarest C-drama phenomenon: 配角逆袭.
+  Lin Muran ने एक दृश्य से 1.4 मिलियन फॉलोअर्स पाए। Kong Xueer राष्ट्रीय स्तर पर
+  ट्रेंड हुईं। Deng Kai के खलनायक खुलासे ने सबको चौंका दिया।
 originalSlug: pursuit-of-jade-supporting-actors-stars-pei-jue-ni-xi
 ---
 C-ड्रामा उद्योग में, मुख्य भूमिकाओं को मार्केटिंग बजट, पत्रिका के कवर और फैन युद्ध मिलते हैं। सहायक अभिनेता को एक वेतन मिलता है और, अगर वे भाग्यशाली हैं, तो एक ट्रेंडिंग हैशटैग जो एक दोपहर तक चलता है। **Pursuit of Jade (逐玉)** ने इस पैटर्न को इतनी गहराई से तोड़ा कि मनोरंजन पत्रकारों ने जो हुआ उसके लिए एक विशेष शब्द का उपयोग करना शुरू कर दिया: **配角逆袭** (pèi jué nì xí) — "सहायक पात्रों की प्रतिक्रमण।"

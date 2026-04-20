@@ -1,7 +1,5 @@
 ---
-title: >-
-  Sejarah Nyata di Balik Pursuit of Jade (逐玉): Pernikahan Matrilokal,
-  Pembersihan Militer, dan Pejuang Wanita
+title: 'Pursuit of Jade Kisah Nyata: Dinasti, Sejarah, dan Budaya'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Pursuit of Jade berlatar di sebuah dinasti fiksi, tetapi temanya berakar pada
-  sejarah nyata Tiongkok — dari 入赘 pernikahan matrilokal hingga pembersihan
-  militer dan wanita di medan perang.
+  Pursuit of Jade (逐玉) terinspirasi sejarah nyata: dinasti fiksi, pernikahan
+  matrilokal, pembersihan militer, dan pejuang wanita Tiongkok.
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)** berlatar di Dinasti Dayin yang fiksi, dan protagonisnya — Fan Changyu, putri tukang daging, dan Xie Zheng, Marquis yang jatuh — sepenuhnya diciptakan. Namun, para penulis drama ini tidak membangun dari ketiadaan. Hampir setiap elemen plot utama berakar pada praktik sejarah Tiongkok yang nyata, struktur sosial, dan pola politik.

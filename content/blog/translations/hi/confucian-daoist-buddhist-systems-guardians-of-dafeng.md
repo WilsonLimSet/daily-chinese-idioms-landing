@@ -1,7 +1,5 @@
 ---
-title: >-
-  Confucians, Daoists & Buddhists: The Cultivation Systems of Guardians of the
-  Dafeng (大奉打更人) Explained
+title: 'कन्फ्यूशियंस, ताओइस्ट्स और बौद्ध: Guardians of the Dafeng की साधना प्रणालियाँ'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  In Guardians of the Dafeng, Confucian scholars can make 'words become law,'
-  Daoists form golden cores, and Buddhist monks achieve diamond bodies. Here's
-  how each system connects to real Chinese philosophy.
+  Guardians of the Dafeng में, कन्फ्यूशियन विद्वान 'शब्दों को कानून' बना सकते
+  हैं, ताओइस्ट्स सुनहरे कोर बनाते हैं, और बौद्ध भिक्षु हीरे के शरीर प्राप्त करते
+  हैं।
 originalSlug: guardians-of-dafeng-cultivation-system-confucian-daoist-buddhist
 ---
 **Guardians of the Dafeng (大奉打更人)** केवल चीनी दर्शन को स्वाद के लिए नहीं उधार लेता — यह वास्तव में कन्फ्यूशियानिज़्म, ताओइज़्म और बौद्ध धर्म के ढांचे से पूरे शक्ति प्रणालियों का निर्माण करता है। परिणाम एक साधना की दुनिया है जहाँ अधिक ताकतवर पंच लगाने के लिए *Analects* (论语) को समझना आवश्यक है, जहाँ एक सुनहरा कोर बनाना वास्तव में ताओइज़्म की आंतरिक अल्केमी को समझने का मतलब है, और जहाँ अस्तित्व में सबसे विनाशकारी हथियार एक अच्छी तरह से निर्मित वाक्य है।

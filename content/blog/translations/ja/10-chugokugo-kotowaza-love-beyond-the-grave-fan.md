@@ -1,15 +1,12 @@
 ---
-title: 10 Chinese Idioms Every Love Beyond the Grave (白日提灯) Fan Should Know
+title: Love Beyond the Grave (白日提灯) ファン必見の10の中国語成語
 date: '2026-03-29'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  The C-drama Love Beyond the Grave (白日提灯) stars Dilraba as a 400-year-old Ghost
-  King who can't feel — until she borrows a mortal's senses. These 10 idioms
-  capture every emotion in the drama.
+description: CドラマLove Beyond the Grave (白日提灯)で、ディルラバが400歳の幽霊王を演じる。これらの成語はドラマの感情を捉える。
 originalSlug: love-beyond-the-grave-chinese-idioms-every-fan-should-know
 ---
 もしあなたが**Love Beyond the Grave (白日提灯)**を見ているなら — 2026年のファンタジーロマンスで、Tencent Videoの記録を破り、放送前に674.5万の予約と最初の1時間で23,552の熱指数を記録した作品 — これは典型的な幽霊の恋物語ではないことをすでに知っているでしょう。ディルラバ・ディルムラット（迪丽热巴）は、悪霊として*生まれた*400年の幽霊王、何思慕（贺思慕）を演じています。彼女は幽霊の世界を規律と抑制で支配していますが、色、味、触覚、匂い、音楽を経験したことはありません。アーサー・チェン・フェイユ（陈飞宇）は、知らず知らずのうちに彼女に感覚を貸す唯一の人物となる大梁王国の若き将軍、段胥（段胥）を演じています — 彼の寿命を犠牲にして。

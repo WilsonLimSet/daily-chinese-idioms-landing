@@ -1,7 +1,5 @@
 ---
-title: >-
-  The Real History of Huizhou Ink (徽墨): Why The Heir's (祯娘传) Ming Dynasty
-  Setting Matters
+title: '徽墨 का असली इतिहास: The Heir (祯娘传) के मिंग युग का महत्व'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  From Li Tinggui's Tang Dynasty workshop to the Cheng vs Fang rivalry that
-  produced masterpieces of woodblock printing — the real ink dynasties behind
-  The Heir (祯娘传), and the 36-step process Yang Zi spent three months learning.
+  ली तिंगगुई की कार्यशाला से चेंग बनाम फांग प्रतिद्वंद्विता तक — The Heir (祯娘传)
+  के पीछे की असली स्याही वंशावली और यांग ज़ी की 36-चरणीय प्रक्रिया।
 ---
 अधिकांश ऐतिहासिक C-ड्रामा अपने सेटिंग को वॉलपेपर की तरह इस्तेमाल करते हैं। *The Heir* (祯娘传) ऐसा नहीं करता। निर्देशक हुई काईडोंग (惠楷栋) — जो *Story of Yanxi Palace* के पीछे के व्यक्ति हैं — ने मिंग राजवंश के जियाजिंग युग (嘉靖, 1522-1566) और 安徽 प्रांत के हुइझोउ (徽州) के स्याही कार्यशालाओं को एक कारण से चुना: यह वह क्षण था जब स्याही बनाना एक शिल्प से उद्योग, कला रूप और राजनीतिक हथियार में बदल गया।
 

@@ -1,7 +1,7 @@
 ---
 title: >-
-  Confucians, Daoists & Buddhists: The Cultivation Systems of Guardians of the
-  Dafeng (大奉打更人) Explained
+  Konfusian, Daois & Buddhis: Sistem Kultivasi dalam Guardians of the Dafeng
+  (大奉打更人)
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +9,10 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  In Guardians of the Dafeng, Confucian scholars can make 'words become law,'
-  Daoists form golden cores, and Buddhist monks achieve diamond bodies. Here's
-  how each system connects to real Chinese philosophy.
+  Dalam Guardians of the Dafeng, sarjana Konfusian boleh menjadikan 'kata-kata
+  menjadi undang-undang,' Daois membentuk inti emas, dan sami Buddha mencapai
+  tubuh berlian. Inilah bagaimana setiap sistem berkait dengan falsafah Cina
+  sebenar.
 originalSlug: guardians-of-dafeng-cultivation-system-confucian-daoist-buddhist
 ---
 **Guardians of the Dafeng (大奉打更人)** tidak hanya meminjam falsafah Cina untuk rasa — ia membina keseluruhan sistem kuasa dari rangka kerja sebenar Konfusianisme, Daoisme, dan Buddhisme. Hasilnya adalah dunia pengembangan di mana memukul lebih keras memerlukan pemahaman tentang *Analects* (论语), di mana membentuk inti emas bermakna benar-benar memahami alkimia dalaman Daois, dan di mana senjata yang paling menghancurkan dalam kewujudan adalah ayat yang dibina dengan baik.

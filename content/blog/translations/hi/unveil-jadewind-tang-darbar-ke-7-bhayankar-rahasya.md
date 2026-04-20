@@ -1,7 +1,7 @@
 ---
 title: >-
-  The 7 Horrors of the Tang Court: Every Case in Unveil Jadewind (唐宫奇案)
-  Explained Through Chinese Idioms
+  तांग दरबार के 7 भयावह रहस्य: Unveil Jadewind (唐宫奇案) के हर मामले का चीनी
+  मुहावरों से विश्लेषण
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Demonic fire. Bleeding walls. Skeleton brides. Fabricated stars. Each of
-  Unveil Jadewind's 7 cases hides a devastating truth about power and injustice
-  in the Tang court.
+  दानवी आग। खून से लथपथ दीवारें। कंकाल दुल्हनें। नकली सितारे। Unveil Jadewind के
+  7 मामलों में तांग दरबार की शक्ति और अन्याय की विनाशकारी सच्चाई छिपी है।
 originalSlug: unveil-jadewind-7-cases-explained-chinese-idioms
 ---
 हर मामला *Unveil Jadewind (唐宫奇案之青雾风鸣)* में एक ही संरचनात्मक तर्क का पालन करता है: कुछ असंभव होता है, अदालत दानवों और संकेतों के बारे में घबरा जाती है, और फिर ली पेयी (李佩仪, Bai Lu) और शियाओ हुआजिन (萧怀瑾, Wang Xingyue) अलौकिक आवरण को हटाकर कुछ और बुरा खोज लेते हैं — राजनीतिक समर्थन के साथ मानव क्रूरता। 34 एपिसोड और सात आपस में जुड़े मामलों में, आतंक व्यक्तिगत हत्या से प्रणालीगत साजिश तक बढ़ता है, जो सभी सही चांसलर कुई मिनझोंग (崔悯忠) और प्रिंस डुआन के परिवार के नरसंहार की ओर लौटता है, जो पंद्रह साल पहले हुआ था।

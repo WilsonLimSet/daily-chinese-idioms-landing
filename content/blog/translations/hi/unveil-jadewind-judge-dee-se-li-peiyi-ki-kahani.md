@@ -1,7 +1,5 @@
 ---
-title: >-
-  From Judge Dee to Li Peiyi: Unveil Jadewind and the 1,000-Year Tradition of
-  Chinese Detective Fiction
+title: 'जज डी से ली पेयी तक: अनवील जेडविंड और चीनी जासूसी कथा की 1,000-वर्षीय परंपरा'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,10 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Chinese detective fiction is older than Sherlock Holmes by 800 years. From
-  Judge Bao's incorruptible court to Di Renjie's Tang investigations to Li
-  Peiyi's sword — how Unveil Jadewind subverts a millennium of gong'an
-  tradition.
+  चीनी जासूसी कथा शर्लक होम्स से 800 साल पुरानी है। जज बाओ से ली पेयी तक, कैसे
+  Unveil Jadewind ने गोंग'आन परंपरा को नया रूप दिया।
 originalSlug: unveil-jadewind-judge-dee-chinese-detective-fiction-gongan
 ---
 चीनी जासूसी उपन्यासों की शुरुआत शर्लक होम्स से नहीं हुई। इसकी आवश्यकता नहीं थी। जब आर्थर कॉनन डॉयल ने 1887 में *A Study in Scarlet* प्रकाशित किया, तब तक 公案 (gong'an) शैली 800 वर्षों से अधिक समय से फल-फूल रही थी — और *Unveil Jadewind (唐宫奇案之青雾风鸣)* जानता है कि यह उस वंश में कहाँ बैठता है। निर्देशक यिन ताओ का 34-एपिसोड का नाटक केवल परंपरा को विरासत में नहीं लेता। यह दो विशिष्ट तरीकों से इसे तोड़ता है, जिनका पहले किसी भी gong'an अनुकूलन ने एक साथ प्रयास नहीं किया: एक महिला मुख्य जांचकर्ता, और एक न्याय प्रणाली जो विफल होती है।

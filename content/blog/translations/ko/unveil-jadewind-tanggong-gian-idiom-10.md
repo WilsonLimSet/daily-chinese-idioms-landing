@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every Unveil Jadewind (唐宫奇案) Fan Should Know: Murder,
-  Mystery, and the Tang Court
+title: '당궁기안 팬이 알아야 할 10가지 중국어 성어: 살인, 미스터리, 당나라 궁정'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Strategy & Action
 description: >-
-  Bai Lu investigates 7 cases of supernatural horror in the Tang court — but the
-  real monster is political corruption. These 10 idioms capture every twist of
-  Unveil Jadewind (唐宫奇案之青雾风鸣).
+  Bai Lu는 당나라 궁정의 7가지 초자연적 사건을 조사합니다 — 진짜 괴물은 정치적 부패입니다. 이 10가지 성어는 모든 반전을
+  포착합니다.
 originalSlug: unveil-jadewind-chinese-idioms-tang-dynasty-mystery
 ---
 **Unveil: Jadewind (唐宫奇案之青雾风鸣)**는 한 여성이 등불 축제 연회에서 불에 타 죽는 장면으로 시작되며, 그 이후로 상황은 더욱 어두워집니다. Bai Lu (白鹿)는 뛰어난 전투 기술과 날카로운 직감을 가진 군부 여성 리페이이 (李佩仪)를 연기합니다. Wang Xingyue (王星越)는 뛰어난 기억력과 체계적인 사고를 가진 황실 천문국 (太史局)의 점성가 샤오 화이진 (萧怀瑾)을 연기합니다. 그들은 함께 당나라 궁정 내에서 발생하는 일곱 건의 초자연적 공포 사건을 조사합니다 — 시체 화장, 피가 흐르는 벽, 유령 임신, 해골 신부 — 그리고 모든 "초자연적" 사건이 정치적 부패에 뿌리를 둔 합리적이고 훨씬 더 끔찍한 설명이 있다는 것을 발견하게 됩니다.

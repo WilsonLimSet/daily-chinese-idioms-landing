@@ -1,7 +1,5 @@
 ---
-title: >-
-  Tại Sao Gọi Là 'Pursuit of Jade'? Ý Nghĩa Sâu Sắc Của 玉 Trong Văn Hóa Trung
-  Quốc
+title: '''Pursuit of Jade'' Nghĩa Là Gì? Ý Nghĩa Của Ngọc Trong Văn Hóa Trung Quốc'
 date: '2026-03-18'
 characters: ''
 pinyin: ''
@@ -9,10 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Ngọc không chỉ là một loại đá quý ở Trung Quốc — nó đại diện cho đức hạnh,
-  tính cách và sự hoàn hảo về đạo đức. Khám phá ý nghĩa của 玉 trong các thành
-  ngữ Trung Quốc và lý do tại sao nó là trung tâm của bộ phim truyền hình ăn
-  khách Pursuit of Jade (逐玉).
+  Ngọc trong 'Pursuit of Jade (逐玉)' tượng trưng cho đức hạnh và sự hoàn hảo.
+  Khám phá ý nghĩa sâu sắc của ngọc trong văn hóa và phim Trung Quốc.
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 Khi khán giả phương Tây nghe đến "ngọc," họ nghĩ đến một loại đá quý màu xanh được sử dụng trong trang sức. Khi khán giả Trung Quốc nghe 玉 (yù), họ nghe thấy 5.000 năm triết lý, đạo đức và bản sắc văn hóa. Hiểu được sự khác biệt này là chìa khóa để hiểu tại sao bộ phim truyền hình ăn khách năm 2026 được gọi là **Pursuit of Jade (逐玉)** — và những nhân vật của nó thực sự đang theo đuổi điều gì.

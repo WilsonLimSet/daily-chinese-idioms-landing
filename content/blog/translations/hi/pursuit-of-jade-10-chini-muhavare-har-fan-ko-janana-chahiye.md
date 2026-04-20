@@ -1,5 +1,5 @@
 ---
-title: 10 Chinese Idioms Every Pursuit of Jade (逐玉) Fan Should Know
+title: हर Pursuit of Jade (逐玉) प्रशंसक के लिए 10 चीनी मुहावरे
 date: '2026-03-20'
 characters: ''
 pinyin: ''
@@ -7,9 +7,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Discover the Chinese idioms (chengyu) woven into Pursuit of Jade's story of
-  love, war, and revenge — from Xie Zheng's hidden identity to Fan Changyu's
-  battlefield courage.
+  खोजें चीनी मुहावरे, जो Pursuit of Jade की प्रेम, युद्ध और प्रतिशोध की कहानी
+  में बुने गए हैं — Xie Zheng की छुपी पहचान से Fan Changyu की रणभूमि की वीरता
+  तक।
 originalSlug: pursuit-of-jade-chinese-idioms-every-fan-should-know
 ---
 अगर आप **Pursuit of Jade (逐玉)** देख रहे हैं — 2026 का C-drama जिसने 55.1% दैनिक बाजार हिस्सेदारी के साथ रिकॉर्ड तोड़े और *Joy of Life 2* को पीछे छोड़ दिया — तो आप पहले से ही एक ऐसे संसार में डूब चुके हैं जो पारंपरिक चीनी कहानी कहने की समृद्धता से भरा हुआ है। झांग लिंगहे और तियान शियवेई का एक गिरे हुए मार्क्विस और एक कसाई की बेटी का चित्रण जो प्रेम, युद्ध और राजनीतिक साज़िशों के बीच नेविगेट कर रहे हैं, सदियों की साहित्यिक परंपरा पर आधारित है।

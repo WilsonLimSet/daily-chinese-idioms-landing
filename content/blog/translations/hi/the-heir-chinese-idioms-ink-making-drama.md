@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every The Heir (祯娘传) Fan Should Know: Ink, Ambition, and
-  Ming Dynasty Craft
+title: हर The Heir (祯娘传) प्रशंसक को जानने योग्य 10 चीनी मुहावरे
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Success & Perseverance
 description: >-
-  Yang Zi stars as a woman who defies Ming Dynasty tradition to master
-  ink-making in The Heir (祯娘传). These 10 idioms capture every step of her
-  journey from fallen daughter to master artisan.
+  Yang Zi ने The Heir (祯娘传) में स्याही बनाने की कला में महारत हासिल करने के लिए
+  परंपरा को चुनौती दी। ये 10 मुहावरे उनकी यात्रा को दर्शाते हैं।
 ---
 **The Heir (祯娘传)** ऐसा कुछ कर रहा है जो किसी भी C-drama ने पहले नहीं किया: 40-एपिसोड के ऐतिहासिक रोमांस में स्याही बनाने को केंद्र में रखना। Yang Zi (杨紫) Li Zhen (李祯) की भूमिका निभा रही हैं, जो Li परिवार की आठवीं शाखा की सबसे छोटी बेटी हैं — एक बार प्रतिष्ठित Huizhou स्याही कबीले की सबसे निम्न स्थिति की सदस्य, जो एक श्रद्धांजलि स्याही स्कैंडल (贡墨案) के कारण गिर गई। Han Dongjun (韩东君) Luo Wenqian (骆文谦) की भूमिका निभाते हैं, जो प्रतिकूल Luo परिवार के दूसरे पुत्र हैं, जिनकी खुद की बहाली की योजनाएँ Li Zhen के उत्थान के साथ टकराती हैं। Hui Kaidong (惠楷栋) द्वारा निर्देशित, जो *Story of Yanxi Palace* (延禧攻略) के पीछे के निर्देशक हैं, यह नाटक वास्तविक Hui-शैली के गांवों Hongcun (宏村), Xidi (西递), और Chengkan (呈坎) में फिल्माया गया है, और Yang Zi ने फिल्मांकन शुरू होने से पहले तीन महीने तक वास्तविक स्याही बनाने की तकनीकों में प्रशिक्षण लिया।
 

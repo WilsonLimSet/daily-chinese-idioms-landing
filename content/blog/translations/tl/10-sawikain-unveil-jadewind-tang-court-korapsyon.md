@@ -1,7 +1,5 @@
 ---
-title: >-
-  10 Chinese Idioms Every Unveil Jadewind (唐宫奇案) Fan Should Know: Murder,
-  Mystery, and the Tang Court
+title: 10 Sawikain na Dapat Malaman ng Bawat Fan ng Unveil Jadewind
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,8 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Strategy & Action
 description: >-
-  Bai Lu investigates 7 cases of supernatural horror in the Tang court — but the
-  real monster is political corruption. These 10 idioms capture every twist of
+  Sinisiyasat ni Bai Lu ang 7 kaso ng kababalaghan sa Tang court—ang tunay na
+  halimaw ay katiwalian. Ang 10 sawikain na ito ay sumasalamin sa bawat liko ng
   Unveil Jadewind (唐宫奇案之青雾风鸣).
 originalSlug: unveil-jadewind-chinese-idioms-tang-dynasty-mystery
 ---

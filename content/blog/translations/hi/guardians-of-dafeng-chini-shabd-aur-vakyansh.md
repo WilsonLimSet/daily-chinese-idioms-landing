@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching Guardians of the Dafeng (大奉打更人): 30 Essential Words &
-  Phrases
+title: '大奉打更人 देखकर चीनी सीखें: 30 जरूरी शब्द और वाक्यांश'
 date: '2026-03-31'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Turn your Guardians of the Dafeng binge into a Chinese lesson. 30 essential
-  vocabulary words and phrases from the drama — from court politics to
-  cultivation ranks — with pinyin and example sentences.
+  Guardians of the Dafeng को चीनी पाठ में बदलें। अदालत की राजनीति से लेकर
+  cultivation रैंक तक के 30 जरूरी शब्द और वाक्यांश।
 originalSlug: guardians-of-dafeng-learn-chinese-vocabulary-phrases
 ---
 **Guardians of the Dafeng (大奉打更人)** चीनी सीखने के लिए सबसे अच्छा C-drama हो सकता है यदि आप शुरुआती और मध्यवर्ती के बीच हैं। क्यों? क्योंकि नायक Xu Qi'an (许七安) एक ट्रांसमाइग्रेटर है — एक आधुनिक व्यक्ति जो एक प्राचीन दुनिया में गिरा है — जिसका मतलब है कि *वह* लगातार आधुनिक बोलचाल की चीनी और शास्त्रीय औपचारिक भाषा के बीच अनुवाद कर रहा है। जब वह एक मजाक करता है जिसे Dafeng Dynasty में कोई नहीं समझता, तो आप वही पाठ सीख रहे हैं जो वह है: कैसे संदर्भ चीनी में सब कुछ बदल देता है।

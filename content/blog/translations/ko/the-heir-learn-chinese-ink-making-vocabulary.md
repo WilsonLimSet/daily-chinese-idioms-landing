@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching The Heir (祯娘传): Ink-Making Vocabulary, Ming Dynasty
-  Terms, and Essential Idioms
+title: '드라마 The Heir (祯娘传)로 배우는 중국어: 잉크 제조와 명나라 용어'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  The Heir (祯娘传) is packed with Ming Dynasty vocabulary you won't find in
-  textbooks — 徽墨, 贡墨, 炼烟, 文房四宝. Here's your complete guide to the Chinese words
-  and idioms behind the drama.
+  The Heir (祯娘传)에서 교과서에 없는 명나라 어휘 — 徽墨, 贡墨, 炼烟, 문방사우를 배워보세요. 드라마 속 중국어 단어와 관용구
+  가이드입니다.
 ---
 표준 만다린 교과서는 음식을 주문하고, 길을 묻고, 날씨에 대해 이야기하는 방법을 가르쳐 줍니다. 그러나 "밀폐된 방에서 튼기름을 태워 그을음을 정제하는 것" (炼烟)이나 "가경제의 궁정에 보내는 공물 잉크" (贡墨)라는 단어는 가르쳐 주지 않습니다. *The Heir* (祯娘传)가 가르쳐 줄 것입니다.
 

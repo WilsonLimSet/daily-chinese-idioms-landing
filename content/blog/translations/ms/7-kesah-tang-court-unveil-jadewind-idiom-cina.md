@@ -1,7 +1,7 @@
 ---
 title: >-
-  The 7 Horrors of the Tang Court: Every Case in Unveil Jadewind (唐宫奇案)
-  Explained Through Chinese Idioms
+  7 Kengerian di Istana Tang: Setiap Kes dalam Unveil Jadewind (唐宫奇案) Dijelaskan
+  Melalui Peribahasa Cina
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +9,9 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Demonic fire. Bleeding walls. Skeleton brides. Fabricated stars. Each of
-  Unveil Jadewind's 7 cases hides a devastating truth about power and injustice
-  in the Tang court.
+  Api syaitan. Dinding berdarah. Pengantin rangka. Bintang palsu. Setiap
+  daripada 7 kes Unveil Jadewind menyembunyikan kebenaran tentang kuasa dan
+  ketidakadilan di istana Tang.
 originalSlug: unveil-jadewind-7-cases-explained-chinese-idioms
 ---
 Setiap kes dalam *Unveil Jadewind (唐宫奇案之青雾风鸣)* mengikuti logik struktur yang sama: sesuatu yang mustahil berlaku, istana panik tentang demon dan petanda, dan kemudian Li Peiyi (李佩仪, Bai Lu) dan Xiao Huaijin (萧怀瑾, Wang Xingyue) mengupas lapisan supernatural untuk menemukan sesuatu yang lebih teruk — kekejaman manusia dengan sokongan politik. Melalui 34 episod dan tujuh kes yang saling berkaitan, ketakutan meningkat dari pembunuhan individu kepada konspirasi sistemik, semuanya kembali kepada Canselor Kanan Cui Minzhong (崔悯忠) dan pembunuhan rumah tangga Putera Duan lima belas tahun yang lalu.

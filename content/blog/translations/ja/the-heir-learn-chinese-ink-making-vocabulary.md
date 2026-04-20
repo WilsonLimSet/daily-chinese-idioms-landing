@@ -1,17 +1,12 @@
 ---
-title: >-
-  Learn Chinese Watching The Heir (祯娘传): Ink-Making Vocabulary, Ming Dynasty
-  Terms, and Essential Idioms
+title: '中国語を学ぶ: The Heir (祯娘传)でインク製造と明朝の語彙'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
-description: >-
-  The Heir (祯娘传) is packed with Ming Dynasty vocabulary you won't find in
-  textbooks — 徽墨, 贡墨, 炼烟, 文房四宝. Here's your complete guide to the Chinese words
-  and idioms behind the drama.
+description: The Heir (祯娘传)は教科書にない明朝の語彙が満載—徽墨、贡墨、炼烟、文房四宝。ドラマの中国語と成語の完全ガイドです。
 ---
 標準的な普通話の教科書では、食べ物の注文の仕方、道を尋ねる方法、天気について話す方法を教えてくれます。しかし、「密閉された部屋でトウ油を燃やしてすすを精製すること」（炼烟）や「嘉靖帝の宮廷に送られる貢ぎ墨」（贡墨）という言葉は教えてくれません。*The Heir*（祯娘传）はそれを教えてくれます。
 

@@ -1,7 +1,5 @@
 ---
-title: >-
-  La verdadera historia detrás de Pursuit of Jade (逐玉): Matrimonio matrilocal,
-  purgas militares y mujeres guerreras
+title: 'Historia real de Pursuit of Jade (逐玉): ¿En qué dinastía se basa?'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Pursuit of Jade se desarrolla en una dinastía ficticia, pero sus temas están
-  arraigados en la historia real de China — desde el matrimonio matrilocal 入赘
-  hasta las purgas militares y las mujeres en el campo de batalla.
+  Pursuit of Jade (逐玉) refleja la historia real de China: dinastía ficticia,
+  matrimonio matrilocal, purgas militares y mujeres guerreras.
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)** se desarrolla en la ficticia Dinastía Dayin, y sus protagonistas — Fan Changyu, la hija del carnicero, y Xie Zheng, el marqués caído — son completamente inventados. Pero los escritores del drama no construyeron desde cero. Casi cada elemento importante de la trama está basado en prácticas históricas chinas reales, estructuras sociales y patrones políticos.

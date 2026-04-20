@@ -1,7 +1,5 @@
 ---
-title: >-
-  Learn Chinese Watching Love Beyond the Grave (白日提灯): Vocabulary, Idioms, and
-  Ghost Culture
+title: Matuto ng Chinese sa Panonood ng Love Beyond the Grave (白日提灯)
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Love Beyond the Grave is a crash course in Chinese supernatural vocabulary.
-  Learn 鬼王, 中元节, 放河灯, 阴阳 and more — plus idioms that capture every twist of the
-  drama.
+  Ang Love Beyond the Grave ay isang crash course sa bokabularyong supernatural
+  ng Tsina. Alamin ang 鬼王, 中元节, 放河灯, 阴阳 at iba pa.
 originalSlug: love-beyond-the-grave-learn-chinese-vocabulary-ghost-culture
 ---
 Karamihan sa mga C-drama ay nagtuturo sa iyo ng bokabularyo ng intriga sa palasyo o modernong romansa sa opisina. *Love Beyond the Grave* (白日提灯) ay nagtuturo sa iyo kung paano nakikipag-usap ang mundo ng mga nagsasalita ng Chinese tungkol sa kamatayan, mga multo, ang buhay pagkatapos ng kamatayan, at ang manipis na hangganan sa pagitan ng mga buhay at mga patay. Kung nais mong maunawaan ang kulturang supernatural ng Tsina — hindi ang bersyon ng Hollywood, kundi ang tunay na kosmolohiyang balangkas na pinalaki ng isang bilyong tao — ang 40-episode na drama na ito ay isa sa mga pinaka-epektibong paraan upang makapasok.

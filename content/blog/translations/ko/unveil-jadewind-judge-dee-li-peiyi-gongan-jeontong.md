@@ -1,18 +1,12 @@
 ---
-title: >-
-  From Judge Dee to Li Peiyi: Unveil Jadewind and the 1,000-Year Tradition of
-  Chinese Detective Fiction
+title: '판관 디에서 리 페이이까지: Unveil Jadewind와 중국 탐정 소설의 천년 전통'
 date: '2026-03-29'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
-description: >-
-  Chinese detective fiction is older than Sherlock Holmes by 800 years. From
-  Judge Bao's incorruptible court to Di Renjie's Tang investigations to Li
-  Peiyi's sword — how Unveil Jadewind subverts a millennium of gong'an
-  tradition.
+description: 중국 탐정 소설은 셜록 홈즈보다 800년 앞섰다. Unveil Jadewind는 공안 전통을 어떻게 전복하는가.
 originalSlug: unveil-jadewind-judge-dee-chinese-detective-fiction-gongan
 ---
 중국 탐정 소설은 셜록 홈즈에서 시작되지 않았다. 그럴 필요도 없었다. 아서 코난 도일이 1887년에 *A Study in Scarlet*을 출판했을 때, 공안(公案, gong'an) 장르는 이미 800년 이상 번창하고 있었으며, *Unveil Jadewind (唐宫奇案之青雾风鸣)*는 그 계보에서 정확히 어떤 위치에 있는지 알고 있다. 감독 인 타오의 34부작 드라마는 전통을 단순히 계승하는 것이 아니라, 이전의 어떤 공안 각색도 동시에 시도하지 않았던 두 가지 특정한 방식으로 그것을 깨뜨린다: 여성 주인공 탐정과 실패하는 정의 시스템이다.

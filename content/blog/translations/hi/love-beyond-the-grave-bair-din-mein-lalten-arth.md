@@ -1,7 +1,5 @@
 ---
-title: >-
-  Why 白日提灯 (Carrying a Lantern in Daylight) Is the Perfect Title for Love Beyond
-  the Grave
+title: प्रेत प्रेम की कहानी के लिए क्यों उपयुक्त है 白日提灯
 date: '2026-03-29'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  The title 白日提灯 means 'carrying a lantern in broad daylight' — a contradiction
-  that captures everything about a ghost who yearns for light, love, and the
-  human senses she was never given.
+  शीर्षक 白日提灯 का अर्थ है 'दिन के उजाले में लालटेन ले जाना' — एक विरोधाभास जो एक
+  भूत की लालसा को दर्शाता है।
 originalSlug: love-beyond-the-grave-title-meaning-lantern-symbolism-chinese-culture
 ---
 नाटक का कार्यशील शीर्षक था 慕胥辞 — दो मुख्य पात्रों के नामों (He Si**mu** और Duan **Xu**, जिसमें 辞 का अर्थ "कविता" या "अलविदा" है) का एक काव्यात्मक संयोजन। यह एक पूरी तरह से उपयुक्त शीर्षक होता। यह वह प्रकार का शीर्षक है जिसका चीनी नाटक आमतौर पर उपयोग करते हैं जब वे अर्थ में प्रतिबद्ध हुए बिना सुरुचिपूर्ण लगना चाहते हैं। निर्माताओं ने इसके बजाय 白日提灯 को रखा, और यह निर्णय आपको बताता है कि वे किस प्रकार की कहानी बताने की सोच रहे थे।

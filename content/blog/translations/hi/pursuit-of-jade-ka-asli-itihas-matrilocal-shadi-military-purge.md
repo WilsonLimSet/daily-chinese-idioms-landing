@@ -1,7 +1,5 @@
 ---
-title: >-
-  The Real History Behind Pursuit of Jade (逐玉): Matrilocal Marriage, Military
-  Purges, and Women Warriors
+title: 'Pursuit of Jade (逐玉): सच्ची कहानी, इतिहास और किस वंश में'
 date: '2026-03-24'
 characters: ''
 pinyin: ''
@@ -9,9 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
 description: >-
-  Pursuit of Jade is set in a fictional dynasty, but its themes are rooted in
-  real Chinese history — from 入赘 matrilocal marriage to military purges and
-  women on the battlefield.
+  Pursuit of Jade (逐玉) की सच्ची कहानी: काल्पनिक वंश, लेकिन असली इतिहास,
+  मातृसत्तात्मक विवाह, सैन्य शुद्धिकरण और महिला योद्धाओं की भूमिका।
 originalSlug: pursuit-of-jade-history-behind-the-drama
 ---
 **Pursuit of Jade (逐玉)** एक काल्पनिक डाइनस्ट्री में सेट है, और इसके नायक — फ़ान चांगयू, कसाई की बेटी और शिए झेंग, गिरे हुए मार्क्विस — पूरी तरह से आविष्कारित हैं। लेकिन नाटक के लेखकों ने कुछ भी नहीं से निर्माण नहीं किया। लगभग हर प्रमुख कथानक तत्व वास्तविक चीनी ऐतिहासिक प्रथाओं, सामाजिक संरचनाओं और राजनीतिक पैटर्न पर आधारित है।
