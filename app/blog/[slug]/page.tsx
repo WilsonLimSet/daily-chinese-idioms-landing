@@ -1,4 +1,5 @@
 import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
+import { getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
 import { LANGUAGES } from '@/src/lib/constants';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
 import { notFound } from 'next/navigation';
@@ -95,16 +96,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       title,
       description,
     },
-    alternates: {
-      canonical: `https://www.chineseidioms.com/blog/${slug}`,
-      languages: {
-        'x-default': `/blog/${slug}`,
-        'en': `/blog/${slug}`,
-        ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog/${slug}`])
-        ),
-      },
-    },
+    alternates: (() => {
+      const slugMap = getLocalizedSlugsForOriginal(slug);
+      return {
+        canonical: `https://www.chineseidioms.com/blog/${slug}`,
+        languages: {
+          'x-default': `/blog/${slug}`,
+          'en': `/blog/${slug}`,
+          ...Object.fromEntries(
+            Object.keys(LANGUAGES).map(l => [l, `/${l}/blog/${slugMap[l] || slug}`])
+          ),
+        },
+      };
+    })(),
   };
 }
 

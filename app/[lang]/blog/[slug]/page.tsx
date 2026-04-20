@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getAllBlogPosts, getBlogPost } from '@/src/lib/blog-intl';
+import { getAllBlogPosts, getBlogPost, getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
 import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
@@ -110,16 +110,22 @@ export async function generateMetadata({
       type: 'article',
       publishedTime: post.date,
     },
-    alternates: {
-      canonical: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
-      languages: {
-        'x-default': `/blog/${slug}`,
-        'en': `/blog/${slug}`,
-        ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog/${slug}`])
-        ),
-      },
-    },
+    alternates: (() => {
+      // Resolve the English (original) slug for this post so hreflang alternates
+      // can point at the correct localized slug in each language.
+      const englishSlug = post.originalSlug || slug;
+      const slugMap = getLocalizedSlugsForOriginal(englishSlug);
+      return {
+        canonical: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
+        languages: {
+          'x-default': `/blog/${englishSlug}`,
+          'en': `/blog/${englishSlug}`,
+          ...Object.fromEntries(
+            Object.keys(LANGUAGES).map(l => [l, `/${l}/blog/${slugMap[l] || englishSlug}`])
+          ),
+        },
+      };
+    })(),
   };
 }
 

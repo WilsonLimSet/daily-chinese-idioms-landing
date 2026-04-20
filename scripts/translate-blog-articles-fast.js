@@ -31,11 +31,24 @@ const TRANSLATIONS_DIR = path.join(__dirname, '../content/blog/translations');
 function getExistingTranslations(lang) {
   const langDir = path.join(TRANSLATIONS_DIR, lang);
   if (!fs.existsSync(langDir)) return new Set();
-  return new Set(fs.readdirSync(langDir).filter(f => f.endsWith('.md')));
+  // A translation exists if either:
+  //   (a) a file with the English slug filename is present (pre-migration), or
+  //   (b) any file in the dir has originalSlug === <English slug> in frontmatter
+  const existing = new Set();
+  for (const f of fs.readdirSync(langDir).filter(f => f.endsWith('.md'))) {
+    existing.add(f); // English-slug match for (a)
+    try {
+      const raw = fs.readFileSync(path.join(langDir, f), 'utf-8');
+      const { data } = matter(raw);
+      if (data.originalSlug) existing.add(`${data.originalSlug}.md`);
+    } catch { /* skip */ }
+  }
+  return existing;
 }
 
 async function translateArticle(filename, content, frontmatter, lang, langName) {
-  const prompt = `Translate this blog article from English to ${langName}.
+  const originalSlug = filename.replace(/\.md$/, '');
+  const prompt = `Translate this blog article from English to ${langName}, and generate a localized URL slug.
 
 RULES:
 1. Translate ALL English text naturally into ${langName}
@@ -44,10 +57,20 @@ RULES:
 4. Keep ALL internal link paths unchanged (e.g. /blog/wo-xin-chang-dan)
 5. Keep Chinese text in quotes/examples — only translate English explanations
 6. For tables: translate column names but keep Chinese/Pinyin values
-7. Translate "Pursuit of Jade" on first mention, then use both forms
+7. Translate drama titles on first mention, then use both forms
 8. Keep HSK references unchanged
 
-FRONTMATTER (return as JSON on first line):
+LOCALIZED SLUG RULES:
+- Generate a URL-safe slug that reflects the translated title in ${langName}
+- Lowercase ASCII only: a-z, 0-9, hyphens. NO spaces, NO special chars, NO non-Latin chars.
+- For non-Latin-script languages (ja, ko, th, ar, ru, hi): use romanization of the translated title (e.g., Korean "그리움" → "geurium", Thai "ความรัก" → "khwam-rak", Russian "любовь" → "lyubov"). Use standard romanization systems (Revised for Korean, Pinyin for Mandarin, RTGS for Thai, Hunterian for Hindi, GOST for Russian, ISO 233 for Arabic).
+- For Latin-script languages (es, pt, id, vi, fr, ms, tl, de): preserve accented letters as their base form (é → e, ñ → n, etc.)
+- Keep "pursuit-of-jade", "love-beyond-the-grave", "first-frost", "rebirth", "guardians-of-dafeng", "generation-to-generation", "unveil-jadewind" untranslated (brand anchors)
+- 40-80 characters. Descriptive but concise.
+- Must be different from the English original slug: "${originalSlug}"
+- Example: English "pursuit-of-jade-history-behind-the-drama" → Indonesian "sejarah-di-balik-pursuit-of-jade" → Korean "pursuit-of-jade-deurama-baegyeong-yeoksa"
+
+FRONTMATTER TO LOCALIZE:
 - title: "${frontmatter.title}"
 - description: "${frontmatter.description}"
 
@@ -55,7 +78,7 @@ ARTICLE:
 ${content}
 
 Format your response EXACTLY as:
-FRONTMATTER_JSON: {"title": "...", "description": "..."}
+FRONTMATTER_JSON: {"title": "...", "description": "...", "localizedSlug": "..."}
 ---BODY---
 (translated markdown)`;
 
@@ -85,19 +108,49 @@ FRONTMATTER_JSON: {"title": "...", "description": "..."}
   }
 }
 
+function sanitizeSlug(raw, fallback) {
+  if (!raw) return fallback;
+  const clean = raw
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^a-z0-9-]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 80);
+  return clean || fallback;
+}
+
 async function processOne({ file, lang, langName }) {
   const rawContent = fs.readFileSync(path.join(BLOG_DIR, file), 'utf-8');
   const { data: fm, content } = matter(rawContent);
+  const originalSlug = file.replace(/\.md$/, '');
 
   const translated = await translateArticle(file, content, fm, lang, langName);
 
-  const translatedFm = { ...fm, title: translated.frontmatter.title, description: translated.frontmatter.description };
+  const localizedSlug = sanitizeSlug(translated.frontmatter.localizedSlug, originalSlug);
+  const newFilename = `${localizedSlug}.md`;
+
+  const translatedFm = {
+    ...fm,
+    title: translated.frontmatter.title,
+    description: translated.frontmatter.description,
+    originalSlug,
+  };
   const langDir = path.join(TRANSLATIONS_DIR, lang);
   if (!fs.existsSync(langDir)) fs.mkdirSync(langDir, { recursive: true });
 
   const output = matter.stringify(translated.body, translatedFm);
-  fs.writeFileSync(path.join(langDir, file), output);
-  return true;
+  fs.writeFileSync(path.join(langDir, newFilename), output);
+
+  // If the old English-slug file existed (pre-migration), remove it — redirect
+  // handles backward compat via vercel.json.
+  if (newFilename !== file) {
+    const oldPath = path.join(langDir, file);
+    if (fs.existsSync(oldPath)) fs.unlinkSync(oldPath);
+  }
+
+  return { originalSlug, localizedSlug };
 }
 
 async function main() {

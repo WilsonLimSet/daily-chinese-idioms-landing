@@ -29,6 +29,7 @@ export type BlogPost = {
   date: string;
   idiom: Idiom;
   content: string;
+  originalSlug?: string;
 };
 
 function processContentTemplate(content: string, lang: string = 'en'): string {
@@ -105,7 +106,8 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
                 description_tr: '',
                 chineseExample_tr: ''
               },
-              content: content
+              content: content,
+              originalSlug: data.originalSlug || slug
             });
           } catch {
             // Skip malformed files
@@ -143,5 +145,43 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
 
 export async function getBlogPost(slug: string, lang?: string): Promise<BlogPost | null> {
   const posts = await getAllBlogPosts(lang);
-  return posts.find(post => post.slug === slug) || null;
+  // Match by localized slug first, fall back to originalSlug (for compat during migration)
+  return posts.find(post => post.slug === slug)
+    || posts.find(post => post.originalSlug === slug)
+    || null;
+}
+
+// Build a map: originalSlug -> { en, es, id, ko, ... } where each value is the
+// localized slug to use in that language. Used for hreflang alternates.
+const slugMapCache = new Map<string, Record<string, string>>();
+
+export function getLocalizedSlugsForOriginal(originalSlug: string): Record<string, string> {
+  if (slugMapCache.has(originalSlug)) return slugMapCache.get(originalSlug)!;
+
+  const result: Record<string, string> = { en: originalSlug };
+  const translationsRoot = path.join(process.cwd(), 'content/blog/translations');
+  if (fs.existsSync(translationsRoot)) {
+    for (const lang of fs.readdirSync(translationsRoot)) {
+      const langDir = path.join(translationsRoot, lang);
+      if (!fs.statSync(langDir).isDirectory()) continue;
+      for (const f of fs.readdirSync(langDir)) {
+        if (!f.endsWith('.md')) continue;
+        try {
+          const raw = fs.readFileSync(path.join(langDir, f), 'utf-8');
+          const { data } = matter(raw);
+          const localized = f.replace(/\.md$/, '');
+          const orig = data.originalSlug || localized;
+          if (orig === originalSlug) {
+            result[lang] = localized;
+            break;
+          }
+        } catch { /* skip malformed */ }
+      }
+      // If no translation file for this lang has matching originalSlug, keep English as fallback
+      if (!(lang in result)) result[lang] = originalSlug;
+    }
+  }
+
+  slugMapCache.set(originalSlug, result);
+  return result;
 }
