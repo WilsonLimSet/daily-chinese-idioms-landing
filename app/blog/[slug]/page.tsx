@@ -2,6 +2,7 @@ import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
 import { getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
 import { LANGUAGES } from '@/src/lib/constants';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
+import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -122,6 +123,10 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   // Detect article-style posts (no specific idiom)
   const isArticle = !post.idiom.characters;
+
+  // Detect drama-series article (e.g. pursuit-of-jade-*, first-frost-*)
+  const drama = getDramaForBlogSlug(slug);
+  const siblingDramas = drama ? getRelatedDramas(drama.slug, 3) : [];
 
   // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts();
@@ -345,6 +350,17 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
           {isArticle ? (
             <>
+              {drama && (
+                <Link
+                  href={`/dramas/${drama.slug}`}
+                  className="group mb-4 inline-flex items-center gap-2 rounded-full border border-red-200 bg-red-50 px-3 py-1 text-xs font-medium text-red-700 transition-colors hover:bg-red-100"
+                >
+                  <span className="opacity-60">Part of the</span>
+                  <span className="font-semibold">{drama.englishName}</span>
+                  <span className="opacity-60">guide</span>
+                  <ChevronRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
+                </Link>
+              )}
               <h1 className="text-3xl sm:text-4xl font-bold text-black mt-2 mb-4">
                 {post.title}
               </h1>
@@ -518,14 +534,65 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           ) : null;
         })()}
 
+        {/* Related Chinese Dramas — shown on drama articles */}
+        {drama && siblingDramas.length > 0 && (
+          <section className="mt-12 pt-8 border-t">
+            <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-red-500">
+              More Chinese Dramas
+            </p>
+            <h2 className="mb-6 text-2xl font-bold text-gray-900">
+              Explore other C-drama guides
+            </h2>
+            <div className="grid gap-4 md:grid-cols-3">
+              {siblingDramas.map(d => (
+                <Link
+                  key={d.slug}
+                  href={`/dramas/${d.slug}`}
+                  className="group rounded-lg border border-gray-200 bg-white p-5 transition hover:border-red-200 hover:shadow-sm"
+                >
+                  <p className="text-2xl font-bold leading-tight text-gray-200 transition-colors group-hover:text-red-300">
+                    {d.chineseName}
+                  </p>
+                  <p className="mt-2 text-[15px] font-semibold text-gray-900 transition-colors group-hover:text-red-500">
+                    {d.englishName}
+                  </p>
+                  <p className="mt-1 text-xs text-gray-400">
+                    {d.year}
+                    {d.status === 'airing' && ' · Now airing'}
+                    {d.status === 'upcoming' && ' · Coming soon'}
+                  </p>
+                </Link>
+              ))}
+            </div>
+            <div className="mt-6">
+              <Link
+                href="/dramas"
+                className="inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
+              >
+                See all Chinese drama guides
+                <ChevronRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </section>
+        )}
+
         {/* Explore More */}
         <nav className="mt-8 pt-6 border-t flex flex-wrap gap-4 text-sm text-gray-600">
           <Link href="/dictionary" className="hover:text-red-600 transition-colors">Browse Dictionary</Link>
           <span className="text-gray-300">|</span>
           <Link href="/blog/lists" className="hover:text-red-600 transition-colors">Curated Lists</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">More {post.idiom.theme} Idioms</Link>
-          <span className="text-gray-300">|</span>
+          {drama ? (
+            <>
+              <Link href="/dramas" className="hover:text-red-600 transition-colors">Chinese Dramas</Link>
+              <span className="text-gray-300">|</span>
+            </>
+          ) : (
+            <>
+              <Link href={`/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">More {post.idiom.theme} Idioms</Link>
+              <span className="text-gray-300">|</span>
+            </>
+          )}
           <Link href="/faq" className="hover:text-red-600 transition-colors">FAQ</Link>
         </nav>
       </article>

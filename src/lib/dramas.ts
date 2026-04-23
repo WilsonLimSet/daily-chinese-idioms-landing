@@ -11,6 +11,18 @@ export type DramaSeries = {
   synopsis: string;
   /** Prefix that each related blog post's slug starts with. */
   postPrefix: string;
+  /** Path to poster image in /public, e.g. '/dramas/pursuit-of-jade.jpg'. */
+  poster?: string;
+  /** Streaming platforms where English viewers can watch. */
+  platforms?: string[];
+  /** Lead cast members for SEO/rich snippet use. */
+  cast?: string[];
+  /** Source novel (if adapted). */
+  novel?: string;
+  /** Genre tags: 'historical' | 'romance' | 'mystery' | 'fantasy' | 'wuxia' | 'modern'. */
+  tags?: string[];
+  /** Status for timeliness signaling. */
+  status?: 'airing' | 'upcoming' | 'completed';
 };
 
 export type DramaPost = {
@@ -26,24 +38,99 @@ export type DramaWithPosts = DramaSeries & {
 
 const SERIES: DramaSeries[] = [
   {
-    slug: 'first-frost',
-    englishName: 'First Frost',
-    chineseName: '难哄',
-    pinyin: 'Nán Hǒng',
-    year: '2026',
-    synopsis:
-      'Modern romance drama framed as a classical Chinese love story. Childhood friends Wen Yifan and Sang Yan rediscover each other after years apart.',
-    postPrefix: 'first-frost-',
-  },
-  {
     slug: 'pursuit-of-jade',
     englishName: 'Pursuit of Jade',
-    chineseName: '玉翡翠',
-    pinyin: 'Yù Fěicuì',
+    chineseName: '逐玉',
+    pinyin: 'Zhú Yù',
     year: '2026',
     synopsis:
-      'Historical epic set against the imperial jade trade. Follow Fan Changyu — a butcher who rises to become a general — and the supporting cast that shaped the empire.',
+      'The #1 Chinese drama of all time on Netflix (7M+ views). Butcher\'s daughter Fan Changyu and fallen Marquis Xie Zheng enter a matrilocal marriage that reshapes their empire. 2.7 billion domestic views, #6 on Netflix Global Top 10 Non-English TV.',
     postPrefix: 'pursuit-of-jade-',
+    poster: '/dramas/pursuit-of-jade.jpg',
+    platforms: ['Netflix', 'iQIYI'],
+    cast: ['Tian Xiwei', 'Wang Xingyue'],
+    novel: '《逐玉》by Tuan Zi Lai Xi',
+    tags: ['historical', 'romance'],
+    status: 'airing',
+  },
+  {
+    slug: 'first-frost',
+    englishName: 'The First Frost',
+    chineseName: '难哄',
+    pinyin: 'Nán Hǒng',
+    year: '2025',
+    synopsis:
+      'The contemporary-romance phenomenon that held the Netflix C-drama crown until Pursuit of Jade surpassed it. Bai Jingting and Zhang Ruonan play former high school classmates who accidentally share an apartment years later. From the author of Hidden Love.',
+    postPrefix: 'first-frost-',
+    poster: '/dramas/first-frost.webp',
+    platforms: ['Netflix', 'Youku'],
+    cast: ['Bai Jingting', 'Zhang Ruonan'],
+    novel: '《难哄》by Zhu Yi (竹已)',
+    tags: ['modern', 'romance'],
+    status: 'completed',
+  },
+  {
+    slug: 'hidden-love',
+    englishName: 'Hidden Love',
+    chineseName: '偷偷藏不住',
+    pinyin: 'Tōu Tōu Cáng Bù Zhù',
+    year: '2023',
+    synopsis:
+      'The campus-romance evergreen that launched the Zhu Yi (竹已) literary universe. Zhao Lusi plays Sang Zhi, who spends years hiding her crush on her older brother\'s best friend Duan Jiaxu. First Frost shares this fictional family.',
+    postPrefix: 'hidden-love-',
+    poster: '/dramas/hidden-love.jpg',
+    platforms: ['Netflix', 'Viki', 'Youku'],
+    cast: ['Zhao Lusi', 'Chen Zheyuan'],
+    novel: '《偷偷藏不住》by Zhu Yi (竹已)',
+    tags: ['modern', 'romance'],
+    status: 'completed',
+  },
+  {
+    slug: 'joy-of-life-2',
+    englishName: 'Joy of Life 2',
+    chineseName: '庆余年第二季',
+    pinyin: 'Qìng Yú Nián Dì Èr Jì',
+    year: '2024',
+    synopsis:
+      'The first C-drama to simultaneously release on Disney+ day-and-date with China. Zhang Ruoyun returns as Fan Xian, a man with modern sensibilities navigating imperial court politics, philosophical debates, and the 200-poem recital scene that went viral worldwide.',
+    postPrefix: 'joy-of-life-2-',
+    poster: '/dramas/joy-of-life-2.jpg',
+    platforms: ['Disney+', 'Tencent Video'],
+    cast: ['Zhang Ruoyun', 'Chen Daoming', 'Li Qin'],
+    novel: '《庆余年》by Mao Ni (猫腻)',
+    tags: ['historical', 'fantasy'],
+    status: 'completed',
+  },
+  {
+    slug: 'light-to-the-night',
+    englishName: 'Light to the Night',
+    chineseName: '黑夜告白',
+    pinyin: 'Hēi Yè Gào Bái',
+    year: '2026',
+    synopsis:
+      'Netflix-acquired global first-run C-drama. Dylan Wang and Pan Yueming investigate the 1997 Yuanlongli elevator disappearance — an 18-year cold case that shaped both their lives. Part of the new wave of realistic Chinese crime dramas in the 迷雾剧场 (Mist Theater) tradition.',
+    postPrefix: 'light-to-the-night-',
+    poster: '/dramas/light-to-the-night.jpg',
+    platforms: ['Netflix', 'Youku'],
+    cast: ['Dylan Wang', 'Pan Yueming', 'Ren Min'],
+    tags: ['mystery', 'modern'],
+    status: 'upcoming',
+  },
+  {
+    slug: 'flourished-peony',
+    englishName: 'Flourished Peony',
+    chineseName: '国色芳华',
+    pinyin: 'Guó Sè Fāng Huá',
+    year: '2025',
+    synopsis:
+      'One of 2025\'s biggest C-drama hits, driving 29.6 billion related hashtag views on Douyin. Yang Zi plays He Weifang, a late-Tang woman who uses the dynasty\'s 和离 (mutual divorce) law to escape a forced marriage and build her own peony-growing empire in Luoyang — the cultural capital of imperial China.',
+    postPrefix: 'flourished-peony-',
+    poster: '/dramas/flourished-peony.jpg',
+    platforms: ['Mango TV', 'Netflix', 'Viki', 'WeTV'],
+    cast: ['Yang Zi', 'Li Xian'],
+    novel: '《国色芳华》by Yi Qianchong (意千重)',
+    tags: ['historical', 'romance'],
+    status: 'completed',
   },
   {
     slug: 'the-heir',
@@ -54,6 +141,11 @@ const SERIES: DramaSeries[] = [
     synopsis:
       'Ming Dynasty drama starring Yang Zi as Li Zhen, the youngest daughter of an ink-making clan who defies every rule of a man\'s world to claim her craft.',
     postPrefix: 'the-heir-',
+    poster: '/dramas/the-heir.jpg',
+    platforms: ['Tencent Video', 'WeTV'],
+    cast: ['Yang Zi'],
+    tags: ['historical', 'romance'],
+    status: 'airing',
   },
   {
     slug: 'guardians-of-dafeng',
@@ -64,6 +156,11 @@ const SERIES: DramaSeries[] = [
     synopsis:
       'Fantasy-mystery blending Confucian, Daoist, and Buddhist cultivation systems. Xu Qi\'an, a humble night-watchman, unravels a conspiracy threatening the dynasty.',
     postPrefix: 'guardians-of-dafeng-',
+    poster: '/dramas/guardians-of-dafeng.jpg',
+    platforms: ['WeTV', 'Tencent Video'],
+    cast: ['Li Xian', 'Tian Xiwei'],
+    tags: ['fantasy', 'mystery'],
+    status: 'completed',
   },
   {
     slug: 'love-beyond-the-grave',
@@ -74,6 +171,11 @@ const SERIES: DramaSeries[] = [
     synopsis:
       'Ghost romance rooted in the Liaozhai classical-horror tradition. He Simu and Duan Xu cross the boundary between the living and the dead.',
     postPrefix: 'love-beyond-the-grave-',
+    poster: '/dramas/love-beyond-the-grave.jpg',
+    platforms: ['iQIYI', 'WeTV'],
+    cast: ['Dilraba Dilmurat', 'Arthur Chen Feiyu'],
+    tags: ['fantasy', 'romance'],
+    status: 'airing',
   },
 ];
 
@@ -83,6 +185,21 @@ export function getAllDramaSeries(): DramaSeries[] {
 
 export function getDramaSeries(slug: string): DramaSeries | null {
   return SERIES.find(s => s.slug === slug) || null;
+}
+
+/** Given a blog post slug, return the drama it belongs to (or null). */
+export function getDramaForBlogSlug(blogSlug: string): DramaSeries | null {
+  return SERIES.find(s => blogSlug.startsWith(s.postPrefix)) || null;
+}
+
+/** Return N other dramas (excluding the given slug), prioritizing airing > upcoming > completed. */
+export function getRelatedDramas(excludeSlug: string, limit = 3): DramaSeries[] {
+  const rank = (s: DramaSeries) =>
+    s.status === 'airing' ? 0 : s.status === 'upcoming' ? 1 : 2;
+  return SERIES
+    .filter(s => s.slug !== excludeSlug)
+    .sort((a, b) => rank(a) - rank(b))
+    .slice(0, limit);
 }
 
 export function getDramasWithPosts(): DramaWithPosts[] {

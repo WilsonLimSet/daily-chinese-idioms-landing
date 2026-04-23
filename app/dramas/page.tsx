@@ -3,7 +3,6 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getDramasWithPosts } from '@/src/lib/dramas';
-import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -37,7 +36,6 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/dramas',
       en: '/dramas',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/dramas`])),
     },
   },
 };
@@ -115,9 +113,9 @@ export default function DramasPage() {
           {/* Quick nav */}
           <div className="mt-12 flex flex-wrap gap-3">
             {dramas.map(drama => (
-              <a
+              <Link
                 key={drama.slug}
-                href={`#${drama.slug}`}
+                href={`/dramas/${drama.slug}`}
                 className="group flex items-center gap-3 rounded-lg border border-white/[0.08] bg-white/[0.05] px-4 py-2.5 transition-all hover:border-white/[0.15] hover:bg-white/[0.1]"
               >
                 <span className="text-2xl leading-none opacity-80 transition-opacity group-hover:opacity-100">
@@ -126,7 +124,15 @@ export default function DramasPage() {
                 <span className="text-sm text-white/60 transition-colors group-hover:text-white/80">
                   {drama.englishName}
                 </span>
-              </a>
+                {drama.status === 'airing' && (
+                  <span className="flex h-1.5 w-1.5 animate-pulse rounded-full bg-red-400" />
+                )}
+                {drama.status === 'upcoming' && (
+                  <span className="rounded bg-yellow-500/20 px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-wider text-yellow-300">
+                    New
+                  </span>
+                )}
+              </Link>
             ))}
           </div>
         </div>
@@ -150,7 +156,12 @@ export default function DramasPage() {
                       {drama.chineseName}
                     </div>
                     <h2 className="text-2xl font-bold leading-tight text-gray-900 sm:text-3xl">
-                      {drama.englishName}
+                      <Link
+                        href={`/dramas/${drama.slug}`}
+                        className="transition-colors hover:text-red-500"
+                      >
+                        {drama.englishName}
+                      </Link>
                     </h2>
                     <p className="mt-1 text-gray-500">
                       <span className="hidden sm:inline">{drama.chineseName} &middot; </span>
@@ -163,6 +174,22 @@ export default function DramasPage() {
                       <span className="rounded border border-gray-200 bg-white px-3 py-1 text-xs text-gray-500">
                         {drama.posts.length} {drama.posts.length === 1 ? 'essay' : 'essays'}
                       </span>
+                      {drama.status === 'airing' && (
+                        <span className="inline-flex items-center gap-1 rounded border border-red-200 bg-red-50 px-3 py-1 text-xs font-medium text-red-600">
+                          <span className="h-1.5 w-1.5 animate-pulse rounded-full bg-red-500" />
+                          Now airing
+                        </span>
+                      )}
+                      {drama.status === 'upcoming' && (
+                        <span className="rounded border border-yellow-200 bg-yellow-50 px-3 py-1 text-xs font-medium text-yellow-700">
+                          Coming soon
+                        </span>
+                      )}
+                      {drama.platforms && drama.platforms.length > 0 && (
+                        <span className="rounded border border-gray-200 bg-white px-3 py-1 text-xs text-gray-500">
+                          {drama.platforms.join(', ')}
+                        </span>
+                      )}
                     </div>
                   </div>
                 </div>
@@ -199,6 +226,13 @@ export default function DramasPage() {
                           </li>
                         ))}
                       </ul>
+                      <Link
+                        href={`/dramas/${drama.slug}`}
+                        className="mt-4 inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
+                      >
+                        Full guide to {drama.englishName}
+                        <ChevronRight className="h-4 w-4" />
+                      </Link>
                     </div>
                   )}
                 </div>

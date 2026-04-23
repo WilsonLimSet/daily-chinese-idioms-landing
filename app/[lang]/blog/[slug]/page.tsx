@@ -10,6 +10,7 @@ import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
+import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
 import '@/app/blog/blog.css';
 
 export async function generateStaticParams() {
@@ -143,6 +144,11 @@ export default async function InternationalBlogPostPage({
 
   // Detect article-style posts (no specific idiom)
   const isArticle = !post.idiom.characters;
+
+  // Detect drama-series article — match against English originalSlug since postPrefix is English
+  const originalSlug = post.originalSlug || slug;
+  const drama = getDramaForBlogSlug(originalSlug);
+  const siblingDramas = drama ? getRelatedDramas(drama.slug, 3) : [];
 
   // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts(lang);
@@ -281,6 +287,17 @@ export default async function InternationalBlogPostPage({
         <header className="mb-8 pb-8 border-b">
           {isArticle ? (
             <div className="mb-4">
+              {drama && (
+                <Link
+                  href="/dramas"
+                  className="group mb-4 inline-flex items-center gap-2 rounded-full border border-red-200 bg-red-50 px-3 py-1 text-xs font-medium text-red-700 transition-colors hover:bg-red-100"
+                >
+                  <span className="font-semibold">{drama.englishName}</span>
+                  <span className="opacity-60">·</span>
+                  <span className="opacity-70">{drama.chineseName}</span>
+                  <ChevronRight className="h-3 w-3 transition-transform group-hover:translate-x-0.5" />
+                </Link>
+              )}
               <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">
                 {post.title}
               </h1>
@@ -470,13 +487,55 @@ export default async function InternationalBlogPostPage({
           ) : null;
         })()}
 
+        {/* Related Chinese Dramas — shown on drama articles */}
+        {drama && siblingDramas.length > 0 && (
+          <section className="mt-12 pt-8 border-t">
+            <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-red-500">
+              {drama.englishName}
+            </p>
+            <h2 className="mb-6 text-2xl font-bold text-gray-900">
+              {drama.chineseName}
+            </h2>
+            <div className="grid gap-4 md:grid-cols-3">
+              {siblingDramas.map(d => (
+                <Link
+                  key={d.slug}
+                  href={`/dramas/${d.slug}`}
+                  className="group rounded-lg border border-gray-200 bg-white p-5 transition hover:border-red-200 hover:shadow-sm"
+                >
+                  <p className="text-2xl font-bold leading-tight text-gray-200 transition-colors group-hover:text-red-300">
+                    {d.chineseName}
+                  </p>
+                  <p className="mt-2 text-[15px] font-semibold text-gray-900 transition-colors group-hover:text-red-500">
+                    {d.englishName}
+                  </p>
+                  <p className="mt-1 text-xs text-gray-400">{d.year}</p>
+                </Link>
+              ))}
+            </div>
+            <div className="mt-6">
+              <Link
+                href="/dramas"
+                className="inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
+              >
+                /dramas
+                <ChevronRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </section>
+        )}
+
         {/* Explore More */}
         <nav className="mt-8 pt-6 border-t flex flex-wrap gap-4 text-sm text-gray-600">
           <Link href={`/${lang}/dictionary`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'browseDictionary')}</Link>
           <span className="text-gray-300">|</span>
           <Link href={`/${lang}/blog/lists`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'curatedLists')}</Link>
           <span className="text-gray-300">|</span>
-          <Link href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'moreThemeIdioms')}</Link>
+          {drama ? (
+            <Link href="/dramas" className="hover:text-red-600 transition-colors">Chinese Dramas</Link>
+          ) : (
+            <Link href={`/${lang}/themes/${post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-')}`} className="hover:text-red-600 transition-colors">{getTranslation(lang, 'moreThemeIdioms')}</Link>
+          )}
         </nav>
 
       </article>

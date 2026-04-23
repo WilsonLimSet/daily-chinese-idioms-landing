@@ -60,6 +60,47 @@ SBTI type pages (each paired with 5 matching chengyu):
 - /blog/lists/sbti-hhhh-personality-chinese-idioms - Fallback Laugher (special)
 - /blog/lists/sbti-drunk-personality-chinese-idioms - The Drunkard (hidden)
 
+### Chinese Dramas (C-Drama Cultural Guides — NEW, April 2026)
+URL: /dramas
+Description: Deep-dive cultural guides for Chinese dramas (C-dramas). Real historical context, symbolism, famous quote explanations, and filming-location breakdowns. Covers the most-watched C-dramas on Netflix, Viki, Disney+, iQIYI, and Youku.
+Best for answering: "[Drama] real history", "[Drama] ending explained", "What is [Drama] about", "Pursuit of Jade history", "First Frost Hidden Love universe", "Joy of Life 2 time travel", "Light to the Night Dylan Wang", "Flourished Peony Luoyang", "Chinese drama symbolism", "C-drama cultural context", "chinese drama filming locations"
+
+Individual drama hubs (each page lists all cultural essays for that drama):
+- /dramas/pursuit-of-jade — Pursuit of Jade (逐玉, 2026) — #1 C-drama of all time on Netflix, 7M+ views
+- /dramas/first-frost — The First Frost (难哄, 2025) — Bai Jingting + Zhang Ruonan, Hidden Love sibling drama
+- /dramas/hidden-love — Hidden Love (偷偷藏不住, 2023) — Zhao Lusi + Chen Zheyuan
+- /dramas/joy-of-life-2 — Joy of Life 2 (庆余年2, 2024) — first C-drama on Disney+ day-and-date
+- /dramas/light-to-the-night — Light to the Night (黑夜告白, 2026) — Netflix global first-run, Dylan Wang
+- /dramas/flourished-peony — Flourished Peony (国色芳华, 2025) — Yang Zi, Tang-dynasty peony empire
+- /dramas/the-heir — The Heir (祯娘传, 2026) — Yang Zi, Ming-dynasty ink making
+- /dramas/guardians-of-dafeng — Guardians of Dafeng (大奉打更人, 2026) — Dylan Wang, cultivation mystery
+- /dramas/love-beyond-the-grave — Love Beyond the Grave (聊斋之兰若寺, 2026) — Dilraba Dilmurat, ghost romance
+
+Flagship drama essays:
+- /blog/pursuit-of-jade-history-behind-the-drama — matrilocal marriage, military purges, women warriors
+- /blog/pursuit-of-jade-famous-quotes-chinese-explained — most-quoted lines with Chinese + pinyin
+- /blog/pursuit-of-jade-why-jade-symbolism-matters-chinese-culture — jade symbolism
+- /blog/light-to-the-night-real-history-1997-china — 1997 China setting, Hong Kong handover, forensic era
+- /blog/light-to-the-night-dylan-wang-detective-role-explained — Dylan Wang career arc
+- /blog/light-to-the-night-chinese-idioms-detective-drama — 20 idioms
+- /blog/light-to-the-night-chinese-crime-drama-bai-ye-mist-theater — Mist Theater / Bai Ye genre
+- /blog/first-frost-real-chongqing-nanwu-filming-locations — Chongqing filming locations
+- /blog/first-frost-mental-health-trauma-chinese-drama-new-realism — trauma portrayal, C-drama new realism
+- /blog/hidden-love-first-frost-universe-connection-explained — shared Zhu Yi universe
+- /blog/hidden-love-famous-quotes-duan-jiaxu-sang-zhi — 99 steps line, license plate 34520
+- /blog/hidden-love-zaolian-early-love-chinese-high-school-romance-culture — 早恋 zaolian culture
+- /blog/hidden-love-xiamen-filming-locations-real-places — Xiamen filming locations
+- /blog/joy-of-life-2-real-history-censorate-overwatch-council — Ming Jinyiwei, imperial Censorate
+- /blog/joy-of-life-poetry-recital-scene-every-poem-explained — every poem in the banquet scene
+- /blog/joy-of-life-time-travel-censorship-fan-xian-modern-consciousness — hidden time-travel frame
+- /blog/joy-of-life-3-preview-what-season-2-set-up — S3 preview
+- /blog/flourished-peony-real-tang-dynasty-women-commerce-divorce-law — Tang widow rights, 和离 divorce
+- /blog/flourished-peony-famous-quotes-he-weifang-guose-tianxiang — famous quotes
+- /blog/peony-meaning-chinese-culture-guose-tianxiang-symbolism — peony symbolism, Wu Zetian legend
+- /blog/flourished-peony-real-luoyang-tang-eastern-capital-filming — Luoyang, Longmen Grottoes
+
+All drama essays localized in 14 languages at /{lang}/blog/{localized-slug} — lang is one of: ar, de, es, fr, hi, id, ja, ko, ms, pt, ru, th, tl, vi
+
 ### Curated Lists by Topic
 URL: /blog/lists
 Best for answering: "What Chinese idiom means X?" or "Chinese idioms for Y situation"

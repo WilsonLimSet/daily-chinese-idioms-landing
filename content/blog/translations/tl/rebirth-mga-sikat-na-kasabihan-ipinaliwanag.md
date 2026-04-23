@@ -1,0 +1,76 @@
+---
+title: 'Rebirth (冰湖重生): Mga Sikat na Kasabihan na Ipinaliwanag sa Tsino at Ingles'
+date: '2026-04-19'
+characters: ''
+pinyin: ''
+meaning: ''
+metaphoric_meaning: ''
+theme: Life Philosophy
+description: >-
+  Suriin ang mga malalim na kasabihan mula sa 'Rebirth (冰湖重生)' at alamin kung
+  paano ito konektado sa mga walang panahong kasabihang Tsino.
+originalSlug: rebirth-famous-quotes-chinese-explained
+---
+Siyam na taon ay isang kawalang-hanggan sa telebisyon. Para sa mga tagahanga ng 2017 C-drama phenomenon na *Princess Agents* (楚乔传), ito ay siyam na taon ng paghihintay para sa isang resolusyon sa isa sa mga pinaka-kilalang cliffhanger ng genre: si Yuwen Yue na lumubog sa isang nagyeyelong lawa, at si Chu Qiao na tumalon sa likod niya. Ang 2026 sequel, *Rebirth* (冰湖重生), sa wakas ay sumagot sa tawag, ngunit hindi sa paraang inaasahan ng sinuman. Sa pagtalikod ng orihinal na cast na bumalik matapos ang nabigong negosasyon, isang bagong koponan ng malikhaing, at isang nakababahalang 4.5 na rating sa Douban, ang serye ay naging isang punto ng debate, nostalgia, at isang kawili-wiling pag-aaral sa inaasahan ng madla.
+
+Ngunit, sa ilalim ng kontrobersya at ng viral na mga pagtatalo sa Weibo sa pagitan ng bagong produksyon at ng orihinal na bituin na si Zhao Liying, ang tematikong core ng *Rebirth* ay nananatiling makapangyarihan. Pinangunahan ng direktor na si Lü Hàojíjí, ang kwento ay nagsisimula sa isang amnesiac na si Chu Qiao (na ngayon ay ginampanan ni Huangyang Tiantian, na sa kabalintunaan ay ginampanan ang karakter bilang isang bata sa orihinal) sa kampo ng Yan Bei. Sinabi ni Yan Xun (Zhang Kangle), na ngayon ay isang hari na papalapit sa tiraniya, na si Zhuge Yue (ang pinalitan na Yuwen Yue, ginampanan ni Li Yunrui) ay patay at siya ay kanyang kasintahan. Ang kanyang kasunod na pagsisiyasat sa kapalaran ni Zhuge Yue ay nagiging isang crucible, na pinipilit ang isang pagpili sa pagitan ng isang pinamanipulang pag-ibig, isang desperadong laban para sa kalayaan (自由), at isang pundamental na pananampalataya (信仰) na hindi niya matandaan.
+
+Ang naratibo, isang paglalakbay mula sa isang nagyeyelong estado patungo sa isang gising na layunin, ay isang kwento na hindi lamang sinasabi sa kanyang balangkas kundi sa mga klasikal na kasabihang sumusuporta sa emosyonal na lohika nito. Ang mga *chengyu* na ito ay higit pa sa mga pampanitikang palamuti; sila ang pilosopikal na DNA ng mga pakikibaka ng mga tauhan, na nagbubunyag ng mas malalim na pag-uusap tungkol sa integridad, katatagan, at pag-asa.
+
+---
+
+## [冰清玉洁 (bīng qīng yù jié)](/blog/bing-qing-yu-jie) — "Ice Clear, Jade Pure"
+
+**Kahulugan:** Upang magkaroon ng walang kapintasan, hindi mapapahamak na moral na karakter.
+
+**Pinagmulan:** Ang kasabihang ito ay kumukuha ng kapangyarihan mula sa dalawa sa mga pinaka-resonant na simbolo sa kulturang Tsino: yelo at jade. Ang mga ugat nito ay nagmula sa Dinastiyang Han, na nakahanap ng pormal na pagpapahayag sa mga teksto tulad ng *Book of Later Han* (后汉书) upang ilarawan ang mga opisyal na may hindi mapapahamak na integridad. Ang yelo (冰) ay kumakatawan sa transparency at kadalisayan, habang ang jade (玉) ay sumasagisag sa katatagan, halaga, at isang kagandahan na parehong panloob at panlabas. Ang makatang Tang na si Wang Changling ay tanyag na nagbigay-diin sa damdaming ito sa kanyang tula na "Seeing Off Xin Jian at Furong Tower" (芙蓉楼送辛渐) sa linya na "一片冰心在玉壶" (yī piàn bīng xīn zài yù hú) — "isang piraso ng yelo-puso sa isang jade na banga," isang pahayag ng hindi matitinag na katapatan at moral na kaliwanagan. Ang kasabihang ito ay sumasalamin sa isang karakter na hindi maaaring madungisan ng katiwalian o pagkakataon.
+
+**Koneksyon:** Sa *Rebirth*, 冰清玉洁 ay ang mismong kaluluwa ng hidwaan ni Chu Qiao. Ang kanyang amnesia (失忆, shīyì) ay isang pisikal na pagsasakatawan ng isang nagyeyelong espiritu; siya ay nakulong hindi lamang sa kampo ni Yan Xun, kundi sa isang estado kung saan ang kanyang pangunahing pagkakakilanlan ay pinipigilan. Ang panlilinlang ni Yan Xun ay isang pagtatangkang muling isulat ang kanyang "jade pure" na kalikasan sa isang kwento ng paghihiganti (复仇, fùchóu) at alyansang pampulitika. Gayunpaman, ang kanyang likas na karakter ay tumutol. Ang kanyang pagdududa sa kanyang kwento at ang kanyang lihim na pagsisiyasat sa kapalaran ni Zhuge Yue ay ang mga unang bitak sa yelo. Ang panloob na kompas na ito, ang pagnanais para sa katotohanan sa halip na maginhawang kasinungalingan, ay ang kanyang *bīng qīng yù jié* na kalikasan na muling nag-aangkin. Ang buong drama ay nakasalalay sa kung ang kanyang "yelo-puso" ay maaaring matunaw at maangkin muli o masira ng mga manipulasyon ni Yan Xun. Ang temang ito ay naging meta-textual sa panahon ng premiere ng palabas, nang ang studio ni Zhao Liying ay nag-post ng isang nostalhik na clip mula sa orihinal na serye na may caption na "‘楚’心未改" ("ang orihinal na 'Chu' puso ay nananatiling hindi nagbago"), isang direktang apela sa patuloy, purong esensya ng karakter na naramdaman ng mga tagahanga na nawala sa sequel.
+
+**Gamitin ito:** Gamitin ang kasabihang ito upang ilarawan ang isang tao na ang integridad ay ganap at lampas sa pagdududa, lalo na sa isang propesyonal o pampulitikang konteksto kung saan ang tukso ay laganap.
+
+---
+
+## [迎难而上 (yíng nán ér shàng)](/blog/ying-nan-er-shang) — "Face Difficulties and Advance"
+
+**Kahulugan:** Upang harapin ang mga hamon nang direkta at magpatuloy nang walang pag-aalinlangan.
+
+**Pinagmulan:** Isang pangunahing bahagi ng pilosopiyang pampasigla ng Tsino, 迎难而上 ay isang tawag sa aksyon. Ang mga karakter ay naglalarawan ng isang malinaw na larawan: 迎 (yíng) ay nangangahulugang makatagpo o tanggapin, 难 (nán) ay kahirapan, at 上 (shàng) ay umakyat o umusad. Ito ang espiritu ng paglipat patungo sa isang hadlang, hindi sa paligid nito. Bagaman hindi ito nakatali sa isang tiyak na kasaysayan, ito ay sumasagisag sa ideal ng Confucian ng sariling pag-unlad sa pamamagitan ng pagsubok at ang prinsipyo ng Daoist ng paghahanap ng lakas sa hirap. Lumilitaw ito sa buong klasikal at modernong panitikan bilang natatanging katangian ng mga bayani, mga innovator, at sinumang tumatangging talunin ng pagkakataon. Ito ang kabaligtaran ng pasibidad.
+
+**Koneksyon:** Ang kasabihang ito ay ang metodolohiya ni Chu Qiao. Nagising na walang alaala, sa kapangyarihan ng isang lalaking sa kanyang likas na pakiramdam ay hindi niya mapagkakatiwalaan, ang kanyang sitwasyon ay isa ng matinding kahinaan. Ang isang mas mababang karakter ay maaaring sumuko o maghintay ng tamang pagkakataon. Si Chu Qiao, gayunpaman, ay agad na nagsisimulang 迎难而上. Ginagamit niya ang kanyang katayuan bilang "kasintahan" ni Yan Xun, gamit ang mismong kulungan na itinayo niya para sa kanya bilang isang plataporma mula sa kung saan ilulunsad ang kanyang pagsisiyasat. Bawat nakatagong tanong, bawat sinubok na katapatan, bawat alyansa na kanyang binuo sa mga anino ng hukbo ng Yan Bei ay isang kilos ng pag-usad laban sa agos. Ang proaktibong pakikibakang ito ang nag-aangat sa kanya lampas sa isang simpleng biktima ng pagkakataon. Ito rin ay nagsasalita sa mga kritisismo na ibinato sa bagong aktres, si Huangyang Tiantian, na tinawag ng ilang manonood na *"胶原蛋白过剩的宝宝将军"* ("baby-general with excess collagen"). Ang tensyon ay nakasalalay sa kung ang batang mukha na ito ay maaaring convincingly na ipakita ang matibay na espiritu ng isang tao na namumuhay ayon sa 迎难而上, isang espiritu na hinubog sa brutal na sistema ng pagkaalipin ng Western Wei, isang paksa na mas detalyado sa [The Real History Behind Rebirth (冰湖重生)](/blog/rebirth-real-history).
+
+**Gamitin ito:** Ang pariral na ito ay perpekto para sa paghikayat sa isang tao na humaharap sa isang mahirap na proyekto, isang mahirap na pagsusulit, o isang personal na krisis, na hinihimok silang harapin ang problema nang direkta na may tapang.
+
+---
+
+## [否极泰来 (pǐ jí tài lái)](/blog/pi-ji-tai-lai) — "After Extreme Adversity Comes Prosperity"
+
+**Kahulugan:** Ang prinsipyo na kapag ang isang sitwasyon ay umabot sa pinakamasama, maaari lamang itong magbago para sa mas mabuti.
+
+**Pinagmulan:** Ang malalim na konseptong ito ay nagmula sa sinaunang teksto ng dibinasyon, ang *I Ching* o *Book of Changes* (周易). Ito ay nagmula sa dalawa sa 64 hexagrams: 否 (pǐ), na kumakatawan sa stagnation at obstruction, at 泰 (tài), na kumakatawan sa kapayapaan at kasaganaan. Ang pilosopiya ng *I Ching* ay cyclical; ito ay nagmumungkahi na ang lahat ng puwersa sa uniberso ay nasa patuloy na pagbabago. Ang stagnation (否), kapag umabot sa kanyang zenith (极, jí), ay tiyak na bibigay sa kanyang kabaligtaran, kasaganaan (泰). Isang tanyag na makasaysayang halimbawa nito ay si Haring Goujian ng Yue (越王勾践) mula sa panahon ng Tagsibol at Taglagas, na ang kwento ng pagtitiis ng labis na kahihiyan bago pamunuan ang kanyang estado sa tagumpay ay isang masterclass sa prinsipyong ito.
+
+**Koneksyon:** 否极泰来 ay ang estruktural na pangako ng buong *Rebirth* saga. Ang pagtatapos ng *Princess Agents* ay ang pinakamasamang 否卦 (pǐ guà)—ang sandali ng ganap na pagkasira. Si Zhuge Yue ay tila patay, si Yan Xun ay nagtaksil sa kanyang mga prinsipyo, at si Chu Qiao ay walang magawa sa ilalim ng isang nagyeyelong lawa. Ang mismong pamagat ng sequel, *冰湖重生* (Frozen Lake Rebirth), ay isang deklarasyon ng 否极泰来. Ang paggising ni Chu Qiao, kahit na sa amnesia, ay ang unang senyales ng pag-ikot ng agos. Ang kanyang paglalakbay ay ang mabagal, masakit na paglipat mula sa 否 patungo sa 泰. Bawat na-recover na alaala, bawat pahiwatig tungkol sa kaligtasan ni Zhuge Yue, ay isang hakbang patungo sa "kasaganaan" ng katotohanan at kaalaman sa sarili. Ang kasabihang ito ay hindi lamang nalalapat sa kanya, kundi pati na rin kay Zhuge Yue mismo, na literal na dapat bumangon mula sa isang nagyeyelong libingan. Ang kanyang kaligtasan at kalaunan ay muling pagsasama kay Chu Qiao ay ang pinakapayak na katuwang ng cosmic na balanse.
+
+**Gamitin ito:** Ihandog ang kasabihang ito bilang mensahe ng malalim na pag-asa sa isang tao na dumaranas ng isang napakahirap na panahon, na tinitiyak sa kanila na ito ang pinakamababang punto at ang mga bagay ay tiyak na magiging mas mabuti.
+
+---
+
+## [破镜重圆 (pò jìng chóng yuán)](/blog/po-jing-chong-yuan) — "A Broken Mirror is Whole Again"
+
+**Kahulugan:** Ang muling pagsasama ng isang magkasintahan pagkatapos ng sapilitang paghihiwalay o estranghero.
+
+**Pinagmulan:** Ang kasabihang ito ay nagmula sa isa sa mga pinaka-romantiko at trahedyang kwento sa kasaysayan ng Tsina. Sa panahon ng magulong Northern at Southern Dynasties, habang ang Dinastiyang Chen ay malapit nang sakupin ng Sui, isang opisyal ng korte na si Xu Deyan (徐德言) ay napilitang makipaghiwalay sa kanyang asawa, ang Prinsesa Lechang (乐昌公主). Nangangamba na sila ay mapaghihiwalay magpakailanman ng digmaan, sinira nila ang isang tanso na salamin sa kalahati (破镜, pò jìng). Bawat isa ay nag-keep ng isang piraso, na nangangako na kung sila ay makaligtas, susubukan nilang hanapin ang isa't isa sa pamamagitan ng pagbebenta ng kanilang kalahati sa ikalabinlimang araw ng unang lunar na buwan sa pamilihan ng kabisera. Ilang taon ang lumipas, matapos bumagsak ang Dinastiyang Chen, natagpuan ni Xu ang isang matandang lalaki na nagbebenta ng kalahating salamin. Ito ay piraso ng kanyang asawa. Natutunan niyang siya ay naging concubine ng isang makapangyarihang ministro ng Sui. Naantig sa kanilang kwento, pinayagan ng ministro ang mag-asawa na muling magsama, na ginawang buo muli ang kanilang sirang salamin (重圆, chóng yuán).
+
+**Koneksyon:** Ang buong romantikong kwento ng *Rebirth* ay isang paghahanap para sa 破镜重圆. Ang "sirang salamin" ay ang marahas na paghihiwalay nina Chu Qiao at Zhuge Yue sa lawa ng yelo. Ang kasinungalingan ni Yan Xun na si Zhuge Yue ay patay ay isang sinadyang pagtatangkang tiyakin na ang salamin ay mananatiling sirang magpakailanman. Ang pagsisiyasat ni Chu Qiao ay pinapagana ng isang subconscious na pull, isang paniniwala na ang kanyang ibang kalahati ay umiiral pa. Ang misteryosong benefactor na tumutulong sa kanya mula sa mga anino ay, siyempre, ang pag-asa ng madla na naging totoo—si Zhuge Yue, na nagtatrabaho upang muling buuin ang kanilang mga buhay. Ang drama ay nag-frame ng kanilang pag-ibig hindi bilang isang simpleng pagpipilian, kundi bilang isang pundamental na estado ng pagiging na nasira ng mga panlabas na puwersa. Ang kanilang kalaunang muling pagsasama ay hindi lamang isang romantikong climax; ito ay isang pagpapanumbalik ng cosmic na kaayusan, isang pag-aayos ng isang bagay na hindi dapat nasira. Ito ang emosyonal na gantimpala na hinintay ng mga tagahanga sa loob ng siyam na taon, isang sentral na tema na tinalakay sa aming listahan ng [10 Chinese Idioms Every Rebirth (冰湖重生) Fan Should Know](/blog/rebirth-chinese-idioms-every-fan-should-know).
+
+**Gamitin ito:** Ilarawan ang pagkakasundo ng isang magkasintahan na pinaghiwalay, partikular kapag ang muling pagsasama ay nalampasan ang makabuluhang mga hadlang at ang paglipas ng panahon.
+
+---
+
+## [柳暗花明 (liǔ àn huā míng)](/blog/liu-an-hua-ming) — "Dark Willows, Bright Flowers"
+
+**Kahulugan:** Isang biglaang tagumpay o sulyap ng pag-asa pagkatapos ng isang panahon ng pagdududa at kahirapan.
+
+**Pinagmulan:** Ang magandang at nakakaantig na kasabihang ito ay nagmula sa isang taludtod ng makatang Song na si Lu You (陆游) sa kanyang tula na "Visiting a Village West of the Mountain" (游山西村). Ang buong linya ay nagsasaad: "山重水复疑无路，柳暗花明又一村" (shān chóng shuǐ fù yí wú lù, liǔ àn huā míng yòu yī cūn) — "Dumarami ang mga bundok, bumabalik ang mga sapa, nagduda ako na may daan; sa likod ng madidilim na willow at maliwanag na mga bulaklak, isang bagong nayon ang lumilitaw!" Ang imahen ay ng isang manlalakbay na nawawala sa isang tila hindi mapagtagumpayang tanawin na biglang natagpuan ang isang magandang, hindi inaasahang tanawin. Perpekto itong sumasalamin sa pakiramdam ng paghahanap ng solusyon kapag tila lahat ay nawala, ng pag-asa na lumilitaw mula sa isang dead end.
+
+**Koneksyon:** Ang pagsisiyasat ni Chu Qiao sa *Rebirth* ay isang paglalakbay sa "madidilim na willow." Siya ay napapaligiran ng mga pagkalito ng hukbo ni Yan Xun, ang mga pampulitikang pakana ni Prinsesa Chun'er, at ang ulap ng kanyang sariling nawawalang mga alaala. Ang daan pasulong ay tila nahaharangan sa bawat liko. Ang mga sandali ng 柳暗花明 ay ang mga pagliko ng naratibo: isang flash ng alaala, isang cryptic na mensahe mula sa kanyang nakatagong kaalyado, isang pagkakamali ng dila mula sa isang kaaway na nagbubunyag ng bitak sa sabwatan. Ang mga ito ang "maliwanag na bulaklak" na nagpapatunay na may daan. Ang nakakamanghang cinematography, na kinunan sa malawak, walang tirahan na mga lugar ng Delingha sa lalawigan ng Qinghai, ay biswal na sumasalamin dito. Ang matitinding, madalas na malupit na tanawin ng Yan Bei ay pinaputol ng mga sandali ng nakakamanghang kagandahan, katulad ng grim na realidad ni Chu Qiao ay pinipiraso ng biglaang mga pagbubunyag ng pag-asa. Bawat tagumpay ay nagdadala sa kanya ng mas malapit sa "nayon"—ang buong katotohanan ng yelo lawa, isang katotohanang ang simbolismo ay malalim sa kulturang Tsino, tulad ng tinalakay natin sa [Why the Frozen Lake (冰湖) Matters in Rebirth and Chinese Culture](/blog/rebirth-frozen-lake-symbolism).

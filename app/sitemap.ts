@@ -11,6 +11,7 @@ import { getAllPoets } from '@/src/lib/poets';
 import { getAllComparisons } from '@/src/lib/comparisons';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
+import { getAllDramaSeries } from '@/src/lib/dramas';
 
 const THEME_SLUGS = [
   'life-philosophy',
@@ -88,6 +89,12 @@ export default async function sitemap(props: {
         changeFrequency: 'weekly',
         priority: 0.85,
       },
+      ...getAllDramaSeries().map(d => ({
+        url: `${baseUrl}/dramas/${d.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.85,
+      })),
     ];
 
     const blogPosts: MetadataRoute.Sitemap = posts.map((post) => ({
