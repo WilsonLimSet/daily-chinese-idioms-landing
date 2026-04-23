@@ -274,7 +274,7 @@ export default async function DramaPage({ params }: PageParams) {
                 Essays coming soon
               </p>
               <p className="mt-3 text-gray-600">
-                We're writing the cultural guide for {drama.englishName}. Check back shortly.
+                We&apos;re writing the cultural guide for {drama.englishName}. Check back shortly.
               </p>
             </div>
           )}
