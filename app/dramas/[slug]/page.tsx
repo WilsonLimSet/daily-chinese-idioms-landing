@@ -207,9 +207,6 @@ export default async function DramaPage({ params }: PageParams) {
                   alt={drama.englishName}
                   loading="eager"
                   className="h-full w-full object-cover"
-                  onError={e => {
-                    (e.currentTarget as HTMLImageElement).style.display = 'none';
-                  }}
                 />
               ) : (
                 <div className="flex h-full w-full items-center justify-center p-6 text-center">
