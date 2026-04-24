@@ -155,11 +155,31 @@ export async function getBlogPost(slug: string, lang?: string): Promise<BlogPost
 // localized slug to use in that language. Used for hreflang alternates.
 const slugMapCache = new Map<string, Record<string, string>>();
 
+// Idiom slugs are served at /{lang}/blog/{english-slug} for every language via
+// the idioms.json fallback in getAllBlogPosts, so hreflang can safely advertise
+// the English slug for every language. Drama/article posts live only in markdown —
+// if a language lacks a translation file, that URL does not exist.
+let idiomSlugSet: Set<string> | null = null;
+function getIdiomSlugSet(): Set<string> {
+  if (idiomSlugSet) return idiomSlugSet;
+  try {
+    const idioms = JSON.parse(
+      fs.readFileSync(path.join(process.cwd(), 'public/idioms.json'), 'utf-8')
+    );
+    idiomSlugSet = new Set(idioms.map((i: { pinyin: string }) => pinyinToSlug(i.pinyin)));
+  } catch {
+    idiomSlugSet = new Set();
+  }
+  return idiomSlugSet;
+}
+
 export function getLocalizedSlugsForOriginal(originalSlug: string): Record<string, string> {
   if (slugMapCache.has(originalSlug)) return slugMapCache.get(originalSlug)!;
 
   const result: Record<string, string> = { en: originalSlug };
   const translationsRoot = path.join(process.cwd(), 'content/blog/translations');
+  const isIdiomPost = getIdiomSlugSet().has(originalSlug);
+
   if (fs.existsSync(translationsRoot)) {
     for (const lang of fs.readdirSync(translationsRoot)) {
       const langDir = path.join(translationsRoot, lang);
@@ -177,8 +197,10 @@ export function getLocalizedSlugsForOriginal(originalSlug: string): Record<strin
           }
         } catch { /* skip malformed */ }
       }
-      // If no translation file for this lang has matching originalSlug, keep English as fallback
-      if (!(lang in result)) result[lang] = originalSlug;
+      // If no translated markdown exists, include the English slug ONLY when the page
+      // is guaranteed to exist via the idioms.json fallback (regular idiom posts).
+      // Drama/article posts are omitted so hreflang never advertises 404ing URLs.
+      if (!(lang in result) && isIdiomPost) result[lang] = originalSlug;
     }
   }
 

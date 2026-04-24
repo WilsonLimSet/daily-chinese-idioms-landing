@@ -52,6 +52,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
     'hi': 'hi_IN',
     'ar': 'ar_AR',
     'fr': 'fr_FR',
+    'de': 'de_DE',
     'tl': 'tl_PH',
     'ms': 'ms_MY',
     'ru': 'ru_RU'
@@ -148,8 +149,8 @@ export default async function InternationalThemePage({ params }: { params: Promi
         {
           "@type": "ListItem",
           "position": 2,
-          "name": getTranslation(lang, 'footerBlog'),
-          "item": `https://www.chineseidioms.com/${lang}/blog`
+          "name": "Themes",
+          "item": `https://www.chineseidioms.com/themes`
         },
         {
           "@type": "ListItem",

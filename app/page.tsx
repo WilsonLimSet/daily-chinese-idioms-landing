@@ -84,9 +84,11 @@ const FEATURED_LISTICLE_SLUGS = [
 export default async function Home() {
   const allPosts = await getAllBlogPosts();
   const allListicles = getAllListicles();
+  // Exclude drama/article posts (empty idiom fields) so theme counts reflect real idioms.
+  const idiomPosts = allPosts.filter(post => post.idiom.characters);
 
   const themeCounts = Object.keys(THEME_MAP).reduce((acc, theme) => {
-    acc[theme] = allPosts.filter(post =>
+    acc[theme] = idiomPosts.filter(post =>
       post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-') === theme
     ).length;
     return acc;

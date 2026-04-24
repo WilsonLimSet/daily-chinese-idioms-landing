@@ -24,7 +24,8 @@ export async function generateMetadata({
   const localeMap: { [key: string]: string } = {
     'es': 'es_ES', 'pt': 'pt_BR', 'id': 'id_ID', 'vi': 'vi_VN',
     'ja': 'ja_JP', 'ko': 'ko_KR', 'th': 'th_TH', 'hi': 'hi_IN',
-    'ar': 'ar_AR', 'fr': 'fr_FR', 'tl': 'tl_PH', 'ms': 'ms_MY', 'ru': 'ru_RU'
+    'ar': 'ar_AR', 'fr': 'fr_FR', 'de': 'de_DE', 'tl': 'tl_PH',
+    'ms': 'ms_MY', 'ru': 'ru_RU'
   };
 
   const ogLocale = localeMap[lang] || 'en_US';
@@ -110,6 +111,8 @@ export default async function InternationalHomePage({
 }) {
   const { lang } = await params;
   const allPosts = await getAllBlogPosts();
+  // Exclude drama/article posts (empty idiom fields) so theme counts reflect real idioms.
+  const idiomPosts = allPosts.filter(post => post.idiom.characters);
   const allListicles = getAllListicles();
   const quiz = getQuiz(lang);
 
@@ -122,7 +125,7 @@ export default async function InternationalHomePage({
     .filter(Boolean);
 
   const themeCounts = THEME_SLUGS.reduce((acc, theme) => {
-    acc[theme] = allPosts.filter(post =>
+    acc[theme] = idiomPosts.filter(post =>
       post.idiom.theme.toLowerCase().replace(/[&\s]+/g, '-') === theme
     ).length;
     return acc;
@@ -260,7 +263,7 @@ export default async function InternationalHomePage({
               <p className="text-xs text-red-600 font-medium mt-2">{getTranslation(lang, 'festivalsCardCta')} →</p>
             </Link>
             <Link
-              href={`/${lang}/dramas`}
+              href="/dramas"
               className="p-5 bg-rose-50 rounded-xl border border-rose-100 hover:shadow-md hover:border-rose-200 transition-all group relative"
             >
               <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-rose-500 px-2 py-0.5 rounded-full">New</span>

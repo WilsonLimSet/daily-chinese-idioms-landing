@@ -36,7 +36,10 @@ export const metadata = {
 
 export default async function BlogPage() {
   // Fetch all posts at build time
-  const posts = await getAllBlogPosts();
+  const allPosts = await getAllBlogPosts();
+  // Drama/article posts have empty idiom fields and render as blank cards in the index grid.
+  // They're surfaced through /dramas instead.
+  const posts = allPosts.filter(p => p.idiom.characters);
   const listicles = getAllListicles();
 
   // Extract unique themes server-side

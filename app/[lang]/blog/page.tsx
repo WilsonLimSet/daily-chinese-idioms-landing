@@ -28,6 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
     'hi': 'hi_IN',
     'ar': 'ar_AR',
     'fr': 'fr_FR',
+    'de': 'de_DE',
     'tl': 'tl_PH',
     'ms': 'ms_MY',
     'ru': 'ru_RU'
@@ -84,7 +85,10 @@ export default async function InternationalBlogPage({ params }: { params: Promis
   const { lang } = await params;
 
   // Fetch translated posts
-  const posts = await getAllBlogPosts(lang);
+  const allPosts = await getAllBlogPosts(lang);
+  // Drama/article posts have empty idiom fields and render as blank cards in the index grid.
+  // They're surfaced through /dramas instead.
+  const posts = allPosts.filter(p => p.idiom.characters);
   const listicles = getAllListiclesTranslated(lang);
 
   // Extract unique themes

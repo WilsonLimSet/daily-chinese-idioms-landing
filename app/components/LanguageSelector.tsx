@@ -5,7 +5,7 @@ import { useRouter, usePathname } from 'next/navigation';
 import { Globe } from 'lucide-react';
 import { LANGUAGE_CONFIG } from '@/src/lib/constants';
 
-export default function LanguageSelector({ currentLang = 'en', dropdownPosition = 'up' }: { currentLang?: string; dropdownPosition?: 'up' | 'down' }) {
+export default function LanguageSelector({ currentLang = 'en', dropdownPosition = 'up', forceHome = false }: { currentLang?: string; dropdownPosition?: 'up' | 'down'; forceHome?: boolean }) {
   const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
@@ -25,6 +25,14 @@ export default function LanguageSelector({ currentLang = 'en', dropdownPosition 
   }, []);
 
   const handleLanguageChange = (langCode: string) => {
+    // When forceHome is set the current page has no localized equivalent (e.g. /dramas),
+    // so switching language routes to that language's home page instead of 404ing.
+    if (forceHome) {
+      router.push(langCode === 'en' ? '/' : `/${langCode}`);
+      setIsOpen(false);
+      return;
+    }
+
     // Get the base path after removing the language prefix
     const pathWithoutLang = pathname.replace(/^\/[a-z]{2}(\/|$)/, '/');
 

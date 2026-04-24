@@ -9,7 +9,7 @@ import { LANGUAGES, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
-import { getListiclesForIdiom } from '@/src/lib/listicles';
+import { getListiclesForIdiom, getLocalizedSlug as getLocalizedListicleSlug } from '@/src/lib/listicles';
 import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
 import '@/app/blog/blog.css';
 
@@ -63,6 +63,7 @@ export async function generateMetadata({
     'hi': 'hi_IN',
     'ar': 'ar_AR',
     'fr': 'fr_FR',
+    'de': 'de_DE',
     'tl': 'tl_PH',
     'ms': 'ms_MY',
     'ru': 'ru_RU'
@@ -82,19 +83,23 @@ export async function generateMetadata({
     ? (post.idiom.description || post.title)
     : `${post.idiom.characters} (${post.idiom.pinyin}): "${post.idiom.metaphoric_meaning}" — ${getTranslation(lang, 'faqMeaningAnswer1')} "${post.idiom.meaning}". ${getTranslation(lang, 'originUsage')}.`;
 
+  const idiomKeywords = isArticle ? [] : [
+    post.idiom.characters,
+    post.idiom.pinyin,
+    pinyinNoTones,
+    pinyinNoTones.replace(/\s+/g, ''),
+    `${pinyinNoTones} meaning`,
+    `${post.idiom.characters} ${meaningWord}`,
+    `${post.idiom.characters} meaning`,
+    `${post.idiom.characters} 英文`,
+    `${post.idiom.characters} 意味`,
+  ];
+
   return {
     title,
     description,
     keywords: [
-      post.idiom.characters,
-      post.idiom.pinyin,
-      pinyinNoTones,
-      pinyinNoTones.replace(/\s+/g, ''),
-      `${pinyinNoTones} meaning`,
-      `${post.idiom.characters} ${meaningWord}`,
-      `${post.idiom.characters} meaning`,
-      `${post.idiom.characters} 英文`,
-      `${post.idiom.characters} 意味`,
+      ...idiomKeywords,
       'chinese idioms',
       'chengyu',
       '成语',
@@ -103,13 +108,20 @@ export async function generateMetadata({
     ],
     openGraph: {
       title,
-      description: post.idiom.metaphoric_meaning,
+      description: isArticle ? (post.idiom.description || post.title) : post.idiom.metaphoric_meaning,
       url: `https://www.chineseidioms.com/${lang}/blog/${slug}`,
       siteName: 'Chinese Idioms',
       locale: ogLocale,
       alternateLocale: alternateLocales,
       type: 'article',
       publishedTime: post.date,
+      images: ['/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description: isArticle ? (post.idiom.description || post.title) : post.idiom.metaphoric_meaning,
+      images: ['/og-image.png'],
     },
     alternates: (() => {
       // Resolve the English (original) slug for this post so hreflang alternates
@@ -122,7 +134,9 @@ export async function generateMetadata({
           'x-default': `/blog/${englishSlug}`,
           'en': `/blog/${englishSlug}`,
           ...Object.fromEntries(
-            Object.keys(LANGUAGES).map(l => [l, `/${l}/blog/${slugMap[l] || englishSlug}`])
+            Object.entries(slugMap)
+              .filter(([l]) => l !== 'en')
+              .map(([l, s]) => [l, `/${l}/blog/${s}`])
           ),
         },
       };
@@ -157,16 +171,19 @@ export default async function InternationalBlogPostPage({
   const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
 
   // Find semantically related posts (stronger topical relevance)
+  // Require a real idiom on the candidate so drama articles (empty idiom fields) don't render blank cards.
   const relatedPosts = allPosts
     .filter(p => {
-      if (!p.idiom.characters || !post.idiom.characters) {
-        return p.idiom.theme === post.idiom.theme && p.slug !== slug;
+      if (p.slug === slug) return false;
+      if (!p.idiom.characters) return false;
+      if (!post.idiom.characters) {
+        return p.idiom.theme === post.idiom.theme;
       }
       const sameTheme = p.idiom.theme === post.idiom.theme;
       const similarMeaning = p.idiom.metaphoric_meaning.toLowerCase().includes(
         post.idiom.metaphoric_meaning.toLowerCase().split(' ')[0]
       );
-      return (sameTheme || similarMeaning) && p.slug !== slug;
+      return sameTheme || similarMeaning;
     })
     .slice(0, 8);
 
@@ -206,14 +223,17 @@ export default async function InternationalBlogPostPage({
           url: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://www.chineseidioms.com'}/icon.png`
         }
       },
-      description: post.idiom.metaphoric_meaning,
+      description: isArticle
+        ? (post.idiom.description || post.title)
+        : post.idiom.metaphoric_meaning,
       inLanguage: lang,
       mainEntityOfPage: {
         '@type': 'WebPage',
         '@id': `https://www.chineseidioms.com/${lang}/blog/${slug}`
       }
     },
-    {
+    // FAQ schema only applies to idiom posts — drama/article posts lack the characters/pinyin/meaning fields.
+    ...(isArticle ? [] : [{
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
       inLanguage: lang,
@@ -243,7 +263,7 @@ export default async function InternationalBlogPostPage({
           }
         }
       ]
-    },
+    }]),
     {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
@@ -475,7 +495,7 @@ export default async function InternationalBlogPostPage({
                 {relatedListicles.map(listicle => (
                   <Link
                     key={listicle.slug}
-                    href={`/${lang}/blog/lists/${listicle.slug}`}
+                    href={`/${lang}/blog/lists/${getLocalizedListicleSlug(listicle.slug, lang)}`}
                     className="block p-4 bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow border border-gray-100"
                   >
                     <h3 className="font-semibold text-gray-900 text-sm mb-1">{listicle.title}</h3>
@@ -518,7 +538,7 @@ export default async function InternationalBlogPostPage({
                 href="/dramas"
                 className="inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
               >
-                /dramas
+                {getTranslation(lang, 'dramasCardCta')}
                 <ChevronRight className="h-4 w-4" />
               </Link>
             </div>

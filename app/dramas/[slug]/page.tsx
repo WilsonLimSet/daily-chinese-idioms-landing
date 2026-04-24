@@ -320,7 +320,7 @@ export default async function DramaPage({ params }: PageParams) {
                 Blog
               </Link>
               <span className="hidden text-gray-300 sm:inline">&bull;</span>
-              <LanguageSelector currentLang="en" />
+              <LanguageSelector currentLang="en" forceHome />
             </div>
           </div>
         </div>

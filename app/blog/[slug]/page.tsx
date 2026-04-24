@@ -1,6 +1,5 @@
 import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
 import { getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
-import { LANGUAGES } from '@/src/lib/constants';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
 import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
 import { notFound } from 'next/navigation';
@@ -61,22 +60,26 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const pinyinNoSpaces = pinyinNoTones.replace(/\s+/g, '');
   const misspellingKeywords = pinyinNoSpaces !== pinyinNoTones ? [pinyinNoSpaces] : [];
 
+  const idiomKeywords = isArticle ? [] : [
+    post.idiom.characters,
+    post.idiom.pinyin,
+    pinyinNoTones,
+    `${pinyinNoTones} meaning`,
+    `${post.idiom.characters} meaning`,
+    `${post.idiom.characters} meaning in english`,
+    `${post.idiom.characters} 意味`,
+    `${post.idiom.characters} 英文`,
+    ...misspellingKeywords,
+  ];
+
   return {
     title,
     description,
     keywords: [
-      post.idiom.characters,
-      post.idiom.pinyin,
-      pinyinNoTones,
-      `${pinyinNoTones} meaning`,
-      `${post.idiom.characters} meaning`,
-      `${post.idiom.characters} meaning in english`,
-      `${post.idiom.characters} 意味`,
-      `${post.idiom.characters} 英文`,
+      ...idiomKeywords,
       'chinese idiom',
       'chengyu',
       post.idiom.theme.toLowerCase(),
-      ...misspellingKeywords,
       ...(override?.extraKeywords || []),
     ].join(', '),
     openGraph: {
@@ -85,17 +88,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       url: `https://www.chineseidioms.com/blog/${slug}`,
       siteName: 'Chinese Idioms',
       locale: 'en_US',
-      alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
+      alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'de_DE', 'tl_PH', 'ms_MY', 'ru_RU'],
       type: 'article',
       publishedTime: post.date,
       modifiedTime: post.date,
       authors: ['Chinese Idioms'],
       tags: ['Chinese idioms', 'Chengyu', post.idiom.theme, 'Learn Chinese'],
+      images: ['/og-image.png'],
     },
     twitter: {
       card: 'summary_large_image',
       title,
       description,
+      images: ['/og-image.png'],
     },
     alternates: (() => {
       const slugMap = getLocalizedSlugsForOriginal(slug);
@@ -105,7 +110,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           'x-default': `/blog/${slug}`,
           'en': `/blog/${slug}`,
           ...Object.fromEntries(
-            Object.keys(LANGUAGES).map(l => [l, `/${l}/blog/${slugMap[l] || slug}`])
+            Object.entries(slugMap)
+              .filter(([l]) => l !== 'en')
+              .map(([l, s]) => [l, `/${l}/blog/${s}`])
           ),
         },
       };
@@ -135,18 +142,19 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : null;
 
   // Find semantically related posts (stronger topical relevance)
+  // Require a real idiom on the candidate so drama articles (empty idiom fields) don't render blank cards.
   const relatedPosts = allPosts
     .filter(p => {
-      if (!p.idiom.characters || !post.idiom.characters) {
-        // For articles, match by theme only
-        return p.idiom.theme === post.idiom.theme && p.slug !== slug;
+      if (p.slug === slug) return false;
+      if (!p.idiom.characters) return false;
+      if (!post.idiom.characters) {
+        return p.idiom.theme === post.idiom.theme;
       }
-      // Same theme OR similar meaning patterns
       const sameTheme = p.idiom.theme === post.idiom.theme;
       const similarMeaning = p.idiom.metaphoric_meaning.toLowerCase().includes(
         post.idiom.metaphoric_meaning.toLowerCase().split(' ')[0]
       );
-      return (sameTheme || similarMeaning) && p.slug !== slug;
+      return sameTheme || similarMeaning;
     })
     .slice(0, 8);
 

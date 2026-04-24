@@ -6,6 +6,8 @@ const SUPPORTED_LANGUAGES = new Set([
   'es', 'pt', 'id', 'hi', 'ja', 'ko', 'vi', 'th', 'ar', 'fr', 'de', 'tl', 'ms', 'ru'
 ]);
 
+const RTL_LANGUAGES = new Set(['ar']);
+
 export default async function LangLayout({
   children,
   params,
@@ -20,7 +22,7 @@ export default async function LangLayout({
   }
 
   return (
-    <html lang={lang}>
+    <html lang={lang} dir={RTL_LANGUAGES.has(lang) ? 'rtl' : 'ltr'}>
       <body className="antialiased">
         {children}
         <Analytics />

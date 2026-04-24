@@ -287,12 +287,10 @@ export default async function TranslatedListiclePage({
           <div className="grid gap-3 sm:gap-4 md:grid-cols-2">
             {listicle.idioms.map((item, index) => {
               if (!item.idiom) return null;
-              return (
-                <Link
-                  href={item.blogSlug ? `/${lang}/blog/${item.blogSlug}` : `/${lang}/blog`}
-                  key={item.idiom.id}
-                  className="group flex items-center gap-4 bg-white/80 backdrop-blur-sm rounded-xl p-4 border border-white hover:bg-white hover:shadow-lg hover:border-blue-200 hover:-translate-y-0.5 transition-all duration-200"
-                >
+              const cardClass = "group flex items-center gap-4 bg-white/80 backdrop-blur-sm rounded-xl p-4 border border-white transition-all duration-200";
+              const interactiveClass = " hover:bg-white hover:shadow-lg hover:border-blue-200 hover:-translate-y-0.5";
+              const body = (
+                <>
                   <span className="flex-shrink-0 w-8 h-8 bg-gradient-to-br from-red-500 to-red-600 rounded-lg flex items-center justify-center text-white font-bold text-sm shadow-sm">
                     {index + 1}
                   </span>
@@ -301,7 +299,16 @@ export default async function TranslatedListiclePage({
                     <span className="text-gray-300 mx-2">·</span>
                     <span className="text-gray-600 text-sm">{item.idiom.metaphoric_meaning}</span>
                   </div>
+                </>
+              );
+              return item.blogSlug ? (
+                <Link href={`/${lang}/blog/${item.blogSlug}`} key={item.idiom.id} className={cardClass + interactiveClass}>
+                  {body}
                 </Link>
+              ) : (
+                <div key={item.idiom.id} className={cardClass}>
+                  {body}
+                </div>
               );
             })}
           </div>
