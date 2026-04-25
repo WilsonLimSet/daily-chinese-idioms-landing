@@ -339,14 +339,14 @@ export default async function sitemap(props: {
     priority: 0.85,
   });
 
-  // Language SBTI hub + test + type pages + cheat guides + compatibility
+  // Language SBTI hub + test + type pages
+  // Note: /how-to-get and /compatibility subpages are noindex'd in localized langs
+  // (templates lack translated body text), so we exclude them from the sitemap.
   entries.push({ url: `${baseUrl}/${lang}/sbti`, lastModified: new Date() });
   entries.push({ url: `${baseUrl}/${lang}/sbti/test`, lastModified: new Date(), priority: 0.9 });
   for (const t of getAllSbtiTypes(lang)) {
     const slug = typeCodeToSlug(t.code);
     entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}`, lastModified: new Date() });
-    entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}/how-to-get`, lastModified: new Date() });
-    entries.push({ url: `${baseUrl}/${lang}/sbti/${slug}/compatibility`, lastModified: new Date() });
   }
   entries.push({ url: `${baseUrl}/${lang}/sbti/slang`, lastModified: new Date() });
   entries.push({ url: `${baseUrl}/${lang}/slang/tiktok-chinese`, lastModified: new Date() });
@@ -427,16 +427,8 @@ export default async function sitemap(props: {
     priority: 0.85,
   });
 
-  const langCharPages = getAllCharacterPages();
-  for (const char of langCharPages) {
-    if (char.count <= 5) continue; // Skip thin character pages
-    entries.push({
-      url: `${baseUrl}/${lang}/characters/${char.slug}`,
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.75,
-    });
-  }
+  // Localized /[lang]/characters/[slug] pages no longer build (5,781 routes,
+  // 0.008 clicks/page/28d). English /characters/[slug] still indexed.
 
   // Language poet pages
   entries.push({
