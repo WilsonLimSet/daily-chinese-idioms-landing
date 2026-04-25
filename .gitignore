@@ -36,6 +36,18 @@ yarn-error.log*
 # vercel
 .vercel
 
+# audit credentials + outputs (never commit these)
+.gsc-oauth.json
+.gsc-token.json
+.vercel-token
+audits/data/
+
+# runtime state files for content/translation scripts
+.quora-history.json
+.translate-new-progress.json
+.medium-history.json
+.series-history.json
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -1,0 +1,96 @@
+name: Weekly SEO Audit
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Restore GSC credentials
+        env:
+          GSC_OAUTH_JSON: ${{ secrets.GSC_OAUTH_JSON }}
+          GSC_TOKEN_JSON: ${{ secrets.GSC_TOKEN_JSON }}
+        run: |
+          if [ -z "$GSC_OAUTH_JSON" ] || [ -z "$GSC_TOKEN_JSON" ]; then
+            echo "::error::Missing GSC_OAUTH_JSON or GSC_TOKEN_JSON secrets"
+            exit 1
+          fi
+          printf '%s' "$GSC_OAUTH_JSON" > .gsc-oauth.json
+          printf '%s' "$GSC_TOKEN_JSON" > .gsc-token.json
+          chmod 600 .gsc-oauth.json .gsc-token.json
+
+      - name: Pull GSC data
+        run: node scripts/audit/pull-gsc.js
+
+      - name: Generate report
+        run: node scripts/audit/report.js
+
+      - name: Compute audit date
+        id: date
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Create branch and commit audit
+        env:
+          AUDIT_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          rm -f .gsc-oauth.json .gsc-token.json
+
+          git config user.name 'audit-bot'
+          git config user.email 'audit-bot@users.noreply.github.com'
+
+          BRANCH="audit/${AUDIT_DATE}"
+          if git ls-remote --exit-code --heads origin "$BRANCH" > /dev/null 2>&1; then
+            BRANCH="${BRANCH}-$(date -u +%H%M)"
+          fi
+          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
+
+          git checkout -b "$BRANCH"
+          git add audits/
+          if git diff --cached --quiet; then
+            echo "No audit changes to commit. Skipping PR."
+            echo "SKIP_PR=true" >> "$GITHUB_ENV"
+            exit 0
+          fi
+          git commit -m "Weekly SEO audit: ${AUDIT_DATE}"
+          git push origin "$BRANCH"
+
+      - name: Open pull request
+        if: env.SKIP_PR != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AUDIT_DATE: ${{ steps.date.outputs.date }}
+        run: |
+          PR_BODY=$(printf '%s\n' \
+            "Automated weekly Search Console audit." \
+            "" \
+            "Full report: \`audits/${AUDIT_DATE}.md\`" \
+            "" \
+            "Trigger manually via Actions tab > Weekly SEO Audit > Run workflow.")
+
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "Weekly SEO audit: ${AUDIT_DATE}" \
+            --body "$PR_BODY"
