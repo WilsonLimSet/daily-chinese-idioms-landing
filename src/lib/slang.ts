@@ -13,6 +13,8 @@ export type SlangTerm = {
   formality: 'very informal' | 'informal' | 'neutral';
   metaTitle?: string;
   metaDescription?: string;
+  /** Optional slug of a long-form blog post that goes deeper than this dictionary entry. */
+  deepDiveSlug?: string;
 };
 
 export type TranslatedSlangTerm = SlangTerm & {
@@ -44,6 +46,7 @@ export const slangTerms: SlangTerm[] = [
     formality: 'very informal',
     metaTitle: 'YYDS Meaning — 永远的神 "Forever God" | Chinese Internet Slang',
     metaDescription: 'YYDS (永远的神) means "Forever God" — the Chinese internet\'s way of saying GOAT. Born from a gaming streamer in 2020, now used everywhere from Bilibili to WeChat. Origin story, examples & how to use it.',
+    deepDiveSlug: 'yyds-meaning-chinese-internet-slang-yong-yuan-de-shen',
   },
   {
     slug: 'nei-juan',
@@ -76,6 +79,7 @@ export const slangTerms: SlangTerm[] = [
     formality: 'informal',
     metaTitle: '躺平 (Tǎng Píng) — "Lying Flat": China\'s Anti-Hustle Movement',
     metaDescription: '躺平 means "lying flat" — China\'s viral rejection of overwork culture. A factory worker quit, traveled on nothing, and inspired millions. How 躺平 became Gen Z\'s answer to 内卷 (involution). Meaning, origin & examples.',
+    deepDiveSlug: 'tang-ping-lying-flat-chinese-millennial-movement-meaning',
   },
   {
     slug: 'bai-lan',
@@ -404,6 +408,7 @@ export const slangTerms: SlangTerm[] = [
     category: 'Internet Culture',
     era: '2016',
     formality: 'informal',
+    deepDiveSlug: 'chi-gua-eating-melon-chinese-internet-slang-meaning-origin',
   },
   {
     slug: 'niu',
@@ -418,6 +423,7 @@ export const slangTerms: SlangTerm[] = [
     category: 'Emotions & Reactions',
     era: '2000s',
     formality: 'very informal',
+    deepDiveSlug: 'niu-bi-meaning-chinese-slang-awesome-cool-history',
   },
   {
     slug: 'gan',
@@ -852,6 +858,7 @@ export const slangTerms: SlangTerm[] = [
     category: 'Work & Hustle',
     era: '2020s',
     formality: 'informal',
+    deepDiveSlug: 'mo-yu-touching-fish-chinese-slang-slacking-off-work',
   },
   {
     slug: 'po-fang',

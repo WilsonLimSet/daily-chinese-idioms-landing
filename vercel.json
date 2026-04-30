@@ -11,6 +11,16 @@
       "destination": "https://www.chineseidioms.com/ads.txt"
     },
     {
+      "source": "/robots.txt",
+      "has": [
+        {
+          "type": "host",
+          "value": "chineseidioms.com"
+        }
+      ],
+      "destination": "https://www.chineseidioms.com/robots.txt"
+    },
+    {
       "source": "/:lang(ar|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/blog/lists/:slug*",
       "destination": "/:lang/blog/lists"
     },
@@ -29,7 +39,7 @@
   ],
   "redirects": [
     {
-      "source": "/((?!ads.txt).*)",
+      "source": "/((?!ads.txt|robots.txt).*)",
       "has": [
         {
           "type": "host",

@@ -68,7 +68,7 @@ export async function getAllBlogPosts(): Promise<BlogPost[]> {
             example: '',
             chineseExample: '',
             theme: data.theme || '',
-            description: '',
+            description: data.description || '',
             metaphoric_meaning: data.metaphoric_meaning || '',
             traditionalCharacters: data.characters || '',
             description_tr: '',

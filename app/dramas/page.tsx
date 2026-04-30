@@ -2,78 +2,152 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
-import { getDramasWithPosts } from '@/src/lib/dramas';
+import { getAllDramaSeries, getDramasWithPosts } from '@/src/lib/dramas';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
-export const metadata: Metadata = {
-  title: 'Chinese Dramas & Idioms — Series Guide | Chinese Idioms',
-  description:
-    'Learn Chinese through the dramas everyone is watching. Deep dives on First Frost, Pursuit of Jade, The Heir, Guardians of Dafeng, and Love Beyond the Grave — with the idioms, poetry, and cultural history behind each series.',
-  keywords: [
+export function generateMetadata(): Metadata {
+  const series = getAllDramaSeries();
+  const dramaNames = series.map(s => s.englishName).join(', ');
+  const description = `Learn Chinese through the dramas everyone is watching. Deep dives on ${dramaNames} — with the idioms, poetry, and cultural history behind each series.`;
+  const keywords = [
     'chinese dramas',
     'c-drama',
     'chinese tv shows',
-    'first frost drama',
-    'pursuit of jade',
-    'the heir drama',
-    'guardians of dafeng',
-    'love beyond the grave',
+    'best chinese drama 2026',
     'learn chinese through drama',
     'chinese idioms in dramas',
-  ],
-  openGraph: {
-    title: 'Chinese Dramas & Idioms — Series Guide',
-    description:
-      'Deep dives on the Chinese dramas people are watching — the idioms, poetry, and cultural history behind each series.',
-    url: 'https://www.chineseidioms.com/dramas',
-    siteName: 'Chinese Idioms',
-    locale: 'en_US',
-    type: 'website',
-  },
-  alternates: {
-    canonical: 'https://www.chineseidioms.com/dramas',
-    languages: {
-      'x-default': '/dramas',
-      en: '/dramas',
+    ...series.flatMap(s => [s.englishName.toLowerCase(), s.chineseName]),
+  ];
+
+  return {
+    title: 'Chinese Dramas & Idioms — Series Guide | Chinese Idioms',
+    description,
+    keywords,
+    openGraph: {
+      title: 'Chinese Dramas & Idioms — Series Guide',
+      description: `Deep dives on the Chinese dramas people are watching — ${series.length} series including ${series.slice(0, 3).map(s => s.englishName).join(', ')} and more.`,
+      url: 'https://www.chineseidioms.com/dramas',
+      siteName: 'Chinese Idioms',
+      locale: 'en_US',
+      type: 'website',
     },
-  },
-};
+    alternates: {
+      canonical: 'https://www.chineseidioms.com/dramas',
+      languages: {
+        'x-default': '/dramas',
+        en: '/dramas',
+      },
+    },
+  };
+}
 
 export default function DramasPage() {
   const dramas = getDramasWithPosts();
   const totalPosts = dramas.reduce((acc, d) => acc + d.posts.length, 0);
 
-  const structuredData = {
-    '@context': 'https://schema.org',
-    '@type': 'CollectionPage',
-    name: 'Chinese Dramas & Idioms',
-    description:
-      'A guide to the Chinese dramas everyone is watching — the idioms, poetry, and cultural history behind each series.',
-    url: 'https://www.chineseidioms.com/dramas',
-    inLanguage: 'en',
-    isPartOf: {
-      '@type': 'WebSite',
-      name: 'Chinese Idioms',
-      url: 'https://www.chineseidioms.com',
+  const airingDramas = dramas.filter(d => d.status === 'airing').map(d => d.englishName);
+  const upcomingDramas = dramas.filter(d => d.status === 'upcoming').map(d => d.englishName);
+  const completedDramas = dramas.filter(d => d.status === 'completed').map(d => d.englishName);
+
+  const structuredData = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'CollectionPage',
+      name: 'Chinese Dramas & Idioms',
+      description:
+        'A guide to the Chinese dramas everyone is watching — the idioms, poetry, and cultural history behind each series.',
+      url: 'https://www.chineseidioms.com/dramas',
+      inLanguage: 'en',
+      dateModified: new Date().toISOString().slice(0, 10),
+      isPartOf: {
+        '@type': 'WebSite',
+        name: 'Chinese Idioms',
+        url: 'https://www.chineseidioms.com',
+      },
+      breadcrumb: {
+        '@type': 'BreadcrumbList',
+        itemListElement: [
+          { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.chineseidioms.com' },
+          { '@type': 'ListItem', position: 2, name: 'Dramas', item: 'https://www.chineseidioms.com/dramas' },
+        ],
+      },
+      mainEntity: {
+        '@type': 'ItemList',
+        numberOfItems: dramas.length,
+        itemListElement: dramas.map((d, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          item: {
+            '@type': 'TVSeries',
+            name: d.englishName,
+            alternateName: d.chineseName,
+            url: `https://www.chineseidioms.com/dramas/${d.slug}`,
+            description: d.synopsis,
+            inLanguage: 'zh',
+            ...(d.cast && d.cast.length > 0 ? {
+              actor: d.cast.map(name => ({ '@type': 'Person', name })),
+            } : {}),
+            ...(d.year ? { datePublished: d.year } : {}),
+          },
+        })),
+      },
     },
-    breadcrumb: {
-      '@type': 'BreadcrumbList',
-      itemListElement: [
-        { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.chineseidioms.com' },
-        { '@type': 'ListItem', position: 2, name: 'Dramas', item: 'https://www.chineseidioms.com/dramas' },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: 'What are the best Chinese dramas to watch in 2026?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Some of the most discussed Chinese dramas this year include ${dramas.slice(0, 5).map(d => `${d.englishName} (${d.chineseName})`).join(', ')}. Each combines popular cast, distinct genre, and rich cultural references — including classical Chinese idioms, poetry, and historical context. Full deep dives for each series are available at chineseidioms.com/dramas.`,
+          },
+        },
+        ...(airingDramas.length > 0 ? [{
+          '@type': 'Question',
+          name: 'Which Chinese dramas are currently airing?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Currently airing: ${airingDramas.join(', ')}.`,
+          },
+        }] : []),
+        ...(upcomingDramas.length > 0 ? [{
+          '@type': 'Question',
+          name: 'What new Chinese dramas are coming out soon?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Upcoming Chinese dramas with confirmed cast and release windows include ${upcomingDramas.join(', ')}.`,
+          },
+        }] : []),
+        ...(completedDramas.length > 0 ? [{
+          '@type': 'Question',
+          name: 'Which recently completed Chinese dramas are worth watching?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `Recently completed Chinese dramas with strong audience reception include ${completedDramas.join(', ')}.`,
+          },
+        }] : []),
+        {
+          '@type': 'Question',
+          name: 'Where can I watch these Chinese dramas with English subtitles?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: `${dramas.filter(d => d.platforms && d.platforms.length > 0).map(d => `${d.englishName} streams on ${d.platforms!.join(' / ')}`).join('. ')}.`,
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'How can I learn Chinese through Chinese dramas?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Watching Chinese dramas with subtitles helps you absorb conversational vocabulary, classical idioms (chengyu), and cultural references in context. Each drama on Chinese Idioms is paired with deep-dive essays explaining the chengyu, poetry, and historical references the show uses — turning passive viewing into active language learning.',
+          },
+        },
       ],
     },
-    mainEntity: {
-      '@type': 'ItemList',
-      itemListElement: dramas.map((d, i) => ({
-        '@type': 'ListItem',
-        position: i + 1,
-        name: `${d.englishName} (${d.chineseName})`,
-        description: d.synopsis,
-      })),
-    },
-  };
+  ];
 
   return (
     <div className="flex min-h-screen flex-col">

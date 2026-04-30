@@ -153,6 +153,26 @@ export default async function SlangDetailPage({ params }: { params: Promise<{ sl
             <p className="text-neutral-600 leading-[1.8]">{term.origin}</p>
           </section>
 
+          {/* Deep-dive link, only shown if a long-form article exists for this term */}
+          {term.deepDiveSlug && (
+            <section className="py-10 border-b border-neutral-200">
+              <Link
+                href={`/blog/${term.deepDiveSlug}`}
+                className="group flex items-start gap-4 p-5 bg-amber-50 border border-amber-200 rounded-xl hover:bg-amber-100 transition-colors"
+              >
+                <div className="flex-1 min-w-0">
+                  <p className="text-xs font-semibold uppercase tracking-wider text-amber-700 mb-1">
+                    Read the full story
+                  </p>
+                  <p className="text-neutral-900 font-semibold leading-snug">
+                    What does {term.characters} mean? The complete guide — origin, usage, related slang, and cultural context.
+                  </p>
+                </div>
+                <ArrowUpRight className="w-5 h-5 text-amber-700 mt-1 shrink-0 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
+              </Link>
+            </section>
+          )}
+
           {/* Examples */}
           <section className="py-10 border-b border-neutral-200">
             <h2 className="text-sm font-semibold text-neutral-900 mb-4">Examples</h2>
