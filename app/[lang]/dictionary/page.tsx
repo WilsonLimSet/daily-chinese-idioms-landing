@@ -73,7 +73,10 @@ export default async function DictionaryPage({
   params: Promise<{ lang: string }>
 }) {
   const { lang } = await params;
-  const allPosts = await getAllBlogPosts(lang);
+  const allBlogPosts = await getAllBlogPosts(lang);
+  // Drama/article posts share blog routes but have empty idiom.characters — exclude them
+  // from the dictionary's idiom counts, alphabet, and theme previews.
+  const allPosts = allBlogPosts.filter(p => p.idiom.characters);
 
   // Group idioms by first pinyin letter for quick navigation
   const alphabetGroups: { [key: string]: typeof allPosts } = {};

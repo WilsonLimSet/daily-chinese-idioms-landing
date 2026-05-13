@@ -143,6 +143,39 @@ export async function getAllBlogPosts(lang?: string): Promise<BlogPost[]> {
   return posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
+// True when the localized idioms file fell back to English for this idiom's
+// description (the translation pipeline missed the row). Pages in that state
+// are duplicates of the English version and shouldn't be indexed.
+let enDescByIdCache: Map<string, string> | null = null;
+const localizedDescByIdCache = new Map<string, Map<string, string>>();
+function loadEnDescById(): Map<string, string> {
+  if (enDescByIdCache) return enDescByIdCache;
+  const arr = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public/idioms.json'), 'utf-8'));
+  enDescByIdCache = new Map(arr.map((i: { id: string; description: string }) => [i.id, (i.description || '').trim()]));
+  return enDescByIdCache;
+}
+function loadLocalizedDescById(lang: string): Map<string, string> {
+  const cached = localizedDescByIdCache.get(lang);
+  if (cached) return cached;
+  const p = path.join(process.cwd(), `public/translations/${lang}/idioms.json`);
+  if (!fs.existsSync(p)) {
+    const empty = new Map<string, string>();
+    localizedDescByIdCache.set(lang, empty);
+    return empty;
+  }
+  const arr = JSON.parse(fs.readFileSync(p, 'utf-8'));
+  const map = new Map<string, string>(arr.map((i: { id: string; description: string }) => [i.id, (i.description || '').trim()]));
+  localizedDescByIdCache.set(lang, map);
+  return map;
+}
+export function isUntranslatedIdiom(idiomId: string, lang: string): boolean {
+  if (!idiomId || !lang || lang === 'en') return false;
+  const en = loadEnDescById().get(idiomId);
+  const localized = loadLocalizedDescById(lang).get(idiomId);
+  if (!en || !localized) return false;
+  return en === localized;
+}
+
 export async function getBlogPost(slug: string, lang?: string): Promise<BlogPost | null> {
   const posts = await getAllBlogPosts(lang);
   // Match by localized slug first, fall back to originalSlug (for compat during migration)

@@ -1,19 +1,29 @@
 ---
-title: "Chinese Character Names in First Frost: What 温以凡, 桑延, 霜降, and 败降 Really Mean"
+title: "The First Frost Chinese Name & Character Names Explained: What 难哄, 温以凡, and 桑延 Really Mean"
 date: "2026-04-14"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Wisdom & Learning"
-description: "Chinese character names carry more weight than most Western names — they're chosen for meaning, for sound, for the shape of a person's fate. Here's what the names in First Frost (难哄) actually mean, and why the drama's naming choices do a lot of quiet work that subtitles can't translate."
+description: "The Chinese name for The First Frost is 难哄 (Nán Hǒng) — 'hard to coax.' Here's what the drama's title means, and what the character names 温以凡 (Wen Yifan) and 桑延 (Sang Yan) reveal about who these people really are."
 ---
 
 **First Frost** (*难哄*, *Nán Hǒng*) became Netflix's #1 Chinese-language drama in 2025 with a story about two people named Wen Yifan and Sang Yan. International audiences pronounced the names phonetically and moved on. Chinese audiences read the names as *arguments* — compressed philosophical positions about who these characters are and what the drama is claiming about them.
 
 Chinese names do more work than English names. They're chosen, not inherited; weighted, not accidental. Parents agonize over single characters. Classical books of names (起名辞典, *qǐmíng cídiǎn*) still sell by the millions. A name is meant to carry the shape of a person's fate.
 
-Here's what the names in *First Frost* are actually doing.
+Here's what the names in *First Frost* are actually doing — starting with the drama's own title.
+
+---
+
+## The First Frost's Chinese Name: 难哄 (Nán Hǒng)
+
+Before the character names, the drama's own title needs decoding. *The First Frost* is the English distribution title — the actual Chinese name is **难哄 (Nán Hǒng)**, which translates literally to **"hard to coax"** or **"difficult to placate."** It's a phrase you'd use about a child who won't be soothed, or about someone whose anger or sadness doesn't yield to easy comfort.
+
+The English title was chosen for the original web novel's metaphor — frost that arrives early in the season and is hardest to thaw. Both titles point at the same emotional shape: a person whose hurt has settled deep enough that ordinary attempts at reassurance bounce off. The Chinese title 难哄 is more direct about *what kind of difficulty* the drama is studying. The English title is more poetic. Neither fully translates the other.
+
+This matters for what comes next: the names of the two leads — 温以凡 (Wen Yifan) and 桑延 (Sang Yan) — are arguments about who, in this story, is the one "hard to coax."
 
 ---
 

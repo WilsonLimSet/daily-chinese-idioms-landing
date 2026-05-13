@@ -1,12 +1,22 @@
 ---
-title: "Why Is It Called 'Pursuit of Jade'? The Deep Symbolism of 玉 in Chinese Culture"
+title: "What Does Pursuit of Jade (逐玉) Mean? The Drama's Title, Jade Symbolism & Why It Matters in Chinese Culture"
 date: "2026-03-18"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Life Philosophy"
-description: "Jade isn't just a gemstone in China — it represents virtue, character, and moral perfection. Explore what 玉 means in Chinese idioms and why it's central to the hit drama Pursuit of Jade (逐玉)."
+description: "Pursuit of Jade (逐玉) literally means 'chasing jade' — but in Chinese culture, jade (玉) symbolizes virtue, character, and moral perfection. Here's what the drama's title really means, why jade is central to its story, and the 5,000-year cultural weight behind 玉."
+---
+
+## What Does *Pursuit of Jade* (逐玉) Mean? — Short Answer
+
+The literal translation of *Pursuit of Jade* (逐玉, *zhú yù*) is **"chasing jade"** or **"in pursuit of jade."** But the title isn't really about a gemstone — in Chinese culture, **jade (玉) represents virtue, moral character, and the highest form of human excellence.** So the drama's title actually means something closer to **"the pursuit of moral perfection"** or **"chasing what is most precious in a person."**
+
+For Western viewers, this metaphor is invisible. For Chinese viewers, it's the entire thematic spine of the show: the protagonists aren't chasing a stone — they're chasing the kind of integrity that classical Chinese philosophy associated with jade. Confucius compared jade to the eleven virtues of a gentleman. The phrase 君子比德于玉 ("a gentleman's virtue is compared to jade") underpins the drama's central question: what does it mean to be a person of true character?
+
+Full breakdown of jade symbolism, the drama's title choice, and why this matters in Chinese culture below.
+
 ---
 
 When Western audiences hear "jade," they think of a green gemstone used in jewelry. When Chinese audiences hear 玉 (yù), they hear 5,000 years of philosophy, morality, and cultural identity. Understanding this difference is the key to understanding why the hit 2026 drama is called **Pursuit of Jade (逐玉)** — and what its characters are really chasing.

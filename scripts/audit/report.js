@@ -17,6 +17,10 @@ if (!fs.existsSync(dataDir)) {
 }
 
 const load = (name) => JSON.parse(fs.readFileSync(path.join(dataDir, name), 'utf8'));
+const loadOptional = (name) => {
+  try { return JSON.parse(fs.readFileSync(path.join(dataDir, name), 'utf8')); }
+  catch { return null; }
+};
 
 // Load datasets
 const totals28 = load('totals_last_28d.json').rows;
@@ -33,6 +37,37 @@ const pq28 = load('page_query_last_28d.json').rows;
 const countries = load('countries_last_28d.json').rows;
 const devices = load('devices_last_28d.json').rows;
 const sitemaps = load('sitemaps.json');
+
+// AdSense (optional — report still works if pull-adsense.js was skipped)
+const adsDaily28  = loadOptional('adsense_daily_28d.json');
+const adsCountries = loadOptional('adsense_countries_28d.json');
+const adsDevices   = loadOptional('adsense_devices_28d.json');
+const adsAdUnits   = loadOptional('adsense_ad_units_28d.json');
+const adsPages28   = loadOptional('adsense_pages_28d.json');
+const hasAdSense   = Boolean(adsDaily28);
+
+// AdSense uses cells[] with parallel headers[]. Convert each row to a keyed object.
+function adsRows(dump) {
+  if (!dump) return [];
+  const names = dump.headers.map(h => h.name);
+  return dump.rows.map(r => {
+    const o = {};
+    names.forEach((n, i) => { o[n] = r.cells[i] ? r.cells[i].value : undefined; });
+    return o;
+  });
+}
+function adsTotals(dump) {
+  if (!dump || !dump.totals) return {};
+  const names = dump.headers.map(h => h.name);
+  const o = {};
+  names.forEach((n, i) => { o[n] = dump.totals.cells[i] ? dump.totals.cells[i].value : undefined; });
+  return o;
+}
+function adsCurrency(dump) {
+  if (!dump) return '';
+  const earn = dump.headers.find(h => h.name === 'ESTIMATED_EARNINGS');
+  return earn?.currencyCode || '';
+}
 
 // Helpers
 const sum = (rows, k) => rows.reduce((a, r) => a + (r[k] || 0), 0);
@@ -104,6 +139,16 @@ push(`| Clicks      | ${fmt(tot7.c)} | ${delta(tot7.c, totP7.c)} | ${fmt(tot28.c
 push(`| Impressions | ${fmt(tot7.i)} | ${delta(tot7.i, totP7.i)} | ${fmt(tot28.i)} | ${delta(tot28.i, totP28.i)} |`);
 push(`| CTR         | ${pct(tot7.c / Math.max(tot7.i, 1))} | — | ${pct(tot28.c / Math.max(tot28.i, 1))} | — |`);
 push(`| Indexed pages with impressions (28d) | ${fmt(p28.length)} | — | — | — |`);
+if (hasAdSense) {
+  const daily = adsRows(adsDaily28);
+  const cur = adsCurrency(adsDaily28);
+  const earn = (arr) => arr.reduce((a, r) => a + Number(r.ESTIMATED_EARNINGS || 0), 0);
+  const last7Earn = earn(daily.slice(-7));
+  const prior7Earn = earn(daily.slice(-14, -7));
+  const totalEarn = earn(daily);
+  // Prior 28d earnings not in dataset; show — for now.
+  push(`| AdSense earnings (${cur}) | ${last7Earn.toFixed(2)} | ${delta(last7Earn, prior7Earn)} | ${totalEarn.toFixed(2)} | — |`);
+}
 push('');
 
 // --- Trend (last 14 days of clicks) ---
@@ -120,6 +165,103 @@ for (const d of last14) {
 push(`avg: ${avgClicks14.toFixed(0)} clicks/day`);
 push('```');
 push('');
+
+// --- Monetization (AdSense) ---
+if (hasAdSense) {
+  const cur = adsCurrency(adsDaily28);
+  const totals = adsTotals(adsDaily28);
+  const daily = adsRows(adsDaily28);
+
+  push('## Monetization (AdSense, last 28d)');
+  push('');
+  push('| Metric | Value |');
+  push('|---|---:|');
+  push(`| Estimated earnings | ${cur} ${Number(totals.ESTIMATED_EARNINGS || 0).toFixed(2)} |`);
+  push(`| Page views (with ads) | ${fmt(Number(totals.PAGE_VIEWS || 0))} |`);
+  push(`| Ad impressions | ${fmt(Number(totals.IMPRESSIONS || 0))} |`);
+  push(`| Clicks | ${fmt(Number(totals.CLICKS || 0))} |`);
+  push(`| Page RPM | ${cur} ${Number(totals.PAGE_VIEWS_RPM || 0).toFixed(2)} |`);
+  push(`| Page CTR | ${(Number(totals.PAGE_VIEWS_CTR || 0) * 100).toFixed(2)}% |`);
+  push('');
+
+  // Daily earnings chart
+  const last14Ads = daily.slice(-14);
+  const max14e = Math.max(...last14Ads.map(r => Number(r.ESTIMATED_EARNINGS || 0))) || 1;
+  push('### Daily earnings, last 14 days');
+  push('');
+  push('```');
+  for (const d of last14Ads) {
+    const e = Number(d.ESTIMATED_EARNINGS || 0);
+    const bar = '█'.repeat(Math.round((e / max14e) * 40));
+    push(`${d.DATE}  ${cur} ${e.toFixed(2).padStart(6)}  ${bar}`);
+  }
+  const avgE = last14Ads.reduce((a, r) => a + Number(r.ESTIMATED_EARNINGS || 0), 0) / Math.max(last14Ads.length, 1);
+  push(`avg: ${cur} ${avgE.toFixed(2)} / day`);
+  push('```');
+  push('');
+
+  // Top countries by earnings
+  if (adsCountries) {
+    push('### Top countries by earnings');
+    push('');
+    push(`| Country | Earnings (${cur}) | Page views | RPM | Clicks | CTR |`);
+    push('|---|---:|---:|---:|---:|---:|');
+    adsRows(adsCountries)
+      .sort((a, b) => Number(b.ESTIMATED_EARNINGS) - Number(a.ESTIMATED_EARNINGS))
+      .slice(0, 15)
+      .forEach(r => {
+        push(`| ${r.COUNTRY_CODE} | ${Number(r.ESTIMATED_EARNINGS).toFixed(2)} | ${fmt(Number(r.PAGE_VIEWS))} | ${Number(r.PAGE_VIEWS_RPM).toFixed(2)} | ${r.CLICKS} | ${(Number(r.PAGE_VIEWS_CTR) * 100).toFixed(2)}% |`);
+      });
+    push('');
+  }
+
+  // Platform / device breakdown with RPM
+  if (adsDevices) {
+    push('### Platforms by earnings');
+    push('');
+    push(`| Platform | Earnings (${cur}) | Page views | RPM | CTR |`);
+    push('|---|---:|---:|---:|---:|');
+    adsRows(adsDevices)
+      .sort((a, b) => Number(b.ESTIMATED_EARNINGS) - Number(a.ESTIMATED_EARNINGS))
+      .forEach(r => {
+        push(`| ${r.PLATFORM_TYPE_CODE} | ${Number(r.ESTIMATED_EARNINGS).toFixed(2)} | ${fmt(Number(r.PAGE_VIEWS))} | ${Number(r.PAGE_VIEWS_RPM).toFixed(2)} | ${(Number(r.PAGE_VIEWS_CTR) * 100).toFixed(2)}% |`);
+      });
+    push('');
+  }
+
+  // Ad units
+  if (adsAdUnits && adsRows(adsAdUnits).length > 0) {
+    push('### Ad units by earnings');
+    push('');
+    push(`| Ad unit | Earnings (${cur}) | Impressions | Clicks | CTR |`);
+    push('|---|---:|---:|---:|---:|');
+    adsRows(adsAdUnits)
+      .sort((a, b) => Number(b.ESTIMATED_EARNINGS) - Number(a.ESTIMATED_EARNINGS))
+      .forEach(r => {
+        push(`| ${r.AD_UNIT_NAME || '(none)'} | ${Number(r.ESTIMATED_EARNINGS).toFixed(2)} | ${fmt(Number(r.IMPRESSIONS))} | ${r.CLICKS} | ${(Number(r.PAGE_VIEWS_CTR) * 100).toFixed(2)}% |`);
+      });
+    push('');
+  }
+
+  // Per-page earnings — only useful when URL channels are configured.
+  const adsPageRows = adsRows(adsPages28);
+  if (adsPageRows.length >= 5) {
+    push('### Top earning pages');
+    push('');
+    push(`| Page | Earnings (${cur}) | Page views | RPM |`);
+    push('|---|---:|---:|---:|');
+    adsPageRows
+      .sort((a, b) => Number(b.ESTIMATED_EARNINGS) - Number(a.ESTIMATED_EARNINGS))
+      .slice(0, 25)
+      .forEach(r => {
+        push(`| ${r.PAGE_URL} | ${Number(r.ESTIMATED_EARNINGS).toFixed(2)} | ${fmt(Number(r.PAGE_VIEWS))} | ${Number(r.PAGE_VIEWS_RPM).toFixed(2)} |`);
+      });
+    push('');
+  } else {
+    push('> **Per-page earnings unavailable.** AdSense\'s `PAGE_URL` dimension only populates when URL Channels are configured. Add them at AdSense → Reports → URL Channels, then re-run after ~24h of data.');
+    push('');
+  }
+}
 
 // --- Top queries ---
 // --- Content opportunities (the most actionable section) ---

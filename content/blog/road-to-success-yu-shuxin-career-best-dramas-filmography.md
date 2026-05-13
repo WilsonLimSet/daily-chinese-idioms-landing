@@ -1,12 +1,12 @@
 ---
-title: "Yu Shuxin (Esther Yu) Career and Best Dramas: From Find Yourself to Road to Success"
+title: "Esther Yu (Yu Shuxin) Best Dramas & Career Guide: From Love Between Fairy and Devil to Road to Success"
 date: "2026-04-30"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Success & Perseverance"
-description: "Yu Shuxin (Esther Yu, 虞书欣) is one of the most-watched Chinese actresses of her generation. From her acting debut in 2016 to her breakout in Love Between Fairy and Devil and her upcoming sports romance Road to Success — a complete career guide."
+description: "Esther Yu (Yu Shuxin, 虞书欣) is one of the most-watched Chinese actresses of her generation. Her best dramas, complete filmography from Find Yourself to Love Between Fairy and Devil to Road to Success, and what makes her one of C-drama's most bankable leads."
 ---
 
 **Yu Shuxin (虞书欣)** — known internationally as **Esther Yu** — is one of the most consistently rising Chinese actresses of her generation. Born December 18, 1995, in Shanghai, she has built a career that spans idol pop, fantasy romance, and now, with **Road to Success (狭路)**, a deliberate move toward modern dramatic material.

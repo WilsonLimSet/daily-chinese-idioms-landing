@@ -1,5 +1,5 @@
 ---
-title: 'Pursuit of Jade (逐玉): 名言を中国語と英語で解説'
+title: 'Pursuit of Jade (逐玉) の意味と名言解説:タイトルの読み方と中国ドラマの名セリフ'
 date: '2026-03-22'
 characters: ''
 pinyin: ''
@@ -7,8 +7,8 @@ meaning: ''
 metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
-  Pursuit of Jadeのバイラル名言を分析—Fan Changyuの肉屋の名セリフからXie
-  Zhengの戦場の誓いまで。中国語、ピンイン、文化的背景。
+  Pursuit of Jade(逐玉、ちくぎょく)の意味とドラマの名言を解説。Fan Changyuの肉屋の名セリフからXie
+  Zhengの戦場の誓いまで、中国語・ピンイン・文化的背景を交えて。
 originalSlug: pursuit-of-jade-famous-quotes-chinese-explained
 ---
 **Pursuit of Jade (逐玉)** は視聴率の記録を打ち破っただけでなく、インターネットも破壊しました。2026年3月のプレミアから数日以内に、ドラマのセリフはDouyin、TikTok、Weiboでバイラルになりました。しかし、中国語を話さない人にとって、これらの引用に含まれる文化的な層は見逃されがちです。

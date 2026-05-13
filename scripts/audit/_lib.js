@@ -1,18 +1,19 @@
-// Shared GSC client setup for audit scripts.
+// Shared Google API client setup for audit scripts.
 const fs = require('fs');
 const path = require('path');
 const { google } = require('googleapis');
 
 const ROOT = path.resolve(__dirname, '..', '..');
 const OAUTH_PATH = path.join(ROOT, '.gsc-oauth.json');
-const TOKEN_PATH = path.join(ROOT, '.gsc-token.json');
+const GSC_TOKEN_PATH = path.join(ROOT, '.gsc-token.json');
+const ADSENSE_TOKEN_PATH = path.join(ROOT, '.adsense-token.json');
 
-function getAuthedClient() {
-  if (!fs.existsSync(OAUTH_PATH) || !fs.existsSync(TOKEN_PATH)) {
-    throw new Error('Missing credentials. Run `node scripts/audit/gsc-auth.js` first.');
+function buildClient(tokenPath, authScriptName) {
+  if (!fs.existsSync(OAUTH_PATH) || !fs.existsSync(tokenPath)) {
+    throw new Error(`Missing credentials. Run \`node scripts/audit/${authScriptName}\` first.`);
   }
   const creds = JSON.parse(fs.readFileSync(OAUTH_PATH, 'utf8'));
-  const tokens = JSON.parse(fs.readFileSync(TOKEN_PATH, 'utf8'));
+  const tokens = JSON.parse(fs.readFileSync(tokenPath, 'utf8'));
   const { client_id, client_secret } = creds.installed || creds.web;
 
   const oauth2 = new google.auth.OAuth2(client_id, client_secret);
@@ -20,8 +21,16 @@ function getAuthedClient() {
   return oauth2;
 }
 
+function getAuthedClient() {
+  return buildClient(GSC_TOKEN_PATH, 'gsc-auth.js');
+}
+
 function getSearchConsole() {
   return google.searchconsole({ version: 'v1', auth: getAuthedClient() });
 }
 
-module.exports = { getAuthedClient, getSearchConsole, ROOT };
+function getAdSense() {
+  return google.adsense({ version: 'v2', auth: buildClient(ADSENSE_TOKEN_PATH, 'adsense-auth.js') });
+}
+
+module.exports = { getAuthedClient, getSearchConsole, getAdSense, ROOT };

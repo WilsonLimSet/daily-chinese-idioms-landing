@@ -48,7 +48,7 @@ const SERIES: DramaSeries[] = [
     postPrefix: 'pursuit-of-jade-',
     poster: '/dramas/pursuit-of-jade.jpg',
     platforms: ['Netflix', 'iQIYI'],
-    cast: ['Tian Xiwei', 'Wang Xingyue'],
+    cast: ['Tian Xiwei', 'Zhang Linghe'],
     novel: '《逐玉》by Tuan Zi Lai Xi',
     tags: ['historical', 'romance'],
     status: 'airing',
@@ -235,6 +235,51 @@ const SERIES: DramaSeries[] = [
     tags: ['fantasy', 'romance', 'mystery'],
     status: 'completed',
   },
+  {
+    slug: 'generation-to-generation',
+    englishName: 'Generation to Generation',
+    chineseName: '江湖夜雨十年灯',
+    pinyin: 'Jiāng Hú Yè Yǔ Shí Nián Dēng',
+    year: '2026',
+    synopsis:
+      '37-episode wuxia drama from the author of The Story of Minglan. The Six Orthodox Sects of the North vs. the Demon Sect, set in an ambiguous Song-Ming jianghu. The title is a direct lift from a famous Huang Tingjian Song-dynasty couplet about ten years of lamplit memory. Zhou Yiran stars as the "double-faced young lord" of the Demon Sect undercover among the orthodox.',
+    postPrefix: 'generation-to-generation-',
+    platforms: ['Tencent Video', 'iQIYI', 'WeTV'],
+    cast: ['Zhou Yiran', 'Wan Peng', 'Li Yunrui'],
+    novel: '《江湖夜雨十年灯》by Guan Xin Ze Luan (关心则乱)',
+    tags: ['historical', 'wuxia'],
+    status: 'completed',
+  },
+  {
+    slug: 'unveil-jadewind',
+    englishName: 'Unveil: Jadewind',
+    chineseName: '唐宫奇案',
+    pinyin: 'Táng Gōng Qí Àn',
+    year: '2026',
+    synopsis:
+      'Tang-dynasty mystery drama. Bai Lu plays Li Peiyi, a county lady with elite combat skills who investigates seven cases of apparent supernatural horror inside the imperial court — corpse-burning, bleeding walls, skeleton brides — alongside astrologer Xiao Huaijin played by Wang Xingyue. Every "supernatural" event has a rational, more horrifying explanation rooted in political corruption. From the author of A Guide to Time-Traveling to the Tang Dynasty.',
+    postPrefix: 'unveil-jadewind-',
+    platforms: ['CCTV-8', 'Youku', 'Netflix'],
+    cast: ['Bai Lu', 'Wang Xingyue'],
+    novel: '《唐宫奇案之青雾风鸣》by Sen Lin Lu (森林鹿)',
+    tags: ['historical', 'mystery'],
+    status: 'completed',
+  },
+  {
+    slug: 'blossoms-shanghai',
+    englishName: 'Blossoms Shanghai',
+    chineseName: '繁花',
+    pinyin: 'Fán Huā',
+    year: '2023',
+    synopsis:
+      'Wong Kar-wai\'s first television series and his first major directorial work since The Grandmaster (2013). 30 episodes set in early-1990s Shanghai during Deng Xiaoping\'s reform-and-opening boom and the founding of the Shanghai Stock Exchange. Hu Ge stars as A-Bao (阿宝), a former factory worker turned stock-market tycoon, alongside Ma Yili, Tang Yan (Tiffany Tang), and Xin Zhilei as the three women whose lives intersect his. Shot in two complete dialect versions — Shanghainese (the auteur cut) and Mandarin. Adapted from Jin Yucheng\'s Mao Dun Prize-winning 2012 novel.',
+    postPrefix: 'blossoms-shanghai-',
+    platforms: ['Tencent Video', 'CCTV-8', 'Criterion Channel', 'MUBI'],
+    cast: ['Hu Ge', 'Ma Yili', 'Tang Yan', 'Xin Zhilei'],
+    novel: '《繁花》by Jin Yucheng (金宇澄)',
+    tags: ['modern'],
+    status: 'completed',
+  },
 ];
 
 export function getAllDramaSeries(): DramaSeries[] {
@@ -248,6 +293,29 @@ export function getDramaSeries(slug: string): DramaSeries | null {
 /** Given a blog post slug, return the drama it belongs to (or null). */
 export function getDramaForBlogSlug(blogSlug: string): DramaSeries | null {
   return SERIES.find(s => blogSlug.startsWith(s.postPrefix)) || null;
+}
+
+/** Return all blog posts that belong to a drama, optionally excluding one (the current post). Newest first. */
+export function getPostsForDrama(dramaSlug: string, excludeSlug?: string): DramaPost[] {
+  const drama = SERIES.find(s => s.slug === dramaSlug);
+  if (!drama) return [];
+  const contentDir = path.join(process.cwd(), 'content/blog');
+  if (!fs.existsSync(contentDir)) return [];
+  const posts: DramaPost[] = [];
+  for (const file of fs.readdirSync(contentDir)) {
+    if (!file.endsWith('.md')) continue;
+    const slug = file.replace(/\.md$/, '');
+    if (!slug.startsWith(drama.postPrefix)) continue;
+    if (slug === excludeSlug) continue;
+    const { data } = matter(fs.readFileSync(path.join(contentDir, file), 'utf8'));
+    posts.push({
+      slug,
+      title: data.title || slug,
+      date: data.date || '',
+      description: data.description || '',
+    });
+  }
+  return posts.sort((a, b) => b.date.localeCompare(a.date));
 }
 
 /** Return N other dramas (excluding the given slug), prioritizing airing > upcoming > completed. */

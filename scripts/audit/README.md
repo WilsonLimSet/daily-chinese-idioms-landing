@@ -7,9 +7,11 @@ Weekly Google Search Console audit pipeline.
 ```bash
 # One-time auth (browser flow, saves refresh token)
 node scripts/audit/gsc-auth.js
+node scripts/audit/adsense-auth.js   # AdSense (reuses .gsc-oauth.json client)
 
 # Pull data + generate report
 node scripts/audit/pull-gsc.js
+node scripts/audit/pull-adsense.js
 node scripts/audit/report.js
 
 # Resubmit sitemaps (run when content has changed substantially)
@@ -19,13 +21,17 @@ node scripts/audit/resubmit-sitemaps.js
 node scripts/audit/list-properties.js
 ```
 
+Before running `adsense-auth.js`, enable the AdSense Management API in the same Google Cloud project that owns `.gsc-oauth.json`: <https://console.cloud.google.com/apis/library/adsense.googleapis.com>
+
 Data lands in `audits/data/YYYY-MM-DD/`, the markdown report at `audits/YYYY-MM-DD.md`. Both gitignored except the markdown report (so the report can be committed via PR).
 
 ## Files
 
-- `_lib.js` — shared GSC client setup
-- `gsc-auth.js` — one-time OAuth flow
+- `_lib.js` — shared GSC + AdSense client setup
+- `gsc-auth.js` — one-time GSC OAuth flow
+- `adsense-auth.js` — one-time AdSense OAuth flow (reuses `.gsc-oauth.json`)
 - `pull-gsc.js` — pulls queries, pages, page×query, countries, devices, sitemaps
+- `pull-adsense.js` — pulls earnings, top pages, countries, devices, ad units
 - `report.js` — analyzes JSON dumps, writes markdown audit
 - `resubmit-sitemaps.js` — pings GSC to recrawl all 15 sitemaps
 - `list-properties.js` — lists accessible GSC properties

@@ -50,7 +50,10 @@ export const metadata: Metadata = {
 };
 
 export default async function DictionaryPage() {
-  const allPosts = await getAllBlogPosts();
+  const allBlogPosts = await getAllBlogPosts();
+  // Drama/article posts share blog routes but have empty idiom.characters — exclude them
+  // from the dictionary's idiom counts, alphabet, and theme previews.
+  const allPosts = allBlogPosts.filter(p => p.idiom.characters);
 
   // Group idioms by first pinyin letter for quick navigation
   const alphabetGroups: { [key: string]: typeof allPosts } = {};

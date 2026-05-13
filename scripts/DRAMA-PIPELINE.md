@@ -12,8 +12,48 @@ Your top-performing content is drama companion articles (Pursuit of Jade: 3,650 
 4. **"Learn Chinese Watching [Drama]"** — language-learning angle
 
 Optional bonus articles for hot dramas:
-- **"[Drama] Ending Explained"** — captures `结局解析` search spikes
+- **"[Drama] Ending Explained"** — captures `结局解析` search spikes; **title must include the specific question searchers ask** (see below)
+- **"[Drama] Chinese Name & Character Names Explained: What 难哄, 温以凡 Really Mean"** — captures "[drama] chinese name" volume + the linguistic moat
 - **"[Character] Through Chinese Idioms"** — character study format
+- **"History Behind [Drama]"** — period drama context
+
+## SEO-dead article shapes (DO NOT WRITE)
+
+Verified May 2026: these article shapes are unwinnable for chineseidioms.com because Google's Knowledge Panel + IMDb/MyDramaList own the SERP. We had 503 impressions and **0 clicks** at position 9.8 on "cast of the legend of zang hai" — the cast list appears in a Knowledge Panel above the fold with photos of all 8 actors.
+
+| Shape | Why it's dead | What to write instead |
+|---|---|---|
+| "Cast of [Drama]" / "[Drama] Cast Guide" / "Full Cast List" | Knowledge Panel + IMDb / MyDramaList sitelinks | "Where you've seen the [Drama] cast before" (filmography deep-dive) — analytical, not data |
+| Plot summary articles | Wikipedia + MyDramaList | "Why does [Character] do X in [Drama]" (motivation analysis) |
+| "[Drama] Episode Guide" | Streaming-service pages | "Best scenes in [Drama] and what makes them work" |
+| Generic "[Drama] explained" | AI Overview eats it | Specific question: "Is [Drama] ending happy or sad" / "Is [Drama] based on a true story" |
+
+**Rule:** if Google can answer the query with a structured-data box, don't write it. Write what requires *reading*.
+
+## Title patterns that win
+
+Frame titles around the **exact question** searchers type. From GSC data:
+
+- ❌ "Fated Hearts Ending Explained: What Happens to Fu Yi Xiao and Feng Sui Ge in the Finale" — generic, ignores the actual question
+- ✅ "Fated Hearts Ending Explained: **Is It a Happy or Sad Ending?** What Happens to Fu Yi Xiao and Feng Sui Ge" — directly matches "fated hearts happy or sad ending" query
+
+- ❌ "Chinese Character Names in First Frost: What 温以凡, 桑延..." — pure character focus, misses drama-name search volume
+- ✅ "**The First Frost Chinese Name & Character Names Explained**: What 难哄, 温以凡, and 桑延 Really Mean" — captures "first frost chinese name" (123 impr/28d) AND the linguistic moat
+
+**Title checklist for any new drama article:**
+1. Include the drama's **English name + 中文 title** (e.g., "First Frost (难哄)") — both ranking targets
+2. Lead with the **searcher's actual question** if there's volume for one ("Is it happy or sad?" / "Is it based on a true story?")
+3. Match the **dominant query pattern** for that intent — pull from GSC's `page_query_last_28d.json` before naming a new article
+4. **Add a quick-answer block at the top** of "ending explained" / "is it X" articles — 100-200 words that directly answer the question, before the deep dive. This wins featured snippets and reduces bounce.
+
+## Pre-publish SEO checklist
+
+Run this before publishing any new drama article:
+
+1. Open Google in incognito, search the target query
+2. **If you see a Knowledge Panel with the answer above the fold → don't write this article**
+3. If you see ≥3 IMDb/MyDramaList/Wikipedia results in the top 10 → reframe for a different query angle
+4. If you see editorial blogs, Reddit threads, or "X explained" articles dominating → that's your shape
 
 ## Full workflow (4 steps)
 

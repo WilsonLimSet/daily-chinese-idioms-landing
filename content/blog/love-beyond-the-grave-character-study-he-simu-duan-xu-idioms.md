@@ -1,12 +1,12 @@
 ---
-title: "He Simu and Duan Xu Through Chinese Idioms: A Character Study of Love Beyond the Grave (白日提灯)"
+title: "Who Are He Simu and Duan Xu in Love Beyond the Grave (白日提灯)? Character Guide, Backgrounds & the Idioms That Define Them"
 date: "2026-03-29"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Relationships & Character"
-description: "A 400-year-old Ghost King who pretends to be weak. A scholar who reinvented himself as a general. Dilraba and Arthur Chen's characters in Love Beyond the Grave decoded through Chinese idioms."
+description: "He Simu (贺思慕) is a 400-year-old Ghost King who pretends to be a fragile war orphan. Duan Xu (段胥) is a scholar who reinvented himself as a general. Here's who they really are, their backstories, and the Chinese idioms that decode Dilraba and Arthur Chen's roles in Love Beyond the Grave."
 ---
 
 He Simu (贺思慕) pretends to be a fragile war orphan on a battlefield. She winces at blood. She stumbles. She looks up at Duan Xu (段胥) with eyes that plead for protection. She has ruled the ghost realm for 300 years, commands the spirits of the dead, and operates a wish-exchange system that trades granted wishes for human souls. She is 400 years old, born not from a human death but from the union of the former Ghost King and a mortal woman — an evil ghost from her first breath, never once human.

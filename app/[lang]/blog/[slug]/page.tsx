@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { getAllBlogPosts, getBlogPost, getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
+import { getAllBlogPosts, getBlogPost, getLocalizedSlugsForOriginal, isUntranslatedIdiom } from '@/src/lib/blog-intl';
 import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
@@ -95,9 +95,15 @@ export async function generateMetadata({
     `${post.idiom.characters} 意味`,
   ];
 
+  // When the idiom translation pipeline missed this row, the page renders the
+  // English description under a localized URL — Google sees a duplicate and
+  // refuses to index. Tell it explicitly not to bother until the row is translated.
+  const untranslated = isUntranslatedIdiom(post.idiom.id, lang);
+
   return {
     title,
     description,
+    robots: untranslated ? { index: false, follow: true } : undefined,
     keywords: [
       ...idiomKeywords,
       'chinese idioms',
@@ -309,7 +315,7 @@ export default async function InternationalBlogPostPage({
             <div className="mb-4">
               {drama && (
                 <Link
-                  href="/dramas"
+                  href={`/dramas/${drama.slug}`}
                   className="group mb-4 inline-flex items-center gap-2 rounded-full border border-red-200 bg-red-50 px-3 py-1 text-xs font-medium text-red-700 transition-colors hover:bg-red-100"
                 >
                   <span className="font-semibold">{drama.englishName}</span>
@@ -535,7 +541,7 @@ export default async function InternationalBlogPostPage({
             </div>
             <div className="mt-6">
               <Link
-                href="/dramas"
+                href={`/dramas/${drama.slug}`}
                 className="inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
               >
                 {getTranslation(lang, 'dramasCardCta')}

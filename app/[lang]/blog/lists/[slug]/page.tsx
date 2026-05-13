@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import {
@@ -95,6 +95,13 @@ export default async function TranslatedListiclePage({
 
   if (!listicle) {
     notFound();
+  }
+
+  // 301 to the localized canonical when crawled at the English originalSlug,
+  // so Google replaces the duplicate URL in its index instead of flagging it
+  // as "Alternative page with proper canonical tag."
+  if (lang !== 'en' && listicle.slug !== slug) {
+    permanentRedirect(`/${lang}/blog/lists/${listicle.slug}`);
   }
 
   const allListicles = getRelatedListiclesTranslated(slug, lang, 4);
@@ -213,7 +220,7 @@ export default async function TranslatedListiclePage({
           </p>
         </div>
 
-        <AdUnit type="display" priority />
+        <AdUnit type="in-article" priority />
 
         {/* Idiom List */}
         <div className="space-y-6">

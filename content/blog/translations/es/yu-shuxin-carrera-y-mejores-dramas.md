@@ -1,7 +1,7 @@
 ---
 title: >-
-  Yu Shuxin (Esther Yu) Carrera y Mejores Dramas: Desde Find Yourself hasta Road
-  to Success
+  Esther Yu (Yu Shuxin) Mejores Dramas y Guía de Carrera: De Love Between Fairy
+  and Devil a Road to Success
 date: '2026-04-30'
 characters: ''
 pinyin: ''

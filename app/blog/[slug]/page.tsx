@@ -1,7 +1,7 @@
 import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
 import { getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
-import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
+import { getDramaForBlogSlug, getRelatedDramas, getPostsForDrama } from '@/src/lib/dramas';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -134,6 +134,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
   // Detect drama-series article (e.g. pursuit-of-jade-*, first-frost-*)
   const drama = getDramaForBlogSlug(slug);
   const siblingDramas = drama ? getRelatedDramas(drama.slug, 3) : [];
+  const sameUniversePosts = drama ? getPostsForDrama(drama.slug, slug).slice(0, 6) : [];
 
   // Get all posts for navigation and related content
   const allPosts = await getAllBlogPosts();
@@ -541,6 +542,45 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
             </section>
           ) : null;
         })()}
+
+        {/* More articles in the same drama universe — concentrates SEO authority on /dramas/[slug] hub */}
+        {drama && sameUniversePosts.length > 0 && (
+          <section className="mt-12 pt-8 border-t">
+            <p className="mb-2 text-xs font-semibold uppercase tracking-[0.15em] text-red-500">
+              The {drama.englishName} Universe
+            </p>
+            <h2 className="mb-6 text-2xl font-bold text-gray-900">
+              <Link href={`/dramas/${drama.slug}`} className="hover:text-red-600 transition-colors">
+                More about {drama.englishName} ({drama.chineseName})
+              </Link>
+            </h2>
+            <div className="grid gap-4 md:grid-cols-2">
+              {sameUniversePosts.map(p => (
+                <Link
+                  key={p.slug}
+                  href={`/blog/${p.slug}`}
+                  className="group rounded-lg border border-gray-200 bg-white p-5 transition hover:border-red-200 hover:shadow-sm"
+                >
+                  <p className="text-sm font-semibold text-gray-900 transition-colors group-hover:text-red-500">
+                    {p.title}
+                  </p>
+                  {p.description && (
+                    <p className="mt-2 text-xs text-gray-500 line-clamp-2">{p.description}</p>
+                  )}
+                </Link>
+              ))}
+            </div>
+            <div className="mt-6">
+              <Link
+                href={`/dramas/${drama.slug}`}
+                className="inline-flex items-center gap-1 text-sm font-medium text-red-500 transition-colors hover:text-red-600"
+              >
+                See the full {drama.englishName} guide
+                <ChevronRight className="h-4 w-4" />
+              </Link>
+            </div>
+          </section>
+        )}
 
         {/* Related Chinese Dramas — shown on drama articles */}
         {drama && siblingDramas.length > 0 && (

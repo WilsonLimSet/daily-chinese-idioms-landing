@@ -39,6 +39,7 @@ yarn-error.log*
 # audit credentials + outputs (never commit these)
 .gsc-oauth.json
 .gsc-token.json
+.adsense-token.json
 .vercel-token
 audits/data/
 
