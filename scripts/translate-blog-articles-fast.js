@@ -14,7 +14,11 @@ const path = require('path');
 const matter = require('gray-matter');
 const OpenAI = require('openai');
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const openai = new OpenAI({
+  apiKey: process.env.OPENAI_API_KEY,
+  timeout: 5 * 60 * 1000, // 5 min — long-form non-Latin translations can run 60-120s
+  maxRetries: 0, // we do our own retries with backoff below
+});
 
 const CONCURRENCY = parseInt(process.env.CONCURRENCY) || 10;
 
@@ -84,14 +88,22 @@ FRONTMATTER_JSON: {"title": "...", "description": "...", "localizedSlug": "..."}
 
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
-      const result = await openai.chat.completions.create({
+      // Stream to keep the socket actively receiving — long non-Latin
+      // translations otherwise idle past the SDK/undici socket timeout
+      // and surface as APIConnectionError mid-generation.
+      const stream = await openai.chat.completions.create({
         model: 'gpt-4o-mini',
         messages: [{ role: 'user', content: prompt }],
         max_tokens: 16384,
         temperature: 0.1,
+        stream: true,
       });
 
-      const response = result.choices[0].message.content;
+      let response = '';
+      for await (const chunk of stream) {
+        response += chunk.choices[0]?.delta?.content || '';
+      }
+
       const fmMatch = response.match(/FRONTMATTER_JSON:\s*(\{[^\n]+\})/);
       if (!fmMatch) throw new Error('No frontmatter JSON found');
 

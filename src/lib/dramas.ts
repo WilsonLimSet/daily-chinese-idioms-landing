@@ -266,6 +266,21 @@ const SERIES: DramaSeries[] = [
     status: 'completed',
   },
   {
+    slug: 'fate-chooses-you',
+    englishName: 'Fate Chooses You',
+    chineseName: '佳偶天成',
+    pinyin: 'Jiā Ǒu Tiān Chéng',
+    year: '2026',
+    synopsis:
+      '40-episode xianxia fantasy romance and the third installment of author Shi Si Lang\'s shared trilogy universe (after Forever Love and The Killing of Three Thousand Crows). Ren Jialun plays Lu Qianqiao, heir to the cursed Battle Ghost clan, who undergoes five trials — change skin, flesh, bone, blood, heart — to reincarnate as human, assuming the identity of corrupt official Lu Huai. Wang Herun plays Xin Mei, a cultivator born with the innate Daoist body who contracts a marriage with him and ultimately walks alone to the capital with a blade to avenge his apparent death. Aired April 25 – May 11, 2026 on iQIYI and Tencent Video.',
+    postPrefix: 'fate-chooses-you-',
+    platforms: ['iQIYI', 'Tencent Video', 'YouTube'],
+    cast: ['Ren Jialun', 'Wang Herun', 'Zhang Kaiying', 'Wang Yilun'],
+    novel: '《佳偶天成》by Shi Si Lang (十四郎)',
+    tags: ['fantasy', 'romance'],
+    status: 'completed',
+  },
+  {
     slug: 'blossoms-shanghai',
     englishName: 'Blossoms Shanghai',
     chineseName: '繁花',
