@@ -6,7 +6,7 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Relationships & Character"
-description: "Fated Hearts (婉心记) ends bittersweet — not pure happy, not pure tragedy. Here's exactly what happens to Fu Yi Xiao and Feng Sui Ge in the finale, whether the ending counts as happy or sad, and why the wedding promise split Chinese viewers."
+description: "Does Fated Hearts (婉心记) have a happy or sad ending? The 40-episode finale split Chinese viewers — here's exactly what happens to Fu Yi Xiao and Feng Sui Ge, and why the mountaintop scene became the year's most-debated C-drama moment."
 ---
 
 **Fated Hearts (婉心记)** concluded its 40-episode run in October 2025 with one of the most discussed Chinese drama finales of the year. The ending — covering the resolution of the central romance, the exposure of a court conspiracy, and a final mountaintop scene that has become one of the most-quoted images in the show — sparked significant debate among Chinese viewers about whether the conclusion delivered on the drama's emotional promise.

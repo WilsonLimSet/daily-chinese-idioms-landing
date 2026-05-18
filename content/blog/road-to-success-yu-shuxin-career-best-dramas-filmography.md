@@ -15,6 +15,19 @@ If you're discovering Yu Shuxin through *Road to Success* — or if you've been 
 
 ---
 
+## Yu Shuxin / Esther Yu Quick Facts
+
+- **Most popular drama:** *Love Between Fairy and Devil* (苍兰诀, 2022) — her career-defining xianxia role
+- **Acting debut:** *Border Town Prodigal* (边城浪子, 2016) — supporting wuxia role
+- **Breakout moment:** *Youth With You* Season 2 (2020) — debuted in girl group THE9
+- **Best dramas to watch (ranked):** *Love Between Fairy and Devil* → *My Journey to You* → *Find Yourself* → *Love Game in Eastern Fantasy* → *Road to Success* (upcoming 2026)
+- **Education:** LASALLE College of the Arts, Singapore — Fashion Media and Industries
+- **Born:** December 18, 1995, Shanghai
+- **International name:** Esther Yu
+- **Upcoming project:** *Road to Success* (狭路, 2026) — modern sports romance on iQIYI
+
+---
+
 ## Background and Early Life
 
 Yu Shuxin grew up in Shanghai. After her early education, she moved to Singapore to attend **LASALLE College of the Arts**, where she earned a degree in **Fashion Media and Industries**. Her training was originally in fashion and design, not acting — a background that distinguishes her from most of her contemporaries in Chinese entertainment.

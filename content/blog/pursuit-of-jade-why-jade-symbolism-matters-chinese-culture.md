@@ -1,12 +1,12 @@
 ---
-title: "What Does Pursuit of Jade (逐玉) Mean? The Drama's Title, Jade Symbolism & Why It Matters in Chinese Culture"
+title: "Pursuit of Jade (逐玉) Title Meaning: What Jade Really Symbolizes in Chinese Culture"
 date: "2026-03-18"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Life Philosophy"
-description: "Pursuit of Jade (逐玉) literally means 'chasing jade' — but in Chinese culture, jade (玉) symbolizes virtue, character, and moral perfection. Here's what the drama's title really means, why jade is central to its story, and the 5,000-year cultural weight behind 玉."
+description: "Why is the drama called Pursuit of Jade? The literal translation barely scratches the surface — here's what 逐玉 really means in Chinese culture and why the title is the key to the show."
 ---
 
 ## What Does *Pursuit of Jade* (逐玉) Mean? — Short Answer

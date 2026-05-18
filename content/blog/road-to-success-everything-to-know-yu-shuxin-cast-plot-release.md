@@ -1,12 +1,12 @@
 ---
-title: "Road to Success (狭路): Everything to Know About Yu Shuxin's New Sports Drama — Cast, Plot, Release Date, and the Novel It's Based On"
+title: "Road to Success (狭路) Release Date, Cast & Where to Watch: Yu Shuxin's 2026 Cdrama"
 date: "2026-04-30"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Success & Perseverance"
-description: "Road to Success is Yu Shuxin's upcoming 2026 sports romance drama, adapted from Chang Er's novel Narrow Road (狭路). Here's the cast, plot, release date, source novel context, and why a sports drama with a PhD heroine is unusual for Chinese television."
+description: "When does Road to Success (狭路) release? Yu Shuxin's 2026 sports romance airs on iQIYI. Full cast, plot, where to watch, and the Narrow Road novel it's adapted from."
 ---
 
 **Road to Success (狭路)** is one of the most anticipated Chinese drama releases of 2026 — and one of the most unusual. The production stars **Yu Shuxin (虞书欣)** as a PhD student who returns to her hometown to revive a failing high school football team, with **Chen Jingke (陈靖可)** as a mysterious former British football coach who becomes her tenant and eventually her co-coach.
