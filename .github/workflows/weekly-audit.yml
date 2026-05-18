@@ -1,13 +1,10 @@
-name: Weekly SEO Audit
+name: SEO Audit
 
 on:
-  schedule:
-    - cron: '0 6 * * 1'
   workflow_dispatch:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   audit:
@@ -47,50 +44,18 @@ jobs:
       - name: Generate report
         run: node scripts/audit/report.js
 
-      - name: Compute audit date
-        id: date
-        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
-
-      - name: Create branch and commit audit
-        env:
-          AUDIT_DATE: ${{ steps.date.outputs.date }}
+      - name: Commit audit to main
         run: |
           rm -f .gsc-oauth.json .gsc-token.json
 
           git config user.name 'audit-bot'
           git config user.email 'audit-bot@users.noreply.github.com'
 
-          BRANCH="audit/${AUDIT_DATE}"
-          if git ls-remote --exit-code --heads origin "$BRANCH" > /dev/null 2>&1; then
-            BRANCH="${BRANCH}-$(date -u +%H%M)"
-          fi
-          echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
-
-          git checkout -b "$BRANCH"
           git add audits/
           if git diff --cached --quiet; then
-            echo "No audit changes to commit. Skipping PR."
-            echo "SKIP_PR=true" >> "$GITHUB_ENV"
+            echo "No audit changes to commit."
             exit 0
           fi
-          git commit -m "Weekly SEO audit: ${AUDIT_DATE}"
-          git push origin "$BRANCH"
-
-      - name: Open pull request
-        if: env.SKIP_PR != 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          AUDIT_DATE: ${{ steps.date.outputs.date }}
-        run: |
-          PR_BODY=$(printf '%s\n' \
-            "Automated weekly Search Console audit." \
-            "" \
-            "Full report: \`audits/${AUDIT_DATE}.md\`" \
-            "" \
-            "Trigger manually via Actions tab > Weekly SEO Audit > Run workflow.")
-
-          gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "Weekly SEO audit: ${AUDIT_DATE}" \
-            --body "$PR_BODY"
+          AUDIT_DATE=$(date -u +%Y-%m-%d)
+          git commit -m "SEO audit: ${AUDIT_DATE}"
+          git push origin main
