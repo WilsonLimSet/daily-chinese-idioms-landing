@@ -80,3 +80,35 @@
 .blog-content a {
   color: #1d4ed8 !important;
 }
+
+/* Tables (GFM) */
+.blog-content table {
+  width: 100% !important;
+  margin: 1.5rem 0 !important;
+  border-collapse: collapse !important;
+  font-size: 0.95rem !important;
+  display: block !important;
+  overflow-x: auto !important;
+}
+
+.blog-content thead {
+  background-color: #f9fafb !important;
+}
+
+.blog-content th,
+.blog-content td {
+  border: 1px solid #e5e7eb !important;
+  padding: 0.625rem 0.875rem !important;
+  text-align: left !important;
+  vertical-align: top !important;
+  line-height: 1.5 !important;
+}
+
+.blog-content th {
+  font-weight: 700 !important;
+  background-color: #f9fafb !important;
+}
+
+.blog-content tbody tr:nth-child(even) {
+  background-color: #fafafa !important;
+}

@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
+import remarkGfm from 'remark-gfm';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import { LANGUAGES, LANGUAGE_CONFIG } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
@@ -203,6 +204,7 @@ export default async function InternationalBlogPostPage({
 
   // Process markdown content
   const processedContent = await remark()
+    .use(remarkGfm)
     .use(html)
     .process(post.content);
   const contentHtml = processedContent.toString();

@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronLeft, ChevronRight } from 'lucide-react';
 import { remark } from 'remark';
 import html from 'remark-html';
+import remarkGfm from 'remark-gfm';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -169,6 +170,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
 
   // Process markdown content
   const processedContent = await remark()
+    .use(remarkGfm)
     .use(html)
     .process(post.content);
   const contentHtml = processedContent.toString();
