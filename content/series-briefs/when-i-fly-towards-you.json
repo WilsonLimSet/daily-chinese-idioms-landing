@@ -1,0 +1,265 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "When I Fly Towards You (当我飞奔向你)",
+  "date": "2026-05-19",
+  "research": {
+    "basicFacts": {
+      "type": "Chinese drama",
+      "releaseDate": "June 13–29, 2023",
+      "keyPeople": [
+        {
+          "role": "Director",
+          "name": "Mao Deshu / Cattree (猫的树)",
+          "realName": "Yuan Shuang (袁爽)"
+        },
+        {
+          "role": "Author",
+          "name": "Zhu Yi (竹已)"
+        }
+      ],
+      "impact": "The show is noted for its literary afterlife, driven by memorable quotes that have continued to circulate on platforms like Douyin. It is recognized for its fresh-pastel high-school aesthetic and its emotional narrative that resonates with themes of active love and mutual understanding."
+    },
+    "plotSummary": "Set in early autumn 2012 at Jiangyi High School, the drama follows a five-person friend group from their senior year through ten years of adulthood. The central romance is between Su Zaizai, a cheerful transfer student, and Zhang Lurang, a top student emotionally walled off due to family issues. Su Zaizai falls in love at first sight and openly pursues Zhang Lurang, dismantling his emotional barriers. Key conflicts include Zhang Lurang's family dynamics, the pressure of college entrance exams, and a 10-year time skip that tests the endurance of their relationship. The tone is a coming-of-age romantic comedy, with 24 episodes of 30 minutes each.",
+    "historicalBasis": [],
+    "culturalThemes": [
+      {
+        "theme": "Active Love",
+        "explanation": "The drama emphasizes love as an active motion rather than a passive arrival, with Su Zaizai's pursuit of Zhang Lurang symbolizing this theme."
+      },
+      {
+        "theme": "Mutual Understanding",
+        "explanation": "The narrative explores themes of mutual understanding and emotional connection, particularly through the development of the central romance."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "当我飞奔向你",
+        "pinyin": "dāng wǒ fēi bēn xiàng nǐ",
+        "meaning": "When I run/sprint toward you",
+        "relevance": "The title reflects the show's central theme of active love and mutual pursuit."
+      },
+      {
+        "characters": "少女心",
+        "pinyin": "shàonǚ xīn",
+        "meaning": "girl's heart",
+        "relevance": "Describes the aesthetic signature of the director, Cattree, known for fresh-pastel youth romance."
+      },
+      {
+        "characters": "高考",
+        "pinyin": "gāokǎo",
+        "meaning": "college entrance exam",
+        "relevance": "A key conflict in the drama, representing academic pressure and future uncertainties."
+      }
+    ],
+    "whyTrending": "The show remains culturally relevant due to its memorable quotes, which have a strong presence on social media platforms like Douyin. Its themes of active love and mutual understanding continue to resonate with audiences, and its aesthetic has influenced the genre of youth romance dramas.",
+    "verifyFlags": [
+      "Quote sourcing: All eight quotes were pulled from juzikong's archive and are consistent with multiple citations. Recommend a spot-check of Quote 2's exact phrasing.",
+      "Director's real name: Confirmed as Yuan Shuang / 袁爽 across multiple sources.",
+      "Source novel platform: Widely cited as published on Jinjiang Literature City. Cite as 'originally serialized on Jinjiang Literature City.'",
+      "Douban rating: High-7s / low-8s is plausible; hedge with 'around 7.9' if cited.",
+      "Basketball motif: Confirmed as present but secondary.",
+      "Ferris wheel scene: Cited as iconic by Baidu Baike; not independently verified frame-by-frame.",
+      "Douyin view counts: From Sohu trend pieces; treat as directional rather than precise.",
+      "Number of episodes: 24 × 30 min — confirmed across multiple sources.",
+      "Air dates: June 13–29, 2023 on Youku — confirmed across multiple sources.",
+      "Cattree as director of Love Between Lines: Confirmed in existing brief."
+    ]
+  },
+  "externalResearchMd": "# When I Fly Towards You (当我飞奔向你) — Research Brief\n\n**Research date:** 2026-05-19\n**Status:** Aired June 13–29, 2023 on Youku. **~3 years past peak.** Per project wave strategy, this is firmly in the \"past-peak drama\" bucket where cluster strategies underperform. Scope: **one focused article**, not a cluster.\n\n**Sources consulted:** Wikipedia EN, Baidu Baike, Douban (35172742), MyDramaList, juzikong (quotes archive), Sohu/Sina trend pieces, Zhihu fan analysis.\n\n---\n\n## 1. Title Meaning — 当我飞奔向你\n\n**Literal:** *dāng wǒ fēi bēn xiàng nǐ* — \"When I run/sprint toward you\" (or \"When I dash toward you\").\n\n- 当 (dāng) — \"when / at the moment\"\n- 我 (wǒ) — \"I\"\n- 飞奔 (fēi bēn) — literally \"fly-run\" — to sprint, to dash, to bolt headlong. Stronger and more bodily than 跑 (pǎo). The 飞 (\"fly\") prefix injects urgency and abandon — it's the speed of someone who has stopped caring how they look.\n- 向你 (xiàng nǐ) — \"toward you\"\n\n**Narrative significance.** The title is a first-person promise from Su Zaizai (苏在在), the sunny, headlong female lead, to Zhang Lurang (张陆让), the withdrawn male lead. Where the source novel was titled *她病得不轻* (\"She's a Little Crazy / She's Got It Bad,\" referring to Su Zaizai's love-at-first-sight obsession), the show retitled to foreground **her agency**: she is the one sprinting, the one who closes the distance. Zhang Lurang has spent his life waiting to be chosen second (his mother favors his younger brother); Su Zaizai is the first person who runs at him. The drama's emotional thesis is that love is **active motion, not passive arrival** — which is why 飞奔 (not 走, not 跑) is the right verb.\n\n**Why it's evocative.** The conditional 当 (\"when\") implies a recurring vow, not a one-time event — every time I see you, I run. Pair that with the show's most-quoted line — \"*当我飞奔向月亮的时候，月亮也在为了我学习奔跑*\" (\"When I sprint toward the moon, the moon is also learning to run for me\") — and the title becomes the show's entire emotional engine: mutual, accelerating, headlong love between two people who decide to meet each other at speed.\n\n---\n\n## 2. Director Mao Deshu / Cattree (猫的树) Context\n\n**Real name:** Yuan Shuang (袁爽). **Born:** February 22, 1991, Nanjing, Jiangsu. **Pen name 猫的树** literally \"cat's tree\" — soft, whimsical, off-center, which is exactly the brand.\n\n**Aesthetic signature.** Cattree is the closest thing C-drama has to a recognized **author director of fresh-pastel youth romance**. Industry coverage (Sohu, Sina, Douban reviews) repeatedly uses the phrase \"**少女心**\" (*shàonǚ xīn*, \"girl's heart\") to describe his lens — and he embraces the label. Recurring marks:\n\n- High-key natural light, soft-focus close-ups, lens flares used as emotional punctuation\n- Pastel color grading (sky blues, dusk pinks, paper-yellow classrooms) — never the grey-teal \"premium drama\" palette\n- Loose, ensemble blocking — friends shot together at eye level, not power-dynamic asymmetry\n- Slice-of-life pacing — long scenes about nothing (sharing earbuds, walking home, watching rain), which is where the romance actually lives\n- **Music-led emotional beats** — he edits to song bridges, not dialogue\n\n**Filmography link to Love Between Lines (2026).** Cattree directed **Love Between Lines / 轧戏** (Jan 2026, Chen Xingxu + Lu Yuxiao). It's a Republican-era × modern romance with a jubensha (剧本杀) double-life premise — superficially a genre pivot, but reviewers note the same fresh-pastel palette, music-led editing, and ensemble warmth carry over. **For SEO purposes this is the cross-link: same director, same emotional fingerprint, four years apart.** A reader who searches \"Love Between Lines director\" should land on the *When I Fly Towards You* article and vice versa.\n\nOther works in his filmography include *Let's Meet Now* (2022) and additional iQiyi 恋恋剧场 slot dramas. The Cattree brand is **iQiyi/Youku romance theater**, not satellite-TV prestige.\n\n---\n\n## 3. Plot Summary\n\n**Setting.** Early autumn 2012, **Jiangyi High School** (江翼高中). The drama follows a five-person friend group from senior-year high school through ten years of adulthood — but the emotional core stays in the high-school timeline.\n\n**Premise.** Su Zaizai (苏在在), a cheerful transfer student, arrives on the first day of school and spots a boy walking through the rain without an umbrella — Zhang Lurang (张陆让), the top student of the grade, cold and emotionally walled off. She falls in love at first sight and decides — openly, repeatedly, with zero shame — that she's going to win him over.\n\n**Central romance.** Su Zaizai is the **sun** of Zhang Lurang's life. He grew up with a mother who openly favored his younger half-brother Zhang Luli (张陆离); his entire personality is the brittle perfection of a child who decided that if he was the best student, he'd be hard to ignore. Su Zaizai disassembles that — not by fixing him, but by deciding he was already worth running toward before he'd done anything to earn it. Their relationship is built on **peer tutoring** (she's good at English, he's good at math), late-night phone calls, and a slowly-collapsing emotional perimeter.\n\n**Key conflicts.**\n1. Zhang Lurang's family — the favoritism toward his brother, his strained relationship with his mother, and the slow process of him allowing Su Zaizai to actually see that wound\n2. The college entrance exam (高考) — both the academic pressure and the geography of where each character will be afterward\n3. **The 10-year time skip** — a second-act jump from high school to adulthood, where the friend group has fractured and reformed and the romance has to be re-chosen as adults, not as kids\n4. **Notably absent:** the show is praised for **refusing toxic tropes** — no love triangle that matters, no big misunderstanding, no third-act breakup engineered by an outside party. Conflict is internal, not melodramatic.\n\n**Tone.** Coming-of-age romantic comedy. 24 episodes × 30 minutes — a tight, light shape.\n\n---\n\n## 4. Cast\n\n| Actor (Chinese) | Pinyin | Role | Role meaning / notes |\n|---|---|---|---|\n| 周翊然 | Zhōu Yìrán | 张陆让 (Zhāng Lùràng) | Male lead. Cold top student, emotionally walled off by his mother's favoritism toward his younger brother. The character's given name 陆让 (\"land yields\") evokes a person who steps aside, who lets others go first. |\n| 张淼怡 | Zhāng Miǎoyí | 苏在在 (Sū Zàizài) | Female lead. Sunny transfer student, the active half of the romance. 在在 doubles the character 在 (\"to be present\") — she is \"the one who is here, who is here.\" |\n| 边天扬 | Biān Tiānyáng | 顾然 (Gù Rán) | Best friend in the five-person group. Quick-witted, comic relief. |\n| 姜之南 | Jiāng Zhīnán | 姜佳 (Jiāng Jiā) | Loyal friend, female group member. |\n| 郭喆 | Guō Zhé | 关放 (Guān Fàng) | Optimistic male friend, athletic. |\n| (supporting) | — | 张陆离 (Zhāng Lùlí) | Zhang Lurang's favored younger half-brother — the source of his family wound. |\n\nThe friend group of five is the show's structural unit — the romance is shot inside an ensemble, not isolated from it. This is part of Cattree's signature.\n\n---\n\n## 5. Source Novel\n\n- **Title:** 《她病得不轻》 (\"She's a Little Crazy\" / \"She's Got It Bad\")\n- **Author:** 竹已 (Zhú Yǐ / \"Zhu Yi\") — one of the most consistent campus-romance IP authors of the 2018–2023 wave\n- **Platform:** Originally serialized on **Jinjiang Literature City** (晋江文学城, jjwxc.net), the dominant CN web-novel platform for female-oriented romance\n- **Why the retitle:** The novel's title centers Su Zaizai's \"illness\" (her infatuation), framing her as the obsessive one. The show flipped to *When I Fly Towards You*, which is **her chosen, agentic action** rather than a pathologized \"crazy.\" This rephrasing is part of why the show reads more emotionally healthy than the novel's framing suggests.\n- **Zhu Yi's broader catalog.** Same author also wrote *偷偷藏不住* (*Hidden Love*, 2023) and *念念有词* — she is a dominant force in the JJWXC campus-romance ecosystem. Cross-link opportunity: readers who like Hidden Love will like When I Fly Towards You and vice versa, **same author IP**.\n\n---\n\n## 6. Cultural Moat — What Lives On in 2026\n\nThis is the SEO-load-bearing section. Past-peak dramas only win on **cultural specifics that outlive the airing window**. For this show, the moat is:\n\n### 6a. Cattree's fresh-pastel high-school aesthetic\nNot a sports drama. The setting is academic high school (高考-prep), and the visual signature is:\n- **Rainy first encounter** — Zhang Lurang walking through rain without an umbrella, scored to soft piano, is the show's iconic image. This is the scene that lives on Douyin (per Sohu coverage, the \"雨中奔跑\" mixed cuts have crossed 10 million views on Douyin's 抖音精选).\n- **The classroom as a romance set** — peer-tutoring scenes (English/math exchange), shared earbuds, exchanged notebooks, the desk-pair as a unit of intimacy.\n- **The Ferris wheel** — a confession/connection scene cited by Baidu Baike as iconic.\n- **The bus and the bus stop** — the line \"*公交车不等人，等你的是在意你的人*\" (\"Buses don't wait — but people who care about you do\") is one of the show's most-quoted, and it's specifically tied to the school bus stop as a location.\n\n### 6b. The basketball/sports motif — present but secondary\nBasketball scenes and a school athletic event do appear (Baidu Baike confirms), and Guan Fang is athletic — but **this is not Skate Into Love or Falling Into Your Smile**. The sport is a setting for friend-group bonding, not the central metaphor. **Do not lean the article on a sports angle** — the cultural moat is the rainy-romance aesthetic and the quote-driven emotional vocabulary, not athletics.\n\n### 6c. The viral monologue / quote economy\nThe strongest moat. The show is **quote-driven** to a degree most C-dramas are not. The opening narration (\"旁白\") and Su Zaizai's monologues spawned a still-active Douyin (抖音) ecosystem of 文案 (caption-text) clips — users overlay show quotes on their own footage. The juzikong quote archive and Zhihu line-by-line analyses confirm: this show's afterlife is **literary**, not visual. **The article should be quote-anchored.**\n\n### 6d. The \"10-year time skip\" emotional payoff\nThe high-school-to-adulthood timeline is the show's structural innovation in this genre. It's the reason fans return to the show years later — the second-act adult reunion is what makes the high-school portion feel earned in retrospect. This is also why the show plays as \"青春封神\" (genre-defining youth drama) in 2026 retrospectives, not just as \"a 2023 show.\"\n\n---\n\n## 7. Ten Chengyu Matching the Drama's Themes\n\n| 成语 | Pinyin | Meaning | How it applies |\n|---|---|---|---|\n| 一见钟情 | yī jiàn zhōng qíng | Love at first sight | Literally the inciting incident — Su Zaizai sees Zhang Lurang in the rain on day one. |\n| 青梅竹马 | qīng méi zhú mǎ | \"Green plums and bamboo horses\" — childhood sweethearts | Adjacent rather than exact — the friend-group has this energy by the time-skip's adult timeline. |\n| 两小无猜 | liǎng xiǎo wú cāi | Two children, no suspicion — innocent young companions | The unguardedness of the five-person friend group in the high-school timeline. |\n| 心心相印 | xīn xīn xiāng yìn | Hearts stamped on each other — mutual understanding | The mature endpoint of the romance after the time skip — they read each other without speaking. |\n| 风雨同舟 | fēng yǔ tóng zhōu | Same boat through wind and rain — weathering hardship together | Zhang Lurang's family wound and Su Zaizai's choice to stand inside it with him. |\n| 守得云开见月明 | shǒu de yún kāi jiàn yuè míng | Wait until the clouds part and the moon appears | The show's emotional logic for Zhang Lurang — endure long enough and someone (Su Zaizai) will arrive. Plays directly into the moon-imagery quote. |\n| 不离不弃 | bù lí bù qì | Never leave, never abandon | The promise-language of the romance, especially across the 10-year gap. |\n| 锲而不舍 | qiè ér bù shě | Carve without giving up — persistent effort | Su Zaizai's pursuit; also the 高考 (gaokao) study montage energy. |\n| 念念不忘 | niàn niàn bù wàng | Think of it again and again, never forget | The decade-long carry of first love through the time skip. |\n| 破镜重圆 | pò jìng chóng yuán | Broken mirror made whole again — reunion after separation | The post-time-skip adult reunion of the friend group / the romance. |\n\n(Bonus candidates if needed: **海誓山盟** *hǎi shì shān méng* \"vows by sea and mountain,\" **金石为开** *jīn shí wèi kāi* \"even metal and stone yield to sincerity,\" **情有独钟** *qíng yǒu dú zhōng* \"affection devoted to one person alone.\")\n\n---\n\n## 8. Memorable Chinese Quotes (Verified)\n\nAll eight below are from juzikong's verified quote archive. Numbers 1–3 are the **viral tier** — the ones with active Douyin afterlife.\n\n**Quote 1 (the title-companion line):**\n- 中文: 一定要当太阳吗，可以的话，星星、路灯、萤火虫，想发光的时候就发光，不想发光的时候就不发光，总有人能在人群中一眼就找到你。\n- Pinyin: *Yīdìng yào dāng tàiyáng ma? Kěyǐ dehuà, xīngxīng, lùdēng, yíng huǒchóng, xiǎng fāguāng de shíhòu jiù fāguāng, bù xiǎng fāguāng de shíhòu jiù bù fāguāng. Zǒng yǒu rén néng zài rénqún zhōng yī yǎn jiù zhǎodào nǐ.*\n- English: \"Do you have to be the sun? If you'd rather, be a star, a streetlight, a firefly — shine when you want to, don't shine when you don't. Someone will still find you at a glance in the crowd.\"\n- Context: Su Zaizai to Zhang Lurang, dismantling his \"I have to be the top student to be seen\" wound.\n\n**Quote 2 (the logic-proof love line):**\n- 中文: 我喜欢你，不算命题，因为喜欢判断不了真假。如果我存在，那存在我喜欢你。如果我不喜欢你了，那我就不是我。\n- Pinyin: *Wǒ xǐhuān nǐ, bù suàn mìngtí, yīnwèi xǐhuān pànduàn bùliǎo zhēnjiǎ. Rúguǒ wǒ cúnzài, nà cúnzài wǒ xǐhuān nǐ. Rúguǒ wǒ bù xǐhuān nǐ le, nà wǒ jiù bùshì wǒ.*\n- English: \"'I like you' isn't a proposition, because liking can't be judged true or false. If I exist, then 'I like you' exists. If I no longer like you, then I'm no longer me.\"\n- Context: A math/logic exchange repurposed as a love confession — the show's most-shared quote, peak Zhang Lurang voice.\n\n**Quote 3 (the title-explainer line):**\n- 中文: 原来每个女孩在喜欢的人面前都是公主。因为当我飞奔向月亮的时候，月亮也在为了我学习奔跑。\n- Pinyin: *Yuánlái měi gè nǚhái zài xǐhuān de rén miànqián dōu shì gōngzhǔ. Yīnwèi dāng wǒ fēi bēn xiàng yuèliàng de shíhòu, yuèliàng yě zài wèile wǒ xuéxí bēnpǎo.*\n- English: \"It turns out every girl is a princess in front of someone she loves — because when I sprint toward the moon, the moon is learning to run for me too.\"\n- Context: The title's own gloss. **This is the line the article should be built around.**\n\n**Quote 4 (the bus stop line):**\n- 中文: 公交车不等人，等你的是在意你的人。\n- Pinyin: *Gōngjiāo chē bù děng rén, děng nǐ de shì zàiyì nǐ de rén.*\n- English: \"Buses don't wait for people. The one who waits for you is the one who cares.\"\n- Context: A bus-stop scene; aphoristic, widely screenshot.\n\n**Quote 5 (the cosmic-singularity line):**\n- 中文: 宇宙中有两千亿亿颗星星，却找不出两颗一模一样的。\n- Pinyin: *Yǔzhòu zhōng yǒu liǎng qiān yì yì kē xīngxīng, què zhǎo bù chū liǎng kē yīmúyīyàng de.*\n- English: \"There are 20 quintillion stars in the universe — and you can't find two exactly alike.\" (两千亿亿 = 2 × 10^19; the show's number is poetic, not astronomical — actual estimates run ~10^22-10^24.)\n- Context: A \"you are irreplaceable\" line, scaled to astronomy. Pure Cattree register.\n\n**Quote 6 (the youth memory line):**\n- 中文: 属于我们最炽热的青春，就是我悄悄靠近过你，偷偷记录下我们的同框。\n- Pinyin: *Shǔyú wǒmen zuì chìrè de qīngchūn, jiùshì wǒ qiāoqiāo kàojìn guò nǐ, tōutōu jìlù xià wǒmen de tóng kuàng.*\n- English: \"Our most blazing youth was me quietly coming closer to you, secretly recording the frames we shared.\"\n- Context: A retrospective narration line — the show's voice from the adult timeline looking back.\n\n**Quote 7 (the philosophical-comfort line):**\n- 中文: 世界上的事情就是这样，山的那一边是海；深夜的尽头是光；不那么可爱的东西，转个身也许会用另一种难忘的方式留在回忆里。\n- Pinyin: *Shìjiè shàng de shìqíng jiùshì zhèyàng, shān de nà yībiān shì hǎi; shēnyè de jìntóu shì guāng; bù nàme kě'ài de dōngxī, zhuǎn gè shēn yěxǔ huì yòng lìng yī zhǒng nánwàng de fāngshì liú zài huíyì lǐ.*\n- English: \"That's how it goes in this world — on the other side of the mountain is the sea; at the end of the deepest night is light; the things that weren't quite lovely may turn around and stay in memory in another unforgettable way.\"\n- Context: A monologue-narration line, very Cattree-coded.\n\n**Quote 8 (the farewell-blessing line):**\n- 中文: 希望我最好的朋友们往后平安喜乐，吃好喝好，每天都能够睡个好觉，凡是有选择，所遇之人都热忱，纵使远隔千里，在彼此看不到的时光里也能熠熠生辉。\n- Pinyin: *Xīwàng wǒ zuì hǎo de péngyǒumen wǎnghòu píng'ān xǐlè, chī hǎo hē hǎo, měitiān dōu nénggòu shuì gè hǎo jiào. Fánshì yǒu xuǎnzé, suǒ yù zhī rén dōu rèchén, zòngshǐ yuǎn gé qiānlǐ, zài bǐcǐ kàn bù dào de shíguāng lǐ yě néng yìyì shēnghuī.*\n- English: \"I hope my best friends live in peace and joy from now on — eat well, drink well, sleep well every night. May they always have choices, may the people they meet be warm-hearted, and even separated by a thousand miles, in the hours we can't see each other, may they still shine.\"\n- Context: The friend-group farewell — speaks directly to the 10-year-time-skip emotional arc.\n\n---\n\n## 9. Single Best Article Angle\n\n### Recommendation: **\"Famous Quotes from When I Fly Towards You, Explained\"** with a chengyu sidebar\n\n**Working title:**\n**\"10 Most-Loved Quotes from When I Fly Towards You (当我飞奔向你), Explained in Chinese and English\"**\n\n(Alternate: *\"The Most Beautiful Lines from When I Fly Towards You — Chinese Quotes with Pinyin & Meaning\"*)\n\n**Why this shape, given past-peak status:**\n\n1. **The show's afterlife IS quotes.** This is the rare drama where the cultural moat is literary, not visual. Douyin 文案 clips, juzikong archives, Zhihu line-by-line breakdowns, Sohu retrospectives — all of it is **quote-mediated**. People still searching for this drama in 2026 are searching for the lines, not the cast.\n2. **Quote articles age well.** Unlike \"cast of X\" (Knowledge Panel kills) or \"plot of X\" (Wikipedia kills), a multilingual quote-explainer with pinyin + chengyu cross-references is genuinely hard to find well-executed and matches chineseidioms.com's actual edge.\n3. **Cross-link gravity in both directions.** Quote 3 (the moon line) IS the title — natural anchor for a \"Chinese name explained\" sub-section inside the same article. No need to split into two posts.\n4. **Director cross-link to Love Between Lines** (also Cattree, also in your briefs/) — already-existing internal-link asset.\n5. **Author cross-link to Hidden Love** (also Zhu Yi / 竹已) — already-existing internal-link asset (`hidden-love.md` is in research/).\n6. **Chengyu integration is natural** — the 10-chengyu sidebar in Section 7 above slots in as a thematic gloss without padding.\n\n**What NOT to write:**\n- ❌ \"Chinese Idioms in When I Fly Towards You\" — the drama uses the **occasional** chengyu but isn't lexically dense (it's pop-romance prose, not historical/wuxia). A pure idioms-in-drama listicle would be padded. Use chengyu as a **section of the quotes article**, not the article's spine.\n- ❌ Cast bio listicle — past-peak cast queries are dead per project strategy notes.\n- ❌ Plot/episode-by-episode summary — past-peak, also competes with Wikipedia.\n- ❌ Cultural moat article (\"the rainy aesthetic of Cattree\") — too narrow for SEO volume on a past-peak drama. Fold into the quotes article as 1–2 paragraphs of context.\n\n**Article structure suggestion (~1,600–1,800 words):**\n1. Lede: the title means \"When I sprint toward you\" — and the drama lives or dies on its language (~150 words)\n2. The 3 viral-tier quotes, deeply unpacked with pinyin + grammar notes (~600 words)\n3. The 5 secondary quotes, lighter treatment (~400 words)\n4. Sidebar: 10 chengyu that match the drama's themes (~300 words)\n5. Director note: same aesthetic in Love Between Lines (2026) — internal link (~100 words)\n6. Source novel note: same author as Hidden Love — internal link (~100 words)\n7. Where to watch (Youku CN, Netflix, YouTube, Apple TV International) (~50 words)\n\n---\n\n## 10. Verification Flags\n\n- **Quote sourcing.** All eight quotes were pulled from juzikong's *当我飞奔向你* archive page, which aggregates from the show transcript. They are consistent with multiple Douyin/Zhihu citations. **Confidence: high.** Recommend a spot-check of Quote 2's exact phrasing against the show before publication, as the math-proposition rendering varies slightly across fan transcriptions.\n- **Director's real name.** Confirmed Yuan Shuang / 袁爽 across Baidu Baike, Maoyan, and Douban (celebrity ID 1421720). **Confidence: high.**\n- **Source novel platform.** The novel by 竹已 is widely cited as published on Jinjiang (晋江文学城). I did not independently fetch the JJWXC page. **Confidence: high based on cross-source agreement**, but if precision matters cite \"originally serialized on Jinjiang Literature City\" rather than a specific ID.\n- **\"7.9 Douban rating\" / \"60.8 million yuan box office\".** One source (Baidu Baike paraphrase) cited these specifics. The \"box office\" figure is suspicious — this is a streaming drama, not theatrical — likely a mistranslation of platform-revenue metric. **Do not cite specific revenue figures in the article.** Douban rating in the high-7s / low-8s is plausible and consistent with reputation; if cited, hedge with \"around 7.9\" or fetch the live Douban page.\n- **Basketball motif.** Confirmed as present but secondary. Do not lean the article on it.\n- **Ferris wheel scene.** Cited by Baidu Baike paraphrase as iconic; not independently verified frame-by-frame.\n- **Douyin view counts (10M+ for \"雨中奔跑\" mixed cuts, 4.8B for 张陆让 content).** From Sohu trend pieces, which are themselves promotional (\"抖音精选APP\" sponsored coverage). Treat as directional rather than precise.\n- **Number of episodes.** 24 × 30 min — confirmed across Wikipedia, Baidu Baike, MyDramaList. **Confidence: high.**\n- **Air dates.** June 13–29, 2023 on Youku — confirmed across Wikipedia and Baidu Baike. **Confidence: high.**\n- **Cattree as director of Love Between Lines** — confirmed in this repo's existing `love-between-lines.md` brief (which explicitly corrected an earlier misattribution to Randy Che). **Confidence: high.**\n\n---\n\n## TL;DR Recommendation\n\n**Write one article: \"10 Most-Loved Quotes from *When I Fly Towards You*, Explained.\"** Anchor it on Quote 3 (the moon line, which is the title's own gloss), thread a 10-chengyu youth-romance sidebar through it, and use the director (Love Between Lines) and author (Hidden Love) cross-links to recycle existing internal-link equity. Skip the cluster — this is a quote-driven afterlife, not a cast/plot afterlife, and the quote shape is genuinely defensible on a 3-year-old drama in a way nothing else is.\n",
+  "idiomMatches": [
+    {
+      "id": "ID008",
+      "characters": "以心换心",
+      "connection": "This idiom reflects the theme of mutual understanding and emotional connection, as seen in the relationship between Su Zaizai and Zhang Lurang.",
+      "strength": "strong",
+      "relevantTo": "theme"
+    },
+    {
+      "id": "ID605",
+      "characters": "一见钟情",
+      "connection": "This idiom describes Su Zaizai's love at first sight for Zhang Lurang, which is a pivotal moment in the drama.",
+      "strength": "strong",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID692",
+      "characters": "迎难而上",
+      "connection": "This idiom captures Su Zaizai's determination to pursue Zhang Lurang despite the emotional barriers he has built.",
+      "strength": "strong",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID014",
+      "characters": "天道酬勤",
+      "connection": "Reflects the perseverance and diligence of the characters as they face academic pressures, particularly the college entrance exams.",
+      "strength": "medium",
+      "relevantTo": "plot"
+    },
+    {
+      "id": "ID035",
+      "characters": "风雨同舟",
+      "connection": "This idiom describes the solidarity and support within the friend group as they navigate their challenges together.",
+      "strength": "strong",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID031",
+      "characters": "同舟共济",
+      "connection": "Highlights the collaborative efforts and mutual support among the friend group in the drama.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID056",
+      "characters": "爱屋及乌",
+      "connection": "This idiom relates to Su Zaizai's affection for Zhang Lurang, which extends to understanding his family issues.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID240",
+      "characters": "如履薄冰",
+      "connection": "Describes Zhang Lurang's cautious approach to relationships due to his emotional barriers.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID612",
+      "characters": "朝思暮想",
+      "connection": "Reflects Su Zaizai's constant thoughts and yearning for Zhang Lurang throughout the drama.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID603",
+      "characters": "白头偕老",
+      "connection": "Symbolizes the enduring nature of Su Zaizai and Zhang Lurang's relationship, especially after the 10-year time skip.",
+      "strength": "strong",
+      "relevantTo": "theme"
+    },
+    {
+      "id": "ID248",
+      "characters": "青梅竹马",
+      "connection": "Although not childhood sweethearts, the idiom captures the youthful and innocent nature of the central romance.",
+      "strength": "medium",
+      "relevantTo": "theme"
+    },
+    {
+      "id": "ID1023",
+      "characters": "将心比心",
+      "connection": "This idiom reflects the empathy and understanding that Su Zaizai shows towards Zhang Lurang's family issues.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID102",
+      "characters": "雪中送炭",
+      "connection": "Describes the timely support and understanding Su Zaizai provides to Zhang Lurang during his emotional struggles.",
+      "strength": "strong",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID545",
+      "characters": "脱颖而出",
+      "connection": "Reflects Zhang Lurang's emergence from his emotional barriers as he opens up to Su Zaizai.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID822",
+      "characters": "患难与共",
+      "connection": "This idiom captures the shared hardships and support within the friend group throughout the drama.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID820",
+      "characters": "鸿鹄之志",
+      "connection": "Represents the aspirations and dreams of the characters as they navigate their future beyond high school.",
+      "strength": "medium",
+      "relevantTo": "theme"
+    },
+    {
+      "id": "ID693",
+      "characters": "有志者事竟成",
+      "connection": "This idiom reflects the perseverance and determination of the characters to overcome challenges and achieve their goals.",
+      "strength": "strong",
+      "relevantTo": "theme"
+    },
+    {
+      "id": "ID596",
+      "characters": "志同道合",
+      "connection": "Describes the shared goals and values within the friend group, which strengthens their bond.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID601",
+      "characters": "相敬如宾",
+      "connection": "Reflects the respectful and understanding relationship between Su Zaizai and Zhang Lurang as it develops.",
+      "strength": "medium",
+      "relevantTo": "character"
+    },
+    {
+      "id": "ID682",
+      "characters": "心诚则灵",
+      "connection": "Captures the sincerity and genuine effort in Su Zaizai's pursuit of Zhang Lurang, leading to the dismantling of his emotional barriers.",
+      "strength": "strong",
+      "relevantTo": "character"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Famous Quotes from When I Fly Towards You (当我飞奔向你) + 10 Idioms About Youth Romance",
+      "slug": "when-i-fly-towards-you-famous-quotes-chinese-idioms-youth-romance",
+      "angle": "Quote-explainer anchored on the title-companion line (当我飞奔向月亮的时候，月亮也在为了我学习奔跑) — the drama's afterlife in 2026 IS quotes, not plot. Threads (1) the title's own meaning, (2) 3 viral-tier in-show quotes with pinyin + English + grammar notes, (3) the cross-link to Hidden Love (same novelist 竹已 / Zhu Yi) and Love Between Lines (same director Mao Deshu / Cattree), and (4) 10 chengyu about first love, perseverance, friend-group bonds, and reunion-after-time-skip that map to the drama's specific scenes.",
+      "theme": "Relationships & Character",
+      "description": "Inside the most-quoted lines from When I Fly Towards You (2023) — the moon-line that explains the title, the math-proposition love confession, and 10 Chinese idioms about youth romance and time-skip reunion.",
+      "idiomIds": [
+        "ID605",
+        "ID248",
+        "ID289",
+        "ID264",
+        "ID090",
+        "ID531",
+        "ID035",
+        "ID462",
+        "ID861",
+        "ID603"
+      ],
+      "outline": [
+        "Open with the title itself: 当我飞奔向你 — 'when I sprint toward you.' Not 跑 (run) or 走 (walk), but 飞奔 (fly-run) — the urgency of someone who has stopped caring how they look. Su Zaizai's promise to Zhang Lurang isn't a one-time event; the 当 ('when') makes it a recurring vow. The title's own gloss appears inside the drama as a quote (see quote 3).",
+        "Director cross-link (~80 words): Mao Deshu / 猫的树 / Cattree (real name Yuan Shuang, born Feb 22 1991 Nanjing). Same director as Love Between Lines (2026). Signature: fresh-pastel youth romance, music-led editing, lens flares as emotional punctuation.",
+        "Source novel cross-link (~80 words): Adapted from 竹已 (Zhu Yi)'s novel 她病得不轻 ('She's Got It Bad'). Same novelist wrote 偷偷藏不住 (Hidden Love, also a 2023 drama). Mention briefly: readers who love this drama should check the Hidden Love coverage for the same author's tonal register.",
+        "Quote 1 (viral tier — the sun/star/firefly line) ~300 words: 一定要当太阳吗？可以的话，星星、路灯、萤火虫，想发光的时候就发光，不想发光的时候就不发光，总有人能在人群中一眼就找到你。 Pinyin + English. Context: Su Zaizai dismantling Zhang Lurang's 'I have to be the top student to be seen' wound. The line is a defense of the small life. Grammar note on 想…就…，不想…就不 structure.",
+        "Quote 2 (the logic-proof love line) ~300 words: 我喜欢你，不算命题，因为喜欢判断不了真假。如果我存在，那存在我喜欢你。如果我不喜欢你了，那我就不是我。 Pinyin + English. Context: a math/logic exchange repurposed as confession — peak Zhang Lurang voice (the cold top student speaking in propositions). Grammar note: 命题 (mathematical proposition), 真假 (true/false values).",
+        "Quote 3 (THE title-explainer line) ~400 words: 原来每个女孩在喜欢的人面前都是公主。因为当我飞奔向月亮的时候，月亮也在为了我学习奔跑。 Pinyin + English. THE line. Context: this is the drama's own gloss of its title. Pull-quote it. Connect: every girl is a princess when she has someone she loves; and the moon (the seemingly unreachable, cold object — Zhang Lurang) is also learning to run for her. The mutual motion is the whole show's emotional engine.",
+        "10 chengyu about youth romance, perseverance, and reunion (each ~150-180 words with origin + drama-specific connection):",
+        "  - 一见钟情 (ID605): Day one of high school — Su Zaizai sees Zhang Lurang walking through the rain without an umbrella and falls in love at first sight. The inciting incident.",
+        "  - 青梅竹马 (ID248): Adjacent — not literal childhood sweethearts, but the friend group's high-school-to-adult dynamic has this energy. The five-person friend group as the structural unit of the show.",
+        "  - 朝气蓬勃 (ID289): Su Zaizai's character in two characters — vibrant youthful energy. The 'sun' to Zhang Lurang's 'moon.'",
+        "  - 风华正茂 (ID264): At peak of youth's ability. The high-school timeline of the drama — gaokao prep, college applications, the cusp of adulthood.",
+        "  - 锲而不舍 (ID090): Su Zaizai's pursuit. Three years of openly choosing Zhang Lurang every day, no shame, no withdrawal — that's 锲而不舍 in action.",
+        "  - 心心相印 (ID531): The mature endpoint of the romance after the 10-year time skip. They read each other without speaking.",
+        "  - 风雨同舟 (ID035): Zhang Lurang's family wound (his mother's favoritism toward his half-brother) — Su Zaizai's choice to stand inside it with him. Sharing the storm.",
+        "  - 心旷神怡 (ID462): The drama's overall mood. The whole show is a 心旷神怡 visual — pastel classrooms, rainy bus stops, shared earbuds. The aesthetic IS the chengyu.",
+        "  - 破镜重圆 (ID861): The structural innovation — the 10-year time skip. The friend group fractures and reforms; the romance has to be re-chosen as adults. Mirror broken, mirror remade.",
+        "  - 白头偕老 (ID603): What the show promises in the final episodes — the adult romance with the implicit forever. Standard wedding-vow chengyu.",
+        "Closing (~100 words): If Love Between Lines is Cattree's adult romance, When I Fly Towards You is his youth romance. The director's fingerprint — fresh-pastel, music-led, ensemble-shot, slow-burn — is the same. Aired June 13-29 2023 on Youku, 24 eps × 30 min, Douban around 7.9.",
+        "DO NOT include: fabricated quotes (only the three above are verified from juzikong + Sohu trend pieces; do not invent additional show dialogue). Do not cite a specific Youku box-office figure (the brief flagged a suspicious '60.8M yuan' number — that's not theatrical box office, it's likely a mistranslated platform-revenue metric — skip the number entirely). Do not cite Douban as 7.9 without hedge — use 'around 7.9' or 'high 7s.'"
+      ],
+      "keyFacts": [
+        "Aired June 13-29 2023 on Youku. 24 episodes × 30 minutes. Douban around 7.9.",
+        "Director: Mao Deshu / 猫的树 / Cattree (real name Yuan Shuang). Same director as Love Between Lines (2026).",
+        "Source novel: 她病得不轻 by 竹已 (Zhu Yi). Same author as Hidden Love (偷偷藏不住).",
+        "Lead actors: 周翊然 (Zhou Yiran) as 张陆让 (Zhang Lurang, the cold top student); 张淼怡 (Zhang Miaoyi) as 苏在在 (Su Zaizai, the sunny transfer student).",
+        "The drama's afterlife in 2026 is quote-driven — Douyin 文案 clips, juzikong archives, Zhihu line-by-line analyses. Three quotes (sun/star/firefly, logic-proof love, moon-line) dominate the fandom canon."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Love Between Lines (轧戏)",
+  "date": "2026-05-19",
+  "research": {
+    "basicFacts": {
+      "type": "Chinese drama",
+      "releaseDate": "January 9, 2026",
+      "keyPeople": [
+        {
+          "role": "Director",
+          "name": "Mao Deshu",
+          "alternateName": "猫的树",
+          "realName": "Yuan Shuang"
+        },
+        {
+          "role": "Lead Actor",
+          "name": "Chen Xingxu"
+        },
+        {
+          "role": "Lead Actress",
+          "name": "Lu Yuxiao"
+        }
+      ],
+      "impact": "Sleeper-hit reputation, won 'Year's Cross-Media Quality Hit Drama' at the March 2026 TV Drama Quality Gala."
+    },
+    "plotSummary": "Hu Xiu, an introverted translator, is jilted at her engagement banquet. Her friend Zhao Xiaorou takes her to a jubensha venue called Midnight Express. Hu Xiu plays 'Sun Jiaying' and becomes enamored with 'Qin Xiaoyi,' an NPC played by Xiao Zhiyu, a real-life architect. The story weaves between the in-game romance and the real-world relationship between Hu Xiu and Xiao Zhiyu, who leads a double life. Central conflicts include identity unmasking, workplace power imbalance, and a buried scandal involving Xiao Zhiyu's father. The show ends with Xiao Zhiyu rescuing Hu Xiu from a fire, exonerating his father, and reconciling with Hu Xiu.",
+    "historicalBasis": [
+      {
+        "topic": "The 轧戏 / 戏霸 industrial critique",
+        "details": "For 30 years, 轧戏 was a marker of stardom. The term flipped negative around 2017 with the drama General and I, leading to criticisms of unprofessionalism. The drama Love Between Lines uses the title as a critique of this phenomenon.",
+        "dynasties": [],
+        "figures": []
+      },
+      {
+        "topic": "The 剧本杀 (jubensha) generation",
+        "details": "Set inside a jubensha venue, the drama reflects the 2018-2024 explosion of live-action role-playing detective games in China. It comments on escapism and the jubensha culture.",
+        "dynasties": [],
+        "figures": []
+      },
+      {
+        "topic": "The 'fake-Republican' aesthetic",
+        "details": "The in-game scenes use Republican-era styling, reflecting the 新民国风 (new Republican style) aesthetic popular since the late 2010s.",
+        "dynasties": [],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Identity and Performance",
+        "explanation": "The drama explores themes of identity and performance through the male lead's double life and the metaphorical use of the term 轧戏."
+      },
+      {
+        "theme": "Escapism",
+        "explanation": "The jubensha setting allows characters to escape their real-life constraints, reflecting a broader cultural trend among young urban professionals."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "轧戏",
+        "pinyin": "gá xì / yà xì",
+        "meaning": "An actor double-booking themselves across productions.",
+        "relevance": "The title of the drama, used metaphorically to describe the male lead's double life."
+      },
+      {
+        "characters": "剧本杀",
+        "pinyin": "jubensha",
+        "meaning": "Live-action role-playing detective games.",
+        "relevance": "The setting for the drama's in-game scenes."
+      }
+    ],
+    "whyTrending": "The drama is a sleeper hit with strong international reception on platforms like Viki and iQIYI, praised for its chemistry, cinematography, and unique plot structure.",
+    "verifyFlags": [
+      "DIRECTOR CORRECTION — The brief named Randy Che as director. The actual director is Mao Deshu.",
+      "Mao Deshu's filmography — Confirmed: When I Fly Towards You (2023), Love Between Lines (2026). NOT confirmed: Hidden Love, The Best Thing.",
+      "Pronunciation — Reported as both gá xì and yà xì. Industry register uses gá.",
+      "Author 'Zu Le' — Confirmed as a Douban Reading author with a Fudan MA, but no major mainstream Chinese-language Wikipedia entry.",
+      "Liu Zongyuan quote text — Confirmed across multiple sources. Recommend double-checking the original Tang text.",
+      "Other show dialogue — No other specific in-show lines were verified verbatim. Do NOT fabricate.",
+      "Pei Zhen's redemption ending — Multiple sources describe it as 'forced whitewashing'; details vary across recap articles.",
+      "CP fan controversies — Multiple sources mention '番位滤镜三重争议'.",
+      "Episode count — Confirmed 28 by Baidu Baike, Wikipedia, MyDramaList, iQIYI.",
+      "Lu Yuxiao diction controversy — Confirmed across Sohu, NetEase, Sina, and Tencent News."
+    ]
+  },
+  "externalResearchMd": "# Love Between Lines (轧戏) — Research Brief\n\n**Research date:** 2026-05-19\n**Status:** Already aired (Jan 9-20, 2026). Past peak by ~4 months. Sleeper-hit reputation, not a currently-airing wave.\n\n> **CRITICAL CORRECTION TO BRIEF:** The user's prompt states the drama is directed by Randy Che (车径行). This is **incorrect**. *Love Between Lines / 轧戏* is directed by **Mao Deshu / 猫的树** (real name Yuan Shuang / 袁爽), the director of *When I Fly Towards You* (2023). Randy Che is a separate cinematographer/director credit (his Chinese name is 车亮逸, not 车径行). *Hidden Love* (偷偷藏不住, 2023) was directed by Wang Yi (王仪), not Mao Deshu. *The Best Thing* (爱你, 2025) is also not in Mao Deshu's confirmed filmography. The rest of this brief uses the verified director: **Mao Deshu**.\n\n---\n\n## 1. Title & Meaning — 轧戏 (yà xì / gá xì)\n\nThe native title 轧戏 is a piece of entertainment-industry jargon, and the show's choice of title is itself a meta-commentary.\n\n**Pronunciation.** 轧 is a multi-tone character. In Mandarin it can be read `yà` (to roll over), `zhá` (to roll metal), or `gá` — and in industry slang it's the `gá` reading (from Wu/Shanghainese roots) that's used: `gá xì`. Many Mandarin speakers also say `yà xì`. Baidu Baike and Han Dian (zdic.net) both list 軋戲 with the `gá` reading dominant in entertainment contexts.\n\n**Literal meaning.** Originally a Peking-opera term for an actor doubling up on roles within one performance. By the Hong Kong cinema golden age (1980s–90s), it had drifted to its modern usage: **an actor double-booking themselves across two or more film/TV productions at the same time** — squeezing (轧/挤) shoots into the same calendar week.\n\n**Connotation.** Pre-2017, 轧戏 was a brag — proof you were in demand. Andy Lau, Maggie Cheung, and Wong Cho-lam openly cited yearly counts of 12-14 films. Yang Mi reportedly shot 11 productions in 2010. The term flipped negative around 2017 when *General and I (孤芳不自赏)* exposed how leads Angelababy and Zhong Hanliang were so absent from set that the production relied heavily on body doubles and green-screen composites. Since then 轧戏 has been synonymous with \"unprofessional,\" and SARFT has periodically warned that simultaneous shoots are off-limits.\n\n**Why this title for this drama?** The romance is **not** actually about acting industry malpractice — though the title gestures at it. The plot uses 轧戏 metaphorically: the male lead leads a **double life**, performing as an NPC named \"Qin Xiaoyi / 秦霄一\" in an immersive Republican-era murder-mystery game (剧本杀, jubensha) by night and operating as architect \"Xiao Zhiyu / 肖稚宇\" by day. He is, quite literally, \"double-booked\" between two roles — the in-game character and his real self — while the female lead falls for both versions before realizing they're the same man. The title is a wink: it's a romance about a man \"轧戏-ing\" his own life.\n\n**English title.** Officially **Love Between Lines** on Viki and iQIYI International (iq.com). This is the title used on MyDramaList, IMDb (tt35890969), and JustWatch. Note \"Between Lines\" refers to the lines an actor performs / the lines between the game-world script and reality, not \"reading between the lines\" in the English idiomatic sense — though the double-entendre is presumably deliberate.\n\n**Other aliases.** Pinyin transliteration *Ya Xi* / *Ga Xi* (MyDramaList URL slug is `760693-ya-xi`). Some search engines render it *Zhà Xì* due to the multi-tone character. Chasing Dramas review used the gloss \"moving between different performance sets.\" No alternative English title surfaced in international press.\n\n---\n\n## 2. Airing Status\n\n**Premiered:** January 9, 2026\n**Finale:** January 20, 2026 (Baidu Baike + Wikipedia agree — 28 episodes over ~12 days on a daily-double schedule)\n**Episode count:** 28\n**Status as of 2026-05-19:** Fully aired ~4 months ago. **Past peak.**\n\n**Broadcast platforms:**\n- China: 东方卫视 (Dragon TV / Dongfang Satellite TV) — Mainland satellite premiere\n- China streaming: 爱奇艺 (iQIYI), specifically the \"恋恋剧场\" (Lian Lian Theater / iQIYI's romance slot)\n- International streaming: **Viki** (Rakuten Viki) and **iQIYI International** (iq.com), both with English subs\n- Not on Netflix or WeTV/Tencent at time of research\n\n**Production:** 柠萌影视 (Linmon Pictures), 青柠萌 (Qing Linmon), 东方娱乐 (Oriental Entertainment), with iQIYI as platform co-producer.\n\n**Performance metrics (peaked Jan 2026):**\n- iQIYI in-platform 热度 (heat index) peak: 8,674 (Jan 18). Solid but not blockbuster — most iQIYI mega-hits cross 10,000.\n- Maoyan all-network effective plays: 484 million by Jan 23\n- Yunhe (云合) market share peak: 12.8% (rank #2 nationally during run)\n- Yunhe V30 average-per-episode plays: 13.87 million (rank #3 for January 2026 long-form premieres)\n- Maoyan per-episode effective plays: 22.857 million — **#1 urban-romance drama for January 2026**\n- Won \"Year's Cross-Media Quality Hit Drama\" at the March 2026 电视剧品质盛典 (TV Drama Quality Gala)\n\n**SEO timing implication:** This is a \"tail-end\" search opportunity. Cluster strategy from PoJ/Light to the Night will be weaker here — main search-volume spikes happened in January–February. May 2026 traffic is mostly \"where can I watch\" + \"ending explained\" + \"did she end up with him\" residue searches. Treat it as evergreen completed-drama content, not a wave-rider.\n\n---\n\n## 3. Director Context — Mao Deshu (猫的树)\n\n(Substituting for the misidentified \"Randy Che\" in the brief.)\n\n**Birth name:** Yuan Shuang (袁爽). Born Feb 22, 1991, Nanjing, Jiangsu. The stage name \"猫的树\" literally means \"Cat's Tree\" (sometimes rendered \"Cattree\" in English coverage).\n\n**Background.** Photographer turned director. Started in 2015 uploading short films and micro-films on Miaopai / Meipai / Weibo, building a following with what Chinese media calls a \"文艺、清新、治愈\" (literary, fresh, healing) aesthetic. Signed with Huanyu Media (欢娱影视) in 2016 as an in-house director.\n\n**Confirmed filmography highlights:**\n- *如此可爱的我们 (Yummy Yummy)* — campus youth series\n- *见面吧就现在 (See You Now)*\n- *我与你的光年距离 (Light Years Between Us)*\n- *无法拥抱的你*\n- *今天是太阳雨*\n- *当我飞奔向你 (When I Fly Towards You)* — 2023, Youku, Douban 8.0. Adapted from Zhu Yi's *She Is a Little Crazy*. Star-making for Zhang Miaoyi and Zhou Yiran. His breakout hit.\n- *轧戏 (Love Between Lines)* — 2026, his first major satellite/iQIYI primetime romance, marketed as his \"升咖之路\" (level-up moment)\n\n**Note on the brief's other attributions:**\n- *Hidden Love* (偷偷藏不住, 2023) was directed by Wang Yi / 王仪, not Mao Deshu. The shared connection is the source author (Zhu Yi / 竹已), not the director.\n- *The Best Thing* (爱你, 2025) — no source confirms Mao Deshu directed this. [needs verification — likely a different director altogether]\n- The user appears to have conflated several Zhu Yi adaptations under one director name.\n\n**Signature style** (this is the SEO moat for the article):\n1. **Low-saturation warm color grading** with cinematic framing\n2. Heavy use of \"**壁纸感**\" (wallpaper-aesthetic) **empty shots** — falling cherry blossoms, rain curtains, drifting petals, dust motes\n3. Micro-action close-ups: red ear tips, sneaked glances, finger brushes. Chinese fans call him a \"**少女心导演**\" (\"girl-heart director\")\n4. He shoots architecture and seasons as characters — Shanghai modern financial district vs. Republican-era \"Old Shanghai\" architecture in *Love Between Lines* is a textbook example\n5. He prefers original sound (原声台词) from his leads, which became a liability when Lu Yuxiao's diction was criticized (see Section 11)\n\n**Why his romances trend.** They prioritize *atmosphere* over plot velocity. They're highly screenshot-able, which fuels Weibo and Xiaohongshu content cycles. Average-per-episode plays were higher than peak heat — meaning slow word-of-mouth, not front-loaded hype.\n\n---\n\n## 4. Plot Summary\n\n**Premise.** Hu Xiu (胡羞), an introverted translator in her mid-20s with aspirations toward architectural design, is jilted at her own engagement banquet by her fiancé. To pull her out of depression, her best friend Zhao Xiaorou (赵孝柔) drags her to an immersive jubensha (live-action role-play murder mystery) venue called *Midnight Express / 雪国列车* (lit. \"Snow Country Train\" — a Republican-era espionage scenario).\n\nInside the game, Hu Xiu is assigned the role of \"Sun Jiaying\" (孙嘉莹), a returning-overseas student. The breakout NPC of the game is \"Qin Xiaoyi\" (秦霄一) — a brooding military governor (督军) in the fictional Republican city of Rongcheng. He's played by an actor who is, in real life, **Xiao Zhiyu** (肖稚宇), founder of the Dynamism Architectural Design firm and the secret co-creator of the *Midnight Express* game.\n\nHu Xiu, charmed by Qin Xiaoyi, returns to the game weekly at 500 yuan per ticket. Awakened by her in-game alter-ego's boldness, she quits her dead-end executive-assistant job and applies to Xiao Zhiyu's design firm — not knowing he's the same man. The story braids two timelines: the in-game Republican espionage romance between \"Sun Jiaying\" and \"Qin Xiaoyi,\" and the modern-day boss/intern romance between Xiao Zhiyu and Hu Xiu.\n\n**Central conflicts:**\n1. **Identity unmasking.** When does Hu Xiu realize her boss = her NPC crush? When does Xiao Zhiyu confess?\n2. **Workplace power imbalance.** He's her CEO. Multiple reviewers (including Chasing Dramas) flagged this as the show's weakest tension — the \"controlling CEO under the guise of romance\" trope.\n3. **The buried scandal.** Xiao Zhiyu's real name is actually Qin Xiaoyi — he assumed a new identity years ago. His father, Qin Yuze (秦宇泽), was framed for a stadium collapse (新城体育馆坍塌事件) that killed three people. The actual culprit was Pei Kanghua (裴康华), who used substandard construction materials and then pushed Qin Yuze off a building to silence him. Pei Kanghua's son, Pei Zhen (裴轸), is Xiao Zhiyu's corporate half-brother rival and the antagonist of the modern timeline.\n4. **The B-couple.** Best friend Zhao Xiaorou divorces her cheating ex Wang Guangming (王光明) and gets together with Xiao Zhiyu's best friend / game co-creator Gong Huaicong (龚怀聪).\n\n**Ending (spoiler).** Pei Kanghua kidnaps Hu Xiu and starts a fire. Xiao Zhiyu rescues her from the burning building; they reconcile mid-rescue. They jointly assemble evidence to exonerate Qin Yuze posthumously. Pei Kanghua is arrested; Pei Zhen gets a partial redemption arc (which Tencent News criticized as \"forced whitewashing\"). Show closes on a montage of seven onscreen kisses — car-window kiss, cherry-blossom-roof kiss, snow-embrace kiss, crowd-embrace kiss being the four most-clipped.\n\n**Tone.** Marketed as 沉浸式剧本杀都市甜愈剧 — \"immersive jubensha urban sweet-healing drama.\" Hybrid of escape-room game culture, Republican-era spy intrigue, and modern boss-intern romance.\n\n---\n\n## 5. Cast\n\n| Role | Actor | Pinyin | Notes |\n|---|---|---|---|\n| 肖稚宇 / 秦霄一 (Xiao Zhiyu / Qin Xiaoyi) | 陈星旭 | Chen Xingxu | Lead. Dual role — modern architect + Republican military governor. Already an established lead (*Eternal Love of Dream*, *Royal Feast*); the show is his post-2024 comeback vehicle. |\n| 胡羞 (Hu Xiu) | 卢昱晓 | Lu Yuxiao | Lead. Rising actress, came out of *Story of Kunning Palace* (2023). Her diction is the central public controversy of this drama. |\n| 裴轸 (Pei Zhen) | 代旭 | Dai Xu | Special starring. Antagonist — Xiao Zhiyu's corporate half-brother rival. Career-revival role; 16-year veteran, this part finally made him trend. |\n| 龚怀聪 (Gong Huaicong) | 马思超 | Ma Sichao | Special guest. Xiao Zhiyu's best friend / *Midnight Express* co-creator. Second-male-lead of the B-couple. |\n| 赵孝柔 (Zhao Xiaorou) | 李婷婷 | Li Tingting | Cafe owner, Hu Xiu's best friend. B-couple female. |\n| 王光明 (Wang Guangming) | 任宥纶 | Ren Youlu | Zhao Xiaorou's cheating ex-husband. Friend-cameo. Trended for a \"3-minute breakout\" appearance. |\n| Supporting | 王志飞, 王汀, 陈天明, 傅迦, 陶慧敏 | Wang Zhifei, Wang Ting, Chen Tianming, Fu Jia, Tao Huimin | Veteran character actors as parents / authority figures. |\n\n**Search-volume implications.** Chen Xingxu is the only name with consistent international Google search volume. Lu Yuxiao is rising but still niche outside Chinese-speaking audiences. Dai Xu generated late-cycle search spikes (\"代旭 翻红\" / \"代旭 裴轸\") during episodes 18-25 when his villain arc peaked.\n\n---\n\n## 6. Source Material\n\n**Original novel:** *轧戏* by **祖乐 (Zu Le)**\n\n**Publication:** Serialized on **豆瓣阅读 (Douban Reading)**, completed. 93 chapters / ~450,000 Chinese characters.\n\n**Author background:** Zu Le is a recognized Douban Reading author, holds a creative writing MA from Fudan University's Chinese department, and is a Shanghai Writers' Association member. Won first prize in the women's category of the 5th Douban Reading Contest.\n\n**Novel performance:** Cumulative ~370,000 reads on Douban Reading, 7,000+ recommendation votes, reader rating 9.8/10. Acquired for screen adaptation with significant public marketing (\"售出影视改编权\" bulletin on Douban Reading). Print edition followed under the same title.\n\n**Not** a Jinjiang novel — important because Douban Reading skews more literary/female-skew than Jinjiang. This affects the show's tonal register — more contemplative, lower-melodrama than typical Jinjiang adaptations like *Hidden Love*.\n\n**Adaptation credits:** Screenwriters Li Xinwei (李欣蔚), Shi Yuchen (石雨晨), Shi Ye (施也), Liu Yue (柳樾).\n\n---\n\n## 7. Fifteen Chengyu Relevant to the Drama's Themes\n\nThese pick up on duality, identity, romance-in-disguise, and the meta-theme of \"performance vs. reality\" — all native to the show. Common idioms preferred for search volume.\n\n1. **戏中戏 (xì zhōng xì)** — \"a play within a play.\" Not a strict 4-character chengyu but the most-cited Chinese phrase to describe this show's dual-timeline structure. Direct hit.\n2. **假戏真做 (jiǎ xì zhēn zuò)** — \"play-acting becomes real.\" Performing a love scene and falling in love for real. The literal logline of *Love Between Lines*.\n3. **真假难辨 (zhēn jiǎ nán biàn)** — \"real and fake hard to tell apart.\" The audience experience inside the murder-mystery game.\n4. **似曾相识 (sì céng xiāng shí)** — \"seems we've met before.\" Hu Xiu recognizing Xiao Zhiyu's voice/eyes from the game.\n5. **暗度陈仓 (àn dù chén cāng)** — \"secretly cross at Chencang.\" Doing one thing publicly while another in secret — describes Xiao Zhiyu's double life as the NPC.\n6. **明修栈道，暗度陈仓 (míng xiū zhàn dào, àn dù chén cāng)** — full version of #5; literally signals a feint-and-flank deception. The strategic Republican-era subplot earns this.\n7. **一见钟情 (yí jiàn zhōng qíng)** — \"love at first sight.\" The in-game first encounter.\n8. **眉来眼去 (méi lái yǎn qù)** — \"exchange glances; flirt with the eyes.\" Describes the cross-timeline flirtation.\n9. **心猿意马 (xīn yuán yì mǎ)** — \"mind like a monkey, will like a horse\" — restless, distracted by desire. Hu Xiu after first meeting Qin Xiaoyi.\n10. **遇知音 (yù zhī yīn)** — \"to meet a kindred spirit.\" Hu Xiu and Xiao Zhiyu bond over the Liu Zongyuan quote (see Section 8). Chinese press explicitly used this phrase to describe their romance arc.\n11. **沉冤昭雪 (chén yuān zhāo xuě)** — \"to clear a long-buried injustice.\" The plot's mystery arc — exonerating Qin Yuze.\n12. **以次充好 (yǐ cì chōng hǎo)** — \"pass off inferior goods as quality.\" Literally the crime committed by Pei Kanghua with construction materials. Appears in plot summaries verbatim.\n13. **金蝉脱壳 (jīn chán tuō qiào)** — \"the golden cicada sheds its shell.\" Identity-switching escape — Qin Xiaoyi becoming Xiao Zhiyu.\n14. **物是人非 (wù shì rén fēi)** — \"things remain, people change.\" Xiao Zhiyu's nostalgia for his real father and his lost name.\n15. **破镜重圆 (pò jìng chóng yuán)** — \"a broken mirror made whole again.\" The leads' reunion after the mid-show breakup.\n\nBonus / honorable mention: **戏如人生 (xì rú rén shēng)** — \"drama is like life\" — a saying rather than a strict chengyu but extremely on-theme.\n\n---\n\n## 8. Memorable Quotes\n\nOnly one literary citation surfaced in mainstream Chinese coverage of the drama. Listing what's verifiable; not fabricating others.\n\n**Quote 1 (verified — most-cited line in coverage):**\n\n- **Chinese:** 南为燕亭，延宇垂阿，步檐更衣，周若一舍\n- **Pinyin:** Nán wéi Yàn tíng, yán yǔ chuí ē, bù yán gēng yī, zhōu ruò yī shè\n- **English (literal):** \"To the south stands Yan Pavilion; its roof extends, its eaves hang low; covered walkways for changing robes; the layout enclosed like a single dwelling.\"\n- **Source:** Tang dynasty essay *桂州裴中丞作訾家洲亭记* by Liu Zongyuan (柳宗元)\n- **Context:** When Xiao Zhiyu mentions his childhood nickname \"小宇\" (Xiao Yu) comes from \"延宇的宇\" (the 宇 in \"extended eaves\"), Hu Xiu spontaneously completes the classical quotation. This becomes their **遇知音 (kindred-spirit) moment** — the romantic turning point. The scene was praised in Sohu, Sina Entertainment, Tencent News, and Yangtse Evening Post for \"making a literary encounter physical\" (让遇知音具象化). It's the single highest-prestige quote in the show.\n\n**Other dialogue / catchphrases referenced in coverage but not verified verbatim:**\n- \"白天打工，晚上谍战，梦里谈恋爱\" — \"Work by day, espionage by night, romance in dreams\" — Beijing Daily's tagline review of the show. Likely promotional copy rather than in-show dialogue. [needs verification as actual show dialogue]\n- \"在现实里，做自己很少能赢\" — \"In real life, being yourself rarely wins\" — Paraphrased thematic statement from The Paper review. [paraphrase, not a quote]\n- Various \"我喜欢你 / 我喜欢的是你\" confession lines surface in fan edits but no single canonical line dominated coverage [needs verification]\n\n**Recommendation:** Build any quotes article around the Liu Zongyuan citation. That's the single best SEO + cultural-moat angle this drama offers, because (a) it ties to a classical text AI summaries struggle to gloss correctly, (b) it has an explicit named source on a major Tang prose work, and (c) Chinese press treated it as the show's signature literary moment. Do NOT invent additional quotes.\n\n---\n\n## 9. Historical & Cultural Context\n\nThis is where the article has the most defensible SEO moat. Two intertwined critiques run through Chinese press coverage:\n\n### A. The 轧戏 / 戏霸 industrial critique\n\nFor 30 years 轧戏 was a marker of stardom. Hong Kong's golden-age stars stacked 12-14 films a year and audiences applauded the hustle. The aesthetic flip happened around 2017 with *General and I (孤芳不自赏)*: Angelababy and Zhong Hanliang were so over-booked that their roles were finished with green-screen body-doubles. The discourse named this the **戏霸 (xì bà, \"drama tyrant\")** phenomenon — A-listers using their leverage to skip set, demand schedule accommodation, or rely on stand-ins.\n\nThe State Administration of Radio and Television formally warned against simultaneous shoots; directors Er Dong-sheng (尔冬升), Jia Zhangke, Gao Qunshu, and Guan Hu publicly criticized 轧戏 culture. Pre-2017 it meant \"successful\"; post-2017 it means \"unprofessional.\" Yang Mi's 11-production year (2010) would now generate scandal headlines.\n\nA 2026 drama *titled* 轧戏 is therefore a calculated wink. The show isn't *about* the scandal — it's a romance — but the title smuggles a critique. The male lead is \"double-booked\" between his real and performed selves not out of greed but to hide grief and reinvent his identity. The title rehabilitates the term: when the hero \"轧戏-s,\" he does it for love and justice, not for box office.\n\n### B. The 剧本杀 (jubensha) generation\n\nThe show is set inside a 剧本杀 venue — China's 2018-2024 explosion of live-action role-playing detective games. By 2021 there were over 30,000 jubensha venues nationwide; the form has since plateaued but birthed an entire post-2018 youth subculture. The drama is a love letter to that generation: young urban professionals who escape office drudgery by playing immersive characters at night.\n\nThe combination is the moat: a 90s-classical title (轧戏) wrapped around a 2020s-youth setting (剧本杀) wrapped around a Republican-era scenario (民国谍战). The show explicitly comments on **escapism** — Hu Xiu can be confident as \"Sun Jiaying\" in the game in ways she can't be in real life. The Paper called this the drama's \"social-fatigue compensation\" register.\n\n### C. The \"fake-Republican\" aesthetic\n\nThe in-game scenes use Republican-era (1910s-40s) styling — military overcoats, bobbed hair, oil-lamp interiors. This isn't true period drama; it's the **新民国风** (new Republican style) aesthetic that's been a Chinese fashion subculture since the late 2010s. Press coverage of the show specifically credited Mao Deshu's color grading for distinguishing the two timelines visually — desaturated cool tones for the game, warm Shanghai sunshine for reality.\n\nFor SEO purposes the article should weave: jubensha culture → 轧戏 industry term origin → Republican-style aesthetic → how the show critiques performative living. AI Overviews struggle to thread these three because they require cross-domain knowledge (industry slang + youth subculture + period aesthetics).\n\n---\n\n## 10. Trending Search Angles\n\nBased on cross-referenced search results, related-drama patterns, and the drama's already-past-peak status:\n\n**High-intent residual queries (post-airing):**\n- \"love between lines ending explained\"\n- \"love between lines who is qin xiaoyi\"\n- \"轧戏 大结局\" / \"轧戏 结局\"\n- \"love between lines english sub\" / \"love between lines viki\"\n- \"love between lines novel english translation\"\n- \"轧戏 原著小说 祖乐\"\n\n**Cast/actor queries:**\n- \"陈星旭 卢昱晓 新剧\" (peaked in January, residual in May)\n- \"代旭 裴轸 翻红\" (late-cycle, his redemption arc)\n- \"lu yuxiao acting controversy\" / \"卢昱晓 台词 争议\"\n\n**Cultural/educational queries (the article's actual moat):**\n- \"轧戏 什么意思\" / \"轧戏 读音\" / \"轧戏 拼音\"\n- \"ya xi vs ga xi pronunciation\"\n- \"jubensha drama meaning\" / \"剧本杀 电视剧\"\n- \"南为燕亭 延宇垂阿 出处\" / \"桂州裴中丞作訾家洲亭记 翻译\"\n- \"Mao Deshu director style\" / \"猫的树 导演 作品\"\n\n**Lower-priority (Knowledge Panel risk per project_drama_seo_patterns.md):**\n- \"love between lines cast\" — likely lost to MyDramaList/Wikipedia panel\n- \"love between lines release date\" — past, low search now\n\n**Likely WINNING angle for chineseidioms.com:** Pivot away from cast and release-date queries. Build around (1) the **title etymology** (轧戏 industry term explained), (2) the **Liu Zongyuan quote scene** (classical reference, high cultural moat), and (3) **chengyu about identity/performance/double lives** tied to the plot. This matches the proven shape from project_drama_seo_patterns.md.\n\n---\n\n## 11. International Fandom Footprint\n\n- **MyDramaList:** Score 8.8 (≈18,000 ratings), ranked #187 overall, ~37,500 watchers. Strong positive English-language reception. Reviews praise chemistry, cinematography, OST; one critical review found pacing slow.\n- **Viki (Rakuten Viki):** 9.7/10 (≈39,000 votes) — runs hotter than MDL, typical of Viki's self-selected audience. Subtitled into 20+ languages (English, Spanish, German, Italian + 16 more). Trailer available.\n- **iQIYI International (iq.com):** All 28 episodes with English subs, free with ads.\n- **IMDb:** 8.3 rating, page exists (tt35890969). Low engagement compared to MDL/Viki.\n- **JustWatch:** Listed and aggregated.\n- **YouTube:** \"TKC Love Between Lines [English Subtitles]\" fan-channel playlist exists.\n- **Reddit r/CDrama:** No discoverable discussion threads via Google search (which doesn't necessarily mean zero — Reddit's internal search isn't well indexed). Drama did not generate r/CDrama weekly-thread saturation like *Pursuit of Jade* or *Light to the Night*. [needs verification via direct Reddit search]\n- **Douyin/TikTok:** Chinese clips proliferated heavily during airing — \"雪中拥吻名场面\" hashtag reportedly hit 120M reads in 24 hours after trailer drop. English-language TikTok engagement appears modest based on absence in news coverage.\n- **Sohu/Tencent News coverage:** Heavy. ~40+ articles between Jan 6 and Jan 25, 2026, both positive (\"opening-year dark horse\" / \"sleeper hit\") and negative (\"Lu Yuxiao diction disaster\"). Receded sharply by March.\n\n**Takeaway:** This is a \"**moderately international**\" C-drama — solid English-subbed presence on the major platforms, strong MDL/Viki scores, but not a Pursuit-of-Jade-level Western breakout. It found its audience among MDL regulars who follow Mao Deshu's prior work (*When I Fly Towards You* spillover).\n\n---\n\n## 12. Verification Flags\n\nItems the user should fact-check before generation:\n\n1. **DIRECTOR CORRECTION** — The brief named Randy Che / 车径行 as director. The actual director is **Mao Deshu / 猫的树**. This must be corrected before any article generation. Randy Che (车亮逸) is a different person, primarily a cinematographer per MyDramaList.\n2. **Mao Deshu's filmography** — Confirmed: *When I Fly Towards You* (2023), *Love Between Lines* (2026), various campus dramas. **NOT confirmed:** *Hidden Love* (different director — Wang Yi), *The Best Thing / 爱你 2025* (no source confirms his involvement).\n3. **Pronunciation** — Reported in Baidu sources as both `gá xì` and `yà xì`. Industry register uses `gá`. SEO articles should note both for query coverage.\n4. **Author \"Zu Le\" 祖乐** — confirmed as a Douban Reading author with a Fudan MA per Douban Reading bulletins, but no major mainstream Chinese-language Wikipedia entry. Note \"Zu Le\" appears to be a pen name; her legal name was not surfaced. [needs verification if wanting biographical detail]\n5. **Liu Zongyuan quote text** — confirmed across multiple sources as \"南为燕亭，延宇垂阿，步檐更衣，周若一舍\" from *桂州裴中丞作訾家洲亭记*. One source rendered \"燕亭下\" (with 下); majority sources omit 下. Recommend double-checking the original Tang text — Yangtze Evening Post version is most likely accurate.\n6. **Other show dialogue** — No other specific in-show lines were verified verbatim. Do NOT fabricate. The \"Beijing Daily tagline\" line is editorial copy, not show dialogue.\n7. **Pei Zhen's redemption ending** — Multiple sources describe it as \"forced whitewashing\"; details of his final-episode fate vary across recap articles. [needs verification if covering ending in detail]\n8. **CP fan controversies** — Multiple sources mention \"番位滤镜三重争议\" (a three-tier billing/CP fan war). The second-male-lead Dai Xu's CP with the female lead reportedly became more popular than the main CP mid-show. Worth noting if doing a fandom-deep article.\n9. **Episode count** — Confirmed 28 by Baidu Baike, Wikipedia, MyDramaList, iQIYI. One news headline mentioned \"30集\" pre-release — disregard, 28 is correct.\n10. **Lu Yuxiao diction controversy** — Confirmed across Sohu, NetEase, Sina, and Tencent News. Likely the single biggest negative narrative around the show. Could be a culturally-rich angle (why C-drama audiences prize 原声 / \"original voice\" over dubbing).\n\n---\n\n## Coverage Recommendation\n\nGiven today is 2026-05-19 (4 months past finale), per the project's drama-wave guidance (project_drama_wave_strategy.md), this is **past-peak**. Recommend a **medium-investment**, **idiom-and-quotes** angle, not a full 5-article cluster. Specifically:\n\n- **Single article**, ~1,500-2,000 words\n- Focus: title-etymology + Liu Zongyuan quote + 10-12 themed chengyu\n- Avoid: release-date / cast / where-to-watch angles (lost to Knowledge Panels)\n- Title pattern (per drama-seo-patterns): something like *\"15 Chinese Idioms from Love Between Lines (轧戏): The Drama That Names Its Own Industry Critique\"*\n\nIf a full cluster is desired, the strongest secondary article would be a **jubensha-culture explainer** rather than a cast piece — that hits both cultural-moat and evergreen-search criteria.\n\n---\n\n## Sources\n\n- [Love between Lines (2026) - MyDramaList](https://mydramalist.com/760693-ya-xi)\n- [Love Between Lines - Wikipedia](https://en.wikipedia.org/wiki/Love_Between_Lines)\n- [轧戏 - 百度百科](https://baike.baidu.com/item/%E8%BD%A7%E6%88%8F/63786251)\n- [轧戏 - 豆瓣电影](https://movie.douban.com/subject/36666804/)\n- [Love Between Lines - Rakuten Viki](https://www.viki.com/tv/41325c-love-between-lines)\n- [Love Between Lines - iQ.com](https://www.iq.com/album/love-between-lines-2026-1seo7569g7t)\n- [Review: Love Between Lines 2026 - Chasing Dramas](https://www.chasingdramas.com/reviews/review-love-between-lines-2026-%E8%BD%A7%E6%88%8F/)\n- [《轧戏》怎么就成了开年黑马？ - 澎湃](https://m.thepaper.cn/newsDetail_forward_32394899)\n- [\"南为燕亭，延宇垂阿\"，老祖宗的语言让《轧戏》\"遇知音\"具象化了 - 扬子晚报](https://www.yangtse.com/news/wy/202601/t20260112_310431.html)\n- [猫的树 - 百度百科](https://baike.baidu.com/item/%E7%8C%AB%E7%9A%84%E6%A0%91/58440680)\n- [演员为什么总在轧戏？ - 澎湃](https://www.thepaper.cn/newsDetail_forward_19901745)\n- [軋戲 - 漢典](https://www.zdic.net/hans/%E8%BB%8B%E6%88%B2)\n- [祖乐《轧戏》新书上市 - 豆瓣阅读](https://read.douban.com/reader/bulletin/684350384/)\n- [双时空+剧本杀！《轧戏》开播即爆却陷番位滤镜三重争议 - 网易](https://www.163.com/dy/article/KIS8UJVV0556D0S6.html)\n- [《轧戏》收官，代旭翻红 - 腾讯新闻](https://news.qq.com/rain/a/20260124A04AE000)\n- [轧戏大结局 真相揭晓复仇落幕 - 中华网](https://ent.china.com/movie/newszh/11005281/20260121/49182621.html)\n- [Love Between Lines - IMDb](https://www.imdb.com/title/tt35890969/)\n",
+  "idiomMatches": [
+    {
+      "id": "ID001",
+      "characters": "一鸣惊人",
+      "connection": "The drama 'Love Between Lines' achieved sleeper-hit status, surprising audiences with its success.",
+      "strength": "strong",
+      "relevantTo": "impact of the drama"
+    },
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "The plot of 'Love Between Lines' involves many twists and turns, particularly in the relationships and conflicts.",
+      "strength": "strong",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID018",
+      "characters": "塞翁失马",
+      "connection": "Hu Xiu's initial misfortune of being jilted at her engagement leads to new opportunities and relationships.",
+      "strength": "strong",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "The drama explores themes of actions and consequences, particularly with Xiao Zhiyu's father's scandal.",
+      "strength": "medium",
+      "relevantTo": "cultural themes"
+    },
+    {
+      "id": "ID041",
+      "characters": "莫名其妙",
+      "connection": "The concept of 轧戏, as used in the drama, may seem nonsensical to those unfamiliar with the industry critique.",
+      "strength": "medium",
+      "relevantTo": "historical basis"
+    },
+    {
+      "id": "ID046",
+      "characters": "风声鹤唳",
+      "connection": "The buried scandal involving Xiao Zhiyu's father creates an atmosphere of fear and suspicion.",
+      "strength": "medium",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID056",
+      "characters": "爱屋及乌",
+      "connection": "Hu Xiu's affection for Xiao Zhiyu extends to his in-game character, Qin Xiaoyi.",
+      "strength": "medium",
+      "relevantTo": "character relationships"
+    },
+    {
+      "id": "ID076",
+      "characters": "水到渠成",
+      "connection": "The resolution of the drama's conflicts feels natural and inevitable as the story unfolds.",
+      "strength": "medium",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID084",
+      "characters": "柳暗花明",
+      "connection": "Hope emerges for Hu Xiu and Xiao Zhiyu as they reconcile and overcome obstacles.",
+      "strength": "strong",
+      "relevantTo": "plot resolution"
+    },
+    {
+      "id": "ID090",
+      "characters": "锲而不舍",
+      "connection": "The persistence of the characters, especially Hu Xiu, in overcoming personal and professional challenges.",
+      "strength": "strong",
+      "relevantTo": "character development"
+    },
+    {
+      "id": "ID097",
+      "characters": "一叶知秋",
+      "connection": "Small signs in the drama foreshadow larger developments, particularly in the unraveling of Xiao Zhiyu's father's scandal.",
+      "strength": "medium",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID107",
+      "characters": "精卫填海",
+      "connection": "The characters' determination to resolve their issues despite seemingly impossible odds.",
+      "strength": "strong",
+      "relevantTo": "character development"
+    },
+    {
+      "id": "ID110",
+      "characters": "目不转睛",
+      "connection": "The drama's captivating plot and cinematography keep audiences focused and engaged.",
+      "strength": "medium",
+      "relevantTo": "why trending"
+    },
+    {
+      "id": "ID112",
+      "characters": "三省吾身",
+      "connection": "Characters in the drama frequently reflect on their actions and identities, particularly Xiao Zhiyu.",
+      "strength": "medium",
+      "relevantTo": "cultural themes"
+    },
+    {
+      "id": "ID114",
+      "characters": "闭月羞花",
+      "connection": "The drama's lead actress, Lu Yuxiao, is praised for her beauty and performance.",
+      "strength": "medium",
+      "relevantTo": "key people"
+    },
+    {
+      "id": "ID128",
+      "characters": "望其项背",
+      "connection": "The drama's success in the international market makes it a benchmark for future productions.",
+      "strength": "medium",
+      "relevantTo": "impact of the drama"
+    },
+    {
+      "id": "ID147",
+      "characters": "目无全牛",
+      "connection": "Xiao Zhiyu's architectural skills and his ability to navigate complex situations with ease.",
+      "strength": "medium",
+      "relevantTo": "character development"
+    },
+    {
+      "id": "ID153",
+      "characters": "目不暇给",
+      "connection": "The rich visual and narrative elements of the drama provide a lot for audiences to take in.",
+      "strength": "medium",
+      "relevantTo": "why trending"
+    },
+    {
+      "id": "ID183",
+      "characters": "刻骨铭心",
+      "connection": "The relationships and events in the drama leave a deep and lasting impact on the characters.",
+      "strength": "strong",
+      "relevantTo": "character relationships"
+    },
+    {
+      "id": "ID233",
+      "characters": "愚公移山",
+      "connection": "The characters' perseverance in overcoming personal and external obstacles throughout the drama.",
+      "strength": "strong",
+      "relevantTo": "character development"
+    },
+    {
+      "id": "ID284",
+      "characters": "与虎谋皮",
+      "connection": "The drama's exploration of power dynamics and negotiations in relationships and the workplace.",
+      "strength": "medium",
+      "relevantTo": "cultural themes"
+    },
+    {
+      "id": "ID296",
+      "characters": "众所周知",
+      "connection": "The drama's sleeper-hit status and international acclaim have made it widely recognized.",
+      "strength": "medium",
+      "relevantTo": "impact of the drama"
+    },
+    {
+      "id": "ID321",
+      "characters": "冷冷清清",
+      "connection": "Hu Xiu's emotional state after being jilted at her engagement banquet.",
+      "strength": "medium",
+      "relevantTo": "plot summary"
+    },
+    {
+      "id": "ID332",
+      "characters": "不言而喻",
+      "connection": "The chemistry between the lead actors is evident and praised by audiences.",
+      "strength": "medium",
+      "relevantTo": "why trending"
+    },
+    {
+      "id": "ID414",
+      "characters": "雨后春笋",
+      "connection": "The rapid rise in popularity of the jubensha culture, as reflected in the drama.",
+      "strength": "strong",
+      "relevantTo": "historical basis"
+    },
+    {
+      "id": "ID444",
+      "characters": "一往无前",
+      "connection": "The characters' unwavering determination to face challenges and resolve conflicts.",
+      "strength": "strong",
+      "relevantTo": "character development"
+    },
+    {
+      "id": "ID487",
+      "characters": "无所不知",
+      "connection": "The drama's intricate plot and themes require a broad understanding of cultural and historical contexts.",
+      "strength": "medium",
+      "relevantTo": "cultural themes"
+    },
+    {
+      "id": "ID495",
+      "characters": "顺其自然",
+      "connection": "The drama's resolution suggests a natural progression of events leading to reconciliation.",
+      "strength": "medium",
+      "relevantTo": "plot resolution"
+    },
+    {
+      "id": "ID517",
+      "characters": "欣欣向荣",
+      "connection": "The thriving jubensha culture and its reflection in the drama's setting and themes.",
+      "strength": "medium",
+      "relevantTo": "historical basis"
+    },
+    {
+      "id": "ID545",
+      "characters": "脱颖而出",
+      "connection": "The drama's unique plot structure and strong performances make it stand out in the industry.",
+      "strength": "strong",
+      "relevantTo": "why trending"
+    },
+    {
+      "id": "ID606",
+      "characters": "海枯石烂",
+      "connection": "The enduring love between Hu Xiu and Xiao Zhiyu, despite challenges and obstacles.",
+      "strength": "strong",
+      "relevantTo": "character relationships"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Love Between Lines (轧戏): What the Title Means + 10 Idioms About Double Lives",
+      "slug": "love-between-lines-title-meaning-double-life-idioms",
+      "angle": "Title-etymology deep-dive + identity/duality chengyu — the drama's actual cultural moat. Threads (1) the industry-slang origin of 轧戏 (Peking-opera roots → Hong Kong cinema → 2017 General-and-I scandal → metaphorical title), (2) the Liu Zongyuan classical quote scene (南为燕亭，延宇垂阿…) that serves as the leads' 遇知音 moment, and (3) 10 chengyu about hidden identity, double-dealing, and truth-revelation that map directly to the male lead's double life as architect Xiao Zhiyu by day and jubensha NPC Qin Xiaoyi by night. Avoids the dead 'cast/plot/release-date' angles per project_drama_seo_patterns.md.",
+      "theme": "Strategy & Action",
+      "description": "What does 轧戏 mean? Inside the title pun of Love Between Lines (2026) — from Peking-opera slang to the show's double-life romance, plus 10 Chinese idioms about hidden identity and truth.",
+      "idiomIds": [
+        "ID062",
+        "ID189",
+        "ID252",
+        "ID468",
+        "ID605",
+        "ID716",
+        "ID786",
+        "ID788",
+        "ID826",
+        "ID861"
+      ],
+      "outline": [
+        "Open with the title pun: 轧戏 (gá xì / yà xì) is industry slang for an actor double-booking themselves — and the show's male lead 'double-books' his own identity, performing as Qin Xiaoyi in a jubensha (剧本杀) game by night while being architect Xiao Zhiyu by day. State the pronunciation (gá xì preferred in industry register, but yà xì also common).",
+        "Title etymology section (~300 words): trace 轧戏 from Peking-opera roots (an actor doubling roles within one performance) → Hong Kong golden-age cinema (1980s-90s, Andy Lau / Maggie Cheung stacking 12-14 films a year) → the 2017 General-and-I (孤芳不自赏) scandal that flipped the term negative → why a 2026 drama titled 轧戏 is a calculated wink, rehabilitating the term: the hero 'double-books' for love and justice, not box office.",
+        "The Liu Zongyuan scene (~200 words): when Xiao Zhiyu mentions his childhood nickname '小宇' comes from '延宇' in Liu Zongyuan's Tang essay 桂州裴中丞作訾家洲亭记, Hu Xiu spontaneously completes the classical quotation: 南为燕亭，延宇垂阿，步檐更衣，周若一舍. This becomes their 遇知音 (kindred-spirit) moment. Briefly gloss the Tang text. Note: this is the single highest-prestige literary quote in the show.",
+        "10 idioms about double lives, hidden identity, and revealed truth — each tied to a specific scene/character arc:",
+        "  - 偷梁换柱 (ID062): Xiao Zhiyu literally swapping his identity (Qin Xiaoyi → architect alias)",
+        "  - 暗度陈仓 (ID189): his secret double life as the jubensha NPC while running a design firm",
+        "  - 金蝉脱壳 (ID786): his original identity-switch years ago, after his father's framing",
+        "  - 瞒天过海 (ID788): hiding his real name from Hu Xiu through the entire opening arc",
+        "  - 脚踏两船 (ID826): literal double-booking (the title's chengyu cousin) — both timelines, both names",
+        "  - 一见钟情 (ID605): Hu Xiu's first-game encounter with 'Qin Xiaoyi'",
+        "  - 狐狸尾巴 (ID252): the slow reveal of Xiao Zhiyu's true identity",
+        "  - 拨云见日 (ID468): the moment Hu Xiu realizes her boss = her NPC crush",
+        "  - 水落石出 (ID716): the father's scandal (stadium collapse, Pei Kanghua's framing) finally exposed",
+        "  - 破镜重圆 (ID861): the leads' reunion after the mid-show breakup",
+        "Brief director note (~80 words): Mao Deshu / 猫的树 (also directed When I Fly Towards You) — cross-link to that article. Skip Randy Che entirely (different person, did NOT direct this).",
+        "Brief stats footer (~50 words): aired Jan 9-20, 2026, 28 eps, iQIYI heat peak 8,674, MDL 8.8 / Viki 9.7. Available on Viki and iQIYI International with English subs.",
+        "DO NOT include: cast bios beyond a 1-line lead mention; episode-by-episode plot summary; release date as a heading; 'where to watch' as its own section; any wedding/600-jin or unverified production trivia; any quote from the show other than the Liu Zongyuan one (no other verified verbatim lines exist)."
+      ],
+      "keyFacts": [
+        "轧戏 (gá xì / yà xì) is Chinese entertainment-industry slang for an actor double-booking themselves across two or more productions at the same time. Originated as Peking-opera term, popularized through 1980s-90s Hong Kong cinema, flipped negative after the 2017 General and I scandal.",
+        "Love Between Lines aired Jan 9-20, 2026 on iQIYI's 恋恋剧场 + Dragon TV. 28 episodes. iQIYI heat peak 8,674. Past peak by ~4 months as of May 2026.",
+        "Directed by Mao Deshu (猫的树 / Yuan Shuang), NOT by Randy Che. Same director as When I Fly Towards You (2023).",
+        "Source novel: 轧戏 by 祖乐 (Zu Le), 93 chapters, serialized on Douban Reading (not Jinjiang). 9.8/10 reader rating.",
+        "Lead actors: Chen Xingxu (陈星旭) as Xiao Zhiyu / Qin Xiaoyi dual role; Lu Yuxiao (卢昱晓) as Hu Xiu.",
+        "The Liu Zongyuan quote scene (南为燕亭，延宇垂阿，步檐更衣，周若一舍 from 桂州裴中丞作訾家洲亭记) is the show's signature literary moment — the leads' 遇知音 kindred-spirit reveal."
+      ]
+    }
+  ]
+}
