@@ -1,0 +1,337 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Dear You (给阿嬷的情书)",
+  "date": "2026-05-29",
+  "research": {
+    "basicFacts": {
+      "type": "Film",
+      "releaseDate": "April 17, 2026",
+      "keyPeople": [
+        "Director/Writer: Lan Hongchun (蓝鸿春), b. 1985 Shantou; ex-Phoenix TV documentary maker, no film school",
+        "Female lead: Li Sitong (李思潼) as Xie Nanzhi 谢南枝; grandfather Wang Yantong as Zheng Musheng 郑木生; grandmother Wu Shaoqing as Ye Shurou 叶淑柔; grandson Zheng Runqi as Xiaowei 晓伟 (recurs from the 2018 film)",
+        "Chaoshan trilogy: 爸我一定行的 (2018) -> 带你去见我妈 (2022) -> 给阿嬷的情书 (2026)"
+      ],
+      "impact": "Reportedly China's first all-amateur-cast feature to cross ¥100M box office."
+    },
+    "plotSummary": "In the 1940s, Zheng Musheng leaves Chaoshan, Guangdong for Southeast Asia, leaving wife Ye Shurou and their children. For decades, qiaopi letters with remittances arrive from 'him,' sustaining the family. In the present, the grandson Xiaowei travels to Thailand to find the grandfather and discovers the truth: Zheng Musheng drowned after saving someone in a Thai river. A Thai-Chinese woman, Xie Nanzhi, concealed his death and kept writing and sending qiaopi in his name to preserve the grandmother's hope. The families reconcile and become sworn kin. Xie Nanzhi grows from a rent-collecting young woman into a Chinese-language educator who founds a Chinese school. Note: Nanzhi and Musheng were NEVER lovers — the 'love letters' were a compassionate fiction (善意的谎言), not a romance; the grandmother learns the full truth only at the end. The deception ran 18 years (1960–1978).",
+    "historicalBasis": [
+      {
+        "topic": "Qiaopi (侨批)",
+        "details": "Qiaopi were combined letter-and-remittance documents sent by emigrants in Southeast Asia/the Americas back to families in Guangdong and Fujian, 19th–20th centuries.",
+        "dynasties": [],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Separation and Longing for Home",
+        "explanation": "The film dramatizes the experience of emigrant-village families who relied on qiaopi for cash and news, highlighting the emotional and social role of these letters."
+      },
+      {
+        "theme": "Family Duty and Sacrifice",
+        "explanation": "The film explores the sacrifices made by the 留守妇女 (stay-behind wives) who raised children and ran households on the strength of letters and remittances."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "侨批",
+        "pinyin": "qiáopī",
+        "meaning": "overseas-Chinese letters",
+        "relevance": "Central to the film's historical and cultural context, representing the lifeline for emigrant families."
+      },
+      {
+        "characters": "阿嬷",
+        "pinyin": "ā-mà",
+        "meaning": "grandmother",
+        "relevance": "Key term in the film's title, reflecting familial affection and cultural specificity."
+      }
+    ],
+    "whyTrending": "The film became a dark horse due to zero-marketing word-of-mouth ignition, its restrained emotional register, cultural resonance with overseas-Chinese identity, and a viral comic-relief meme on Douyin.",
+    "verifyFlags": [
+      "Female lead character: 李思潼 (confirmed), not 李思彤.",
+      "Concealment duration: 'over a decade' / reportedly 18 years — use a hedge.",
+      "Cannes: market screening (Marché du Film), NOT competition selection.",
+      "'Based on a true story': original fiction inspired by real history; director said 'no specific prototype.'",
+      "家书抵万金 is a Du Fu poem line, NOT a chengyu — never label it a chengyu.",
+      "南枝 ↔ 越鸟巢南枝 allusion is interpretive — 'evokes,' not 'intended.'",
+      "Qiaopi document counts (170k / 160k / 10k) are reported figures, not confirmed on the UNESCO page; Shantou 92k is solid.",
+      "'30M qiaopi / US$10B / 1864–1980' is secondhand (AsiaNews) — present as an estimate.",
+      "Maoyan 9.7 / IMDb 8.5 unconfirmed; Maoyan satisfaction 85.6 is confirmed.",
+      "Grandson's debt + 'rumored rich grandfather' opening IS corroborated (QQ News/Maoyan) and usable; but Nanzhi and Musheng were NEVER lovers — the letters were a benevolent lie, NOT a romance.",
+      "Ending: bittersweet/cathartic not tragic; grandmother learns the truth only at the end (canon); 'she knew all along' is a fan theory; 18-year deception 1960–1978.",
+      "Tier B quotes — do not present as confirmed dialogue.",
+      "Box office is a moving figure as of late May 2026; 'crossed ¥1B on May 24' is confirmed."
+    ]
+  },
+  "externalResearchMd": "# Research Brief — *Dear You* (给阿嬷的情书, 2026)\n\nConsolidated and audited from three web-research passes (May 2026). Every specific\nnumber, date, name, and quote was cross-checked; corrections and confidence flags\nare baked in. Chinese characters and classical quotes verified character-by-character.\n\n---\n\n## 1. Basic Facts\n\n- **English title:** Dear You — a deliberate non-literal localization (see §7).\n- **Chinese title:** 给阿嬷的情书 (給阿嬤的情書) — \"A Love Letter to Grandma.\"\n- **Director / writer:** Lan Hongchun (蓝鸿春). His third Teochew-dialect feature.\n- **Languages:** primarily Teochew (潮汕话), with Thai and Mandarin.\n- **Runtime:** ~118 min.\n- **Release:** Shantou premiere Apr 17, 2026; regional theatrical Apr 30; nationwide May 3; IMAX May 23.\n- **Budget:** ~¥14M (~US$2.06M) per English Wikipedia (\"just over ¥10M\" per Xinhua/People's Daily).\n- **Cast:** almost entirely first-time amateur (\"素人\") actors, cast over a ~9-month audition.\n- Reportedly China's first all-amateur-cast feature to cross ¥100M box office (21jingji).\n\n## 2. Cast & Characters (names verified — note corrections)\n\n| Actor (中文) | Character (中文) | Role |\n|---|---|---|\n| 李思潼 Li Sitong | 谢南枝 Xie Nanzhi (young) | Thai-Chinese letter-writer, female lead; ~22 at casting |\n| 乌萨·萨梅坎姆 Usha Seamkhum | 谢南枝 (old) | Elderly Xie Nanzhi (Thai actress) |\n| 王彦桐 Wang Yantong | 郑木生 Zheng Musheng | The grandfather (阿公) |\n| 吴少卿 Wu Shaoqing | 叶淑柔 Ye Shurou (old) | The grandmother (阿嬷) |\n| 王晓慧 Wang Xiaohui | 叶淑柔 (young) | Young grandmother |\n| 郑润奇 Zheng Runqi | 晓伟 Xiaowei | The grandson |\n| 方培松 Fang Peisong | 谢来顺 Xie Laishun | Xie Nanzhi's father |\n| 赵曙光 Zhao Shuguang | 谢泽华 Xie Zehua | Xie Nanzhi's adopted son |\n| 李德如 Li Deru | 如姨 \"Aunt Ru\" | Hostel worker; became a viral Douyin meme |\n\n**Name corrections (the names are load-bearing — get them right):**\n- Female lead is **李思潼** (potong, water radical), NOT 李思彤.\n- Grandfather is **郑木生 (Mùshēng)**, NOT 慕生.\n- Grandmother is **叶淑柔 (Shūróu)**, NOT 舒柔.\n\n**Confirmed name symbolism (sourced, load-bearing for the names article):** A Sohu feature\nstates the screenwriter intentionally built a 木→枝→叶 pattern: 郑木**生** carries 木 (wood/tree),\n叶淑柔's surname 叶 is the **leaf**, and 谢**南枝** is the **branch** — \"the branch is what connects\nthe wood and the leaf.\" 谢南枝, the woman abroad who keeps the correspondence alive, is literally the\nstructural link between the separated grandfather and grandmother. (Source: Sohu cultural feature.)\n\n## 3. Is It Based on a True Story? (the \"based on a true story\" article hinges on this)\n\n**Answer: It is an ORIGINAL, FICTIONAL story inspired by real qiaopi (侨批) history and\nhundreds of real interviews — NOT a dramatization of a single documented event.**\n\n- 21st Century Business Herald (mainstream financial outlet) quotes the most precise statement:\n  director Lan Hongchun visited \"several hundred overseas-Chinese families\" across Malaysia,\n  Thailand, Vietnam, and Indonesia while making his documentary 《四海潮味》, but\n  **\"这个故事，并没有具体的原型\"** — *\"this story has no specific real-life prototype.\"*\n- Director's own framing (The Paper): the story's \"creative foundation\" was formed by the many\n  stories he heard from the older overseas-Chinese generation of \"rooting abroad while hearts\n  stayed with the homeland\" (扎根异国、心系桑梓). Personal tie: his hometown's 郑辉小学 was built\n  with overseas-Chinese donations.\n- A Tencent/QQ News article makes a stronger claim — \"300+ overseas-Chinese families and 120+\n  Chaoshan elders over 80 interviewed,\" and \"**片中90%以上的情节都有真实原型**\" (\"90%+ of the\n  plot has real-life prototypes\"). Treat \"90%\" as a journalistic flourish, not literal.\n- The qiaopi backdrop IS genuinely historical (UNESCO Memory of the World 2013).\n\n**Recommended phrasing for the article:** \"*Dear You* is an original fictional story inspired by\nreal qiaopi history and the hundreds of overseas-Chinese families the director interviewed — it is\nnot a dramatization of one true event.\" This is the honest, defensible answer, and the \"inspired by\nreal letters / real history\" angle is itself the hook.\n\n## 4. Plot Summary (reference only — do NOT copy verbatim)\n\nIn the 1940s, Zheng Musheng (郑木生) leaves Chaoshan, Guangdong for Southeast Asia (\"下南洋,\"\nto avoid conscription per China Daily), leaving wife Ye Shurou (叶淑柔) and their children. For\ndecades, qiaopi letters with remittances arrive from \"him,\" sustaining the family. In the present,\nthe grandmother's grandson Xiaowei (晓伟) travels to Thailand to find the grandfather and discovers\nthe truth: Zheng Musheng drowned (in 1960 per zh.Wikipedia) after saving someone in a Thai river.\nA Thai-Chinese woman, Xie Nanzhi (谢南枝), concealed his death and kept writing and sending qiaopi\nin his name to preserve the grandmother's hope — **for over a decade (China Daily says 18 years;\nzh.Wikipedia says \"十余年\")**. The families reconcile and become sworn kin. Xie Nanzhi grows from a\nrent-collecting young woman into a Chinese-language educator who founds a Chinese school.\n\n⚠️ NUANCE (corrected after ending verification): the **debt-ridden grandson chasing a rumored wealthy/\n\"billionaire\" grandfather** setup IS corroborated by Chinese sources (QQ News, Maoyan) — it's the film's\nopening hook and is usable. But the **\"hidden love affair\" framing is FALSE** — Nanzhi and Musheng were\nNEVER lovers (see §15). Do not frame the letters as romance.\n\n## 5. Critical Reception & Box Office\n\n- **Douban: 9.1/10** (opened 9.0), ~100,000 raters as of May 10 — called the year's highest-rated domestic film.\n- **IGN China: 9/10**, review titled \"情真意切，回味悠长\"; one-word verdict: \"真诚\" (sincerity).\n- **Maoyan audience satisfaction: 85.6** (QQ News). (zh.Wikipedia also lists Maoyan 9.7 / IMDb 8.5 — UNVERIFIED.)\n- **Box office:** ¥100M (May 9) → ¥470M (May 17) → **crossed ¥1 billion Sunday May 24** (15 days after release);\n  weekend May 22–24 ¥309.4M (US$45.5M), #1 in China and #3 worldwide. Maoyan/Beacon final forecast ~¥1.8B.\n- **Cannes — be precise:** held a **market screening (Marché du Film) at the 79th Cannes Film Festival on\n  May 15, 2026** and was picked up by a French distributor. It was NOT an official-competition or\n  Un Certain Regard selection. Do not write \"selected for Cannes competition.\"\n\n**Why it became a dark horse:** zero-marketing word-of-mouth ignition (Douyin officially debunked a rumor\nthat it spent ¥20M on paid traffic); a restrained, \"anti-melodrama\" emotional register (克制 / 淡淡的);\nqiaopi cultural resonance for overseas-Chinese identity; a stair-step regional→national rollout (out-of-province\nbox office climbed to 35.1%, proving the dialect was no barrier); and a viral comic-relief meme, \"潮汕如姨\"\n(Aunt Ru) and her broken-English lines on Douyin.\n\n## 6. Qiaopi (侨批) — The Cultural & Historical Core\n\n**What it is:** 侨 (overseas Chinese) + 批 (pī, \"letter\" in Minnan/Teochew dialect) → \"overseas-Chinese\nletters.\" Also called **番批 (fānpī)** (\"letters from the foreign lands\") and, in the Cantonese Wuyi/Jiangmen\nregion, **银信 (yínxìn)** (\"silver letters\"). A qiaopi was a **combined letter-and-remittance document** —\none envelope carrying both family news and money — sent by emigrants (华侨) in SE Asia/the Americas back to\nfamilies in Guangdong and Fujian, 19th–20th centuries.\n\n**Distinction the film's title plays on (sourced, Sohu):** letters from abroad were called **批 (pī)**;\ndomestic letters were called **信 (xìn)**. A \"平安批\" (safety remittance) was both a money transfer and\n\"a family voice across mountains and seas.\" By titling the film **情书** (love letter) rather than the\nneutral 信 or technical 批, the filmmakers reframe decades of dutiful remittance into an act of love.\n\n**The two human institutions that ran the system:**\n- **水客 (shuǐkè), \"water guests\"** — itinerant couriers, often mariners from the emigrant villages, who\n  carried bundles of letters and money home by sea.\n- **批局 / 侨批局 (pījú), remittance houses** — firms that verified recipient identity (name, village, family\n  details) before disbursing cash. The trade ran on **kinship-based trust (信用)** and was folded into the\n  Bank of China in 1979.\n\n**UNESCO Memory of the World:** inscribed under the exact registry name **\"Qiaopi and Yinxin Correspondence\nand Remittance Documents from Overseas Chinese\"** — entered the Asia-Pacific register in 2012 and the\n**International register in 2013**.\n- Document counts (⚠️ \"reported figures,\" NOT confirmed on the UNESCO page itself — see flags): ~170,000 surviving\n  documents total; ~160,000 in Guangdong (100,000+ from Chaoshan), ~10,000 in Fujian. The **Shantou Archives\n  houses 92,000+ items** (well attested via Xinhua).\n- Scale (⚠️ secondhand via AsiaNews): \"more than 30 million qiaopi between 1864 and 1980,\" over US$10B in\n  remittances that built homes, schools, bridges, and roads across southern China.\n\n**The emotional/social role:** for emigrant-village families the qiaopi was both the household's only cash and\nthe only news. Left behind were the **留守妇女 (liúshǒu fùnǚ), \"stay-behind wives,\"** who raised children and\nran households for years or decades on the strength of letters and remittances. *Dear You* dramatizes exactly\nthis — and the dread of a delayed or never-arriving qiaopi.\n\n## 7. Title, 阿嬷, and the Teochew Dialect (the names/language article)\n\n**Title, character by character:** 给 (gěi, \"to/for\") + 阿嬷 (ā-mà, \"grandma\") + 的 (de, possessive) + 情书\n(qíngshū, \"love letter\") → \"A Love Letter to Grandma.\"\n\n**The English title \"Dear You\" is a deliberate non-translation (sourced, Sohu):** (1) \"Dear\" is the standard\nEnglish letter salutation, mirroring the epistolary form; (2) \"You\" is an open second-person pronoun that\ndeliberately doesn't name \"Grandma,\" so it can point at the grandmother, the letter-writer, or the whole\ndiaspora; (3) it carries \"a literary sense of an unspecified addressee\" — the way people write to the departed.\nTrade-off: gains universality, loses the explicit familial-affection charge of 情书.\n\n**阿嬷 (ā-mà) — the key word:** means **grandmother** in Minnan (Hokkien), Teochew (Chaoshan), Hakka, and is\neveryday usage in Taiwan. 嬷/嬤 are simplified/traditional variants. Contrast with Mandarin, which splits\npaternal grandmother **奶奶 (nǎinai)** from maternal **外婆 (wàipó) / 姥姥 (lǎolao)**; the southern dialects\ncollapse both into 阿嬷. The **阿** prefix is a familiar/affectionate kinship marker (阿爸, 阿妈, 阿公, 阿嬷) —\nan archaism traceable to the Wei-Jin / Tang era, lost in the north but preserved in the south. Natural pair:\n**阿公 (ā-gōng) = grandfather.**\n\n**Pronunciation debate the film triggered (great hook, sourced):** audiences split between *à-má* and *à-mó*.\nLinguist **林伦伦 (Lin Lunlun)** ruled in May 2026: say **阿嬷 (mà), not (mó)** — the *mó* reading exists in\ndictionaries but means \"mother / elderly woman,\" whereas the dialect reading *mà* (not yet dictionary-listed)\nis the one used across eastern/western Guangdong, Hakka, and Hokkien areas and specifically means \"grandmother.\"\nThe dialect-proper character is sometimes written **嫲**; the director chose the more common 嬷 for accessibility.\n\n**Teochew / Chaoshan dialect (潮州话/潮汕话):** a Southern Min variety (same Southern Min group as Hokkien, but\nonly ~51% mutually intelligible — many treat them as distinct languages). **Not mutually intelligible with\nMandarin/Cantonese.** Speaker numbers: ~14M in-region (2004), ~20–25M including the SE-Asia diaspora. One of the\nmost conservative Chinese varieties — preserves Old Chinese vocabulary and the **entering (checked) tones**\nMandarin lost; **8 tones** in northern/standard Teochew (some southern sub-dialects have 7). A Teochew-language\nfeature is notable because the overwhelming majority of Chinese theatrical releases are Mandarin.\n\n**Why Thailand:** Chaoshan was the heartland of emigration to Siam. Teochew migrants became the **largest** group\nwithin Thailand's Chinese minority (Thai Chinese ~9.5M, ~56% Teochew); their dialect was the lingua franca of\nBangkok's Chinese merchant circles since the city's 18th-century founding. **King Taksin** (founder of Thonburi)\nhad a Chaoshan-Chinese father. Between 1864 and 1911, nearly 3 million people departed the Chaoshan region (Xinhua).\n\n**红头船 (hóngtóuchuán), \"red-head boats\":** under a 1723 Qing regulation, junks were painted by province of\norigin (red for Guangdong); the red-head boats sailed from **Zhanglin port (樟林港)** and became the central\nsymbol of Chaoshan migration. **过番 (guòfān)** = the vernacular term for emigrating to Nanyang (南洋). ⚠️ Cite a\ndedicated source for 过番 before leaning on it; well-known term but the breadth of sourcing was thin.\n\n## 8. Character Name Meanings (for the names/language article)\n\n- **谢南枝 Xiè Nánzhī** — 南 \"south\" + 枝 \"branch\" = \"southern branch.\" The branch that connects 木(grandfather)\n  and 叶(grandmother) in the confirmed naming design. Evokes the classical homesickness image 越鸟巢南枝 (see §9).\n  ⚠️ The 南枝 ↔ 越鸟巢南枝 allusion is INTERPRETIVE — sources confirm the 木-枝-叶 design but do NOT explicitly\n  state the screenwriter intended the 古诗十九首 allusion. Frame as \"the name evokes/resonates with,\" not \"intended.\"\n- **郑木生 Zhèng Mùshēng** — 木 \"wood/tree\" + 生 \"to grow/be born\" = \"born of wood / wood grows.\"\n- **叶淑柔 Yè Shūróu** — surname 叶 \"leaf\"; 淑 \"virtuous/gentle\" + 柔 \"soft/tender\" = a classic feminine name.\n- **晓伟 Xiǎowěi** (grandson) — 晓 \"dawn/to understand\" + 伟 \"great\"; ordinary modern given name. ⚠️ Surname unconfirmed.\n\n## 9. Classical Allusion (verified)\n\n**《行行重行行》, the first of 《古诗十九首》 (Nineteen Old Poems),** anonymous Eastern Han, contains the famous\ncouplet **胡马依北风，越鸟巢南枝** — \"The Hu (northern) horse leans into the north wind; the Yue (southern) bird\nnests on the southern branch.\" Gushiwen glosses it: \"凡物都有眷恋乡土的本性\" — every creature has an innate\nattachment to its homeland. It is among the most famous images of homesickness/loyalty-to-origin in the Chinese\ncanon, and 越鸟巢**南枝** literally contains the two characters of the character name 谢**南枝**. The poem is itself\na separated-spouse letter-poem about a 游子 (wanderer) who never returns — structurally identical to 叶淑柔 writing\nacross the sea to a 郑木生 who emigrated and never came back. Excellent hook for the names/language and history articles.\n\n**家书抵万金 (jiā shū dǐ wàn jīn)** — \"a letter from home is worth ten thousand in gold,\" from Du Fu's 《春望》\n(\"烽火连三月，家书抵万金\"), 757 CE, An Lushan rebellion. ⚠️ This is a **poem line used proverbially, NOT a\nfour-character chengyu** — present it as a classical quotation, never label it a chengyu. Thematically perfect for qiaopi.\n\n## 10. Chengyu Candidates (all verified character-by-character; match to catalog IDs)\n\nThemes: separation, longing for home, family duty, faithfulness across distance, sacrifice. These were\nhand-verified against Zdic / Baidu Baike / 国学大师. Use to seed the idiom-matching step and the listicle.\n\n| Idiom | Pinyin | Gloss | Connection |\n|---|---|---|---|\n| 落叶归根 | luò yè guī gēn | fallen leaves return to roots | the 华侨's deepest wish — to return to the home village |\n| 背井离乡 | bèi jǐng lí xiāng | leave the well, leave home | the act of 过番 — leaving Chaoshan to survive |\n| 衣锦还乡 | yī jǐn huán xiāng | return home in brocade | the migrant's aspiration behind years of remittances |\n| 骨肉分离 | gǔ ròu fēn lí | flesh and bone separated | the decades-long separation of qiaopi families |\n| 鸿雁传书 | hóng yàn chuán shū | wild geese carry the letter | the poetic image of the qiaopi itself (Su Wu legend) |\n| 鱼传尺素 | yú chuán chǐ sù | the fish delivers a foot of silk | classical sister-image of the letter |\n| 望穿秋水 | wàng chuān qiū shuǐ | gaze until the autumn waters wear through | the stay-behind wife awaiting each qiaopi |\n| 鱼沉雁杳 | yú chén yàn yǎo | fish sink, geese vanish | letters stop coming — exactly the film's premise |\n| 含辛茹苦 | hán xīn rú kǔ | swallow bitterness and hardship | the 留守妇女 raising a family alone |\n| 任劳任怨 | rèn láo rèn yuàn | bear toil and resentment | the uncomplaining self-sacrifice of those left behind |\n| 相濡以沫 | xiāng rú yǐ mò | moisten each other with spit (庄子) | kin sustaining each other across the ocean |\n| 忠贞不渝 | zhōng zhēn bù yú | loyal and steadfast, unchanging | faithfulness kept across years of separation |\n| 海誓山盟 | hǎi shì shān méng | vows by sea, oaths by mountain | the promises that held couples together across distance |\n| 莼鲈之思 | chún lú zhī sī | longing for water-shield soup and perch (晋书) | the migrant's nostalgia for home and home food |\n| 归心似箭 | guī xīn sì jiàn | heart on returning, fast as an arrow | the yearning running through every qiaopi |\n| 守望相助 | shǒu wàng xiāng zhù | keep watch and aid one another (孟子) | the clan/village trust network that made qiaopi work |\n| 寸草春晖 | cùn cǎo chūn huī | an inch of grass repaying spring sun (孟郊《游子吟》) | filial duty — the reason migrants kept sending money |\n\n## 11. Chaoshan Cultural Elements (color for the history article)\n\n- **工夫茶 (gōngfū chá)** — Chaoshan gongfu tea, small-cup high-ritual oolong brewing (often Phoenix Dancong);\n  the center of hospitality. (Local written form is 工夫茶, distinct from the homophone 功夫茶.)\n- **拜祖 / 祭祖 (bài zǔ / jì zǔ)** — ancestral worship, the diaspora bond that kept migrants tied to the home village.\n- **祠堂 (cítáng)** — the ancestral hall; Teochew halls famous for elaborate woodcarving (潮州木雕).\n- **潮剧 (Cháojù)** — Teochew opera, a ~500-year-old form (rooted in 南戏 Nanxi) that traveled with the diaspora.\n\n## 12. Verified Quotes (USE TIER A ONLY)\n\n**Tier A — appears in mainstream press attributed to the film (usable):**\n1. 暹罗虽远，心有所寄，身若比邻，切要平安，即为团圆 — *Xiānluó suī yuǎn, xīn yǒu suǒ jì, shēn ruò bǐ lín, qiè yào\n   píng'ān, jí wéi tuányuán* — \"Though Siam is far, the heart has its anchor; we are as near as neighbors — so long\n   as you are safe and well, that is reunion.\" (China Daily; shorter form in 21jingji)\n2. 江海万里，心中念你，便不觉遥远 — *Jiānghǎi wànlǐ, xīnzhōng niàn nǐ, biàn bù jué yáoyuǎn* — \"Ten thousand miles of\n   rivers and seas — yet when you are in my heart, the distance feels like nothing.\" (China Daily)\n3. 行船入夜，恰江上升明月，似与你并肩共赏 — *Xíngchuán rù yè, qià jiāng shàng shēng míngyuè, sì yǔ nǐ bìngjiān gòng\n   shǎng* — \"Sailing into the night, just as the bright moon rises over the river — as if I were watching it beside\n   you.\" (China Daily; 21jingji) — one of Nanzhi's ghost-written letters.\n4. 暹罗没有春天，你就是我的春天 — *Xiānluó méiyǒu chūntiān, nǐ jiùshì wǒ de chūntiān* — \"Siam has no spring — you are\n   my spring.\" (21jingji)\n\n**Tier B — fan-account / aggregator-sourced (DO NOT present as confirmed film dialogue):**\n- 你不识字可以收一辈子租，那些孩子不识字就只能做一辈子牛马 (QQ News, mainstream but no scene cited — usable with care)\n- 切莫过于节俭，一切有我 / 走仔也不一定是要走的仔 / 七夕… (trace to a Weibo fan account \"意难平bot\" via Sina — DO NOT USE)\n- \"你走后，我成了你\" — likely a critic's thematic framing, NOT confirmed verbatim dialogue — DO NOT quote as dialogue.\n\n## 13. ⚠️ Master Verify-Flags (fact-check before generating)\n\n1. Female lead character: 李思**潼** (confirmed), not 李思彤.\n2. Concealment duration: \"over a decade\" / reportedly 18 years — use a hedge.\n3. Cannes: market screening (Marché du Film), NOT competition selection.\n4. \"Based on a true story\": original fiction inspired by real history; director said \"no specific prototype.\"\n5. 家书抵万金 is a Du Fu poem line, NOT a chengyu — never label it a chengyu.\n6. 南枝 ↔ 越鸟巢南枝 allusion is interpretive — \"evokes,\" not \"intended.\"\n7. Qiaopi document counts (170k / 160k / 10k) are reported figures, not confirmed on the UNESCO page; Shantou 92k is solid.\n8. \"30M qiaopi / US$10B / 1864–1980\" is secondhand (AsiaNews) — present as an estimate.\n9. Maoyan 9.7 / IMDb 8.5 unconfirmed; Maoyan satisfaction 85.6 is confirmed.\n10. Avoid the People's Daily/Variety \"billionaire grandfather / debt / hidden love affair\" framing.\n11. Tier B quotes — do not present as confirmed dialogue.\n12. Box office is a moving figure as of late May 2026; \"crossed ¥1B on May 24\" is confirmed.\n\n## 14. Director: Lan Hongchun (蓝鸿春) — for the director/career article\n\n- **Born 1985 in Shantou (汕头), Guangdong** — a native of the Chaoshan (潮汕) region his films depict.\n  (One source specifies Chaoyang 潮阳, a Shantou district — compatible, single-sourced.)\n- **Outsider background:** NOT from the mainstream film industry, no formal film-school training. Worked\n  ~6 years as a documentary editor/director at **Phoenix TV (凤凰卫视)** making Chaoshan-culture\n  documentaries, then founded his own media company in **2016**. His first feature was funded by his\n  **high-school classmates**, not studios.\n- ⚠️ **University conflict — HEDGE:** zh.Wikipedia/Baidu say **South China Normal University (华南师范大学)**,\n  Chinese Literature; a Sina relay says **Central China Normal (华中师范大学), grad 2009**. Don't state one as fact.\n\n**The \"Chaoshan trilogy\" (father → mother → grandmother) — the article's spine (verified):**\n1. **《爸，我一定行的》 (\"Proud of Me\"), 2018** — billed as the first Teochew-dialect theatrical-release film;\n   box office ~¥47M; starred Zheng Runqi (郑润奇), who also appears in Dear You as the grandson. ⚠️ Douban\n   number not retrievable — do not invent one.\n2. **《带你去见我妈》 (\"Back to Love\"), 2022** — Douban **7.4**; box office **¥23.74M (Maoyan)**.\n   ⚠️ A \"¥400M\" figure circulates in one clickbait headline — FALSE/conflated, do not use.\n3. **《给阿嬷的情书》 (Dear You), 2026** — the breakout, ¥1B+ (see §5).\n\n**四海潮味 documentary:** a years-long doc (research began ~2019, ~7 years) on global Teochew cuisine and the\nChaoshan diaspora — ~50 overseas Chaoshan families across 10+ countries, 100+ dishes. While filming it abroad,\nLan personally encountered the real diaspora stories — including the \"benevolent lie\" of continuing to send\nletters/money home in a deceased person's name — that became Dear You's source material. ⚠️ \"15 episodes\"\nepisode count and firm release status are low-confidence.\n\n**郑辉小学 thread (a moving, sourced detail):** Lan's hometown school was built with overseas-Chinese donations.\nWhile filming in France he learned **郑辉** was chairman of the French Chinese Mutual-Aid Association, who rose\nfrom a small grocery to a supermarket chain and **donated nearly ¥3M in 1985** to build the village's first\nschool (later ¥10M+ to hometown education). This personal thread is part of why he tells the 华侨 story.\n\n**Philosophy / quotes (verbatim, sourced — usable):**\n- \"我反而希望就在这一亩三分地里认真种田……种出一些小而美的花\" — he'd rather farm his small plot well and grow\n  small, beautiful flowers (deliberately stays based in Chaoshan rather than a film hub). → ties to 脚踏实地.\n- \"我们既然选择深耕潮汕文化的电影，就不要三心二意\" — having chosen to deeply cultivate Chaoshan-culture films,\n  he won't be half-hearted; frames it as a ten-year commitment. → ties to 锲而不舍.\n- \"就像潮汕的木雕、刺绣手艺人，靠的是精工细作\" — like Chaoshan woodcarvers and embroiderers, it relies on\n  meticulous craftsmanship. → ties to 匠心独运.\n- On casting amateurs: looks for \"信念感\" (a sense of conviction) and gives \"无限NG的机会\" (unlimited retakes);\n  pure Teochew speech is the top priority.\n- \"潮汕文化是载体，情义与亲情才是内核\" — Chaoshan culture is the vehicle; loyalty/affection and family are the\n  core; even audiences who don't understand the dialect can be moved.\n- He studied **thousands of qiaopi letters**, spent a full day at the Shantou Qiaopi Cultural Museum, and wrote\n  a tens-of-thousands-of-words \"Siam life guide\" to reconstruct the era. → his \"documented and traceable\"\n  (有据可考、有迹可循) authenticity standard. Ties to the \"厚积薄发\" decade-of-groundwork arc.\n\n**\"三无\" (three-no) framing:** no stars, no big budget, no marketing — yet Douban 9.1; called the highest-rated\ndomestic narrative film in a decade; first all-amateur-cast Chinese feature to cross ¥100M. The dark-horse\nbreakout after ~8 years of small dialect films is the literal meaning of 一鸣惊人 (sudden fame after long silence).\n\n**Reception of HIM:** described as a representative figure of Chaoshan culture and the dialect-film movement.\n⚠️ No specific personal film award found — do NOT claim he has or hasn't won one.\n\n⚠️ **Director-section verify-flags:** university (华南师范 vs 华中师范); \"120+ elders over 80\" figure is from an\nEnglish aggregator only (confirmed Chinese sourcing is \"nearly 300 families\" + \"thousands of qiaopi letters\") —\nprefer the confirmed framing; 《带你去见我妈》 box office is ¥23.74M not ¥400M; female lead is 李思潼 not 李思彤.\n\n## 15. The Ending — Verified Beats (SPOILERS, for the ending-explained article)\n\n**Tone — the quick-answer:** the ending is **bittersweet and cathartic-warm, NOT a tragedy.** Chinese critics\ndescribe it through restraint (克制 / \"淡淡的\") — emotion that flows quietly rather than melodrama; the climax\nreads as release and reconciliation (释怀和解), not grief. Douban ~9.0 (57.6% five-star).\n\n**Does grandmother Ye Shurou ever learn the truth? — the crux. Canonically, NO during the decades; she learns\nthe full truth only at the END, via grandson Xiaowei.** (zh.Wikipedia: \"得知真相后，淑柔与家人前往泰国\"; China.com:\nthe half-century truth is revealed only when the grandson goes to Thailand; QQ News: she had for years *misread*\nevents — believing Musheng started a new family in Siam — and learns the truth when Xiaowei video-calls her.)\n- ⚠️ **Popular fan/critic reading (label as interpretation, NOT canon):** that Shurou *suspected or knew all\n  along* — citing her near-zero shock at the reveal and the 1978 photo preserved in her trunk with \"no creases\"\n  (implying she never truly believed in a betrayal). Great material for the article's \"what fans debate\" beat,\n  but present it as a theory, not confirmed.\n\n**The central twist (reframes the whole title): Nanzhi and Musheng were NEVER lovers.** The \"情书\" (love letters)\nthe grandmother treasured were a **benevolent fiction (善意的谎言)** — Nanzhi couldn't bear to leave a widow with\nthree children alone, so after Musheng's death she ghost-wrote letters in his name. The film's \"love letter\" is\nthe love of a stranger's compassion, not romance.\n\n**Timeline & mechanism:** Musheng **drowned in 1960** (saving others during a riverboat robbery/bandit attack).\nNanzhi had written a death notice (讣告) but pulled it back and substituted a \"平安批\" (safe-arrival letter) —\nthe origin of an **18-year cover-up (1960–1978)**. (This firms up the earlier \"over a decade / 18 years\" hedge:\n18 years, 1960–1978, is now the better-supported figure.)\n\n**Why contact was severed:** in **1978** Nanzhi sent a confession letter plus a photo — but the photo was a\n**Chinese-class teacher-and-students group photo (中文班师生合影)**, and the confession letter was **lost** (a\npostman/typhoon mishap). Shurou received only the photo, **misread it as Musheng's new family** in Siam, moved\naway heartbroken, and the two women lost contact for decades.\n\n**The final beats (closing emotional payload):**\n- Shurou flies to Thailand and meets the now-elderly, **dementia-affected** Nanzhi. She places an **olive (橄榄)\n  brought from home** in Nanzhi's hand; Nanzhi, memory fading, still asks: \"淑柔姐，我上次寄的咸猪肉，你有收到吗？\"\n  (\"Sister Shurou, did you get the salted pork I sent?\").\n- The Zheng and Xie families become **sworn kin (结拜)**, and **Musheng's spirit tablet in Thailand is brought\n  home** (接木生回家 — a 落叶归根 resolution).\n- Shurou's reaction to the reveal is famously **understated** — she doesn't break down; she gets up to tend the\n  cold 橄榄菜 (olive vegetables) in the kitchen, then quietly resolves to fly to Thailand.\n\n**Fates:** Nanzhi single-handedly supported both families for 18 years, ran/reopened a **Chinese-language school**\n(taught children 人、口、手), and reportedly **raised an abandoned/adopted child** (⚠️ single-sourced, QQ News).\nBy the ending she is elderly with dementia. **Xiaowei** — a debt-ridden grandson who came to Thailand chasing a\nrumored \"billionaire grandfather\" — is transformed by the story into someone gentler and more responsible.\n\n**Real-world precedent for the benevolent lie?** The film is rooted in the real qiaopi tradition (UNESCO 2013) and\n\"hundreds of overseas-Chinese family stories\" the director heard, but **no source cites a specific documented case**\nof someone continuing a dead person's qiaopi for years. \"Inspired by real diaspora experience,\" not one true event.\n\n⚠️ **Ending verify-flags:** \"she knew all along\" is a FAN THEORY, not canon (canon = learns at the end);\nthe adopted-child detail is single-sourced; the literal final frame isn't pinned down (the olive / salted-pork\nexchange and the tablet's homecoming are the strongest closing candidates); \"never lovers\" is the canonical read.\n",
+  "idiomMatches": [
+    {
+      "id": "ID613",
+      "characters": "落叶归根",
+      "connection": "This idiom reflects the theme of returning to one's roots, as seen in Xiaowei's journey to Thailand to uncover his grandfather's past and reconnect with his family's history.",
+      "strength": "strong",
+      "relevantTo": "theme of Separation and Longing for Home"
+    },
+    {
+      "id": "ID614",
+      "characters": "故土难离",
+      "connection": "This idiom captures the emotional struggle of emigrants and their families who remain attached to their homeland despite physical separation, as depicted in the film.",
+      "strength": "strong",
+      "relevantTo": "theme of Separation and Longing for Home"
+    },
+    {
+      "id": "ID707",
+      "characters": "因祸得福",
+      "connection": "This idiom describes how the tragic death of Zheng Musheng ultimately led to the creation of strong bonds between two families and the founding of a Chinese school by Xie Nanzhi.",
+      "strength": "medium",
+      "relevantTo": "plot point of family reconciliation"
+    },
+    {
+      "id": "ID1023",
+      "characters": "将心比心",
+      "connection": "This idiom highlights the empathy and understanding shown by Xie Nanzhi, who continued sending qiaopi letters to preserve the grandmother's hope.",
+      "strength": "strong",
+      "relevantTo": "character of Xie Nanzhi"
+    },
+    {
+      "id": "ID1027",
+      "characters": "锦囊妙计",
+      "connection": "This idiom relates to Xie Nanzhi's clever and compassionate strategy of maintaining the family's hope by continuing the qiaopi letters.",
+      "strength": "medium",
+      "relevantTo": "character of Xie Nanzhi"
+    },
+    {
+      "id": "ID1028",
+      "characters": "惊心动魄",
+      "connection": "This idiom describes the profound emotional impact of discovering the truth about Zheng Musheng's fate and the subsequent family reconciliation.",
+      "strength": "medium",
+      "relevantTo": "plot point of discovering the truth"
+    },
+    {
+      "id": "ID1029",
+      "characters": "举棋不定",
+      "connection": "This idiom reflects the uncertainty and hesitation faced by Xiaowei as he uncovers the truth about his grandfather's past.",
+      "strength": "medium",
+      "relevantTo": "character of Xiaowei"
+    },
+    {
+      "id": "ID615",
+      "characters": "安土重迁",
+      "connection": "This idiom captures the reluctance of emigrant families to leave their homeland, a central theme in the film.",
+      "strength": "strong",
+      "relevantTo": "theme of Separation and Longing for Home"
+    },
+    {
+      "id": "ID822",
+      "characters": "患难与共",
+      "connection": "This idiom describes the solidarity and support between the two families as they navigate the challenges of their shared history.",
+      "strength": "strong",
+      "relevantTo": "theme of Family Duty and Sacrifice"
+    },
+    {
+      "id": "ID600",
+      "characters": "相濡以沫",
+      "connection": "This idiom reflects the mutual support and care between the families, especially in the face of adversity.",
+      "strength": "strong",
+      "relevantTo": "theme of Family Duty and Sacrifice"
+    },
+    {
+      "id": "ID134",
+      "characters": "饮水思源",
+      "connection": "This idiom emphasizes the importance of remembering one's roots, a key theme as Xiaowei seeks to understand his family's past.",
+      "strength": "strong",
+      "relevantTo": "theme of Separation and Longing for Home"
+    },
+    {
+      "id": "ID704",
+      "characters": "否极泰来",
+      "connection": "This idiom captures the transition from hardship to hope, as the families find reconciliation and new beginnings.",
+      "strength": "medium",
+      "relevantTo": "plot point of family reconciliation"
+    },
+    {
+      "id": "ID623",
+      "characters": "死而后已",
+      "connection": "This idiom reflects the lifelong commitment of the stay-behind wives, who maintained their families despite the absence of their husbands.",
+      "strength": "medium",
+      "relevantTo": "theme of Family Duty and Sacrifice"
+    },
+    {
+      "id": "ID704",
+      "characters": "否极泰来",
+      "connection": "This idiom captures the transition from hardship to hope, as the families find reconciliation and new beginnings.",
+      "strength": "medium",
+      "relevantTo": "plot point of family reconciliation"
+    },
+    {
+      "id": "ID1023",
+      "characters": "将心比心",
+      "connection": "This idiom highlights the empathy and understanding shown by Xie Nanzhi, who continued sending qiaopi letters to preserve the grandmother's hope.",
+      "strength": "strong",
+      "relevantTo": "character of Xie Nanzhi"
+    },
+    {
+      "id": "ID1027",
+      "characters": "锦囊妙计",
+      "connection": "This idiom relates to Xie Nanzhi's clever and compassionate strategy of maintaining the family's hope by continuing the qiaopi letters.",
+      "strength": "medium",
+      "relevantTo": "character of Xie Nanzhi"
+    },
+    {
+      "id": "ID1028",
+      "characters": "惊心动魄",
+      "connection": "This idiom describes the profound emotional impact of discovering the truth about Zheng Musheng's fate and the subsequent family reconciliation.",
+      "strength": "medium",
+      "relevantTo": "plot point of discovering the truth"
+    },
+    {
+      "id": "ID1029",
+      "characters": "举棋不定",
+      "connection": "This idiom reflects the uncertainty and hesitation faced by Xiaowei as he uncovers the truth about his grandfather's past.",
+      "strength": "medium",
+      "relevantTo": "character of Xiaowei"
+    },
+    {
+      "id": "ID615",
+      "characters": "安土重迁",
+      "connection": "This idiom captures the reluctance of emigrant families to leave their homeland, a central theme in the film.",
+      "strength": "strong",
+      "relevantTo": "theme of Separation and Longing for Home"
+    },
+    {
+      "id": "ID822",
+      "characters": "患难与共",
+      "connection": "This idiom describes the solidarity and support between the two families as they navigate the challenges of their shared history.",
+      "strength": "strong",
+      "relevantTo": "theme of Family Duty and Sacrifice"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Dear You (给阿嬷的情书) and the Real History of Qiaopi (侨批): The Overseas Letters Behind the Film",
+      "slug": "dear-you-qiaopi-history-overseas-letters",
+      "angle": "The Real History Behind [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "The 2026 hit Dear You (给阿嬷的情书) is built on qiaopi—the remittance letters overseas Chinese sent home. Here is the real, UNESCO-listed history behind the film.",
+      "idiomIds": [
+        "ID818",
+        "ID043",
+        "ID615",
+        "ID614",
+        "ID134"
+      ],
+      "outline": "- Open on the film's premise: a family sustained for decades by qiaopi letters and remittances from a man who emigrated to Thailand. Note it crossed ¥1 billion on May 24, 2026 on a ~¥14M budget, Douban 9.1 — a dark-horse Teochew-dialect film.\n- Explain what qiaopi (侨批) actually is: 侨 (overseas Chinese) + 批 (pī, 'letter' in Teochew/Minnan); a combined letter-and-remittance document. Contrast 批 (letters from abroad) vs 信 (domestic letters), and the 平安批 ('safety remittance').\n- The human system: 水客 (shuǐkè, 'water guests' couriers) and 批局 (remittance houses) running on kinship-based trust — tie to 守望相助 (the village/clan watching out for each other) and 安土重迁 / 故土难离 (why people were so reluctant to leave home in the first place).\n- UNESCO Memory of the World: inscribed 2013 under 'Qiaopi and Yinxin Correspondence and Remittance Documents from Overseas Chinese.' Use hedged numbers — ~170,000 surviving documents (reported), Shantou Archives holds 92,000+ (solid). Present the '30M letters / US$10B, 1864–1980' figure as an estimate.\n- The stay-behind wives (留守妇女) who raised families on letters and money — tie to 含辛茹苦 (enduring hardship) and 饮水思源 (remembering the source of one's sustenance).\n- Be precise: it premiered as a market screening (Marché du Film) at Cannes on May 15, 2026 — NOT an official-competition selection.",
+      "keyFacts": [
+        "Qiaopi were combined letter-and-remittance documents sent by overseas Chinese to families in Guangdong/Fujian, 19th–20th centuries; inscribed on UNESCO Memory of the World in 2013.",
+        "The system ran on 水客 couriers and 批局 remittance houses built on kinship trust; folded into the Bank of China in 1979.",
+        "Cannes was a Marché du Film market screening on May 15, 2026, not a competition selection."
+      ]
+    },
+    {
+      "title": "What Does 阿嬷 Mean? The Chinese Title of Dear You (给阿嬷的情书) and Its Names Explained",
+      "slug": "dear-you-a-ma-meaning-chinese-name-explained",
+      "angle": "Chinese name & character names explained (linguistic moat)",
+      "theme": "Relationships & Character",
+      "description": "阿嬷 is the Teochew word for grandma — and the heart of Dear You's Chinese title 给阿嬷的情书. We break down the title, the dialect, and the characters' names.",
+      "idiomIds": [
+        "ID613",
+        "ID756",
+        "ID611",
+        "ID612",
+        "ID600"
+      ],
+      "outline": "- Break down the title 给阿嬷的情书 character by character: 给 (for) + 阿嬷 (grandma) + 的 + 情书 (love letter) = 'A Love Letter to Grandma.' Note the English title 'Dear You' is a deliberate non-translation (the open second-person 'you,' the letter salutation 'Dear').\n- 阿嬷 (ā-mà) in depth: the Teochew/Minnan/Hakka word for grandmother, vs Mandarin 奶奶 / 外婆; the affectionate 阿 prefix (阿公 = grandpa). Cover the viral pronunciation debate — linguist 林伦伦 ruled it is mà, not mó.\n- The Teochew dialect (潮州话): a Southern Min variety, only ~51% intelligible with Hokkien, NOT mutually intelligible with Mandarin; 8 tones; one of the most conservative Chinese varieties; why a Teochew-dialect film is rare. Why Thailand — Chaoshan was the heartland of emigration to Siam.\n- The confirmed name symbolism: 郑木生 (wood/木), 叶淑柔 (leaf/叶), 谢南枝 (branch/枝) — the screenwriter built a 木→枝→叶 design where the branch (南枝, the letter-writer abroad) connects the wood and the leaf. Tie family-longing idioms 朝思暮想 and 魂牵梦萦 to the separated couple, 相濡以沫 to their bond, 天伦之乐 to the reunion the names point toward.\n- The classical allusion: 谢南枝's name evokes (frame as 'evokes,' not 'the writer intended') 越鸟巢南枝 from 《古诗十九首·行行重行行》 — the southern bird nesting on the southern branch, a famous image of homesickness; tie to 落叶归根 (the leaf returning to its roots).",
+      "keyFacts": [
+        "阿嬷 (ā-mà) is the Teochew/Minnan word for grandmother; linguist Lin Lunlun ruled the correct reading is mà, not mó.",
+        "Confirmed naming design: 木生 (wood) + 叶淑柔 (leaf) + 南枝 (branch); the branch connects the wood and the leaf.",
+        "谢南枝's name evokes 越鸟巢南枝 from the Nineteen Old Poems (interpretive link, not stated by the filmmakers)."
+      ]
+    },
+    {
+      "title": "Is Dear You (给阿嬷的情书) Based on a True Story?",
+      "slug": "dear-you-based-on-a-true-story",
+      "angle": "Specific yes/no question with quick-answer block",
+      "theme": "Life Philosophy",
+      "description": "Is Dear You (给阿嬷的情书) a true story? Short answer: it is original fiction inspired by real qiaopi history and 300+ interviews — not one real event. Here's the full picture.",
+      "idiomIds": [
+        "ID1023",
+        "ID822",
+        "ID035",
+        "ID629",
+        "ID102"
+      ],
+      "outline": "- QUICK-ANSWER BLOCK at the very top (100-200 words, before the first idiom heading): No — Dear You is an original, fictional story, NOT a dramatization of a single true event. Director Lan Hongchun stated plainly 'this story has no specific real-life prototype' (这个故事，并没有具体的原型). But it is deeply inspired by real history.\n- What IS real: the qiaopi (侨批) remittance-letter system; the director interviewed 300+ overseas-Chinese families and 120+ Chaoshan elders over 80 while making his documentary 《四海潮味》; his hometown school was built with overseas-Chinese donations. The practice of others ghost-writing letters to spare families grief has real echoes.\n- Why the 'true story' question even arises: the all-amateur cast, the documentary realism, the historically accurate qiaopi detail. Note one journalistic claim that '90%+ of the plot has real prototypes' — present as a flourish, not literal. Do NOT use the People's Daily/Variety 'billionaire grandfather / debt / hidden affair' framing.\n- Tie the real human impulses behind the fiction to idioms: 将心比心 (the empathy that makes a stranger keep up the lie out of kindness), 雪中送炭 (help in someone's hour of greatest need), 患难与共 and 风雨同舟 (two families bound through hardship), 不远千里 (the grandson's real-feeling journey to Thailand).\n- Close on the idea that 'inspired by real history' is the more honest and more moving claim than 'based on a true story.'",
+      "keyFacts": [
+        "Director Lan Hongchun said the story has 'no specific real-life prototype' — it is original fiction.",
+        "He interviewed 300+ overseas-Chinese families and 120+ elderly Chaoshan people while making the documentary 四海潮味.",
+        "The qiaopi backdrop is genuine history (UNESCO Memory of the World, 2013)."
+      ]
+    },
+    {
+      "title": "Famous Lines from Dear You (给阿嬷的情书) Explained",
+      "slug": "dear-you-famous-lines-explained",
+      "angle": "Famous Quotes from [Topic] Explained",
+      "theme": "Life Philosophy",
+      "description": "The most moving lines from Dear You (给阿嬷的情书) — the ghost-written qiaopi letters — explained in Chinese with pinyin, English, and the idioms behind their feeling.",
+      "idiomIds": [
+        "ID382",
+        "ID623",
+        "ID514",
+        "ID704",
+        "ID707"
+      ],
+      "outline": "- Intro: the film's emotional power lives in its letters — the qiaopi Xie Nanzhi ghost-writes to keep an old woman's hope alive. Use ONLY the four verified Tier-A quotes below; do not invent or use fan-account quotes.\n- Quote 1: 暹罗虽远，心有所寄，身若比邻，切要平安，即为团圆 ('Though Siam is far, the heart has its anchor; we are as near as neighbors — so long as you are safe, that is reunion.') — tie to 望穿秋水 (the years of waiting for each letter).\n- Quote 2: 江海万里，心中念你，便不觉遥远 ('Ten thousand miles of rivers and seas — yet when you are in my heart, the distance feels like nothing.') — tie to 死而后已 (devotion sustained for a lifetime, even past death).\n- Quote 3: 行船入夜，恰江上升明月，似与你并肩共赏 ('Sailing into the night, just as the bright moon rises over the river — as if I were watching it beside you.') — the ghost-written tenderness.\n- Quote 4: 暹罗没有春天，你就是我的春天 ('Siam has no spring — you are my spring.') — tie to 苦尽甘来 (sweetness after long bitterness), and to the families' reconciliation via 否极泰来 and 因祸得福 (good emerging from tragedy).\n- Briefly note the classical resonance: a letter 'worth ten thousand in gold' echoes Du Fu's line 家书抵万金 — label this clearly as a poem line (from 《春望》), NOT a chengyu.",
+      "keyFacts": [
+        "Use only the four Tier-A verified quotes (China Daily / 21jingji-sourced); avoid fan-account quotes.",
+        "家书抵万金 is a line from Du Fu's 春望, a poem quotation — not a four-character chengyu.",
+        "The letters in the film are ghost-written by Xie Nanzhi to preserve the grandmother's hope."
+      ]
+    },
+    {
+      "title": "Who Is Lan Hongchun (蓝鸿春)? The Director Behind Dear You (给阿嬷的情书) and His Chaoshan Trilogy",
+      "slug": "dear-you-director-lan-hongchun",
+      "angle": "Director career & filmography deep-dive (evergreen name-search shape)",
+      "theme": "Success & Perseverance",
+      "description": "Before Dear You (给阿嬷的情书) made ¥1 billion, director Lan Hongchun spent a decade on tiny Teochew-dialect films. Meet the man and his Chaoshan trilogy.",
+      "idiomIds": [
+        "ID001",
+        "ID154",
+        "ID680",
+        "ID090",
+        "ID397"
+      ],
+      "outline": "- Intro hook: Dear You's ¥1B box office (crossed May 24, 2026) on a ~¥14M budget looks like an overnight miracle — a '三无' film (no stars, no big budget, no marketing) with an all-amateur cast and Douban 9.1. But director Lan Hongchun (蓝鸿春, b. 1985, Shantou) had spent ~8 years making small Teochew-dialect films almost no one outside Chaoshan saw. This is the literal meaning of 一鸣惊人 (one cry that stuns everyone — sudden fame after long silence).\n- The Chaoshan trilogy (father → mother → grandmother): 《爸，我一定行的》(2018, billed as the first Teochew-dialect theatrical film, ~¥47M) → 《带你去见我妈》(2022, Douban 7.4, ¥23.74M) → 《给阿嬷的情书》(2026). Note actor Zheng Runqi (郑润奇) recurs across them. Do NOT cite a Douban number for the 2018 film (unconfirmed); do NOT use the false ¥400M figure for the 2022 film (real figure ¥23.74M).\n- The outsider's path — tie to 厚积薄发 (store up deeply, release sparingly): ~6 years as a documentary maker at Phoenix TV (凤凰卫视), no film-school training, first feature funded by high-school classmates; founded his own company in 2016. HEDGE the university (sources conflict: 华南师范大学 vs 华中师范大学).\n- How the 四海潮味 documentary seeded the film — tie to 脚踏实地 (feet planted on solid ground): years of fieldwork visiting ~50 overseas Chaoshan families across 10+ countries; he encountered the real 'benevolent lie' diaspora stories; the moving 郑辉小学 / 郑辉 discovery in France; he studied thousands of qiaopi letters and spent a day at the Shantou Qiaopi Museum, writing a tens-of-thousands-of-words 'Siam life guide.'\n- His craft and philosophy — tie to 匠心独运 (ingenious craftsmanship) via his own quote 'like Chaoshan woodcarvers and embroiderers, it relies on meticulous craftsmanship (精工细作)'; and to 锲而不舍 (keep carving, never give up) via his ten-year, undivided commitment ('既然选择深耕潮汕文化的电影，就不要三心二意') and 'farm my small plot well, grow small beautiful flowers.' Casting amateurs for 信念感 (conviction) with unlimited retakes; 'Chaoshan culture is the vehicle, family is the core.'\n- Precision flags: the female lead is 李思潼 (not 李思彤); do not claim he has or hasn't won any personal award; Cannes was a Marché du Film market screening, not a competition selection.",
+      "keyFacts": [
+        "Dear You is the third film in Lan Hongchun's informal Chaoshan trilogy: 爸我一定行的 (2018) → 带你去见我妈 (2022) → 给阿嬷的情书 (2026); actor Zheng Runqi recurs.",
+        "Lan (b. 1985, Shantou) worked ~6 years at Phoenix TV as a documentary maker, has no film-school training, and funded his first feature with help from high-school classmates; founded his company in 2016.",
+        "His documentary 四海潮味 (global Teochew cuisine and diaspora) seeded Dear You; he researched thousands of qiaopi letters. ¥23.74M is the real box office of the 2022 film, not ¥400M."
+      ]
+    },
+    {
+      "title": "Dear You (给阿嬷的情书) Ending Explained: Is It a Happy or Sad Ending?",
+      "slug": "dear-you-ending-explained-happy-or-sad",
+      "angle": "Ending explained — specific happy/sad question with quick-answer block",
+      "theme": "Life Philosophy",
+      "description": "Is Dear You (给阿嬷的情书) a happy or sad ending? Bittersweet. We unpack the 18-year secret, the truth revealed, and the twist that the letters were never a romance.",
+      "idiomIds": [
+        "ID716",
+        "ID378",
+        "ID861",
+        "ID080",
+        "ID183"
+      ],
+      "outline": "- QUICK-ANSWER BLOCK at the very top (100-200 words, before the first idiom heading): Is it happy or sad? Bittersweet — and ultimately warm, not a tragedy. Yes, there is deep loss (the grandfather, Zheng Musheng, died decades ago), but the film closes on reconciliation and catharsis, not despair. Chinese critics praise its restraint (克制); Douban ~9.0. Answer the literal question in the first two sentences.\n- The truth the grandson uncovers — tie to 水落石出 (the water recedes and the stones appear): Xiaowei travels to Thailand and learns Zheng Musheng actually drowned in 1960 (saving others during a riverboat robbery), and that the qiaopi letters arriving 'from him' for years were written by someone else.\n- The central twist — tie to 恍然大悟 (sudden realization) and 守口如瓶 (kept the secret sealed): the letters were ghost-written by Xie Nanzhi, and — crucially — she and Musheng were NEVER lovers. The treasured 'love letters' were a benevolent lie (善意的谎言), so a widow with three children wouldn't lose hope. Nanzhi sustained the deception for 18 years (1960–1978). Do NOT frame this as a secret romance.\n- Does the grandmother ever find out? CANON: Ye Shurou learns the full truth only at the end, via Xiaowei's video call; for years she had misread a 1978 group photo (a Chinese-class teacher-student photo) as Musheng's new family in Siam, which severed contact. Then present the popular fan debate — some viewers argue she suspected all along (her calm at the reveal; the photo preserved 'without a crease') — and label it clearly as an interpretation, not confirmed canon. This 'what fans debate' beat is high-engagement.\n- The final scene — tie to 破镜重圆 (the broken mirror made whole again): Shurou flies to Thailand and meets the elderly, dementia-affected Nanzhi, placing an olive (橄榄) from home in her hand; Nanzhi still asks, 'Sister Shurou, did you get the salted pork I sent?' The two families become sworn kin (结拜), and Musheng's spirit tablet is brought home — a 落叶归根 resolution. Note Shurou's famously understated reaction (tending the 橄榄菜 in the kitchen).\n- Why it stays with you — tie to 刻骨铭心 (engraved on the bones): close on the bittersweet-but-warm verdict and the benevolent-lie theme. Do not add a generic summary paragraph; end on this idiom's content.\n- Precision flags: tone is cathartic, not tragic; 'she knew all along' is a fan theory, not canon; the letters were compassion, not romance.",
+      "keyFacts": [
+        "The ending is bittersweet and cathartic, not tragic; Douban ~9.0.",
+        "Canon: grandmother Ye Shurou learns the truth only at the end via grandson Xiaowei; 'she knew all along' is a fan theory, not canon.",
+        "Central twist: Nanzhi and Musheng were never lovers — the letters were a benevolent lie (善意的谎言) sustained 18 years (1960–1978).",
+        "Final beats: the olive and 'did you get the salted pork I sent?' line, the two families become sworn kin, and Musheng's spirit tablet is brought home."
+      ]
+    }
+  ]
+}

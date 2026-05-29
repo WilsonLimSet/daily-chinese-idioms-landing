@@ -38,6 +38,19 @@ export type DramaWithPosts = DramaSeries & {
 
 const SERIES: DramaSeries[] = [
   {
+    slug: 'dear-you',
+    englishName: 'Dear You',
+    chineseName: '给阿嬷的情书',
+    pinyin: 'Gěi Ā-mà de Qíngshū',
+    year: '2026',
+    synopsis:
+      'The dark-horse hit of 2026: a Teochew-dialect indie film that crossed ¥1 billion at the box office on a roughly ¥14M budget, with an all-amateur cast and a 9.1 on Douban. A grandson travels to Thailand to find the grandfather whose qiaopi (侨批) remittance letters sustained the family for decades — and uncovers an 18-year act of compassion behind them. Director Lan Hongchun\'s third Teochew-language feature.',
+    postPrefix: 'dear-you-',
+    cast: ['Li Sitong', 'Wu Shaoqing', 'Zheng Runqi'],
+    tags: ['historical'],
+    status: 'airing',
+  },
+  {
     slug: 'pursuit-of-jade',
     englishName: 'Pursuit of Jade',
     chineseName: '逐玉',

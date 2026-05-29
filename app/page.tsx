@@ -266,8 +266,8 @@ export default async function Home() {
               className="p-5 bg-rose-50 rounded-xl border border-rose-100 hover:shadow-md hover:border-rose-200 transition-all group relative"
             >
               <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-rose-500 px-2 py-0.5 rounded-full">New</span>
-              <p className="font-bold text-gray-900 group-hover:text-rose-600 transition-colors">Chinese Dramas</p>
-              <p className="text-sm text-gray-600 mt-1">First Frost, Pursuit of Jade, The Heir &amp; more</p>
+              <p className="font-bold text-gray-900 group-hover:text-rose-600 transition-colors">Chinese Dramas &amp; Film</p>
+              <p className="text-sm text-gray-600 mt-1">Dear You, Pursuit of Jade, First Frost &amp; more</p>
               <p className="text-xs text-rose-600 font-medium mt-2">Read essays →</p>
             </Link>
             <Link
