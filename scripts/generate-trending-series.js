@@ -24,20 +24,39 @@ require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
 const OpenAI = require('openai');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
 
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY, timeout: 600000 });
 
-// Gemini 2.5 Pro handles the long-form article writing — GPT-4o stays for
-// structured JSON (research extraction, idiom matching, planning, review).
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const writerModel = genAI.getGenerativeModel({
-  model: 'gemini-2.5-pro',
-  generationConfig: {
-    temperature: 0.7,
-    maxOutputTokens: 16384,
-  },
-});
+// gpt-5.2 handles everything — long-form article writing plus the structured
+// JSON steps (research extraction, idiom matching, planning, review).
+const MODEL = 'gpt-5.2';
+const WRITER_MODEL = MODEL;
+
+// Always stream: gpt-5.2 reasoning on long outputs holds the HTTP connection
+// open longer than the network's ~60s idle cutoff, which drops non-streamed
+// requests. Streaming keeps bytes flowing. Returns a create()-shaped object so
+// callers can keep using `.choices[0].message.content`.
+async function createChat(opts, maxRetries = 4) {
+  let lastErr;
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      const stream = await openai.chat.completions.create({ ...opts, stream: true });
+      let content = '';
+      for await (const chunk of stream) {
+        content += chunk.choices[0]?.delta?.content || '';
+      }
+      return { choices: [{ message: { content }, finish_reason: 'stop' }] };
+    } catch (err) {
+      lastErr = err;
+      if (attempt < maxRetries) {
+        const wait = 3000 * (attempt + 1);
+        console.log(`   ⚠️  API call failed (${(err.message || '').slice(0, 60)}) — retry ${attempt + 1}/${maxRetries} in ${wait / 1000}s...`);
+        await new Promise(r => setTimeout(r, wait));
+      }
+    }
+  }
+  throw lastErr;
+}
 
 const BLOG_DIR = path.join(__dirname, '../content/blog');
 const BRIEFS_DIR = path.join(__dirname, '../content/series-briefs');
@@ -141,10 +160,10 @@ Return as JSON:
   "verifyFlags": ["list of things marked VERIFY that need human fact-checking"]
 }`;
 
-  const researchResult = await openai.chat.completions.create({
-    model: 'gpt-4o',
+  const researchResult = await createChat({
+    model: MODEL,
     messages: [{ role: 'user', content: researchPrompt }],
-    max_tokens: 4096,
+    max_completion_tokens: 4096,
     temperature: 0.3,
     response_format: { type: 'json_object' },
   });
@@ -187,10 +206,10 @@ Return JSON:
 
 Select 20-40 idioms total. Prioritize strong connections.`;
 
-  const matchResult = await openai.chat.completions.create({
-    model: 'gpt-4o',
+  const matchResult = await createChat({
+    model: MODEL,
     messages: [{ role: 'user', content: matchPrompt }],
-    max_tokens: 4096,
+    max_completion_tokens: 4096,
     temperature: 0.3,
     response_format: { type: 'json_object' },
   });
@@ -244,10 +263,10 @@ Return JSON:
   ]
 }`;
 
-  const planResult = await openai.chat.completions.create({
-    model: 'gpt-4o',
+  const planResult = await createChat({
+    model: MODEL,
     messages: [{ role: 'user', content: planPrompt }],
-    max_tokens: 4096,
+    max_completion_tokens: 4096,
     temperature: 0.5,
     response_format: { type: 'json_object' },
   });
@@ -371,6 +390,11 @@ LEVERAGE THE RESEARCH:
 - If the research mentions a controversy, viral moment, ratings flop, actor drama, or famous quote — USE IT. Mentioning something once in the intro and dropping it is a failure.
 - If there is a famous poem, folk saying, or cultural concept named in the research, name it in the article with its Chinese + pinyin + source.
 
+NO FABRICATION (critical):
+- The research brief above is your ONLY source of facts about this drama, film, and its real people. If a specific fact (Douban/IMDb rating, viewership or heat score, box office, award, episode count, premiere date, a controversy, a scandal, a plagiarism claim) is NOT in the brief, DO NOT state it. Do not estimate it, hedge it, or import it from any other title.
+- NEVER attribute a controversy, scandal, lawsuit, plagiarism accusation, or any wrongdoing to a real, named person unless that exact claim appears verbatim in the brief. Fabricating such a claim about a real actor is defamatory and unacceptable.
+- When the brief lacks hard metrics, ground the drama context in what IS known: the premise, named characters, setting/time period, themes, and the lead actor's role. Specificity must come from real brief facts, not invented numbers.
+
 INTERNAL LINKING:
 - At least 5 idiom character-headings should link to the idiom's slug page: [卧薪尝胆](/blog/wo-xin-chang-dan) — use the slug provided in the IDIOMS list.
 - Link to 2-3 other articles from OTHER ARTICLES IN THIS SERIES naturally in the body.
@@ -397,8 +421,13 @@ BANNED PHRASES (if any appear, the article will be rejected):
 
 OUTPUT: Return ONLY the article markdown body. No frontmatter, no title.`;
 
-  const result = await writerModel.generateContent(prompt);
-  let text = result.response.text().trim();
+  const result = await createChat({
+    model: WRITER_MODEL,
+    temperature: 0.7,
+    max_completion_tokens: 16384,
+    messages: [{ role: 'user', content: prompt }],
+  });
+  let text = (result.choices[0].message.content || '').trim();
 
   // Gemini sometimes wraps output in ```markdown ... ``` — strip if present
   if (text.startsWith('```')) {
@@ -484,10 +513,10 @@ Set needsRegeneration=true if ANY of:
 - wordCount < 2500
 - dramaContextMentions < 3`;
 
-  const result = await openai.chat.completions.create({
-    model: 'gpt-4o',
+  const result = await createChat({
+    model: MODEL,
     messages: [{ role: 'user', content: reviewPrompt }],
-    max_tokens: 2048,
+    max_completion_tokens: 2048,
     temperature: 0,
     response_format: { type: 'json_object' },
   });
@@ -651,9 +680,9 @@ ${review.factualErrors?.length ? `\nFACTUAL ERRORS (contradicted the research):\
 ${review.bannedPhrases?.length ? `\nBANNED PHRASES USED — remove every instance:\n${review.bannedPhrases.map(p => `- ${p}`).join('\n')}` : ''}
 ${review.hasConcludingWrapUp ? `\nCONCLUSION SECTION FOUND — remove any wrap-up, summary, or "final thoughts" paragraph. End on the last idiom.` : ''}
 ${review.missingOriginStories?.length ? `\nIDIOMS MISSING ORIGIN STORIES — every idiom needs a paragraph naming the classical text, historical figure, or dynasty it comes from:\n${review.missingOriginStories.map(e => `- ${e}`).join('\n')}` : ''}
-${!review.hasIntroHook ? `\nNO INTRO HOOK — the article started with a bare idiom heading. Add 2-3 opening paragraphs BEFORE the first idiom heading that establish: what the drama is, why it matters right now (use Douban ratings, viral moments, cast controversy from the research), and what the reader will learn. The Pursuit of Jade article opens with "If you've been watching Pursuit of Jade (逐玉) — the 2026 C-drama that shattered records with a 55.1% daily market share..." — match that register.` : ''}
+${!review.hasIntroHook ? `\nNO INTRO HOOK — the article started with a bare idiom heading. Add 2-3 opening paragraphs BEFORE the first idiom heading that establish: what the drama is, why it matters right now, and what the reader will learn. Open with a concrete hook drawn ONLY from the research brief (release timing, premise, lead actor, setting). Do NOT invent ratings, market-share figures, or controversies to manufacture a hook — if the brief has no such figure, hook with the premise instead.` : ''}
 ${(review.internalIdiomLinkCount || 0) < 5 ? `\nINSUFFICIENT INTERNAL LINKS — the first mention of each idiom in a section heading should be a markdown link to its slug, e.g. [卧薪尝胆](/blog/wo-xin-chang-dan). Need at least 5.` : ''}
-${(review.dramaContextMentions || 0) < 3 ? `\nNOT USING THE RESEARCH — the article body (not just intro) must cite at least 3 specific drama facts: Douban rating, Tencent heat score, Zhao Liying controversy, OST plagiarism scandal, Huangyang Tiantian meta-layer, specific episode ranges, SEA fandom, etc. Generic statements about "the drama" don't count.` : ''}
+${(review.dramaContextMentions || 0) < 3 ? `\nUNDER-USING THE BRIEF — tie the idioms to at least 3 SPECIFIC details that are actually present in the research brief above (named characters, plot points, the setting/time period, the lead actor, documented themes). Use ONLY facts from the brief. NEVER invent or import ratings, heat scores, awards, controversies, scandals, or plagiarism claims — and never attribute any such thing to a real person — unless that exact fact appears verbatim in the brief. If the brief lacks hard metrics, cite character and plot specifics instead.` : ''}
 ${review.wordCount < 2500 ? `\nWORD COUNT TOO LOW (${review.wordCount} — target 2800+): expand origin stories (each should be 3-5 sentences with specific dates, figures, texts) and topic-specific connections (each should name specific characters, episodes, scenes).` : ''}
 
 Rewrite the article addressing EVERY issue above. Do not just touch the problem lines — re-think and expand.`;

@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@google/generative-ai": "^0.24.1",
     "@vercel/analytics": "^1.4.1",
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",

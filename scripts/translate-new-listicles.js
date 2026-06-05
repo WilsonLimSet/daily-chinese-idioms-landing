@@ -14,16 +14,21 @@
 require('dotenv').config();
 const fs = require('fs');
 const path = require('path');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
+const OpenAI = require('openai');
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({
-  model: 'gemini-2.0-flash',
-  generationConfig: {
-    temperature: 0.1,
-    maxOutputTokens: 8192,
+const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY, timeout: 600000 });
+const TRANSLATE_MODEL = 'gpt-5-mini';
+
+// Stream to avoid the network's ~60s idle-connection cutoff on slower
+// reasoning-model responses. Returns a create()-shaped object.
+async function createChat(opts) {
+  const stream = await openai.chat.completions.create({ ...opts, stream: true });
+  let content = '';
+  for await (const chunk of stream) {
+    content += chunk.choices[0]?.delta?.content || '';
   }
-});
+  return { choices: [{ message: { content } }] };
+}
 
 const RATE_LIMIT_MS = 4500; // ~13 RPM to stay safe under 15 RPM free tier
 const BATCH_SIZE = parseInt(process.env.TRANSLATE_BATCH_SIZE || '5', 10);
@@ -143,8 +148,12 @@ JSON:`;
 
   for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
     try {
-      const result = await model.generateContent(prompt);
-      const text = result.response.text().trim();
+      const result = await createChat({
+        model: TRANSLATE_MODEL,
+        max_completion_tokens: 8192,
+        messages: [{ role: 'user', content: prompt }],
+      });
+      const text = (result.choices[0].message.content || '').trim();
 
       const jsonMatch = text.match(/\[[\s\S]*\]/);
       if (!jsonMatch) {
