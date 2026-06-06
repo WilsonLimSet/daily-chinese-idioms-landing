@@ -263,6 +263,94 @@ if (hasAdSense) {
   }
 }
 
+// --- 🔭 Vertical Radar: next entity clusters to build ---
+// Finds recurring multi-word "entity" names (dramas, films, actors, novels) across
+// queries, aggregates their demand, and ranks by opportunity =
+// impressions × position-factor (how rankable) × trend-factor (momentum).
+// Flags how many existing blog files already cover the entity, so 0-cluster rows
+// with high opportunity = the next Pursuit-of-Jade to build.
+
+// Tokens removed ANYWHERE — query "shape" words, site generics, descriptors.
+const RADAR_REMOVE = new Set([
+  'is','are','was','were','be','been','does','do','did','what','whats','who','whom','whose','how','why','when','where','which','will','can','should','watch',
+  'chinese','china','idiom','idioms','proverb','proverbs','saying','sayings','quote','quotes','meaning','meanings','word','words','phrase','phrases','symbolism','symbol','culture','cultural','history','historical','learn',
+  'drama','cdrama','series','show','tv','movie','film','novel','book','cast','characters','character','ending','explained','recap','episode','episodes','ep','season','seasons','finale','plot','summary','synopsis','review','trailer','release','date','online','sub','subs','subbed','subtitle','eng','english','indo','dub','dubbed','based','true','story','real','famous','family','tree','actor','actress','actors','plays','play','starring','filming','locations','location','age','wiki','spoiler','spoilers','bonus','vs',
+  'artinya','pemeran','pemain','sinopsis','significado','dramas','adalah',
+  'happy','sad','best','top','new','list','guide','beautiful','common','popular','simple','easy','short','deep','good','bad','old','full','free',
+]);
+// Trimmed only at the EDGES (kept internally so "pursuit of jade" survives intact).
+const RADAR_EDGE = new Set(['of','the','a','an','to','in','on','for','and','or','with','about','from','by','that','this','his','her','their','it','its','at','as']);
+
+function entityKey(q) {
+  let toks = q.toLowerCase().replace(/[^\w\s'-]/g, ' ').split(/\s+/).filter(Boolean);
+  toks = toks.filter(t => !RADAR_REMOVE.has(t) && !/^\d+$/.test(t));
+  while (toks.length && RADAR_EDGE.has(toks[0])) toks.shift();
+  while (toks.length && RADAR_EDGE.has(toks[toks.length - 1])) toks.pop();
+  toks = toks.filter(t => t.length >= 2);
+  if (toks.length < 2 || toks.length > 5) return null;
+  const core = toks.filter(t => !RADAR_EDGE.has(t));
+  if (core.length < 2) return null; // mostly stopwords → not an entity
+  return toks.join(' ');
+}
+function aggEntities(rows) {
+  const m = new Map();
+  for (const r of rows) {
+    const q = r.keys[0];
+    if (/[぀-ヿ一-鿿]/.test(q)) continue; // CJK handled elsewhere
+    const k = entityKey(q);
+    if (!k) continue;
+    if (!m.has(k)) m.set(k, { impr: 0, clicks: 0, count: 0, posW: 0, samples: [] });
+    const e = m.get(k);
+    e.impr += r.impressions; e.clicks += r.clicks; e.count++;
+    e.posW += r.position * r.impressions;
+    if (e.samples.length < 6) e.samples.push(q);
+  }
+  return m;
+}
+const ent28 = aggEntities(q28);
+const ent7 = aggEntities(q7);
+const entP7 = aggEntities(qP7);
+
+let radarBlogSlugs = [];
+try {
+  radarBlogSlugs = fs.readdirSync(path.join(ROOT, 'content/blog'))
+    .filter(f => f.endsWith('.md')).map(f => f.slice(0, -3));
+} catch { /* ignore */ }
+const clusterCount = (entity) => {
+  const slug = entity.replace(/\s+/g, '-');
+  return radarBlogSlugs.filter(s => s.includes(slug)).length;
+};
+const posFactor = (pos) => pos <= 3 ? 0.25 : pos <= 10 ? 1.0 : pos <= 20 ? 0.85 : pos <= 35 ? 0.45 : 0.15;
+
+const radar = [];
+for (const [k, e] of ent28) {
+  if (e.count < 3 || e.impr < 300) continue;
+  const avgPos = e.posW / Math.max(e.impr, 1);
+  const cur7 = ent7.get(k)?.impr || 0;
+  const prev7 = entP7.get(k)?.impr || 0;
+  const ratio = prev7 === 0 ? (cur7 > 0 ? 1.5 : 1.0) : cur7 / prev7;
+  const trendFactor = ratio >= 1.5 ? 1.5 : ratio >= 1.05 ? 1.2 : ratio >= 0.8 ? 1.0 : 0.7;
+  const trendLabel = prev7 === 0 ? (cur7 > 0 ? 'new' : '—') : `${((ratio - 1) * 100).toFixed(0)}%`;
+  radar.push({
+    k, impr: e.impr, clicks: e.clicks, count: e.count, avgPos,
+    trend: trendLabel, clusters: clusterCount(k),
+    score: e.impr * posFactor(avgPos) * trendFactor, samples: e.samples,
+  });
+}
+radar.sort((a, b) => b.score - a.score);
+
+push('## 🔭 Vertical Radar — next clusters to build');
+push('');
+push('Recurring entity names (dramas / films / actors / novels) ranked by **opportunity = combined impressions × how-rankable (position) × momentum (7d trend)**. "Cluster files" counts existing blog posts whose slug contains the entity. **High score + 0 cluster files = the next Pursuit of Jade to build.**');
+push('');
+push('| Entity | Opp. | Impr (28d) | Avg pos | Clicks | 7d trend | Cluster files | Sample queries |');
+push('|---|---:|---:|---:|---:|---:|---:|---|');
+for (const r of radar.slice(0, 25)) {
+  const cl = r.clusters === 0 ? '**0 ⚠️**' : String(r.clusters);
+  push(`| **${r.k}** | ${fmt(Math.round(r.score))} | ${fmt(r.impr)} | ${r.avgPos.toFixed(1)} | ${r.clicks} | ${r.trend} | ${cl} | ${r.samples.slice(0, 3).join(' · ')} |`);
+}
+push('');
+
 // --- Top queries ---
 // --- Content opportunities (the most actionable section) ---
 push('## Content opportunities — write/expand these');
