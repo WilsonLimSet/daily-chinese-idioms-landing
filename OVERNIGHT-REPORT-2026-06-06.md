@@ -71,23 +71,21 @@ Per your instruction ("dont ever use gemini, use openai"):
 
 ---
 
-## 🧹 Listicle merge — ready to apply (NOT yet executed)
+## 🧹 Listicle merge — REVISED: mostly not worth it
 
-Confirmed cannibalization: 306 listicles, with duplicate variants competing on the same query. Data-backed winners (keep) / losers (301 → winner), English-first:
+I pulled the per-query data (`page_query_last_28d`) to test whether the "duplicate" pairs actually compete for the same queries. They mostly don't. Revised verdict:
 
-| Facet | Keep | Redirect (loser) |
+| Facet | Verdict | Why |
 |---|---|---|
-| love | `chinese-sayings-about-love` | `chinese-idioms-about-love` |
-| success | `chinese-sayings-about-success` | `chinese-idioms-about-success` |
-| happiness | `chinese-quotes-about-happiness` | `chinese-idioms-about-happiness` |
-| patience | `chinese-sayings-about-patience` | `chinese-idioms-about-patience` |
-| change | `chinese-sayings-about-change` | `chinese-idioms-about-change` |
-| family | `chinese-proverbs-about-family` | `chinese-idioms-about-family` |
-| friendship | `chinese-sayings-about-friendship` | `deep-friendship`, `friendship-loyalty` |
+| **success** | ✅ **Merge** | 3 pages all rank for "chinese proverbs about success" (idioms pos 76, sayings pos 13.5, career-success pos 57). Real cannibalization on a 174-impr query. Redirect idioms + career-success → `chinese-sayings-about-success`. |
+| love | ⚠️ Optional | Real overlap on "proverbs about love" but both pages buried at pos 18–71 — too far back for a merge to rescue. Low payoff. |
+| happiness | ❌ **Don't** | Different intents: idioms page ranks pos 4–6 for "happy phrases / idioms for happy"; quotes page ranks pos 2–7 for "quotes/proverbs about happiness". Merging LOSES a query cluster. |
+| patience | ❌ Pointless | `chinese-sayings-about-patience` already dominates everything (pos 2.4 even for "idioms about patience"). The idioms page is harmless 0-click dead weight. |
+| change / family / friendship | ⏸️ Skip for now | Same pattern — a clear winner already exists; merging gains ~nothing. |
 
-**Mechanism** (per the repo's existing pattern): remove loser from `src/lib/listicles.ts`, add to `src/lib/removed-listicle-slugs.json`, add 301 in `vercel.json`.
+**Reality check:** the entire duplicate-pair set is ~200 clicks/28d, most already captured by the winners. Best-case upside from merging is a few dozen clicks/month vs. Pursuit of Jade's 1,391. **This is low-priority housekeeping, not a growth lever.**
 
-**Why I didn't auto-run it:** it's destructive (301s get hard-cached by Google) and **removing an English base also removes all 15 translated versions**, so each loser needs its translated slug redirected per language or those pages 404. That's surgery I didn't want to do unattended right after catching a fabrication bug. Say the word and I'll do English-first cleanly, then translations.
+**Queued: the `success` merge only.** Mechanism (English): add 301s in `vercel.json` (`chinese-idioms-about-success` and `chinese-idioms-for-career-success` → `chinese-sayings-about-success`); to avoid 404ing the 15 translations, keep the redirect-only approach (don't delete from `listicles.ts`) OR add per-language redirects. Marginal either way — do it when convenient, don't prioritize.
 
 ---
 
@@ -97,7 +95,7 @@ Confirmed cannibalization: 306 listicles, with duplicate variants competing on t
 2. **Review the regenerated drama drafts** (clean, non-fabricating) in `content/blog/road-to-success-*` and `legend-of-zang-hai-*` — decide publish or enrich-first.
 3. **AdSense:** add URL Channels so per-page earnings populate.
 4. **After deploy:** GSC → resubmit sitemaps (`node scripts/audit/resubmit-sitemaps.js`) and request indexing for new/changed URLs.
-5. **Decide on the listicle merge** (table above) — I'll execute on your go.
+5. **Listicle merge:** deprioritized — only the `success` consolidation is worth doing (see revised section). Net upside is tens of clicks/month; not a growth lever.
 
 ---
 
