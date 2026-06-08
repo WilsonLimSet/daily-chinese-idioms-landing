@@ -34,6 +34,24 @@ export type LanguageCode = keyof typeof LANGUAGES;
 export const LANGUAGE_CODES = Object.keys(LANGUAGES) as LanguageCode[];
 
 /**
+ * Languages we still actively translate NEW content into and want indexed.
+ * (en is the source language and is always indexed.)
+ */
+export const ACTIVE_LANGUAGE_CODES = ['es', 'id', 'ja', 'ko', 'fr', 'de'] as const;
+
+/**
+ * Languages dropped for SEO (Jun 2026): kept LIVE but NOINDEX'd because they
+ * earn ~0 ad revenue and their thin machine-translated pages drag site quality.
+ * Reversible — remove a code here (and re-add to ACTIVE) to re-index it.
+ */
+export const NOINDEX_LANGUAGE_CODES = ['hi', 'tl', 'ar', 'ru', 'pt', 'vi', 'th', 'ms'] as const;
+
+/** True for languages that should be noindexed (dropped set). */
+export function isNoindexLanguage(lang: string): boolean {
+  return (NOINDEX_LANGUAGE_CODES as readonly string[]).includes(lang);
+}
+
+/**
  * Locale mapping for date formatting (BCP 47 language tags)
  */
 export const LOCALE_MAP = {

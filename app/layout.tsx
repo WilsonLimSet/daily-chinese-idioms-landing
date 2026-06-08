@@ -23,16 +23,16 @@ export const metadata: Metadata = {
       'hi': 'https://www.chineseidioms.com/hi',
       'ar': 'https://www.chineseidioms.com/ar',
       'fr': 'https://www.chineseidioms.com/fr',
+      'de': 'https://www.chineseidioms.com/de',
       'tl': 'https://www.chineseidioms.com/tl',
       'ms': 'https://www.chineseidioms.com/ms',
-      'ru': 'https://www.chineseidioms.com/ru',
-      'zh': 'https://www.chineseidioms.com'
+      'ru': 'https://www.chineseidioms.com/ru'
     }
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'tl_PH', 'ms_MY', 'ru_RU'],
+    alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_SA', 'fr_FR', 'de_DE', 'tl_PH', 'ms_MY', 'ru_RU'],
     url: 'https://www.chineseidioms.com',
     title: "Chinese Idioms (成语) - 1000+ Chengyu with English Meanings & Pinyin",
     description: "Complete Chinese idioms dictionary with 1000+ chengyu. English translations, pinyin, origins & examples. Browse by theme or search by characters.",

@@ -1,5 +1,7 @@
+import type { Metadata } from "next";
 import { Analytics } from "@vercel/analytics/react";
 import { notFound } from "next/navigation";
+import { isNoindexLanguage } from "@/src/lib/constants";
 import "../globals.css";
 
 const SUPPORTED_LANGUAGES = new Set([
@@ -7,6 +9,18 @@ const SUPPORTED_LANGUAGES = new Set([
 ]);
 
 const RTL_LANGUAGES = new Set(['ar']);
+
+// Dropped languages (Jun 2026) are kept live but noindexed at the root of every
+// localized route. Child pages that don't set their own `robots` inherit this;
+// the idiom route sets it explicitly too so the value is never cleared.
+export async function generateMetadata(
+  { params }: { params: Promise<{ lang: string }> }
+): Promise<Metadata> {
+  const { lang } = await params;
+  return isNoindexLanguage(lang)
+    ? { robots: { index: false, follow: true } }
+    : {};
+}
 
 export default async function LangLayout({
   children,

@@ -66,6 +66,9 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
   return {
     title: `${displayTheme} (${langName})`,
     description: `Learn Chinese idioms about ${themeName.toLowerCase()} in ${langName}. Complete chengyu guide with translations and cultural context.`,
+    // Localized theme grids are thin, machine-translated, and cannibalize the
+    // listicles (1 click total across all of them). Keep live, drop from index.
+    robots: { index: false, follow: true },
     keywords: [
       `${themeName.toLowerCase()} chinese idioms`,
       `chengyu ${langName}`,

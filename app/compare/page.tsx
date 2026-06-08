@@ -8,6 +8,9 @@ export const metadata: Metadata = {
   title: 'Compare Chinese Idioms — What\'s the Difference? | Chinese Idioms',
   description: 'Confused by similar Chinese idioms? Compare pairs of chengyu side-by-side to understand the subtle differences in meaning, usage, and origin.',
   keywords: 'chinese idiom comparison, chengyu difference, similar chinese idioms, compare chengyu, chinese idiom vs',
+  alternates: {
+    canonical: 'https://www.chineseidioms.com/compare',
+  },
 };
 
 export default function ComparePage() {

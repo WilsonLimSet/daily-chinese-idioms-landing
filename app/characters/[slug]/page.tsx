@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllCharacterPages, getCharacterPage, getCharacterIdioms, getRelatedCharacters } from '@/src/lib/characters';
 import { getRelatedListicles } from '@/src/lib/listicles';
-import { LANGUAGES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -43,12 +42,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/characters/${slug}`,
+      // Localized /[lang]/characters/[slug] pages are not built (they 404), so
+      // only advertise the English page + x-default — no broken hreflang.
       languages: {
         'x-default': `/characters/${slug}`,
         'en': `/characters/${slug}`,
-        ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/characters/${slug}`])
-        ),
       },
     },
   };

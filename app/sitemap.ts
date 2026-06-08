@@ -9,7 +9,7 @@ import { getAllCharacterPages } from '@/src/lib/characters';
 import { getAllPoems } from '@/src/lib/poems';
 import { getAllPoets } from '@/src/lib/poets';
 import { getAllComparisons } from '@/src/lib/comparisons';
-import { LANGUAGE_CODES } from '@/src/lib/constants';
+import { LANGUAGE_CODES, isNoindexLanguage } from '@/src/lib/constants';
 import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
 import { getAllDramaSeries } from '@/src/lib/dramas';
 import { getAllGameSeries } from '@/src/lib/games';
@@ -299,6 +299,13 @@ export default async function sitemap(props: {
   }
 
   const lang = LANGUAGE_CODES[langIndex];
+
+  // Dropped languages (Jun 2026) are kept live but noindexed — do not advertise
+  // any of their URLs in the sitemap (concentrates crawl budget on active langs).
+  if (isNoindexLanguage(lang)) {
+    return [];
+  }
+
   const entries: MetadataRoute.Sitemap = [];
 
   // Language home page
@@ -334,15 +341,8 @@ export default async function sitemap(props: {
   });
 
 
-  // Language theme pages
-  for (const theme of THEME_SLUGS) {
-    entries.push({
-      url: `${baseUrl}/${lang}/themes/${theme}`,
-      lastModified: new Date(),
-      changeFrequency: 'weekly',
-      priority: 0.8,
-    });
-  }
+  // Localized theme pages are noindexed (thin, machine-translated, cannibalize
+  // the listicles) — intentionally excluded from the sitemap.
 
   // Language proverbs hub
   entries.push({

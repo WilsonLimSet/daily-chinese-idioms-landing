@@ -6,7 +6,7 @@ import { remark } from 'remark';
 import html from 'remark-html';
 import remarkGfm from 'remark-gfm';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
-import { LANGUAGES, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LANGUAGE_CONFIG, isNoindexLanguage } from '@/src/lib/constants';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -104,7 +104,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    robots: untranslated ? { index: false, follow: true } : undefined,
+    robots: (untranslated || isNoindexLanguage(lang)) ? { index: false, follow: true } : undefined,
     keywords: [
       ...idiomKeywords,
       'chinese idioms',
