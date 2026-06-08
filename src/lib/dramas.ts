@@ -38,6 +38,21 @@ export type DramaWithPosts = DramaSeries & {
 
 const SERIES: DramaSeries[] = [
   {
+    slug: 'the-first-jasmine',
+    englishName: 'The First Jasmine',
+    chineseName: '莫离',
+    pinyin: 'Mò Lí',
+    year: '2026',
+    synopsis:
+      "Bai Lu's 2026 period revenge-romance, premiering June 9 on Tencent with 4M+ pre-launch reservations. Ye Li (叶璃), a Lishan descendant confined for eight years, is married by imperial decree to the disabled Prince of Ding, Mo Xiuyao (墨修尧) — a former 'war god' mocked as the 'useless prince.' Two strong leads with their own revenge plans move from suspicion to alliance amid a plot to usurp the throne. The Chinese title 莫离 ('never part') puns on 茉莉 ('jasmine'). Adapted from the novel 《盛世嫡妃》 by Feng Qing.",
+    postPrefix: 'the-first-jasmine-',
+    platforms: ['Tencent Video', 'WeTV'],
+    cast: ['Bai Lu', 'Cheng Lei'],
+    novel: '《盛世嫡妃》 by Feng Qing (凤轻)',
+    tags: ['historical', 'romance'],
+    status: 'airing',
+  },
+  {
     slug: 'dear-you',
     englishName: 'Dear You',
     chineseName: '给阿嬷的情书',
