@@ -50,6 +50,71 @@
       "permanent": true
     },
     {
+      "source": "/es/blog/yu-shuxin-carrera-y-mejores-dramas",
+      "destination": "/es/blog/esther-yu-mejores-dramas-y-guia-de-carrera",
+      "permanent": true
+    },
+    {
+      "source": "/es/blog/camino-al-exito-todo-lo-que-necesitas-saber-sobre-yu-shuxin",
+      "destination": "/es/blog/camino-al-exito-fecha-estreno-reparto-donde-ver",
+      "permanent": true
+    },
+    {
+      "source": "/id/blog/karir-yu-shuxin-dan-drama-terbaik",
+      "destination": "/id/blog/drama-terbaik-esther-yu-yu-shuxin",
+      "permanent": true
+    },
+    {
+      "source": "/id/blog/jalan-menuju-sukses-segala-yang-perlu-diketahui-yu-shuxin",
+      "destination": "/id/blog/jalan-menuju-sukses-tanggal-rilis-pemeran-tempat-menonton",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/yu-shuxin-carriere-et-meilleures-dramas",
+      "destination": "/fr/blog/esther-yu-meilleures-dramas-guide-carriere",
+      "permanent": true
+    },
+    {
+      "source": "/fr/blog/route-vers-le-succes-tout-savoir-yu-shuxin-drama-sportif",
+      "destination": "/fr/blog/route-vers-le-succes-date-de-sortie-distribution-et-ou-regarder-yu-shuxin-2026-c",
+      "permanent": true
+    },
+    {
+      "source": "/de/blog/yu-shuxin-karriere-und-beste-dramen-von-find-yourself-bis-road-to-success",
+      "destination": "/de/blog/esther-yu-beste-dramen-karriereleitfaden",
+      "permanent": true
+    },
+    {
+      "source": "/de/blog/weg-zum-erfolg-alles-was-sie-wissen-muessen-ueber-yu-shuxin",
+      "destination": "/de/blog/weg-zum-erfolg-veroeffentlichung-besetzung-wo-man-es-sehen-kann-yu-shuxin-2026-c",
+      "permanent": true
+    },
+    {
+      "source": "/ja/blog/yu-shuxin-kyaria-to-best-dorama",
+      "destination": "/ja/blog/esther-yu-yu-shuxin-no-besuto-dorama-to-kyaria-gaido",
+      "permanent": true
+    },
+    {
+      "source": "/ja/blog/seikou-e-no-michi-yu-shuxin-sports-drama",
+      "destination": "/ja/blog/seikou-e-no-michi-2026-c-dorama-yu-shuxin",
+      "permanent": true
+    },
+    {
+      "source": "/ko/blog/seong-gong-euro-ganeun-gil-deurama-yeogsa",
+      "destination": "/ko/blog/seong-gong-euro-ganeun-gil-deurama-baegyeong-yeoksa",
+      "permanent": true
+    },
+    {
+      "source": "/ko/blog/yu-shuxin-yeongyeok-gwa-geojin-drama",
+      "destination": "/ko/blog/eseuteo-yu-ju-suhsin-geunyeong-gajang-joh-eun-deurama",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|de|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/characters/:slug*",
+      "destination": "/characters/:slug*",
+      "permanent": true
+    },
+    {
       "source": "/blog/:year(\\d{4})-:month(\\d{2})-:day(\\d{2})-:slug(.*)",
       "destination": "/blog/:slug",
       "permanent": true
