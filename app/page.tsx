@@ -271,6 +271,15 @@ export default async function Home() {
               <p className="text-xs text-rose-600 font-medium mt-2">Read essays →</p>
             </Link>
             <Link
+              href="/games"
+              className="p-5 bg-slate-50 rounded-xl border border-slate-200 hover:shadow-md hover:border-slate-300 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-slate-800 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-slate-700 transition-colors">Chinese Mythology in Games</p>
+              <p className="text-sm text-gray-600 mt-1">Black Myth: Wukong &amp; Zhong Kui — folklore decoded</p>
+              <p className="text-xs text-slate-700 font-medium mt-2">Explore games →</p>
+            </Link>
+            <Link
               href="/poems"
               className="p-5 bg-amber-50 rounded-xl border border-amber-100 hover:shadow-md hover:border-amber-200 transition-all group"
             >
@@ -283,7 +292,7 @@ export default async function Home() {
               className="p-5 bg-purple-50 rounded-xl border border-purple-100 hover:shadow-md hover:border-purple-200 transition-all group"
             >
               <p className="font-bold text-gray-900 group-hover:text-purple-600 transition-colors">Chinese Internet Slang</p>
-              <p className="text-sm text-gray-600 mt-1">Decode 50 popular terms from YYDS to 内卷</p>
+              <p className="text-sm text-gray-600 mt-1">Decode 60+ trending terms from YYDS to 哈基米</p>
               <p className="text-xs text-purple-600 font-medium mt-2">Explore slang →</p>
             </Link>
             <Link

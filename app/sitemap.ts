@@ -12,6 +12,7 @@ import { getAllComparisons } from '@/src/lib/comparisons';
 import { LANGUAGE_CODES } from '@/src/lib/constants';
 import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
 import { getAllDramaSeries } from '@/src/lib/dramas';
+import { getAllGameSeries } from '@/src/lib/games';
 
 const THEME_SLUGS = [
   'life-philosophy',
@@ -91,6 +92,18 @@ export default async function sitemap(props: {
       },
       ...getAllDramaSeries().map(d => ({
         url: `${baseUrl}/dramas/${d.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly' as const,
+        priority: 0.85,
+      })),
+      {
+        url: `${baseUrl}/games`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      },
+      ...getAllGameSeries().map(g => ({
+        url: `${baseUrl}/games/${g.slug}`,
         lastModified: new Date(),
         changeFrequency: 'weekly' as const,
         priority: 0.85,

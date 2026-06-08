@@ -168,8 +168,15 @@ async function processOne({ file, lang, langName }) {
 async function main() {
   const args = process.argv.slice(2);
   const langFilter = args.includes('--lang') ? args[args.indexOf('--lang') + 1] : null;
+  const excludeArg = args.includes('--exclude') ? args[args.indexOf('--exclude') + 1] : '';
+  const excludeList = excludeArg ? excludeArg.split(',').map(s => s.trim()).filter(Boolean) : [];
 
-  const articles = fs.readdirSync(BLOG_DIR).filter(f => f.endsWith('.md'));
+  let articles = fs.readdirSync(BLOG_DIR).filter(f => f.endsWith('.md'));
+  if (excludeList.length) {
+    const before = articles.length;
+    articles = articles.filter(f => !excludeList.some(e => f.includes(e)));
+    console.log(`Excluded ${before - articles.length} files matching: ${excludeList.join(', ')}`);
+  }
   const languages = langFilter ? { [langFilter]: LANGUAGES[langFilter] } : LANGUAGES;
 
   // Build work queue (skip already translated)

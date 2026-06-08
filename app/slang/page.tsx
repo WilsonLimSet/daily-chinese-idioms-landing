@@ -8,12 +8,12 @@ import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
 export const metadata: Metadata = {
-  title: 'Chinese Internet Slang — 50 Popular Terms Decoded | Chinese Idioms',
-  description: 'Decode trending Chinese internet slang, social media expressions, and youth culture phrases. From YYDS to 内卷, learn what they mean with origins and examples.',
-  keywords: ['chinese internet slang', 'chinese slang', 'chinese social media slang', 'YYDS meaning', '内卷 meaning', '躺平 meaning', 'chinese memes', 'mandarin slang'],
+  title: 'Chinese Internet Slang Dictionary — 60+ Trending Terms (2026) | Chinese Idioms',
+  description: 'A dictionary of trending Chinese internet slang, memes, and youth culture phrases — from YYDS and 内卷 to 哈基米, 红温, and Chinamaxxing. Meanings, origins, and examples, updated for 2026.',
+  keywords: ['chinese internet slang', 'chinese slang dictionary', 'chinese internet slang 2026', 'chinese social media slang', 'chinese memes', 'gen z chinese slang', 'YYDS meaning', '哈基米 meaning', '红温 meaning', 'mandarin slang'],
   openGraph: {
-    title: 'Chinese Internet Slang — 50 Popular Terms Decoded',
-    description: 'Decode trending Chinese internet slang, social media expressions, and youth culture phrases with meanings, origins, and examples.',
+    title: 'Chinese Internet Slang Dictionary — 60+ Trending Terms (2026)',
+    description: 'Decode trending Chinese internet slang, memes, and youth culture phrases — from YYDS to 哈基米 and Chinamaxxing — with meanings, origins, and examples.',
     url: 'https://www.chineseidioms.com/slang',
     siteName: 'Chinese Idioms',
     locale: 'en_US',
@@ -39,8 +39,8 @@ export default function SlangIndexPage() {
     {
       "@context": "https://schema.org",
       "@type": "CollectionPage",
-      "name": "Chinese Internet Slang",
-      "description": "50 popular Chinese internet slang terms decoded with meanings, origins, and examples.",
+      "name": "Chinese Internet Slang Dictionary",
+      "description": `${allTerms.length} popular Chinese internet slang terms decoded with meanings, origins, and examples.`,
       "url": "https://www.chineseidioms.com/slang",
       "numberOfItems": allTerms.length,
       "hasPart": allTerms.map(term => ({
