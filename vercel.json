@@ -50,6 +50,16 @@
       "permanent": true
     },
     {
+      "source": "/:lang(ar|de|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/sbti/:type/how-to-get",
+      "destination": "/:lang/sbti/:type",
+      "permanent": true
+    },
+    {
+      "source": "/:lang(ar|de|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/sbti/:type/compatibility",
+      "destination": "/:lang/sbti/:type",
+      "permanent": true
+    },
+    {
       "source": "/es/blog/yu-shuxin-carrera-y-mejores-dramas",
       "destination": "/es/blog/esther-yu-mejores-dramas-y-guia-de-carrera",
       "permanent": true
