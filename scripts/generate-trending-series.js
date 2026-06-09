@@ -367,6 +367,8 @@ ${otherArticles}
 HARD RULES — violations will be visible and the article will be rejected:
 ═══════════════════════════════════════════════════════════
 
+LANGUAGE (non-negotiable): Write the ENTIRE article in ENGLISH. The audience is English-speaking learners of Chinese. Chinese (汉字) appears ONLY as inline terms — idiom headings, character names, and short quoted phrases — each immediately followed by pinyin and an English gloss. Every sentence of prose, every explanation, every origin story, and every connection paragraph must be in English. Do NOT write paragraphs or sections in Chinese. An article whose body prose is in Chinese will be rejected outright.
+
 LENGTH: 2000-3500 words. The benchmark Pursuit of Jade articles are ~3,500 words. If you find yourself under 2,000 words, you have not done your job — expand the idiom origin stories and the topic-specific connections.
 
 PER-IDIOM STRUCTURE (every idiom section must have ALL of these):

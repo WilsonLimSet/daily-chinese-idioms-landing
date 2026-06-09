@@ -38,6 +38,21 @@ export type DramaWithPosts = DramaSeries & {
 
 const SERIES: DramaSeries[] = [
   {
+    slug: 'ashes-to-crown',
+    englishName: 'Ashes to Crown',
+    chineseName: '翘楚',
+    pinyin: 'Qiào Chǔ',
+    year: '2026',
+    synopsis:
+      "Chen Duling stars as Chu Zhao (楚朝), a general's daughter used as a pawn in heir-apparent Xiao Xun's bid for power — poisoned and killed in her first life, then reborn with her memories intact. This time she seizes the title of Grand Princess (长公主) to make herself untouchable, and lifts the despised concubine-born Xie Yan Lai (谢燕来, Zhou Yiran) from the imperial guard toward military command. A 大女主 rebirth-revenge-political-romance adapted from Xi Xing's web novel 《楚后》. The drama's title 翘楚 ('the outstanding one') is lifted from the Classic of Poetry and puns on the heroine's surname 楚. Premiered June 2026 on Netflix (international) and Youku (China) with daily episodes.",
+    postPrefix: 'ashes-to-crown-',
+    platforms: ['Netflix', 'Youku'],
+    cast: ['Chen Duling', 'Zhou Yiran', 'Wang Ruichang', 'Tang Xiaotian'],
+    novel: '《楚后》by Xi Xing (希行)',
+    tags: ['historical', 'romance'],
+    status: 'airing',
+  },
+  {
     slug: 'the-first-jasmine',
     englishName: 'The First Jasmine',
     chineseName: '莫离',
