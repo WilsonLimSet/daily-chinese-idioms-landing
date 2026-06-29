@@ -170,8 +170,15 @@ async function main() {
   const langFilter = args.includes('--lang') ? args[args.indexOf('--lang') + 1] : null;
   const excludeArg = args.includes('--exclude') ? args[args.indexOf('--exclude') + 1] : '';
   const excludeList = excludeArg ? excludeArg.split(',').map(s => s.trim()).filter(Boolean) : [];
+  const onlyArg = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
+  const onlyList = onlyArg ? onlyArg.split(',').map(s => s.trim()).filter(Boolean) : [];
 
   let articles = fs.readdirSync(BLOG_DIR).filter(f => f.endsWith('.md'));
+  if (onlyList.length) {
+    const before = articles.length;
+    articles = articles.filter(f => onlyList.some(o => f.includes(o)));
+    console.log(`Limited to ${articles.length}/${before} files matching: ${onlyList.join(', ')}`);
+  }
   if (excludeList.length) {
     const before = articles.length;
     articles = articles.filter(f => !excludeList.some(e => f.includes(e)));
