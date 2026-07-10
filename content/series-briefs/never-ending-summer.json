@@ -1,0 +1,531 @@
+{
+  "_instructions": [
+    "REVIEW THIS BRIEF BEFORE GENERATING ARTICLES.",
+    "Edit anything that looks wrong, especially items in verifyFlags.",
+    "You can: remove/add idiomIds, edit outlines, change titles, reorder articles.",
+    "When ready: node scripts/generate-trending-series.js generate --brief <this-file>"
+  ],
+  "topic": "Never-Ending Summer (炽夏)",
+  "date": "2026-06-26",
+  "research": {
+    "basicFacts": {
+      "type": "Real, currently-airing 2026 C-drama; modern/urban second-chance romance; youth + workplace dual-timeline melodrama",
+      "releaseDate": "2026-06-16",
+      "keyPeople": [
+        {
+          "name": "许肇任",
+          "pinyin": "Xǔ Zhàorèn",
+          "role": "Director"
+        },
+        {
+          "name": "黄常祚",
+          "pinyin": "Huáng Chángzuò",
+          "role": "Director"
+        },
+        {
+          "name": "高伽绮",
+          "pinyin": "Gāo Jiāqí",
+          "role": "Screenwriter"
+        },
+        {
+          "name": "童霜霜",
+          "pinyin": "Tóng Shuāngshuāng",
+          "role": "Screenwriter"
+        },
+        {
+          "name": "崔晓彤",
+          "pinyin": "Cuī Xiǎotóng",
+          "role": "Screenwriter"
+        },
+        {
+          "name": "包上恩",
+          "pinyin": "Bāo Shàng'ēn",
+          "role": "Lead cast (actor)"
+        },
+        {
+          "name": "周柯宇",
+          "pinyin": "Zhōu Kēyǔ (Daniel Zhou)",
+          "role": "Lead cast (actor)"
+        },
+        {
+          "name": "甜醋鱼",
+          "pinyin": "Tián Cù Yú",
+          "role": "Source novel author (《坠落》)"
+        }
+      ],
+      "impact": "Strong launch: premiere-day #1 real-time rating among provincial satellite channels; reported 30M+ concurrent viewers. Polarized reception with a day-one “炽夏魔改” backlash from novel fans (Tencent News, 2026-06-19), alongside some praise for reunion (“重逢”) scenes (Sina)."
+    },
+    "plotSummary": "Zhou Wan (周挽), a resilient top student, needs money for surgery for her seriously ill grandmother. After her estranged mother refuses to help, Zhou Wan deliberately gets close to Lu Xixiao (陆西骁), the rebellious troubled stepson in her mother’s new family, intending to extract money (in the novel, partly as leverage against her mother). What starts as calculation becomes real love over a searing summer, but harsh reality and a misunderstanding break them apart. Years later they meet again as adults in the workplace, with old wounds, revenge impulses, and lingering feelings reigniting.",
+    "historicalBasis": [
+      {
+        "topic": "Source novel adaptation",
+        "details": "Adapted from the novel 《坠落》(The Fall) by 甜醋鱼 (Tián Cù Yú).",
+        "dynasties": [],
+        "figures": []
+      }
+    ],
+    "culturalThemes": [
+      {
+        "theme": "Second-chance romance / reconciliation",
+        "explanation": "A youth romance broken by misunderstanding later reignites when the leads reunite years later in adulthood (“跨越十年/ across ten years” marketing; reconciliation implied but drama ending not yet aired)."
+      },
+      {
+        "theme": "Hardship, resilience, and family illness",
+        "explanation": "The female lead’s struggle to fund her grandmother’s surgery and her characterization as resilient/unyielding anchor the melodrama."
+      },
+      {
+        "theme": "Fate and misunderstanding",
+        "explanation": "The separation is driven by a misunderstanding and harsh reality; the novel’s central metaphor is “free-fall” (The Fall)."
+      },
+      {
+        "theme": "Adaptation controversy (魔改) and fandom conflict",
+        "explanation": "Novel fans criticized heavy rewrites (“炽夏魔改”), creating a high-visibility backlash narrative and polarized word-of-mouth."
+      }
+    ],
+    "keyChineseTerms": [
+      {
+        "characters": "炽夏",
+        "pinyin": "Chì Xià",
+        "meaning": "Literally “Blazing/Scorching Summer” (炽 chì = blazing/ardent; 夏 xià = summer).",
+        "relevance": "Title meaning: fuses literal summer heat with metaphorical burning passion."
+      },
+      {
+        "characters": "西风向晚",
+        "pinyin": "Xī Fēng Xiàng Wǎn",
+        "meaning": "“West Wind Toward Dusk.”",
+        "relevance": "Listed as an alias for the drama."
+      },
+      {
+        "characters": "坠落",
+        "pinyin": "Zhuì Luò",
+        "meaning": "“The Fall/Falling.”",
+        "relevance": "Source-novel title; also described as the central metaphor (“free-falls”)."
+      },
+      {
+        "characters": "周挽",
+        "pinyin": "Zhōu Wǎn",
+        "meaning": "Given name 挽 (wǎn) = “to pull/draw back; retrieve; salvage.”",
+        "relevance": "Name is framed as thematically loaded: she tries to “save/pull back” her grandmother and later the man she loves."
+      },
+      {
+        "characters": "陆西骁",
+        "pinyin": "Lù Xīxiāo",
+        "meaning": "西 (xī) = west; 骁 (xiāo) = valiant/bold; spirited steed.",
+        "relevance": "Name analysis ties “west” to the alias 西风向晚 and “骁” to the male lead’s wild, fierce temperament."
+      },
+      {
+        "characters": "魔改",
+        "pinyin": "mó gǎi",
+        "meaning": "Slang for a “botched/heavily rewritten adaptation.”",
+        "relevance": "Core reception angle: “炽夏魔改” trended; fans complained the plot diverges sharply from the novel."
+      }
+    ],
+    "whyTrending": "It is a currently airing 2026 drama with a strong launch (#1 premiere-day provincial satellite real-time rating; reported 30M+ concurrent viewers) and a polarized reception driven by a “炽夏魔改” backlash from novel fans. Engagement is amplified by reunion (“重逢”) scenes, short-video circulation of “陆西骁经典话语” clips on Douyin, CP/couple edits, and overseas availability via Mango TV/iQIYI international (with an active MyDramaList page).",
+    "verifyFlags": [
+      "Drama ending has not aired (still releasing daily as of 2026-06-26); do not state the drama is HE as fact.",
+      "Novel ending: described as happy ending; final chapter ch. 264 includes Lu Xixiao pledging to spend his life with Zhou Wan (novel-sourced, not drama-confirmed).",
+      "Separation length discrepancy: novel text describes ~7 years apart; drama marketing says “ten years” (“跨越十年”).",
+      "Douban: subject page exists (ID 36884141) but stable Douban score/rater count not confirmed; ~7.0 figure cited is from a streaming platform, not Douban.",
+      "Quotes listed circulate as novel 《坠落》 lines and were echoed in promos; must be confirmed against aired episodes before attributing to the drama.",
+      "Production company not reliably identified.",
+      "Some pages (Baidu Baike/TVMao/MyDramaList main pages) returned 403 during research; some snippets (e.g., MyDramaList “8.5 / rank #577”) unconfirmed.",
+      "Supporting character functions (e.g., 姜彦 / 骆河) not fully pinned down."
+    ]
+  },
+  "externalResearchMd": "# Never-Ending Summer (炽夏) — SEO Research Brief\n\n> **Status flag:** This is a **real, currently-airing 2026 C-drama** (premiered June 16, 2026; still releasing daily as of June 26, 2026). The full on-screen ending has **not yet aired**. Treat all \"ending\" content as either novel-sourced or projected, and label it as such. Several details below correct earlier KNOWN FACTS (see callouts).\n\n---\n\n## 1. Quick-Facts Table\n\n| Field | Detail |\n|---|---|\n| English title | **Never-Ending Summer** |\n| Chinese title | **炽夏** (Chì Xià) — literally **炽 chì** = \"blazing / scorching / ardent\" + **夏 xià** = \"summer\" → *\"Blazing Summer / Scorching Summer\"* |\n| Aliases | 西风向晚 (Xī Fēng Xiàng Wǎn, \"West Wind Toward Dusk\"); 坠落 (Zhuì Luò, \"The Fall/Falling\") — the source-novel title |\n| Genre | Modern/urban second-chance romance; youth + workplace dual-timeline melodrama |\n| Source novel | **《坠落》(The Fall)** — author is **甜醋鱼 (Tián Cù Yú,** lit. \"sweet-vinegar fish\") — NOT 田粗雨. |\n| Directors | **许肇任 (Xǔ Zhàorèn)** and **黄常祚 (Huáng Chángzuò)** — corrected from earlier \"徐肇仁 / 黄昌祚.\" |\n| Screenwriters | 高伽绮 (Gāo Jiāqí), 童霜霜 (Tóng Shuāngshuāng), 崔晓彤 (Cuī Xiǎotóng) |\n| Lead cast | 包上恩 (Bāo Shàng'ēn) & 周柯宇 / Daniel Zhou (Zhōu Kēyǔ) |\n| Episodes / runtime | 29 episodes, ~45 min each, daily release |\n| Premiere | **June 16, 2026** |\n| Platforms | 湖南卫视 (Hunan TV) + 芒果TV (Mango TV); also iQIYI / overseas |\n| Status | Currently airing (≈ ep 17+ as of June 26) |\n| Douban | Subject page exists (ID 36884141); a Douban score had not stabilized at time of research. One streaming platform showed **~7.0**. *(Verify the locked Douban number/rater count before publishing.)* |\n| Reception | First-day ratings #1 among provincial satellite channels, 30M+ concurrent viewers — **but** hit by a \"魔改\" (botched-adaptation) backlash from novel fans. |\n\n---\n\n## 2. Plot Overview (spoiler-light)\n\nZhou Wan (周挽), a resilient, top-of-her-class high-schooler, is desperate to fund surgery for her seriously ill grandmother. Her estranged mother — who abandoned her years ago — refuses to help. So Zhou Wan deliberately gets close to **Lu Xixiao (陆西骁)**, the rebellious, troubled stepson of her mother's new family, planning to extract the money through him (in the novel, partly as leverage against her mother).\n\nWhat begins as calculation turns real: across one searing summer the two wary teenagers fall for each other, repeatedly pulling one another out of personal \"free-falls\" (the novel's title, *The Fall*, is the central metaphor). But harsh reality and a misunderstanding shatter the young romance and drive them apart. Years later they collide again in the **workplace** as adults — old wounds, revenge impulses, and unextinguished feelings reigniting at once.\n\n### 2a. ENDING — SPOILER SECTION (drama ending NOT yet aired)\n- **Drama:** The finale has not broadcast. Promos frame it as a reunion-and-reconciliation arc (\"跨越十年\" / \"across ten years\"), strongly implying a reconciliation, but the on-screen resolution is unconfirmed.\n- **Novel (《坠落》):** The book is **a happy ending (HE)**. After a long separation (novel text describes roughly **seven years** apart; drama marketing says \"ten years\" — timelines differ), the leads reunite and end up together; in the final chapter (ch. 264) Lu Xixiao pledges to spend the rest of his life with Zhou Wan.\n- The \"ten years vs seven years\" gap and the **魔改 (heavy rewrite)** complaints mean the **drama may diverge from the novel's ending** — do not state the drama is HE as fact until the finale airs.\n\n---\n\n## 3. Cast (exact Chinese names + pinyin + role)\n\n| Actor (pinyin) | Character | Role |\n|---|---|---|\n| 包上恩 Bāo Shàng'ēn | **周挽 Zhōu Wǎn** | Female lead; resilient honor student saving her grandmother |\n| 周柯宇 Zhōu Kēyǔ (Daniel Zhou) | **陆西骁 Lù Xīxiāo** | Male lead; rebellious \"troubled\" boy, stepson in her mother's family |\n| 赵英博 Zhào Yīngbó | **姜彦 Jiāng Yàn** | Supporting male / second-lead orbit |\n| 柯淳 Kē Chún | **骆河 Luò Hé** | Supporting |\n| 徐媛屹娜 Xú Yuányìnà | **顾梦 Gù Mèng** | Zhou Wan's classmate/friend |\n| 付伟伦 Fù Wěilún | **蒋帆 Jiǎng Fān** | Supporting |\n| 方芳 Fāng Fāng | **黄雪芬 Huáng Xuěfēn** | Zhou Wan's grandmother |\n| 杨淇源 Yáng Qíyuán | **何文辉 Hé Wénhuī** | Supporting |\n| 黄奕 Huáng Yì | the mother (Zhou Wan's mother) | Antagonist-adjacent |\n\nCharacter names corrected: female lead is **周挽 (not 周婉)**; male lead is **陆西骁 (not 陆熙晓)**.\n\n**Filmography angle (where you've seen the leads):**\n- **Daniel Zhou (周柯宇):** b. May 17, 2002, American-born Chinese idol-actor; ex-INTO1 (Produce Camp 2021, 10th place), member of group BEST. Dramas: *Only for Love* (2023), *A Moment but Forever* (2024), *Sniper Butterfly* (2025), *Always Home* (2025). *Never-Ending Summer* is a notable leading romance role for him.\n- **Bao Shang'en (包上恩):** b. May 23, 2002 (real name Bao Lujia); debuted in *Love Behind the Melody* (2022); known for *Who's the Suspect* (2023 film), *Youthful Glory* (2025), *Generation to Generation* (2026). One of 2026's busiest rising actresses.\n\n---\n\n## 4. Character-Name & Title Linguistics (the site's moat)\n\n- **炽夏 Chì Xià** — 炽 *chì* = blazing, ablaze, ardent (same character in 炽热 *chìrè*, \"white-hot / fervent\"); 夏 *xià* = summer. The title fuses literal scorching summer heat with metaphorical burning passion.\n- **周挽 Zhōu Wǎn** — surname 周 *Zhōu*. Given name 挽 *wǎn* = \"to pull / draw back / to retrieve / to salvage.\" A loaded name: she literally tries to **挽** (pull back / save) her grandmother and later the man she loves.\n- **陆西骁 Lù Xīxiāo** — surname 陆 *Lù* (\"land\"). 西 *xī* = \"west\" (echoes the alias 西风向晚, \"west wind toward dusk\"). 骁 *xiāo* = \"valiant, brave, a spirited/fierce steed\" (as in 骁勇 *xiāoyǒng*, \"bold and valiant\") — fitting for a wild, unbroken-horse type male lead.\n\n---\n\n## 5. ~15 Chengyu That Fit the Drama's Themes\n\nAll are real, well-known 4-character idioms.\n\n| Chengyu | Pinyin | Literal | Figurative | Why it maps |\n|---|---|---|---|---|\n| 破镜重圆 | pò jìng chóng yuán | broken mirror made round again | estranged lovers reunite | The 10-year reunion / reconciliation core |\n| 失而复得 | shī ér fù dé | lose then regain | recovering what was lost | Second-chance love and trust regained |\n| 旧情复燃 | jiù qíng fù rán | old love reignites | rekindled romance | Literally the \"reignite feelings\" logline |\n| 重修旧好 | chóng xiū jiù hǎo | repair the old goodwill | mend a broken relationship | Reconciliation after misunderstanding |\n| 苦尽甘来 | kǔ jìn gān lái | bitterness ends, sweetness comes | hardship gives way to better days | Her struggle to save grandma → eventual payoff |\n| 坚韧不拔 | jiān rèn bù bá | tough, cannot be pulled out | steadfast, unyielding | Zhou Wan's defining \"resilient\" trait |\n| 百折不挠 | bǎi zhé bù náo | bent a hundred times, unbowed | indomitable through setbacks | Both leads pulled from \"falls,\" never break |\n| 相濡以沫 | xiāng rú yǐ mò | moisten each other with spit (stranded fish) | sustaining each other through hardship | Two struggling teens saving each other |\n| 患难与共 | huàn nàn yǔ gòng | share adversity together | stand by each other in trouble | Their bond forged in poverty/illness |\n| 刻骨铭心 | kè gǔ míng xīn | carved in bone, engraved on heart | unforgettable (esp. love) | A love that survives a decade apart |\n| 念念不忘 | niàn niàn bù wàng | think of constantly, never forget | unable to let go | Neither moves on; \"no one could replace you\" |\n| 阴差阳错 | yīn chā yáng cuò | yin-yang mismatch | a twist of fate / mix-up | The misunderstanding that separates them |\n| 造化弄人 | zào huà nòng rén | the Creator toys with people | cruel tricks of fate | Fate keeps pulling them apart |\n| 重归于好 | chóng guī yú hǎo | return to good terms | reconcile, make up | Resolving the revenge/grudge |\n| 否极泰来 | pǐ jí tài lái | when bad reaches extreme, good returns | fortune turns after the worst | Their lowest \"fall\" precedes reunion |\n\n(Bonus options: 不离不弃 *bù lí bù qì* \"never abandon,\" 矢志不渝 *shǐ zhì bù yú* \"unwavering resolve,\" 历久弥坚 *lì jiǔ mí jiān* \"stronger over time.\")\n\n---\n\n## 6. Quotable Lines\n\n**Sourcing caution:** The lines below circulate as quotes from the **novel 《坠落》** (and were echoed in drama promos). Confirm each against an actual aired episode before presenting it as an on-screen drama quote; otherwise attribute to the novel.\n\n1. **\"别回头，陆西骁。你要去看天地辽阔，走康庄大道，日日欢愉，岁岁平安。\"**\n*Bié huítóu, Lù Xīxiāo...* — \"Don't look back, Lu Xixiao. Go see how vast the world is, walk the broad road, find joy every day, peace every year.\" (Novel — Zhou Wan)\n2. **\"即便你骗我一百次，只要你说你爱我，我就原谅你。\"**\n*Jíbiàn nǐ piàn wǒ yìbǎi cì...* — \"Even if you deceive me a hundred times, as long as you say you love me, I'll forgive you.\" (Novel — Lu Xixiao; promo as \"被骗一百次只需一句我爱你\")\n3. **\"我遇到过很多女生……可都没有一个像你，也没人能替代你。\"**\n*...kě dōu méiyǒu yíge xiàng nǐ...* — \"I've met many girls... but none like you, and no one could replace you.\" (Novel — Lu Xixiao)\n\n→ All other \"quotes\" should be marked **UNVERIFIED** until checked against episodes. Do not pad this section with invented lines.\n\n---\n\n## 7. Reception, Viral Moments & Fandom Footprint\n\n- **Ratings/views:** Strong launch — #1 real-time rating among provincial satellite channels on premiere day; reported 30M+ concurrent viewers; one platform score ~7.0.\n- **Backlash (key story):** Hit a **\"炽夏魔改\"** (\"Never-Ending Summer butchered-adaptation\") trending topic on day one. Original-novel fans complained the plot diverges sharply from 《坠落》, criticized acting, and some demanded it be pulled. This \"口碑翻车\" narrative is itself a high-search angle. (Source: Tencent News, June 19, 2026.)\n- **Counter-narrative:** Some outlets praised specific arcs — e.g., the **reunion (\"重逢\") scenes** drew positive notices (Sina). Reception is **polarized**, not uniformly bad.\n- **Douyin / Weibo:** Active \"陆西骁经典话语\" clips on Douyin; couple-CP and \"明知故爱\" promo cut on YouTube. CP/face-card content for Daniel Zhou (idol fanbase) drives engagement.\n- **International:** Available via Mango TV / iQIYI international; mirrored on overseas sites. MyDramaList has an active page (English-sub audience present). Daniel Zhou's idol following gives overseas (incl. SEA + English-sub) demand. Confirm official Viki/WeTV/Netflix carriage before claiming it.\n\n---\n\n## 8. Trending Search Angles (target these)\n\n- \"Never-Ending Summer ending — happy or sad?\" / \"炽夏 结局\"\n- \"Never-Ending Summer cast\" / \"炽夏 演员表\"\n- \"Is Never-Ending Summer based on a novel?\" (→ 坠落 / 甜醋鱼)\n- \"Never-Ending Summer Daniel Zhou / Bao Shang'en\"\n- \"炽夏 魔改\" / \"Never-Ending Summer book vs drama differences\"\n- \"Never-Ending Summer episode count / where to watch / English sub\"\n- \"炽夏 周挽 陆西骁 结局在一起吗\" (do they end up together?)\n- \"Never-Ending Summer recap / 分集剧情\"\n- Title meaning: \"what does 炽夏 mean\" (linguistic angle — owns this)\n\n---\n\n## § Uncertain / Could Not Verify\n\n- **Douban locked rating + rater count:** subject page exists (ID 36884141) but a stable Douban score/number of raters was not confirmed; one ~7.0 figure is a streaming-platform score, not Douban. **Verify before publishing.**\n- **Baidu Baike & TVMao & MyDramaList main pages returned 403** — cast/crew cross-checked via TMDB, CPOP HOME, and Chinese search snippets instead. A MyDramaList \"8.5 / rank #577\" snippet appeared but is unconfirmed.\n- **Separation length:** novel text says ~**7 years**; drama marketing says **\"ten years.\"** Genuine discrepancy — do not state a single figure as fact.\n- **Drama ending:** NOT aired; novel is HE (ch. 264), but the 魔改 rewrite means the drama could diverge.\n- **Quotes:** attributed to the **novel**; not confirmed as spoken on-screen.\n- **Production company:** not reliably identified.\n- **Character 姜彦 / 骆河 exact role functions** not fully pinned down.\n\n**Primary sources:** [MyDramaList](https://mydramalist.com/767383-zhui-luo) · [TMDB](https://www.themoviedb.org/tv/288603-xi-feng-xiang-wan) · [CPOP HOME](https://www.cpophome.com/never-ending-summer-bao-shangen-zhou-keyu/) · [Douban](https://m.douban.com/movie/subject/36884141/) · [Tencent News 魔改 report](https://news.qq.com/rain/a/20260619A039IX00) · [Daniel Zhou MDL](https://mydramalist.com/people/29547-daniel-zhou) · [Bao Shang'en MDL](https://mydramalist.com/people/105029-bao-shang-en)\n",
+  "idiomMatches": [
+    {
+      "id": "ID861",
+      "characters": "破镜重圆",
+      "connection": "男女主因误会与现实分开多年，成年后在职场重逢并重新靠近，正对应“分离后再团圆”的核心卖点。",
+      "strength": "strong",
+      "relevantTo": "主题：第二次机会/重逢复合"
+    },
+    {
+      "id": "ID183",
+      "characters": "刻骨铭心",
+      "connection": "少年时期的炽热恋爱与决裂留下“旧伤”，多年后重逢仍被触发，符合“刻在心里、难以抹去”的情感后遗症。",
+      "strength": "strong",
+      "relevantTo": "主题：旧伤与余情"
+    },
+    {
+      "id": "ID443",
+      "characters": "触景生情",
+      "connection": "重逢戏往往借熟悉场景/物件引爆回忆与情绪，契合该剧以“重逢名场面”带动传播的叙事方式。",
+      "strength": "strong",
+      "relevantTo": "剧情点：重逢场景"
+    },
+    {
+      "id": "ID445",
+      "characters": "恍如隔世",
+      "connection": "从校园到职场的双时间线、跨多年分离（营销“跨越十年”）让重逢带有“隔了一个时代”的疏离感。",
+      "strength": "strong",
+      "relevantTo": "结构：双时间线/多年后重逢"
+    },
+    {
+      "id": "ID335",
+      "characters": "沧海桑田",
+      "connection": "多年后身份与处境变化（学生→职场人）带来巨大反差，符合“世事变迁、物是人非”的时间跨度感。",
+      "strength": "medium",
+      "relevantTo": "结构：时间跨度与成长"
+    },
+    {
+      "id": "ID007",
+      "characters": "一波三折",
+      "connection": "从“带目的接近”到真心相爱、再因误会分离、成年重逢复燃，情节推进明显多次转折。",
+      "strength": "strong",
+      "relevantTo": "剧情：恋爱线起伏"
+    },
+    {
+      "id": "ID448",
+      "characters": "事与愿违",
+      "connection": "周挽最初想用接近陆西骁解决钱的问题，却发展成真感情并被现实反噬，结果与初衷背离。",
+      "strength": "strong",
+      "relevantTo": "角色：周挽的动机与代价"
+    },
+    {
+      "id": "ID254",
+      "characters": "身不由己",
+      "connection": "女主为祖母手术费所迫、男主受家庭关系与误会牵制，很多选择并非出于自由意志而是被现实推着走。",
+      "strength": "strong",
+      "relevantTo": "主题：现实压力/无奈"
+    },
+    {
+      "id": "ID150",
+      "characters": "迫在眉睫",
+      "connection": "祖母病重需要手术费是“当下必须解决”的危机，直接驱动女主采取非常手段。",
+      "strength": "strong",
+      "relevantTo": "剧情点：筹钱救治"
+    },
+    {
+      "id": "ID478",
+      "characters": "捉襟见肘",
+      "connection": "女主为医疗费用发愁，经济拮据到不得不算计接近男主，正是“手头紧、周转困难”。",
+      "strength": "strong",
+      "relevantTo": "主题：贫困与医疗压力"
+    },
+    {
+      "id": "ID051",
+      "characters": "负重前行",
+      "connection": "周挽一边维持学业与自尊，一边扛着家庭疾病与金钱压力继续向前，符合“背负重担仍前行”。",
+      "strength": "strong",
+      "relevantTo": "角色：周挽的韧性"
+    },
+    {
+      "id": "ID874",
+      "characters": "忍辱负重",
+      "connection": "女主在母亲拒绝帮助、寄人篱下的处境中仍为家人忍耐并承担责任，贴合“忍受委屈扛起重担”。",
+      "strength": "strong",
+      "relevantTo": "角色：周挽的处境与选择"
+    },
+    {
+      "id": "ID818",
+      "characters": "含辛茹苦",
+      "connection": "围绕病重祖母与家庭裂痕的线索强调“吃苦撑下去”的生活质感，与女主的成长底色一致。",
+      "strength": "medium",
+      "relevantTo": "主题：苦难与坚韧"
+    },
+    {
+      "id": "ID005",
+      "characters": "百折不挠",
+      "connection": "无论是求学、筹钱还是面对误会后的重逢拉扯，人物都被塑造成不轻易认输的“硬扛型”。",
+      "strength": "medium",
+      "relevantTo": "主题：韧性与抗压"
+    },
+    {
+      "id": "ID426",
+      "characters": "不屈不挠",
+      "connection": "与“百折不挠”同向，强调在家庭与情感双重打击下仍不被击垮，符合该剧的苦情励志气质。",
+      "strength": "medium",
+      "relevantTo": "主题：逆境不服输"
+    },
+    {
+      "id": "ID268",
+      "characters": "力挽狂澜",
+      "connection": "周挽名字“挽”被解读为“拉回/挽救”，与她试图挽救祖母、也试图挽回感情的象征意义相合。",
+      "strength": "strong",
+      "relevantTo": "角色名：周挽（挽救/挽回）"
+    },
+    {
+      "id": "ID102",
+      "characters": "雪中送炭",
+      "connection": "女主最需要的是“关键时刻的救命钱/帮助”，母亲拒绝形成反差，也凸显谁能在她最难时伸手相助。",
+      "strength": "medium",
+      "relevantTo": "剧情点：急需援助与人情冷暖"
+    },
+    {
+      "id": "ID724",
+      "characters": "世态炎凉",
+      "connection": "亲情疏离、求助被拒与现实算计交织，呈现“人情冷暖、关系易变”的都市苦情底色。",
+      "strength": "strong",
+      "relevantTo": "主题：家庭裂痕/人情冷暖"
+    },
+    {
+      "id": "ID705",
+      "characters": "祸不单行",
+      "connection": "祖母重病、母女关系破裂、经济困境叠加，典型“坏事接连发生”的开局压力。",
+      "strength": "strong",
+      "relevantTo": "剧情：多重打击叠加"
+    },
+    {
+      "id": "ID490",
+      "characters": "雪上加霜",
+      "connection": "在缺钱与家庭矛盾已很艰难时，再遇误会导致分离，使处境进一步恶化，符合“更添一层霜”。",
+      "strength": "strong",
+      "relevantTo": "剧情：误会加剧困境"
+    },
+    {
+      "id": "ID170",
+      "characters": "束手无策",
+      "connection": "面对高额手术费与家庭拒绝，女主一度没有正常途径可解，只能选择非常规接近男主的办法。",
+      "strength": "medium",
+      "relevantTo": "剧情点：被逼到角落的选择"
+    },
+    {
+      "id": "ID961",
+      "characters": "逼上梁山",
+      "connection": "“为了救人不得不做不体面的事”的动机，贴近女主被现实逼迫采取算计式接近的设定。",
+      "strength": "strong",
+      "relevantTo": "角色：周挽的道德困境"
+    },
+    {
+      "id": "ID357",
+      "characters": "飞蛾扑火",
+      "connection": "炽热夏日里的爱恋带有自毁风险：明知会被现实灼伤仍无法抽身，契合“炽夏/燃烧感”的爱情气质。",
+      "strength": "medium",
+      "relevantTo": "主题：炽烈但危险的爱情"
+    },
+    {
+      "id": "ID859",
+      "characters": "弄假成真",
+      "connection": "女主起初带目的接近（“算计”），却在相处中动了真心，正是“假意开局、真情收场”。",
+      "strength": "strong",
+      "relevantTo": "剧情：从算计到真爱"
+    },
+    {
+      "id": "ID024",
+      "characters": "因果报应",
+      "connection": "“以目的接近”与“误会分离”都体现选择带来的后果回流，强化该剧的宿命感与代价叙事。",
+      "strength": "medium",
+      "relevantTo": "主题：选择的代价/因果"
+    },
+    {
+      "id": "ID716",
+      "characters": "水落石出",
+      "connection": "分离由误会推动，后续必然需要真相澄清来推动和解或复仇线，符合“真相终将浮出”。",
+      "strength": "strong",
+      "relevantTo": "剧情：误会与真相揭开"
+    },
+    {
+      "id": "ID468",
+      "characters": "拨云见日",
+      "connection": "与“水落石出”同向，强调在迷雾般的误会与旧账中，重逢后逐步看清事实与彼此心意。",
+      "strength": "medium",
+      "relevantTo": "主题：澄清误会/重建信任"
+    },
+    {
+      "id": "ID362",
+      "characters": "负荆请罪",
+      "connection": "第二次机会叙事常包含道歉与赎罪：若误会源于一方过错，真诚认错才能推动复合与和解。",
+      "strength": "medium",
+      "relevantTo": "主题：和解/道歉赎罪"
+    },
+    {
+      "id": "ID595",
+      "characters": "推心置腹",
+      "connection": "重逢后要修复关系，关键在于把当年的隐情与伤口说开，符合“坦诚相告、掏心交流”。",
+      "strength": "medium",
+      "relevantTo": "主题：沟通与修复"
+    },
+    {
+      "id": "ID531",
+      "characters": "心心相印",
+      "connection": "尽管多年分离与误会，仍有“余情未了”的默契与牵引力，是该类CP叙事的情感落点。",
+      "strength": "medium",
+      "relevantTo": "主题：余情与默契"
+    },
+    {
+      "id": "ID612",
+      "characters": "朝思暮想",
+      "connection": "多年分开仍放不下、重逢后情绪迅速回潮，符合“日夜惦念”的长尾思念线。",
+      "strength": "medium",
+      "relevantTo": "主题：分离后的思念"
+    },
+    {
+      "id": "ID611",
+      "characters": "魂牵梦萦",
+      "connection": "“旧伤+余情”让对方成为挥之不去的心结，重逢戏的爆发力常来自这种长期牵挂。",
+      "strength": "medium",
+      "relevantTo": "主题：难以割舍的牵挂"
+    },
+    {
+      "id": "ID494",
+      "characters": "依依不舍",
+      "connection": "青春线的热恋与分离往往呈现强烈拉扯与不舍，为后续成年重逢的情绪回响做铺垫。",
+      "strength": "medium",
+      "relevantTo": "剧情：分离与留恋"
+    },
+    {
+      "id": "ID437",
+      "characters": "左右为难",
+      "connection": "女主在救祖母与道德底线、真心与算计之间摇摆；男主在家庭关系与感情之间也可能陷入两难。",
+      "strength": "strong",
+      "relevantTo": "主题：道德与情感两难"
+    },
+    {
+      "id": "ID549",
+      "characters": "众矢之的",
+      "connection": "“炽夏魔改”争议使剧集在舆论场成为集中批评对象之一，贴合“被群体指责/围攻”的传播处境。",
+      "strength": "strong",
+      "relevantTo": "舆情：改编争议与网评"
+    },
+    {
+      "id": "ID061",
+      "characters": "众口铄金",
+      "connection": "首播后口碑两极、粉黑大战发酵，体现“众人之口足以改变观感与声势”的舆论力量。",
+      "strength": "strong",
+      "relevantTo": "舆情：口碑撕裂/舆论影响"
+    },
+    {
+      "id": "ID205",
+      "characters": "不胫而走",
+      "connection": "重逢名场面与“经典话语”短视频在平台快速扩散，符合内容“自己就传开”的传播特征。",
+      "strength": "medium",
+      "relevantTo": "传播：短视频出圈"
+    },
+    {
+      "id": "ID263",
+      "characters": "推波助澜",
+      "connection": "争议与剪辑二创共同放大热度：一边是“魔改”讨论，一边是CP向剪辑助推关注，形成热度加速器。",
+      "strength": "medium",
+      "relevantTo": "传播：争议与二创带动热度"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Never-Ending Summer (炽夏): 10 Chinese Idioms Every Second-Chance Romance Fan Should Know",
+      "slug": "never-ending-summer-idioms-second-chance-romance",
+      "angle": "X Chinese Idioms Every [Topic] Fan Should Know",
+      "theme": "Relationships & Character",
+      "description": "From a calculated approach to a decade-later workplace reunion, Never-Ending Summer (炽夏) is built on misunderstandings, pressure, and reconciliation. Learn 10 chengyu that map perfectly to Zhou Wan & Lu Xixiao’s story.",
+      "idiomIds": [
+        "ID861",
+        "ID007",
+        "ID448",
+        "ID254",
+        "ID150",
+        "ID478",
+        "ID705",
+        "ID490",
+        "ID443",
+        "ID445"
+      ],
+      "outline": [
+        "Quick spoiler-light setup: Zhou Wan’s money crisis for her grandmother’s surgery and why she targets Lu Xixiao.",
+        "Idiom-by-idiom plot mapping: from 迫在眉睫/捉襟见肘 (medical bills) to 身不由己 (choices forced by reality).",
+        "How the romance turns: 事与愿违 + 一波三折 as the “calculation → real love → breakup” arc.",
+        "Why the reunion hits: 触景生情 + 恍如隔世 in the adult workplace timeline and “跨越十年” marketing vibe.",
+        "The core promise of the genre: 破镜重圆—what it means, and what to watch for as episodes continue airing.",
+        "Mini study section: 3 example sentences per idiom (modern usage) + a “which episode moment it fits” guide (kept general to avoid misquoting unaired lines)."
+      ],
+      "keyFacts": [
+        "Currently airing 2026 modern/urban second-chance romance with youth + workplace dual timeline melodrama",
+        "Release date: 2026-06-16",
+        "Plot driver: Zhou Wan needs money for her grandmother’s surgery; her estranged mother refuses to help",
+        "She deliberately gets close to Lu Xixiao (rebellious stepson in her mother’s new family) with an ulterior motive, which becomes real love",
+        "They separate due to harsh reality + a misunderstanding, then reunite years later in the workplace",
+        "Marketing emphasizes a long separation (“跨越十年”); ending not yet aired—do not claim HE as fact"
+      ]
+    },
+    {
+      "title": "Never-Ending Summer Chinese Name & Character Names Explained: What 炽夏, 周挽, and 陆西骁 Really Mean",
+      "slug": "never-ending-summer-chinese-name-character-names-explained",
+      "angle": "Chinese Name & Character Names Explained (linguistic moat)",
+      "theme": "Wisdom & Learning",
+      "description": "Never-Ending Summer's Chinese title 炽夏 means \"blazing summer.\" Here's what the leads' names 周挽 and 陆西骁 reveal about the second-chance romance—character by character.",
+      "idiomIds": [
+        "ID268",
+        "ID874",
+        "ID051",
+        "ID005",
+        "ID426",
+        "ID357"
+      ],
+      "outline": [
+        "The title 炽夏 (Chì Xià): 炽 = blazing/ardent (as in 炽热), 夏 = summer—literal summer heat fused with burning passion; tie to the alias 西风向晚 and novel title 坠落.",
+        "Female lead 周挽 (Zhōu Wǎn): the given name 挽 means 'to pull back / draw back / salvage'—she literally tries to 挽 (save) her grandmother and the man she loves. Pair with 力挽狂澜 (turn the tide) and 忍辱负重 / 负重前行 for her burden-bearing resilience.",
+        "Male lead 陆西骁 (Lù Xīxiāo): 陆 'land', 西 'west' (echoes 西风向晚), 骁 'valiant / a spirited fierce steed' (as in 骁勇)—a wild, unbroken-horse type. Pair with 百折不挠 / 不屈不挠 for his unbroken spirit.",
+        "The 炽 ('blazing') thread: 飞蛾扑火 (moth to the flame) for an ardent-but-dangerous love that matches the scorching-summer title.",
+        "How Chinese given names encode character: a short primer on reading meaning into 汉字 names, using these three as worked examples.",
+        "Note: keep claims grounded—names and title meanings are linguistic facts; do not assert the unaired drama ending."
+      ],
+      "keyFacts": [
+        "Chinese title 炽夏 (Chì Xià) = blazing/scorching summer; aliases 西风向晚 (West Wind Toward Dusk) and 坠落 (The Fall, the source-novel title)",
+        "Female lead: 周挽 Zhōu Wǎn (played by Bao Shang'en); 挽 = pull back / salvage",
+        "Male lead: 陆西骁 Lù Xīxiāo (played by Daniel Zhou / Zhou Keyu); 骁 = valiant, spirited steed",
+        "Adapted from the web novel 坠落 by author 甜醋鱼 (Tián Cù Yú)",
+        "Premiered June 16, 2026 on Hunan TV + Mango TV; 29 episodes"
+      ]
+    },
+    {
+      "title": "Is Never-Ending Summer (炽夏) Based on a Novel? The Book 坠落, the '魔改' Backlash, and What Changed",
+      "slug": "never-ending-summer-based-on-novel-zhui-luo-mogai",
+      "angle": "Is it based on a novel — adaptation/controversy explainer",
+      "theme": "Life Philosophy",
+      "description": "Yes—Never-Ending Summer (炽夏) adapts the web novel 坠落 by 甜醋鱼. Here's the book-vs-drama gap, why fans cried '魔改' (botched adaptation), and what the controversy is really about.",
+      "idiomIds": [
+        "ID549",
+        "ID061",
+        "ID263",
+        "ID205",
+        "ID716",
+        "ID468",
+        "ID859"
+      ],
+      "outline": [
+        "Quick answer block (for the featured snippet): yes, 炽夏 is adapted from the web novel 坠落 (The Fall) by 甜醋鱼; the drama also carries the alias 西风向晚.",
+        "What '魔改' (mó gǎi, 'demonic rewrite') means and why novel fans used it: day-one trending backlash, complaints the plot diverges sharply from the book. Pair with 众矢之的 (target of all arrows) and 众口铄金 (public opinion can melt metal).",
+        "Known book-vs-drama differences to flag carefully: separation length (novel ~7 years vs marketing '跨越十年'/ten years); the calculation-to-real-love setup 弄假成真 and how adaptations reshape motive.",
+        "How the controversy spread: 不胫而走 (spreads without legs) via Douyin clips; 推波助澜 (making waves) as CP edits and reaction videos amplified heat.",
+        "The polarized reception: strong launch ratings AND a reputation crash—both true. Hold judgment until 水落石出 (the truth surfaces) / 拨云见日 (clouds part) as more episodes air.",
+        "Note: the on-screen ending has NOT aired; the novel is a happy ending (ch. 264) but do not claim the drama matches it."
+      ],
+      "keyFacts": [
+        "Source novel: 坠落 (The Fall) by 甜醋鱼 (Tián Cù Yú)",
+        "Day-one '炽夏魔改' trending backlash from novel fans (Tencent News, June 19, 2026)",
+        "Separation-length discrepancy: novel ~7 years vs drama marketing 'ten years' (跨越十年)",
+        "Reception is polarized: #1 launch ratings + 30M concurrent viewers, but a 'reputation crash' narrative",
+        "Ending not yet aired as of June 26, 2026; novel ending is HE but drama may diverge"
+      ]
+    },
+    {
+      "title": "Learn Chinese Watching Never-Ending Summer (炽夏): Title Meanings, Vocabulary, and 6 Chengyu for a Love That Won't Let Go",
+      "slug": "never-ending-summer-learn-chinese-vocabulary-chengyu",
+      "angle": "Learn Chinese Watching [Topic]",
+      "theme": "Wisdom & Learning",
+      "description": "Turn Never-Ending Summer (炽夏) into a Chinese lesson: decode the title and aliases, build a romance-drama vocabulary list, and learn 6 chengyu for love, longing, and memory.",
+      "idiomIds": [
+        "ID183",
+        "ID335",
+        "ID531",
+        "ID611",
+        "ID494",
+        "ID102"
+      ],
+      "outline": [
+        "Why a dual-timeline romance is great listening practice: clear modern dialogue, repeated emotional vocabulary, daily episodes on Mango TV/iQIYI with subs.",
+        "Decode the on-screen Chinese: 炽夏 (blazing summer), 西风向晚, 坠落—turn the title screen into your first flashcards.",
+        "Romance-drama vocabulary set: 重逢 (reunion), 误会 (misunderstanding), 心动 (heartbeat/falling for someone), 和解 (reconciliation), 暗恋 (secret crush)—words you'll hear every episode.",
+        "6 chengyu for love that won't let go: 刻骨铭心 (carved in bone), 沧海桑田 (seas to mulberry fields / vast change), 心心相印 (hearts in tune), 魂牵梦萦 (haunting the dreams), 依依不舍 (reluctant to part), 雪中送炭 (coal in snow / help when most needed).",
+        "Study method: shadowing reunion scenes, and a note to learn idioms from how characters behave—not from quotes you can't yet verify on-screen.",
+        "Cross-link to the idioms listicle and the name-meanings article for deeper dives."
+      ],
+      "keyFacts": [
+        "Currently-airing 2026 modern romance; daily episodes with subtitles—good for listening practice",
+        "Chinese title 炽夏 = blazing summer; aliases 西风向晚 and 坠落",
+        "Leads: Zhou Wan (周挽) and Lu Xixiao (陆西骁)",
+        "Dual timeline: youth romance + adult workplace reunion"
+      ]
+    }
+  ]
+}

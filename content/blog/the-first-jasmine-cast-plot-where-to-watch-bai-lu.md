@@ -6,10 +6,10 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Strategy & Action"
-description: "When does The First Jasmine (莫离) release? Bai Lu's 2026 period revenge-romance premieres June 9 on Tencent/WeTV. Full cast, plot, where to watch, and the novel it's adapted from."
+description: "The First Jasmine (莫离) — Bai Lu's 2026 period revenge-romance that aired June 9–28 on Tencent/WeTV. Full cast, plot, where to watch, the novel it's adapted from, and how it ends."
 ---
 
-**The First Jasmine (莫离)** is one of the most anticipated Chinese drama premieres of 2026 — a period revenge-romance led by **Bai Lu (白鹿)**, with reservations on Tencent already past **4 million** before a single episode aired. Here's everything that's actually confirmed: cast, premise, where to watch, and the novel behind it. (The drama premieres June 9, 2026, so this guide sticks to the official synopsis — no spoilers, because there aren't any yet.)
+**The First Jasmine (莫离)** was one of the most anticipated Chinese dramas of 2026 — a period revenge-romance led by **Bai Lu (白鹿)**, with reservations on Tencent past **4 million** before a single episode aired. It ran 40 episodes, airing June 9–28, 2026. Here's everything confirmed: cast, premise, where to watch, and the novel behind it. (This guide stays spoiler-light on the plot; for how it resolves, see our [ending explained](/blog/the-first-jasmine-ending-explained-happy-or-sad-ye-li-mo-xiuyao).)
 
 ---
 
@@ -60,7 +60,7 @@ Her new husband is no simple invalid, either — Mo Xiuyao nurses **a revenge pl
 
 ## Where to Watch
 
-*The First Jasmine* streams on **Tencent Video** in mainland China, with international distribution via **WeTV** (English subtitles) and **Disney+** in select regions, starting **June 9, 2026**, releasing on a daily schedule.
+*The First Jasmine* streamed on **Tencent Video** in mainland China, with international distribution via **WeTV** (English subtitles) and **Disney+** in select regions. It premiered **June 9, 2026** on a daily schedule and ran 40 episodes through its **June 28** finale.
 
 ---
 

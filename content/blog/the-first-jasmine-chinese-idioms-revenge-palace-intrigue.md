@@ -11,7 +11,7 @@ description: "Bai Lu's The First Jasmine (莫离) is built on revenge, hidden st
 
 **The First Jasmine (莫离)** runs on a set of themes Chinese audiences know in their bones: a wronged heroine biding her time, a fallen "war god" prince, an alliance forged in suspicion, and a palace full of knives behind smiles. Chinese has a precise idiom (chengyu) for every one of those beats. Here are nine that map onto the drama's premise — useful whether you're learning the language or just want to read the story the way a Chinese viewer does.
 
-*(The drama premieres June 9, 2026, so these idioms describe its setup and archetypes — drawn from the official synopsis — not specific scenes or the ending.)* For cast and plot, see our [full guide](/blog/the-first-jasmine-cast-plot-where-to-watch-bai-lu).
+*(These idioms describe the drama's setup and archetypes. The 40-episode drama finished airing June 28, 2026 — for how it resolves, see our [ending explained](/blog/the-first-jasmine-ending-explained-happy-or-sad-ye-li-mo-xiuyao).)* For cast and plot, see our [full guide](/blog/the-first-jasmine-cast-plot-where-to-watch-bai-lu).
 
 ---
 
