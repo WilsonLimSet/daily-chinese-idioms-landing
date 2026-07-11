@@ -1,141 +1,118 @@
 ---
-title: "《黑神话：钟馗》背后的真实传说：从唐玄宗梦到捉鬼之神"
+title: "The Real Legend Behind Black Myth: Zhong Kui (钟馗) — From Emperor Xuanzong's Dream to the God Who Catches Ghosts"
 date: "2026-06-06"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Wisdom & Learning"
-description: "Who is Zhong Kui in real folklore? Trace the Tang-dynasty dream legend, exam tragedy, and Wu Daozi painting tradition—plus the idioms that best capture how the myth evolved over time."
----
-《黑神话：钟馗》还在非常早期的阶段，官方并未公布任何“已确认”的剧情细节。我们目前唯一能稳稳抓住的，是发布会上的一句定位：主角是钟馗——“在地狱与人间游走的捉鬼之神”。除此之外，Game Science 在 2026 年春节发布过一段约 6 分钟的引擎内特别短片，但官方已明确标注**非正史、仅供娱乐**，因此其中出现的任何人物关系、情节走向都不能当作游戏剧情的依据。
-
-这反而给了钟馗一个更适合被讨论的位置：不是“新作会怎么改编”，而是“这个角色为何能被一再改编”。钟馗的魅力不在于他来自某一部单一文本，而在于他天然站在一组永不过时的张力中——**正与邪、审判与救赎、相貌与才德、阳间与阴司**。当 Game Science 在《黑神话：悟空》之后选择他作为“黑神话”系列的下一位主角，这个选择不是随意换皮，而像是把一条早已存在的文化暗流，推到现代媒介的明面上。
-
-在 Gamescom Opening Night Live 的压轴亮相中，主持人 Geoff Keighley 把这张牌翻开；而 Game Science 的负责人冯骥则把它放进一个更大的框架：在《悟空》的成功之后，团队希望做一个**更大胆的全新标题**——不是续作，不是“同一套叙事再跑一遍”，而是继续从中国神怪与民间信仰里，找到能支撑动作 RPG 的神话骨架。
-
-钟馗的传说线索繁多，版本互相缠绕。要读懂他，最好的办法不是追求“唯一正确的故事”，而是把每条线索的来处、用途与象征意义理清：他为何成为捉鬼者？为何他的画像能镇宅？为何唐玄宗的梦会变成民间共同记忆？为何“钟馗”这两个字甚至可能不是“一个人的名字”而是“驱鬼工具”的音转？这些问题，正适合用成语的方式来拆解——成语是汉语里最短的历史记忆单元，四个字就能把一段文化心理钉在原地。
-
+description: "Who is Zhong Kui in real folklore? Trace the Tang-dynasty dream legend, the exam tragedy, and the Wu Daozi painting tradition behind Black Myth: Zhong Kui — plus the idioms that capture how the myth evolved."
 ---
 
-## [源远流长](/blog/yuan-yuan-liu-chang) (yuán yuǎn liú cháng) — “deep roots, long flow”
+*Black Myth: Zhong Kui* is still at a very early stage, and Game Science has confirmed **no story details** at all. The one thing we can hold onto is the single line from its reveal: the protagonist is Zhong Kui — "**the ghost-catching god who moves between hell and the human world.**" Beyond that, Game Science released a roughly six-minute in-engine special during Chinese New Year 2026, but it explicitly labeled it **non-canon, "for entertainment only,"** so no character relationship or plot beat in it can be treated as the game's story.
+
+That actually puts Zhong Kui in the more interesting position to write about: not "how will the new game adapt him," but "**why has this character been adapted again and again?**" Zhong Kui's power doesn't come from a single text. It comes from the fact that he stands inside a set of tensions that never go out of date — **good and evil, judgment and redemption, appearance versus worth, the living world and the underworld.** When Game Science chose him as the next protagonist of the "Black Myth" series after *Wukong*, it wasn't a cosmetic reskin; it was like pushing an old cultural undercurrent up to the visible surface of a modern medium.
+
+At the finale of Gamescom Opening Night Live, host Geoff Keighley turned the card over; Game Science's Feng Ji placed it in a bigger frame: after *Wukong*'s success, the team wanted a **bolder, entirely new title** — not a sequel, not "the same story run again," but another mythic skeleton drawn from Chinese gods and folk belief that could carry an action RPG.
+
+Zhong Kui's legend is a tangle of overlapping versions. The best way to understand him is not to hunt for the "one true story," but to sort out where each thread comes from, what it does, and what it symbolizes: Why did he become a ghost-catcher? Why can his portrait guard a house? Why did an emperor's dream become shared folk memory? Why might "Zhong Kui" not even be a person's name, but the sound-shift of an exorcist's tool? These questions are perfect for idioms — the shortest units of historical memory in Chinese, four characters that pin a whole cultural psychology in place.
+
+---
+
+## [源远流长](/blog/yuan-yuan-liu-chang) (yuán yuǎn liú cháng) — "deep source, long flow"
 
 **Meaning:** A tradition with distant origins and lasting influence.
 
-**Origin:** “源远流长”用河流作比：源头越远，水流越长。它并非指某一个孤立事件，而是一种儒家式的历史观与文化观——重视“传承不断”的力量。在经学与史学的评论语境里，人们常用类似的比喻称赞礼乐制度、学术谱系或文明传统：不只古老，而且能穿越时代继续发挥作用。它强调的是“连续性”，而不是“博物馆式的陈列”。
+**Origin:** 源远流长 uses a river as its image: the farther the source, the longer the flow. It doesn't describe a single isolated event but a Confucian-flavored view of history and culture that prizes unbroken transmission. In classical scholarship it praises institutions, intellectual lineages, or a civilization's traditions as not merely ancient but still working across the ages. The stress is on *continuity*, not museum display.
 
-**Connection:** 钟馗信仰最适合用“源远流长”来形容，因为他的存在方式从来不是“单一经典”而是“多介质流动”：唐代的帝王梦（唐玄宗梦中见鬼）、宫廷绘画的权威背书（吴道子奉诏作画的传统叙述）、民间的年画（年画里钟馗镇宅）、节令习俗（端午时驱邪避凶也会挂钟馗像）、戏曲与傩仪（傩 *nuó* 与跳钟馗 tiào Zhōng Kuí 的活态表演）……这些层层叠加，让钟馗从“故事人物”变成“可使用的神”。他不是只被阅读，而是被张贴、被悬挂、被舞出来、被请进门槛的位置——作为门神（门神 mén shén）或镇宅符号（镇宅 zhèn zhái），他的“长流”靠的是日常生活的重复。
+**Connection:** Zhong Kui belief is the perfect thing to call 源远流长, because he has never existed as "one classic text" but as a *multi-media current*: a Tang emperor's dream, the authority of court painting (Wu Daozi's supposed imperial commission), folk New Year prints (年画) that hang him on the wall, seasonal customs (his image is hung at Duanwu to drive off evil), and living performances in opera and the exorcistic *nuo* (傩) tradition. Layer on layer, these turned Zhong Kui from a "story character" into a *usable god* — not only read, but pasted up, hung, danced, and installed at the threshold. As a door-god (门神) and house-warding symbol (镇宅), his "long flow" is powered by the repetition of daily life. Bring that back to the game and you see its cultural confidence: the reveal only confirmed that Zhong Kui "moves between hell and the human world," but that phrase already names his core historical function — a cross-boundary enforcer who knows the underworld's rules and handles the living world's fears.
 
-把这一点放回《黑神话：钟馗》，就能看出它的文化底气：游戏目前只确认“钟馗在地狱与人间游走”，但这句话本身已经把钟馗最核心的历史功能点出来——他一直是跨界的执行者：既懂阴司的规矩，也处理阳间的恐惧。动作 RPG 需要一个能合理“战斗”的主角，而钟馗的“捉鬼（捉鬼 zhuō guǐ）、打鬼/驱鬼（打鬼/驱鬼 dǎ guǐ / qū guǐ）”正是他的本职，不必硬造动机。
-
-**Use it:** 当你想强调某个习俗、信仰或文化符号“不只是古老，而且一直在被使用”，用“源远流长”。
+**Use it:** When you want to stress that a custom, belief, or cultural symbol is "not just old, but continuously in use," reach for 源远流长.
 
 ---
 
-## [追本溯源](/blog/zhui-ben-su-yuan) (zhuī běn sù yuán) — “trace to the root”
+## [追本溯源](/blog/zhui-ben-su-yuan) (zhuī běn sù yuán) — "trace to the root and source"
 
-**Meaning:** To investigate origins; to trace something back to its source.
+**Meaning:** To investigate origins; to trace something back to where it began.
 
-**Origin:** “追本溯源”带着宋代以来的治学气质：追“本”（根本、根由），溯“源”（源头、来处）。它与史学传统的因果追索相通，也与理学格物的路径相通——理解一个现象，不从表象停步，而要把它放回生成它的历史脉络。这个成语常用于学术研究、问题分析与思想辨源：不是“知道是什么”，而是“知道为什么会这样”。
+**Origin:** 追本溯源 carries the scholarly temperament of the Song dynasty onward: to chase the 本 (root, cause) and trace the 源 (source, origin). It aligns with the historian's search for causes and the Neo-Confucian "investigation of things" — you understand a phenomenon not by stopping at its surface but by returning it to the history that produced it.
 
-**Connection:** 钟馗最耐人寻味之处，正是“追本溯源”会把你带进多个源头，而不是一个源头。民间最流行的核心传奇是：钟馗出身终南山（终南山 Zhōngnán Shān），才华横溢，在科举（科举 kē jǔ）中夺得状元（状元 zhuàng yuán）却因相貌丑陋被皇帝剥夺名次；他愤而以头撞宫阶（或宫门）自尽；死后被阎王/阎罗王（阎王/阎罗王 Yán Wáng / Yánluó Wáng）或玉皇等任命为“鬼王”或“判鬼之神”，专司捉鬼、降妖除魔（妖 yāo / 魔 mó）。
+**Connection:** What makes Zhong Kui fascinating is that 追本溯源 leads you to *several* sources, not one. The most popular core legend: Zhong Kui was a brilliant scholar from the Zhongnan Mountains who won first place (状元) in the imperial exam (科举), only to be stripped of the rank by the emperor because he was ugly; enraged, he took his own life by dashing his head against the palace steps; after death he was appointed by the King of the Underworld (阎王) as a "ghost king" and judge, tasked with catching ghosts and subduing demons. But an equally famous "source" is **Emperor Xuanzong of Tang's** (唐玄宗) fever-dream: a small ghost steals Consort Yang's scented pouch and the emperor's jade flute, a large ghost seizes the small one, gouges out its eyes and devours it, then announces himself as Zhong Kui of the Zhongnan Mountains, who died over his exam failure and vowed to rid the sovereign of demons. The emperor wakes cured — and that "dream-to-recovery" structure turns Zhong Kui from "wronged ghost" into "realm-protecting exorcist."
 
-但另一条同样著名的“源”是唐玄宗（唐玄宗 Táng Xuánzōng）的病中梦：梦里小鬼偷走杨贵妃的香囊/香袋与皇帝的玉笛，大鬼抓住小鬼，剜眼吞食；大鬼自报家门，说自己是终南山钟馗，生前因科举失意而撞阶而死，誓为天子除妖魔鬼怪（妖魔鬼怪 yāo mó guǐ guài）。皇帝醒来病愈，这个“梦—痊愈”的结构，让钟馗从“冤魂”变成“护国驱邪”的灵验叙事。
+A deeper trace hits a more scholarly fork: Shen Kuo's *Dream Pool Essays*, and later Yang Shen and Gu Yanwu, proposed that "Zhong Kui" (钟馗) may be a sound-shift of **终葵 (zhōngkuí)** — an ancient mallet-like ritual implement used to drive out ghosts. The tool's name may have preceded the personified god. These must be presented as *unsettled scholarly theory*, but they remind us Zhong Kui may be the crystallization of an ancient exorcism *technology* in the process of becoming a person.
 
-更进一步的追溯，会遇到一个更“学术”的岔路：沈括《梦溪笔谈》、杨慎、顾炎武《日知录》等学者提出，“钟馗”可能是“终葵（zhōngkuí）”的音转——终葵指古代驱鬼用的椎/槌一类仪式器具，工具的名字先于人格神的出现。李时珍又曾把“钟馗”与一种菌类联系起来。这些都必须以“学者理论、未定论”来呈现，但它提醒我们：钟馗不只是一个“角色”，也可能是古老驱邪技术在人格化过程中的结晶。
-
-把这种“多源”意识带回游戏话题，就能更谨慎：既然官方尚未公布剧情，任何“它会采用哪个版本”的断言都站不住；更可靠的写法，是承认钟馗本来就允许多版本并存，而现代改编往往会从这些源头中抽取最适合当代叙事的那一支。
-
-**Use it:** 当你面对一个看似“理所当然”的文化符号（名字、习俗、神祇），想把它的来历与演变讲清楚，用“追本溯源”。
+**Use it:** When you face a seemingly self-evident cultural symbol — a name, a custom, a deity — and want to lay out its real origins and evolution, use 追本溯源.
 
 ---
 
-## [来龙去脉](/blog/lai-long-qu-mai) (lái lóng qù mài) — “the full context”
+## [来龙去脉](/blog/lai-long-qu-mai) (lái lóng qù mài) — "the dragon's coming, the vein's going"
 
-**Meaning:** The whole story—how something starts, develops, and connects.
+**Meaning:** The whole story — how something begins, develops, and connects.
 
-**Origin:** “来龙去脉”原本是风水堪舆术语：龙指山势的来向，脉指余势的分布。看地形要看“龙从何来、脉往何去”，才能判断气势走向。后来它被借用到叙事与论证中：要把一件事说清楚，不能只截取一个片段，而要交代它的前因后果、关联线索与发展过程。
+**Origin:** 来龙去脉 began as *fengshui* geomancy jargon: 龙 (dragon) is the direction a mountain range comes from, 脉 (vein) the way its energy disperses. To read terrain you trace where the "dragon" comes from and where the "vein" goes. Later it was borrowed into narrative and argument: to explain something clearly you can't lift out one fragment; you account for cause and effect, the connecting threads, the whole process.
 
-**Connection:** 钟馗的“来龙去脉”恰恰由几个关键节点组成，每个节点都解释了他为何能成为“捉鬼之神”，而不仅是“可怕的鬼”：
+**Connection:** Zhong Kui's "coming and going" is built from a few key nodes, each explaining why he became a *ghost-catching god* rather than just a *terrifying ghost*:
 
-1) **科举与相貌的冲突**：钟馗被设定为“才学极高却相貌丑陋”的读书人。科举是帝国选才制度的核心，状元是最高荣誉；而“因丑而夺名”把制度公正撕开一道口子。这个节点让钟馗的愤怒有了道德重量：他不是无端作恶，而是被不义逼到绝境。
+1. **The clash of talent and appearance.** Zhong Kui is cast as a scholar of extreme learning but ugly features. The exam was the core of imperial talent selection, and the top rank its highest honor; "losing the rank for ugliness" tears a hole in the system's fairness. This gives his rage moral weight — he doesn't turn evil for no reason; injustice drives him to the edge.
 
-2) **以死明志与阴司任命**：撞阶而死（或撞门而死）是一个极端的“自证”。在后续叙事里，阴司/天庭任命他为鬼王或裁判者，使他的怨气转化为秩序的一部分：他不再是“报复人间”，而是“审判妖魔”。这一步把私人悲剧升级为公共正义。
+2. **Death as proof, then underworld appointment.** Dashing his head against the steps is an extreme act of self-vindication. In later tellings the underworld appoints him ghost-king or judge, converting his grievance into part of the *order*: no longer avenging himself on the living, but judging demons. Private tragedy is upgraded into public justice.
 
-3) **唐玄宗梦与灵验传播**：梦中小鬼偷香囊与玉笛，大鬼吞食小鬼，皇帝醒来病愈——这个结构非常适合在民间传播，因为它把“看不见的邪祟”具体化：偷走香囊、偷走玉笛，等于偷走香气、偷走礼乐与秩序；而钟馗吞鬼则是把秩序夺回。帝王痊愈又提供了“权威认证”。
+3. **Xuanzong's dream and the spread of efficacy.** The stolen pouch and flute, the big ghost devouring the small one, the emperor waking cured — a structure ideal for folk transmission, because it makes the invisible concrete: steal the scent and the music, and you steal order itself; Zhong Kui devouring the ghost is order seized back. Imperial recovery supplies "authoritative certification."
 
-4) **吴道子画像与镇宅机制**：唐玄宗命吴道子（吴道子 Wú Dàozǐ）画钟馗的传统说法，虽然原作已失、归属也属于传统叙述而非考古证据，但它解释了一个关键机制：钟馗如何从“梦中见过的鬼神”变成“家家户户可挂的画像”。画像被复制、分发、悬挂，钟馗变成护符（talisman）的视觉化存在：鬼见其像而退。
+4. **Wu Daozi's portrait and the house-warding mechanism.** The tradition that Xuanzong ordered **Wu Daozi (吴道子)** to paint Zhong Kui — original lost, attribution traditional rather than archaeological — explains a crucial step: how Zhong Kui went from "a spirit seen in a dream" to "an image every household can hang." Copied, distributed, and posted, the portrait becomes a talisman: ghosts see the face and retreat.
 
-这条“来龙去脉”也能帮助理解为何《黑神话：钟馗》适合做动作 RPG：钟馗的身份天然包含“跨界巡行（地狱与人间）”与“执行惩戒（捉鬼、降妖）”。在公布具体系统之前，我们至少知道：他不是被硬塞进战斗框架，而是战斗本就写在他的职能里。
+That "coming and going" also explains why *Black Myth: Zhong Kui* suits an action RPG: his identity already contains cross-boundary patrol (hell and the human world) and the execution of punishment (catching ghosts, subduing demons). Before any systems are revealed, we at least know combat is written into his job. For more on how a terrifying face becomes a blessing, read [why the house-warding door-god matters — Duanwu, New Year prints, and the five-blessings bats](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter).
 
-想延伸到钟馗作为门神、镇宅符号、端午与年画传统，可以顺手读同系列文章：[《黑神话：钟馗》里的“镇宅门神”为什么重要：端午、年画与五福蝙蝠](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter)。那篇更集中讲“为何一张可怕的脸反而带来福”。
-
-**Use it:** 当你要解释一个人物/传说为何能成立，别只讲“一个版本”；用“来龙去脉”把关键节点串成因果链。
+**Use it:** When you need to explain why a figure or legend holds together, don't tell just one version — use 来龙去脉 to string the key nodes into a chain of cause and effect.
 
 ---
 
-## [以貌取人](/blog/yi-mao-qu-ren) (yǐ mào qǔ rén) — “judge by appearance”
+## [以貌取人](/blog/yi-mao-qu-ren) (yǐ mào qǔ rén) — "judge a person by appearance"
 
-**Meaning:** To evaluate people based on looks rather than substance.
+**Meaning:** To evaluate people on looks rather than substance.
 
-**Origin:** “以貌取人”常被追溯到《史记》中关于孔子弟子的记述：孔子曾因外貌与言辞对人抱有不同预期，后来发现判断失准，于是形成“不可只凭外貌取人”的训诫。这个成语的力量在于它并不否认外貌会影响第一印象，而是强调：把第一印象当作最终裁决，会造成制度性误判。
+**Origin:** 以貌取人 is often traced to the *Records of the Grand Historian*, where Confucius admits he once misjudged disciples by their looks and speech, and forms the lesson: don't take people by appearance alone. Its force is that it doesn't deny appearance shapes first impressions — it warns that treating the first impression as the final verdict causes *systemic* misjudgment.
 
-**Connection:** 钟馗的核心悲剧，几乎就是“以貌取人”的寓言被写成血书：他在某些流行版本里本是状元，却因“相貌丑陋”被皇帝剥夺名次。这不是普通的求职受挫，而是帝国最高选拔制度在最后一刻被审美偏见劫持——才学被承认，面容却成了否决票。钟馗因此撞阶而死，后来又被阴司任命为捉鬼之神：讽刺在于，他死后终于穿上了那身“官帽官袍”的神职形象——生前被拒绝的体面，在死后以更暴烈的方式归来。
+**Connection:** Zhong Kui's central tragedy is almost this idiom written in blood: in the popular version he is the exam's top scholar, stripped of rank because he is ugly. Not an ordinary career setback, but the empire's highest selection process hijacked at the last moment by aesthetic bias — his learning acknowledged, his face the deciding veto. He dies on the steps, and is later appointed a ghost-catching god: the irony is that in death he finally wears the "official cap and robe" of a divine office — the dignity denied him in life returns in a more violent form. The dream version reinforces it: the dreamed Zhong Kui is "in an official cap, blue robe, ragged and fierce," calling himself a failed exam candidate. Here his ugliness and ferocity become the very *conditions* for exorcism: he must be frightening so that ghosts fear him. Folk culture converts "ugly" into "awesome," the mocked face into the house-warding face — a reversal of value: since the living world rejected you for your looks, the underworld makes your looks your weapon.
 
-唐玄宗梦的版本也强化了这一点：梦中钟馗“穿官帽、衣青袍、破碎而凶猛”，他自称是科举失意者。钟馗的丑与凶在这里反而成为“驱邪的必要条件”：他必须可怕，才能让鬼怕他。民间把“丑”转化为“威”，把“被嘲的面貌”转化为“镇宅的面貌”，这是一种价值反转：既然人间用外貌否定你，阴司就让外貌成为你的武器。
-
-放到游戏语境，这个主题非常锋利：动作 RPG 的主角往往被塑造成“英雄相”，但钟馗的传统形象偏偏是“丑、怒、须髯、目凸、气势压人”。如果《黑神话：钟馗》保留这种形象张力，它讲的就不只是打怪，而是对“审美即正义”的反击：一个被外貌判死刑的人，最终成为审判外貌偏见的神。
-
-**Use it:** 当你想批评一种“看起来合理、其实偷懒”的评价方式——只凭外表、出身、标签下结论——用“以貌取人”。
+**Use it:** When you want to criticize a lazy-but-plausible way of evaluating — judging by looks, background, or labels — use 以貌取人.
 
 ---
 
-## [事与愿违](/blog/shi-yu-yuan-wei) (shì yǔ yuàn wéi) — “things go against one’s wishes”
+## [事与愿违](/blog/shi-yu-yuan-wei) (shì yǔ yuàn wéi) — "things run counter to one's wishes"
 
-**Meaning:** Reality turns out contrary to what one hoped for.
+**Meaning:** Reality turns out contrary to what one hoped.
 
-**Origin:** “事与愿违”表达的是古典诗歌与人生经验里常见的落差感：人有愿望、有计划，但世事自有其走向。它在唐代诗歌语境中常被用来写失意与挫败：并非不努力，而是结果偏偏反向而来。它也与更深的哲学态度相关：承认人力有限，承认命运与制度的不可控。
+**Origin:** 事与愿违 expresses a gap familiar in classical poetry and lived experience: people have wishes and plans, but the world goes its own way. In Tang poetry it often writes disappointment — not for lack of effort, but because the result runs the other way. It connects to a deeper stance too: acknowledging the limits of human power against fate and circumstance.
 
-**Connection:** 钟馗传说最扎心的地方，不是他“死后成神”，而是他“本可以不必死”。如果按最广为人知的版本，他已经是状元——人生愿望几乎抵达顶点；但最后一刻因外貌被夺名，愿望的实现被硬生生扭转，这就是最极端的“事与愿违”。他不是失败在能力，而是失败在权力者的偏见。于是他用撞阶自尽把这种落差推到不可回头的地步：愿望落空不是结局，死亡才是他对落空的回应。
+**Connection:** The most cutting thing about Zhong Kui's legend isn't that he "becomes a god after death" — it's that he *needn't have died at all*. In the best-known version he is already the top scholar, his life's wish nearly at its summit; then, at the final moment, the rank is torn away over his appearance. The fulfillment of the wish is violently reversed — the most extreme 事与愿违. He fails not in ability but at the prejudice of the powerful, and answers the gap with death. Xuanzong's dream writes the same idiom from the other side: the gravely ill emperor, who "should" be beyond medicine, wakes recovered — events swing the opposite way. Folk narrative loves this reversal because it offers hope: when reality has no solution, a spirit intervenes and flips the ending. So Zhong Kui is not only a figure of horror but a possibility of "turning misfortune to safety."
 
-唐玄宗梦的结构同样写“事与愿违”，只是换了角度：皇帝病重，本应“药石罔效”，却在梦醒后痊愈——事情朝着相反方向走。民间叙事喜欢这种反转，因为它提供希望：当现实无解时，神灵介入让结局翻盘。钟馗因此不仅是“恐怖形象”，也是“转厄为安”的可能性。
-
-把这种情绪带回到《黑神话：钟馗》的现实层面，也能读出冯骥所说“做全新标题”的风险：成功之后选择新主角、新神话，未必顺风顺水。游戏开发本身就常常事与愿违——创作愿景与技术、周期、资源之间总有冲突。官方目前只给出“地狱与人间游走的捉鬼之神”这一句定位，某种意义上也是在控制预期：不许诺剧情、不许诺系统，让愿望先收束，避免过早被现实打脸。
-
-**Use it:** 当你要描述“并非没努力，但结果偏偏反过来”的挫折感，用“事与愿违”。
+**Use it:** To describe the frustration of "I did try, but it turned out the opposite," use 事与愿违.
 
 ---
 
-## [众矢之的](/blog/zhong-shi-zhi-di) (zhòng shǐ zhī dì) — “target of many arrows”
+## [众矢之的](/blog/zhong-shi-zhi-di) (zhòng shǐ zhī dì) — "the target of many arrows"
 
 **Meaning:** The focus of widespread criticism, attack, or hostility.
 
-**Origin:** “众矢之的”字面是一群箭都射向同一个靶心（的）。在古代语境里，它常用来形容一个人在群体攻击中被集中火力：不一定因为他最有罪，而可能因为他最显眼、最方便被指责。这个成语因此带着一种政治与社会心理学意味：群体需要一个焦点来释放情绪，于是把复杂矛盾压缩到一个人身上。
+**Origin:** 众矢之的 is literally a crowd of arrows all aimed at one bullseye (的). In classical usage it describes a person taking concentrated fire from a group — not necessarily the most guilty, but the most *conspicuous*, the most convenient to blame. It carries a note of political and social psychology: a group needs a focal point to release its feelings, so it compresses a complex conflict onto one person.
 
-**Connection:** 钟馗的“众矢之的”，发生在他最接近成功的时刻。科举殿试的终点本应是荣耀，却在“相貌”问题上变成公开羞辱：当权者的目光、旁观者的议论、制度的冷漠，都可能在那一刻汇成“万箭齐发”。传说用“丑”作为触发点，非常残酷——因为“丑”无法辩护，无法申诉，甚至无法通过努力改变；它让钟馗在权力结构里成为天然的靶子。
+**Connection:** Zhong Kui becomes a "target of many arrows" at the very moment he is closest to success. The end of the palace exam should be glory; over the question of "appearance" it becomes public humiliation — the rulers' gaze, the onlookers' talk, the system's indifference all converging into a volley. Using "ugliness" as the trigger is especially cruel, because ugliness can't be argued, appealed, or fixed by effort; it makes Zhong Kui a natural target inside the power structure. More subtly, becoming a ghost-catching god reverses the pattern: now *he* makes demons the target. The small ghost that stole the pouch and flute is seized, blinded, devoured — turned from thief into the focus of punishment. The narrative completes a psychological compensation: the man once collectively humiliated becomes, after death, the executor of collective fear; the "target" who had no way to appeal becomes the archer who sets the rules for the human world.
 
-更微妙的是，钟馗后来成为捉鬼神，也在另一层面上成为“众矢之的”的反转：他开始让妖魔鬼怪成为靶子。梦中那只小鬼偷走杨贵妃香囊与皇帝玉笛，被钟馗抓住、剜眼、吞食——它从“偷窃者”变成被惩戒的焦点。民间叙事在这里完成一种心理补偿：曾经被集体羞辱的人，死后成为集体恐惧的执行者；曾经无处申冤的“靶子”，变成了替人间立规矩的“弓箭手”。
-
-对动作 RPG 来说，这种结构非常“可玩”：钟馗不是漫无目的地杀怪，而是以“审判者”的身份把恶灵定为靶心。官方目前只确认他游走于地狱与人间，但“游走”意味着巡狩与缉捕——目标明确、对象成群。即使我们不能推测具体怪物与关卡，也能确定叙事气质：钟馗不是被动受害者，而是主动执法者。
-
-**Use it:** 当你要形容某个人/某个群体被集中指责或攻击，成为所有矛盾的出气口，用“众矢之的”。
+**Use it:** When one person or group is singled out for concentrated blame — made the outlet for every tension — use 众矢之的.
 
 ---
 
-## [厚积薄发](/blog/hou-ji-bo-fa) (hòu jī bó fā) — “accumulate deeply, release sharply”
+## [厚积薄发](/blog/hou-ji-bo-fa) (hòu jī bó fā) — "accumulate thickly, release sparingly"
 
-**Meaning:** Long preparation leads to a powerful, seemingly effortless breakthrough.
+**Meaning:** Long preparation produces a powerful, seemingly effortless breakthrough.
 
-**Origin:** “厚积薄发”常被用来形容文学与学术的成就路径：先长期积累（厚积），后集中爆发（薄发）。它与唐宋以来的文论气质相合——反对急就章，强调功夫在诗外。后世常用杜甫等诗人的经历来说明：真正的爆发并非凭空出现，而是长期沉潜后的必然喷涌。它也契合宋代理学的“渐修”观：积累不是拖延，而是把根基打厚。
+**Origin:** 厚积薄发 describes the path of literary and scholarly achievement: long accumulation (厚积) first, concentrated release (薄发) after. It fits the literary temperament from the Tang–Song era — against the hasty piece, insisting the real work happens "outside the poem." Later writers used poets like Du Fu to illustrate it: a true outpouring isn't spontaneous; it's the inevitable eruption after long, quiet accumulation.
 
-**Connection:** 钟馗的“厚积薄发”，可以从两个层面看。
+**Connection:** Zhong Kui's 厚积薄发 works on two levels. Inside the legend: his living "accumulation" is learning and ambition — Zhongnan scholar, exam laureate (or, in the other version, exam failure), always cast as a man of study, will, and rectitude. But his "release" comes not as an official career in life but as a divine office after death: ghost-king, ghost-catching god, underworld judge. The eruption is tragic yet carries classical narrative's compensating logic: the justice you can't get in the human world may be honored within a larger order. On the cultural-media time scale: the Zhong Kui image accumulated through Tang stories, the Wu Daozi painting tradition, New Year prints, Duanwu exorcism, *nuo* dances, and operas like *Zhong Kui Marries Off His Sister* (钟馗嫁妹) — where he returns to repay the friend who buried him, and "marrying off the sister" (嫁妹) puns on "sending off the demon" (嫁魅). That accumulation is exactly why his arrival in a modern game feels natural rather than arbitrary. Feng Ji framing this as a "brand-new title" after *Wukong* is the modern version of 厚积薄发: not living off a familiar hero, but turning accumulated production experience into a new point of eruption.
 
-第一层是传说内部：钟馗生前的“积”是才学与抱负——终南山读书人、科举夺魁（或科举失意的另一版本），无论哪条线，他都被设定为“有学、有志、有正气”的人。可他的“发”不是在阳间实现仕途，而是在死后以神职形式爆发：成为鬼王、捉鬼之神、阴司裁判。这个爆发带着悲剧性，但也带着一种古典叙事的补偿逻辑：你在人间得不到的公正，可能在更大的秩序里得到兑现。钟馗的怒与威之所以有效，正因为它背后有长期被压抑的“正当性”。
+**Use it:** When you want to say "don't rush the result — build the foundation thick; the real eruption comes from long preparation," use 厚积薄发.
 
-第二层是文化与媒介的时间尺度：钟馗形象经过唐代故事、吴道子画像传统、年画张贴、端午驱邪、傩仪跳钟馗、戏曲《钟馗嫁妹》（钟馗嫁妹 Zhōng Kuí jià mèi）等形式不断积累，才让他在今天进入游戏时显得“顺理成章”。尤其“钟馗嫁妹”的母题里，钟馗死后回返阳间，为妹妹主持婚事，报答杜平（Du Ping）为他收殓安葬的恩情；“嫁妹”又谐“嫁魅”（送走鬼魅）。这类故事把钟馗从“只会杀鬼的凶神”扩展成“讲情义、懂人伦”的复杂角色——这种复杂性就是厚积：它让现代创作者有更多角度可取，不必把钟馗写成单一的“打怪机器”。
+---
 
-再回到《黑神话：钟馗》的现实信息：官方确认它是《黑神话》系列继《悟空》之后的第二部，定位为单人动作 RPG；但目前没有公布战斗系统、叙事结构、可操作角色细节。正因为未知很多，越需要“厚积薄发”的耐心：对玩家是耐心等待，对创作者是把文化与玩法的积累做扎实。冯骥把它框定为《悟空》之后的“全新标题”，意味着团队不靠同一套熟悉角色吃老本，而要把积累的制作经验转化为新的爆发点——这恰是厚积薄发的现代版本。
-
-想把钟馗“镇宅、门神、端午、年画、五福蝙蝠（蝙蝠 biān fú / 福 fú 的谐音）”这一整套民俗积累看得更清楚，可以接着读系列文章：[《黑神话：钟馗》里的“镇宅门神”为什么重要：端午、年画与五福蝙蝠](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter)。那篇谈的是钟馗如何把“恐怖”转译成“福气”，也是厚积薄发的一种：可怕的脸，最终被用来守护家门。
-
-**Use it:** 当你想表达“别急着要结果，先把底子攒厚；真正的爆发来自长期准备”，用“厚积薄发”。
+Want the household-guardian side of the myth — door-gods, Duanwu, New Year prints, and the five-blessings bats? Read [why the "house-warding door-god" matters in Black Myth: Zhong Kui](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter). New to the games cluster? Start with [Black Myth: Wukong and the idioms every fan should know](/blog/black-myth-wukong-idioms-every-fan-should-know).

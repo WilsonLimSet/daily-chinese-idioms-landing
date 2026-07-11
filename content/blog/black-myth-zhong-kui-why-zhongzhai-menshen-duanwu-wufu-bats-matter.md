@@ -1,119 +1,98 @@
 ---
-title: "《黑神话：钟馗》里的“镇宅门神”为什么重要：端午、年画与五福蝙蝠"
+title: "Why the House-Warding Door-God Matters in Black Myth: Zhong Kui (钟馗) — Duanwu, New Year Prints & the Five-Blessings Bats"
 date: "2026-06-06"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Relationships & Character"
-description: "Zhong Kui isn’t just a fighter—he’s a household guardian. Explore why people hang his image at New Year and Duanwu, how 年画 spreads the cult, and why bats (蝠) signal 福 and 五福."
----
-《黑神话：钟馗》（黑神话：钟馗）之所以一亮相就能让人立刻“懂味”，不靠已公布的剧情——因为**截至目前并无任何确认的剧情细节**——而靠的是钟馗在中国文化里早已成型的一套“功能性语法”：**捉鬼（捉鬼 / 驱鬼）、镇宅（镇宅）、门神（门神）、节令辟邪（端午）**，以及把恐惧转译为祝福的视觉密码——**蝠（fú）与福（fú）同音、五蝠即五福（五福）**。
-
-这也解释了为什么在 Gamescom Opening Night Live 的公开亮相里，官方只用一句话就能把主角立起来：钟馗是“**游走于地狱与人间的捉鬼之神**”。主持人 Geoff Keighley 把这张名片递到全球玩家面前时，它自带一整套可被“读懂”的文化背景：他不是单纯的“打怪角色”，而是**阈限（门槛）上的守卫者**——守住家宅、守住身体、守住一年之始与夏季疫气最盛的节点。Game Science 的负责人冯骥也在公开表述中把这个项目定位为在《黑神话：悟空》之后“**大胆创作全新作品**”的选择：不是延长旧故事，而是换一位更适合承载“守门、辟邪、审判”的神祇，让“黑神话”的母题可以转向更阴影、更民间、更贴近日常生活的恐惧与护持。
-
-需要先把边界钉牢：春节 2026 发布的约 6 分钟引擎短片被官方明确标注为**非正史（仅供娱乐）**，因此其中任何具体情节、人物关系、设定细节，都不能当作确认剧情来写。能写、且值得写的，是钟馗作为“镇宅门神”的文化逻辑：**人为什么要在门上、墙上挂一张凶相？为什么端午要驱鬼？为什么年画能让一个形象跨地域扩散？为什么五只蝙蝠会飞到一个捉鬼神旁边？**这些问题，恰好可以用一组成语的“预防哲学”串起来：从**有备无患**到**防患未然**，再到**防微杜渐**；从年画传播的“洛阳纸贵”，到传统与新媒介之间的“温故知新”“推陈出新”。
-
-如果你也在追《黑神话：钟馗》的文化底色，可以先读同系列的背景文，把钟馗的核心传说与唐玄宗梦境这一支线补齐：  
-- [《黑神话：钟馗》背后的真实传说：从唐玄宗梦到捉鬼之神](/blog/black-myth-zhong-kui-real-history-tang-xuanzong-dream)
-
-下面六个成语，每一个都对应钟馗文化里一个“具体而可指认”的细节：唐玄宗的病与梦、吴道子受命作画、门神与镇宅的阈限防守、端午的疫气时令、年画的复制与扩散、蝠/福与五福的吉祥编码。它们不是抽象鸡汤，而是民间社会如何管理恐惧的一套方法论。
-
+description: "Zhong Kui isn't just a fighter — he's a household guardian. Why people hang his image at New Year and Duanwu, how 年画 spread the cult, and why bats (蝠) signal 福 and the Five Blessings — decoded through Chinese idioms."
 ---
 
-## 有备无患 (yǒu bèi wú huàn) — "Preparedness averts disaster"
+*Black Myth: Zhong Kui* landed with instant "I get it" recognition — not because of any announced plot (there **are no confirmed story details** yet) but because Zhong Kui already carries a fully formed "functional grammar" in Chinese culture: **catching ghosts (捉鬼 / 驱鬼), warding the home (镇宅), guarding the door (门神), seasonal exorcism (端午)**, and a visual code that turns fear into blessing — **蝠 (fú, "bat") is a homophone of 福 (fú, "fortune"), so five bats mean the Five Blessings (五福).**
+
+That's why, at Gamescom Opening Night Live, one sentence was enough to establish the protagonist: Zhong Kui is "**the ghost-catching god who moves between hell and the human world.**" When host Geoff Keighley handed that card to a global audience, it arrived with a whole readable background: he isn't merely a "monster-fighting character" but a **guardian at the threshold** — protecting the home, the body, the turn of the year, and the peak of summer's pestilent air. Game Science's Feng Ji framed the project as a **bold, brand-new work** after *Black Myth: Wukong* — not extending the old story, but switching to a deity better suited to carry "guarding the gate, warding evil, judging spirits," turning the "Black Myth" theme toward the more shadowed, more folk, more everyday structure of fear and protection.
+
+First, nail down the boundary: the roughly six-minute in-engine short from Chinese New Year 2026 was explicitly marked **non-canon (for entertainment only)**, so no specific plot beat, relationship, or setting detail from it can be written as confirmed story. What *can* be written — and is worth writing — is the cultural logic of Zhong Kui as a "house-warding door-god": **Why hang a fierce face on your door and wall? Why exorcise ghosts at Duanwu? Why could New Year prints spread one image across regions? Why do five bats flock to a ghost-catching god?** These questions are best strung together by a set of idioms about the *philosophy of prevention* — from **preparedness** to **stopping trouble before it starts** to **checking small problems early** — and about how tradition spreads and renews itself.
+
+For the core legend and the Emperor Xuanzong dream thread, read the companion piece first: [The real legend behind Black Myth: Zhong Kui — from Emperor Xuanzong's dream to the god who catches ghosts](/blog/black-myth-zhong-kui-real-history-tang-xuanzong-dream).
+
+The six idioms below each map to a *concrete, identifiable* detail of Zhong Kui culture: the emperor's illness and dream, Wu Daozi's commissioned portrait, the threshold defense of door-gods and house-warding, the pestilent season of Duanwu, the copying and spread of New Year prints, and the auspicious coding of bat/fortune and the Five Blessings. They aren't abstract inspiration — they're a methodology for how folk society *manages fear*.
+
+---
+
+## [有备无患](/blog/you-bei-wu-huan) (yǒu bèi wú huàn) — "Preparedness averts disaster"
 
 **Meaning:** Prepare ahead, and trouble can be avoided.
 
-**Origin paragraph:**  
-有备无患出自《尚书》中的《说命》篇（常见引作《说命中》语境），强调“备”是治理与自保的前提：先把可预见的风险纳入筹划，灾患就不至于临头。先秦到春秋的政治经验尤其看重这种“居安思危”的思路——并非因为人爱焦虑，而是因为国家、家族、身体都经不起一次失守。它把“准备”从临时应对，提升为制度与习惯：平时做，胜过事发后补救。
+**Origin:** 有备无患 comes from the *Book of Documents* (《尚书》), stressing that "preparation" is the precondition of governance and self-protection: fold foreseeable risk into planning, and disaster won't reach you. Pre-Qin and Spring-and-Autumn political experience prized this "be prepared even in safety" thinking — not because people love anxiety, but because state, clan, and body can't survive a single collapse. It elevates "preparation" from ad-hoc response to institution and habit: doing it in peacetime beats patching it afterward.
 
-**Connection paragraph:**  
-钟馗作为**镇宅（镇宅）**与**门神（门神）**，正是“有备无患”的视觉化工具。传说中唐玄宗（唐玄宗）因病发热，梦见小鬼偷走杨贵妃的香囊与皇帝的玉笛，随即被大鬼钟馗擒拿吞食；醒来病愈。这段梦境故事之所以能成为“信仰起点”，关键不在“梦有多奇”，而在它把疾病、盗窃、邪祟这些失控体验，转译为一个可执行的策略：**把钟馗的形象挂出来**。据传统说法，玄宗命吴道子（吴道子）作画并分发张挂，于是“图像=护符”的逻辑成立：门口、堂屋、寝室这些阈限位置，先布防，后安心。钟馗凶相之所以被欢迎，正因为它把“灾患”挡在门外：这不是审美趣味，而是风险管理。
+**Connection:** Zhong Kui as **house-warder (镇宅)** and **door-god (门神)** is exactly the visualized tool of 有备无患. In the legend, a feverish Emperor Xuanzong dreams of a small ghost stealing Consort Yang's scented pouch and the imperial jade flute, then of the giant Zhong Kui seizing and devouring it — and wakes cured. What makes that dream an "origin of belief" isn't its strangeness but that it translates the uncontrollable experiences of illness, theft, and evil into an *executable strategy*: **hang up Zhong Kui's image.** By tradition, Xuanzong ordered Wu Daozi to paint him for distribution and display, and the logic of "image = talisman" clicks into place: the threshold positions — doorway, hall, bedroom — get defended first, and peace of mind follows. His fierce face is welcomed precisely because it keeps disaster *outside the door*: not an aesthetic preference, but risk management.
 
-**Use it:**  
-把“准备”当成日常制度：在问题出现前，把门槛、边界、规则先立起来。
+**Use it:** Treat "preparation" as a standing practice: set up your thresholds, boundaries, and rules *before* the problem appears.
 
 ---
 
-## 防患未然 (fáng huàn wèi rán) — "Prevent trouble before it happens"
+## [防患未然](/blog/fang-huan-wei-ran) (fáng huàn wèi rán) — "Prevent trouble before it happens"
 
 **Meaning:** Stop dangers before they materialize.
 
-**Origin paragraph:**  
-防患未然并非单一典故出身，而是典型的古典语汇组合：防为预防，患为灾患，未然指尚未发生。它背后是一种古代治理常识：真正的成本不在“处理事故”，而在“事故发生后不可逆的损失”。所以它常被用于军事、政务、家政乃至养生语境——把“未然”当作主战场，而不是把“已然”当作唯一战场。
+**Origin:** 防患未然 isn't from a single source story but a classic vocabulary combination: 防 (prevent), 患 (disaster), 未然 (not-yet-happened). Behind it sits an old governing common sense: the true cost isn't "handling the accident" but "the irreversible loss after it happens." So it recurs in military, administrative, domestic, and even health-cultivation contexts — treating the "not-yet" as the main battlefield rather than the "already."
 
-**Connection paragraph:**  
-钟馗信仰最有意思的一点，是它把“防患未然”放进了**节令**里，尤其是**端午（端午节）**。端午在传统观念中与暑湿、疫气、虫毒相关，民间会用艾草、菖蒲等方式驱秽避毒；钟馗画像也会在这一时段被张挂，用来**驱鬼（驱鬼）**、避邪。这里的“鬼”不必被理解为单纯的超自然实体，它也承载对疾病与不祥的想象：当你无法解释发热、瘟病、家宅不宁时，你至少可以在仪式层面把“防线”提前布置好。钟馗“游走于地狱与人间”的定位，恰好符合端午的心理结构：夏季像是人间与阴秽之间的边界变薄了，需要一个能跨界的巡守者。
+**Connection:** The most interesting thing about Zhong Kui belief is that it folds 防患未然 into the **seasons**, especially **Duanwu (端午节)**. Traditionally Duanwu is tied to summer heat, damp, pestilence, and insect poison; folk custom drives out foulness with mugwort and calamus — and Zhong Kui's portrait is hung in this window to **drive off ghosts (驱鬼)** and ward evil. The "ghost" here needn't be a purely supernatural entity; it also carries the imagination of illness and misfortune. When you can't explain a fever, a plague, or an uneasy household, you can at least, on the ritual level, set your defensive line in advance. Zhong Kui "moving between hell and the human world" fits the psychology of Duanwu exactly: in high summer, the boundary between the human world and the foul underworld seems to thin, and you need a cross-boundary patroller.
 
-**Use it:**  
-把高风险时点（节令、节点、转折）当作“提前加固”的提醒，而不是等出事才补洞。
+**Use it:** Treat high-risk moments (seasons, turning points) as reminders to "reinforce early," rather than waiting for the leak before you patch.
 
 ---
 
-## 防微杜渐 (fáng wēi dù jiàn) — "Stop small problems from growing"
+## [防微杜渐](/blog/fang-wei-du-jian) (fáng wēi dù jiàn) — "Stop small problems from growing"
 
-**Meaning:** Block minor issues from becoming major crises.
+**Meaning:** Block minor issues before they become major crises.
 
-**Origin paragraph:**  
-防微杜渐强调“微”与“渐”：微小的苗头若不处理，会渐渐发展成不可控的大患。它在汉代政务与治术语境中常见，到了唐代又因魏征等谏臣对唐太宗的劝诫而更具代表性：国家的败，不是一天塌的；河堤的决口，也往往从细缝开始。这个成语的核心不是多疑，而是对“渐变”的敏感——能在小处看见趋势。
+**Origin:** 防微杜渐 stresses 微 (the tiny) and 渐 (the gradual): a small sprout left untreated grows, step by step, into an uncontrollable calamity. Common in Han-era statecraft, it gained a Tang-era exemplar in remonstrating officials like Wei Zheng advising Emperor Taizong: a state doesn't fall in a day; a dike bursts from a hairline crack. Its core isn't paranoia but sensitivity to *gradual change* — seeing the trend in the small.
 
-**Connection paragraph:**  
-钟馗的工作对象常被概括为**妖魔鬼怪（妖魔鬼怪）**，而民间对“妖”的理解也常常是“从小处生长”的：一念邪、一点贪、一点病气、一点家宅不宁，都可能被想象为“鬼影”。唐玄宗梦里那只“小鬼”偷香囊与玉笛，正是“微”的象征：它偷走的不是金银，而是贴身之物与乐器——一种对秩序与安宁的侵蚀。钟馗则以极端方式终止“渐”：擒拿、剜目、吞食，视觉上残酷，但逻辑上明确——**不让邪祟有继续扩散的机会**。这也解释了钟馗画像为何常画成“脚下踩鬼、手持剑、怒目圆睁”：它不是在讲一个温和的劝善故事，而是在展示“把苗头当场掐断”的决心。
+**Connection:** Zhong Kui's targets are usually summed up as **demons and ghosts (妖魔鬼怪)**, and folk understanding of the "demon" is often "something that grows from the small": a stray evil thought, a bit of greed, a touch of sickly air, a little household unrest, all imagined as "ghost-shadows." The small ghost stealing the pouch and flute in Xuanzong's dream is the symbol of the "tiny": it steals not gold but intimate objects and a musical instrument — an erosion of order and peace. Zhong Kui ends the "gradual" by extreme means — seizing, gouging, devouring — visually cruel but logically clear: **give evil no chance to keep spreading.** That's why his portrait so often shows him "treading a ghost underfoot, sword in hand, eyes glaring": not a gentle morality tale, but a demonstration of the will to snip the sprout on the spot.
 
-**Use it:**  
-对小异常保持敏感：一旦发现“趋势”，就立刻用规则和行动截断它的扩散路径。
+**Use it:** Stay sensitive to small anomalies: the moment you spot a "trend," cut its path of spread with rules and action.
 
 ---
 
-## 洛阳纸贵 (luò yáng zhǐ guì) — "Paper in Luoyang becomes expensive"
+## [洛阳纸贵](/blog/luo-yang-zhi-gui) (luò yáng zhǐ guì) — "Paper in Luoyang grows dear"
 
-**Meaning:** A work becomes so popular that demand drives up copying/printing.
+**Meaning:** A work so popular that demand drives up the price of copying it.
 
-**Origin paragraph:**  
-洛阳纸贵的典故出自西晋文人左思。相传左思的作品流传洛阳后，士人争相传抄，纸张需求暴涨，导致“洛阳纸贵”。它后来成为衡量文化产品传播力的经典隐喻：不是靠官府命令，而是靠民间自发复制；不是一地一时的热闹，而是进入“人人都要一份”的扩散状态。它也提醒我们：在印刷术与现代媒体之前，**复制**本身就是一种社会动员。
+**Origin:** The allusion comes from the Western Jin writer Zuo Si. When his work circulated in Luoyang, scholars rushed to copy it by hand; paper demand surged, and "paper in Luoyang grew expensive." It became the classic metaphor for a cultural product's reach: not by official decree but by spontaneous popular copying; not a one-time local buzz but the diffusion state of "everyone wants a copy." Before printing and modern media, *copying itself* was a form of social mobilization.
 
-**Connection paragraph:**  
-钟馗的传播史，本质上就是一条“洛阳纸贵”的路径：从宫廷梦境叙事（唐玄宗）到宫廷绘画传统（吴道子受命作画的传统说法），再到民间的**年画（年画）**与门神张贴。年画的关键不在“原创”，而在“可复制、可张贴、可更换”：每到岁末或特定节令，人们把旧的揭下，把新的贴上，钟馗就以一种近乎“年度更新”的方式进入千家万户。你甚至可以把年画理解为一种早期的“公共接口”：不识字的人也能通过图像读懂“这家有护法”。而钟馗形象的高度标准化——官帽、袍服、浓须、宝剑、擒鬼——正是为了在复制传播中保持识别度：远远一看就知道“门口有人守”。
+**Connection:** Zhong Kui's transmission history is essentially a "Luoyang paper" path: from the palace dream narrative (Xuanzong) to the court painting tradition (Wu Daozi's supposed commission) to folk **New Year prints (年画)** and door-god posting. What matters about New Year prints isn't "originality" but "reproducible, postable, replaceable": at year's end or a given season, people peel off the old and paste up the new, and Zhong Kui enters countless homes in an almost "annual update" fashion. You could even read New Year prints as an early "public interface": even the illiterate could read from the image that "this household has a guardian." Zhong Kui's highly standardized image — official cap, robe, thick beard, sword, subdued ghost — exists precisely to stay recognizable through reproduction: one glance from afar tells you "someone guards this door." Bring that back to the game and it's clearer why he sparked instant discussion at Gamescom even with the plot unknown: Zhong Kui isn't an obscure symbol; in the door-god system he was already "recognizable at a glance," an image with an extremely high reproduction rate in cultural memory. Choosing him after *Wukong* was choosing a "visual calling card" with a very deep base of transmission.
 
-把这个逻辑放回《黑神话：钟馗》的语境，会更清楚为什么它在 Gamescom Opening Night Live 亮相时，哪怕剧情未明，也能迅速被讨论：钟馗不是冷门符号，他在年画与门神体系里早已“可被一眼识别”，属于文化记忆里复制率极高的形象。冯骥提出要在《黑神话：悟空》之后“大胆创作新作”，选择钟馗，等于选择了一张传播基础极厚的“视觉名片”。
-
-**Use it:**  
-观察一个文化符号是否“站得住”，看它能否被大量复制仍不失真、仍一眼可认。
+**Use it:** To judge whether a cultural symbol "stands," see whether it can be mass-copied without distortion and still be recognized at a glance.
 
 ---
 
-## 温故知新 (wēn gù zhī xīn) — "Review the old to understand the new"
+## [温故知新](/blog/wen-gu-zhi-xin) (wēn gù zhī xīn) — "Review the old to know the new"
 
-**Meaning:** Learn the new by revisiting the old.
+**Meaning:** Gain new understanding by revisiting the old.
 
-**Origin paragraph:**  
-温故知新出自《论语》。孔子强调学习不是一次性输入，而是反复温习旧知，从中生出新理解。“温”原有“温热”的动作感：把冷掉的东西重新加热，不是回到原样，而是让它重新可用。到了唐宋，温故知新成为士大夫教育的基本方法：读经典不是为了背诵，而是为了在新处境里重新解释、重新应用。
+**Origin:** 温故知新 comes from the *Analects*. Confucius stressed that learning isn't a one-time input but repeated review of old knowledge from which new understanding grows. 温 carries the physical sense of "warming": reheating something gone cold — not to return it to its original state but to make it usable again. By the Tang and Song it became a basic method of scholar-official education: reading the classics not to memorize but to reinterpret and reapply them in new situations.
 
-**Connection paragraph:**  
-钟馗文化最适合用“温故知新”来读，因为它本来就是“旧材料的新用途”。唐玄宗梦境、吴道子画像、门神张贴、端午驱邪、年画传播，这些都属于传统社会处理不确定性的方式；而今天，当一个现代游戏标题把钟馗放到全球舞台上（由 Geoff Keighley 在 Gamescom Opening Night Live 介绍），它其实在做同一件事：把旧符号放进新媒介，让人重新理解“守门”意味着什么。
+**Connection:** Zhong Kui culture is ideal for reading through 温故知新, because it *is* "an old material put to new use." The Xuanzong dream, the Wu Daozi portrait, door-god posting, Duanwu exorcism, New Year print diffusion — all are ways traditional society handled uncertainty. Today, when a modern game title puts Zhong Kui on a global stage (introduced by Geoff Keighley at Gamescom), it does the same thing: place an old symbol in a new medium and let people re-understand what "guarding the gate" means. Note the boundary awareness: the Chinese New Year 2026 in-engine short is explicitly marked **non-canon**, which offers exactly a "reviewing the old" posture — don't rush to treat the short as plot; return to the confirmed core positioning: Zhong Kui is "the ghost-catching god who moves between hell and the human world." That round-trip between the underworld and the living is itself the oldest "threshold" theme in traditional narrative: Who is qualified to cross? Who judges? Who protects? Use old knowledge to read that official one-liner, and you find it's not a slogan but a modern précis of Zhong Kui's folk function.
 
-这里尤其要强调边界意识：春节 2026 的引擎短片被明确标注为**非正史**，这恰好提供了一个“温故”的姿势——不急着把短片当剧情，而是回到已确定的核心定位：钟馗是“游走于地狱与人间的捉鬼之神”。地狱（阎王 / 阎罗王所辖的幽冥想象）与人间之间的往返，本身就是传统叙事里最古老的“阈限”主题：谁有资格跨界？谁来审判？谁来护持？当我们用旧知识去理解这句官方定位，就会发现它并非一句宣传语，而是把钟馗的民间职能精准压缩成一句现代简介。
-
-如果你想把“故”温得更扎实，可以把同系列那篇唐玄宗梦境的文章当作底座再读一遍：  
-- [《黑神话：钟馗》背后的真实传说：从唐玄宗梦到捉鬼之神](/blog/black-myth-zhong-kui-real-history-tang-xuanzong-dream)
-
-**Use it:**  
-遇到新作品先回到“已确认的旧核心”（人物职能、文化语法），再谈创新与想象。
+**Use it:** Meet a new work by first returning to the "confirmed old core" (a figure's function, its cultural grammar), and only then discuss innovation and imagination.
 
 ---
 
-## 推陈出新 (tuī chén chū xīn) — "Create the new from the old"
+## [推陈出新](/blog/tui-chen-chu-xin) (tuī chén chū xīn) — "Push out the old, bring forth the new"
 
-**Meaning:** Discard the stale and bring forth the new.
+**Meaning:** Discard the stale and produce the new.
 
-**Origin paragraph:**  
-推陈出新常被追溯到《易经》的变化观：世界之道在于“变”，旧的若僵化就会成为“陈”，需要推去；新的若无根也会浮，必须从旧中生发。它在后世成为文艺与学术创新的原则：不是为了反传统而反传统，而是为了让传统继续有生命力。唐代的思想活跃与诗歌革新，宋代的经学重释，都可视为推陈出新的历史样本。
+**Origin:** 推陈出新 is often traced to the *Book of Changes*' view of transformation: the way of the world lies in "change." The old, if rigid, becomes "stale" and must be pushed out; the new, if rootless, floats and must be generated from the old. It became a principle of literary and scholarly innovation — not opposing tradition for its own sake, but keeping tradition alive. The Tang's intellectual vitality and poetic reform, the Song's reinterpretation of the classics, are historical samples of it.
 
-**Connection paragraph:**  
-《黑神话：钟馗》目前真正“确认”的部分很少，但它的文化潜力恰恰来自推陈出新：把传统的**镇宅门神**逻辑转为可交互的世界观，把“挂画辟邪”的静态动作转为动态的跨界巡守。钟馗在图像传统里常被画成凶猛官员：官帽、官袍、长须、剑在手，脚下伏妖，旁有小鬼役使；画面里还常出现蝙蝠，因为**蝠（fú）与福（fú）同音**，五蝠象征**五福（五福）**，于是“凶神”与“吉祥”被绑在一起：越凶越能镇，越能镇越带福。这套视觉修辞，一旦进入现代影像与互动媒介，就天然适合做“可探索的符号系统”：门槛、宅院、节令、护符、鬼役、福蝠——每一项都能成为叙事与美术的支点。
+**Connection:** Little about *Black Myth: Zhong Kui* is truly "confirmed" yet, but its cultural potential comes precisely from 推陈出新: turning the traditional **house-warding door-god** logic into an interactive worldview, and the static act of "hanging a picture to ward evil" into a dynamic cross-boundary patrol. Zhong Kui is often painted as a fierce official — cap, robe, long beard, sword in hand, demon crouched underfoot, small ghosts as servants — and the picture often includes **bats, because 蝠 (fú) is a homophone of 福 (fú, "fortune"); five bats symbolize the Five Blessings (五福),** binding "fierce god" and "auspicious" together: the fiercer, the better he wards; the better he wards, the more fortune he brings. Once that visual rhetoric enters a modern interactive medium, it's naturally suited to an "explorable symbol system": thresholds, courtyards, seasons, talismans, ghost-servants, fortune-bats — each a pivot for story and art.
 
-更重要的是，Game Science 通过冯骥的表述把这个项目定位为《黑神话：悟空》成功之后的“全新作品”，这本身就是推陈出新：同一“黑神话”品牌，不重复同一英雄，而是转向另一位更贴近民间恐惧治理的神祇。对玩家而言，这意味着一种不同的中国叙事入口：不是取经路上的神魔谱系，而是家宅门槛、端午疫气、年画张贴这些“日常宗教”的深层结构。对文化读者而言，这也提供了一个观察点：传统并不只存在于博物馆与典籍里，它也能通过新媒介继续工作——继续承担“有备无患、驱邪避凶”的社会心理功能。
+More importantly, Feng Ji framing this as a "brand-new work" after *Wukong*'s success is itself 推陈出新: the same "Black Myth" brand, not repeating the same hero, but turning to another deity closer to the folk governance of fear. For players it means a different entry point into Chinese storytelling — not the pantheon of the scripture-fetching journey, but the deep structure of "everyday religion": household thresholds, Duanwu's pestilent air, the posting of New Year prints. For cultural readers it offers a vantage: tradition doesn't live only in museums and texts — it can keep working through new media, still carrying its social-psychological function of "preparedness and warding off evil."
 
-**Use it:**  
-创新不要急着换掉传统符号；先问它原本解决什么问题，再把那套“解决问题的结构”迁移到新场景。
+**Use it:** Don't rush to swap out a traditional symbol in the name of innovation; first ask what problem it originally solved, then migrate that "problem-solving structure" into the new setting.
+
+---
+
+For the origin legend and the exam tragedy behind the god, read [the real legend behind Black Myth: Zhong Kui](/blog/black-myth-zhong-kui-real-history-tang-xuanzong-dream). For the wider games cluster, see [Black Myth: Wukong — the idioms every fan should know](/blog/black-myth-wukong-idioms-every-fan-should-know).

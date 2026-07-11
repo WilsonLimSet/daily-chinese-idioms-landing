@@ -1,5 +1,7 @@
 ---
-title: 《黑神话：钟馗》背后的真实传说：从唐玄宗梦到捉鬼之神
+title: >-
+  Die wahre Legende hinter Black Myth: Zhong Kui (钟馗) — Vom Traum des Kaisers
+  Xuanzong zum Gott, der Geister fängt
 date: '2026-06-06'
 characters: ''
 pinyin: ''
@@ -8,139 +10,115 @@ metaphoric_meaning: ''
 theme: Wisdom & Learning
 description: >-
   Wer ist Zhong Kui in der echten Folklore? Verfolgen Sie die Traumlegende der
-  Tang-Dynastie, untersuchen Sie Tragödien und die Maltradition von Wu Daozi –
-  plus die Redewendungen, die am besten erfassen, wie sich der Mythos im Laufe
-  der Zeit entwickelt hat.
+  Tang-Dynastie, die Tragödie der Prüfung und die Tradition der Wu Daozi-Malerei
+  hinter Black Myth: Zhong Kui — plus die Redewendungen, die festhalten, wie
+  sich der Mythos entwickelt hat.
 originalSlug: black-myth-zhong-kui-real-history-tang-xuanzong-dream
 ---
-《黑神话：钟馗》还在非常早期的阶段，官方并未公布任何“已确认”的剧情细节。我们目前唯一能稳稳抓住的，是发布会上的一句定位：主角是钟馗——“在地狱与人间游走的捉鬼之神”。除此之外，Game Science 在 2026 年春节发布过一段约 6 分钟的引擎内特别短片，但官方已明确标注**非正史、仅供娱乐**，因此其中出现的任何人物关系、情节走向都不能当作游戏剧情的依据。
+*Black Myth: Zhong Kui* befindet sich noch in einem sehr frühen Stadium, und Game Science hat **keine Geschichtsdaten** bestätigt. Das Einzige, woran wir festhalten können, ist die einzige Zeile aus seiner Enthüllung: der Protagonist ist Zhong Kui — "**der Geister fangende Gott, der zwischen der Hölle und der Menschenwelt wandelt.**" Darüber hinaus veröffentlichte Game Science während des chinesischen Neujahrs 2026 ein etwa sechsminütiges In-Engine-Special, das jedoch ausdrücklich als **nicht-kanonisch, "nur zur Unterhaltung"** gekennzeichnet wurde, sodass keine Charakterbeziehungen oder Handlungsstränge darin als Teil der Spielgeschichte behandelt werden können.
 
-这反而给了钟馗一个更适合被讨论的位置：不是“新作会怎么改编”，而是“这个角色为何能被一再改编”。钟馗的魅力不在于他来自某一部单一文本，而在于他天然站在一组永不过时的张力中——**正与邪、审判与救赎、相貌与才德、阳间与阴司**。当 Game Science 在《黑神话：悟空》之后选择他作为“黑神话”系列的下一位主角，这个选择不是随意换皮，而像是把一条早已存在的文化暗流，推到现代媒介的明面上。
+Das bringt Zhong Kui tatsächlich in eine interessantere Position, über die man schreiben kann: nicht "wie wird das neue Spiel ihn anpassen", sondern "**warum wurde dieser Charakter immer wieder adaptiert?**" Zhong Kuis Macht kommt nicht aus einem einzelnen Text. Sie kommt von der Tatsache, dass er in einem Set von Spannungen steht, die niemals veralten — **Gut und Böse, Urteil und Erlösung, Erscheinung versus Wert, die lebende Welt und die Unterwelt.** Als Game Science ihn nach dem Erfolg von *Wukong* als nächsten Protagonisten der "Black Myth"-Reihe auswählte, war es kein kosmetisches Reskin; es war, als würde man einen alten kulturellen Unterstrom an die sichtbare Oberfläche eines modernen Mediums drücken.
 
-在 Gamescom Opening Night Live 的压轴亮相中，主持人 Geoff Keighley 把这张牌翻开；而 Game Science 的负责人冯骥则把它放进一个更大的框架：在《悟空》的成功之后，团队希望做一个**更大胆的全新标题**——不是续作，不是“同一套叙事再跑一遍”，而是继续从中国神怪与民间信仰里，找到能支撑动作 RPG 的神话骨架。
+Am Ende der Gamescom Opening Night Live drehte der Gastgeber Geoff Keighley die Karte um; Game Sciences Feng Ji platzierte sie in einen größeren Rahmen: Nach dem Erfolg von *Wukong* wollte das Team einen **mutigeren, völlig neuen Titel** — kein Sequel, keine "gleiche Geschichte erneut", sondern ein weiteres mythisches Skelett, das aus chinesischen Göttern und Volksglauben gezogen wurde und ein Action-RPG tragen könnte.
 
-钟馗的传说线索繁多，版本互相缠绕。要读懂他，最好的办法不是追求“唯一正确的故事”，而是把每条线索的来处、用途与象征意义理清：他为何成为捉鬼者？为何他的画像能镇宅？为何唐玄宗的梦会变成民间共同记忆？为何“钟馗”这两个字甚至可能不是“一个人的名字”而是“驱鬼工具”的音转？这些问题，正适合用成语的方式来拆解——成语是汉语里最短的历史记忆单元，四个字就能把一段文化心理钉在原地。
+Zhong Kuis Legende ist ein Wirrwarr überlappender Versionen. Der beste Weg, ihn zu verstehen, besteht nicht darin, nach der "einen wahren Geschichte" zu suchen, sondern herauszufinden, wo jeder Faden herkommt, was er tut und was er symbolisiert: Warum wurde er ein Geisterfänger? Warum kann sein Porträt ein Haus bewachen? Warum wurde der Traum eines Kaisers zum gemeinsamen Volksgedächtnis? Warum könnte "Zhong Kui" nicht einmal ein Name einer Person sein, sondern der Klangwechsel eines Exorzistenwerkzeugs? Diese Fragen sind perfekt für Redewendungen — die kürzesten Einheiten historischer Erinnerung im Chinesischen, vier Zeichen, die eine ganze kulturelle Psychologie festhalten.
 
 ---
 
-## [源远流长](/blog/yuan-yuan-liu-chang) (yuán yuǎn liú cháng) — “tiefe Wurzeln, langer Fluss”
+## [源远流长](/blog/yuan-yuan-liu-chang) (yuán yuǎn liú cháng) — "tiefe Quelle, langer Fluss"
 
 **Bedeutung:** Eine Tradition mit fernen Ursprüngen und nachhaltigem Einfluss.
 
-**Ursprung:** “源远流长”用河流作比：源头越远，水流越长。它并非指某一个孤立事件，而是一种儒家式的历史观与文化观——重视“传承不断”的力量。在经学与史学的评论语境里，人们常用类似的比喻称赞礼乐制度、学术谱系或文明传统：不只古老，而且能穿越时代继续发挥作用。它强调的是“连续性”，而不是“博物馆式的陈列”。
+**Ursprung:** 源远流长 verwendet ein Flussbild: je weiter die Quelle, desto länger der Fluss. Es beschreibt kein einzelnes isoliertes Ereignis, sondern eine konfuzianisch gefärbte Sicht auf Geschichte und Kultur, die ununterbrochene Übertragung schätzt. In der klassischen Wissenschaft lobt es Institutionen, intellektuelle Linien oder die Traditionen einer Zivilisation als nicht nur antik, sondern auch über die Jahrhunderte hinweg wirksam. Der Schwerpunkt liegt auf *Kontinuität*, nicht auf Museumspräsentation.
 
-**Verbindung:** 钟馗信仰最适合用“源远流长”来形容，因为他的存在方式从来不是“单一经典”而是“多介质流动”：唐代的帝王梦（唐玄宗梦中见鬼）、宫廷绘画的权威背书（吴道子奉诏作画的传统叙述）、民间的年画（年画里钟馗镇宅）、节令习俗（端午时驱邪避凶也会挂钟馗像）、戏曲与傩仪（傩 *nuó* 与跳钟馗 tiào Zhōng Kuí 的活态表演）……这些层层叠加，让钟馗从“故事人物”变成“可使用的神”。他不是只被阅读，而是被张贴、被悬挂、被舞出来、被请进门槛的位置——作为门神（门神 mén shén）或镇宅符号（镇宅 zhèn zhái），他的“长流”靠的是日常生活的重复。
+**Verbindung:** Der Glaube an Zhong Kui ist das perfekte Beispiel für 源远流长, denn er hat nie als "ein klassischer Text" existiert, sondern als *multimedialer Strom*: ein Traum eines Tang-Kaisers, die Autorität der Hofmalerei (Wu Daozis angeblicher kaiserlicher Auftrag), volkstümliche Neujahrsdrucke (年画), die ihn an die Wand hängen, saisonale Bräuche (sein Bild wird während Duanwu aufgehängt, um das Böse zu vertreiben) und lebendige Aufführungen in Opern und der exorzistischen *nuo* (傩) Tradition. Schicht für Schicht verwandelten diese Zhong Kui von einem "Geschichtencharakter" in einen *nutzbaren Gott* — nicht nur gelesen, sondern aufgeklebt, aufgehängt, getanzt und an der Schwelle installiert. Als Türgott (门神) und Hausbewahrungsymbol (镇宅) wird sein "langer Fluss" durch die Wiederholung des täglichen Lebens angetrieben. Bringen Sie das zurück ins Spiel, und Sie sehen sein kulturelles Selbstbewusstsein: Die Enthüllung bestätigte nur, dass Zhong Kui "zwischen der Hölle und der Menschenwelt wandelt", aber dieser Satz benennt bereits seine zentrale historische Funktion — ein grenzüberschreitender Vollstrecker, der die Regeln der Unterwelt kennt und die Ängste der lebenden Welt behandelt.
 
-把这一点放回《黑神话：钟馗》，就能看出它的文化底气：游戏目前只确认“钟馗在地狱与人间游走”，但这句话本身已经把钟馗最核心的历史功能点出来——他一直是跨界的执行者：既懂阴司的规矩，也处理阳间的恐惧。动作 RPG 需要一个能合理“战斗”的主角，而钟馗的“捉鬼（捉鬼 zhuō guǐ）、打鬼/驱鬼（打鬼/驱鬼 dǎ guǐ / qū guǐ）”正是他的本职，不必硬造动机。
-
-**Verwendung:** 当你想强调某个习俗、信仰或文化符号“不只是古老，而且一直在被使用”，用“源远流长”。
+**Verwenden Sie es:** Wenn Sie betonen möchten, dass ein Brauch, Glaube oder kulturelles Symbol "nicht nur alt, sondern kontinuierlich in Gebrauch ist", greifen Sie zu 源远流长.
 
 ---
 
-## [追本溯源](/blog/zhui-ben-su-yuan) (zhuī běn sù yuán) — “zurückverfolgen bis zur Wurzel”
+## [追本溯源](/blog/zhui-ben-su-yuan) (zhuī běn sù yuán) — "zur Wurzel und Quelle zurückverfolgen"
 
-**Bedeutung:** Die Ursprünge untersuchen; etwas bis zu seiner Quelle zurückverfolgen.
+**Bedeutung:** Die Ursprünge untersuchen; etwas bis zu seinem Anfang zurückverfolgen.
 
-**Ursprung:** “追本溯源”带着宋代以来的治学气质：追“本”（根本、根由），溯“源”（源头、来处）。它与史学传统的因果追索相通，也与理学格物的路径相通——理解一个现象，不从表象停步，而要把它放回生成它的历史脉络。这个成语常用于学术研究、问题分析与思想辨源：不是“知道是什么”，而是“知道为什么会这样”。
+**Ursprung:** 追本溯源 trägt das wissenschaftliche Temperament der Song-Dynastie und darüber hinaus: die 本 (Wurzel, Ursache) zu verfolgen und die 源 (Quelle, Ursprung) zurückzuverfolgen. Es stimmt mit der Suche des Historikers nach Ursachen und der neo-konfuzianischen "Untersuchung der Dinge" überein — man versteht ein Phänomen nicht, indem man an der Oberfläche stoppt, sondern indem man es in die Geschichte zurückführt, die es hervorgebracht hat.
 
-**Verbindung:** 钟馗最耐人寻味之处，正是“追本溯源”会把你带进多个源头，而不是一个源头。民间最流行的核心传奇是：钟馗出身终南山（终南山 Zhōngnán Shān），才华横溢，在科举（科举 kē jǔ）中夺得状元（状元 zhuàng yuán）却因相貌丑陋被皇帝剥夺名次；他愤而以头撞宫阶（或宫门）自尽；死后被阎王/阎罗王（阎王/阎罗王 Yán Wáng / Yánluó Wáng）或玉皇等任命为“鬼王”或“判鬼之神”，专司捉鬼、降妖除魔（妖 yāo / 魔 mó）。
+**Verbindung:** Was Zhong Kui faszinierend macht, ist, dass 追本溯源 Sie zu *mehreren* Quellen führt, nicht nur zu einer. Die beliebteste Kernlegende: Zhong Kui war ein brillanter Gelehrter aus den Zhongnan-Bergen, der den ersten Platz (状元) in der kaiserlichen Prüfung (科举) gewann, nur um von dem Kaiser wegen seines Aussehens der Rang entzogen zu werden; wütend nahm er sich das Leben, indem er seinen Kopf gegen die Palaststufen schlug; nach seinem Tod wurde er vom König der Unterwelt (阎王) als "Geisterkönig" und Richter ernannt, mit der Aufgabe, Geister zu fangen und Dämonen zu zähmen. Aber eine ebenso berühmte "Quelle" ist **Kaiser Xuanzong von Tang** (唐玄宗) Fiebertraum: ein kleiner Geist stiehlt das duftende Täschchen von Konsort Yang und die Jadeflöte des Kaisers, ein großer Geist ergreift den kleinen, sticht ihm die Augen aus und verschlingt ihn, dann kündigt er sich als Zhong Kui aus den Zhongnan-Bergen an, der über sein Prüfungsversagen gestorben ist und geschworen hat, den Herrscher von Dämonen zu befreien. Der Kaiser wacht geheilt auf — und diese Struktur des "Traums zur Genesung" verwandelt Zhong Kui von "unrechtmäßigem Geist" in "reichsschützenden Exorzisten."
 
-但另一条同样著名的“源”是唐玄宗（唐玄宗 Táng Xuánzōng）的病中梦：梦里小鬼偷走杨贵妃的香囊/香袋与皇帝的玉笛，大鬼抓住小鬼，剜眼吞食；大鬼自报家门，说自己是终南山钟馗，生前因科举失意而撞阶而死，誓为天子除妖魔鬼怪（妖魔鬼怪 yāo mó guǐ guài）。皇帝醒来病愈，这个“梦—痊愈”的结构，让钟馗从“冤魂”变成“护国驱邪”的灵验叙事。
+Eine tiefere Spur führt zu einem wissenschaftlicheren Gabelung: Shen Kuo's *Dream Pool Essays* und später Yang Shen und Gu Yanwu schlugen vor, dass "Zhong Kui" (钟馗) möglicherweise ein Klangwechsel von **终葵 (zhōngkuí)** ist — einem alten, hammerartigen rituellen Werkzeug, das verwendet wurde, um Geister auszutreiben. Der Name des Werkzeugs könnte dem personifizierten Gott vorausgegangen sein. Diese müssen als *unsettled scholarly theory* präsentiert werden, aber sie erinnern uns daran, dass Zhong Kui die Kristallisation einer alten Exorzismus *Technologie* im Prozess ist, ein Mensch zu werden.
 
-更进一步的追溯，会遇到一个更“学术”的岔路：沈括《梦溪笔谈》、杨慎、顾炎武《日知录》等学者提出，“钟馗”可能是“终葵（zhōngkuí）”的音转——终葵指古代驱鬼用的椎/槌一类仪式器具，工具的名字先于人格神的出现。李时珍又曾把“钟馗”与一种菌类联系起来。这些都必须以“学者理论、未定论”来呈现，但它提醒我们：钟馗不只是一个“角色”，也可能是古老驱邪技术在人格化过程中的结晶。
-
-把这种“多源”意识带回游戏话题，就能更谨慎：既然官方尚未公布剧情，任何“它会采用哪个版本”的断言都站不住；更可靠的写法，是承认钟馗本来就允许多版本并存，而现代改编往往会从这些源头中抽取最适合当代叙事的那一支。
-
-**Verwendung:** 当你面对一个看似“理所当然”的文化符号（名字、习俗、神祇），想把它的来历与演变讲清楚，用“追本溯源”。
+**Verwenden Sie es:** Wenn Sie sich einem scheinbar offensichtlichen kulturellen Symbol — einem Namen, einem Brauch, einer Gottheit — gegenübersehen und dessen wahre Ursprünge und Evolution darlegen möchten, verwenden Sie 追本溯源.
 
 ---
 
-## [来龙去脉](/blog/lai-long-qu-mai) (lái lóng qù mài) — “der gesamte Kontext”
+## [来龙去脉](/blog/lai-long-qu-mai) (lái lóng qù mài) — "das Kommen des Drachen, das Gehen der Ader"
 
-**Bedeutung:** Die ganze Geschichte—wie etwas beginnt, sich entwickelt und verbindet.
+**Bedeutung:** Die ganze Geschichte — wie etwas beginnt, sich entwickelt und verbindet.
 
-**Ursprung:** “来龙去脉”原本是风水堪舆术语：龙指山势的来向，脉指余势的分布。看地形要看“龙从何来、脉往何去”，才能判断气势走向。后来它被借用到叙事与论证中：要把一件事说清楚，不能只截取一个片段，而要交代它的前因后果、关联线索与发展过程。
+**Ursprung:** 来龙去脉 begann als *fengshui* Geomantie-Jargon: 龙 (Drache) ist die Richtung, aus der eine Gebirgskette kommt, 脉 (Ader) der Weg, auf dem sich ihre Energie verteilt. Um das Terrain zu lesen, verfolgt man, wo der "Drache" herkommt und wo die "Ader" hingeht. Später wurde es in Erzählungen und Argumentationen übernommen: Um etwas klar zu erklären, kann man nicht einfach ein Fragment herausnehmen; man muss Ursache und Wirkung, die verbindenden Fäden, den gesamten Prozess berücksichtigen.
 
-**Verbindung:** 钟馗的“来龙去脉”恰恰由几个关键节点组成，每个节点都解释了他为何能成为“捉鬼之神”，而不仅是“可怕的鬼”：
+**Verbindung:** Zhong Kuis "Kommen und Gehen" ist aus einigen Schlüsselstellen aufgebaut, die jeweils erklären, warum er ein *Geister fangender Gott* wurde und nicht nur ein *furchterregender Geist*:
 
-1) **科举与相貌的冲突**：钟馗被设定为“才学极高却相貌丑陋”的读书人。科举是帝国选才制度的核心，状元是最高荣誉；而“因丑而夺名”把制度公正撕开一道口子。这个节点让钟馗的愤怒有了道德重量：他不是无端作恶，而是被不义逼到绝境。
+1. **Der Konflikt zwischen Talent und Aussehen.** Zhong Kui wird als Gelehrter mit extremem Wissen, aber hässlichen Zügen dargestellt. Die Prüfung war der Kern der kaiserlichen Talentauswahl, und der höchste Rang die größte Ehre; "den Rang wegen Hässlichkeit zu verlieren" reißt ein Loch in die Fairness des Systems. Dies verleiht seiner Wut moralisches Gewicht — er wird nicht ohne Grund böse; Ungerechtigkeit treibt ihn an den Rand.
 
-2) **以死明志与阴司任命**：撞阶而死（或撞门而死）是一个极端的“自证”。在后续叙事里，阴司/天庭任命他为鬼王或裁判者，使他的怨气转化为秩序的一部分：他不再是“报复人间”，而是“审判妖魔”。这一步把私人悲剧升级为公共正义。
+2. **Der Tod als Beweis, dann die Ernennung zur Unterwelt.** Sich den Kopf gegen die Stufen zu schlagen, ist ein extremes Akt der Selbstrechtfertigung. In späteren Erzählungen ernennt die Unterwelt ihn zum Geisterkönig oder Richter, wodurch sein Unrecht zu einem Teil der *Ordnung* wird: nicht mehr Rache an den Lebenden zu nehmen, sondern Dämonen zu richten. Private Tragödie wird in öffentliche Gerechtigkeit umgewandelt.
 
-3) **唐玄宗梦与灵验传播**：梦中小鬼偷香囊与玉笛，大鬼吞食小鬼，皇帝醒来病愈——这个结构非常适合在民间传播，因为它把“看不见的邪祟”具体化：偷走香囊、偷走玉笛，等于偷走香气、偷走礼乐与秩序；而钟馗吞鬼则是把秩序夺回。帝王痊愈又提供了“权威认证”。
+3. **Xuanzongs Traum und die Verbreitung der Wirksamkeit.** Das gestohlene Täschchen und die Flöte, der große Geist, der den kleinen verschlingt, der Kaiser, der geheilt aufwacht — eine Struktur, die ideal für die Übertragung in der Folklore ist, weil sie das Unsichtbare konkret macht: Stehlen Sie den Duft und die Musik, und Sie stehlen die Ordnung selbst; Zhong Kui, der den Geist verschlingt, ist die zurückgewonnene Ordnung. Die kaiserliche Genesung liefert "autoritative Bestätigung."
 
-4) **吴道子画像与镇宅机制**：唐玄宗命吴道子（吴道子 Wú Dàozǐ）画钟馗的传统说法，虽然原作已失、归属也属于传统叙述而非考古证据，但它解释了一个关键机制：钟馗如何从“梦中见过的鬼神”变成“家家户户可挂的画像”。画像被复制、分发、悬挂，钟馗变成护符（talisman）的视觉化存在：鬼见其像而退。
+4. **Wu Daozis Porträt und der Hausbewahrungsmechanismus.** Die Tradition, dass Xuanzong **Wu Daozi (吴道子)** beauftragte, Zhong Kui zu malen — das Original verloren, die Zuschreibung traditionell und nicht archäologisch — erklärt einen entscheidenden Schritt: wie Zhong Kui von "einem Geist, der in einem Traum gesehen wurde" zu "einem Bild, das jeder Haushalt aufhängen kann" wurde. Kopiert, verteilt und aufgehängt wird das Porträt zu einem Talisman: Geister sehen das Gesicht und ziehen sich zurück.
 
-这条“来龙去脉”也能帮助理解为何《黑神话：钟馗》适合做动作 RPG：钟馗的身份天然包含“跨界巡行（地狱与人间）”与“执行惩戒（捉鬼、降妖）”。在公布具体系统之前，我们至少知道：他不是被硬塞进战斗框架，而是战斗本就写在他的职能里。
+Dieses "Kommen und Gehen" erklärt auch, warum *Black Myth: Zhong Kui* zu einem Action-RPG passt: Seine Identität enthält bereits grenzüberschreitende Patrouille (Hölle und Menschenwelt) und die Vollstreckung von Strafen (Geister fangen, Dämonen zähmen). Bevor irgendwelche Systeme enthüllt werden, wissen wir zumindest, dass der Kampf in seinen Job geschrieben ist. Für mehr darüber, wie ein furchterregendes Gesicht zu einem Segen wird, lesen Sie [warum der hausbewahrende Türgott wichtig ist — Duanwu, Neujahrsdrucke und die fünf Segen Fledermäuse](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter).
 
-想延伸到钟馗作为门神、镇宅符号、端午与年画传统，可以顺手读同系列文章：[《黑神话：钟馗》里的“镇宅门神”为什么重要：端午、年画与五福蝙蝠](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter)。那篇更集中讲“为何一张可怕的脸反而带来福”。
-
-**Verwendung:** 当你要解释一个人物/传说为何能成立，别只讲“一个版本”；用“来龙去脉”把关键节点串成因果链。
+**Verwenden Sie es:** Wenn Sie erklären müssen, warum eine Figur oder Legende zusammenhält, erzählen Sie nicht nur eine Version — verwenden Sie 来龙去脉, um die Schlüsselstellen in eine Kette von Ursache und Wirkung zu verbinden.
 
 ---
 
-## [以貌取人](/blog/yi-mao-qu-ren) (yǐ mào qǔ rén) — “nach dem Aussehen urteilen”
+## [以貌取人](/blog/yi-mao-qu-ren) (yǐ mào qǔ rén) — "eine Person nach dem Aussehen beurteilen"
 
-**Bedeutung:** Menschen basierend auf ihrem Aussehen und nicht auf ihrem Wesen bewerten.
+**Bedeutung:** Menschen nach dem Aussehen und nicht nach dem Wesen bewerten.
 
-**Ursprung:** “以貌取人”常被追溯到《史记》中关于孔子弟子的记述：孔子曾因外貌与言辞对人抱有不同预期，后来发现判断失准，于是形成“不可只凭外貌取人”的训诫。这个成语的力量在于它并不否认外貌会影响第一印象，而是强调：把第一印象当作最终裁决，会造成制度性误判。
+**Ursprung:** 以貌取人 wird oft auf die *Aufzeichnungen des großen Historikers* zurückgeführt, wo Konfuzius zugibt, dass er einmal Schüler nach ihrem Aussehen und ihrer Rede falsch beurteilt hat, und bildet die Lehre: Man sollte Menschen nicht nur nach dem Aussehen beurteilen. Ihre Kraft liegt darin, dass sie nicht leugnet, dass das Aussehen den ersten Eindruck prägt — sie warnt, dass die Behandlung des ersten Eindrucks als endgültiges Urteil zu *systematischen* Fehlurteilen führt.
 
-**Verbindung:** 钟馗的核心悲剧，几乎就是“以貌取人”的寓言被写成血书：他在某些流行版本里本是状元，却因“相貌丑陋”被皇帝剥夺名次。这不是普通的求职受挫，而是帝国最高选拔制度在最后一刻被审美偏见劫持——才学被承认，面容却成了否决票。钟馗因此撞阶而死，后来又被阴司任命为捉鬼之神：讽刺在于，他死后终于穿上了那身“官帽官袍”的神职形象——生前被拒绝的体面，在死后以更暴烈的方式归来。
+**Verbindung:** Zhong Kuis zentrale Tragödie ist fast diese Redewendung, die in Blut geschrieben ist: In der populären Version ist er der beste Gelehrte der Prüfung, dem der Rang wegen seiner Hässlichkeit entzogen wird. Kein gewöhnlicher Karriere-Rückschlag, sondern der höchste Auswahlprozess des Reiches, der im letzten Moment von ästhetischer Voreingenommenheit entführt wird — sein Wissen wird anerkannt, sein Gesicht ist das entscheidende Veto. Er stirbt auf den Stufen und wird später zum Geister fangenden Gott ernannt: Die Ironie ist, dass er im Tod endlich die "offizielle Mütze und Robe" eines göttlichen Amtes trägt — die Würde, die ihm im Leben verweigert wurde, kehrt in einer gewaltsameren Form zurück. Die Traumversion verstärkt dies: Der geträumte Zhong Kui ist "in einer offiziellen Mütze, blauer Robe, zerrissen und wild", nennt sich einen gescheiterten Prüfungskandidaten. Hier werden seine Hässlichkeit und Wildheit zu den *Bedingungen* für den Exorzismus: Er muss furchterregend sein, damit Geister Angst vor ihm haben. Die Volkskultur verwandelt "hässlich" in "beeindruckend", das verspottete Gesicht in das Gesicht, das das Haus bewahrt — eine Umkehrung des Wertes: Da die lebende Welt Sie wegen Ihres Aussehens abgelehnt hat, macht die Unterwelt Ihr Aussehen zu Ihrer Waffe.
 
-唐玄宗梦的版本也强化了这一点：梦中钟馗“穿官帽、衣青袍、破碎而凶猛”，他自称是科举失意者。钟馗的丑与凶在这里反而成为“驱邪的必要条件”：他必须可怕，才能让鬼怕他。民间把“丑”转化为“威”，把“被嘲的面貌”转化为“镇宅的面貌”，这是一种价值反转：既然人间用外貌否定你，阴司就让外貌成为你的武器。
-
-放到游戏语境，这个主题非常锋利：动作 RPG 的主角往往被塑造成“英雄相”，但钟馗的传统形象偏偏是“丑、怒、须髯、目凸、气势压人”。如果《黑神话：钟馗》保留这种形象张力，它讲的就不只是打怪，而是对“审美即正义”的反击：一个被外貌判死刑的人，最终成为审判外貌偏见的神。
-
-**Verwendung:** 当你想批评一种“看起来合理、其实偷懒”的评价方式——只凭外表、出身、标签下结论——用“以貌取人”。
+**Verwenden Sie es:** Wenn Sie eine faule, aber plausible Art der Bewertung kritisieren möchten — das Urteilen nach Aussehen, Hintergrund oder Etiketten — verwenden Sie 以貌取人.
 
 ---
 
-## [事与愿违](/blog/shi-yu-yuan-wei) (shì yǔ yuàn wéi) — “die Dinge gehen gegen die eigenen Wünsche”
+## [事与愿违](/blog/shi-yu-yuan-wei) (shì yǔ yuàn wéi) — "Dinge laufen den Wünschen zuwider"
 
-**Bedeutung:** Die Realität stellt sich als das Gegenteil dessen heraus, was man sich erhofft hat.
+**Bedeutung:** Die Realität stellt sich als das Gegenteil dessen heraus, was man gehofft hat.
 
-**Ursprung:** “事与愿违”表达的是古典诗歌与人生经验里常见的落差感：人有愿望、有计划，但世事自有其走向。它在唐代诗歌语境中常被用来写失意与挫败：并非不努力，而是结果偏偏反向而来。它也与更深的哲学态态度相关：承认人力有限，承认命运与制度的不可控。
+**Ursprung:** 事与愿违 drückt eine Kluft aus, die in der klassischen Poesie und im gelebten Leben vertraut ist: Menschen haben Wünsche und Pläne, aber die Welt geht ihren eigenen Weg. In der Tang-Poesie beschreibt es oft Enttäuschung — nicht aus Mangel an Anstrengung, sondern weil das Ergebnis in die andere Richtung geht. Es verbindet sich auch mit einer tieferen Haltung: die Grenzen menschlicher Macht gegenüber Schicksal und Umständen anzuerkennen.
 
-**Verbindung:** 钟馗传说最扎心的地方，不是他“死后成神”，而是他“本可以不必死”。如果按最广为人知的版本，他已经是状元——人生愿望几乎抵达顶点；但最后一刻因外貌被夺名，愿望的实现被硬生生扭转，这就是最极端的“事与愿违”。他不是失败在能力，而是失败在权力者的偏见。于是他用撞阶自尽把这种落差推到不可回头的地步：愿望落空不是结局，死亡才是他对落空的回应。
+**Verbindung:** Das Schmerzlichste an Zhong Kuis Legende ist nicht, dass er "nach dem Tod ein Gott wird" — es ist, dass er *nicht hätte sterben müssen*. In der bekanntesten Version ist er bereits der beste Gelehrte, sein Lebenswunsch fast an seinem Höhepunkt; dann, im letzten Moment, wird der Rang wegen seines Aussehens entrissen. Die Erfüllung des Wunsches wird gewaltsam umgekehrt — das extremste 事与愿违. Er scheitert nicht an der Fähigkeit, sondern an der Voreingenommenheit der Mächtigen und beantwortet die Kluft mit dem Tod. Xuanzongs Traum beschreibt dasselbe Idiom von der anderen Seite: der schwer kranke Kaiser, der "über" der Medizin sein sollte, wacht geheilt auf — die Ereignisse schwingen in die entgegengesetzte Richtung. Die Volksnarrative lieben diese Umkehrung, weil sie Hoffnung bietet: Wenn die Realität keine Lösung hat, greift ein Geist ein und dreht das Ende um. So ist Zhong Kui nicht nur eine Figur des Schreckens, sondern auch eine Möglichkeit, "Unglück in Sicherheit zu verwandeln."
 
-唐玄宗梦的结构同样写“事与愿违”，只是换了角度：皇帝病重，本应“药石罔效”，却在梦醒后痊愈——事情朝着相反方向走。民间叙事喜欢这种反转，因为它提供希望：当现实无解时，神灵介入让结局翻盘。钟馗因此不仅是“恐怖形象”，也是“转厄为安”的可能性。
-
-把这种情绪带回到《黑神话：钟馗》的现实层面，也能读出冯骥所说“做全新标题”的风险：成功之后选择新主角、新神话，未必顺风顺水。游戏开发本身就常常事与愿违——创作愿景与技术、周期、资源之间总有冲突。官方目前只给出“地狱与人间游走的捉鬼之神”这一句定位，某种意义上也是在控制预期：不许诺剧情、不许诺系统，让愿望先收束，避免过早被现实打脸。
-
-**Verwendung:** 当你要描述“并非没努力，但结果偏偏反过来”的挫折感，用“事与愿违”。
+**Verwenden Sie es:** Um die Frustration von "Ich habe es versucht, aber es stellte sich als das Gegenteil heraus" zu beschreiben, verwenden Sie 事与愿违.
 
 ---
 
-## [众矢之的](/blog/zhong-shi-zhi-di) (zhòng shǐ zhī dì) — “Ziel vieler Pfeile”
+## [众矢之的](/blog/zhong-shi-zhi-di) (zhòng shǐ zhī dì) — "das Ziel vieler Pfeile"
 
 **Bedeutung:** Der Fokus weit verbreiteter Kritik, Angriffe oder Feindseligkeit.
 
-**Ursprung:** “众矢之的”字面是一群箭都射向同一个靶心（的）。在古代语境里，它常用来形容一个人在群体攻击中被集中火力：不一定因为他最有罪，而可能因为他最显眼、最方便被指责。这个成语因此带着一种政治与社会心理学意味：群体需要一个焦点来释放情绪，于是把复杂矛盾压缩到一个人身上。
+**Ursprung:** 众矢之的 ist buchstäblich eine Menge von Pfeilen, die alle auf ein Ziel (的) gerichtet sind. In der klassischen Verwendung beschreibt es eine Person, die konzentriertes Feuer von einer Gruppe erhält — nicht unbedingt die schuldhafteste, sondern die am *auffälligsten*, die am bequemsten zu beschuldigen ist. Es trägt einen Hinweis auf politische und soziale Psychologie: Eine Gruppe braucht einen Brennpunkt, um ihre Gefühle zu entladen, also komprimiert sie einen komplexen Konflikt auf eine Person.
 
-**Verbindung:** 钟馗的“众矢之的”，发生在他最接近成功的时刻。科举殿试的终点本应是荣耀，却在“相貌”问题上变成公开羞辱：当权者的目光、旁观者的议论、制度的冷漠，都可能在那一刻汇成“万箭齐发”。传说用“丑”作为触发点，非常残酷——因为“丑”无法辩护，无法申诉，甚至无法通过努力改变；它让钟馗在权力结构里成为天然的靶子。
+**Verbindung:** Zhong Kui wird zum "Ziel vieler Pfeile" in dem Moment, in dem er dem Erfolg am nächsten ist. Das Ende der Palastprüfung sollte Ruhm bringen; über die Frage des "Aussehens" wird es zur öffentlichen Demütigung — der Blick der Herrscher, das Gerede der Zuschauer, die Gleichgültigkeit des Systems, die alle in einem Geschoss zusammenlaufen. "Hässlichkeit" als Auslöser zu verwenden, ist besonders grausam, denn Hässlichkeit kann nicht argumentiert, angefochten oder durch Anstrengung behoben werden; sie macht Zhong Kui zu einem natürlichen Ziel innerhalb der Machtstruktur. Subtiler wird das Muster umgekehrt, wenn er ein Geister fangender Gott wird: Jetzt macht *er* die Dämonen zum Ziel. Der kleine Geist, der das Täschchen und die Flöte gestohlen hat, wird ergriffen, geblendet, verschlungen — vom Dieb zum Fokus der Bestrafung verwandelt. Die Erzählung vollendet eine psychologische Kompensation: Der Mann, der einmal kollektiv gedemütigt wurde, wird nach dem Tod zum Vollstrecker kollektiver Angst; das "Ziel", das keinen Weg zur Berufung hatte, wird zum Bogenschützen, der die Regeln für die Menschenwelt festlegt.
 
-更微妙的是，钟馗后来成为捉鬼神，也在另一层面上成为“众矢之的”的反转：他开始让妖魔鬼怪成为靶子。梦中那只小鬼偷走杨贵妃香囊与皇帝玉笛，被钟馗抓住、剜眼、吞食——它从“偷窃者”变成被惩戒的焦点。民间叙事在这里完成一种心理补偿：曾经被集体羞辱的人，死后成为集体恐惧的执行者；曾经无处申冤的“靶子”，变成了替人间立规矩的“弓箭手”。
-
-对动作 RPG 来说，这种结构非常“可玩”：钟馗不是漫无目的地杀怪，而是以“审判者”的身份把恶灵定为靶心。官方目前只确认他游走于地狱与人间，但“游走”意味着巡狩与缉捕——目标明确、对象成群。即使我们不能推测具体怪物与关卡，也能确定叙事气质：钟馗不是被动受害者，而是主动执法者。
-
-**Verwendung:** 当你要形容某个人/某个群体被集中指责或攻击，成为所有矛盾的出气口，用“众矢之的”。
+**Verwenden Sie es:** Wenn eine Person oder Gruppe für konzentrierte Schuldzuweisungen herausgegriffen wird — als Ventil für jede Spannung — verwenden Sie 众矢之的.
 
 ---
 
-## [厚积薄发](/blog/hou-ji-bo-fa) (hòu jī bó fā) — “tief ansammeln, scharf freisetzen”
+## [厚积薄发](/blog/hou-ji-bo-fa) (hòu jī bó fā) — "dick ansammeln, spärlich freisetzen"
 
 **Bedeutung:** Lange Vorbereitung führt zu einem kraftvollen, scheinbar mühelosen Durchbruch.
 
-**Ursprung:** “厚积薄发”常被用来形容文学与学术的成就路径：先长期积累（厚积），后集中爆发（薄发）。它与唐宋以来的文论气质相合——反对急就章，强调功夫在诗外。后世常用杜甫等诗人的经历来说明：真正的爆发并非凭空出现，而是长期沉潜后的必然喷涌。它也契合宋代理学的“渐修”观：积累不是拖延，而是把根基打厚。
+**Ursprung:** 厚积薄发 beschreibt den Weg literarischer und wissenschaftlicher Errungenschaften: zuerst lange Ansammlung (厚积), danach konzentrierte Freisetzung (薄发). Es passt zum literarischen Temperament der Tang–Song-Ära — gegen das hastige Stück, das darauf besteht, dass die echte Arbeit "außerhalb des Gedichts" geschieht. Spätere Schriftsteller verwendeten Dichter wie Du Fu, um dies zu veranschaulichen: Ein wahrer Ausbruch ist nicht spontan; es ist die unvermeidliche Eruption nach langer, stiller Ansammlung.
 
-**Verbindung:** 钟馗的“厚积薄发”，可以从两个层面看。
+**Verbindung:** Zhong Kuis 厚积薄发 funktioniert auf zwei Ebenen. Innerhalb der Legende: seine lebendige "Ansammlung" ist Lernen und Ambition — Zhongnan-Gelehrter, Prüfungssieger (oder, in der anderen Version, Prüfungsversager), immer als ein Mann des Studiums, des Willens und der Rechtschaffenheit dargestellt. Aber seine "Freisetzung" kommt nicht als offizieller Karriere im Leben, sondern als göttliches Amt nach dem Tod: Geisterkönig, Geister fangender Gott, Richter der Unterwelt. Der Ausbruch ist tragisch, trägt aber die ausgleichende Logik der klassischen Erzählung: Die Gerechtigkeit, die Sie in der Menschenwelt nicht erhalten können, mag innerhalb einer größeren Ordnung geehrt werden. Auf der kulturellen-medialen Zeitskala: Das Bild von Zhong Kui sammelte sich durch Tang-Geschichten, die Wu Daozi-Maltradition, Neujahrsdrucke, Duanwu-Exorzismus, *nuo*-Tänze und Opern wie *Zhong Kui Marries Off His Sister* (钟馗嫁妹) — wo er zurückkehrt, um dem Freund, der ihn begraben hat, zu danken, und "die Schwester verheiraten" (嫁妹) spielt auf "den Dämon abschicken" (嫁魅) an. Diese Ansammlung ist genau der Grund, warum sein Erscheinen in einem modernen Spiel natürlich und nicht willkürlich erscheint. Feng Ji, der dies als "brandneuen Titel" nach *Wukong* rahmt, ist die moderne Version von 厚积薄发: nicht von einem vertrauten Helden zu leben, sondern angesammelte Produktionserfahrung in einen neuen Ausbruchspunkt zu verwandeln.
 
-第一层是传说内部：钟馗生前的“积”是才学与抱负——终南山读书人、科举夺魁（或科举失意的另一版本），无论哪条线，他都被设定为“有学、有志、有正气”的人。可他的“发”不是在阳间实现仕途，而是在死后以神职形式爆发：成为鬼王、捉鬼之神、阴司裁判。这个爆发带着悲剧性，但也带着一种古典叙事的补偿逻辑：你在人间得不到的公正，可能在更大的秩序里得到兑现。钟馗的怒与威之所以有效，正因为它背后有长期被压抑的“正当性”。
+**Verwenden Sie es:** Wenn Sie sagen möchten "eilen Sie nicht zum Ergebnis — bauen Sie das Fundament dick; der echte Ausbruch kommt aus langer Vorbereitung", verwenden Sie 厚积薄发.
 
-第二层是文化与媒介的时间尺度：钟馗形象经过唐代故事、吴道子画像传统、年画张贴、端午驱邪、傩仪跳钟馗、戏曲《钟馗嫁妹》（钟馗嫁妹 Zhōng Kuí jià mèi）等形式不断积累，才让他在今天进入游戏时显得“顺理成章”。尤其“钟馗嫁妹”的母题里，钟馗死后回返阳间，为妹妹主持婚事，报答杜平（Du Ping）为他收殓安葬的恩情；“嫁妹”又谐“嫁魅”（送走鬼魅）。这类故事把钟馗从“只会杀鬼的凶神”扩展成“讲情义、懂人伦”的复杂角色——这种复杂性就是厚积：它让现代创作者有更多角度可取，不必把钟馗写成单一的“打怪机器”。
+---
 
-再回到《黑神话：钟馗》的现实信息：官方确认它是《黑神话》系列继《悟空》之后的第二部，定位为单人动作 RPG；但目前没有公布战斗系统、叙事结构、可操作角色细节。正因为未知很多，越需要“厚积薄发”的耐心：对玩家是耐心等待，对创作者是把文化与玩法的积累做扎实。冯骥把它框定为《悟空》之后的“全新标题”，意味着团队不靠同一套熟悉角色吃老本，而要把积累的制作经验转化为新的爆发点——这恰是厚积薄发的现代版本。
-
-想把钟馗“镇宅、门神、端午、年画、五福蝙蝠（蝙蝠 biān fú / 福 fú 的谐音）”这一整套民俗积累看得更清楚，可以接着读系列文章：[《黑神话：钟馗》里的“镇宅门神”为什么重要：端午、年画与五福蝙蝠](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter)。那篇谈的是钟馗如何把“恐怖”转译成“福气”，也是厚积薄发的一种：可怕的脸，最终被用来守护家门。
-
-**Verwendung:** 当你想表达“别急着要结果，先把底子攒厚；真正的爆发来自长期准备”，用“厚积薄发”。
+Möchten Sie die haushaltsbewahrende Seite des Mythos — Türgötter, Duanwu, Neujahrsdrucke und die fünf Segen Fledermäuse? Lesen Sie [warum der "hausbewahrende Türgott" in Black Myth: Zhong Kui wichtig ist](/blog/black-myth-zhong-kui-why-zhongzhai-menshen-duanwu-wufu-bats-matter). Neu im Spielecluster? Beginnen Sie mit [Black Myth: Wukong und den Redewendungen, die jeder Fan kennen sollte](/blog/black-myth-wukong-idioms-every-fan-should-know).
