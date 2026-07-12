@@ -17,7 +17,7 @@ description: >-
   admettre que le voyage dans le temps se produit.
 originalSlug: joy-of-life-time-travel-censorship-fan-xian-modern-consciousness
 ---
-Si vous avez regardé *Joy of Life (庆余年)* ou *Joy of Life 2* et que vous êtes resté incertain de savoir si Fan Xian a littéralement des souvenirs modernes ou s'il est juste un personnage dans une histoire qu'un étudiant moderne écrit — vous n'êtes pas confus. Vous lisez le drame correctement. Cette incertitude est délibérée, et la raison pour laquelle elle est délibérée est une contrainte réglementaire chinoise spécifique : les plateformes de streaming et les diffuseurs chinois sont tenus de restreindre les intrigues de voyage dans le temps, et le roman *Joy of Life* est, dans sa forme originale, une histoire de voyage dans le temps.
+Si vous avez regardé *Joy of Life (庆余年)* ou *Joy of Life 2* et que vous êtes resté incertain de savoir si Fan Xian a littéralement des souvenirs modernes ou s'il est simplement un personnage dans une histoire qu'un étudiant moderne écrit — vous n'êtes pas confus. Vous lisez le drame correctement. Cette incertitude est délibérée, et la raison pour laquelle elle est délibérée est une contrainte réglementaire chinoise spécifique : les plateformes de streaming et les diffuseurs chinois sont tenus de restreindre les intrigues de voyage dans le temps, et le roman *Joy of Life* est, dans sa forme originale, une histoire de voyage dans le temps.
 
 Voici ce que fait l'adaptation — et pourquoi comprendre le cadre caché change la façon dont l'ensemble du drame se lit.
 
@@ -27,28 +27,28 @@ Voici ce que fait l'adaptation — et pourquoi comprendre le cadre caché change
 
 Le roman de Mao Ni *Qìng Yú Nián*, sérialisé sur Qidian de 2007 à 2009 sur 826 chapitres, s'ouvre sur un **étudiant diplômé moderne nommé Zhang Qingnuo (张庆) au bord de la mort**. Dans le cadre du roman, Zhang écrit une thèse soutenant que les valeurs politiques modernes — droits individuels, égalité devant la loi, liberté de pensée — ne peuvent pas être comprises à travers la pure philosophie. Vous ne pouvez les voir clairement qu'en imaginant un esprit moderne placé dans un contexte ancien, forcé de naviguer dans un système politique prémoderne tout en portant des hypothèses modernes.
 
-Le reste des 826 chapitres est cette thèse, rendue sous forme de fiction. Une conscience moderne nommée Fan Xian se réveille dans le corps d'un homme chinois ancien. Il porte des souvenirs de livres modernes, de lois modernes, d'attentes modernes. Le roman suit comment ces valeurs modernes survivent, mutent ou échouent lorsqu'elles sont mises en contact avec la politique de cour impériale, une économie préindustrielle et une société qui n'a pas inventé l'idée des droits universels.
+Le reste des 826 chapitres est cette thèse, rendue sous forme de fiction. Une conscience moderne nommée Fan Xian se réveille dans le corps d'un homme chinois ancien. Il porte des souvenirs de livres modernes, de lois modernes, d'attentes modernes. Le roman suit comment ces valeurs modernes survivent, mutent ou échouent lorsqu'elles sont mises en contact avec la politique de cour impériale, une économie pré-industrielle et une société qui n'a pas inventé l'idée de droits universels.
 
-Dans l'intrigue littérale, Fan Xian est une **conscience transmigrée** — un postulat commun dans la fiction web chinoise, appelé **穿越 (chuānyuè)** — le genre du "croisement". Ces histoires impliquent généralement des personnes modernes se réveillant dans des corps dynastiques et utilisant des connaissances du XXIe siècle pour perturber des événements historiques.
+Dans l'intrigue littérale, Fan Xian est une **conscience transmigrée** — un postulat commun dans la fiction web chinoise, appelée **穿越 (chuānyuè)** — le genre du "croisement". Ces histoires impliquent généralement des personnes modernes se réveillant dans des corps dynastiques et utilisant des connaissances du 21ème siècle pour perturber des événements historiques.
 
 ---
 
 ## Pourquoi le Voyage dans le Temps est Restreint à la Télévision Chinoise
 
-En 2011, l'Administration d'État de la radio, du film et de la télévision de Chine (SARFT, maintenant NRTA) a émis une directive réglementaire restreignant les intrigues de voyage dans le temps à la télévision chinoise. La raison, à peu près paraphrasée de l'annonce officielle :
+En 2011, l'Administration d'État de la radio, du film et de la télévision de Chine (SARFT, maintenant NRTA) a émis une directive réglementaire restreignant les intrigues de voyage dans le temps à la télévision chinoise. La raison, grossièrement paraphrasée de l'annonce officielle :
 
 - Les intrigues de voyage dans le temps sont **futiles** et déforment l'histoire
 - Elles traitent le passé comme un **terrain de jeu pour le divertissement** plutôt qu'un objet d'étude sérieux
 - Elles apprennent aux audiences à **mépriser l'authenticité historique**
 - Elles permettent des intrigues qui **ridiculisent la culture classique**
 
-La réglementation visait une explosion de genre spécifique — les drames de voyage dans le temps coréens et chinois étaient devenus massivement populaires à la fin des années 2000, et la SARFT considérait leur relation décontractée avec l'histoire comme un problème culturel. La restriction n'a jamais été une interdiction totale ; c'était une directive selon laquelle les plateformes de streaming et les diffuseurs ne devraient pas approuver des projets dont le postulat central est le voyage dans le temps.
+La réglementation visait une explosion spécifique de genre — les drames de voyage dans le temps coréens et chinois étaient devenus massivement populaires à la fin des années 2000, et la SARFT considérait leur relation décontractée avec l'histoire comme un problème culturel. La restriction n'a jamais été une interdiction totale ; c'était une directive selon laquelle les plateformes de streaming et les diffuseurs ne devraient pas approuver des projets dont le postulat central est le voyage dans le temps.
 
-En pratique, cela signifiait :
+Dans la pratique, cela signifiait :
 
 - Les adaptations de romans avec des postulats explicites de voyage dans le temps devaient modifier ces postulats pour être diffusées
 - La modification prenait généralement la forme de : *c'était tout un rêve / c'était tout un roman dans un roman / les connaissances modernes du protagoniste sont expliquées par autre chose que le voyage dans le temps*
-- Une génération d'adaptations de fiction web prétendait que leurs protagonistes avaient acquis leurs sensibilités modernes par "l'étude de textes anciens" ou "en étant un génie" plutôt que par la transmigration
+- Une génération d'adaptations de fiction web prétendait que leurs protagonistes avaient acquis leurs sensibilités modernes par "l'étude de textes anciens" ou "en étant un génie" plutôt que par transmigration
 
 C'est le contexte réglementaire auquel l'adaptation télévisée de *Joy of Life* a dû faire face.
 
@@ -58,17 +58,17 @@ C'est le contexte réglementaire auquel l'adaptation télévisée de *Joy of Lif
 
 La solution de l'émission était élégante : elle a préservé le dispositif de cadrage original du roman (Zhang Qingnuo écrivant une thèse) mais l'a présenté comme potentiellement métaphorique plutôt que littérale.
 
-Dans l'ouverture froide du drame, Zhang Ruoyun — l'acteur qui joue Fan Xian — joue également Zhang Qingnuo, un étudiant universitaire chinois moderne présentant une thèse à un professeur sceptique. Zhang Qingnuo propose que sa thèse sera un roman illustrant comment les valeurs modernes se présentent lorsqu'elles sont placées dans un contexte ancien. Le professeur écoute. La narration passe ensuite au "roman" que l'étudiant est en train d'écrire.
+Dans l'ouverture froide du drame, Zhang Ruoyun — l'acteur qui joue Fan Xian — joue également Zhang Qingnuo, un étudiant universitaire chinois moderne présentant une thèse à un professeur sceptique. Zhang Qingnuo propose que sa thèse sera un roman illustrant comment les valeurs modernes se présentent lorsqu'elles sont placées dans un contexte ancien. Le professeur écoute. La narration passe ensuite dans le "roman" que l'étudiant est en train d'écrire.
 
 À partir de ce cadre, le drame maintient une ambiguïté plausible :
 - Fan Xian est-il une conscience moderne littérale transmigrée dans un corps ancien ?
 - Ou Fan Xian est-il un *personnage fictif* que l'étudiant moderne écrit, qui a des valeurs modernes simplement parce que son auteur est une personne moderne ?
 
-L'émission ne répond jamais. Chaque scène qui pourrait confirmer le voyage dans le temps est soigneusement mise en scène de manière à pouvoir également être lue comme une touche d'écrivain — l'étudiant-auteur donnant à son protagoniste des connaissances qu'il ne pourrait pas avoir de manière réaliste.
+L'émission ne répond jamais. Chaque scène qui pourrait confirmer le voyage dans le temps est soigneusement mise en scène de manière à pouvoir également être lue comme une touche d'écrivain — l'étudiant-auteur donnant à son protagoniste des connaissances qu'il ne pourrait pas raisonnablement avoir.
 
 ### Pourquoi Cela Compte
 
-Cette ambiguïté n'est pas un écriture paresseuse. C'est un art sous pression réglementaire. Si le drame confirmait explicitement le voyage dans le temps, cela violerait les directives de la SARFT. S'il niait explicitement le voyage dans le temps, cela contredirait trop fortement le roman source et aliénerait la vaste base de lecteurs de Mao Ni. Ainsi, il maintenait les deux lectures simultanément.
+Cette ambiguïté n'est pas une écriture paresseuse. C'est un art sous pression réglementaire. Si le drame confirmait explicitement le voyage dans le temps, cela violerait les directives de la SARFT. S'il niait explicitement le voyage dans le temps, cela contredirait trop fortement le roman source et aliénerait la vaste base de lecteurs de Mao Ni. Ainsi, il maintenait les deux lectures simultanément.
 
 Le résultat est un drame qui :
 - Fonctionne littéralement comme *une histoire de fantasy historique sur un jeune homme exceptionnellement éclairé*
@@ -79,7 +79,7 @@ Les trois lectures sont valides. Aucune n'est contredite par les preuves à l'é
 
 ---
 
-## Comment le Cadre Apparaît dans des Scènes Spécifiques
+## Comment le Cadre Se Manifeste dans des Scènes Spécifiques
 
 Une fois que vous connaissez le cadre caché, des scènes spécifiques se lisent différemment.
 
@@ -87,7 +87,7 @@ Une fois que vous connaissez le cadre caché, des scènes spécifiques se lisent
 
 Fan Xian plaide pour l'état de droit, la restriction du pouvoir impérial arbitraire et le traitement égalitaire des roturiers et des esclaves. Dans l'histoire littérale, il est simplement un génie moral né à une époque ancienne. Dans le cadre caché, il porte des valeurs modernes parce que la modernité de son auteur transparaît à travers lui.
 
-Ses éclats occasionnels — lorsqu'il soutient que la loi devrait s'appliquer également à l'Empereur — ne sont pas seulement des moments de caractère. Ce sont l'énoncé de thèse du roman. Tout le but du postulat de transmigration est de mettre en scène exactement ce type de confrontation entre les valeurs modernes et les institutions prémodernes.
+Ses éclats occasionnels — lorsqu'il soutient que la loi devrait s'appliquer également à l'Empereur — ne sont pas seulement des moments de caractère. Ce sont les déclarations de thèse du roman. Tout le but du postulat de transmigration est de mettre en scène exactement ce type de confrontation entre les valeurs modernes et les institutions prémodernes.
 
 ### La Récitation de Poésie
 
@@ -97,19 +97,19 @@ C'est pourquoi sa poésie a tant de poids dans l'histoire. Zhuang Mohan, le gran
 
 ### Ye Qingmei (叶轻眉) : L'Autre Conscience Moderne
 
-La mère de Fan Xian, Ye Qingmei — qui a fondé le Conseil d'Overwatch, conçu des armes à feu précoces, inventé des instruments financiers innovants et plaidé pour des principes de gouvernance des siècles avant son époque — est fortement impliquée pour être *une autre* conscience transmigrée. Le roman le rend explicite (elle avait des souvenirs modernes, connaissait la science moderne, a essayé de réformer le monde ancien). Le drame l'implique à travers ses inventions et sa philosophie politique sans nommer le mécanisme.
+La mère de Fan Xian, Ye Qingmei — qui a fondé le Conseil d'Overwatch, conçu des armes à feu précoces, inventé des instruments financiers innovants et plaidé pour des principes de gouvernance des siècles avant son époque — est fortement impliquée pour être *une autre* conscience transmigrée. Le roman le rend explicite (elle avait des souvenirs modernes, connaissait la science moderne, essayait de réformer le monde ancien). Le drame l'implique à travers ses inventions et sa philosophie politique sans nommer le mécanisme.
 
-C'est pourquoi elle est un fantôme dans la Saison 1 — connue à travers ses écrits et son héritage politique. L'émission peut faire référence à son travail sans mettre en scène directement sa transmigration. La Saison 2 fait surface plus de ses documents, et le poids inférentiel s'accumule. Les spectateurs qui connaissent le roman comprennent ce que le drame ne peut pas dire.
+C'est pourquoi elle est un fantôme dans la Saison 1 — connue à travers ses écrits et son héritage politique. L'émission peut faire référence à son travail sans mettre en scène sa transmigration directement. La Saison 2 fait surface plus de ses documents, et le poids inférentiel s'accumule. Les spectateurs qui connaissent le roman comprennent ce que le drame ne peut pas dire.
 
-### Saison 3 et Au-delà
+### Saison 3 et Au-Delà
 
-Joy of Life S3, confirmé pour 2026, est apparemment en cours de tournage consécutif avec S4. Les deux continuent l'arc politique du roman, qui dans les chapitres ultérieurs devient plus explicite sur le cadre de conscience moderne. Comment l'adaptation télévisée gérera ces chapitres ultérieurs — si elle peut maintenir l'ambiguïté ou doit commencer à s'engager dans une lecture — est une question d'art ouverte que les fans suivent de près.
+La Saison 3 de Joy of Life, bien qu'elle ne soit pas encore officiellement datée (les rapports indiquent 2027 plutôt que 2026), est rumeur d'être filmée consécutivement avec la Saison 4 — une affirmation qui découle d'une remarque décontractée sur scène d'un membre de la distribution, Tian Yu (田雨), plutôt qu'une annonce officielle. Les deux continueraient l'arc politique du roman, qui dans les chapitres ultérieurs devient plus explicite sur le cadre de conscience moderne. Comment l'adaptation télévisée gère ces chapitres ultérieurs — si elle peut maintenir l'ambiguïté ou doit commencer à s'engager dans une lecture — est une question d'art ouverte que les fans surveillent de près.
 
 ---
 
 ## Pourquoi C'est une Adaptation Sophistiquée
 
-Adapter un roman de voyage dans le temps sous une restriction de voyage dans le temps est le genre de contrainte qui produit soit des compromis catastrophiques, soit un art exceptionnellement soigné. L'adaptation de *Joy of Life* est le second type. En traitant la restriction comme un défi formel plutôt que comme un problème de contenu, le scénariste Wang Juan et le réalisateur Sun Hao ont produit un drame qui :
+Adapter un roman de voyage dans le temps sous une restriction de voyage dans le temps est le genre de contrainte qui produit soit des compromis catastrophiques, soit un art exceptionnellement soigné. L'adaptation de *Joy of Life* est le second type. En traitant la restriction comme un défi formel plutôt qu'un problème de contenu, le scénariste Wang Juan et le réalisateur Sun Hao ont produit un drame qui :
 
 - Ne viole pas les directives de la SARFT
 - Ne trahit pas le postulat original de Mao Ni
@@ -117,7 +117,7 @@ Adapter un roman de voyage dans le temps sous une restriction de voyage dans le 
 - Offre aux lecteurs du livre une expérience plus riche sans exclure les nouveaux spectateurs
 - Utilise l'ambiguïté comme sa propre forme de tension narrative
 
-C'est pourquoi *Joy of Life* porte un tel poids en tant qu'objet culturel en Chine. Ce n'est pas seulement un drame populaire. C'est un exemple travaillé de la manière d'adapter une littérature sérieuse sous contrainte réglementaire — quelque chose que chaque scénariste chinois doit naviguer, et peu le font aussi bien.
+C'est pourquoi *Joy of Life* porte un tel poids en tant qu'objet culturel en Chine. Ce n'est pas seulement un drame populaire. C'est un exemple travaillé de la façon d'adapter une littérature sérieuse sous contrainte réglementaire — quelque chose que chaque scénariste chinois doit naviguer, et peu le font aussi bien.
 
 ---
 
@@ -125,7 +125,7 @@ C'est pourquoi *Joy of Life* porte un tel poids en tant qu'objet culturel en Chi
 
 Si vous regardez *Joy of Life* sur Disney+ ou Amazon, le cadre caché change la façon dont des épisodes spécifiques se lisent :
 
-1. **Regardez l'Épisode 1 deux fois.** La première fois, regardez l'étudiant dans l'ouverture froide comme une décoration. La deuxième fois, regardez-le comme le cadre que le reste de la série habite.
+1. **Regardez l'Épisode 1 deux fois.** La première fois, regardez l'étudiant dans l'ouverture froide comme décoration. La deuxième fois, regardez-le comme le cadre que le reste de la série habite.
 
 2. **Remarquez ce que Fan Xian sait.** Il connaît des principes de gouvernance qui n'existaient pas dans son monde. Il connaît des poèmes qui n'existent pas dans son monde. Il connaît des sciences qui n'existent pas. Ce n'est pas une caractérisation aléatoire — c'est le postulat de transmigration qui opère sous la surface.
 
@@ -135,4 +135,4 @@ Si vous regardez *Joy of Life* sur Disney+ ou Amazon, le cadre caché change la 
 
 Le drame ne vous cache rien. Il met en scène un argument intellectuel — modernité contre prémodernité — dans des conditions réglementaires qui exigeaient que l'argument soit déguisé en une histoire d'amour et de politique. Vous pouvez le lire de cette manière. Les lectures plus intelligentes viennent lorsque vous le lisez des deux manières à la fois.
 
-*Joy of Life* est diffusé sur Disney+ (marchés sélectionnés) et Amazon Prime. Basé sur le roman de Mao Ni. La Saison 3 et la Saison 4 sont en cours de tournage simultanément, toutes deux dirigées par Sun Hao et écrites par Wang Juan, visant une sortie en 2026.
+*Joy of Life* est diffusé sur Disney+ (marchés sélectionnés) et Amazon Prime. Basé sur le roman de Mao Ni. La Saison 3 (avec Sun Hao revenant apparemment pour réaliser et Wang Juan pour écrire) n'a pas été officiellement datée et n'est pas attendue avant 2027 ; les discussions sur les Saisons 3 et 4 filmées simultanément restent des rumeurs non confirmées.

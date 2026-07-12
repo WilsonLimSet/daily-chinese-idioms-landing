@@ -10,7 +10,7 @@ description: "Author Shi Si Lang built a shared xianxia universe across three er
 ---
 Most international fans who watched the 2026 iQIYI and Tencent Video hit *Fate Chooses You* (佳偶天成, *jiā ǒu tiān chéng*) saw a beautifully tragic xianxia romance about a cursed clan heir and a gifted cultivator. They saw a story of contract marriage, sacrifice, and a final, bittersweet reunion on a boat. What almost none of them realized is that they were not just watching a single drama; they were witnessing the end of a world.
 
-*Fate Chooses You* is the chronological final chapter in a sweeping, 10,000-year shared universe created by author 十四郎 (Shi Si Lang). It is the third part of a trilogy that spans from the age of gods to the dawn of the human era, connecting the events of *Forever Love* (念无双, 2024) and *The Killing of Three Thousand Crows* (三千鸦杀, 2020). This hidden architecture transforms the drama from a standalone story into the poignant culmination of an epic, where the actions of its heroes canonically end the age of cultivation for their entire universe.
+*Fate Chooses You* is the chronological final chapter in a sweeping, 10,000-year shared universe created by author 十四郎 (Shi Si Lang). It is the third part of a trilogy that spans from the age of gods to the dawn of the human era, connecting the events of *Forever Love* (念无双, 2025) and *The Killing of Three Thousand Crows* (三千鸦杀, 2020). This hidden architecture transforms the drama from a standalone story into the poignant culmination of an epic, where the actions of its heroes canonically end the age of cultivation for their entire universe.
 
 ### The Three Eras of the Shi Si Lang Universe
 
@@ -18,8 +18,8 @@ Author Shi Si Lang meticulously constructed a cosmology that progresses through 
 
 | Era | Novel | Drama Adaptation | Lead Pairing | Setting |
 |---|---|---|---|---|
-| **上古 (Ancient)** | *天下无双* | *念无双 / Forever Love* (2024) | Tang Yan + Liu Xueyi | Era of the Ancient Gods (上古神族) |
-| **修仙 (Cultivation)** | *三千鸦杀* | *The Killing of Three Thousand Crows* (2020) | Zhao Liying + Zheng Yecheng | The age of immortals and sects, thousands of years later |
+| **上古 (Ancient)** | *天下无双* | *念无双 / Forever Love* (2025) | Tang Yan + Liu Xueyi | Era of the Ancient Gods (上古神族) |
+| **修仙 (Cultivation)** | *三千鸦杀* | *The Killing of Three Thousand Crows* (2020) | Zhao Lusi + Zheng Yecheng | The age of immortals and sects, thousands of years later |
 | **人间 (Mortal/Human)** | *佳偶天成* | **Fate Chooses You (2026)** | Ren Jialun + Wang Herun | The mortal world, where the age of gods is a distant memory |
 
 The universe begins in *Forever Love*, an era populated by the 上古神族 (Ancient Gods). From these gods descend two races of 神侍 (divine attendants): the 有狐族 (Fox Clan) and the 战鬼族 (Battle Ghost Clan). Millennia later, after the gods have faded, the 人族 (Human Clan) rises, ushering in the 修仙 (Cultivation) era depicted in *The Killing of Three Thousand Crows*. This is the classic xianxia world of sects, spiritual power, and the quest for immortality. Finally, *Fate Chooses You* is set in the 人间 (Mortal/Human) era, where the path to godhood is all but closed and the divine attendants are cursed, hunted remnants of a forgotten age.
@@ -102,7 +102,7 @@ This act canonically ends the cultivation era of the Shi Si Lang universe. It is
 
 For those new to Shi Si Lang's universe, there are two ways to approach the trilogy:
 
-1.  **Release Order (as audiences saw it):** *The Killing of Three Thousand Crows* (2020) → *Forever Love* (2024) → *Fate Chooses You* (2026). This path preserves the mystery and allows the "easter egg" appearances of Fu Jiuyun and Yuan Zhong to be surprising reveals.
+1.  **Release Order (as audiences saw it):** *The Killing of Three Thousand Crows* (2020) → *Forever Love* (2025) → *Fate Chooses You* (2026). This path preserves the mystery and allows the "easter egg" appearances of Fu Jiuyun and Yuan Zhong to be surprising reveals.
 2.  **Chronological Order (in-universe time):** *Forever Love* (Ancient Era) → *The Killing of Three Thousand Crows* (Cultivation Era) → *Fate Chooses You* (Mortal Era). This approach provides a clearer understanding of the world's history and the origins of the curses and conflicts that define the later stories.
 
 Regardless of the order, knowing the connection enriches the experience, turning a simple viewing into an exercise in appreciating a decade-spanning literary and dramatic project. It's a fantastic way to deepen your understanding of xianxia storytelling, and if you're interested in the specific vocabulary of this genre, be sure to check out our guide, **[Learn Chinese Watching Fate Chooses You (佳偶天成)](/blog/learn-chinese-watching-fate-chooses-you)**.

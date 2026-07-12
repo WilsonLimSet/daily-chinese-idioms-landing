@@ -41,7 +41,7 @@ He dies smiling in her arms. She carries him back into Guīxū (归墟), the Spi
 
 **What the canonical ending means.** The BE is not nihilistic. It is the payoff of the drama's thesis — that love in a finite lifetime is worth more than love without a lifetime. Duan Xu's choice is not "I die so you can live." It is *"I die so that you, who have lived four hundred years without ever feeling the sun, can feel it fully for a few hours before I go."* The tragedy is not that he dies. It is that the cost of her first full day of being alive is the only person who could give it to her.
 
-This is the ending Chinese literary tradition would call 凄美 (qī měi) — "sorrowfully beautiful." It's the ending of [情深不寿](/blog/qing-shen-bu-shou) ("those who love deeply do not live long"), of [天人永隔](/blog/tian-ren-yong-ge) ("forever parted between heaven and earth"). It is the ending the drama's title *"白日提灯"* has been quietly predicting since episode one: a lantern lit in broad daylight is a funerary image. It was always going to end at a grave.
+This is the ending Chinese literary tradition would call 凄美 (qī měi) — "sorrowfully beautiful." It's the ending of 情深不寿 ("those who love deeply do not live long"), of 天人永隔 ("forever parted between heaven and earth"). It is the ending the drama's title *"白日提灯"* has been quietly predicting since episode one: a lantern lit in broad daylight is a funerary image. It was always going to end at a grave.
 
 ---
 
@@ -69,7 +69,7 @@ The dual ending is not unique to *Love Beyond the Grave*. It's become a minor ge
 
 The structure solves a real problem.
 
-Chinese audiences are divided. Half of the viewership skews toward the literary tradition — the *Liaozhai Zhiyi* ghost tales, the classical poetry of parting and regret, the aesthetic of [物是人非](/blog/wu-shi-ren-fei). That audience wants the BE. They believe the tragedy is what gives the love its weight.
+Chinese audiences are divided. Half of the viewership skews toward the literary tradition — the *Liaozhai Zhiyi* ghost tales, the classical poetry of parting and regret, the aesthetic of 物是人非. That audience wants the BE. They believe the tragedy is what gives the love its weight.
 
 The other half watches dramas as emotional infrastructure. They have jobs, families, pressure. They want the HE. They believe the drama owes them a reward for the forty episodes of investment.
 

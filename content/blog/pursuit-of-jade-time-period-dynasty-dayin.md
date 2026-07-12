@@ -39,7 +39,7 @@ A handful of English-language fan write-ups have transcribed the dynasty using t
 
 - **Capital and provinces:** "一京十二府" (one capital + twelve prefectures). The western frontier occupies four prefectures.
 - **Border state:** The northern enemy is **北厥 (Beique)**, a steppe / nomadic-coded antagonist whose name echoes the historical 突厥 (Türk Khaganate) — a frequent shorthand for "northern tribal threat" in Tang-flavored costume drama.
-- **Inciting incident:** The sixteen-year-old Jinzhou Massacre (锦州惨案), in which Crown Prince Chengde and the famed Marquis Wu'an (Xie Zheng's father) were lost on the battlefield.
+- **Inciting incident:** The sixteen-year-old Jinzhou Massacre (瑾州惨案), in which Crown Prince Chengde and the famed Marquis Wu'an (Xie Zheng's father) were lost on the battlefield.
 - **Post-massacre power structure:** Chancellor Wei Yan (魏严) installed a younger imperial son (Qi Sheng) on the throne and consolidated power — a setup that lifts the political shape of late-Tang and Ming-era regency intrigue.
 
 ---
@@ -54,7 +54,7 @@ After *Nirvana in Fire* (《琅琊榜》, 2015) became a global hit using a fict
 
 ### 2. Plot freedom
 
-Writers can stage massacres, regicides, eunuch coups, and women-led armies without scholars protesting the chronology. The author **Tuanzi Laixi** has stated she was inspired by **late-Ming general Qin Liangyu (秦良玉, 1574–1648)** — the only woman in Chinese dynastic history officially appointed a regional military commander. But rather than write a Ming-era period drama (which would force conformity to documented dates, ranks, and outcomes), she abstracted the character into a fictional setting where Fan Changyu can rise from butcher's daughter to **General Huaihua (怀化将军)** without historical contradiction.
+Writers can stage massacres, regicides, eunuch coups, and women-led armies without scholars protesting the chronology. The author **Tuanzi Laixi** has stated she was inspired by **late-Ming general Qin Liangyu (秦良玉, 1574–1648)** — the only woman in Chinese dynastic history officially appointed a regional military commander. But rather than write a Ming-era period drama (which would force conformity to documented dates, ranks, and outcomes), she abstracted the character into a fictional setting where Fan Changyu can rise from butcher's daughter to the **Flower-Crowned General (簪花将军)** without historical contradiction.
 
 ### 3. Aesthetic mixing
 
@@ -80,7 +80,7 @@ Chinese and English reviewers converge on a layered reading: **the Dayin Dynasty
 
 ### Tang influences (dominant for military / officialdom)
 
-- **General Huaihua (怀化将军)**, the third-rank military honorific Fan Changyu earns in the finale, is a **real Tang Dynasty title (正三品下, Regular Third Rank Lower Grade)** within the 九品十六级 (nine-rank, sixteen-grade) Tang military hierarchy. It sat just below the Huaihua Great General (怀化大将军, Regular Third Rank Upper). Historically the Tang awarded this title to surrendered tribal leaders under the **羁縻 (jīmí) frontier policy** to bind them to imperial rank. The drama uses it as a substantive command title rather than its strict historical honorific function.
+- **The Flower-Crowned General (簪花将军)**, the fourth-rank military title Fan Changyu earns in the finale, takes its name from the 簪花 (zānhuā, "flower-pinning") court ceremony rather than from any documented rung of the Tang rank ladder (see the 簪花 note below). It is a title coined for the drama — evoking Tang–Song court honors rather than reproducing a historical office.
 - The cosmopolitan, semi-foreign northern enemy **北厥 (Beique)** echoes the Tang's relationship with the **突厥 (Turkic Khaganates)**.
 - The 簪花 (zānhuā, "flower-pinning") ceremony — soldiers and officials having flowers pinned in their hats by the emperor at victory banquets — bridges late-Tang and Northern Song court ritual.
 

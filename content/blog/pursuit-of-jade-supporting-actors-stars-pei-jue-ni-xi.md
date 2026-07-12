@@ -11,7 +11,7 @@ description: "Lin Muran gained 1.4 million followers from one scene. Kong Xueer 
 
 In the C-drama industry, leads get the marketing budget, the magazine covers, and the fan wars. Supporting actors get a salary and, if they're lucky, a trending hashtag that lasts one afternoon. **Pursuit of Jade (逐玉)** broke this pattern so thoroughly that entertainment journalists started using a specific term for what happened: **配角逆袭** (pèi jué nì xí) — "supporting character counterattack."
 
-Lin Muran (林木然), who plays Sui Yuanqing, gained **1.4 million new followers** after a single scene went viral. Kong Xueer (孔雪儿), who plays Yu Qianqian, trended on Weibo with the hashtag "孔雪儿 真天使投资人" (Kong Xueer, true angel investor). Deng Kai (邓凯), whose character Qi Min was revealed to be the secret son of the original crown prince, delivered one of the most discussed plot twists of 2026. Li Qing (李清) also gained millions of followers in a supporting role.
+Lin Muran (林沐然), who plays Sui Yuanqing, gained **1.4 million new followers** after a single scene went viral. Kong Xueer (孔雪儿), who plays Yu Qianqian, trended on Weibo with the hashtag "孔雪儿 真天使投资人" (Kong Xueer, true angel investor). Deng Kai (邓凯), whose character Qi Min was revealed to be the secret son of the original crown prince, delivered one of the most discussed plot twists of 2026. Li Qing (李卿) also gained millions of followers in a supporting role.
 
 This doesn't happen. Not like this, not all at once, not for *multiple* supporting actors in the same drama. Here are the idioms that explain how.
 
@@ -47,7 +47,7 @@ Kong Xueer came to *Pursuit of Jade* from the idol industry — she was a traine
 
 From Sima Qian's *Records of the Grand Historian* (史记): Emperor Wu of Han noted that his later appointees often outperformed his earlier ones, calling it 后来居上. The principle: latecomers have the advantage of observing what came before and building on it.
 
-Deng Kai's Qi Min doesn't appear as a significant character until the drama's second half. For the first 20+ episodes, he's hiding in plain sight as Sui Yuanhuai — the elder brother of Sui Yuanqing. The reveal that he's actually the son of the original crown prince, presumed dead seventeen years earlier, and has been manipulating events from within, is a [后来居上](/blog/hou-lai-ju-shang) narrative in both senses: the character arrives late to the political game and surpasses everyone, and the actor arrives late to the drama's spotlight and commands it completely.
+Deng Kai's Qi Min doesn't appear as a significant character until the drama's second half. For the first 20+ episodes, he's hiding in plain sight as Sui Yuanhuai — the elder brother of Sui Yuanqing. The reveal that he's actually the son of the original crown prince, presumed dead sixteen years earlier, and has been manipulating events from within, is a [后来居上](/blog/hou-lai-ju-shang) narrative in both senses: the character arrives late to the political game and surpasses everyone, and the actor arrives late to the drama's spotlight and commands it completely.
 
 **Use it:** When someone who enters a competition or field late quickly outperforms those who started earlier.
 
@@ -79,4 +79,4 @@ This is the real meaning of 配角逆袭. Not that the supporting actors stole t
 
 ---
 
-*Pursuit of Jade* achieved a 41.1% daily market share on Dongfang Satellite TV and became the first mainland Chinese drama on Netflix's Global Top 10 Non-English chart. For the idioms that define the leads' journey, read [10 Chinese Idioms Every Pursuit of Jade Fan Should Know](/blog/pursuit-of-jade-chinese-idioms-every-fan-should-know). For Fan Changyu's finale transformation, see [From Butcher's Daughter to General](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).
+*Pursuit of Jade* peaked at a 50.9% market share on Dongfang Satellite TV — an all-time channel record — and became the first mainland Chinese drama on Netflix's Global Top 10 Non-English chart. For the idioms that define the leads' journey, read [10 Chinese Idioms Every Pursuit of Jade Fan Should Know](/blog/pursuit-of-jade-chinese-idioms-every-fan-should-know). For Fan Changyu's finale transformation, see [From Butcher's Daughter to General](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).

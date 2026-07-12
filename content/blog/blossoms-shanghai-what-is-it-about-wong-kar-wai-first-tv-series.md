@@ -44,7 +44,7 @@ The novel tells the story of three Shanghainese friends across the 1960s, 1970s,
 
 ## The Story (Briefly)
 
-In early-1990s Shanghai, **A-Bao** (Hu Ge) is a former factory worker who, with an older mentor named Master Ye (Ye Sheng, played by veteran actor You Benchang), starts trading on the newly opened **Shanghai Stock Exchange**. The exchange has just been founded — December 1990 — and the early years are a frontier without rules. A-Bao becomes wealthy fast.
+In early-1990s Shanghai, **A-Bao** (Hu Ge) is a former factory worker who, with an older mentor known as Ye Shu (爷叔, played by veteran actor You Benchang), starts trading on the newly opened **Shanghai Stock Exchange**. The exchange has just been founded — December 1990 — and the early years are a frontier without rules. A-Bao becomes wealthy fast.
 
 The city around him is transforming. Pudong's farmland becomes a financial district. The Oriental Pearl Tower is rising on the eastern bank. A whole generation of state employees are quitting their secure government jobs to enter private business — the period phrase for this is **下海 (xià hǎi, "going to sea")**, and it captures the leap into uncertain waters. The drama's central question is what such a leap costs.
 

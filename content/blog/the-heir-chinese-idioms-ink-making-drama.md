@@ -11,7 +11,7 @@ description: "Yang Zi stars as a woman who defies Ming Dynasty tradition to mast
 
 **The Heir (祯娘传)** is doing something no C-drama has done before: making ink-making the center of a 40-episode historical romance. Yang Zi (杨紫) plays Li Zhen (李祯), the youngest daughter of the Li family's eighth branch — the lowest-status member of a once-prestigious Huizhou ink clan brought low by a tribute ink scandal (贡墨案). Han Dongjun (韩东君) plays Luo Wenqian (骆文谦), second son of the rival Luo family, whose own schemes for restoration collide with Li Zhen's rise. Directed by Hui Kaidong (惠楷栋), the same director behind *Story of Yanxi Palace* (延禧攻略), the drama was filmed on location in the real Hui-style villages of Hongcun (宏村), Xidi (西递), and Chengkan (呈坎) in Anhui Province, with Yang Zi training in actual ink-making techniques for three months before filming began.
 
-Set during the Jiajing era (嘉靖, 1522–1566) of the Ming Dynasty — the absolute peak of Chinese ink-making — this is a drama about a woman who wasn't supposed to touch the craft, in a world where the 36-step process of making ink was passed exclusively from father to son.
+Set in the mid-Ming (明朝中期) — the absolute peak of Chinese ink-making — this is a drama about a woman who wasn't supposed to touch the craft, in a world where the 36-step process of making ink was passed exclusively from father to son.
 
 Here are ten idioms that capture every step of Li Zhen's journey.
 

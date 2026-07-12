@@ -74,7 +74,7 @@ The line reframes the drama's title. *Flourished Peony* is not about one beautif
 > *"These peonies are my treasures. As long as they thrive, I ask for nothing more."*
 
 **Speaker:** He Weifang
-**Why it hits:** He Weifang's given name contains the character 蓉 (róng, lotus) in some versions, but she is thematically linked to peonies (牡丹, *mǔdān*) throughout the drama. When she calls the peonies "my treasures," she is identifying herself with the flowers she cultivates. They are not her commercial product in the narrow sense. They are the embodiment of what she's trying to become — rooted, resilient, beautiful on their own terms.
+**Why it hits:** He Weifang (何惟芳) is thematically linked to peonies (牡丹, *mǔdān*) throughout the drama — her nickname is even 牡丹, "Peony." When she calls the peonies "my treasures," she is identifying herself with the flowers she cultivates. They are not her commercial product in the narrow sense. They are the embodiment of what she's trying to become — rooted, resilient, beautiful on their own terms.
 
 ---
 

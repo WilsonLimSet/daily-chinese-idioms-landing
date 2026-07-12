@@ -9,9 +9,9 @@ theme: "Success & Perseverance"
 description: "The strongest lines from Ashes to Crown (翘楚) — Chu Zhao's 大女主 declarations about power, marriage, and revenge — each with characters, pinyin, translation, and the scene behind it."
 ---
 
-*Ashes to Crown* (**翘楚**, *Qiào Chǔ*) is a **大女主** (*dà nǚzhǔ*, "big female lead") rebirth drama, and its best writing lives in Chu Zhao's (**楚朝**, *Chǔ Zhāo*) declarations — lines about refusing marriage as a route to power, taking her share of the realm, and carrying her family's unfinished cause. These are the ones Chinese media pulled as the show's signature 台词 (*táicí*, "dialogue"). Each is below with characters, pinyin, a translation, and its context. (Mild spoilers for character motivation; nothing that spoils the finale — for that, see the [ending explained](/blog/ashes-to-crown-ending-explained-happy-or-sad-chu-zhao-xie-yan-lai).)
+*Ashes to Crown* (**翘楚**, *Qiào Chǔ*) is a **大女主** (*dà nǚzhǔ*, "big female lead") rebirth drama, and its best writing lives in Chu Zhao's (**楚朝**, *Chǔ Zhāo*) declarations — lines about refusing marriage as a route to power, taking her share of the realm, and carrying her family's unfinished cause. These are the lines most often cited as capturing her character. Each is below with characters, pinyin, a translation, and its context. (Mild spoilers for character motivation; nothing that spoils the finale — for that, see the [ending explained](/blog/ashes-to-crown-ending-explained-happy-or-sad-chu-zhao-xie-yan-lai).)
 
-A note on honesty: unlike a long-running hit, this 24-episode drama didn't generate a large verified "金句" (golden-lines) roundup online. Rather than pad this list with invented dialogue, we've kept it to the lines that actually appear in Chinese coverage — and unpacked the language of power running through them.
+A note on honesty: unlike a long-running hit, this 24-episode drama didn't generate a large verified "金句" (golden-lines) roundup online. Rather than pad this list with invented dialogue, we've kept it to a handful of representative lines that capture her character and themes — treat the exact wording as indicative rather than a verified transcript — and unpacked the language of power running through them.
 
 ## The lines that defined Chu Zhao
 

@@ -21,7 +21,7 @@ Before we get to the vocabulary, here is why this drama deserves a spot in your 
 
 **The transmigrator bridge.** Xu Qi'an thinks in modern Chinese but has to speak in classical Chinese. The show constantly juxtaposes these two registers. When he internally monologues, he uses the same casual Mandarin you hear in everyday conversation. When he addresses officials, he switches to formal court language. This back-and-forth is like having a built-in translation layer.
 
-**International subtitles.** The drama was released across 14 languages on Disney+, Viki, and WeTV. High-quality subtitles in your native language mean you can watch with dual subtitles — Chinese plus your language — for maximum comprehension.
+**International subtitles.** The drama aired domestically on CCTV-8 and streamed on Tencent Video, which offers subtitles in a range of languages. High-quality subtitles in your native language mean you can watch with dual subtitles — Chinese plus your language — for maximum comprehension.
 
 **The source novel.** The web novel by 卖报小郎君 (Mài Bào Xiǎo Lángjūn) runs 3.8 million characters. That is not a typo. If you graduate from watching to reading, you have enough material for years of practice. The novel is available on Qidian (起点中文网) and has been fan-translated into English as well.
 

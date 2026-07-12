@@ -52,7 +52,7 @@ Crucially, the Tang Code also specified three conditions under which a wife coul
 2. **She has completed three years of mourning for a parent-in-law.** This formal act of Confucian filial piety protects her from subsequent divorce.
 3. **Her husband was poor at marriage and is now rich.** A wife who helped her husband through poverty cannot be dismissed once he has prospered.
 
-The second and third protections are striking. They encode a principle of earned standing — the wife who performed her duties or suffered through hard times cannot be simply discarded. Violation of these prohibitions carried 18 months of penal servitude plus 100 cane strokes.
+The second and third protections are striking. They encode a principle of earned standing — the wife who performed her duties or suffered through hard times cannot be simply discarded. A husband who divorced his wife in violation of the 三不去 was punished with 100 strokes of the heavy cane (杖一百), and the divorce itself was voided. (This was a distinct offense from casting out a wife who had committed none of the seven grounds at all, which the Tang Code punished with a year and a half of penal servitude — 徒一年半.)
 
 ### 和离 (Hé Lí, "Mutual Divorce")
 

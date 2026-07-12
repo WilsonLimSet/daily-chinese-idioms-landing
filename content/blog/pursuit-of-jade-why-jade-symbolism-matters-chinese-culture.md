@@ -68,7 +68,7 @@ The full version of this famous idiom contrasts jade (玉) with pottery (瓦). P
 
 From the *Classic of Poetry* (诗经), this idiom references the painstaking process of jade craftsmanship. Ancient jade workers spent months or years grinding, cutting, and polishing a single piece. The idiom applies this patience to personal development — great achievement requires sustained, careful effort.
 
-**In the drama:** Xie Zheng's seventeen-year wait is 玉汝于成 in action. Rushing his revenge would have been satisfying but ineffective. His careful, patient approach — while agonizing — produces a more complete result.
+**In the drama:** Xie Zheng's sixteen-year wait is 玉汝于成 in action. Rushing his revenge would have been satisfying but ineffective. His careful, patient approach — while agonizing — produces a more complete result.
 
 ### 抛砖引玉 (pāo zhuān yǐn yù)
 **"Cast a brick to attract jade"**

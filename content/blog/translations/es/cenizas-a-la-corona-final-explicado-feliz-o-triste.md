@@ -26,21 +26,21 @@ Ella renace en su niñez con todos los recuerdos intactos, y el motor del drama 
 
 ## Qué sucede en el final
 
-**Chu Zhao reescribe su destino.** Esta vez ella *protege* el poder militar de Chu en lugar de entregárselo a un hombre que la traicionará. Es enfeudada como **镇国长公主** y se convierte en la regente efectiva detrás del niño emperador, y utiliza esa posición para la reforma — fundando una sociedad literaria para mujeres y ampliando lo que las mujeres en la corte pueden hacer. Crucialmente, ella sobrevive; la "renacida" funciona.
+**Chu Zhao reescribe su destino.** Esta vez ella *protege* el poder militar de Chu en lugar de entregárselo a un hombre que la traicionará. Es enfeudada como **镇国长公主** y se convierte en la regente efectiva detrás del niño emperador, y utiliza esa posición para reformar — ampliando lo que las mujeres en la corte pueden hacer. Crucialmente, ella sobrevive; la "renacimiento" "funciona."
 
-**La jugada final de Xie Yan Lai.** El despreciado guardia nacido de una concubina asciende a **镇国大将军** (gran general). En el acto final, él **finge su propia muerte** — una trampa establecida conjuntamente con Chu Zhao y el joven emperador — para atraer al último conspirador a la luz. Sobrevive, **se casa con Chu Zhao, y los dos se retiran a la vida privada con sus hijos** (el drama les da dos).
+**La jugada final de Xie Yan Lai.** El despreciado guardia nacido de concubina asciende a **镇国大将军** (gran general). En el acto final, él **finge su propia muerte** — una trampa establecida conjuntamente con Chu Zhao y el joven emperador — para atraer al último conspirador a la luz. Sobrevive, **se casa con Chu Zhao, y los dos se retiran a la privacidad con sus hijos.**
 
 **El verdadero villano no es quien piensas.** Durante la mayor parte de la serie, esperas que Xiao Xun sea la amenaza final. El *antagonista* *definitivo* es en realidad **Xie Yanfang** (**谢燕芳**, el astuto medio hermano de Xie Yan Lai). Una vez que el joven emperador consolida el poder, su primer movimiento es destruir el clan de Xie Yanfang — y Xie Yanfang, acorralado, **se inmola en la desesperación.**
 
-**La caída de Xiao Xun.** Xiao Xun brevemente retoma el trono pero no puede mantenerlo, y — repitiendo su peor patrón — **asesina a su propio padre** antes de caer, terminando aislado y abandonado incluso por la familia que traicionó. Su arco es la tesis del drama sobre el poder: consume a quien lo persigue por encima de todo. (Si Chu Zhao personalmente asesta el golpe mortal es afirmado por un titular pero no claramente confirmado en pantalla, así que léelo como "ella orquesta su ruina y obtiene su ajuste de cuentas" en lugar de un duelo literal.)
+**La caída de Xiao Xun.** Xiao Xun brevemente retoma el trono pero no puede mantenerlo, y — repitiendo su peor patrón — **manipula a su propio padre en una rebelión condenada, tratando su vida como desechable** antes de caer, terminando aislado y abandonado incluso por la familia que traicionó (su crimen definitorio siendo el regicidio y la usurpación). Su arco es la tesis del drama sobre el poder: consume a quien lo persigue por encima de todo. (Si Chu Zhao personalmente asesta el golpe mortal es afirmado por un titular pero no claramente confirmado en pantalla, así que léelo como "ella orquesta su ruina y obtiene su ajuste de cuentas" en lugar de un duelo literal.)
 
-**El trono** se estabiliza bajo el niño emperador con el respaldo de Chu Zhao, y la corte se aleja de la corrupción que definió su primera vida.
+**El trono** se estabiliza bajo el niño emperador con el apoyo de Chu Zhao, y la corte se aleja de la corrupción que definió su primera vida.
 
 ## Entonces — ¿es feliz o triste?
 
 Feliz, en el sentido de **逆天改命** (*nì tiān gǎi mìng*, "desafiar al cielo y reescribir el destino") que la mercadotecnia prometió. Todos los que hicieron daño a Chu Zhao pagan; ella y Xie Yan Lai están vivos, casados, y *fuera*. La nota agridulce es solo que llegar allí le cuesta la vida inocente y sin cargas que nunca podrá recuperar — el renacimiento compra justicia, no una segunda oportunidad de quién tuvo que convertirse.
 
-Vale la pena saber antes de entrar: el drama es **polarizante** (Douban ~5.1). Los fanáticos vinieron por la catarsis de renacimiento-venganza; los críticos criticaron el ritmo y un romance que algunos encontraron débil. Si estás aquí específicamente por el *final*, entrega el pago de la venganza — el debate es sobre los 20 episodios que llevan allí.
+Vale la pena saber antes de entrar: el drama es **polarizante** (Douban ~5.1). Los fanáticos vinieron por la catarsis de renacimiento-venganza; los críticos criticaron el ritmo y un romance que algunos encontraron poco potente. Si estás aquí específicamente por el *final*, entrega el pago de la venganza — el debate es sobre los 20 episodios que llevan hasta allí.
 
 ## Cómo el drama reescribe la novela 《楚后》
 
@@ -53,12 +53,12 @@ Incluso hay una pista ortográfica: la **novela** escribe su nombre **楚昭** (
 
 ## El título, y los modismos detrás del arco
 
-El título **翘楚** (*qiáo chǔ*) proviene del *Clásico de Poesía* — *翘翘错薪，言刈其楚* — y llegó a significar "**el destacado, la mejor elección.**" Juega con el apellido de la heroína **楚**: ella es *la* destacada del clan Chu. (Desglosamos esto completamente en [por qué el título 翘楚 importa](/blog/ashes-to-crown-why-qiaochu-title-matters).)
+El título **翘楚** (*qiáo chǔ*) proviene del *Clásico de Poesía* — *翘翘错薪，言刈其楚* — y llegó a significar "**el destacado, la selección de la cosecha.**" Juega con el apellido de la heroína **楚**: ella es *la* destacada del clan Chu. (Desglosamos esto completamente en [por qué el título 翘楚 importa](/blog/ashes-to-crown-why-qiaochu-title-matters).)
 
-Los *chengyu* que siguen su arco de renacimiento-a-justicia:
+Los *chengyu* que rastrean su arco de renacimiento-a-justicia:
 
 - **卧薪尝胆** (*wò xīn cháng dǎn*) — "dormir sobre leña, probar la hiel": soportar y nutrir un propósito durante años. El [modismo clásico de venganza](/blog/wo-xin-chang-dan), y todo el método de Chu Zhao.
-- **忍辱负重** (*rěn rǔ fù zhòng*) — "[soportar la humillación para llevar una carga pesada](/blog/ren-ru-fu-zhong)": esperar bajo la deshonra antes de atacar.
+- **忍辱负重** (*rěn rǔ fù zhòng*) — "[soportar la humillación para cargar con un peso pesado](/blog/ren-ru-fu-zhong)": esperar bajo la deshonra antes de atacar.
 - **恩将仇报** (*ēn jiāng chóu bào*) — "[recompensar la bondad con enemistad](/blog/en-jiang-chou-bao)": la traición original de Xiao Xun, en cuatro caracteres.
 - **玉石俱焚** (*yù shí jù fén*) — "jade y piedra arden juntos": destrucción mutua — la forma del final autoinmolador de Xie Yanfang.
 

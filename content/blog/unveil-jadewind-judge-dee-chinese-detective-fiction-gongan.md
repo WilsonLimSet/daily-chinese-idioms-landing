@@ -65,7 +65,7 @@ In Judge Bao stories, 锲而不舍 leads to vindication. In Di Renjie adaptation
 
 This is what makes the drama worth watching beyond its (considerable) entertainment value. It asks whether the detective tradition's fundamental optimism — that truth and justice are the same thing — has ever been honest. Bao Zheng operated in a literary world where the emperor was wise and the system was fixable. Di Renjie operated under Empress Wu Zetian, who was ruthless but ultimately rational. Li Peiyi operates in a world that looks more like the one we actually live in, where the investigation succeeds and the institution fails.
 
-The Douban rating is 7.0 from 78,000 reviews. The IMDb score is 7.2. These numbers are respectable but not ecstatic, and I suspect the bittersweet ending divided audiences who wanted the gong'an payoff they'd been trained to expect. That division is the point. Sen Lin Lu's novel — and Yin Tao's adaptation — chose to honor the tradition by refusing to lie about what it costs.
+The Douban rating opened at 8.5 and settled at 7.2. That number is respectable but not ecstatic, and I suspect the bittersweet ending divided audiences who wanted the gong'an payoff they'd been trained to expect. That division is the point. Sen Lin Lu's novel — and Yin Tao's adaptation — chose to honor the tradition by refusing to lie about what it costs.
 
 *More Unveil Jadewind reading: [The Real Tang Dynasty Behind the Drama](/blog/unveil-jadewind-real-tang-dynasty-history-astronomy-changan) | [All 7 Cases Explained](/blog/unveil-jadewind-7-cases-explained-chinese-idioms) | [Learn Chinese Watching the Drama](/blog/unveil-jadewind-learn-chinese-tang-dynasty-vocabulary)*
 

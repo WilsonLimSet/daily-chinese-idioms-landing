@@ -55,7 +55,7 @@ From Sunzi's *Art of War*: understand both sides and you won't be endangered. In
 To plan and direct from behind the scenes, winning battles before they're fought. The mark of the real power players. [运筹帷幄](/blog/yun-chou-wei-wo).
 
 ### 深谋远虑 (shēn móu yuǎn lǜ) — "deep plans, far-reaching thought"
-Thinking many moves ahead — the quality that separates a schemer who survives from one who doesn't. [深谋远虑](/blog/shen-mou-yuan-lu).
+Thinking many moves ahead — the quality that separates a schemer who survives from one who doesn't. 深谋远虑.
 
 ### 将计就计 (jiāng jì jiù jì) — "turn the enemy's plan against them"
 To take the trap someone laid for you and use it to defeat *them*. The most satisfying move in any revenge plot. [将计就计](/blog/jiang-ji-jiu-ji).
@@ -73,4 +73,4 @@ For the deeper idiom set behind the revenge plot, see [The First Jasmine — Chi
 ---
 
 ### Chengyu in this article
-- [知己知彼](/blog/zhi-ji-zhi-bi) · [运筹帷幄](/blog/yun-chou-wei-wo) · [深谋远虑](/blog/shen-mou-yuan-lu) · [将计就计](/blog/jiang-ji-jiu-ji)
+- [知己知彼](/blog/zhi-ji-zhi-bi) · [运筹帷幄](/blog/yun-chou-wei-wo) · 深谋远虑 · [将计就计](/blog/jiang-ji-jiu-ji)

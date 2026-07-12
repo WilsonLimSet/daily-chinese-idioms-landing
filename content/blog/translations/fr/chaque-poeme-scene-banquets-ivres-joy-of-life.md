@@ -15,178 +15,178 @@ description: >-
   une signification spécifique — annotée pour les spectateurs anglophones.
 originalSlug: joy-of-life-poetry-recital-scene-every-poem-explained
 ---
-**Joy of Life (庆余年)**'s scène la plus regardée est une séquence de quatre minutes dans **Saison 1, Épisode 27** : Fan Xian (Zhang Ruoyun), accusé de plagiat lors d'un banquet impérial, prend une cruche de vin, boit abondamment, et commence à réciter des vers de plus de deux douzaines de poèmes classiques chinois — s'étendant de la dynastie Han à la dynastie Song — en succession rapide. La performance détruit son accusateur, lui vaut le respect de l'Empereur, et consolide la réputation de Fan Xian en tant que géant littéraire.
+**Joy of Life (庆余年)**'s most-watched single scene is a four-minute sequence in **Season 1, Episode 27**: Fan Xian (Zhang Ruoyun), accused of plagiarism at an imperial banquet, picks up a wine jug, drinks heavily, and proceeds to recite lines from over two dozen classical Chinese poems — spanning the Han Dynasty through the Song Dynasty — in rapid succession. The performance destroys his accuser, earns the Emperor's respect, and cements Fan Xian's reputation as a literary giant.
 
-Cela est également devenu, pour les spectateurs étrangers regardant sur Disney+, l'une des scènes les plus déroutantes de toute la franchise. Beaucoup de chinois se passent très vite, et la boîte de sous-titres ne peut pas suivre la profondeur des références. Voici un guide sur ce qu'il récite réellement, qui a écrit chaque poème, et pourquoi des choix spécifiques portent un poids politique et émotionnel.
-
----
-
-## La mise en place
-
-La scène se déroule lors d'un banquet organisé par l'Empereur Qing pour des diplomates de Northern Qi et de Dong Yi City. À ce stade, Fan Xian a acquis une réputation de prodige poétique — une réputation dangereuse dans un système où l'identité littéraire est un capital politique. Zhuang Mohan (庄墨韩), un grand maître littéraire vieillissant de Northern Qi, accuse publiquement Fan Xian d'avoir plagié un poème de l'enseignant décédé de Zhuang.
-
-L'accusation est, dans le cadre du livre, ironique. La mère de Fan Xian, Ye Qingmei, est sous-entendue avoir porté la mémoire de la littérature classique chinoise d'un autre monde — et Fan Xian a hérité de cette mémoire. Ce que Zhuang appelle plagiat est, dans la métaphysique du roman, un transfert à travers les univers. Mais Fan Xian ne peut pas expliquer cela. Au lieu de cela, il répond en démontrant qu'il connaît toute la tradition.
-
-L'acteur Zhang Ruoyun aurait bu du vrai vin pour la scène et avait mémorisé plus de 100 poèmes ; la prise finale utilise entre 24 et 38 œuvres distinctes selon la façon dont vous comptez les vers partiels. Voici les plus importants.
+It also became, for overseas viewers watching on Disney+, one of the most confusing scenes in the entire franchise. A lot of Chinese happens very fast, and the subtitle box can't keep up with the depth of the references. This is a guide to what he's actually reciting, who wrote each poem, and why specific choices carry political and emotional weight.
 
 ---
 
-## 1. 《将进酒》 — Li Bai (Dynastie Tang)
+## The Setup
 
-**"Apportez le vin" (Jiāng Jìn Jiǔ)**
+The scene occurs at a banquet hosted by the Qing Emperor for diplomats from Northern Qi and Dong Yi City. Fan Xian has by this point earned a reputation as a poetic prodigy — a dangerous reputation in a system where literary identity is political capital. Zhuang Mohan (庄墨韩), an aging literary grandmaster from Northern Qi, publicly accuses Fan Xian of plagiarizing a poem from Zhuang's deceased teacher.
+
+The accusation is, in the book's framing, ironic. Fan Xian's mother Ye Qingmei is implied to have carried the memory of classical Chinese literature from another world — and Fan Xian inherited that memory. What Zhuang calls plagiarism is, within the novel's metaphysics, a transfer across universes. But Fan Xian cannot explain that. Instead, he responds by demonstrating that he knows the entire tradition.
+
+Actor Zhang Ruoyun reportedly drank real wine for the scene and had memorized over 100 poems; the final take uses between 24 and 38 distinct works depending on how you count partial lines. Here are the most important ones.
+
+---
+
+## 1. 《将进酒》 — Li Bai (Tang Dynasty)
+
+**"Bring In the Wine" (Jiāng Jìn Jiǔ)**
 
 > 天生我材必有用，千金散尽还复来。
 > *Tiān shēng wǒ cái bì yǒu yòng, qiān jīn sàn jìn hái fù lái.*
-> *"Le ciel m'a créé avec un but. Mille pièces d'or, dispersées, reviendront."*
+> *"Heaven created me with a purpose. A thousand pieces of gold, scattered, will return again."*
 
-Li Bai (李白, 701–762) est sans doute le poète chinois le plus célèbre de l'histoire — le poète sauvage, doué par le ciel, buvant de la dynastie Tang. *Jiāng Jìn Jiǔ* est son œuvre la plus citée, et ses premiers vers sont familiers à chaque étudiant chinois. Fan Xian commence ici délibérément. Si vous allez réciter de la poésie classique ivre, vous ouvrez avec le poème littéralement sur le vin.
+Li Bai (李白, 701–762) is arguably the most famous Chinese poet in history — the canonical wild, heaven-gifted, drinking poet of the Tang. *Jiāng Jìn Jiǔ* is his most-quoted work, and its opening lines are familiar to every Chinese student. Fan Xian begins here deliberately. If you're going to recite classical poetry drunk, you open with the poem literally about drinking.
 
-Le choix établit l'identité poétique de Fan Xian avant qu'il ne dise quoi que ce soit d'autre : à la manière de Li Bai — sauvage, confiant, transcendant.
+The choice establishes Fan Xian's poetic identity before he's said anything else: Li Bai-style — wild, confident, transcendent.
 
 ---
 
-## 2. 《水调歌头·明月几时有》 — Su Shi (Dynastie Song)
+## 2. 《水调歌头·明月几时有》 — Su Shi (Song Dynasty)
 
-**"Mélodie de l'eau : Quand la brillante lune est-elle apparue pour la première fois ?" (Shuǐ Diào Gē Tóu)**
+**"Water Tune: When Did the Bright Moon First Appear?" (Shuǐ Diào Gē Tóu)**
 
 > 明月几时有？把酒问青天。
 > *Míng yuè jǐ shí yǒu? Bǎ jiǔ wèn qīng tiān.*
-> *"Quand la brillante lune est-elle apparue pour la première fois ? Avec du vin à la main, je demande aux cieux bleus."*
+> *"When did the bright moon first appear? With wine in hand, I ask the blue heavens."*
 
-Su Shi (苏轼, 1037–1101) est l'autre pilier du canon poétique chinois aux côtés de Li Bai. Ce poème spécifique est le poème du Festival de la Mi-Automne — récité chaque automne lors des dîners en famille à travers le monde sinophone. Le citer lors d'un banquet signale à chaque Chinois dans la pièce : *Je connais le poème le plus aimé de la langue*.
+Su Shi (苏轼, 1037–1101) is the other pillar of Chinese poetic canon alongside Li Bai. This specific poem is the Mid-Autumn Festival poem — recited every autumn at family dinners across the Chinese-speaking world. Quoting it at a banquet signals to every Chinese person in the room: *I know the most beloved poem in the language*.
 
-Le choix de cette ligne par Fan Xian fait également écho à son propre acte. Su Shi tient du vin et demande aux cieux. Fan Xian tient, à ce moment-là, du vin et demande à la salle.
+Fan Xian's choice of this line also echoes his own act. Su Shi holds wine and asks the heavens. Fan Xian is, at that moment, holding wine and asking the room.
 
 ---
 
-## 3. 《虞美人·春花秋月何时了》 — Li Yu (Tang du Sud)
+## 3. 《虞美人·春花秋月何时了》 — Li Yu (Southern Tang)
 
-**"Belle Dame Yu" (Yú Měi Rén)**
+**"Beautiful Lady Yu" (Yú Měi Rén)**
 
 > 春花秋月何时了，往事知多少。
 > *Chūn huā qiū yuè hé shí liǎo, wǎng shì zhī duō shǎo.*
-> *"Les fleurs de printemps et les lunes d'automne — quand prendront-elles fin ? Combien du passé connais-je ?"*
+> *"Spring flowers and autumn moons — when will they end? How much of the past do I know?"*
 
-Li Yu (李煜, 937–978) était le dernier souverain de la dynastie Tang du Sud, déposé et emprisonné par la conquête Song. Il a écrit *Yú Měi Rén* sous assignation à résidence. L'empereur fondateur de la dynastie Song aurait ordonné son exécution peu après l'avoir lu, interprétant sa mélancolie comme sédicieuse.
+Li Yu (李煜, 937–978) was the last ruler of Southern Tang, deposed and imprisoned by the Song conquest. He wrote *Yú Měi Rén* under house arrest. He died in 978 — not under the Song founder Taizu (who had died in 976) but under the second Song emperor, Taizong (太宗), who allegedly had him poisoned shortly after this poem circulated, interpreting its melancholy as seditious.
 
-Citer Li Yu lors d'un banquet diplomatique de Northern Qi est une subtile insubordination. Li Yu était un souverain déposé d'un État tombé écrivant sur la perte. Fan Xian rappelle, de manière oblique, à la délégation de Northern Qi que les empires tombent — et que la poésie écrite par les vaincus survit parfois à celle écrite par les vainqueurs.
+Quoting Li Yu at a Northern Qi diplomatic banquet is subtle insubordination. Li Yu was a deposed ruler from a fallen state writing about loss. Fan Xian is, obliquely, reminding the Northern Qi delegation that empires fall — and that the poetry written by the defeated sometimes outlasts the poetry written by the victors.
 
 ---
 
-## 4. 《春望》 — Du Fu (Dynastie Tang)
+## 4. 《春望》 — Du Fu (Tang Dynasty)
 
-**"Vue du printemps" (Chūn Wàng)**
+**"Spring View" (Chūn Wàng)**
 
 > 国破山河在，城春草木深。
 > *Guó pò shān hé zài, chéng chūn cǎo mù shēn.*
-> *"L'État est brisé, mais les montagnes et les rivières demeurent. Au printemps de la ville tombée, les herbes et les arbres poussent profondément."*
+> *"The state is broken, but mountains and rivers remain. In the spring of the fallen city, grasses and trees grow deep."*
 
-Du Fu (杜甫, 712–770) est le grand poète politique de la dynastie Tang — le contrepoint à la transcendance de Li Bai, se concentrant plutôt sur la souffrance des gens ordinaires pendant la rébellion d'An Lushan. *Chūn Wàng* a été écrit pendant cette rébellion, lorsque Du Fu était piégé dans la capitale tombée de Chang'an.
+Du Fu (杜甫, 712–770) is the Tang's great political poet — the counterpart to Li Bai's transcendence, focused instead on the suffering of ordinary people during the An Lushan Rebellion. *Chūn Wàng* was written during that rebellion, when Du Fu was trapped in the fallen capital of Chang'an.
 
-L'utilisation de cette ligne par Fan Xian approfondit le registre politique. "L'État est brisé" est une phrase qui porte un poids significatif lorsqu'elle est prononcée devant des représentants d'un État rival. C'est la phrase classique chinoise pour le traumatisme civilisationnel.
-
----
-
-## 5. 《长恨歌》 — Bai Juyi (Dynastie Tang)
-
-**"Chanson du regret éternel" (Cháng Hèn Gē)**
-
-Bai Juyi (白居易, 772–846) a écrit ce poème narratif de 120 vers sur l'amour de l'Empereur Tang Xuanzong pour Yang Guifei, sa mort pendant la rébellion d'An Lushan, et son deuil éternel. La longueur et la portée émotionnelle du poème donnent à Fan Xian plusieurs lignes à citer. Les lignes qu'il choisit dépendent du montage — différents segments apparaissent dans différentes versions de la scène.
-
-*Cháng Hèn Gē* est enseigné à chaque élève de collège chinois. Le citer établit que Fan Xian connaît la pleine tradition poétique narrative, pas seulement de courts vers lyriques.
+Fan Xian's use of this line deepens the political register. "The state is broken" is a sentence that carries significant weight when spoken in front of representatives of a rival state. It is the classical Chinese phrase for civilizational trauma.
 
 ---
 
-## 6. 《过零丁洋》 — Wen Tianxiang (Fin de la dynastie Song)
+## 5. 《长恨歌》 — Bai Juyi (Tang Dynasty)
 
-**"Traversée du détroit de Lingding" (Guò Língdīng Yáng)**
+**"Song of Everlasting Regret" (Cháng Hèn Gē)**
+
+Bai Juyi (白居易, 772–846) wrote this 120-line narrative poem about the Tang Emperor Xuanzong's love for Yang Guifei, her death during the An Lushan Rebellion, and his lifelong mourning. The poem's length and emotional scope give Fan Xian several quotable lines to pull from. Which lines he chooses depends on the cut — different segments appear in different edits of the scene.
+
+*Cháng Hèn Gē* is taught to every Chinese middle-school student. Quoting it establishes that Fan Xian knows the full narrative poetic tradition, not just short lyric verses.
+
+---
+
+## 6. 《过零丁洋》 — Wen Tianxiang (Late Song)
+
+**"Crossing Lingding Strait" (Guò Língdīng Yáng)**
 
 > 人生自古谁无死，留取丹心照汗青。
 > *Rén shēng zì gǔ shuí wú sǐ, liú qǔ dān xīn zhào hàn qīng.*
-> *"Depuis l'Antiquité, qui parmi les vivants n'est pas mort ? Que mon cœur rouge brille sur l'histoire."*
+> *"Since ancient times, who among the living has not died? Let a red heart shine upon history."*
 
-Wen Tianxiang (文天祥, 1236–1283) était un homme d'État de la fin de la dynastie Song qui a refusé de se rendre à la conquête Yuan (mongole) et a finalement été exécuté. Il a écrit ce poème alors qu'il était emprisonné. Son couplet de clôture est parmi les lignes les plus citées de l'histoire chinoise — une déclaration d'absolu moral face à une mort certaine.
+Wen Tianxiang (文天祥, 1236–1283) was a late Song statesman who refused to surrender to the Yuan (Mongol) conquest and was eventually executed. He wrote this poem while imprisoned. Its closing couplet is among the most-quoted lines in Chinese history — a statement of moral absolute in the face of certain death.
 
-C'est un choix très pointu pour Fan Xian. Wen Tianxiang est le saint patron des patriotes chinois qui refusent de capituler. Le citer lors d'un banquet diplomatique indique à la délégation de Northern Qi que Fan Xian ne va pas céder.
+This is a very pointed choice for Fan Xian. Wen Tianxiang is the patron saint of Chinese patriots who refuse to capitulate. Quoting him at a diplomatic banquet tells the Northern Qi delegation that Fan Xian is not going to bend.
 
 ---
 
-## 7. 《登幽州台歌》 — Chen Ziang (Dynastie Tang)
+## 7. 《登幽州台歌》 — Chen Ziang (Tang Dynasty)
 
-**"Grimper à la tour de Youzhou" (Dēng Yōuzhōu Tái Gē)**
+**"Climbing Youzhou Tower" (Dēng Yōuzhōu Tái Gē)**
 
 > 前不见古人，后不见来者。
 > 念天地之悠悠，独怆然而涕下。
 > *Qián bù jiàn gǔ rén, hòu bù jiàn lái zhě. Niàn tiān dì zhī yōu yōu, dú chuàng rán ér tì xià.*
-> *"Devant moi, je ne vois pas les anciens. Derrière moi, je ne vois pas ceux qui doivent venir. Contemplant l'immensité du ciel et de la terre, seul je pleure."*
+> *"Before me, I do not see the ancients. Behind me, I do not see those yet to come. Contemplating heaven and earth's vastness, alone I weep."*
 
-Chen Ziang (陈子昂, 661–702) était un poète de début de la dynastie Tang dont le court poème existentialiste de quatre vers est l'un des plus émouvants de la langue. Il met en scène un homme seul sur une tour, seul avec l'échelle du temps.
+Chen Ziang (陈子昂, 661–702) was an early-Tang poet whose short four-line existentialist poem is one of the most moving in the language. It stages a single man on a tower, alone with the scale of time.
 
-Le fait que Fan Xian cite cela au milieu du banquet suggère un registre émotionnel spécifique — l'individu contre l'immensité de l'histoire. Cela correspond à son personnage : un homme qui porte des souvenirs d'ailleurs, entouré de personnes qui ne savent pas ce qu'il sait.
+Fan Xian quoting this mid-banquet suggests a specific emotional register — the individual against the vastness of history. It fits his character: a man who carries memories from somewhere else, surrounded by people who don't know what he knows.
 
 ---
 
-## 8. 《破阵子·醉里挑灯看剑》 — Xin Qiji (Song du Sud)
+## 8. 《破阵子·醉里挑灯看剑》 — Xin Qiji (Southern Song)
 
-**"Formation de bataille" (Pò Zhèn Zǐ)**
+**"Battle Array" (Pò Zhèn Zǐ)**
 
 > 醉里挑灯看剑，梦回吹角连营。
 > *Zuì lǐ tiǎo dēng kàn jiàn, mèng huí chuī jiǎo lián yíng.*
-> *"Ivre, je lève la lampe pour examiner mon épée. Dans mes rêves, je retourne aux appels de cor de camps connectés."*
+> *"Drunk, I raise the lamp to examine my sword. In dreams I return to the horn-calls of connected camps."*
 
-Xin Qiji (辛弃疾, 1140–1207) était un général et poète de la dynastie Song du Sud dont l'œuvre est chargée de la frustration des militaires incapables de reprendre le nord de la Chine aux Jurchens Jin. *Pò Zhèn Zǐ* est l'expression définissant cette frustration — un vétéran ivre regardant une épée qu'il ne peut pas utiliser.
+Xin Qiji (辛弃疾, 1140–1207) was a Southern Song general and poet whose work is charged with the frustration of military men unable to reclaim northern China from the Jurchen Jin. *Pò Zhèn Zǐ* is the defining expression of that frustration — a drunken veteran staring at a sword he cannot use.
 
-Citer Xin Qiji en étant ivre lors d'un banquet est presque méta — Fan Xian fait, à ce moment-là, ce que le sujet de Xin Qiji fait dans le poème. La récursion est délibérée.
+Quoting Xin Qiji while drunk at a banquet is almost meta — Fan Xian is doing, in the moment, what Xin Qiji's subject does in the poem. The recursion is deliberate.
 
 ---
 
-## 9. 《梅花》 — Wang Anshi (Dynastie Song)
+## 9. 《梅花》 — Wang Anshi (Song Dynasty)
 
-**"Fleurs de prunier" (Méi Huā)**
+**"Plum Blossoms" (Méi Huā)**
 
 > 墙角数枝梅，凌寒独自开。
 > *Qiáng jiǎo shù zhī méi, líng hán dú zì kāi.*
-> *"Plusieurs branches de prunier au coin du mur — elles fleurissent seules, défiant le froid."*
+> *"Several branches of plum at the wall's corner — they bloom alone, defying the cold."*
 
-Wang Anshi (王安石, 1021–1086) était un homme d'État-poète de la dynastie Song qui a dirigé d'importantes réformes gouvernementales. *Méi Huā* est un poème court, largement mémorisé, sur les fleurs de prunier — un symbole chinois de résilience face à l'adversité.
+Wang Anshi (王安石, 1021–1086) was a Song statesman-poet who led major governmental reforms. *Méi Huā* is a short, widely memorized poem about plum blossoms — a Chinese symbol of resilience against hardship.
 
 ---
 
-## 10. 《别董大》 — Gao Shi (Dynastie Tang)
+## 10. 《别董大》 — Gao Shi (Tang Dynasty)
 
-**"Adieu à Dong Da" (Bié Dǒng Dà)**
+**"Farewell to Dong Da" (Bié Dǒng Dà)**
 
 > 莫愁前路无知己，天下谁人不识君。
 > *Mò chóu qián lù wú zhī jǐ, tiān xià shuí rén bù shí jūn.*
-> *"Ne t'inquiète pas que le chemin devant n'ait pas d'esprit de parenté. Sous le ciel, qui ne te connaît pas ?"*
+> *"Don't worry that the road ahead has no kindred spirit. Under heaven, who does not know you?"*
 
-Gao Shi (高适, 704–765) a écrit ce poème d'adieu à son camarade poète Dong Ting. Son dernier couplet — réassurance qu'une grande personne trouvera toujours un accueil — est parmi les lignes les plus citées de la poésie d'amitié.
-
----
-
-## Autres œuvres référencées
-
-La scène inclut également des vers de :
-
-- **《无题》 "Sans titre"** — Li Shangyin (李商隐, Tang) — le maître de l'ambiguïté de la poésie d'amour classique
-- **《上邪》** — poème populaire *yuefu* anonyme de la dynastie Han, célèbre pour sa déclaration d'amour dévorante
-- **《山中与幽人对酌》** — Li Bai encore, "Boire seul avec un reclus dans les montagnes"
-- **《石灰吟》** — Yu Qian (Ming), sur la calcination comme métaphore de purification morale
-
-Selon le montage spécifique et l'édition des sous-titres, d'autres poèmes émergent et s'immergent. Un compte complet dans la version diffusée en Chine atteint plus de 30 œuvres distinctes ; l'édition internationale de Disney+ préserve à peu près le même nombre.
+Gao Shi (高适, 704–765) wrote this farewell poem to fellow poet Dong Ting. Its final couplet — reassurance that a great person will always find welcome — is among the most-quoted lines in friendship poetry.
 
 ---
 
-## Pourquoi la scène est importante
+## Other Works Referenced
 
-En termes culturels, la scène fonctionne comme un étalage de la civilisation chinoise. Fan Xian performe le canon poétique chinois comme un héritage continu — chanson folklorique Han à lyrique Song — dans un contexte où Northern Qi vient de l'accuser de plagiat. Sa réponse est essentiellement : *Je n'ai pas volé un poème ; je les connais tous*. L'implication est qu'il se tient si profondément à l'intérieur de la tradition que les revendications de propriété sont absurdes.
+The scene also includes lines from:
 
-Pour les spectateurs chinois de la diaspora, la scène a été perçue comme un hommage émotionnel au canon classique. Chaque ligne fait référence à un poème mémorisé au collège. La récursion de la reconnaissance — "oh ça c'est Du Fu, oh ça c'est Su Shi, oh ça c'est Wen Tianxiang" — produit un type spécifique de plaisir culturel qui est difficile à traduire.
+- **《无题》 "Untitled"** — Li Shangyin (李商隐, Tang) — the master of classical love-poetry ambiguity
+- **《上邪》** — anonymous Han Dynasty *yuefu* folk poem, famous for its all-consuming love declaration
+- **《山中与幽人对酌》** — Li Bai again, "Drinking Alone with a Recluse in the Mountains"
+- **《石灰吟》** — Yu Qian (Ming), about calcination as metaphor for moral purification
 
-Pour les spectateurs internationaux regardant sur Disney+, la scène est devenue virale en tant que "le gars de la poésie ivre". Cette interprétation n'est pas fausse — la performance est véritablement spectaculaire en tant que pure télévision — mais elle manque le travail politique et émotionnel en couches qui se déroule en dessous.
+Depending on the specific cut and the subtitle edit, other poems surface and submerge. A full count in the Chinese broadcast version reaches 30+ distinct works; the Disney+ international edit preserves roughly the same number.
 
-Les premiers chapitres de la saison 2 font référence à plusieurs reprises à la réputation post-banquet de Fan Xian. Il est "诗仙 reborn" — Li Bai revenu. Ce n'est plus seulement une identité poétique. C'est une monnaie politique. La scène du banquet a converti la performance littéraire en pouvoir dur, et la saison 2 traite en partie de la distance que ce pouvoir peut être étiré avant que le Censorat ne le force à le dépenser.
+---
 
-Si vous re-regardez *Joy of Life* avant la saison 3, cette scène vaut la peine d'être revisitée avec les annotations ci-dessus à portée de main. Ce qui semble, à la première vision, être un spectacle devient, à la seconde vision, le dense document culturel qu'il est réellement.
+## Why the Scene Matters
 
-*Joy of Life* est diffusé sur Disney+ et Amazon Prime. Basé sur le roman de Mao Ni, réalisé par Sun Hao, avec Zhang Ruoyun. La saison 3 est confirmée pour 2026.
+In cultural terms, the scene functions as a Chinese civilizational flex. Fan Xian performs the Chinese poetic canon as a single continuous inheritance — Han folk song to Song lyric — in a context where Northern Qi has just accused him of plagiarism. His response is essentially: *I didn't steal one poem; I know all of them*. The implication is that he stands inside the tradition so deeply that ownership claims are absurd.
+
+For diaspora Chinese viewers, the scene hit as an emotional tribute to the classical canon. Every line references a poem memorized in middle school. The recursion of recognition — "oh that's Du Fu, oh that's Su Shi, oh that's Wen Tianxiang" — produces a specific kind of cultural pleasure that is hard to translate.
+
+For international viewers watching on Disney+, the scene went viral as "the drunk poetry guy." That reading isn't wrong — the performance is genuinely spectacular as pure TV — but it misses the layered political and emotional work happening beneath.
+
+Season 2's opening chapters repeatedly reference Fan Xian's post-banquet reputation. He is "诗仙 reborn" — Li Bai returned. This is no longer just poetic identity. It's political currency. The banquet scene converted literary performance into hard power, and Season 2 is partly about how far that power can be stretched before the Censorate forces him to spend it.
+
+If you're rewatching *Joy of Life* before Season 3, this scene is worth revisiting with the annotations above in hand. What looks, on first viewing, like a spectacle becomes, on second viewing, the dense cultural document it actually is.
+
+*Joy of Life* is streaming on Disney+ and Amazon Prime. Based on Mao Ni's novel, directed by Sun Hao, starring Zhang Ruoyun. Season 3 is widely expected but not officially dated, and is reportedly not likely before 2027.

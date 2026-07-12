@@ -52,7 +52,7 @@ Chinese emperors faced a recurring paradox: they needed brilliant military comma
 
 **The Yue Fei Case (岳飞案):** Perhaps the most famous military injustice in Chinese history. General Yue Fei, who had been successfully fighting the Jurchen Jin Dynasty, was recalled and executed on fabricated charges in 1142 by a court faction that feared his power. The idiom 精忠报国 (jīng zhōng bào guó, "serve the country with utmost loyalty") is associated with Yue Fei — and his story shows exactly how that loyalty was rewarded.
 
-In *Pursuit of Jade*, Xie Zheng's family — the Marquis line — suffered a similar fate. The drama's seventeen-year time gap between the massacre and Xie Zheng's revenge mirrors real historical cases where survivors spent years or decades in hiding before attempting to clear their family's name.
+In *Pursuit of Jade*, Xie Zheng's family — the Marquis line — suffered a similar fate. The drama's sixteen-year time gap between the massacre and Xie Zheng's revenge mirrors real historical cases where survivors spent years or decades in hiding before attempting to clear their family's name.
 
 ---
 

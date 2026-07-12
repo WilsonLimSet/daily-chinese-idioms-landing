@@ -10,7 +10,7 @@ description: "Watching Blossoms of Power (百花杀)? Learn 12 must-know chengyu
 ---
 The title **百花杀 (bǎi huā shā)** already tells you what kind of story this is. As [the piece on its source poem](/blog/blossoms-of-power-title-poem-huang-chao-meaning) explains, it's the back half of a Tang rebel's couplet — *"after my flower blooms, the hundred flowers die"* — and the drama takes that literally: a wronged heroine blooms late and clears the field.
 
-**Blossoms of Power** (airing since July 9, 2026 on Tencent Video / WeTV) follows **Gu Qingzhi (顾清枝)**, a great house's legitimate daughter whose family is destroyed, who re-emerges under a new identity as **Shen Xihe (沈汐和), the Zhaoning Princess (昭宁郡主)** — a master perfumer sent to the capital for a political marriage — and the sickly-but-brilliant Crown Prince **Xiao Huayong (萧华雍)** she allies with. Its reception has been split: fans call it a fast, satisfying **大女主 (dà nǚzhǔ)** crowd-pleaser; critics call the pacing "short-drama-fied." Either way, the chengyu below are a practical vocabulary for what's actually happening on screen — the revenge engine, the hidden strategist, and the poisoned courtesies of court.
+**Blossoms of Power** (airing since July 9, 2026 on Tencent Video / WeTV) follows **Gu Qingzhi (顾青栀)**, a great house's legitimate daughter whose family is destroyed, who re-emerges under a new identity as **Shen Xihe (沈汐和), the Zhaoning Princess (昭宁郡主)** — a master perfumer sent to the capital for a political marriage — and the sickly-but-brilliant Crown Prince **Xiao Huayong (萧华雍)** she allies with. Its reception has been split: fans call it a fast, satisfying **大女主 (dà nǚzhǔ)** crowd-pleaser; critics call the pacing "short-drama-fied." Either way, the chengyu below are a practical vocabulary for what's actually happening on screen — the revenge engine, the hidden strategist, and the poisoned courtesies of court.
 
 Note: idioms shown as links have full entries on this site; a couple of common phrases without pages here are given inline with pinyin and meaning.
 
@@ -104,7 +104,7 @@ Note: idioms shown as links have full entries on this site; a couple of common p
 
 **Meaning:** To conceal lethal intent behind a friendly face.
 
-**Origin:** The phrase attached itself to Tang official **Li Yifu (李义甫)**, so mild in manner and so vicious in action that contemporaries said he kept "a knife in his smile." It became one of the culture's standard warnings about intimate treachery — the danger you let stand close.
+**Origin:** The phrase attached itself to Tang official **Li Yifu (李义府)**, so mild in manner and so vicious in action that contemporaries said he kept "a knife in his smile." It became one of the culture's standard warnings about intimate treachery — the danger you let stand close.
 
 **Connection:** This is the ambient weather of the court Gu Qingzhi enters, and it puns cruelly on her own craft: her "blade" is literally hidden — in a fragrance rather than a smile (**以香为刃**, "scent as a blade," covered in [the incense piece](/blog/blossoms-of-power-incense-culture-scent-as-weapon)). When everyone's warmth might be a sheath, her ability to read what's underneath — by scent — is survival.
 

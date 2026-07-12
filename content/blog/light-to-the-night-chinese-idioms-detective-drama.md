@@ -201,4 +201,4 @@ Chinese crime drama borrows heavily from Western procedurals — the timeline st
 
 You don't need to memorize all twenty idioms before Episode 1. But noticing even two or three of them as they appear — in voice-over, in a character's line of dialogue, or (as often happens in suspense drama) as the named title of an episode — will make the drama feel denser, more connected to a literary tradition that isn't usually translated into the subtitle box.
 
-*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre with a Netflix global simulcast from April 25.
+*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre with a Netflix global simulcast.

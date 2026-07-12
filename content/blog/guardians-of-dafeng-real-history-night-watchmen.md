@@ -43,7 +43,7 @@ The job was low-status, poorly paid, and physically grueling. Watchmen walked fo
 
 ### China's Last Night Watchman
 
-In Wuyuan County (婺源县), Jiangxi Province — a region famous for its preserved Ming and Qing Dynasty architecture — a man named Yu Jiajiu (余家酒) continued the tradition of 打更 into his seventies. Born into a family that had served as night watchmen for generations, Yu was widely reported as possibly the last person in China still performing the traditional rounds. At 74, he still walked the stone lanes of his village at night, striking his wooden clapper and calling out fire warnings in a practice that had remained essentially unchanged for centuries.
+In Wuyuan County (婺源县), Jiangxi Province — a region famous for its preserved Ming and Qing Dynasty architecture — a man named Yu Jiajiu (余加久) continued the tradition of 打更 into his seventies. In his village of Likeng (理坑村), night-watching had been a community custom for roughly 600 years, and Yu himself had walked the rounds for about three decades — long enough that he was widely reported as possibly the last person in China still performing them. At 74, he still walked the stone lanes of his village at night, striking his wooden clapper and calling out fire warnings in a practice that had remained essentially unchanged for centuries.
 
 ### From Street Patrol to Secret Police
 
@@ -108,7 +108,7 @@ In 1542, a group of palace maids attempted to strangle Jiajing in his sleep in w
 
 The drama is adapted from a web novel of the same name by the author 卖报小郎君 (Mài Bào Xiǎo Láng Jūn, roughly "The Little Newspaper Boy"). Serialized on Qidian (起点中文网), China's dominant web fiction platform, from 2020 to 2021, the novel runs to approximately 3.8 million Chinese characters — roughly equivalent to ten or eleven standard novels in English.
 
-It set records on Qidian, becoming the fastest novel on the platform to reach 100,000 paid subscriptions. The achievement was significant enough that the novel was inducted into the Shanghai Library's permanent collection — a rare honor for web fiction, a genre that Chinese literary institutions have historically treated with skepticism.
+It became one of Qidian's most popular and commercially successful titles of its era — a notable feat for web fiction, a genre that Chinese literary institutions have historically treated with skepticism.
 
 The 40-episode drama adaptation aired from December 2024 through January 2025. A second season has been greenlit, which will cover the more complex political arcs of the novel's middle sections.
 
@@ -118,11 +118,11 @@ The 40-episode drama adaptation aired from December 2024 through January 2025. A
 
 The historical systems behind *Guardians of the Dafeng* have left deep marks on the Chinese language. Here are idioms that connect directly to the drama's themes:
 
-**[三更半夜 (sān gēng bàn yè)](/blog/san-geng-ban-ye)** — "the third watch, the middle of the night." This is the most common Chinese expression for "late at night" or "the dead of night," and it comes directly from the five-watch system. When Chinese speakers say 三更半夜, they are referencing a timekeeping system that structured urban life for over a thousand years.
+**三更半夜 (sān gēng bàn yè)** — "the third watch, the middle of the night." This is the most common Chinese expression for "late at night" or "the dead of night," and it comes directly from the five-watch system. When Chinese speakers say 三更半夜, they are referencing a timekeeping system that structured urban life for over a thousand years.
 
 **明察暗访 (míng chá àn fǎng)** — "investigate openly and secretly." This four-character idiom describes the dual approach of gathering information through both official inquiries and covert surveillance. It captures the exact methodology of both the historical 锦衣卫 and the fictional Nightwatchmen — using visible authority and invisible intelligence networks simultaneously.
 
-**[阳奉阴违 (yáng fèng yīn wéi)](/blog/yang-feng-yin-wei)** — "comply in public, oppose in private." This idiom describes the court politics that the Nightwatchmen exist to expose: officials who appear loyal to the Emperor's face but pursue their own agendas in secret. The character 奉 here — meaning "to obey" or "to serve" — is the same character in the dynasty name 大奉, creating a linguistic echo that the novel's author almost certainly intended.
+**阳奉阴违 (yáng fèng yīn wéi)** — "comply in public, oppose in private." This idiom describes the court politics that the Nightwatchmen exist to expose: officials who appear loyal to the Emperor's face but pursue their own agendas in secret. The character 奉 here — meaning "to obey" or "to serve" — is the same character in the dynasty name 大奉, creating a linguistic echo that the novel's author almost certainly intended.
 
 **[欲擒故纵 (yù qín gù zòng)](/blog/yu-qin-gu-zong)** — "release in order to capture." One of the Thirty-Six Stratagems (三十六计), this describes the Emperor's governing philosophy: allowing corruption and conspiracy to develop so that the perpetrators reveal themselves and their networks before the crackdown comes. It is the strategic logic behind twenty years of apparent neglect.
 

@@ -116,4 +116,4 @@ If you watch *Joy of Life 2* without understanding the Censorate-versus-Jinyiwei
 
 When Fan Xian faces the Censorate in Season 2, he is not fighting an invented enemy. He is standing where a certain kind of Jinyiwei director stood repeatedly through the Ming — powerful, fearful, institutionally isolated, and knowing that history favors the censors in the long run.
 
-*Joy of Life 2 (庆余年2)* premiered May 16, 2024 on Tencent Video and Disney+. Based on Mao Ni's novel; directed by Sun Hao; starring Zhang Ruoyun, Chen Daoming, and Li Qin. Season 3 confirmed for 2026.
+*Joy of Life 2 (庆余年2)* premiered May 16, 2024 on Tencent Video and Disney+. Based on Mao Ni's novel; directed by Sun Hao; starring Zhang Ruoyun, Chen Daoming, and Li Qin. Season 3 is widely expected but not officially dated, and is reportedly not likely before 2027.

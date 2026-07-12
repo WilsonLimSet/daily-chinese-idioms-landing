@@ -23,7 +23,7 @@ The full poem reads:
 > 我居北海君南海，寄雁传书谢不能。
 > **桃李春风一杯酒，江湖夜雨十年灯。**
 > 持家但有四立壁，治病不蕲三折肱。
-> 想得读书头已白，隔溪猿哭瘴溪藤。
+> 想见读书头已白，隔溪猿哭瘴溪藤。
 
 The most famous lines, which provide the drama its name, form the second couplet:
 
@@ -72,7 +72,7 @@ The drama’s exploration of friendship, however, goes far beyond this ideal. It
 
 ---
 
-This critique of a hypocritical establishment is a recurring theme in the works of author Guan Xin Ze Luan and a staple of modern wuxia. The so-called "righteous" sects are often shown to be more treacherous than the "demonic" ones. This deconstruction became a point of contention for some viewers, with wuxia purists on Douban arguing the series was "emptying out the spirit of *xiá*" (侠义精神空洞化), contributing to its polarized 5.7 rating on the platform. Yet, for many others, this was the drama's greatest strength: it showed a world where morality is not determined by sect banners but by individual action. This is the central challenge facing the new generation: how to build a new code of honor from the ashes of the old.
+This critique of a hypocritical establishment is a recurring theme in the works of author Guan Xin Ze Luan and a staple of modern wuxia. The so-called "righteous" sects are often shown to be more treacherous than the "demonic" ones. This deconstruction became a point of contention for some viewers, with wuxia purists on Douban arguing the series was "emptying out the spirit of *xiá*" (侠义精神空洞化), contributing to its polarized 5.5 rating on the platform. Yet, for many others, this was the drama's greatest strength: it showed a world where morality is not determined by sect banners but by individual action. This is the central challenge facing the new generation: how to build a new code of honor from the ashes of the old.
 
 ## 承前启后 (chéng qián qǐ hòu) — "Inheriting the Past, Inspiring the Future"
 

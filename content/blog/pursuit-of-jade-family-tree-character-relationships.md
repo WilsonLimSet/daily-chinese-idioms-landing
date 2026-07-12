@@ -11,7 +11,7 @@ description: "Pursuit of Jade's family tree only makes sense once you see the bu
 
 ## Who's Related to Whom in Pursuit of Jade? — Short Answer
 
-**Pursuit of Jade (逐玉)'s family tree is best understood not as genealogy but as three families orbiting a single buried crime: the Jinzhou Case (锦州案), a sixteen-year-old engineered massacre that killed Crown Prince Chengde and General Xie Linshan together.** The three lineages each carry a different piece of that wound.
+**Pursuit of Jade (逐玉)'s family tree is best understood not as genealogy but as three families orbiting a single buried crime: the Jinzhou Case (瑾州惨案), a sixteen-year-old engineered massacre that killed Crown Prince Chengde and General Xie Linshan together.** The three lineages each carry a different piece of that wound.
 
 - **The Xie Family** (Marquis Wu'an's line) was visibly destroyed. **Xie Zheng** (Zhang Linghe) is the sole survivor.
 - **The Fan Family** looks like commoners, but **Fan Changyu** (Tian Xiwei) is the secret granddaughter of General **Wei Qilin** — the general scapegoated and executed for the Jinzhou disaster.
@@ -42,10 +42,10 @@ Extended kin through the Wei marriage:
 
 The Fan family looks like commoners and is, until the show reveals what its patriarch was hiding.
 
-- **Fan Erniu (范二牛)** — Fan Changyu's father. A butcher in a provincial town. Murdered with his wife by bandits before Episode 1. Mid-drama reveal: he was **the son of General Wei Qilin (韦麒麟)**, the commander scapegoated and executed for the Jinzhou disaster. After his father was branded a traitor, Fan Erniu took a butcher's identity to hide his daughters from political reprisal.
+- **Fan Dagui (樊大贵)** — Fan Changyu's father. A butcher in a provincial town. His wife is killed by bandits before Episode 1 and he is long believed dead — but he in fact survives in hiding and reunites with Changyu at the finale. Mid-drama reveal: he was **the son of General Wei Qilin (魏麒麟)**, the commander scapegoated and executed for the Jinzhou disaster. After his father was branded a traitor, he took a butcher's identity to hide his daughters from political reprisal.
 - **Meng Lihua (孟丽华)** — Fan Changyu's mother. Killed in the same bandit attack.
-- **Fan Changyu (范长玉)** — The eldest daughter, played by Tian Xiwei. Born into hiding. Becomes head of household after her parents' deaths, takes a matrilocal husband to protect the family home, and ultimately is granted the rank of **General Huaihua (怀化将军)** after personally killing Prince Changxin in the finale. (For the title arc, see [Does Fan Changyu Become a General?](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).)
-- **Fan Changning (范长宁)** — Her much-younger sister, often called Ningning. A childhood pinky-swear with Yu Bao'er becomes a real engagement when both come of age. By the finale she is **Empress** of Great Yin.
+- **Fan Changyu (樊长玉)** — The eldest daughter, played by Tian Xiwei. Born into hiding. Becomes head of household after her mother's death, takes a matrilocal husband to protect the family home, and ultimately is granted the rank of **Flower-Crowned General (簪花将军)**, a fourth-rank generalship, after personally killing Prince Changxin in the finale. (For the title arc, see [Does Fan Changyu Become a General?](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).)
+- **Fan Changning (樊长宁)** — Her much-younger sister, often called Ningning. A childhood pinky-swear with Yu Bao'er becomes a real engagement when both come of age. By the finale she is **Empress** of Great Yin.
 
 Found family inside the Fan household:
 - **Mr. and Mrs. Zhao** — Neighbors who suggest the matrilocal marriage when Changyu's situation gets desperate. Treated as godparents.
@@ -66,9 +66,9 @@ This is where the drama's politics get dense. Two generations of emperors must b
 ### Generation 2 (the show's present tense)
 
 - **Emperor Qi Sheng (齐笙)** — Qi Yi's younger son. Installed in the power vacuum after Jinzhou. Inherits his father's secret along with the throne. Increasingly mentally unstable across the drama; ultimately forced to abdicate.
-- **Prince Changxin (长信王)** — The drama's overt military antagonist for the back arc. A rebel prince who promises to share the throne with his collaborators. **Killed by Fan Changyu** in the finale, which earns her the General Huaihua title. He is described inconsistently across sources as a brother, half-brother, or close cousin of Qi Sheng; what's clear is that he is a senior conspirator and the public-facing antagonist, but not the architect of the original 16-year-old crime.
+- **Prince Changxin (长信王)** — The drama's overt military antagonist for the back arc. A rebel prince who promises to share the throne with his collaborators. **Killed by Fan Changyu** in the finale, which earns her the Flower-Crowned General (簪花将军) title. He is described inconsistently across sources as a brother, half-brother, or close cousin of Qi Sheng; what's clear is that he is a senior conspirator and the public-facing antagonist, but not the architect of the original 16-year-old crime.
 - **Princess Qi Shu (齐姝)** — The Grand Princess. Falls in love with strategist Gongsun Yin, disguises herself as a military physician to follow him into camp, and marries him by the finale. The "second couple" of the drama.
-- **Qi Min (齐珉) / "Sui Yuanhuai" (隋元怀)** — The drama's hidden first-mover. Publicly a wealthy rice merchant courting Yu Qianqian; secretly **the son of the murdered Crown Prince Chengde**, raised in hiding under a false name for seventeen years. He has been quietly engineering his own return to power the entire time. He briefly seizes the throne during the rebellion, betrays Great Yin to the Beijue tribes, and is ultimately given mercy-poison by Yu Qianqian — his lover and the mother of his child.
+- **Qi Min (齐旻) / "Sui Yuanhuai" (隋元怀)** — The drama's hidden first-mover. Publicly a wealthy rice merchant courting Yu Qianqian; secretly **the son of the murdered Crown Prince Chengde**, raised in hiding under a false name for sixteen years. He has been quietly engineering his own return to power the entire time. He briefly seizes the throne during the rebellion, betrays Great Yin to the Beique tribes, and is ultimately given mercy-poison by Yu Qianqian — his lover and the mother of his child.
 - **Yu Bao'er / Qi Yu (俞宝儿)** — A child for most of the show. Biological son of Yu Qianqian and Qi Min. Crowned as the young emperor after Qi Sheng abdicates. Eventually marries Fan Changning.
 
 This generational structure is what makes "who is the villain" so confusing for many viewers. The drama deliberately layers three faces of villainy — Changxin the public antagonist, Wei Yan the apparent architect, Qi Min the hidden first-mover — and reveals that all three are downstream of one dead emperor's paranoia about his own son.
@@ -108,8 +108,8 @@ And then the reveals: that the supposed commoner he married into hiding turns ou
 Inner circle around the marriage:
 
 - **Yu Qianqian (俞浅浅)** — Fan Changyu's best friend, owner of Yixiang Restaurant. The matchmaker who brokers the marriage. Becomes **Empress Dowager Mingde** after her son Yu Bao'er takes the throne. Tragic romantic partner of Qi Min.
-- **Gongsun Yin (公孙吟)** — Xie Zheng's sworn brother and chief military strategist. Headmaster of Luyuan Academy. Marries Princess Qi Shu by the finale.
-- **General He (何将军)** — Military mentor to Xie Zheng. Also a close friend of Fan Erniu (Changyu's father) — he is the one who *named* Fan Changyu. Dies in battle.
+- **Gongsun Yin (公孙鄞)** — Xie Zheng's sworn brother and chief military strategist. Headmaster of Luyuan Academy. Marries Princess Qi Shu by the finale.
+- **General He (何将军)** — Military mentor to Xie Zheng. Also a close friend of Fan Dagui (Changyu's father) — he is the one who *named* Fan Changyu. Dies in battle.
 - **Grand Tutor Tao (陶大儒)** — Adopts Fan Changyu as goddaughter "Shanjun" (善君). Authenticates the tiger tally that reopens the Jinzhou case. Her political tutor and credentializer at court.
 - **Mr. and Mrs. Zhao** — The neighborly godparent figures who proposed the matrilocal arrangement.
 
@@ -124,7 +124,7 @@ Outer ring:
 The drama's ending closes each family's piece of the Jinzhou debt:
 
 - **Xie Zheng** clears his father's name. The Jinzhou Case is reopened publicly. The Marquis Wu'an family is publicly vindicated. He briefly accepts the Prince Regency, stabilizes the court, then gives it up.
-- **Fan Changyu** kills Prince Changxin — the senior conspirator most directly responsible for the massacre that killed her grandfather. She earns the **General Huaihua (怀化将军)** title independently of Xie Zheng's regency.
+- **Fan Changyu** kills Prince Changxin — the senior conspirator most directly responsible for the massacre that killed her grandfather. She earns the **Flower-Crowned General (簪花将军)** title independently of Xie Zheng's regency.
 - **Qi Min** dies — but his son Yu Bao'er ascends the throne, and Crown Prince Chengde's bloodline ultimately wins. The murdered Crown Prince finally has a grandson on the throne.
 
 The classical idiom that names this kind of closure is **滴水之恩，涌泉相报** (*dī shuǐ zhī ēn, yǒng quán xiāng bào*, "a drop of kindness is repaid as a fountain"). The reverse — a debt of blood repaid as a flood — is what the Jinzhou Case demanded for sixteen years and what the finale finally delivers.

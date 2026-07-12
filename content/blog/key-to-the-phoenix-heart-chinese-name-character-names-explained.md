@@ -18,7 +18,7 @@ That gap between **雀 (què, sparrow)** and **凤 (fèng, phoenix)** is the mos
 
 Take the title apart.
 
-**雀 (què)** is the sparrow — the most ordinary bird in the Chinese imagination. It is small, brown, common, and unglamorous. Classical Chinese uses 雀 as the opposite of grandeur: the sparrow that mocks the great **鹏 (péng)** in the *Zhuangzi*, the "small bird" that cannot imagine the flight of the large one. To be a 雀 is to be overlooked, dismissed, assumed to be of no account. There is even a chengyu, **[一鸣惊人](/blog/yi-ming-jing-ren) (yī míng jīng rén)** — "one cry astonishes everyone" — built on the idea that a bird thought silent and small can suddenly stun the room. The sparrow is the underestimated one.
+**雀 (què)** is the sparrow — the most ordinary bird in the Chinese imagination. It is small, brown, common, and unglamorous. Classical Chinese uses 雀 as the opposite of grandeur — the small bird set against the great one, in the spirit of the little creatures that laugh at the giant **鹏 (péng)** in the *Zhuangzi*, unable to imagine the flight of the large one. To be a 雀 is to be overlooked, dismissed, assumed to be of no account. There is even a chengyu, **[一鸣惊人](/blog/yi-ming-jing-ren) (yī míng jīng rén)** — "one cry astonishes everyone" — built on the idea that a bird thought silent and small can suddenly stun the room. The sparrow is the underestimated one.
 
 **骨 (gǔ)** is bone — but in Chinese it carries a moral charge that the English word lacks. 骨 is where character lives. **风骨 (fēng gǔ)** means integrity and backbone; **傲骨 (ào gǔ)** means proud, unbending principle; to have **骨气 (gǔ qì)** is to have moral spine. Bone, in Chinese, is what does not bend.
 

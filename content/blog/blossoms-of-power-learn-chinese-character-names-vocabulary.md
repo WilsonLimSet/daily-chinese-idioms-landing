@@ -31,12 +31,12 @@ The lead, played by **Meng Ziyi (孟子义)**, lives under a dual identity, and 
 
 Put together, the given name evokes **tides under a surface of calm** — water that rises, turns, and pulls, dressed as serenity. For a heroine whose whole method is a still exterior over a moving strategy, it's a precise choice.
 
-**顾清枝 (Gù Qīngzhī)** — her original, destroyed-family name:
+**顾青栀 (Gù Qīngzhī)** — her original, destroyed-family name:
 - **顾 (Gù)** — the surname.
-- **清 (qīng)** — clear, pure, clean.
-- **枝 (zhī)** — a branch, a bough.
+- **青 (qīng)** — blue-green, verdant, the fresh color of living things.
+- **栀 (zhī)** — the gardenia (**栀子 zhīzi**), a white, intensely fragrant flowering shrub.
 
-**清枝**, "a clear, pure branch," is the noble scion — the well-born daughter of a flourishing house — and the name aches precisely because a branch is what gets *cut*. The show even calls back to the flower imagery of the title: the pure branch severed, the bloom that has to grow back somewhere else.
+**青栀**, "verdant gardenia," is a flower name — the well-born daughter of a flourishing house carrying a bloom in her given name. It ties her, before she ever picks up a censer, to the show's **百花** ("hundred flowers") title and to her identity as a master perfumer: her name is a fragrant flower, and fragrance is the weapon she wields. The gardenia is prized precisely for its scent, which makes the choice doubly pointed.
 
 Her rank is its own vocabulary lesson: **昭宁郡主 (Zhāoníng jùnzhǔ)**.
 - **昭 (zhāo)** — bright, luminous. **宁 (níng)** — peace, calm. **昭宁** = "bright peace" — a serene title worn by a woman running a revenge campaign, which is either irony or camouflage.

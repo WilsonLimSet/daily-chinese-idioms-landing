@@ -89,9 +89,9 @@ A few orientation notes for viewers coming in through Wang's fandom rather than 
 
 **2. The pacing will be slower.** Bai Ye Theatre productions run 28 episodes — much shorter than the 40-to-60-episode xianxia or palace dramas Wang's fans may be used to. Each episode is more compressed, which means scenes sit longer and dialogue does more work.
 
-**3. The timeline jumps decades.** *Light to the Night* crosses from 1997 to a present-day reopening of the case. Ran Fangxu in 1997 and Ran Fangxu (or the memory of him) in 2018 are not the same person. Pan Yueming's He Yuanhang will visibly age across the timeline. This is genre convention — see *The Long Season* — but it can be jarring for viewers new to it.
+**3. The timeline jumps decades.** *Light to the Night* crosses from 1997 to a present-day reopening of the case. Ran Fangxu in 1997 and Ran Fangxu (or the memory of him) in 2015 are not the same person. Pan Yueming's He Yuanhang will visibly age across the timeline. This is genre convention — see *The Long Season* — but it can be jarring for viewers new to it.
 
-**4. Ran Fangxu gets the case wrong.** Early episodes will show Wang's character dismissing the disappearance as a debt-flee. This is not a writer's misstep. It's the foundational choice the entire drama is built on. His mistake in 1997 is the reason there's a case to solve in 2018.
+**4. Ran Fangxu gets the case wrong.** Early episodes will show Wang's character dismissing the disappearance as a debt-flee. This is not a writer's misstep. It's the foundational choice the entire drama is built on. His mistake in 1997 is the reason there's a case to solve in 2015.
 
 **5. Subtitles will matter more than usual.** The drama is dialogue-heavy and period-specific. References to 1997 China — housing reform, the *xiagang* layoffs, the pre-DNA forensic era — won't translate themselves. Taking the subtitles seriously, and sometimes pausing to process, is part of how the drama rewards attention.
 
@@ -103,4 +103,4 @@ There's a specific idiom for what Dylan Wang is doing with this career move: **�
 
 Whether Wang pulls it off is an open question. Reviews of *Guardians of Dafeng* were mixed on his dialogue delivery, and Pan Yueming is a high bar to share the screen with. But the *attempt* is the signal. A heartthrob who wanted to coast on his looks and his xianxia wardrobe would not have taken the role of a rookie detective in 1997 who gets the case wrong and spends the next eighteen years carrying the weight of it. That is not a coast role. That is a transformation role.
 
-*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre, with Netflix carrying the global simulcast from April 25. Episodes drop daily. Whether Dylan Wang emerges as a dramatic actor — or revealed to be one who needed better material — we will know by the end of May.
+*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre, with Netflix carrying the global simulcast. Episodes drop daily. Whether Dylan Wang emerges as a dramatic actor — or revealed to be one who needed better material — we will know by the end of May.

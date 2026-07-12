@@ -21,7 +21,7 @@ Here's what every thread means.
 
 ## Xie Zheng's Revenge: The Jinzhou Massacre, Finally Spoken
 
-For seventeen years, Xie Zheng has been hiding in plain sight. Audiences know the truth by episode two — he is the last survivor of the **Jinzhou Massacre (瑾州惨案)**, a state-engineered purge disguised as a border tragedy that wiped out his Marquis Wu'an family when he was a child. What the drama refuses to show until the finale is what this survival has cost him.
+For sixteen years, Xie Zheng has been hiding in plain sight. Audiences know the truth by episode two — he is the last survivor of the **Jinzhou Massacre (瑾州惨案)**, a state-engineered purge disguised as a border tragedy that wiped out his Marquis Wu'an family when he was a child. What the drama refuses to show until the finale is what this survival has cost him.
 
 The ending delivers three resolutions.
 
@@ -29,7 +29,7 @@ The ending delivers three resolutions.
 
 **The architects die.** **Prime Minister Wei Yan (魏严)**, the chief conspirator, takes poison rather than be captured. **Qi Min (齐旻)**, the ambitious imperial grandson who inherited Wei Yan's faction, also dies by poison — administered, in one of the drama's darkest inversions, by his own wife **Yu Qianqian (俞浅浅)**.
 
-**Xie Zheng chooses not to rule.** He is offered the Prince Regency after the rebellion is crushed. He accepts it briefly, stabilizes the court, and then gives it up. The young emperor is seated, the Marquis Wu'an estate is restored, and Xie Zheng walks away from every piece of political power he has fought seventeen years to reclaim.
+**Xie Zheng chooses not to rule.** He is offered the Prince Regency after the rebellion is crushed. He accepts it briefly, stabilizes the court, and then gives it up. The young emperor is seated, the Marquis Wu'an estate is restored, and Xie Zheng walks away from every piece of political power he has fought sixteen years to reclaim.
 
 This is the quiet radicalism of the ending. A generic C-drama finale would cement him as a power-wielder vindicated — the ending where the wronged nobleman becomes the most powerful man in the empire. *Pursuit of Jade* writes him out of power entirely. His vindication is not a throne. It is a life with Fan Changyu.
 
@@ -39,7 +39,7 @@ This is the quiet radicalism of the ending. A generic C-drama finale would cemen
 
 The parallel arc — and the one that made the drama viral — is Fan Changyu's.
 
-She begins as a butcher's daughter and ends as the **Zanhua General (簪花将军, "Flower-Adorning General")** and **First-Rank Protector of the Nation (一品护国夫人)**. Her weapon is not a sword but her father's pig-butchering knife, the same blade she used on market-stall carcasses in episode one. The transformation is not "butcher becomes warrior" — it's "the tool was always enough."
+She begins as a butcher's daughter and ends as the **Flower-Crowned General (簪花将军, Zānhuā Jiāngjūn)**, a fourth-rank generalship, and **First-Rank Protector of the Nation (一品护国夫人)**. Her weapon is not a sword but her father's pig-butchering knife, the same blade she used on market-stall carcasses in episode one. The transformation is not "butcher becomes warrior" — it's "the tool was always enough."
 
 The finale delivers a specific act of justice that ties the two arcs together. **Fan Changyu personally kills the general responsible for the Jinzhou Massacre.** Her father was among the massacre's victims. Her husband's family was. When she closes that debt with her butcher's knife, she is closing the same ledger for both of them.
 
@@ -97,7 +97,7 @@ The ending cannot be discussed honestly without the reception controversy it spa
 
 Then came the **"Foundation General" scandal (粉底液将军)**. On March 27, 2026, **Jun Zhengping Studio (钧正平工作室)**, the PLA Daily's commentary outfit, published a critique titled roughly *"Costume-drama 'generals' in makeup cannot bear the social responsibility of embodying masculine vigor."* The complaint: Zhang Linghe's Xie Zheng, even fresh from battlefield combat, had flawless porcelain skin and spotless armor. The meme version — *"fights at 6 but wakes at 4 to do makeup"* — went viral on Weibo.
 
-Within a week, on April 4, 2026, the Chinese television regulator formally called for an end to **"looks worship" (唯颜值论)** in historical dramas. *Pursuit of Jade* was the named example.
+Within a week, on April 2, 2026, the Chinese television regulator formally called for an end to **"looks worship" (唯颜值论)** in historical dramas. *Pursuit of Jade* was the named example.
 
 The finale, in other words, is now inseparable from a regulatory moment. The drama's victory over the fictional Prime Minister Wei Yan is also, in a strange way, the victory that triggered a state critique of the genre the drama belongs to. [物极必反](/blog/wu-ji-bi-fan) again.
 

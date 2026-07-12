@@ -115,4 +115,4 @@ Five shows that give you more of the same, for viewers new to Bai Ye Theatre and
 
 *Light to the Night* is not arriving alone. It is arriving into a catalog the Chinese suspense-drama wave has been building for seven years. Watching it with that context makes it legible as a continuation rather than a standalone novelty — and makes it clear why Netflix was willing to acquire global first-run rights to a genre show with a premiere date more than two months after the original announcement. The catalog, and the audience that's been building alongside it, is the reason.
 
-*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre (白夜剧场), with Netflix carrying the global simulcast from April 25. Episodes drop daily across 28 episodes.
+*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre (白夜剧场), with Netflix carrying the global simulcast. Episodes drop daily across 28 episodes.

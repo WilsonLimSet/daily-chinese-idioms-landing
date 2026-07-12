@@ -47,7 +47,7 @@ Xiao Zhan is one of the most-followed actors in mainland China. His major credit
 
 ## The Female Lead: Zhang Jingyi as Xiang An Tu
 
-**Zhang Jingyi (张婧仪)** plays **Xiang An Tu (香暗土)**, Zang Hai's principal ally and the show's primary female lead.
+**Zhang Jingyi (张婧仪)** plays **Xiang An Tu (香暗荼)**, Zang Hai's principal ally and the show's primary female lead.
 
 ### The Character
 
@@ -138,7 +138,7 @@ The drama's plot mechanism is the slow tightening of this network — each episo
 
 ## Where to Watch
 
-*Legend of Zang Hai* premiered May 18, 2025, and is available with English subtitles on **Apple TV+** (United States) and **Viki** internationally. The drama runs across multiple episodes, with the political-intrigue plot developing across the full run.
+*Legend of Zang Hai* premiered May 18, 2025. It aired domestically on **CCTV-8** and **Dragon TV** with streaming on **Youku (优酷)**, and internationally it is available with English subtitles on **Disney+** and **Viu**. The drama runs across multiple episodes, with the political-intrigue plot developing across the full run.
 
 For viewers new to Xiao Zhan, this is a strong starting point — the role is more disciplined than many of his earlier projects and the supporting cast is unusually strong for a single-lead-driven show.
 

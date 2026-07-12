@@ -107,7 +107,7 @@ Naming the Sang family after the mulberry tree gives the family — and the auth
 
 **延** means to *extend, prolong, continue*. It's a character often chosen for first-born sons or for children parents hope will carry the family forward.
 
-In Sang Yan's case, the character is especially loaded. He is the older brother of Sang Zhi (桑枝, "Sang Branch") — the heroine of *Hidden Love*. Their names are deliberate: 桑延 (Sang, extended) and 桑枝 (Sang, branch). The siblings are the mulberry tree continuing and the mulberry tree branching. They are the same tree, and Zhu Yi's two dramas are two different views of its shape.
+In Sang Yan's case, the character is especially loaded. He is the older brother of Sang Zhi (桑稚) — the heroine of *Hidden Love* — where 稚 means *young, childish, immature*. Their names pull in opposite directions: 桑延 (Sang, extended) reaches forward, while 桑稚 (Sang, young) stays put in youth. He is the sibling who carries the family forward; she is the family's youngest, the child of the house. Zhu Yi's two dramas look at the same family from opposite ends of that span — one about the one who extends, one about the one who is still young.
 
 ### The Full Meaning
 
@@ -142,10 +142,10 @@ Wen Yifan sees the handle long before she understands it. That's the point of a 
 Zhu Yi's dramas (*Hidden Love* and *First Frost*) are built around one fictional family — the Sangs. Three characters connect the two shows:
 
 - **桑延** (*Sāng Yán*) — the older brother, hero of *First Frost*
-- **桑枝** (*Sāng Zhī*) — the younger sister, heroine of *Hidden Love*
+- **桑稚** (*Sāng Zhì*) — the younger sister, heroine of *Hidden Love*
 - **段嘉许** (*Duàn Jiāxǔ*) — Sang Zhi's love interest, Sang Yan's best friend
 
-The siblings' names — 延 (extend) and 枝 (branch) — tell you exactly what the shared-universe conceit is doing. Both dramas are about the same tree. 延 is the main trunk continuing; 枝 is the branch growing sideways. Together, they make a complete mulberry.
+The siblings' names — 延 (extend, continue) and 稚 (young, childlike) — tell you exactly what the shared-universe conceit is doing. Both dramas are about the same family, watched from opposite ends of its span. 延 is the elder carrying the line forward; 稚 is the youngest, the family's child. One name reaches ahead in time; the other holds still in youth.
 
 Duan Jiaxu's name (段嘉许) is even more layered — 段 (*duàn*) means *section* or *segment*, 嘉许 (*jiā xǔ*) means *to commend*, *to approve of*. Loosely: *the segment that approves*. He is the outside observer who sees and affirms both siblings. In the fictional ecology of Zhu Yi's universe, he's the branch from another tree that grafts onto the mulberry and stays.
 
@@ -161,7 +161,7 @@ This level of naming craft is characteristic of good C-drama writing. None of it
 - **霜降** is the correction nickname — a lover's name for someone their parents' name no longer describes
 - **桑延** positions the hero inside a family tree — rootedness Wen Yifan has never known, which is part of what she is being invited into
 - **败降** is the pun that confesses the whole romance in two characters — Sang Yan lost to her the moment they met
-- **The Sang siblings (延 / 枝) turn the two dramas into a single cultural artifact** — one tree, two views, a shared mulberry
+- **The Sang siblings (延 / 稚) turn the two dramas into a single cultural artifact** — one family, watched from opposite ends of its span: the elder who extends, the youngest still in her youth
 
 Chinese names carry the weight that Chinese parents choose to give them. The names in *First Frost* were chosen by author Zhu Yi with clear intent — every character is in service of the story she wanted to tell. Understanding that doesn't just deepen the drama. It reveals a principle of Chinese storytelling: names are not labels. Names are plot.
 

@@ -61,7 +61,7 @@ Fan Xian's choice of this line also echoes his own act. Su Shi holds wine and as
 > *Chūn huā qiū yuè hé shí liǎo, wǎng shì zhī duō shǎo.*
 > *"Spring flowers and autumn moons — when will they end? How much of the past do I know?"*
 
-Li Yu (李煜, 937–978) was the last ruler of Southern Tang, deposed and imprisoned by the Song conquest. He wrote *Yú Měi Rén* under house arrest. The Song founding emperor allegedly had him executed shortly after reading it, interpreting its melancholy as seditious.
+Li Yu (李煜, 937–978) was the last ruler of Southern Tang, deposed and imprisoned by the Song conquest. He wrote *Yú Měi Rén* under house arrest. He died in 978 — not under the Song founder Taizu (who had died in 976) but under the second Song emperor, Taizong (太宗), who allegedly had him poisoned shortly after this poem circulated, interpreting its melancholy as seditious.
 
 Quoting Li Yu at a Northern Qi diplomatic banquet is subtle insubordination. Li Yu was a deposed ruler from a fallen state writing about loss. Fan Xian is, obliquely, reminding the Northern Qi delegation that empires fall — and that the poetry written by the defeated sometimes outlasts the poetry written by the victors.
 
@@ -183,4 +183,4 @@ Season 2's opening chapters repeatedly reference Fan Xian's post-banquet reputat
 
 If you're rewatching *Joy of Life* before Season 3, this scene is worth revisiting with the annotations above in hand. What looks, on first viewing, like a spectacle becomes, on second viewing, the dense cultural document it actually is.
 
-*Joy of Life* is streaming on Disney+ and Amazon Prime. Based on Mao Ni's novel, directed by Sun Hao, starring Zhang Ruoyun. Season 3 confirmed for 2026.
+*Joy of Life* is streaming on Disney+ and Amazon Prime. Based on Mao Ni's novel, directed by Sun Hao, starring Zhang Ruoyun. Season 3 is widely expected but not officially dated, and is reportedly not likely before 2027.

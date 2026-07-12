@@ -9,7 +9,7 @@ theme: "Wisdom & Learning"
 description: "Discover the Chinese idioms (chengyu) woven into Pursuit of Jade's story of love, war, and revenge — from Xie Zheng's hidden identity to Fan Changyu's battlefield courage."
 ---
 
-If you've been watching **Pursuit of Jade (逐玉)** — the 2026 C-drama that shattered records with a 55.1% daily market share and overtook *Joy of Life 2* — you've already been immersed in a world rich with classical Chinese storytelling. Zhang Linghe and Tian Xiwei's portrayal of a fallen Marquis and a butcher's daughter navigating love, war, and political intrigue draws on centuries of literary tradition.
+If you've been watching **Pursuit of Jade (逐玉)** — the 2026 C-drama that shattered records with a 50.9% peak market share — you've already been immersed in a world rich with classical Chinese storytelling. Zhang Linghe and Tian Xiwei's portrayal of a fallen Marquis and a butcher's daughter navigating love, war, and political intrigue draws on centuries of literary tradition.
 
 Here are ten *chéngyǔ* (成语) — four-character Chinese idioms — that capture the heart of *Pursuit of Jade*. Knowing them will deepen your understanding of the drama and give you a window into the cultural values driving every scene.
 
@@ -19,7 +19,7 @@ Here are ten *chéngyǔ* (成语) — four-character Chinese idioms — that cap
 
 **Meaning:** Endure hardship to prepare for future revenge or success.
 
-No idiom fits Xie Zheng's arc more perfectly. For seventeen years, this fallen Marquis of the Great Yin Dynasty hides his true identity, living as "Yan Zheng" — a destitute refugee from Chongzhou — while secretly plotting to avenge the massacre of his family. He sleeps among commoners, takes a sham marriage with a butcher's daughter, and suppresses every instinct to strike before the time is right.
+No idiom fits Xie Zheng's arc more perfectly. For sixteen years, this fallen Marquis of the Great Yin Dynasty hides his true identity, living as "Yan Zheng" — a destitute refugee from Chongzhou — while secretly plotting to avenge the massacre of his family. He sleeps among commoners, takes a sham marriage with a butcher's daughter, and suppresses every instinct to strike before the time is right.
 
 The idiom originates from King Goujian of Yue, who endured years of servitude under his enemy, sleeping on rough firewood and tasting bitter gall daily to keep his desire for revenge sharp. Like Goujian, Xie Zheng understands that premature action means certain failure. His patience is not passivity — it's strategy forged in suffering.
 
@@ -139,7 +139,7 @@ The image is simple but powerful: two people in a small boat on a stormy sea. Th
 
 *Pursuit of Jade* is a romance and a war story, but it's also a delivery system for classical Chinese values — loyalty (忠), righteousness (义), perseverance (毅), and integrity (节). The idioms above aren't decoration. They're the philosophical scaffolding the drama is built on.
 
-When Fan Changyu picks up her butcher's knife and walks toward the front lines, she's not just being brave — she's living out 赴汤蹈火. When Xie Zheng hides his identity for seventeen years, he's not just being patient — he's performing 卧薪尝胆. The drama doesn't explain these connections because it doesn't need to — for Chinese audiences, the idioms are already in the air.
+When Fan Changyu picks up her butcher's knife and walks toward the front lines, she's not just being brave — she's living out 赴汤蹈火. When Xie Zheng hides his identity for sixteen years, he's not just being patient — he's performing 卧薪尝胆. The drama doesn't explain these connections because it doesn't need to — for Chinese audiences, the idioms are already in the air.
 
 Now they can be in yours too.
 

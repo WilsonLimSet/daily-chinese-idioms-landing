@@ -35,7 +35,7 @@ This is structurally important to the drama. The protagonists don't avoid the de
 
 ### Ren Jialun (任嘉伦) as Xuanye
 
-**Ren Jialun** is one of the most established mid-career C-drama actors, with a deep catalog including *Under the Power* (锦衣之下), *Court Lady* (浣溪沙·凤歌行), and *One and Only* (周生如故). His specialty is roles that combine martial competence with emotional restraint — characters whose authority is more interior than external.
+**Ren Jialun** is one of the most established mid-career C-drama actors, with a deep catalog including *Under the Power* (锦衣之下), *The Glory of Tang Dynasty* (大唐荣耀), and *One and Only* (周生如故). His specialty is roles that combine martial competence with emotional restraint — characters whose authority is more interior than external.
 
 He plays **Xuanye (宣夜)**, the demon hunter. The character is structured as the inverse of his recent imperial roles: instead of restraint forced by court decorum, Xuanye carries the restraint of someone who has seen too much and prefers to keep most of it to himself.
 
@@ -153,7 +153,7 @@ The chengyu **[狐假虎威](/blog/hu-jia-hu-wei)** (*hú jiǎ hǔ wēi*, "the f
 
 ## Why This Drama Has Mattered
 
-*The Demon Hunter's Romance* has held a 7.1 IMDB rating since its April 2025 premiere — not the highest score in the C-drama supernatural genre, but a respectable mark for a 36-episode series that committed to a coherent four-arc structure rather than the genre's usual tendency to fragment.
+*The Demon Hunter's Romance* has drawn a respectable reception since its April 2025 premiere — not the highest-rated title in the C-drama supernatural genre, but a solid mark for a 36-episode series that committed to a coherent four-arc structure rather than the genre's usual tendency to fragment.
 
 The drama has been particularly praised for:
 

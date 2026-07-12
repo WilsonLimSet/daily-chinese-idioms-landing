@@ -9,7 +9,7 @@ theme: "Wisdom & Learning"
 description: "The Heir (祯娘传) is packed with Ming Dynasty vocabulary you won't find in textbooks — 徽墨, 贡墨, 炼烟, 文房四宝. Here's your complete guide to the Chinese words and idioms behind the drama."
 ---
 
-Standard Mandarin textbooks will teach you how to order food, ask for directions, and discuss the weather. They will not teach you the word for "refining soot from burning tung oil in a sealed chamber" (炼烟) or "the tribute ink sent to the Jiajing Emperor's court" (贡墨). *The Heir* (祯娘传) will.
+Standard Mandarin textbooks will teach you how to order food, ask for directions, and discuss the weather. They will not teach you the word for "refining soot from burning tung oil in a sealed chamber" (炼烟) or "the tribute ink sent to the Ming imperial court" (贡墨). *The Heir* (祯娘传) will.
 
 This drama is a vocabulary goldmine for intermediate and advanced Chinese learners — not because it uses obscure classical Chinese, but because it uses *specific* Chinese. The language of craft, commerce, and Ming Dynasty social hierarchy that fills every episode is the kind of vocabulary that separates a textbook speaker from someone who can actually navigate Chinese cultural conversation.
 
@@ -58,7 +58,7 @@ Notice the geographic concentration: ink, paper, and the most prized inkstone al
 
 ## Ming Dynasty Terms: The Political Landscape
 
-**嘉靖 (Jiā Jìng)** — The Jiajing era (1522-1566). The reign name of Emperor Zhu Houcong (朱厚熜), the eleventh Ming emperor. Known for his Daoist obsessions and decades-long absence from court governance. His era was paradoxically one of both political dysfunction at the top and commercial flourishing at the ground level — the perfect setting for a drama about ambitious merchants and artisans operating in the gaps left by imperial neglect.
+**嘉靖 (Jiā Jìng)** — The Jiajing era (1522-1566). The reign name of Emperor Zhu Houcong (朱厚熜), the eleventh Ming emperor. Known for his Daoist obsessions and decades-long absence from court governance. His era epitomizes a mid-Ming paradox: political dysfunction at the top and commercial flourishing at the ground level — an emblematic backdrop for a drama about ambitious merchants and artisans operating in the gaps left by imperial neglect.
 
 **徽州 (Huī Zhōu)** — Huizhou. A historical region in modern Anhui Province, centered on She County. During the Ming Dynasty, this region produced not just ink but a disproportionate share of China's merchant class.
 

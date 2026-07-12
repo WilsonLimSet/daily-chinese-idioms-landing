@@ -28,7 +28,7 @@ That structure makes chengyu more than decorative. Four characters can describe 
 ## [任重道远](/blog/ren-zhong-dao-yuan) (rèn zhòng dào yuǎn) — “a heavy burden, a long road”
 **Meaning:** The responsibility is heavy, and the journey is long.
 
-**Origin:** 任重道远 comes from **《论语·泰伯》 (The Analects, “Taibo”)**, where **Confucius (孔子)** describes the moral duty of the *shi* (士, the cultivated person): “士不可以不弘毅，任重而道远” — one must be broad-minded and resolute, because the burden is heavy and the road is long. In the Confucian frame, this isn’t romantic suffering; it’s endurance in service of an ethical mission that outlasts one’s comfort and even one’s lifetime.
+**Origin:** 任重道远 comes from **《论语·泰伯》 (The Analects, “Taibo”)**, where Confucius’s disciple **曾子 (Zēngzǐ)** describes the moral duty of the *shi* (士, the cultivated person): the passage opens “曾子曰” and reads “士不可以不弘毅，任重而道远” — one must be broad-minded and resolute, because the burden is heavy and the road is long. In the Confucian frame, this isn’t romantic suffering; it’s endurance in service of an ethical mission that outlasts one’s comfort and even one’s lifetime.
 
 **Connection:** The Destined One’s quest is literally 任重道远: recover **six relics** representing the **Six Roots (六根)** from yaoguai scattered across the world. That premise reframes the familiar *Journey to the West* pilgrimage into a postscript of loss. Wukong has already “finished” the canonical journey; then he renounces Buddhahood and is struck down. What remains is not triumph but duty—an anonymous successor walking into the wreckage of the Great Sage’s story, across **six regions**, toward the final confrontation with **the Great Sage’s Broken Shell (大圣残躯)** at **Mount Huaguo**.
 

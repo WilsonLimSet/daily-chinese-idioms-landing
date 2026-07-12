@@ -9,7 +9,7 @@ theme: "Wisdom & Learning"
 description: "From Li Tinggui's Tang Dynasty workshop to the Cheng vs Fang rivalry that produced masterpieces of woodblock printing — the real ink dynasties behind The Heir (祯娘传), and the 36-step process Yang Zi spent three months learning."
 ---
 
-Most historical C-dramas use their setting as wallpaper. *The Heir* (祯娘传) doesn't. Director Hui Kaidong (惠楷栋) — the man behind *Story of Yanxi Palace* — chose the Jiajing era (嘉靖, 1522-1566) of the Ming Dynasty and the ink workshops of Huizhou (徽州) in Anhui Province for a reason: this was the moment when ink-making stopped being a craft and became an industry, an art form, and a political weapon all at once.
+Most historical C-dramas use their setting as wallpaper. *The Heir* (祯娘传) doesn't. Director Hui Kaidong (惠楷栋) — the man behind *Story of Yanxi Palace* — chose the mid-Ming (明朝中期) and the ink workshops of Huizhou (徽州) in Anhui Province for a reason: this was the moment when ink-making stopped being a craft and became an industry, an art form, and a political weapon all at once.
 
 The fictional rivalries between the Li, Luo, and Tian families have real parallels. And the 36-step process that Li Zhen masters on screen? Yang Zi (杨紫) spent three months learning it in Shexian (歙县), the actual birthplace of Huizhou ink, before cameras rolled.
 
@@ -19,9 +19,9 @@ Here's what the drama gets right — and what it draws from.
 
 ## 承前启后 (chéng qián qǐ hòu) — "Receive the past, initiate the future"
 
-The story of Huizhou ink begins not in the Ming Dynasty but in the chaos of the late Tang, when a father-and-son ink-maker named Li Tinggui (李廷珪) fled political turmoil in northern China and relocated to She County in what is now Anhui Province.
+The story of Huizhou ink begins not in the Ming Dynasty but in the chaos of the late Tang, when an ink-maker named Xi Chao (奚超) and his son Xi Tinggui (奚廷珪) fled political turmoil in northern China and relocated south to She County in what is now Anhui Province.
 
-The move was accidental. Its consequences were permanent. The pine forests of southern Anhui produced soot of extraordinary quality — finer-grained, more consistent than anything available in the north. Li Tinggui's ink became so prized that the Southern Tang ruler Li Yu (the same poet-emperor whose lyrics are still memorized today) bestowed the royal surname "Li" upon the family. A refugee artisan became ink-maker to a dynasty.
+The move was accidental. Its consequences were permanent. The pine forests of southern Anhui produced soot of extraordinary quality — finer-grained, more consistent than anything available in the north. The family's ink became so prized that the Southern Tang ruler Li Yu (the same poet-emperor whose lyrics are still memorized today) bestowed the royal surname "Li" upon them — and so Xi Tinggui became Li Tinggui (李廷珪), the name history remembers. A refugee artisan became ink-maker to a dynasty.
 
 That act of imperial recognition is the origin point for everything in *The Heir*. When Li Zhen fights to produce 天下第一墨 — the finest ink under heaven — she's reaching for a title that has real historical weight. 承前启后 captures the burden she carries: every generation of ink-makers since Li Tinggui has been measured against his standard, and every generation has had to innovate beyond it.
 
@@ -31,11 +31,11 @@ That act of imperial recognition is the origin point for everything in *The Heir
 
 ## 天道酬勤 (tiān dào chóu qín) — "Heaven rewards diligence"
 
-To understand why *The Heir* is set during the Jiajing Emperor's reign specifically, you need to understand the tribute system (贡品).
+To understand why *The Heir*'s mid-Ming setting matters, you need to understand the tribute system (贡品).
 
-The Jiajing Emperor — Zhu Houcong (朱厚熜), the eleventh Ming emperor — was famously obsessed with Daoist alchemy and the pursuit of immortality. He neglected court affairs for decades, leaving governance to powerful ministers while he consumed mercury-laced elixirs in his private palace. But his obsessions made him intensely particular about the quality of objects in his immediate environment. Tribute goods sent to the court — including Huizhou ink — were scrutinized with paranoid attention.
+The mid-Ming is emblematized by the Jiajing Emperor — Zhu Houcong (朱厚熜), the eleventh Ming emperor — who was famously obsessed with Daoist alchemy and the pursuit of immortality. He neglected court affairs for decades, leaving governance to powerful ministers while he consumed mercury-laced elixirs in his private palace. But such imperial obsessions made the court intensely particular about the quality of objects in its immediate environment. Tribute goods sent to the palace — including Huizhou ink — were scrutinized with paranoid attention.
 
-This made ink quality political. A flawed tribute ink (贡墨) didn't just embarrass the maker; it could destroy an entire family's standing. The fictional tribute ink scandal (贡墨案) in *The Heir* is invented, but the stakes it portrays are accurate. During the Jiajing era, the tribute system turned master ink-makers into something between artists and political operatives, where a single batch sent to Beijing could elevate or ruin a clan.
+This made ink quality political. A flawed tribute ink (贡墨) didn't just embarrass the maker; it could destroy an entire family's standing. The fictional tribute ink scandal (贡墨案) in *The Heir* is invented, but the stakes it portrays are accurate. In the mid-Ming, the tribute system turned master ink-makers into something between artists and political operatives, where a single batch sent to Beijing could elevate or ruin a clan.
 
 天道酬勤 is the belief that sustained, honest effort will eventually be recognized by forces greater than any human patron. Li Zhen needs this belief because in her world, heaven's judgment and the emperor's judgment are dangerously intertwined.
 

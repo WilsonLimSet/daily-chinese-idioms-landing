@@ -82,7 +82,7 @@ At Grade 4 (君子), the Confucian condenses **浩然正气 (hàorán zhèngqì)
 
 From *Analects* 7.2: 子曰：默而识之，学而不厌，诲人不倦，何有于我哉？ — "The Master said: 'Silently absorbing knowledge, learning without tiring, teaching without wearying — what difficulty do these present to me?'"
 
-In the drama, this isn't just a scholarly attitude — it's a survival requirement. Confucian cultivation *is* learning. You don't train your body like a martial artist or brew pills like a Daoist. You read, you reflect, you debate, you write. A Confucian who stops learning stops advancing. The Great Scholars of the drama are not powerful despite being bookworms — they are powerful *because* they are bookworms. [学而不厌](/blog/xue-er-bu-yan) is their cultivation method.
+In the drama, this isn't just a scholarly attitude — it's a survival requirement. Confucian cultivation *is* learning. You don't train your body like a martial artist or brew pills like a Daoist. You read, you reflect, you debate, you write. A Confucian who stops learning stops advancing. The Great Scholars of the drama are not powerful despite being bookworms — they are powerful *because* they are bookworms. 学而不厌 is their cultivation method.
 
 **Use it:** When sustained intellectual curiosity produces mastery that others mistake for innate talent.
 
@@ -153,9 +153,9 @@ The physical powers of Buddhist cultivators reflect their spiritual attainment. 
 
 **Meaning:** The four great elements — earth, water, fire, wind — that compose the physical world are ultimately illusory. Nothing material is permanent.
 
-This phrase comes from the *Heart Sutra* (心经) tradition and captures the core Buddhist insight: attachment to the material world is the root of suffering. In the drama, Buddhist cultivators who truly internalize this principle gain power over the physical world precisely *because* they recognize its emptiness. A monk who genuinely believes the body is illusory can take a sword through the chest without flinching — not because his body is tough, but because he understands, at a level deeper than intellectual knowledge, that the body is not ultimately real.
+The 四大 (earth, water, fire, and wind) are a general Buddhist framework for the physical constituents of the body and world — not, strictly, a line from the *Heart Sutra* (心经), which speaks instead of the five aggregates being empty (五蕴皆空). The phrase captures the core Buddhist insight: attachment to the material world is the root of suffering. In the drama, Buddhist cultivators who truly internalize this principle gain power over the physical world precisely *because* they recognize its emptiness. A monk who genuinely believes the body is illusory can take a sword through the chest without flinching — not because his body is tough, but because he understands, at a level deeper than intellectual knowledge, that the body is not ultimately real.
 
-[四大皆空](/blog/si-da-jie-kong) is also the Buddhist answer to the martial artist's path. The 武夫 makes the body indestructible through refinement. The Buddhist makes the body irrelevant through insight. Two opposite methods, both arriving at a cultivator who cannot be killed by physical means.
+四大皆空 is also the Buddhist answer to the martial artist's path. The 武夫 makes the body indestructible through refinement. The Buddhist makes the body irrelevant through insight. Two opposite methods, both arriving at a cultivator who cannot be killed by physical means.
 
 **Use it:** When someone achieves freedom by releasing attachment to material things — or when reminding yourself that physical possessions and circumstances are temporary.
 

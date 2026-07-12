@@ -288,7 +288,7 @@ const SERIES: DramaSeries[] = [
     synopsis:
       'Xiao Zhan stars as the son of an Imperial Astronomer who survives the massacre of his family and spends ten years training in feng shui, architecture, and statecraft to destroy his enemy from within. Set in the fictional Yong Dynasty, drawing on real Ming-era institutions. Directed by Zheng Xiaolong (Empresses in the Palace).',
     postPrefix: 'legend-of-zang-hai-',
-    platforms: ['Apple TV', 'Viki'],
+    platforms: ['Youku', 'Disney+', 'Viu'],
     cast: ['Xiao Zhan', 'Zhang Jingyi', 'Huang Jue'],
     novel: '《藏海传》by Nan Pai San Shu (南派三叔)',
     tags: ['historical', 'mystery'],
@@ -312,8 +312,8 @@ const SERIES: DramaSeries[] = [
   {
     slug: 'fated-hearts',
     englishName: 'Fated Hearts',
-    chineseName: '婉心记',
-    pinyin: 'Wǎn Xīn Jì',
+    chineseName: '一笑随歌',
+    pinyin: 'Yī Xiào Suí Gē',
     year: '2025',
     synopsis:
       'Li Qin and Chen Zheyuan star in a 40-episode historical romance about a red-clad battlefield archer who shoots an enemy prince, then loses her memory after falling from a cliff — and falls in love with him in turbulent Yujing City. Built on the deep Chinese tradition of memory-loss romance and karmic recognition.',

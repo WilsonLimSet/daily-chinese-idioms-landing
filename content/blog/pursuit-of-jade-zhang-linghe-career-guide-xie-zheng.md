@@ -40,7 +40,7 @@ The drama's structural premise — a fallen Marquis in disguise, a butcher's dau
 
 The strategy his character lives by is captured by a classical chengyu: ****韬光养晦**** (*tāo guāng yǎng huì*, "conceal the light, nurture in the dark") — Xie Zheng hides his title, his combat skill, and his lineage for over a decade, waiting until he has the position and the evidence to act. The chengyu **[卧薪尝胆](/blog/wo-xin-chang-dan)** (*wò xīn cháng dǎn*, "sleeping on firewood, tasting gall") names the same patient-revenge tradition.
 
-For more on the character's finale arc — including how Fan Changyu becomes General Huaihua — see [Does Fan Changyu Become a General? Pursuit of Jade Finale Explained](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).
+For more on the character's finale arc — including how Fan Changyu becomes the Flower-Crowned General (簪花将军) — see [Does Fan Changyu Become a General? Pursuit of Jade Finale Explained](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).
 
 ---
 
@@ -61,7 +61,7 @@ His first international moment came as the **second male lead** in *Love Between
 - **~750 million weekly all-platform views in China** at peak
 - **3.3 billion+ aggregate views** by April 2026 (a figure *Sixth Tone* has noted may be inflated; Chinese drama viewership claims are widely scrutinized)
 - **14 subtitle languages, 5 dub tracks, 191 countries/regions**
-- **#1 character-popularity ranking** for Zhang on Kuyun Data in week 11 of 2026 (score: 19,094)
+- **#1 character-popularity ranking** for Zhang on Kuyun Data in week 11 of 2026
 
 For SEO context: most "zhang linghe" English searches in 2026 originate from one of these two entry points — viewers who fell for Chang Heng in 2022 returning to look him up, or new Pursuit-of-Jade Netflix viewers searching him for the first time.
 
@@ -96,7 +96,7 @@ The meme migrated to English-language fandom Twitter and TikTok as **"Foundation
 
 ## Brand Ambassadorships and the Luxury Pivot
 
-Zhang's brand profile maps the trajectory of his career as cleanly as his filmography. By March 2026 he held **roughly 16-20 brand endorsements**, including:
+Zhang's brand profile maps the trajectory of his career as cleanly as his filmography. By March 2026 he held **numerous brand endorsements**, including:
 
 - **Gucci + Gucci Beauty** — announced July 2024 (the moment Western luxury press first profiled him)
 - **Bulgari** — January 2026
@@ -122,7 +122,7 @@ A 40-episode Tencent historical romance. Zhang plays **Xiao Li**, a street rogue
 
 ### Overdo (这一秒过火)
 
-A Republican-era drama where Zhang plays **Murong Qingyi**, a warlord's son. As of April 2026 the show has ~4.39 million iQIYI / Tencent pre-orders — a strong demand signal.
+A Republican-era drama where Zhang plays **Murong Qingyi**, a warlord's son. As of April 2026 the show has several million iQIYI / Tencent pre-orders — a strong demand signal.
 
 ---
 

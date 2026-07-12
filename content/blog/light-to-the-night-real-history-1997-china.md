@@ -142,4 +142,4 @@ And when Yuanlongli is slated for demolition in the present-day timeline, and He
 
 ---
 
-*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre (白夜剧场) in mainland China, with Netflix carrying the global simulcast starting April 25. Pan Yueming, Dylan Wang, and Ren Min star in the Wang Zhi–directed 28-episode suspense series. Episodes drop daily.
+*Light to the Night* premieres April 26, 2026, on Youku's Bai Ye Theatre (白夜剧场) in mainland China, with Netflix carrying the global simulcast. Pan Yueming, Dylan Wang, and Ren Min star in the Wang Zhi–directed 28-episode suspense series. Episodes drop daily.

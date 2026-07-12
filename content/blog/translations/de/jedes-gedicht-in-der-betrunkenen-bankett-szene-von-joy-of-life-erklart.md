@@ -12,23 +12,22 @@ description: >-
   Die vierminütige Szene, in der Fan Xian klassische chinesische Poesie im
   betrunkenen Zustand rezitiert, ist der ikonischste Moment in Joy of Life. Hier
   ist die Liste der Gedichte, die er zitiert, wer sie geschrieben hat und warum
-  jedes eine spezifische Bedeutung trägt — annotiert für englischsprachige
-  Zuschauer.
+  jedes spezifische Bedeutung trägt — annotiert für englische Zuschauer.
 originalSlug: joy-of-life-poetry-recital-scene-every-poem-explained
 ---
-**Joy of Life (庆余年)**'s meistgesehene einzelne Szene ist eine vierminütige Sequenz in **Staffel 1, Episode 27**: Fan Xian (Zhang Ruoyun), der des Plagiats bei einem kaiserlichen Bankett beschuldigt wird, hebt einen Weinkrug, trinkt stark und beginnt, Zeilen aus über zwei Dutzend klassischen chinesischen Gedichten — vom Han-Dynastie bis zur Song-Dynastie — in schneller Folge zu rezitieren. Die Darbietung zerstört seinen Ankläger, erwirbt den Respekt des Kaisers und festigt Fan Xians Ruf als literarisches Genie.
+**Joy of Life (庆余年)**'s meistgesehene einzelne Szene ist eine vierminütige Sequenz in **Staffel 1, Episode 27**: Fan Xian (Zhang Ruoyun), beschuldigt des Plagiats bei einem kaiserlichen Bankett, hebt einen Weinkrug, trinkt stark und beginnt, Zeilen aus über zwei Dutzend klassischen chinesischen Gedichten — von der Han-Dynastie bis zur Song-Dynastie — in schneller Folge zu rezitieren. Die Darbietung zerstört seinen Ankläger, erwirbt den Respekt des Kaisers und festigt Fan Xians Ruf als literarisches Genie.
 
-Für ausländische Zuschauer, die auf Disney+ zuschauen, wurde es auch zu einer der verwirrendsten Szenen im gesamten Franchise. Viel Chinesisch geschieht sehr schnell, und das Untertitel-Feld kann mit der Tiefe der Referenzen nicht Schritt halten. Dies ist ein Leitfaden, was er tatsächlich rezitiert, wer jedes Gedicht geschrieben hat und warum bestimmte Entscheidungen politische und emotionale Bedeutung tragen.
+Für ausländische Zuschauer, die auf Disney+ zuschauen, wurde es auch zu einer der verwirrendsten Szenen im gesamten Franchise. Viel Chinesisch geschieht sehr schnell, und das Untertitel-Feld kann mit der Tiefe der Referenzen nicht Schritt halten. Dies ist ein Leitfaden, was er tatsächlich rezitiert, wer jedes Gedicht geschrieben hat und warum spezifische Entscheidungen politische und emotionale Bedeutung tragen.
 
 ---
 
 ## Die Vorbereitung
 
-Die Szene findet bei einem Bankett statt, das vom Qing-Kaiser für Diplomaten aus Northern Qi und Dong Yi City ausgerichtet wird. Fan Xian hat sich bis zu diesem Zeitpunkt einen Ruf als poetisches Wunderkind erarbeitet — ein gefährlicher Ruf in einem System, in dem literarische Identität politisches Kapital ist. Zhuang Mohan (庄墨韩), ein alter literarischer Großmeister aus Northern Qi, beschuldigt Fan Xian öffentlich, ein Gedicht von Zhuang's verstorbenem Lehrer plagiiert zu haben.
+Die Szene findet bei einem Bankett statt, das vom Qing-Kaiser für Diplomaten aus Nord-Qi und Dong Yi City ausgerichtet wird. Fan Xian hat sich bis zu diesem Zeitpunkt einen Ruf als poetisches Wunderkind erarbeitet — ein gefährlicher Ruf in einem System, in dem literarische Identität politisches Kapital ist. Zhuang Mohan (庄墨韩), ein alter literarischer Großmeister aus Nord-Qi, beschuldigt Fan Xian öffentlich, ein Gedicht von Zhuang's verstorbenem Lehrer plagiiert zu haben.
 
-Die Anschuldigung ist, im Rahmen des Buches, ironisch. Fan Xians Mutter Ye Qingmei wird angedeutet, dass sie die Erinnerung an die klassische chinesische Literatur aus einer anderen Welt getragen hat — und Fan Xian hat diese Erinnerung geerbt. Was Zhuang Plagiat nennt, ist innerhalb der Metaphysik des Romans ein Transfer zwischen Universen. Aber Fan Xian kann das nicht erklären. Stattdessen antwortet er, indem er demonstriert, dass er die gesamte Tradition kennt.
+Die Anschuldigung ist, im Rahmen des Buches, ironisch. Fan Xians Mutter Ye Qingmei wird angedeutet, dass sie die Erinnerung an die klassische chinesische Literatur aus einer anderen Welt getragen hat — und Fan Xian hat diese Erinnerung geerbt. Was Zhuang Plagiat nennt, ist innerhalb der Metaphysik des Romans ein Transfer zwischen Universen. Aber Fan Xian kann das nicht erklären. Stattdessen reagiert er, indem er demonstriert, dass er die gesamte Tradition kennt.
 
-Berichten zufolge trank Schauspieler Zhang Ruoyun für die Szene echten Wein und hatte über 100 Gedichte auswendig gelernt; die endgültige Aufnahme verwendet je nach Zählweise zwischen 24 und 38 unterschiedlichen Werken. Hier sind die wichtigsten.
+Berichten zufolge trank Schauspieler Zhang Ruoyun für die Szene echten Wein und hatte über 100 Gedichte auswendig gelernt; die endgültige Aufnahme verwendet zwischen 24 und 38 verschiedenen Werken, je nachdem, wie man teilweise Zeilen zählt. Hier sind die wichtigsten.
 
 ---
 
@@ -52,11 +51,11 @@ Die Wahl etabliert Fan Xians poetische Identität, bevor er etwas anderes gesagt
 
 > 明月几时有？把酒问青天。
 > *Míng yuè jǐ shí yǒu? Bǎ jiǔ wèn qīng tiān.*
-> *"Wann erschien der helle Mond zum ersten Mal? Mit Wein in der Hand frage ich den blauen Himmel."*
+> *"Wann erschien der helle Mond zum ersten Mal? Mit Wein in der Hand frage ich die blauen Himmel."*
 
-Su Shi (苏轼, 1037–1101) ist die andere Säule des chinesischen poetischen Kanons neben Li Bai. Dieses spezifische Gedicht ist das Gedicht zum Mittherbstfest — es wird jeden Herbst bei Familientreffen in der chinesischsprachigen Welt rezitiert. Es bei einem Bankett zu zitieren signalisiert jedem Chinesen im Raum: *Ich kenne das beliebteste Gedicht in der Sprache*.
+Su Shi (苏轼, 1037–1101) ist die andere Säule des chinesischen poetischen Kanons neben Li Bai. Dieses spezifische Gedicht ist das Gedicht des Mittherbstfestes — es wird jeden Herbst bei Familientreffen in der chinesischsprachigen Welt rezitiert. Es bei einem Bankett zu zitieren signalisiert jedem Chinesen im Raum: *Ich kenne das beliebteste Gedicht in der Sprache*.
 
-Fan Xians Wahl dieser Zeile spiegelt auch seine eigene Handlung wider. Su Shi hält Wein und fragt den Himmel. Fan Xian hält in diesem Moment Wein und fragt den Raum.
+Fan Xians Wahl dieser Zeile spiegelt auch seine eigene Handlung wider. Su Shi hält Wein und fragt die Himmel. Fan Xian hält in diesem Moment Wein und fragt den Raum.
 
 ---
 
@@ -68,9 +67,9 @@ Fan Xians Wahl dieser Zeile spiegelt auch seine eigene Handlung wider. Su Shi h�
 > *Chūn huā qiū yuè hé shí liǎo, wǎng shì zhī duō shǎo.*
 > *"Frühling Blumen und Herbstmonde — wann werden sie enden? Wie viel von der Vergangenheit weiß ich?"*
 
-Li Yu (李煜, 937–978) war der letzte Herrscher der Southern Tang, abgesetzt und von der Song-Eroberung gefangen genommen. Er schrieb *Yú Měi Rén* unter Hausarrest. Der Gründungskaiser der Song soll ihn kurz nach dem Lesen hingerichtet haben, da er seine Melancholie als aufrührerisch interpretierte.
+Li Yu (李煜, 937–978) war der letzte Herrscher der Southern Tang, abgesetzt und von der Song-Eroberung gefangen genommen. Er schrieb *Yú Měi Rén* unter Hausarrest. Er starb 978 — nicht unter dem Song-Gründer Taizu (der 976 gestorben war), sondern unter dem zweiten Song-Kaiser, Taizong (太宗), der ihn angeblich kurz nach der Verbreitung dieses Gedichts vergiften ließ, da er seine Melancholie als aufrührerisch interpretierte.
 
-Li Yu bei einem diplomatischen Bankett von Northern Qi zu zitieren, ist subtile Ungehorsamkeit. Li Yu war ein abgesetzter Herrscher aus einem gefallenen Staat, der über Verlust schrieb. Fan Xian erinnert die Delegation von Northern Qi indirekt daran, dass Imperien fallen — und dass die Poesie, die von den Besiegten geschrieben wird, manchmal die Poesie überdauert, die von den Siegern geschrieben wird.
+Li Yu bei einem diplomatischen Bankett in Nord-Qi zu zitieren, ist subtile Ungehorsamkeit. Li Yu war ein abgesetzter Herrscher aus einem gefallenen Staat, der über Verlust schrieb. Fan Xian erinnert die Nord-Qi-Delegation indirekt daran, dass Imperien fallen — und dass die Poesie, die von den Besiegten geschrieben wurde, manchmal die Poesie überdauert, die von den Siegern geschrieben wurde.
 
 ---
 
@@ -94,7 +93,7 @@ Fan Xians Verwendung dieser Zeile vertieft die politische Dimension. "Der Staat 
 
 Bai Juyi (白居易, 772–846) schrieb dieses 120-zeilige narrative Gedicht über die Liebe des Tang-Kaisers Xuanzong zu Yang Guifei, ihren Tod während der An Lushan-Rebellion und sein lebenslanges Trauern. Die Länge und der emotionale Umfang des Gedichts geben Fan Xian mehrere zitierbare Zeilen, aus denen er wählen kann. Welche Zeilen er wählt, hängt vom Schnitt ab — verschiedene Segmente erscheinen in verschiedenen Schnitten der Szene.
 
-*Cháng Hèn Gē* wird jedem chinesischen Mittelschüler beigebracht. Es zu zitieren stellt fest, dass Fan Xian die gesamte narrative poetische Tradition kennt, nicht nur kurze lyrische Verse.
+*Cháng Hèn Gē* wird jedem chinesischen Mittelschüler beigebracht. Es zu zitieren, stellt fest, dass Fan Xian die gesamte narrative poetische Tradition kennt, nicht nur kurze lyrische Verse.
 
 ---
 
@@ -106,9 +105,9 @@ Bai Juyi (白居易, 772–846) schrieb dieses 120-zeilige narrative Gedicht üb
 > *Rén shēng zì gǔ shuí wú sǐ, liú qǔ dān xīn zhào hàn qīng.*
 > *"Seit der Antike, wer unter den Lebenden ist, hat nicht gestorben? Lass ein rotes Herz auf die Geschichte scheinen."*
 
-Wen Tianxiang (文天祥, 1236–1283) war ein spät Song-Staatsmann, der sich weigerte, sich der Yuan (mongolischen) Eroberung zu ergeben und schließlich hingerichtet wurde. Er schrieb dieses Gedicht, während er im Gefängnis war. Seine abschließende Strophe gehört zu den meistzitierten Zeilen in der chinesischen Geschichte — eine Aussage moralischer Absolutheit angesichts des sicheren Todes.
+Wen Tianxiang (文天祥, 1236–1283) war ein spät-Song-Staatsmann, der sich weigerte, sich der Yuan (mongolischen) Eroberung zu ergeben und schließlich hingerichtet wurde. Er schrieb dieses Gedicht, während er im Gefängnis war. Seine abschließende Strophe gehört zu den meistzitierten Zeilen in der chinesischen Geschichte — eine Aussage moralischer Absolutheit angesichts des sicheren Todes.
 
-Dies ist eine sehr gezielte Wahl für Fan Xian. Wen Tianxiang ist der Schutzpatron der chinesischen Patrioten, die sich weigern zu kapitulieren. Ihn bei einem diplomatischen Bankett zu zitieren, sagt der Delegation von Northern Qi, dass Fan Xian sich nicht beugen wird.
+Dies ist eine sehr gezielte Wahl für Fan Xian. Wen Tianxiang ist der Schutzpatron der chinesischen Patrioten, die sich weigern zu kapitulieren. Ihn bei einem diplomatischen Bankett zu zitieren, sagt der Nord-Qi-Delegation, dass Fan Xian sich nicht beugen wird.
 
 ---
 
@@ -119,7 +118,7 @@ Dies ist eine sehr gezielte Wahl für Fan Xian. Wen Tianxiang ist der Schutzpatr
 > 前不见古人，后不见来者。
 > 念天地之悠悠，独怆然而涕下。
 > *Qián bù jiàn gǔ rén, hòu bù jiàn lái zhě. Niàn tiān dì zhī yōu yōu, dú chuàng rán ér tì xià.*
-> *"Vor mir sehe ich die Alten nicht. Hinter mir sehe ich die, die noch kommen werden, nicht. Nachdenkend über die Weite von Himmel und Erde, weine ich allein."*
+> *"Vor mir sehe ich die Alten nicht, hinter mir sehe ich die, die noch kommen werden, nicht. Nachdenkend über die Weite von Himmel und Erde, weine ich allein."*
 
 Chen Ziang (陈子昂, 661–702) war ein früher Tang-Dichter, dessen kurzes vierzeiliges existenzialistisches Gedicht eines der bewegendsten in der Sprache ist. Es inszeniert einen einzelnen Mann auf einem Turm, allein mit dem Maß der Zeit.
 
@@ -159,13 +158,13 @@ Wang Anshi (王安石, 1021–1086) war ein Song-Staatsmann und Dichter, der bed
 
 > 莫愁前路无知己，天下谁人不识君。
 > *Mò chóu qián lù wú zhī jǐ, tiān xià shuí rén bù shí jūn.*
-> *"Sorge dich nicht, dass der Weg vor dir keinen Verwandten hat. Unter dem Himmel, wer kennt dich nicht?"*
+> *"Mach dir keine Sorgen, dass der Weg vor dir keinen Verwandtengeist hat. Unter dem Himmel, wer kennt dich nicht?"*
 
-Gao Shi (高适, 704–765) schrieb dieses Abschiedsgedicht für den Mitdichter Dong Ting. Seine letzte Strophe — die Zusicherung, dass eine großartige Person immer willkommen sein wird — gehört zu den meistzitierten Zeilen in der Freundschaftspoesie.
+Gao Shi (高适, 704–765) schrieb dieses Abschiedsgedicht an den Mitdichter Dong Ting. Seine letzte Strophe — die Zusicherung, dass eine großartige Person immer willkommen sein wird — gehört zu den meistzitierten Zeilen in der Freundschaftspoesie.
 
 ---
 
-## Weitere erwähnte Werke
+## Andere erwähnte Werke
 
 Die Szene enthält auch Zeilen aus:
 
@@ -174,13 +173,13 @@ Die Szene enthält auch Zeilen aus:
 - **《山中与幽人对酌》** — Li Bai erneut, "Drinking Alone with a Recluse in the Mountains"
 - **《石灰吟》** — Yu Qian (Ming), über Kalzinierung als Metapher für moralische Reinigung
 
-Je nach spezifischem Schnitt und Untertitelbearbeitung tauchen andere Gedichte auf und verschwinden wieder. Eine vollständige Zählung in der chinesischen Rundfunkversion erreicht über 30 unterschiedliche Werke; die internationale Bearbeitung auf Disney+ bewahrt ungefähr die gleiche Anzahl.
+Je nach spezifischem Schnitt und Untertitel-Edit tauchen andere Gedichte auf und verschwinden wieder. Eine vollständige Zählung in der chinesischen Rundfunkversion erreicht über 30 verschiedene Werke; die internationale Bearbeitung auf Disney+ bewahrt ungefähr die gleiche Anzahl.
 
 ---
 
 ## Warum die Szene wichtig ist
 
-In kulturellen Begriffen fungiert die Szene als ein chinesisches zivilisatorisches Flex. Fan Xian führt den chinesischen poetischen Kanon als ein einziges kontinuierliches Erbe auf — vom Han-Folklied bis zum Song-Lied — in einem Kontext, in dem Northern Qi ihn gerade des Plagiats beschuldigt hat. Seine Antwort ist im Wesentlichen: *Ich habe kein Gedicht gestohlen; ich kenne sie alle*. Die Implikation ist, dass er so tief in der Tradition steht, dass Eigentumsansprüche absurd sind.
+In kulturellen Begriffen fungiert die Szene als ein chinesisches zivilisatorisches Flex. Fan Xian führt den chinesischen poetischen Kanon als ein einziges kontinuierliches Erbe auf — von Han-Folklore bis Song-Lyrik — in einem Kontext, in dem Nord-Qi ihn gerade des Plagiats beschuldigt hat. Seine Antwort ist im Wesentlichen: *Ich habe kein Gedicht gestohlen; ich kenne sie alle*. Die Implikation ist, dass er so tief in der Tradition steht, dass Eigentumsansprüche absurd sind.
 
 Für diaspora-chinesische Zuschauer war die Szene ein emotionales Tribut an den klassischen Kanon. Jede Zeile verweist auf ein Gedicht, das in der Mittelschule auswendig gelernt wurde. Die Rekursion der Anerkennung — "oh, das ist Du Fu, oh, das ist Su Shi, oh, das ist Wen Tianxiang" — erzeugt eine spezifische Art von kulturellem Vergnügen, die schwer zu übersetzen ist.
 
@@ -188,6 +187,6 @@ Für internationale Zuschauer, die auf Disney+ zuschauen, wurde die Szene viral 
 
 Die Eröffnungskapitel der zweiten Staffel beziehen sich wiederholt auf Fan Xians Ruf nach dem Bankett. Er ist "诗仙 reborn" — Li Bai zurückgekehrt. Dies ist nicht mehr nur poetische Identität. Es ist politisches Kapital. Die Bankettszene verwandelte literarische Darbietung in harte Macht, und die zweite Staffel handelt teilweise davon, wie weit diese Macht gedehnt werden kann, bevor die Zensurbehörde ihn zwingt, sie auszugeben.
 
-Wenn Sie *Joy of Life* vor Staffel 3 erneut ansehen, ist diese Szene es wert, mit den obigen Anmerkungen in der Hand erneut besucht zu werden. Was beim ersten Ansehen wie ein Spektakel aussieht, wird beim zweiten Ansehen zu dem dichten kulturellen Dokument, das es tatsächlich ist.
+Wenn Sie *Joy of Life* vor Staffel 3 erneut ansehen, ist es wert, diese Szene mit den obigen Anmerkungen in der Hand zu revisieren. Was beim ersten Ansehen wie ein Spektakel aussieht, wird beim zweiten Ansehen zu dem dichten kulturellen Dokument, das es tatsächlich ist.
 
-*Joy of Life* ist auf Disney+ und Amazon Prime verfügbar. Basierend auf dem Roman von Mao Ni, inszeniert von Sun Hao, mit Zhang Ruoyun in der Hauptrolle. Staffel 3 für 2026 bestätigt.
+*Joy of Life* ist auf Disney+ und Amazon Prime verfügbar. Basierend auf dem Roman von Mao Ni, inszeniert von Sun Hao, mit Zhang Ruoyun in der Hauptrolle. Staffel 3 wird allgemein erwartet, aber nicht offiziell datiert, und wird Berichten zufolge nicht vor 2027 wahrscheinlich sein.

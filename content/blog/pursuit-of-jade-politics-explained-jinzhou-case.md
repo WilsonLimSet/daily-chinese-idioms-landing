@@ -27,7 +27,7 @@ Below: the Jinzhou Case in full, each conspirator's role, and how the drama's fi
 
 ## The Jinzhou Massacre: The Inciting Crime
 
-Sixteen years before Episode 1, the imperial army under **Crown Prince Chengde (承德太子)** and his senior commander **General Xie Linshan** — the Marquis Wu'an, Xie Zheng's father — was wiped out at **Jinzhou (锦州)**. Chinese commentary places the death toll at roughly 100,000 soldiers plus the Crown Prince himself. The eastern flank of the Great Yin (大胤) Dynasty was lost; Jinzhou fell to the rival Northern Que regime.
+Sixteen years before Episode 1, the imperial army under **Crown Prince Chengde (承德太子)** and his senior commander **General Xie Linshan** — the Marquis Wu'an, Xie Zheng's father — was wiped out at **Jinzhou (瑾州)**. Chinese commentary places the death toll at roughly 100,000 soldiers plus the Crown Prince himself. The eastern flank of the Great Yin (大胤) Dynasty was lost; Jinzhou fell to the rival Beique (北厥) regime.
 
 The cover story given to the court was that Prime Minister Wei Yan had betrayed the Crown Prince by withholding grain and reinforcements. Wei Yan in turn deflected the blame onto his subordinate **General Wei Qilin (魏麒麟)** — who happened to be carrying the real tiger tally — and Wei Qilin was framed, executed, and his family forced into hiding under a new surname: **Fan**.
 
@@ -81,7 +81,7 @@ His motive for the Jinzhou betrayal was not, on the show's reading, primarily an
 
 The figure most casual viewers underrate is the most dramatically active antagonist of the back half — and he is not really a "secondary political conspirator." He is the show's hidden first-mover.
 
-**Qi Min (齐旻)** is, biologically, the legitimate grandson of the late emperor and the eldest son of murdered Crown Prince Chengde. When Jinzhou fell, the Crown Princess set fire to the Eastern Palace to fake her own death and protect her four-year-old. The fire burned the boy's face. He was smuggled to Prince Changxin's household and raised under the substitute identity of **"Sui Yuanhuai"** — Changxin's elder son — after the real Sui Yuanhuai died. For seventeen years he has been hiding inside the household of the man who, on the late emperor's orders, helped destroy his parents.
+**Qi Min (齐旻)** is, biologically, the legitimate grandson of the late emperor and the eldest son of murdered Crown Prince Chengde. When Jinzhou fell, the Crown Princess set fire to the Eastern Palace to fake her own death and protect her four-year-old. The fire burned the boy's face. He was smuggled to Prince Changxin's household and raised under the substitute identity of **"Sui Yuanhuai"** — Changxin's elder son — after the real Sui Yuanhuai died. For sixteen years he has been hiding inside the household of the man who, on the late emperor's orders, helped destroy his parents.
 
 His public persona during the drama's first half is **Qi Min, a quiet rice merchant in the capital**. He courts and marries **Yu Qianqian (俞浅浅)** — Fan Changyu's best friend and the matchmaker of her own marriage — and they have a son named Bao'er. Only in the back third does the audience learn that Qi Min and Sui Yuanhuai are the same person, and that he has been the secret strategist behind the northwestern conspiracy all along.
 
@@ -89,7 +89,7 @@ His goal is not Prince Changxin's goal. Changxin wants the throne for himself. *
 
 He is defeated when Xie Zheng and Fan Changyu return from the northern front with military victory and documentary evidence. Captured and broken, **Qi Min is poisoned in his cell by Yu Qianqian — his own wife, choosing their son's future over her husband.** Bao'er ascends the throne as the new boy-emperor; Yu Qianqian becomes Empress Dowager.
 
-The chengyu that fits Qi Min's position is **韬光养晦** (*tāo guāng yǎng huì*, "conceal the light, nurture in the dark"). For seventeen years he hid in plain sight inside his enemy's household. The chengyu also fits Xie Zheng — the difference is that Xie Zheng's hidden cultivation leads to mercy in the finale and Qi Min's leads to a coup. Same strategy, opposite ends.
+The chengyu that fits Qi Min's position is **韬光养晦** (*tāo guāng yǎng huì*, "conceal the light, nurture in the dark"). For sixteen years he hid in plain sight inside his enemy's household. The chengyu also fits Xie Zheng — the difference is that Xie Zheng's hidden cultivation leads to mercy in the finale and Qi Min's leads to a coup. Same strategy, opposite ends.
 
 ---
 
@@ -109,7 +109,7 @@ This is the drama's harshest moral position: total justice would require denounc
 
 *Pursuit of Jade* has **two emperors**, and the show's central political claim is that **the late emperor — not Prince Changxin — was the true architect of the Jinzhou massacre**.
 
-**The late Emperor Qi Yi (齐屹)** is never seen onscreen except in flashback. He is the show's real villain. His logic, as multiple Chinese reviews reconstruct it: a fallen crown prince could be replaced, but a destabilized empire could not. So he sacrificed his own son, his younger son's reputation, his prime minister, the Xie clan, the Wei Qilin family, and 100,000 soldiers to neutralize a perceived succession threat. The drama gives him one chilling distilled line: "*a fallen prince could be replaced, but the loss of a prime minister might destabilise the state.*" This is *Pursuit of Jade*'s critique of imperial reason of state in a single sentence.
+**The late Emperor Qi Yi (齐屹)** is never seen onscreen except in flashback. He is the show's real villain. His logic, as multiple Chinese reviews reconstruct it: a fallen crown prince could be replaced, but a destabilized empire could not. So he sacrificed his own son, his younger son's reputation, his prime minister, the Xie clan, the Wei Qilin family, and 100,000 soldiers to neutralize a perceived succession threat. That cold calculus — a single heir treated as expendable so long as his removal preserved the throne's stability — is *Pursuit of Jade*'s critique of imperial reason of state.
 
 **Emperor Qi Sheng (齐笙)**, the reigning emperor at story start, is the late emperor's younger surviving son. He inherited a throne deliberately emptied for him by his father's purge of his elder brother. He is portrayed across the drama as weak, suspicious, increasingly cornered, and ultimately complicit — not in the original crime but in maintaining the cover-up. When Qi Min stages the palace coup, Qi Sheng hands over the imperial seal rather than fight. He is alive at the end but politically irrelevant; Xie Zheng's regency runs the state and a child emperor (Bao'er) is installed.
 

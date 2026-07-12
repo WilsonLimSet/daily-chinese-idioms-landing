@@ -67,7 +67,7 @@ This meant that ink quality was directly tied to social mobility. A farmer's son
 
 温故知新 — Confucius's injunction to find new understanding by revisiting what you already know — was the intellectual foundation of the examination system. Candidates studied the same classical texts their grandfathers had studied, but were expected to produce fresh insights. The ink they used connected them physically to that tradition: the same substance that had carried the words of Confucius now carried their own interpretations. Every examination essay was an act of 温故知新 made tangible in ink.
 
-*The Heir* sets its story during the Jiajing era, when the examination system was well-established and demand for quality ink was enormous. Li Zhen isn't just making a luxury product — she's supplying the infrastructure of Chinese governance.
+*The Heir* sets its story in the mid-Ming, when the examination system was well-established and demand for quality ink was enormous. Li Zhen isn't just making a luxury product — she's supplying the infrastructure of Chinese governance.
 
 **Use it:** When returning to fundamentals reveals something you missed the first time — rereading a book at forty that you read at twenty and finding it says something completely different.
 

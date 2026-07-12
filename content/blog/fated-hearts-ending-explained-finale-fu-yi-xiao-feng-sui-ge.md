@@ -6,10 +6,10 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Relationships & Character"
-description: "Does Fated Hearts (婉心记) have a happy or sad ending? The 40-episode finale split Chinese viewers — here's exactly what happens to Fu Yi Xiao and Feng Sui Ge, and why the mountaintop scene became the year's most-debated C-drama moment."
+description: "Does Fated Hearts (一笑随歌) have a happy or sad ending? The 40-episode finale split Chinese viewers — here's exactly what happens to Fu Yi Xiao and Feng Sui Ge, and why the mountaintop scene became the year's most-debated C-drama moment."
 ---
 
-**Fated Hearts (婉心记)** concluded its 40-episode run in October 2025 with one of the most discussed Chinese drama finales of the year. The ending — covering the resolution of the central romance, the exposure of a court conspiracy, and a final mountaintop scene that has become one of the most-quoted images in the show — sparked significant debate among Chinese viewers about whether the conclusion delivered on the drama's emotional promise.
+**Fated Hearts (一笑随歌)** concluded its 40-episode run in October 2025 with one of the most discussed Chinese drama finales of the year. The ending — covering the resolution of the central romance, the exposure of a court conspiracy, and a final mountaintop scene that has become one of the most-quoted images in the show — sparked significant debate among Chinese viewers about whether the conclusion delivered on the drama's emotional promise.
 
 If you've watched the drama and want to make sense of what happened, or if you're considering starting it and want spoilers before committing 40 episodes, here's a complete breakdown of how *Fated Hearts* ends.
 
@@ -19,7 +19,7 @@ If you've watched the drama and want to make sense of what happened, or if you'r
 
 ## Is the Fated Hearts Ending Happy or Sad? (Short Answer)
 
-The *Fated Hearts* (婉心记) ending is **bittersweet — closer to happy than tragic, but deliberately unresolved.**
+The *Fated Hearts* (一笑随歌) ending is **bittersweet — closer to happy than tragic, but deliberately unresolved.**
 
 - **Fu Yi Xiao and Feng Sui Ge survive and reconcile.** No deaths, no permanent separation.
 - **The final scene is a kiss and a mountaintop embrace** — one of the most-screenshotted images of the 2025 C-drama year.
@@ -169,7 +169,7 @@ For viewers who want more from this drama universe, the most likely paths are sp
 
 ## Why This Drama Mattered
 
-*Fated Hearts* was one of the better-executed historical romances of 2025 — an 8.2 IMDB rating, 40 episodes that maintained their pacing, two leads with distinct emotional registers, and an ending that took genuine artistic risks.
+*Fated Hearts* was one of the better-executed historical romances of 2025 — 40 episodes that maintained their pacing, two leads with distinct emotional registers, and an ending that took genuine artistic risks.
 
 For the C-drama genre, the show represents what historical romance can accomplish when it commits to the female lead as a real combatant, treats memory loss as moral instrument rather than plot convenience, and refuses to let political resolution override romantic resolution.
 

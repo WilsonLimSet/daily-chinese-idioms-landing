@@ -6,7 +6,7 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Success & Perseverance"
-description: "Tian Xiwei (田曦薇, born 1997) plays Fan Changyu in Pursuit of Jade (逐玉) — the butcher's-daughter-turned-General Huaihua role that made her one of China's 'four small dan' actresses. Here's her career from New Life Begins to Pursuit of Jade, plus what's next."
+description: "Tian Xiwei (田曦薇, born 1997) plays Fan Changyu in Pursuit of Jade (逐玉) — the butcher's-daughter-turned-Flower-Crowned-General role that made her one of China's 'four small dan' actresses. Here's her career from New Life Begins to Pursuit of Jade, plus what's next."
 ---
 
 ## Who Is Tian Xiwei? — Short Answer
@@ -20,7 +20,7 @@ description: "Tian Xiwei (田曦薇, born 1997) plays Fan Changyu in Pursuit of 
 - **Career start:** Signed 2017, TV debut 2018 (*Waiting for You in a Long Time*)
 - **Breakout:** Li Wei in *New Life Begins* (卿卿日常, 2022) opposite Bai Jingting — the fastest iQIYI drama to hit a popularity heat index of 10,000 at the time
 - **Career-peak role:** Fan Changyu in *Pursuit of Jade* (逐玉, 2026) — the role that took her from "popular young dan with hot dramas" to "carrying a Netflix Global Top 10 flagship"
-- **Online footprint:** 1M+ Instagram followers at @vv.tian (up from ~300K before *Pursuit of Jade*); ~8,272 MyDramaList hearts
+- **Online footprint:** 1M+ Instagram followers at @vv.tian (up from ~300K before *Pursuit of Jade*); tens of thousands of MyDramaList followers
 
 Below: her role in *Pursuit of Jade* explained, her full career arc, the industry tier system she sits in, and what's coming next.
 
@@ -28,19 +28,19 @@ Below: her role in *Pursuit of Jade* explained, her full career arc, the industr
 
 ## Who Plays Fan Changyu in Pursuit of Jade?
 
-**Tian Xiwei plays Fan Changyu (范长玉)**, the female lead of *Pursuit of Jade* — opposite Zhang Linghe's Xie Zheng. (See our [Zhang Linghe career guide](/blog/pursuit-of-jade-zhang-linghe-career-guide-xie-zheng) for the male-lead side.)
+**Tian Xiwei plays Fan Changyu (樊长玉)**, the female lead of *Pursuit of Jade* — opposite Zhang Linghe's Xie Zheng. (See our [Zhang Linghe career guide](/blog/pursuit-of-jade-zhang-linghe-career-guide-xie-zheng) for the male-lead side.)
 
 ### Fan Changyu's character core
 
-- **Origin:** A butcher's daughter from a remote village. Orphaned after her parents were murdered by bandits; she works as a butcher to raise her younger sister Ningning.
+- **Origin:** A butcher's daughter from a remote village. After her mother is killed by bandits she works as a butcher to raise her younger sister Ningning; her father, long believed dead, resurfaces to reunite with her by the finale.
 - **Defining trait:** Feisty and physically strong — she wields her father's butcher knife as both her tool and her weapon throughout the drama.
 - **The 入赘 (matrilocal) marriage premise:** Her neighbors urge her to take a husband who will marry *into* her family (rather than the reverse) so her uncle cannot seize the family home. Xie Zheng — the fallen Marquis Wu'an, severely wounded and in hiding — agrees. Even after his noble identity is revealed, the drama insists he remains her **matrilocal husband**, not the other way around. This inversion is the spine of the romance.
-- **Her arc:** village butcher → wartime defender → battlefield commander searching for her husband → ennobled as **General Huaihua (怀化将军)** in the finale → ends the drama as Grand General governing alongside Xie Zheng. For the full title-earning sequence, see [Does Fan Changyu Become a General? The Finale Arc Explained](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).
+- **Her arc:** village butcher → wartime defender → battlefield commander searching for her husband → ennobled as the **Flower-Crowned General (簪花将军)**, a fourth-rank generalship, in the finale → ends the drama governing alongside Xie Zheng. For the full title-earning sequence, see [Does Fan Changyu Become a General? The Finale Arc Explained](/blog/pursuit-of-jade-fan-changyu-finale-butcher-to-general).
 - **The thesis line that fandom quotes most:** "I am a butcher's daughter; with my knife I can slaughter pigs, and I can also protect mountains and rivers." (*我本屠户女，执刀可杀猪，亦可护山河*)
 
-### The "Zhengyu" ship and a real-life rumor
+### The "Zhengyu" ship
 
-The fandom couple-name for the leads is **"Zhengyu" (征玉)** — a play on **Xie *Zheng* + Fan Chang*yu***, with 征 ("conquest / expedition") swapped in for stylistic punch. On 6 April 2026, the two were photographed at a Hengdian cafe in matching hats and masks, sparking real-life dating rumors. Neither has confirmed. (Earlier Tian Xiwei dating rumors — Qu Chuxiao in 2022, Lai Weiming in 2024 — were both denied.)
+The fandom couple-name for the leads is **"Zhengyu" (征玉)** — a play on **Xie *Zheng* + Fan Chang*yu***, with 征 ("conquest / expedition") swapped in for stylistic punch. It remains a fan ship name only; neither actor has confirmed any off-screen relationship.
 
 ---
 
@@ -55,7 +55,7 @@ Out of ~16 drama credits since 2018, six matter most for Western viewers:
 | 2023 | Romance on the Farm (田耕纪) | Lian Maner | IMDb 6.5; rural-setting romance |
 | 2024 | **Guardians of the Dafeng** (大奉打更人) | Princess Lin An | Tencent heat index 30,000+ — a tier almost no actress in her cohort had hit |
 | 2025 | Moonlit Reunion (子夜归) | Wu Zhen | Strong reception; co-starred with Xu Kai |
-| 2026 | **Pursuit of Jade** (逐玉) | Fan Changyu | **Career-peak role** — Netflix Global Top 10, 3.6B+ aggregate views |
+| 2026 | **Pursuit of Jade** (逐玉) | Fan Changyu | **Career-peak role** — Netflix Global Top 10; 3.3 billion+ aggregate views (reported; viewership figures were publicly disputed) |
 
 Earlier work (2018-2021): *Waiting for You in a Long Time* (her TV debut), *The Song of Glory*, *Lovely Us*, *Be My Cat*, *My Fated Boy*. Plus 2024's *In Between* (半熟男女), her foray into modern realism, and 2024's voice-acting debut as Sophie in the Mandarin dub of *Howl's Moving Castle*.
 
@@ -79,14 +79,14 @@ Chinese drama discourse classifies young leading actresses in informal **"dan" (
 - Zhang Jingyi (张婧仪)
 - Wang Churan (王楚然)
 
-The framework was publicly stated by producer Yu Zheng — one of the most powerful figures in Chinese TV — and is now widely used by Chinese entertainment press. *Pursuit of Jade*'s commercial and critical reception (Tencent heat above 31,000, iQIYI above 10,000, total views above 3.6 billion, merchandise sales above 20M RMB) is the strongest case yet for Tian's promotion to the top tier. The natural comparison is Zhao Lusi's own trajectory from "sweet-girl rom-com lead" to top-billed actress; Tian is on a similar arc, one or two breakout roles behind.
+The framework was publicly stated by producer Yu Zheng — one of the most powerful figures in Chinese TV — and is now widely used by Chinese entertainment press. *Pursuit of Jade*'s commercial and critical reception (Tencent heat above 31,000, iQIYI above 10,000, a reported 3.3 billion+ aggregate views, and strong merchandise sales) is the strongest case yet for Tian's promotion to the top tier. The natural comparison is Zhao Lusi's own trajectory from "sweet-girl rom-com lead" to top-billed actress; Tian is on a similar arc, one or two breakout roles behind.
 
 ---
 
 ## English-Language Fandom & Western Coverage
 
 - **Instagram:** 1M+ followers at @vv.tian (jumped from ~300K pre-*Pursuit of Jade*)
-- **MyDramaList:** ~8,272 hearts on her profile
+- **MyDramaList:** tens of thousands of followers on her profile
 - **Netflix:** *Pursuit of Jade* debuted at #6 on Global Top 10 Non-English TV — her most prominent Western moment
 - **International streaming:** Viki, iQIYI International, WeTV all carry her major roles
 - **Western press features:** Tatler Asia ("7 Tian Xiwei shows you need to watch after *Pursuit of Jade*"), Her World Singapore, Metro.Style, Jing Daily — heavy SEA + Western coverage in 2026

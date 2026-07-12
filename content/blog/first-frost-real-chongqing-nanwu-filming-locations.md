@@ -9,7 +9,7 @@ theme: "Life Philosophy"
 description: "Nanwu, the city where First Frost (难哄) is set, does not exist. But every location you see is real — filmed in Chongqing, the mountain-river-fog city that Chinese cinema has been using for decades to stand in for somewhere just slightly unreal. Here's the full breakdown."
 ---
 
-**First Frost (难哄)** takes place in a city called Nanwu (南梧). You can search "Nanwu" on a Chinese map and nothing comes up. That's because it doesn't exist — it's a fictional location invented by author Zhu Yi (竹已), shared between *Hidden Love* and *First Frost* as the home city of the Sang family. In *Hidden Love*, Nanwu is cozy nostalgia. In *First Frost*, it's harder — the same place, seen through trauma.
+**First Frost (难哄)** takes place in a city called Nanwu (南芜). You can search "Nanwu" on a Chinese map and nothing comes up. That's because it doesn't exist — it's a fictional location invented by author Zhu Yi (竹已), shared between *Hidden Love* and *First Frost* as the home city of the Sang family. In *Hidden Love*, Nanwu is cozy nostalgia. In *First Frost*, it's harder — the same place, seen through trauma.
 
 But every street, restaurant, park, and staircase you see on screen is real. The production filmed from February to June 2024 primarily in **Chongqing** (重庆), the mountain-river-fog megacity in southwestern China. Here is what you are actually looking at when you watch.
 
@@ -55,13 +55,13 @@ Chinese viewers reading the drama's location choices often comment on this: *他
 
 ---
 
-## Beiyu Memory Noodles (北渝记忆面馆) — The Confession Scene
+## A Xiaomian Shop — The Confession Scene
 
 One of the drama's most-screenshotted scenes is a small noodle-shop interaction that fans call the "confession scene" — without giving away specifics, it's a moment where Sang Yan deliberately slows down a conversation by ordering noodles, drinking water, and refusing to let the moment pass.
 
-The location is **Beiyu Memory Noodles (北榆记忆小面)**, a small family-run *xiaomian* shop in Chongqing. *Xiaomian* (小面, literally "small noodles") is Chongqing's iconic breakfast dish — alkaline wheat noodles in a spicy Sichuan-style broth, topped with scallions, peanuts, and preserved vegetables. It is the quintessential cheap honest Chongqing meal, available on nearly every street corner before 9 a.m.
+The setting is a *xiaomian* shop in Chongqing — fans have never pinned down a single confirmed address for it, and any specific shop name circulating online should be treated with caution. What matters is the choice of setting. *Xiaomian* (小面, literally "small noodles") is Chongqing's iconic breakfast dish — alkaline wheat noodles in a spicy Sichuan-style broth, topped with scallions, peanuts, and preserved vegetables. It is the quintessential cheap honest Chongqing meal, available on nearly every street corner before 9 a.m.
 
-Filming there was a choice. The drama could have staged the scene in any location. Choosing a *xiaomian* shop instead of a cafe tells you something about Sang Yan as a character — his version of comfort food is the one he grew up with, and the conversation about to happen needs to be grounded in ordinary texture, not aesthetic backdrop. Beiyu Memory Noodles has been swamped by *First Frost* fans since the drama aired. If you visit, expect a queue.
+Filming there was a choice. The drama could have staged the scene in any location. Choosing a *xiaomian* shop instead of a cafe tells you something about Sang Yan as a character — his version of comfort food is the one he grew up with, and the conversation about to happen needs to be grounded in ordinary texture, not aesthetic backdrop.
 
 ---
 
@@ -104,7 +104,7 @@ Chongqing is accessible internationally via Chongqing Jiangbei International Air
 3. **Nanbin Road** — the Yangtze waterfront used in *First Frost*'s night scenes
 4. **C97 Cultural Park** — "Overtime" bar exterior
 5. **Central Park (Yubei)** — drama opening scenes
-6. **Beiyu Memory Noodles** — the confession scene *xiaomian* shop
+6. **A Chongqing *xiaomian* shop** — the confession-scene setting (no single confirmed address)
 7. **Eighteen Steps (十八梯)** — the restored historic staircase district, aesthetic match for the drama's older-Chongqing sequences
 
 The city is a major tourist destination on its own — *First Frost* has amplified existing tourism patterns, not created them from scratch — so infrastructure is strong. English signage is limited; download a translation app. Hotpot is non-negotiable.

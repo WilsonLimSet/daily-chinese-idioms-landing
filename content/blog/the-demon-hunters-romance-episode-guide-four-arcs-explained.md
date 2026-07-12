@@ -156,7 +156,7 @@ The arcs are not independent. They are arranged in an order that matters. Mirror
 
 ## Should You Watch It?
 
-*The Demon Hunter's Romance* holds a 7.1 IMDB rating, which is respectable but not chart-topping for the C-drama supernatural genre. The drama's strengths are:
+ The drama's strengths are:
 
 - **Structural discipline.** The four-arc architecture is unusually well-executed.
 - **Tonal range.** Few supernatural dramas span melodrama → horror → comedy → philosophy this confidently.

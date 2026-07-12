@@ -95,7 +95,7 @@ This is why she is a ghost in Season 1 — known through her writings and her po
 
 ### Season 3 and Beyond
 
-Joy of Life S3, confirmed for 2026, is reportedly filming back-to-back with S4. Both continue the political arc of the novel, which in later chapters becomes more explicit about the modern-consciousness frame. How the television adaptation handles those later chapters — whether it can sustain the ambiguity or has to start committing to one reading — is an open craft question fans are watching closely.
+Joy of Life S3, though not yet officially dated (reporting points to 2027 rather than 2026), is rumored to film back-to-back with S4 — a claim that traces to a casual on-stage remark by cast member Tian Yu (田雨) rather than an official announcement. Both would continue the political arc of the novel, which in later chapters becomes more explicit about the modern-consciousness frame. How the television adaptation handles those later chapters — whether it can sustain the ambiguity or has to start committing to one reading — is an open craft question fans are watching closely.
 
 ---
 
@@ -127,4 +127,4 @@ If you're watching *Joy of Life* on Disney+ or Amazon, the hidden frame changes 
 
 The drama is not hiding anything from you. It's staging an intellectual argument — modernity versus premodernity — under regulatory conditions that required the argument to be dressed as a love-and-politics story. You can read it either way. The smarter readings come when you read it both ways at once.
 
-*Joy of Life* is streaming on Disney+ (select markets) and Amazon Prime. Based on Mao Ni's novel. Season 3 and Season 4 are filming concurrently, both directed by Sun Hao and written by Wang Juan, targeting 2026 release.
+*Joy of Life* is streaming on Disney+ (select markets) and Amazon Prime. Based on Mao Ni's novel. Season 3 (with Sun Hao reportedly returning to direct and Wang Juan to write) has not been officially dated and is reportedly not expected before 2027; talk of Seasons 3 and 4 filming concurrently remains unconfirmed rumor.

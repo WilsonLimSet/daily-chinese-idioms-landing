@@ -43,7 +43,7 @@ The last line seals it. **满城尽带黄金甲 (mǎn chéng jìn dài huángjī
 
 ## How the title reads the heroine
 
-Now map that back onto the drama. **Blossoms of Power** follows **Gu Qingzhi (顾清枝)**, the legitimate daughter of a great house who watches her family destroyed — and who re-emerges under a new identity as **Shen Xihe (沈汐和), the Zhaoning Princess (昭宁郡主)**, raised on the northwestern frontier. Ordered to the capital for a political marriage, she allies with the outwardly sickly Crown Prince **Xiao Huayong (萧华雍)** and climbs, step by step, toward real power. (The series began airing July 9, 2026 on Tencent Video / WeTV, and is styled as a **架空 (jiàkōng)**, deliberately un-dated fictional court — so it borrows the Tang poem's *charge* without claiming to depict the Tang.)
+Now map that back onto the drama. **Blossoms of Power** follows **Gu Qingzhi (顾青栀)**, the legitimate daughter of a great house who watches her family destroyed — and who re-emerges under a new identity as **Shen Xihe (沈汐和), the Zhaoning Princess (昭宁郡主)**, raised on the northwestern frontier. Ordered to the capital for a political marriage, she allies with the outwardly sickly Crown Prince **Xiao Huayong (萧华雍)** and climbs, step by step, toward real power. (The series began airing July 9, 2026 on Tencent Video / WeTV, and is styled as a **架空 (jiàkōng)**, deliberately un-dated fictional court — so it borrows the Tang poem's *charge* without claiming to depict the Tang.)
 
 Hold the poem next to that premise and the title is doing the work of a thesis statement:
 

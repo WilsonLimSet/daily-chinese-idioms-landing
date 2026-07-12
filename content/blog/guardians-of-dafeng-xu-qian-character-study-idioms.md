@@ -37,7 +37,7 @@ He uses chemistry to test the remaining silver, proving it's been adulterated. H
 
 ## 足智多谋 (zú zhì duō móu) — "Full of wisdom and many stratagems"
 
-[足智多谋](/blog/zu-zhi-duo-mou) describes someone whose intelligence is specifically strategic — not just smart, but resourceful. The person with many stratagems doesn't just understand problems; they generate multiple solutions, adapt when one fails, and always have a contingency.
+足智多谋 describes someone whose intelligence is specifically strategic — not just smart, but resourceful. The person with many stratagems doesn't just understand problems; they generate multiple solutions, adapt when one fails, and always have a contingency.
 
 The Sangbo Case (桑泊案) is where this idiom crystallizes around Xu Qi'an. A mysterious explosion at Sangbo Lake leads to a complex investigation involving court politics, ancient artifacts, and forces far above his rank. Xu Qi'an is outmatched in cultivation power by virtually everyone involved. He can't fight his way through this. He has to think his way through it.
 
@@ -65,7 +65,7 @@ The idiom's deepest application is in how he handles Wei Yuan's enemies. Wei Yua
 
 ## 嬉笑怒骂 (xī xiào nù mà) — "Joking and cursing freely"
 
-[嬉笑怒骂](/blog/xi-xiao-nu-ma) originally described a literary style — writing that shifts fluidly between humor, anger, satire, and invective, all while maintaining artistic control. The writer who masters 嬉笑怒骂 can make you laugh in one paragraph and rage in the next, and both reactions serve the same argument.
+嬉笑怒骂 originally described a literary style — writing that shifts fluidly between humor, anger, satire, and invective, all while maintaining artistic control. The writer who masters 嬉笑怒骂 can make you laugh in one paragraph and rage in the next, and both reactions serve the same argument.
 
 This is Xu Qi'an's personality as a weapon. He doesn't just joke around — he deploys humor strategically. When confronting corrupt officials, he doesn't make accusations (accusations can be denied, evidence can be buried). He mocks them. He recites poems that obliquely reference their crimes. He makes the gathered crowd laugh at the official before the official realizes the laughter is evidence of public opinion turning against them.
 
@@ -79,7 +79,7 @@ What makes this idiom specifically apt is the "怒骂" (anger and cursing) compo
 
 ## 知恩图报 (zhī ēn tú bào) — "Know kindness and plan to repay it"
 
-[知恩图报](/blog/zhi-en-tu-bao) describes a simple moral principle: if someone helps you, remember it, and find a way to repay it. Not eventually. Not vaguely. Plan it. The 图 (tú) means "to plan" or "to scheme" — this isn't passive gratitude. It's active repayment strategy.
+知恩图报 describes a simple moral principle: if someone helps you, remember it, and find a way to repay it. Not eventually. Not vaguely. Plan it. The 图 (tú) means "to plan" or "to scheme" — this isn't passive gratitude. It's active repayment strategy.
 
 Xu Qi'an's relationship with Wei Yuan is the axis on which this idiom turns. Wei Yuan sees potential in a loud-mouthed Bronze Gong that no one else sees. He mentors him, protects him from political enemies, gives him cases that should go to higher-ranked officers, and shields him from consequences when his methods attract the wrong kind of attention. Wei Yuan doesn't do this out of pure kindness — he's building an asset. But the kindness is real underneath the calculation, and Xu Qi'an recognizes both layers.
 
@@ -101,7 +101,7 @@ The drama shows this repeatedly in small moments that don't advance the main plo
 
 This creates problems. Constantly. He makes enemies he doesn't need. He draws attention at moments when invisibility would serve him better. His superiors repeatedly warn him that a Nightwatchman's job is to investigate, not to crusade. He nods, agrees, and then draws his sword the next time he sees someone being mistreated on the street.
 
-[路见不平拔刀相助](/blog/lu-jian-bu-ping-ba-dao-xiang-zhu) is his most expensive trait and his most essential one. Without it, he'd be just another clever operator in a corrupt system. With it, he's the reason common people in the capital start to trust the Nightwatchmen for the first time in a generation.
+路见不平拔刀相助 is his most expensive trait and his most essential one. Without it, he'd be just another clever operator in a corrupt system. With it, he's the reason common people in the capital start to trust the Nightwatchmen for the first time in a generation.
 
 **Use it:** When someone intervenes in a situation that isn't their business because it's the right thing to do — a bystander who steps between a bully and a stranger.
 
@@ -131,7 +131,7 @@ He does it anyway. Partly because his moral code (路见不平拔刀相助) won'
 
 This is also where his secret background matters, though he doesn't know it yet. His father, 许平峰, injected half of the Da Feng Dynasty's national fortune (国运) into him at birth. This manifests as extraordinary luck — situations that should kill him break just right, coincidences that shouldn't happen conspire in his favor, the tiger that should eat him chokes on a bone at the critical moment. As the holder of Earth Book Fragment No. 3 (地书三号碎片), he's also connected to a network of powerful figures who occasionally intervene on his behalf without his knowledge.
 
-[不入虎穴焉得虎子](/blog/bu-ru-hu-xue-yan-de-hu-zi) is the idiom of a man who walks into danger because he doesn't know how much invisible armor he's wearing. His courage is real. His survival is partly luck. The combination makes him the most dangerous kind of investigator: one who takes risks that rational people wouldn't, and lives through them often enough to take even bigger risks next time.
+不入虎穴焉得虎子 is the idiom of a man who walks into danger because he doesn't know how much invisible armor he's wearing. His courage is real. His survival is partly luck. The combination makes him the most dangerous kind of investigator: one who takes risks that rational people wouldn't, and lives through them often enough to take even bigger risks next time.
 
 **Use it:** When calculated risk-taking is the only path to a meaningful result — a journalist who goes undercover in a dangerous organization because the story can't be told from outside.
 

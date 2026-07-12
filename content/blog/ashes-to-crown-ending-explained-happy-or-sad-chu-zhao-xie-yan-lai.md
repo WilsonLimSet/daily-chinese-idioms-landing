@@ -21,13 +21,13 @@ She is reborn into her girlhood with every memory intact, and the drama's engine
 
 ## What happens in the finale
 
-**Chu Zhao rewrites her fate.** This time she *protects* the Chu military power rather than handing it to a man who'll betray her. She's enfeoffed as **镇国长公主** and becomes the effective regent-power behind the child emperor, and she uses that position for reform — founding a women's literary society and widening what women in the court can do. Crucially, she survives; the rebirth "works."
+**Chu Zhao rewrites her fate.** This time she *protects* the Chu military power rather than handing it to a man who'll betray her. She's enfeoffed as **镇国长公主** and becomes the effective regent-power behind the child emperor, and she uses that position for reform — widening what women in the court can do. Crucially, she survives; the rebirth "works."
 
-**Xie Yan Lai's endgame gambit.** The despised, concubine-born guard rises to **镇国大将军** (grand general). In the final act he **fakes his own death** — a trap set jointly with Chu Zhao and the young emperor — to lure the last conspirator into the open. He survives it, **marries Chu Zhao, and the two withdraw into seclusion with their children** (the drama gives them two).
+**Xie Yan Lai's endgame gambit.** The despised, concubine-born guard rises to **镇国大将军** (grand general). In the final act he **fakes his own death** — a trap set jointly with Chu Zhao and the young emperor — to lure the last conspirator into the open. He survives it, **marries Chu Zhao, and the two withdraw into seclusion with their children.**
 
 **The real villain is not who you think.** For most of the series you expect Xiao Xun to be the endgame threat. The *ultimate* antagonist is actually **Xie Yanfang** (**谢燕芳**, Xie Yan Lai's scheming half-brother). Once the young emperor consolidates power, his first move is to destroy Xie Yanfang's clan — and Xie Yanfang, cornered, **self-immolates in despair.**
 
-**Xiao Xun's downfall.** Xiao Xun briefly seizes the throne again but can't hold it, and — repeating his own worst pattern — **murders his own father** before he falls, ending isolated and abandoned even by the family he betrayed. His arc is the drama's thesis about power: it consumes whoever chases it above all else. (Whether Chu Zhao personally deals the killing blow is claimed by one headline but not clearly confirmed on-screen, so read it as "she engineers his ruin and gets her reckoning" rather than a literal duel.)
+**Xiao Xun's downfall.** Xiao Xun briefly seizes the throne again but can't hold it, and — repeating his own worst pattern — **manipulates his own father into a doomed rebellion, treating his life as expendable** before he falls, ending isolated and abandoned even by the family he betrayed (his defining crime being regicide and usurpation). His arc is the drama's thesis about power: it consumes whoever chases it above all else. (Whether Chu Zhao personally deals the killing blow is claimed by one headline but not clearly confirmed on-screen, so read it as "she engineers his ruin and gets her reckoning" rather than a literal duel.)
 
 **The throne** stabilizes under the child emperor with Chu Zhao's backing, and the court turns away from the corruption that defined her first life.
 
