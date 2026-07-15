@@ -167,7 +167,8 @@ async function processOne({ file, lang, langName }) {
 
 async function main() {
   const args = process.argv.slice(2);
-  const langFilter = args.includes('--lang') ? args[args.indexOf('--lang') + 1] : null;
+  // Collect every --lang value (supports repeating the flag: --lang id --lang ja …).
+  const langFilters = args.reduce((acc, a, i) => (a === '--lang' && args[i + 1] ? [...acc, args[i + 1]] : acc), []);
   const excludeArg = args.includes('--exclude') ? args[args.indexOf('--exclude') + 1] : '';
   const excludeList = excludeArg ? excludeArg.split(',').map(s => s.trim()).filter(Boolean) : [];
   const onlyArg = args.includes('--only') ? args[args.indexOf('--only') + 1] : '';
@@ -184,7 +185,9 @@ async function main() {
     articles = articles.filter(f => !excludeList.some(e => f.includes(e)));
     console.log(`Excluded ${before - articles.length} files matching: ${excludeList.join(', ')}`);
   }
-  const languages = langFilter ? { [langFilter]: LANGUAGES[langFilter] } : LANGUAGES;
+  const languages = langFilters.length
+    ? Object.fromEntries(langFilters.map(l => [l, LANGUAGES[l]]))
+    : LANGUAGES;
 
   // Build work queue (skip already translated)
   const work = [];

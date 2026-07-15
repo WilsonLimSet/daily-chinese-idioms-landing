@@ -1,0 +1,382 @@
+{
+  "signs": {
+    "rooster": {
+      "animal": "Ayam",
+      "tagline": "Mengamati dan jujur — mata tajam yang mengatakan apa yang tidak akan dikatakan orang lain.",
+      "overview": "Ayam memperhatikan detail yang terlewat oleh orang lain — dan biasanya akan menyebutkannya. Teliti dan pekerja keras, ia sangat bangga dengan pekerjaan yang dilakukan dengan baik dan menepati janjinya hingga detik terakhir. Ayam jujur hingga batas, yang bisa dianggap blak-blakan atau sombong, tetapi standar ketelitian yang sama adalah alasan mengapa orang mempercayai mereka dengan hal-hal yang penting.",
+      "element": "Logam",
+      "yinYang": "Yin",
+      "strengths": [
+        "Mengamati",
+        "Pekerja keras",
+        "Percaya diri",
+        "Jujur",
+        "Tepat waktu"
+      ],
+      "weaknesses": [
+        "Kritis",
+        "Sombong",
+        "Blak-blakan",
+        "Perfeksionis"
+      ],
+      "luckyColors": [
+        "Emas",
+        "Coklat",
+        "Kuning"
+      ]
+    },
+    "dog": {
+      "animal": "Anjing",
+      "tagline": "Setia, jujur, dan melindungi — teman yang selalu mendukungmu.",
+      "overview": "Ketika Anjing ada di sisimu, ia akan selalu ada di sisimu. Berpikiran adil dan berprinsip, ia memiliki rasa benar dan salah yang tajam dan membela orang serta penyebab yang diyakininya tanpa ragu. Kewaspadaan itu bisa berubah menjadi kekhawatiran atau kecurigaan, dan Anjing bisa cepat dalam menilai — tetapi kesetiaan yang mendasarinya, setelah diberikan, hampir tidak bersyarat.",
+      "element": "Bumi",
+      "yinYang": "Yang",
+      "strengths": [
+        "Setia",
+        "Jujur",
+        "Adil",
+        "Melindungi",
+        "Bertanggung jawab"
+      ],
+      "weaknesses": [
+        "Cemas",
+        "Sinis",
+        "Keras kepala",
+        "Terlalu kritis"
+      ],
+      "luckyColors": [
+        "Hijau",
+        "Merah",
+        "Ungu"
+      ]
+    },
+    "pig": {
+      "animal": "Babi",
+      "tagline": "Dermawan, tulus, dan santai — hati yang hangat yang menikmati kesenangan hidup.",
+      "overview": "Babi menutup siklus sebagai tanda yang hampir disukai semua orang. Tulus dan baik hati, ia menerima orang apa adanya dan mencari yang terbaik dalam diri mereka, bekerja keras saat dibutuhkan, dan tidak pernah menolak makanan enak atau teman yang baik. Kehangatan yang penuh kepercayaan itu bisa berubah menjadi naif — Babi mudah dimanfaatkan — tetapi mereka tetap menjadi salah satu tanda yang paling disukai di antara dua belas tanda.",
+      "element": "Air",
+      "yinYang": "Yin",
+      "strengths": [
+        "Dermawan",
+        "Tulus",
+        "Santai",
+        "Rajin",
+        "Optimis"
+      ],
+      "weaknesses": [
+        "Naif",
+        "Terlalu memanjakan diri",
+        "Mudah percaya",
+        "Tidak konfrontatif"
+      ],
+      "luckyColors": [
+        "Kuning",
+        "Abu-abu",
+        "Coklat",
+        "Emas"
+      ]
+    },
+    "horse": {
+      "animal": "Kuda",
+      "tagline": "Roh bebas dan hangat — petualang yang paling bahagia di jalan terbuka.",
+      "overview": "Kuda membutuhkan ruang untuk berlari. Mandiri dan sedikit gelisah, ia terjun ke tempat, orang, dan rencana baru dengan energi yang menular — dan kehilangan minat begitu segalanya terasa membosankan. Kuda hangat dan cepat dengan lelucon, sehingga mereka dengan mudah memenangkan orang, tetapi keinginan untuk kebebasan yang sama membuat mereka sulit untuk ditangkap dan cepat bergerak pergi setelah merasa terjebak.",
+      "element": "Api",
+      "yinYang": "Yang",
+      "strengths": [
+        "Enerjik",
+        "Mandiri",
+        "Hangat",
+        "Petualang",
+        "Persuasif"
+      ],
+      "weaknesses": [
+        "Gelisa",
+        "Tidak sabar",
+        "Tidak konsisten",
+        "Blak-blakan"
+      ],
+      "luckyColors": [
+        "Kuning",
+        "Hijau"
+      ]
+    },
+    "goat": {
+      "animal": "Kambing",
+      "tagline": "Artistik dan lembut hati — jiwa lembut dengan dunia batin yang kaya. (Juga disebut Domba atau Ram.)",
+      "overview": "Kambing (juga diterjemahkan sebagai Domba atau Ram) cenderung merasakan sesuatu sedikit lebih dalam daripada orang-orang di sekitarnya. Kreatif dan lembut hati, ia hidup dalam dunia batin yang cerah dan memberi dengan bebas kepada orang-orang yang dicintainya, menginginkan keindahan, ketenangan, dan rasa aman. Di mana Kelinci meredakan konflik melalui taktik, Kambing hanya menghindarinya — dan di bawah tekanan nyata, ia khawatir dan bergantung pada orang lain daripada melawan.",
+      "element": "Bumi",
+      "yinYang": "Yin",
+      "strengths": [
+        "Artistik",
+        "Empatik",
+        "Lembut",
+        "Tenang",
+        "Dermawan"
+      ],
+      "weaknesses": [
+        "Ragu-ragu",
+        "Cemas",
+        "Pesimis",
+        "Bergantung"
+      ],
+      "luckyColors": [
+        "Hijau",
+        "Merah",
+        "Ungu"
+      ]
+    },
+    "monkey": {
+      "animal": "Monyet",
+      "tagline": "Cerdas dan inventif — akal cepat yang memecahkan apa yang membuat orang lain bingung.",
+      "overview": "Berikan Monyet sebuah masalah dan ia akan menemukan tiga cara untuk mengatasinya. Inventif dan selalu ingin tahu, Monyet belajar dengan cepat, berimprovisasi dengan brilian, dan dapat berbicara untuk keluar dari hampir semua situasi — kenakalan yang sama yang diberikan legenda kepada Sun Wukong. Ketidaktenangan itu kadang-kadang meluncur ke dalam tipu daya atau kebosanan, tetapi sedikit tanda yang lebih menyenangkan untuk ada di sekitar atau lebih cepat mengubah situasi menjadi keuntungan mereka.",
+      "element": "Logam",
+      "yinYang": "Yang",
+      "strengths": [
+        "Cerdas",
+        "Ingin tahu",
+        "Serbaguna",
+        "Cerdik",
+        "Sosial"
+      ],
+      "weaknesses": [
+        "Gelisa",
+        "Nakal",
+        "Opportunistik",
+        "Tidak sabar"
+      ],
+      "luckyColors": [
+        "Putih",
+        "Emas",
+        "Biru"
+      ]
+    },
+    "rabbit": {
+      "animal": "Kelinci",
+      "tagline": "Taktis dan peka — diplomat yang mendapatkan apa yang mereka inginkan tanpa pertarungan.",
+      "overview": "Kelinci adalah negosiator yang membuat semua orang di ruangan merasa didengar. Sosial yang cekatan dan cepat membaca orang, ia meredakan ketegangan sebelum meningkat dan mengarahkan menuju kompromi daripada konfrontasi. Kelinci menyukai kenyamanan, selera yang baik, dan persahabatan yang panjang. Terpojok dalam argumen terbuka, meskipun, Kelinci lebih cenderung menarik diri daripada melawan.",
+      "element": "Kayu",
+      "yinYang": "Yin",
+      "strengths": [
+        "Taktis",
+        "Diplomatis",
+        "Peka",
+        "Anggun",
+        "Bijaksana"
+      ],
+      "weaknesses": [
+        "Menghindari konflik",
+        "Pemalu",
+        "Terlalu sensitif",
+        "Dingin"
+      ],
+      "luckyColors": [
+        "Merah",
+        "Rosa",
+        "Ungu",
+        "Biru"
+      ]
+    },
+    "dragon": {
+      "animal": "Naga",
+      "tagline": "Karismatik, ambisius, dan beruntung — satu-satunya tanda mitos, lahir untuk menonjol.",
+      "overview": "Tidak ada tanda yang membawa prestise seperti Naga — satu-satunya hewan mitos dari dua belas, dan lambang lama dari kaisar itu sendiri. Naga karismatik dan bersemangat, menarik orang dan mempertahankan semua orang (diri mereka sendiri terlebih dahulu) pada standar tinggi. Intensitas itu datang dengan kemarahan yang cepat terhadap ketidakmampuan dan enggan mengakui kesalahan, tetapi sedikit tanda yang lebih energik untuk berada di sekitar atau lebih dermawan setelah mereka berada di pihak Anda.",
+      "element": "Bumi",
+      "yinYang": "Yang",
+      "strengths": [
+        "Karismatik",
+        "Ambisius",
+        "Percaya diri",
+        "Enerjik",
+        "Dermawan"
+      ],
+      "weaknesses": [
+        "Sombong",
+        "Tidak sabar",
+        "Dominan",
+        "Enggan berkompromi"
+      ],
+      "luckyColors": [
+        "Emas",
+        "Perak",
+        "Abu-abu"
+      ]
+    },
+    "snake": {
+      "animal": "Ular",
+      "tagline": "Bijaksana dan misterius — pikiran tenang yang selalu tiga langkah di depan.",
+      "overview": "Ular sedikit berbicara dan memperhatikan segalanya. Di balik permukaan yang tenang dan pribadi terdapat pikiran tajam dan perhitungan yang berpikir beberapa langkah ke depan dan jarang tertipu. Ular menghargai keanggunan, bertindak berdasarkan penilaian daripada impuls, dan hanya membuka diri kepada beberapa orang terpilih. Ketahanan itu bisa terdaftar sebagai rahasia atau posesif — tetapi sebagai ahli strategi dan teman curhat, mereka sulit dikalahkan.",
+      "element": "Api",
+      "yinYang": "Yin",
+      "strengths": [
+        "Bijaksana",
+        "Intuitif",
+        "Anggun",
+        "Tenang",
+        "Teguh"
+      ],
+      "weaknesses": [
+        "Rahasia",
+        "Curiga",
+        "Posesif",
+        "Dingin"
+      ],
+      "luckyColors": [
+        "Merah",
+        "Kuning",
+        "Hitam"
+      ]
+    },
+    "rat": {
+      "animal": "Tikusan",
+      "tagline": "Cerdas dan penuh akal — penyintas pintar yang menang dengan kecerdikan, bukan kekuatan.",
+      "overview": "Tikusan memenangkan Perlombaan Besar Kaisar Giok dengan menunggangi punggung Sapi dan melompat di garis finish — licik di atas kekuatan kasar, yang merupakan sifat Tikusan. Tikusan membaca suasana dengan cepat, menemukan celah sebelum orang lain, dan menghargai keamanan: mereka membangun tabungan dan aliansi dengan tenang daripada mengejar sorotan. Pertukaran ini adalah kecenderungan untuk berpikir berlebihan dan menimbun, baik secara finansial maupun emosional.",
+      "element": "Air",
+      "yinYang": "Yang",
+      "strengths": [
+        "Cerdas",
+        "Fleksibel",
+        "Menawan",
+        "Hemat",
+        "Waspada"
+      ],
+      "weaknesses": [
+        "Opportunis",
+        "Cemas",
+        "Keras kepala",
+        "Terlalu berhati-hati dengan uang"
+      ],
+      "luckyColors": [
+        "Biru",
+        "Emas",
+        "Hijau"
+      ]
+    },
+    "ox": {
+      "animal": "Sapi",
+      "tagline": "Rajin dan dapat diandalkan — yang menyelesaikan apa yang hanya dimulai orang lain.",
+      "overview": "Minta Sapi melakukan sesuatu dan itu akan selesai — tanpa jalan pintas, tanpa drama, tanpa alasan. Keandalan adalah seluruh reputasi Sapi, diperoleh melalui kerja keras daripada kata-kata, itulah sebabnya orang mengandalkannya dalam krisis. Sisi lain dari keteguhan itu adalah keras kepala yang legendaris: Sapi jarang membalikkan keputusan setelah dibuat, tidak suka terburu-buru, dan lambat untuk memaafkan.",
+      "element": "Bumi",
+      "yinYang": "Yin",
+      "strengths": [
+        "Rajin",
+        "Dapat diandalkan",
+        "Sabar",
+        "Jujur",
+        "Teguh"
+      ],
+      "weaknesses": [
+        "Keras kepala",
+        "Kaku",
+        "Pendiam",
+        "Lambat untuk memaafkan"
+      ],
+      "luckyColors": [
+        "Putih",
+        "Kuning",
+        "Hijau"
+      ]
+    },
+    "tiger": {
+      "animal": "Harimau",
+      "tagline": "Berani dan magnetis — yang maju sementara orang lain masih memutuskan.",
+      "overview": "Harimau cenderung memasuki ruangan seolah-olah mereka memilikinya. Berani dan cepat menantang otoritas, Harimau lebih suka bertindak dan menyesuaikan diri daripada menunggu izin, dan kepercayaan diri itu menarik orang lain bersamanya — kadang-kadang ke dalam pertarungan yang tidak perlu mereka pilih. Di balik sikap percaya diri itu terdapat kehangatan yang tulus: Harimau murah hati dan sangat melindungi orang-orang yang mereka anggap milik mereka.",
+      "element": "Kayu",
+      "yinYang": "Yang",
+      "strengths": [
+        "Berani",
+        "Percaya diri",
+        "Karismatik",
+        "Murah hati",
+        "Ambisius"
+      ],
+      "weaknesses": [
+        "Impulsif",
+        "Pemberontak",
+        "Pemarah",
+        "Terlalu percaya diri"
+      ],
+      "luckyColors": [
+        "Biru",
+        "Abu-abu",
+        "Jingga"
+      ]
+    }
+  },
+  "ui": {
+    "culturalGuide": "Panduan Budaya",
+    "chineseZodiac": "Zodiak Cina",
+    "theChineseZodiac": "Zodiak Cina",
+    "heroBlurb": "Dua belas hewan, kepribadian mereka, tahun yang mengatur, dan kompatibilitas — dijelaskan.",
+    "yearOfThe": "Tahun {animal}",
+    "whatIsMySign": "Apa tanda saya?",
+    "compatibility": "Kompatibilitas",
+    "theTwelveSigns": "Dua belas tanda",
+    "readMore": "Baca lebih lanjut",
+    "keepExploring": "Terus menjelajah",
+    "allZodiacSigns": "Semua tanda zodiak",
+    "signXof12": "Tanda {n} dari 12",
+    "theAnimal": "Si {animal}",
+    "fixedElement": "Elemen tetap",
+    "polarity": "Polaritas",
+    "recentYears": "Tahun-tahun terbaru",
+    "personality": "Kepribadian",
+    "strengths": "Kekuatan",
+    "watchOuts": "Perhatian",
+    "luckyNumbers": "Angka keberuntungan",
+    "luckyColors": "Warna keberuntungan",
+    "luckyCaveat": "Angka dan warna keberuntungan mengikuti tradisi almanak Cina yang populer dan bervariasi menurut sumber — anggap ini sebagai cerita rakyat, bukan fakta.",
+    "bestMatches": "Kecocokan terbaik",
+    "mostChallenging": "Paling menantang",
+    "clashNote": "The {clash} duduk berlawanan dengan {animal} di roda zodiak — “enam bentrokan” klasik (六冲). Pasangan yang membutuhkan kesabaran ekstra.",
+    "fullCompatibilityChart": "Grafik kompatibilitas lengkap",
+    "otherZodiacSigns": "Tanda zodiak lainnya",
+    "compatibilityChart": "Grafik Kompatibilitas",
+    "compatHero": "Bagaimana semua dua belas hewan cocok — baca baris untuk tanda Anda, lalu kolom untuk tanda mereka. Berdasarkan trine tradisional (三合) dan bentrokan (六冲).",
+    "legendBest": "Kecocokan terbaik",
+    "legendGood": "Baik",
+    "legendNeutral": "Netral",
+    "legendClash": "Bentrokan",
+    "sign": "Tanda",
+    "clickTip": "Tip: klik hewan mana pun untuk membaca profil kepribadian dan kompatibilitasnya secara lengkap.",
+    "howItWorks": "Cara kerjanya",
+    "fourTrines": "Empat trine (三合)",
+    "sixClashes": "Enam bentrokan (六冲)",
+    "trinesBody": "Tanda yang berjarak empat posisi membentuk segitiga harmonis. Empat trine adalah Tikus–Naga–Monyet, Sapi–Ular–Ayam, Harimau–Kuda–Anjing, dan Kelinci–Kambing–Babi. Anggota dari trine yang sama berbagi nilai dan naluri, menjadikannya pasangan jangka panjang yang paling alami.",
+    "clashesBody": "Setiap tanda duduk berlawanan satu sama lain, enam posisi terpisah — Tikus–Kuda, Sapi–Kambing, Harimau–Monyet, Kelinci–Ayam, Naga–Anjing, dan Ular–Babi. Pasangan ini menarik ke arah yang berlawanan dan membutuhkan banyak kompromi, meskipun banyak pasangan yang bertabrakan dapat berkembang dengan kesadaran dan usaha.",
+    "compatDisclaimer": "Kompatibilitas adalah tradisi dan lensa untuk refleksi, bukan putusan. Hubungan nyata tergantung pada orang-orang di dalamnya — anggap ini sebagai titik awal yang menyenangkan untuk saling memahami.",
+    "notSureSign": "Tidak yakin dengan tanda Anda? Temukan di sini",
+    "whatIsMySignTitle": "Apa Tanda Zodiak Cina Saya?",
+    "toolBlurb": "Masukkan tahun kelahiran Anda untuk menemukan hewan Anda — kepribadiannya, angka keberuntungan, dan siapa yang paling cocok.",
+    "yourBirthYear": "Tahun kelahiran Anda",
+    "birthMonthOptional": "Bulan kelahiran (opsional)",
+    "monthHint": "Tahun zodiak Cina dimulai pada Tahun Baru Cina (akhir Januari–pertengahan Februari), jadi bulan kelahiran Anda penting dekat batas.",
+    "bornInYearOf": "Anda lahir di Tahun {animal}",
+    "boundaryWarn": "Lahir di {month}? Tahun Baru Cina {year} jatuh pada akhir Januari atau Februari, jadi jika Anda lahir sebelum itu, tanda Anda sebenarnya adalah {prev}. Periksa tanggal Tahun Baru Cina {year} yang tepat untuk memastikan.",
+    "readFullProfile": "Baca profil lengkap {animal}",
+    "enterValidYear": "Masukkan tahun 4 digit antara 1900 dan {max}.",
+    "browseAll12": "Jelajahi semua 12 tanda",
+    "seeCompatChart": "Lihat grafik kompatibilitas lengkap",
+    "dramas": "Drama",
+    "dramasDesc": "Drama C & idiom",
+    "games": "Permainan",
+    "gamesDesc": "Mitos dalam permainan",
+    "idioms": "Idiom",
+    "idiomsDesc": "1.001 chengyu",
+    "blog": "Blog",
+    "privacyPolicy": "Kebijakan Privasi",
+    "months": [
+      "Januari",
+      "Februari",
+      "Maret",
+      "April",
+      "Mei",
+      "Juni",
+      "Juli",
+      "Agustus",
+      "September",
+      "Oktober",
+      "November",
+      "Desember"
+    ]
+  }
+}

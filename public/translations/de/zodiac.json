@@ -1,0 +1,382 @@
+{
+  "signs": {
+    "rat": {
+      "animal": "Rat",
+      "tagline": "Schnellwütig und einfallsreich – der clevere Überlebende, der durch Überlistung gewinnt, nicht durch Übermacht.",
+      "overview": "Die Ratte gewann das große Rennen des Jadekaisers, indem sie auf dem Rücken des Ochsen ritt und am Ziel sprang – List über rohe Stärke, das ist die Ratte in aller Munde. Ratten lesen einen Raum schnell, erkennen eine Gelegenheit, bevor es jemand anderes tut, und schätzen Sicherheit: Sie bauen stillschweigend Ersparnisse und Allianzen auf, anstatt nach dem Rampenlicht zu streben. Der Nachteil ist eine Neigung zum Überdenken und zum Horten, finanziell und emotional.",
+      "element": "Wasser",
+      "yinYang": "Yang",
+      "strengths": [
+        "Intelligent",
+        "Anpassungsfähig",
+        "Charmant",
+        "Sparsam",
+        "Aufmerksam"
+      ],
+      "weaknesses": [
+        "Opportunistisch",
+        "Ängstlich",
+        "Stur",
+        "Übermäßig vorsichtig mit Geld"
+      ],
+      "luckyColors": [
+        "Blau",
+        "Gold",
+        "Grün"
+      ]
+    },
+    "ox": {
+      "animal": "Ochse",
+      "tagline": "Fleißig und zuverlässig – derjenige, der vollendet, was alle anderen nur anfangen.",
+      "overview": "Frag einen Ochsen, etwas zu tun, und es wird erledigt – keine Abkürzungen, kein Drama, keine Ausreden. Zuverlässigkeit ist der ganze Ruf des Ochsen, verdient durch Arbeit statt Worte, weshalb sich die Menschen in einer Krise auf ihn verlassen. Die Kehrseite dieser Entschlossenheit ist eine legendäre Sturheit: Ein Ochse ändert selten eine Entscheidung, sobald sie getroffen ist, mag es nicht, gedrängt zu werden, und vergibt langsam.",
+      "element": "Erde",
+      "yinYang": "Yin",
+      "strengths": [
+        "Fleißig",
+        "Zuverlässig",
+        "Geduldig",
+        "Ehrlich",
+        "Entschlossen"
+      ],
+      "weaknesses": [
+        "Stur",
+        "Unflexibel",
+        "Zurückhaltend",
+        "Langsam im Vergeben"
+      ],
+      "luckyColors": [
+        "Weiß",
+        "Gelb",
+        "Grün"
+      ]
+    },
+    "tiger": {
+      "animal": "Tiger",
+      "tagline": "Mutig und magnetisch – derjenige, der eintritt, während alle anderen noch entscheiden.",
+      "overview": "Tiger neigen dazu, einen Raum zu betreten, als gehörte er ihnen. Kühn und schnell darin, Autorität herauszufordern, handelt ein Tiger lieber und passt sich an, als auf Erlaubnis zu warten, und dieses Selbstbewusstsein zieht die Menschen mit sich – manchmal in Kämpfe, die er nicht hätte wählen müssen. Unter dem Selbstbewusstsein liegt echte Wärme: Tiger sind großzügig und beschützen leidenschaftlich die Menschen, die sie als ihre eigenen beanspruchen.",
+      "element": "Holz",
+      "yinYang": "Yang",
+      "strengths": [
+        "Mutig",
+        "Selbstbewusst",
+        "Charismatisch",
+        "Großzügig",
+        "Ambitioniert"
+      ],
+      "weaknesses": [
+        "Impulsiv",
+        "Rebellisch",
+        "Jähzornig",
+        "Überheblich"
+      ],
+      "luckyColors": [
+        "Blau",
+        "Grau",
+        "Orange"
+      ]
+    },
+    "rooster": {
+      "animal": "Hahn",
+      "tagline": "Aufmerksam und offenherzig — das scharfe Auge, das sagt, was andere nicht sagen.",
+      "overview": "Ein Hahn bemerkt das Detail, das alle anderen übersehen haben — und wird es normalerweise erwähnen. Sorgfältig und fleißig, ist er stolz auf eine gut gemachte Arbeit und hält sein Wort bis zur Minute. Hähne sind fehlerlos ehrlich, was als direkt oder eitel empfunden werden kann, aber genau dieser hohe Standard ist der Grund, warum die Menschen ihnen in wichtigen Angelegenheiten vertrauen.",
+      "element": "Metall",
+      "yinYang": "Yin",
+      "strengths": [
+        "Aufmerksam",
+        "Fleißig",
+        "Selbstbewusst",
+        "Ehrlich",
+        "Pünktlich"
+      ],
+      "weaknesses": [
+        "Kritisch",
+        "Eitel",
+        "Direkt",
+        "Perfektionist"
+      ],
+      "luckyColors": [
+        "Gold",
+        "Braun",
+        "Gelb"
+      ]
+    },
+    "dog": {
+      "animal": "Hund",
+      "tagline": "Loyal, ehrlich und beschützend — der Freund, der immer hinter dir steht.",
+      "overview": "Wenn ein Hund auf deiner Seite ist, ist er für immer auf deiner Seite. Fair und prinzipientreu hat er ein feines Gespür für richtig und falsch und verteidigt die Menschen und Anliegen, an die er glaubt, ohne zu zögern. Diese Wachsamkeit kann sich in Sorgen oder Verdacht verwandeln, und Hunde können schnell urteilen — aber die Loyalität, die einmal gegeben wird, ist nahezu bedingungslos.",
+      "element": "Erde",
+      "yinYang": "Yang",
+      "strengths": [
+        "Loyal",
+        "Ehrlich",
+        "Gerecht",
+        "Schützend",
+        "Verantwortungsbewusst"
+      ],
+      "weaknesses": [
+        "Ängstlich",
+        "Zynisch",
+        "Stur",
+        "Überkritisch"
+      ],
+      "luckyColors": [
+        "Grün",
+        "Rot",
+        "Lila"
+      ]
+    },
+    "pig": {
+      "animal": "Schwein",
+      "tagline": "Großzügig, aufrichtig und gelassen — das warme Herz, das die Freuden des Lebens genießt.",
+      "overview": "Das Schwein schließt den Zyklus als das Zeichen, das fast jeder mag. Aufrichtig und gutmütig nimmt es die Menschen so, wie sie sind, und sucht das Beste in ihnen, arbeitet hart, wenn es darauf ankommt, und schlägt niemals gutes Essen oder gute Gesellschaft aus. Diese vertrauensvolle Wärme kann in Naivität umschlagen — Schweine sind leicht auszunutzen — aber sie bleiben unter den zwölf Zeichen die am meisten wirklich beliebten.",
+      "element": "Wasser",
+      "yinYang": "Yin",
+      "strengths": [
+        "Großzügig",
+        "Aufrichtig",
+        "Gelassen",
+        "Fleißig",
+        "Optimistisch"
+      ],
+      "weaknesses": [
+        "Naiv",
+        "Nachgiebig",
+        "Leichtgläubig",
+        "Konfliktscheu"
+      ],
+      "luckyColors": [
+        "Gelb",
+        "Grau",
+        "Braun",
+        "Gold"
+      ]
+    },
+    "rabbit": {
+      "animal": "Kaninchen",
+      "tagline": "Taktvoll und wahrnehmend — der Diplomat, der bekommt, was er will, ohne zu kämpfen.",
+      "overview": "Das Kaninchen ist der Verhandler, der alle im Raum gehört fühlen lässt. Sozial geschickt und schnell darin, Menschen zu lesen, entschärft es Spannungen, bevor sie entstehen, und steuert auf Kompromisse statt auf Konfrontation zu. Kaninchen lieben Komfort, guten Geschmack und langanhaltende Freundschaften. In eine offene Auseinandersetzung gedrängt, zieht sich ein Kaninchen jedoch eher zurück, als dass es zurückschlägt.",
+      "element": "Holz",
+      "yinYang": "Yin",
+      "strengths": [
+        "Taktvoll",
+        "Diplomatisch",
+        "Wahrnehmend",
+        "Elegant",
+        "Vorsichtig"
+      ],
+      "weaknesses": [
+        "Konfliktvermeidend",
+        "Scheu",
+        "Überempfindlich",
+        "Distanziert"
+      ],
+      "luckyColors": [
+        "Rot",
+        "Rosa",
+        "Lila",
+        "Blau"
+      ]
+    },
+    "dragon": {
+      "animal": "Drache",
+      "tagline": "Charismatisch, ehrgeizig und glücklich — das einzige mythische Zeichen, geboren um herauszustechen.",
+      "overview": "Kein Zeichen trägt das Prestige des Drachen — das einzige mythische Tier der zwölf und das alte Emblem des Kaisers selbst. Drachen sind charismatisch und zielstrebig, ziehen Menschen an und halten alle (sich selbst zuerst) an hohe Standards. Diese Intensität kommt mit einem kurzen Zündschnur für Inkompetenz und einer Abneigung, Fehler einzugestehen, aber wenige Zeichen sind energetisierender oder großzügiger, sobald sie auf deiner Seite sind.",
+      "element": "Erde",
+      "yinYang": "Yang",
+      "strengths": [
+        "Charismatisch",
+        "Ehrgeizig",
+        "Selbstbewusst",
+        "Energisch",
+        "Großzügig"
+      ],
+      "weaknesses": [
+        "Arrogant",
+        "Ungeduldig",
+        "Dominant",
+        "Nicht kompromissbereit"
+      ],
+      "luckyColors": [
+        "Gold",
+        "Silber",
+        "Grau"
+      ]
+    },
+    "snake": {
+      "animal": "Schlange",
+      "tagline": "Weise und rätselhaft — der ruhige Geist, der immer drei Züge voraus ist.",
+      "overview": "Schlangen sagen wenig und bemerken alles. Hinter der ruhigen, privaten Oberfläche verbirgt sich ein scharfer, kalkulierender Verstand, der mehrere Züge im Voraus denkt und selten hereingelegt wird. Schlangen schätzen Eleganz, handeln nach Urteil statt Impuls und öffnen sich nur wenigen Auserwählten. Diese Zurückhaltung kann als geheimnisvoll oder besitzergreifend wahrgenommen werden — aber als Strategen und Vertraute sind sie schwer zu schlagen.",
+      "element": "Feuer",
+      "yinYang": "Yin",
+      "strengths": [
+        "Weise",
+        "Intuitiv",
+        "Elegant",
+        "Gelassen",
+        "Entschlossen"
+      ],
+      "weaknesses": [
+        "Geheimnisvoll",
+        "Misstrauisch",
+        "Besitzergreifend",
+        "Distanziert"
+      ],
+      "luckyColors": [
+        "Rot",
+        "Gelb",
+        "Schwarz"
+      ]
+    },
+    "horse": {
+      "animal": "Pferd",
+      "tagline": "Freiheitsliebend und warmherzig — der Abenteurer, der auf der offenen Straße am glücklichsten ist.",
+      "overview": "Das Pferd braucht Platz zum Laufen. Unabhängig und ein wenig unruhig, stürzt es sich mit ansteckender Energie in neue Orte, Menschen und Pläne — und verliert das Interesse, sobald die Dinge eintönig werden. Pferde sind warm und schnell mit einem Witz, sodass sie die Menschen leicht für sich gewinnen, aber das gleiche Verlangen nach Freiheit macht es schwer, sie festzuhalten, und sie sind schnell bereit, weiterzuziehen, sobald sie sich eingeengt fühlen.",
+      "element": "Feuer",
+      "yinYang": "Yang",
+      "strengths": [
+        "Energisch",
+        "Unabhängig",
+        "Warm",
+        "Abenteuerlustig",
+        "Überzeugend"
+      ],
+      "weaknesses": [
+        "Unruhig",
+        "Ungeduldig",
+        "Inkonsistent",
+        "Direkt"
+      ],
+      "luckyColors": [
+        "Gelb",
+        "Grün"
+      ]
+    },
+    "goat": {
+      "animal": "Ziege",
+      "tagline": "Künstlerisch und zartfühlend — die sanfte Seele mit einer reichen inneren Welt. (Auch Schaf oder Widder genannt.)",
+      "overview": "Die Ziege (auch als Schaf oder Widder übersetzt) neigt dazu, Dinge etwas tiefer zu empfinden als alle um sie herum. Kreativ und sanftmütig lebt sie in einer lebhaften inneren Welt und gibt großzügig an die Menschen, die sie liebt, und sehnt sich nach Schönheit, Ruhe und einem Gefühl von Sicherheit. Wo ein Hase Konflikte durch Taktgefühl glättet, vermeidet die Ziege sie einfach — und unter echtem Druck macht sie sich Sorgen und lehnt sich eher auf andere, als zurückzudrängen.",
+      "element": "Erde",
+      "yinYang": "Yin",
+      "strengths": [
+        "Künstlerisch",
+        "Einfühlsam",
+        "Sanft",
+        "Ruhig",
+        "Großzügig"
+      ],
+      "weaknesses": [
+        "Unentschlossen",
+        "Ängstlich",
+        "Pessimistisch",
+        "Abhängig"
+      ],
+      "luckyColors": [
+        "Grün",
+        "Rot",
+        "Lila"
+      ]
+    },
+    "monkey": {
+      "animal": "Affe",
+      "tagline": "Clever und erfinderisch — der scharfsinnige Geist, der löst, was andere ratlos macht.",
+      "overview": "Gib einem Affen ein Problem und er findet drei Wege, es zu umgehen. Einfallsreich und unermüdlich neugierig lernt der Affe schnell, improvisiert brillant und kann sich aus fast allem herausreden — den gleichen Schabernack, den die Legenden Sun Wukong zuschreiben. Diese Unruhe gleitet manchmal in List oder Langeweile ab, aber wenige Zeichen sind unterhaltsamer oder schneller darin, eine Situation zu ihrem Vorteil zu wenden.",
+      "element": "Metall",
+      "yinYang": "Yang",
+      "strengths": [
+        "Clever",
+        "Neugierig",
+        "Vielseitig",
+        "Witzig",
+        "Gesellig"
+      ],
+      "weaknesses": [
+        "Unruhig",
+        "Schelmisch",
+        "Gelegenheitsdenker",
+        "Ungeduldig"
+      ],
+      "luckyColors": [
+        "Weiß",
+        "Gold",
+        "Blau"
+      ]
+    }
+  },
+  "ui": {
+    "culturalGuide": "Kultureller Leitfaden",
+    "chineseZodiac": "Chinesisches Tierkreiszeichen",
+    "theChineseZodiac": "Das Chinesische Tierkreiszeichen",
+    "heroBlurb": "Die zwölf Tiere, ihre Persönlichkeiten, herrschenden Jahre und Kompatibilität — erklärt.",
+    "yearOfThe": "Jahr des {animal}",
+    "whatIsMySign": "Was ist mein Zeichen?",
+    "compatibility": "Kompatibilität",
+    "theTwelveSigns": "Die zwölf Zeichen",
+    "readMore": "Mehr lesen",
+    "keepExploring": "Weiter erkunden",
+    "allZodiacSigns": "Alle Tierkreiszeichen",
+    "signXof12": "Zeichen {n} von 12",
+    "theAnimal": "Der {animal}",
+    "fixedElement": "Festes Element",
+    "polarity": "Polarität",
+    "recentYears": "Aktuelle Jahre",
+    "personality": "Persönlichkeit",
+    "strengths": "Stärken",
+    "watchOuts": "Achten Sie auf",
+    "luckyNumbers": "Glückszahlen",
+    "luckyColors": "Glücksfarben",
+    "luckyCaveat": "Glückszahlen und -farben folgen der populären chinesischen Almanach-Tradition und variieren je nach Quelle — betrachten Sie sie als Folklore, nicht als Fakt.",
+    "bestMatches": "Beste Übereinstimmungen",
+    "mostChallenging": "Die herausforderndsten",
+    "clashNote": "Der {clash} sitzt gegenüber dem {animal} im Tierkreis — der klassische „sechs Konflikt“ (六冲). Eine Kombination, die zusätzliche Geduld erfordert.",
+    "fullCompatibilityChart": "Vollständige Kompatibilitätstabelle",
+    "otherZodiacSigns": "Andere Tierkreiszeichen",
+    "compatibilityChart": "Kompatibilitätstabelle",
+    "compatHero": "Wie alle zwölf Tiere übereinstimmen — lesen Sie die Zeile für Ihr Zeichen und dann die Spalte für ihres. Basierend auf den traditionellen Trinen (三合) und Konflikten (六冲).",
+    "legendBest": "Beste Übereinstimmung",
+    "legendGood": "Gut",
+    "legendNeutral": "Neutral",
+    "legendClash": "Konflikt",
+    "sign": "Zeichen",
+    "clickTip": "Tipp: Klicken Sie auf ein Tier, um sein vollständiges Persönlichkeits- und Kompatibilitätsprofil zu lesen.",
+    "howItWorks": "Wie es funktioniert",
+    "fourTrines": "Die vier Trinen (三合)",
+    "sixClashes": "Die sechs Konflikte (六冲)",
+    "trinesBody": "Zeichen, die vier Positionen auseinander liegen, bilden ein harmonisches Dreieck. Die vier Trinen sind Ratte–Drache–Affe, Ochse–Schlange–Hahn, Tiger–Pferd–Hund und Kaninchen–Ziege–Schwein. Mitglieder derselben Trine teilen Werte und Instinkte, was sie zu den natürlichsten langfristigen Übereinstimmungen macht.",
+    "clashesBody": "Jedes Zeichen sitzt gegenüber einem anderen, sechs Positionen entfernt — Ratte–Pferd, Ochse–Ziege, Tiger–Affe, Kaninchen–Hahn, Drache–Hund und Schlange–Schwein. Diese Kombinationen ziehen in entgegengesetzte Richtungen und erfordern die meisten Kompromisse, obwohl viele konfliktbelastete Paare mit Bewusstsein und Anstrengung gedeihen.",
+    "compatDisclaimer": "Kompatibilität ist eine Tradition und ein Blickwinkel zur Reflexion, kein Urteil. Echte Beziehungen hängen von den Menschen darin ab — betrachten Sie dies als einen unterhaltsamen Ausgangspunkt, um sich gegenseitig zu verstehen.",
+    "notSureSign": "Nicht sicher, welches Zeichen Sie haben? Finden Sie es hier",
+    "whatIsMySignTitle": "Was ist mein chinesisches Tierkreiszeichen?",
+    "toolBlurb": "Geben Sie Ihr Geburtsjahr ein, um Ihr Tier zu entdecken — seine Persönlichkeit, Glückszahlen und mit wem es am besten übereinstimmt.",
+    "yourBirthYear": "Ihr Geburtsjahr",
+    "birthMonthOptional": "Geburtsmonat (optional)",
+    "monthHint": "Das chinesische Tierkreisjahr beginnt am chinesischen Neujahr (Ende Januar–Mitte Februar), daher ist Ihr Geburtsmonat an der Grenze wichtig.",
+    "bornInYearOf": "Sie wurden im Jahr des {animal} geboren",
+    "boundaryWarn": "Geboren im {month}? Das chinesische Neujahr {year} fiel auf Ende Januar oder Februar, also wenn Sie davor geboren wurden, ist Ihr Zeichen tatsächlich das {prev}. Überprüfen Sie das genaue Datum des chinesischen Neujahrs {year}, um sicher zu sein.",
+    "readFullProfile": "Lesen Sie das vollständige {animal} Profil",
+    "enterValidYear": "Geben Sie ein 4-stelliges Jahr zwischen 1900 und {max} ein.",
+    "browseAll12": "Durchsuchen Sie alle 12 Zeichen",
+    "seeCompatChart": "Sehen Sie die vollständige Kompatibilitätstabelle",
+    "dramas": "Dramen",
+    "dramasDesc": "C-Dramen & Idiome",
+    "games": "Spiele",
+    "gamesDesc": "Mythologie in Spielen",
+    "idioms": "Idiome",
+    "idiomsDesc": "1.001 chengyu",
+    "blog": "Blog",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "months": [
+      "Januar",
+      "Februar",
+      "März",
+      "April",
+      "Mai",
+      "Juni",
+      "Juli",
+      "August",
+      "September",
+      "Oktober",
+      "November",
+      "Dezember"
+    ]
+  }
+}

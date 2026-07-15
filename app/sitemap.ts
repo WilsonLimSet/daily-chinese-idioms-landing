@@ -13,6 +13,7 @@ import { LANGUAGE_CODES, isNoindexLanguage } from '@/src/lib/constants';
 import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sbti';
 import { getAllDramaSeries } from '@/src/lib/dramas';
 import { getAllGameSeries } from '@/src/lib/games';
+import { getAllSigns } from '@/src/lib/zodiac';
 
 const THEME_SLUGS = [
   'life-philosophy',
@@ -107,6 +108,30 @@ export default async function sitemap(props: {
         lastModified: new Date(),
         changeFrequency: 'weekly' as const,
         priority: 0.85,
+      })),
+      {
+        url: `${baseUrl}/zodiac`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      },
+      {
+        url: `${baseUrl}/zodiac/compatibility`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.8,
+      },
+      {
+        url: `${baseUrl}/zodiac/what-is-my-sign`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.8,
+      },
+      ...getAllSigns().map(s => ({
+        url: `${baseUrl}/zodiac/${s.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
       })),
     ];
 
@@ -363,6 +388,14 @@ export default async function sitemap(props: {
   }
   entries.push({ url: `${baseUrl}/${lang}/sbti/slang`, lastModified: new Date() });
   entries.push({ url: `${baseUrl}/${lang}/slang/tiktok-chinese`, lastModified: new Date() });
+
+  // Language Chinese Zodiac hub + tool + compatibility + 12 sign pages
+  entries.push({ url: `${baseUrl}/${lang}/zodiac`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 });
+  entries.push({ url: `${baseUrl}/${lang}/zodiac/compatibility`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
+  entries.push({ url: `${baseUrl}/${lang}/zodiac/what-is-my-sign`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
+  for (const s of getAllSigns()) {
+    entries.push({ url: `${baseUrl}/${lang}/zodiac/${s.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
+  }
 
   // Language blog posts
   try {

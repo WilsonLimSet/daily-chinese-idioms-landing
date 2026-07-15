@@ -1262,12 +1262,12 @@ export const listicles: Listicle[] = [
   },
   {
     slug: 'chinese-idioms-about-leadership',
-    title: '10 Chinese Idioms About Leadership & Management',
-    description: 'Ancient Chinese wisdom on leadership, guiding others, and the qualities of effective leaders and managers.',
-    metaDescription: 'Master 10 Chinese idioms about leadership and management. These chengyu teach timeless wisdom for guiding others.',
-    keywords: ['chinese idioms leadership', 'management chinese phrases', 'chengyu for leaders', 'chinese boss expressions', 'mandarin management idioms'],
-    intro: 'Chinese philosophy offers profound insights on leadership that remain relevant today. These idioms capture the essence of effective leadership - from strategic thinking to inspiring others.',
-    idiomIds: ['ID077', 'ID150', 'ID165', 'ID176', 'ID189', 'ID191', 'ID204', 'ID218', 'ID228', 'ID229'],
+    title: 'Chinese Proverbs on Leadership: 10 Idioms & Sayings for Leaders',
+    description: 'Chinese proverbs, sayings, and idioms on leadership — guiding others, strategic thinking, and the qualities of effective leaders and managers.',
+    metaDescription: 'Explore Chinese proverbs on leadership: 10 idioms and sayings on leading by example, commanding respect, and guiding a team — each with its meaning and origin.',
+    keywords: ['chinese proverbs on leadership', 'chinese proverbs about leadership', 'chinese leadership sayings', 'chinese leadership quotes', 'chinese idioms leadership', 'chengyu for leaders', 'mandarin management idioms'],
+    intro: 'From Lao Tzu\'s "A leader is best when people barely know he exists" (Tao Te Ching, ch. 17) to Sun Tzu\'s art of commanding respect, Chinese thinkers spent centuries on one question: how do you lead people well? These ten proverbs and idioms (chengyu) distill that thinking into phrases you can actually use — on leading by example, winning loyalty, and knowing what to prioritize.',
+    idiomIds: ['ID077', 'ID936', 'ID165', 'ID885', 'ID189', 'ID191', 'ID204', 'ID927', 'ID883', 'ID229'],
     category: 'Success & Career',
     publishedDate: '2025-04-20'
   },

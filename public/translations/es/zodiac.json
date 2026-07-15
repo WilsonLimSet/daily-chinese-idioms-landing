@@ -1,0 +1,382 @@
+{
+  "signs": {
+    "rooster": {
+      "animal": "Gallo",
+      "tagline": "Observador y sincero — el ojo agudo que dice lo que otros no dirán.",
+      "overview": "Un Gallo nota el detalle que todos los demás pasaron por alto — y generalmente lo menciona. Meticuloso y trabajador, se enorgullece de un trabajo bien hecho y cumple su palabra al minuto. Los Gallos son honestos hasta el extremo, lo que puede parecer brusco o vanidoso, pero ese mismo estándar exigente es exactamente la razón por la que la gente confía en ellos con las cosas que importan.",
+      "element": "Metal",
+      "yinYang": "Yin",
+      "strengths": [
+        "Observador",
+        "Trabajador",
+        "Confiado",
+        "Honesto",
+        "Puntual"
+      ],
+      "weaknesses": [
+        "Crítico",
+        "Vanidoso",
+        "Brusco",
+        "Perfeccionista"
+      ],
+      "luckyColors": [
+        "Oro",
+        "Marrón",
+        "Amarillo"
+      ]
+    },
+    "dog": {
+      "animal": "Perro",
+      "tagline": "Leal, honesto y protector — el amigo que siempre está a tu lado.",
+      "overview": "Cuando un Perro está de tu lado, está de tu lado para siempre. Justo y principiado, tiene un agudo sentido del bien y del mal y defiende a las personas y causas en las que cree sin dudar. Esa vigilancia puede convertirse en preocupación o sospecha, y los Perros pueden ser rápidos para juzgar — pero la lealtad que hay debajo, una vez dada, es casi incondicional.",
+      "element": "Tierra",
+      "yinYang": "Yang",
+      "strengths": [
+        "Leal",
+        "Honesto",
+        "Justo",
+        "Protector",
+        "Responsable"
+      ],
+      "weaknesses": [
+        "Ansioso",
+        "Cínico",
+        "Terco",
+        "Sobrecrítico"
+      ],
+      "luckyColors": [
+        "Verde",
+        "Rojo",
+        "Púrpura"
+      ]
+    },
+    "pig": {
+      "animal": "Cerdo",
+      "tagline": "Generoso, sincero y relajado — el corazón cálido que disfruta de los placeres de la vida.",
+      "overview": "El Cerdo cierra el ciclo como el signo que casi todos quieren. Sincero y de buen carácter, toma a las personas tal como son y busca lo mejor en ellas, trabaja duro cuando es necesario y nunca rechaza buena comida o buena compañía. Esa calidez confiada puede convertirse en ingenuidad — los Cerdos son fáciles de aprovechar — pero siguen siendo uno de los signos más genuinamente queridos de los doce.",
+      "element": "Agua",
+      "yinYang": "Yin",
+      "strengths": [
+        "Generoso",
+        "Sincero",
+        "Relajado",
+        "Diligente",
+        "Optimista"
+      ],
+      "weaknesses": [
+        "Ingenuo",
+        "Indulgente",
+        "Credulón",
+        "No confrontacional"
+      ],
+      "luckyColors": [
+        "Amarillo",
+        "Gris",
+        "Marrón",
+        "Oro"
+      ]
+    },
+    "horse": {
+      "animal": "Caballo",
+      "tagline": "Espíritu libre y cálido — el aventurero que es más feliz en la carretera abierta.",
+      "overview": "El Caballo necesita espacio para correr. Independiente y un poco inquieto, se sumerge en nuevos lugares, personas y planes con energía contagiosa — y pierde interés en el momento en que las cosas se vuelven monótonas. Los caballos son cálidos y rápidos con un chiste, por lo que conquistan a las personas fácilmente, pero el mismo anhelo de libertad los hace difíciles de atrapar y rápidos para seguir adelante una vez que se sienten atrapados.",
+      "element": "Fuego",
+      "yinYang": "Yang",
+      "strengths": [
+        "Enérgico",
+        "Independiente",
+        "Cálido",
+        "Aventurero",
+        "Persuasivo"
+      ],
+      "weaknesses": [
+        "Inquieto",
+        "Impaciente",
+        "Inconsistente",
+        "Directo"
+      ],
+      "luckyColors": [
+        "Amarillo",
+        "Verde"
+      ]
+    },
+    "goat": {
+      "animal": "Cabra",
+      "tagline": "Artístico y de corazón tierno — el alma gentil con un rico mundo interior. (También llamado Oveja o Carnero.)",
+      "overview": "La Cabra (también traducida como Oveja o Carnero) tiende a sentir las cosas un poco más profundamente que todos a su alrededor. Creativa y de corazón blando, vive en un vívido mundo interior y da generosamente a las personas que ama, anhelando belleza, calma y un sentido de seguridad. Donde un Conejo suaviza el conflicto a través de la diplomacia, la Cabra simplemente lo evita — y bajo presión real se preocupa y se apoya en otros en lugar de resistir.",
+      "element": "Tierra",
+      "yinYang": "Yin",
+      "strengths": [
+        "Artístico",
+        "Empático",
+        "Gentil",
+        "Tranquilo",
+        "Generoso"
+      ],
+      "weaknesses": [
+        "Indeciso",
+        "Ansioso",
+        "Pesimista",
+        "Dependiente"
+      ],
+      "luckyColors": [
+        "Verde",
+        "Rojo",
+        "Púrpura"
+      ]
+    },
+    "monkey": {
+      "animal": "Mono",
+      "tagline": "Ingenioso e inventivo — el ingenio rápido que resuelve lo que deja perplejo a los demás.",
+      "overview": "Dale a un Mono un problema y encontrará tres maneras de solucionarlo. Inventivo y curiosamente insaciable, el Mono aprende rápido, improvisa brillantemente y puede hablar para salir de casi cualquier situación — la misma travesura que las leyendas atribuyen a Sun Wukong. Esa inquietud a veces se desliza hacia la astucia o el aburrimiento, pero pocos signos son más divertidos de tener cerca o más rápidos para convertir una situación a su favor.",
+      "element": "Metal",
+      "yinYang": "Yang",
+      "strengths": [
+        "Ingenioso",
+        "Curioso",
+        "Versátil",
+        "Ingenioso",
+        "Sociable"
+      ],
+      "weaknesses": [
+        "Inquieto",
+        "Travieso",
+        "Oportunista",
+        "Impaciente"
+      ],
+      "luckyColors": [
+        "Blanco",
+        "Oro",
+        "Azul"
+      ]
+    },
+    "rabbit": {
+      "animal": "Conejo",
+      "tagline": "Táctico y perceptivo — el diplomático que obtiene lo que quiere sin pelear.",
+      "overview": "El Conejo es el negociador que deja a todos en la sala sintiéndose escuchados. Socialmente hábil y rápido para leer a las personas, desactiva la tensión antes de que se acumule y se dirige hacia el compromiso en lugar de la confrontación. A los Conejos les encanta la comodidad, el buen gusto y las largas amistades. Sin embargo, cuando se ven acorralados en una discusión abierta, es más probable que un Conejo se retire que que contraataque.",
+      "element": "Madera",
+      "yinYang": "Yin",
+      "strengths": [
+        "Táctico",
+        "Diplomático",
+        "Perceptivo",
+        "Elegante",
+        "Prudente"
+      ],
+      "weaknesses": [
+        "Evasivo ante conflictos",
+        "Tímido",
+        "Demasiado sensible",
+        "Distante"
+      ],
+      "luckyColors": [
+        "Rojo",
+        "Rosa",
+        "Púrpura",
+        "Azul"
+      ]
+    },
+    "dragon": {
+      "animal": "Dragón",
+      "tagline": "Carismático, ambicioso y afortunado — el único signo mítico, nacido para destacar.",
+      "overview": "Ningún signo tiene el prestigio del Dragón — el único animal mítico de los doce, y el antiguo emblema del propio emperador. Los Dragones son carismáticos y motivados, atrayendo a las personas y manteniendo a todos (ellos mismos primero) a altos estándares. Esa intensidad viene con una mecha corta para la incompetencia y una reticencia a admitir errores, pero pocos signos son más energizantes para estar cerca o más generosos una vez que están de tu lado.",
+      "element": "Tierra",
+      "yinYang": "Yang",
+      "strengths": [
+        "Carismático",
+        "Ambicioso",
+        "Confiado",
+        "Enérgico",
+        "Generoso"
+      ],
+      "weaknesses": [
+        "Arrogante",
+        "Impaciente",
+        "Dominante",
+        "Reacio a comprometerse"
+      ],
+      "luckyColors": [
+        "Oro",
+        "Plata",
+        "Gris"
+      ]
+    },
+    "snake": {
+      "animal": "Serpiente",
+      "tagline": "Sabio y enigmático — la mente tranquila que siempre está tres movimientos adelante.",
+      "overview": "Las Serpientes dicen poco y notan todo. Detrás de la calma y la privacidad se encuentra una mente aguda y calculadora que piensa varios movimientos por delante y rara vez es engañada. Las Serpientes valoran la elegancia, actúan con juicio en lugar de impulso, y se abren solo a unos pocos elegidos. Esa reserva puede registrarse como secreta o posesiva — pero como estrategas y confidentes son difíciles de superar.",
+      "element": "Fuego",
+      "yinYang": "Yin",
+      "strengths": [
+        "Sabio",
+        "Intuitivo",
+        "Elegante",
+        "Sereno",
+        "Determinado"
+      ],
+      "weaknesses": [
+        "Secreto",
+        "Sospechoso",
+        "Posesivo",
+        "Distante"
+      ],
+      "luckyColors": [
+        "Rojo",
+        "Amarillo",
+        "Negro"
+      ]
+    },
+    "rat": {
+      "animal": "Rata",
+      "tagline": "Rápido de mente y ingenioso — el sobreviviente astuto que gana al ser más inteligente, no al ser más fuerte.",
+      "overview": "La Rata ganó la Gran Carrera del Emperador de Jade montando en la espalda del Buey y saltando en la línea de meta — astucia sobre fuerza bruta, que es la esencia de la Rata. Las Ratas leen una habitación rápidamente, detectan una oportunidad antes que nadie y valoran la seguridad: construyen ahorros y alianzas en silencio en lugar de perseguir el protagonismo. El intercambio es una tendencia a sobrepensar y acumular, tanto financiera como emocionalmente.",
+      "element": "Agua",
+      "yinYang": "Yang",
+      "strengths": [
+        "Inteligente",
+        "Adaptable",
+        "Encantador",
+        "Económico",
+        "Alerta"
+      ],
+      "weaknesses": [
+        "Oportunista",
+        "Ansioso",
+        "Terco",
+        "Demasiado cauteloso con el dinero"
+      ],
+      "luckyColors": [
+        "Azul",
+        "Oro",
+        "Verde"
+      ]
+    },
+    "ox": {
+      "animal": "Buey",
+      "tagline": "Diligente y confiable — el que termina lo que todos los demás solo comienzan.",
+      "overview": "Pídele a un Buey que haga algo y se hace — sin atajos, sin drama, sin excusas. La fiabilidad es toda la reputación del Buey, ganada a través del trabajo en lugar de palabras, por lo que la gente se apoya en él en una crisis. El lado opuesto de esa determinación es una terquedad legendaria: un Buey rara vez revierte una decisión una vez tomada, no le gusta ser apresurado y perdona lentamente.",
+      "element": "Tierra",
+      "yinYang": "Yin",
+      "strengths": [
+        "Diligente",
+        "Confiable",
+        "Paciente",
+        "Honesto",
+        "Decidido"
+      ],
+      "weaknesses": [
+        "Terco",
+        "Inflexible",
+        "Reservado",
+        "Lento para perdonar"
+      ],
+      "luckyColors": [
+        "Blanco",
+        "Amarillo",
+        "Verde"
+      ]
+    },
+    "tiger": {
+      "animal": "Tigre",
+      "tagline": "Valiente y magnético — el que se lanza mientras todos los demás aún están decidiendo.",
+      "overview": "Los Tigres tienden a entrar en una habitación como si la poseyeran. Audaces y rápidos para desafiar la autoridad, un Tigre prefiere actuar y ajustar que esperar permiso, y esa confianza arrastra a la gente con él — a veces hacia peleas que no necesitaba elegir. Detrás de la arrogancia hay una calidez genuina: los Tigres son generosos y ferozmente protectores de las personas que consideran suyas.",
+      "element": "Madera",
+      "yinYang": "Yang",
+      "strengths": [
+        "Valiente",
+        "Confiado",
+        "Carismático",
+        "Generoso",
+        "Ambicioso"
+      ],
+      "weaknesses": [
+        "Impulsivo",
+        "Rebelde",
+        "De mal genio",
+        "Demasiado confiado"
+      ],
+      "luckyColors": [
+        "Azul",
+        "Gris",
+        "Naranja"
+      ]
+    }
+  },
+  "ui": {
+    "culturalGuide": "Guía Cultural",
+    "chineseZodiac": "Zodiaco Chino",
+    "theChineseZodiac": "El Zodiaco Chino",
+    "heroBlurb": "Los doce animales, sus personalidades, años regentes y compatibilidad — explicados.",
+    "yearOfThe": "Año del",
+    "whatIsMySign": "¿Cuál es mi signo?",
+    "compatibility": "Compatibilidad",
+    "theTwelveSigns": "Los doce signos",
+    "readMore": "Leer más",
+    "keepExploring": "Sigue explorando",
+    "allZodiacSigns": "Todos los signos del zodiaco",
+    "signXof12": "Signo {n} de 12",
+    "theAnimal": "El {animal}",
+    "fixedElement": "Elemento fijo",
+    "polarity": "Polaridad",
+    "recentYears": "Años recientes",
+    "personality": "Personalidad",
+    "strengths": "Fortalezas",
+    "watchOuts": "Precauciones",
+    "luckyNumbers": "Números de la suerte",
+    "luckyColors": "Colores de la suerte",
+    "luckyCaveat": "Los números y colores de la suerte siguen la tradición popular del almanaque chino y varían según la fuente — trátalos como folclore, no como hechos.",
+    "bestMatches": "Mejores coincidencias",
+    "mostChallenging": "Más desafiantes",
+    "clashNote": "El {clash} se sienta opuesto al {animal} en la rueda del zodiaco — el clásico “seis choque” (六冲). Una pareja que requiere paciencia extra.",
+    "fullCompatibilityChart": "Tabla completa de compatibilidad",
+    "otherZodiacSigns": "Otros signos del zodiaco",
+    "compatibilityChart": "Tabla de Compatibilidad",
+    "compatHero": "Cómo se emparejan los doce animales — lee la fila para tu signo, luego la columna para el suyo. Basado en los trinos tradicionales (三合) y choques (六冲).",
+    "legendBest": "Mejor coincidencia",
+    "legendGood": "Buena",
+    "legendNeutral": "Neutral",
+    "legendClash": "Choque",
+    "sign": "Signo",
+    "clickTip": "Consejo: haz clic en cualquier animal para leer su perfil completo de personalidad y compatibilidad.",
+    "howItWorks": "Cómo funciona",
+    "fourTrines": "Los cuatro trinos (三合)",
+    "sixClashes": "Los seis choques (六冲)",
+    "trinesBody": "Los signos que están cuatro posiciones apartados forman un triángulo armonioso. Los cuatro trinos son Rata–Dragón–Mono, Buey–Serpiente–Gallo, Tigre–Caballo–Perro, y Conejo–Cabra–Cerdo. Los miembros del mismo trino comparten valores e instintos, haciéndolos las coincidencias más naturales a largo plazo.",
+    "clashesBody": "Cada signo se sienta opuesto a otro, a seis posiciones de distancia — Rata–Caballo, Buey–Cabra, Tigre–Mono, Conejo–Gallo, Dragón–Perro, y Serpiente–Cerdo. Estas parejas tiran en direcciones opuestas y requieren el mayor compromiso, aunque muchas parejas en conflicto prosperan con conciencia y esfuerzo.",
+    "compatDisclaimer": "La compatibilidad es una tradición y una lente para la reflexión, no un veredicto. Las relaciones reales dependen de las personas en ellas — trata esto como un punto de partida divertido para entenderse mutuamente.",
+    "notSureSign": "¿No estás seguro de tu signo? Encuéntralo aquí",
+    "whatIsMySignTitle": "¿Cuál es mi signo del zodiaco chino?",
+    "toolBlurb": "Ingresa tu año de nacimiento para descubrir tu animal — su personalidad, números de la suerte, y con quién coincide mejor.",
+    "yourBirthYear": "Tu año de nacimiento",
+    "birthMonthOptional": "Mes de nacimiento (opcional)",
+    "monthHint": "El año del zodiaco chino comienza en el Año Nuevo Chino (finales de enero–mediados de febrero), así que tu mes de nacimiento importa cerca de la frontera.",
+    "bornInYearOf": "Naciste en el Año del",
+    "boundaryWarn": "¿Nacido en {month}? El Año Nuevo Chino {year} cayó a finales de enero o febrero, así que si naciste antes, tu signo es en realidad el {prev}. Verifica la fecha exacta del Año Nuevo Chino {year} para estar seguro.",
+    "readFullProfile": "Leer el perfil completo de {animal}",
+    "enterValidYear": "Ingresa un año de 4 dígitos entre 1900 y {max}.",
+    "browseAll12": "Explora los 12 signos",
+    "seeCompatChart": "Ver la tabla completa de compatibilidad",
+    "dramas": "Dramas",
+    "dramasDesc": "Dramas C y modismos",
+    "games": "Juegos",
+    "gamesDesc": "Mitología en juegos",
+    "idioms": "Modismos",
+    "idiomsDesc": "1,001 chengyu",
+    "blog": "Blog",
+    "privacyPolicy": "Política de Privacidad",
+    "months": [
+      "Enero",
+      "Febrero",
+      "Marzo",
+      "Abril",
+      "Mayo",
+      "Junio",
+      "Julio",
+      "Agosto",
+      "Septiembre",
+      "Octubre",
+      "Noviembre",
+      "Diciembre"
+    ]
+  }
+}

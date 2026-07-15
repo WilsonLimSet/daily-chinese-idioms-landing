@@ -1,0 +1,382 @@
+{
+  "signs": {
+    "rat": {
+      "animal": "Rat",
+      "tagline": "Quick-witted and resourceful — the clever survivor who wins by outsmarting, not overpowering.",
+      "overview": "The Rat won the Jade Emperor’s Great Race by riding on the Ox’s back and leaping off at the finish line — cunning over brute strength, which is the Rat all over. Rats read a room fast, spot an opening before anyone else does, and prize security: they build savings and alliances quietly rather than chase the spotlight. The trade-off is a tendency to overthink and to hoard, financially and emotionally.",
+      "element": "Water",
+      "yinYang": "Yang",
+      "strengths": [
+        "Intelligent",
+        "Adaptable",
+        "Charming",
+        "Thrifty",
+        "Alert"
+      ],
+      "weaknesses": [
+        "Opportunistic",
+        "Anxious",
+        "Stubborn",
+        "Overly cautious with money"
+      ],
+      "luckyColors": [
+        "Blue",
+        "Gold",
+        "Green"
+      ]
+    },
+    "ox": {
+      "animal": "Ox",
+      "tagline": "Diligent and dependable — the one who finishes what everyone else only starts.",
+      "overview": "Ask an Ox to do something and it gets done — no shortcuts, no drama, no excuses. Reliability is the Ox’s whole reputation, earned through work rather than words, which is why people lean on it in a crisis. The flip side of that resolve is a legendary stubbornness: an Ox rarely reverses a decision once it’s made, dislikes being rushed, and forgives slowly.",
+      "element": "Earth",
+      "yinYang": "Yin",
+      "strengths": [
+        "Diligent",
+        "Reliable",
+        "Patient",
+        "Honest",
+        "Determined"
+      ],
+      "weaknesses": [
+        "Stubborn",
+        "Inflexible",
+        "Reserved",
+        "Slow to forgive"
+      ],
+      "luckyColors": [
+        "White",
+        "Yellow",
+        "Green"
+      ]
+    },
+    "tiger": {
+      "animal": "Tiger",
+      "tagline": "Brave and magnetic — the one who charges in while everyone else is still deciding.",
+      "overview": "Tigers tend to walk into a room like they own it. Bold and quick to challenge authority, a Tiger would rather act and adjust than wait for permission, and that confidence pulls people along with it — sometimes into fights it didn’t need to pick. Underneath the swagger is genuine warmth: Tigers are generous and fiercely protective of the people they claim as their own.",
+      "element": "Wood",
+      "yinYang": "Yang",
+      "strengths": [
+        "Brave",
+        "Confident",
+        "Charismatic",
+        "Generous",
+        "Ambitious"
+      ],
+      "weaknesses": [
+        "Impulsive",
+        "Rebellious",
+        "Short-tempered",
+        "Overconfident"
+      ],
+      "luckyColors": [
+        "Blue",
+        "Grey",
+        "Orange"
+      ]
+    },
+    "rabbit": {
+      "animal": "Rabbit",
+      "tagline": "Tactful and perceptive — the diplomat who gets what they want without a fight.",
+      "overview": "The Rabbit is the negotiator who leaves everyone in the room feeling heard. Socially deft and quick to read people, it defuses tension before it builds and steers toward compromise rather than confrontation. Rabbits love comfort, good taste, and long friendships. Cornered into an open argument, though, a Rabbit is more likely to withdraw than to fight back.",
+      "element": "Wood",
+      "yinYang": "Yin",
+      "strengths": [
+        "Tactful",
+        "Diplomatic",
+        "Perceptive",
+        "Elegant",
+        "Prudent"
+      ],
+      "weaknesses": [
+        "Conflict-avoidant",
+        "Timid",
+        "Overly sensitive",
+        "Aloof"
+      ],
+      "luckyColors": [
+        "Red",
+        "Pink",
+        "Purple",
+        "Blue"
+      ]
+    },
+    "dragon": {
+      "animal": "Dragon",
+      "tagline": "Charismatic, ambitious, and lucky — the only mythical sign, born to stand out.",
+      "overview": "No sign carries the prestige of the Dragon — the only mythical animal of the twelve, and the old emblem of the emperor himself. Dragons are charismatic and driven, drawing people in and holding everyone (themselves first) to high standards. That intensity comes with a short fuse for incompetence and a reluctance to admit fault, but few signs are more energizing to be around or more generous once they are on your side.",
+      "element": "Earth",
+      "yinYang": "Yang",
+      "strengths": [
+        "Charismatic",
+        "Ambitious",
+        "Confident",
+        "Energetic",
+        "Generous"
+      ],
+      "weaknesses": [
+        "Arrogant",
+        "Impatient",
+        "Domineering",
+        "Unwilling to compromise"
+      ],
+      "luckyColors": [
+        "Gold",
+        "Silver",
+        "Grey"
+      ]
+    },
+    "snake": {
+      "animal": "Snake",
+      "tagline": "Wise and enigmatic — the quiet mind that is always three moves ahead.",
+      "overview": "Snakes say little and notice everything. Behind the calm, private surface is a sharp, calculating mind that thinks several moves ahead and is rarely fooled. Snakes prize elegance, act on judgment rather than impulse, and open up only to a chosen few. That reserve can register as secretive or possessive — but as strategists and confidants they are hard to beat.",
+      "element": "Fire",
+      "yinYang": "Yin",
+      "strengths": [
+        "Wise",
+        "Intuitive",
+        "Elegant",
+        "Composed",
+        "Determined"
+      ],
+      "weaknesses": [
+        "Secretive",
+        "Suspicious",
+        "Possessive",
+        "Aloof"
+      ],
+      "luckyColors": [
+        "Red",
+        "Yellow",
+        "Black"
+      ]
+    },
+    "horse": {
+      "animal": "Horse",
+      "tagline": "Free-spirited and warm — the adventurer who is happiest on the open road.",
+      "overview": "The Horse needs room to run. Independent and a little restless, it dives into new places, people, and plans with infectious energy — and loses interest the moment things turn stale. Horses are warm and quick with a joke, so they win people over easily, but the same craving for freedom makes them hard to pin down and quick to move on once they feel boxed in.",
+      "element": "Fire",
+      "yinYang": "Yang",
+      "strengths": [
+        "Energetic",
+        "Independent",
+        "Warm",
+        "Adventurous",
+        "Persuasive"
+      ],
+      "weaknesses": [
+        "Restless",
+        "Impatient",
+        "Inconsistent",
+        "Blunt"
+      ],
+      "luckyColors": [
+        "Yellow",
+        "Green"
+      ]
+    },
+    "goat": {
+      "animal": "Goat",
+      "tagline": "Artistic and tender-hearted — the gentle soul with a rich inner world. (Also called Sheep or Ram.)",
+      "overview": "The Goat (also translated Sheep or Ram) tends to feel things a shade more deeply than everyone around it. Creative and soft-hearted, it lives in a vivid inner world and gives freely to the people it loves, craving beauty, calm, and a sense of security. Where a Rabbit smooths conflict through tact, the Goat simply avoids it — and under real pressure it worries and leans on others rather than pushing back.",
+      "element": "Earth",
+      "yinYang": "Yin",
+      "strengths": [
+        "Artistic",
+        "Empathetic",
+        "Gentle",
+        "Calm",
+        "Generous"
+      ],
+      "weaknesses": [
+        "Indecisive",
+        "Anxious",
+        "Pessimistic",
+        "Dependent"
+      ],
+      "luckyColors": [
+        "Green",
+        "Red",
+        "Purple"
+      ]
+    },
+    "monkey": {
+      "animal": "Monkey",
+      "tagline": "Clever and inventive — the quick wit who solves what stumps everyone else.",
+      "overview": "Give a Monkey a problem and it will find three ways around it. Inventive and endlessly curious, the Monkey learns fast, improvises brilliantly, and can talk its way out of almost anything — the same mischief the legends give Sun Wukong. That restlessness sometimes slides into trickery or boredom, but few signs are more fun to have around or quicker to turn a situation to their advantage.",
+      "element": "Metal",
+      "yinYang": "Yang",
+      "strengths": [
+        "Clever",
+        "Curious",
+        "Versatile",
+        "Witty",
+        "Sociable"
+      ],
+      "weaknesses": [
+        "Restless",
+        "Mischievous",
+        "Opportunistic",
+        "Impatient"
+      ],
+      "luckyColors": [
+        "White",
+        "Gold",
+        "Blue"
+      ]
+    },
+    "rooster": {
+      "animal": "Rooster",
+      "tagline": "Observant and candid — the sharp eye who says what others won’t.",
+      "overview": "A Rooster notices the detail everyone else missed — and will usually mention it. Meticulous and hardworking, it takes real pride in a job done right and keeps its word down to the minute. Roosters are honest to a fault, which can land as blunt or vain, but that same exacting standard is exactly why people trust them with the things that matter.",
+      "element": "Metal",
+      "yinYang": "Yin",
+      "strengths": [
+        "Observant",
+        "Hardworking",
+        "Confident",
+        "Honest",
+        "Punctual"
+      ],
+      "weaknesses": [
+        "Critical",
+        "Vain",
+        "Blunt",
+        "Perfectionist"
+      ],
+      "luckyColors": [
+        "Gold",
+        "Brown",
+        "Yellow"
+      ]
+    },
+    "dog": {
+      "animal": "Dog",
+      "tagline": "Loyal, honest, and protective — the friend who always has your back.",
+      "overview": "When a Dog is on your side, it is on your side for good. Fair-minded and principled, it has a keen sense of right and wrong and defends the people and causes it believes in without hesitation. That vigilance can curdle into worry or suspicion, and Dogs can be quick to judge — but the loyalty underneath it, once given, is close to unconditional.",
+      "element": "Earth",
+      "yinYang": "Yang",
+      "strengths": [
+        "Loyal",
+        "Honest",
+        "Just",
+        "Protective",
+        "Responsible"
+      ],
+      "weaknesses": [
+        "Anxious",
+        "Cynical",
+        "Stubborn",
+        "Overcritical"
+      ],
+      "luckyColors": [
+        "Green",
+        "Red",
+        "Purple"
+      ]
+    },
+    "pig": {
+      "animal": "Pig",
+      "tagline": "Generous, sincere, and easygoing — the warm heart who enjoys life’s pleasures.",
+      "overview": "The Pig closes the cycle as the sign almost everyone likes. Sincere and good-natured, it takes people at face value and looks for the best in them, works hard when it counts, and never turns down good food or good company. That trusting warmth can shade into naivety — Pigs are easy to take advantage of — but they remain among the most genuinely well-liked of all twelve signs.",
+      "element": "Water",
+      "yinYang": "Yin",
+      "strengths": [
+        "Generous",
+        "Sincere",
+        "Easygoing",
+        "Diligent",
+        "Optimistic"
+      ],
+      "weaknesses": [
+        "Naive",
+        "Indulgent",
+        "Gullible",
+        "Non-confrontational"
+      ],
+      "luckyColors": [
+        "Yellow",
+        "Grey",
+        "Brown",
+        "Gold"
+      ]
+    }
+  },
+  "ui": {
+    "culturalGuide": "Cultural Guide",
+    "chineseZodiac": "Chinese Zodiac",
+    "theChineseZodiac": "The Chinese Zodiac",
+    "heroBlurb": "The twelve animals, their personalities, ruling years, and compatibility — explained.",
+    "yearOfThe": "Year of the",
+    "whatIsMySign": "What is my sign?",
+    "compatibility": "Compatibility",
+    "theTwelveSigns": "The twelve signs",
+    "readMore": "Read more",
+    "keepExploring": "Keep exploring",
+    "allZodiacSigns": "All zodiac signs",
+    "signXof12": "Sign {n} of 12",
+    "theAnimal": "The {animal}",
+    "fixedElement": "Fixed element",
+    "polarity": "Polarity",
+    "recentYears": "Recent years",
+    "personality": "Personality",
+    "strengths": "Strengths",
+    "watchOuts": "Watch-outs",
+    "luckyNumbers": "Lucky numbers",
+    "luckyColors": "Lucky colors",
+    "luckyCaveat": "Lucky numbers and colors follow popular Chinese almanac tradition and vary by source — treat them as folklore, not fact.",
+    "bestMatches": "Best matches",
+    "mostChallenging": "Most challenging",
+    "clashNote": "The {clash} sits opposite the {animal} on the zodiac wheel — the classic “six clash” (六冲). A pairing that takes extra patience.",
+    "fullCompatibilityChart": "Full compatibility chart",
+    "otherZodiacSigns": "Other zodiac signs",
+    "compatibilityChart": "Compatibility Chart",
+    "compatHero": "How all twelve animals match — read the row for your sign, then the column for theirs. Based on the traditional trines (三合) and clashes (六冲).",
+    "legendBest": "Best match",
+    "legendGood": "Good",
+    "legendNeutral": "Neutral",
+    "legendClash": "Clash",
+    "sign": "Sign",
+    "clickTip": "Tip: click any animal to read its full personality and compatibility profile.",
+    "howItWorks": "How it works",
+    "fourTrines": "The four trines (三合)",
+    "sixClashes": "The six clashes (六冲)",
+    "trinesBody": "Signs four positions apart form a harmonious triangle. The four trines are Rat–Dragon–Monkey, Ox–Snake–Rooster, Tiger–Horse–Dog, and Rabbit–Goat–Pig. Members of the same trine share values and instincts, making them the most natural long-term matches.",
+    "clashesBody": "Each sign sits opposite one other, six positions away — Rat–Horse, Ox–Goat, Tiger–Monkey, Rabbit–Rooster, Dragon–Dog, and Snake–Pig. These pairings pull in opposite directions and take the most compromise, though plenty of clashing couples thrive with awareness and effort.",
+    "compatDisclaimer": "Compatibility is a tradition and a lens for reflection, not a verdict. Real relationships depend on the people in them — treat this as a fun starting point for understanding each other.",
+    "notSureSign": "Not sure of your sign? Find it here",
+    "whatIsMySignTitle": "What Is My Chinese Zodiac Sign?",
+    "toolBlurb": "Enter your birth year to discover your animal — its personality, lucky numbers, and who it matches best.",
+    "yourBirthYear": "Your birth year",
+    "birthMonthOptional": "Birth month (optional)",
+    "monthHint": "The Chinese zodiac year starts at Chinese New Year (late January–mid February), so your birth month matters near the boundary.",
+    "bornInYearOf": "You were born in the Year of the",
+    "boundaryWarn": "Born in {month}? Chinese New Year {year} fell in late January or February, so if you were born before it, your sign is actually the {prev}. Check the exact {year} Chinese New Year date to be sure.",
+    "readFullProfile": "Read the full {animal} profile",
+    "enterValidYear": "Enter a 4-digit year between 1900 and {max}.",
+    "browseAll12": "Browse all 12 signs",
+    "seeCompatChart": "See the full compatibility chart",
+    "dramas": "Dramas",
+    "dramasDesc": "C-dramas & idioms",
+    "games": "Games",
+    "gamesDesc": "Mythology in games",
+    "idioms": "Idioms",
+    "idiomsDesc": "1,001 chengyu",
+    "blog": "Blog",
+    "privacyPolicy": "Privacy Policy",
+    "months": [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December"
+    ]
+  }
+}

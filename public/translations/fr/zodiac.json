@@ -1,0 +1,382 @@
+{
+  "signs": {
+    "rat": {
+      "animal": "Rat",
+      "tagline": "Vif d'esprit et ingénieux — le survivant astucieux qui gagne par la ruse, pas par la force.",
+      "overview": "Le Rat a remporté la Grande Course de l'Empereur de Jade en montant sur le dos du Bœuf et en sautant à la ligne d'arrivée — la ruse plutôt que la force brute, c'est tout le Rat. Les Rats lisent rapidement une pièce, repèrent une ouverture avant tout le monde, et privilégient la sécurité : ils construisent des économies et des alliances discrètement plutôt que de courir après les projecteurs. Le compromis est une tendance à trop réfléchir et à accumuler, financièrement et émotionnellement.",
+      "element": "Eau",
+      "yinYang": "Yang",
+      "strengths": [
+        "Intelligent",
+        "Adaptable",
+        "Charmant",
+        "Économe",
+        "Vigilant"
+      ],
+      "weaknesses": [
+        "Opportuniste",
+        "Anxieux",
+        "Têtu",
+        "Trop prudent avec l'argent"
+      ],
+      "luckyColors": [
+        "Bleu",
+        "Or",
+        "Vert"
+      ]
+    },
+    "ox": {
+      "animal": "Bœuf",
+      "tagline": "Diligent et fiable — celui qui termine ce que tout le monde ne fait que commencer.",
+      "overview": "Demandez à un Bœuf de faire quelque chose et c'est fait — pas de raccourcis, pas de drame, pas d'excuses. La fiabilité est toute la réputation du Bœuf, acquise par le travail plutôt que par les mots, c'est pourquoi les gens comptent sur lui en cas de crise. Le revers de cette détermination est une légendaire obstination : un Bœuf revient rarement sur une décision une fois prise, n'aime pas être pressé, et pardonne lentement.",
+      "element": "Terre",
+      "yinYang": "Yin",
+      "strengths": [
+        "Diligent",
+        "Fiable",
+        "Patient",
+        "Honnête",
+        "Déterminé"
+      ],
+      "weaknesses": [
+        "Têtu",
+        "Inflexible",
+        "Réservé",
+        "Lent à pardonner"
+      ],
+      "luckyColors": [
+        "Blanc",
+        "Jaune",
+        "Vert"
+      ]
+    },
+    "tiger": {
+      "animal": "Tigre",
+      "tagline": "Courageux et magnétique — celui qui fonce pendant que tout le monde hésite encore.",
+      "overview": "Les Tigres ont tendance à entrer dans une pièce comme s'ils en étaient les propriétaires. Audacieux et rapides à défier l'autorité, un Tigre préfère agir et s'ajuster plutôt que d'attendre la permission, et cette confiance entraîne les gens avec lui — parfois dans des combats qu'il n'avait pas besoin de provoquer. Sous le fanfaronnade se cache une véritable chaleur : les Tigres sont généreux et farouchement protecteurs des personnes qu'ils considèrent comme les leurs.",
+      "element": "Bois",
+      "yinYang": "Yang",
+      "strengths": [
+        "Courageux",
+        "Confiant",
+        "Charismatique",
+        "Généreux",
+        "Ambitieux"
+      ],
+      "weaknesses": [
+        "Impulsif",
+        "Rebelle",
+        "Colérique",
+        "Trop confiant"
+      ],
+      "luckyColors": [
+        "Bleu",
+        "Gris",
+        "Orange"
+      ]
+    },
+    "horse": {
+      "animal": "Cheval",
+      "tagline": "Libre d'esprit et chaleureux — l'aventurier qui est le plus heureux sur la route ouverte.",
+      "overview": "Le Cheval a besoin d'espace pour courir. Indépendant et un peu agité, il plonge dans de nouveaux endroits, personnes et plans avec une énergie contagieuse — et perd intérêt dès que les choses deviennent ennuyeuses. Les chevaux sont chaleureux et rapides avec une blague, donc ils gagnent facilement les gens, mais le même désir de liberté les rend difficiles à cerner et prompts à passer à autre chose une fois qu'ils se sentent enfermés.",
+      "element": "Feu",
+      "yinYang": "Yang",
+      "strengths": [
+        "Énergique",
+        "Indépendant",
+        "Chaleureux",
+        "Aventurier",
+        "Persuasif"
+      ],
+      "weaknesses": [
+        "Agité",
+        "Impatient",
+        "Inconstant",
+        "Brutal"
+      ],
+      "luckyColors": [
+        "Jaune",
+        "Vert"
+      ]
+    },
+    "goat": {
+      "animal": "Chèvre",
+      "tagline": "Artistique et tendre — l'âme douce avec un monde intérieur riche. (Aussi appelé Mouton ou Bélier.)",
+      "overview": "La Chèvre (aussi traduit Mouton ou Bélier) a tendance à ressentir les choses un peu plus profondément que tout le monde autour d'elle. Créative et douce, elle vit dans un monde intérieur vif et donne librement aux personnes qu'elle aime, recherchant la beauté, le calme et un sentiment de sécurité. Là où un Lapin adoucit les conflits par la tactique, la Chèvre les évite simplement — et sous une véritable pression, elle s'inquiète et s'appuie sur les autres plutôt que de riposter.",
+      "element": "Terre",
+      "yinYang": "Yin",
+      "strengths": [
+        "Artistique",
+        "Empathique",
+        "Douce",
+        "Calme",
+        "Généreuse"
+      ],
+      "weaknesses": [
+        "Indécise",
+        "Anxieuse",
+        "Pessimiste",
+        "Dépendante"
+      ],
+      "luckyColors": [
+        "Vert",
+        "Rouge",
+        "Violet"
+      ]
+    },
+    "monkey": {
+      "animal": "Singe",
+      "tagline": "Intelligent et inventif — l'esprit vif qui résout ce qui bloque tout le monde.",
+      "overview": "Donnez un problème à un Singe et il trouvera trois façons de le contourner. Inventif et infiniment curieux, le Singe apprend vite, improvise brillamment et peut se sortir de presque n'importe quoi — la même malice que les légendes attribuent à Sun Wukong. Cette agitation glisse parfois vers la tromperie ou l'ennui, mais peu de signes sont plus amusants à avoir autour ou plus rapides à tourner une situation à leur avantage.",
+      "element": "Métal",
+      "yinYang": "Yang",
+      "strengths": [
+        "Intelligent",
+        "Curieux",
+        "Polyvalent",
+        "Spirituel",
+        "Sociable"
+      ],
+      "weaknesses": [
+        "Agité",
+        "Malicieux",
+        "Opportuniste",
+        "Impatient"
+      ],
+      "luckyColors": [
+        "Blanc",
+        "Or",
+        "Bleu"
+      ]
+    },
+    "rooster": {
+      "animal": "Coq",
+      "tagline": "Observateur et franc — l'œil vif qui dit ce que les autres ne diront pas.",
+      "overview": "Un Coq remarque le détail que tout le monde a manqué — et le mentionnera généralement. Méticuleux et travailleur, il est vraiment fier d'un travail bien fait et tient parole à la minute près. Les Coqs sont honnêtes à l'excès, ce qui peut sembler brusque ou vaniteux, mais cette même exigence est précisément la raison pour laquelle les gens leur font confiance pour les choses qui comptent.",
+      "element": "Métal",
+      "yinYang": "Yin",
+      "strengths": [
+        "Observateur",
+        "Travailleur",
+        "Confiant",
+        "Honnête",
+        "Ponctuel"
+      ],
+      "weaknesses": [
+        "Critique",
+        "Vaniteux",
+        "Brusque",
+        "Perfectionniste"
+      ],
+      "luckyColors": [
+        "Or",
+        "Marron",
+        "Jaune"
+      ]
+    },
+    "dog": {
+      "animal": "Chien",
+      "tagline": "Loyal, honnête et protecteur — l'ami qui vous soutient toujours.",
+      "overview": "Quand un Chien est de votre côté, il est de votre côté pour de bon. Équitable et principé, il a un sens aigu du bien et du mal et défend les personnes et les causes auxquelles il croit sans hésitation. Cette vigilance peut se transformer en inquiétude ou en suspicion, et les Chiens peuvent être prompts à juger — mais la loyauté qui en découle, une fois donnée, est presque inconditionnelle.",
+      "element": "Terre",
+      "yinYang": "Yang",
+      "strengths": [
+        "Loyal",
+        "Honnête",
+        "Juste",
+        "Protecteur",
+        "Responsable"
+      ],
+      "weaknesses": [
+        "Anxieux",
+        "Cynique",
+        "Têtu",
+        "Trop critique"
+      ],
+      "luckyColors": [
+        "Vert",
+        "Rouge",
+        "Violet"
+      ]
+    },
+    "pig": {
+      "animal": "Cochon",
+      "tagline": "Généreux, sincère et décontracté — le cœur chaleureux qui profite des plaisirs de la vie.",
+      "overview": "Le Cochon clôt le cycle en tant que signe que presque tout le monde aime. Sincère et bienveillant, il prend les gens au pied de la lettre et cherche le meilleur en eux, travaille dur quand cela compte, et ne refuse jamais un bon repas ou une bonne compagnie. Cette chaleur confiante peut tourner à la naïveté — les Cochons sont faciles à exploiter — mais ils restent parmi les plus appréciés des douze signes.",
+      "element": "Eau",
+      "yinYang": "Yin",
+      "strengths": [
+        "Généreux",
+        "Sincère",
+        "Décontracté",
+        "Diligent",
+        "Optimiste"
+      ],
+      "weaknesses": [
+        "Naïf",
+        "Indulgent",
+        "Crédule",
+        "Non-confrontant"
+      ],
+      "luckyColors": [
+        "Jaune",
+        "Gris",
+        "Marron",
+        "Or"
+      ]
+    },
+    "rabbit": {
+      "animal": "Lapin",
+      "tagline": "Tactique et perspicace — le diplomate qui obtient ce qu'il veut sans se battre.",
+      "overview": "Le Lapin est le négociateur qui fait en sorte que tout le monde dans la pièce se sente écouté. Socialement habile et rapide à lire les gens, il désamorce les tensions avant qu'elles ne s'accumulent et privilégie le compromis à la confrontation. Les Lapins aiment le confort, le bon goût et les longues amitiés. Coincé dans une dispute ouverte, cependant, un Lapin est plus susceptible de se retirer que de riposter.",
+      "element": "Bois",
+      "yinYang": "Yin",
+      "strengths": [
+        "Tactique",
+        "Diplomatique",
+        "Perspicace",
+        "Élégant",
+        "Prudent"
+      ],
+      "weaknesses": [
+        "Évitant les conflits",
+        "Timide",
+        "Trop sensible",
+        "Distant"
+      ],
+      "luckyColors": [
+        "Rouge",
+        "Rose",
+        "Violet",
+        "Bleu"
+      ]
+    },
+    "dragon": {
+      "animal": "Dragon",
+      "tagline": "Charismatique, ambitieux et chanceux — le seul signe mythique, né pour se démarquer.",
+      "overview": "Aucun signe ne porte le prestige du Dragon — le seul animal mythique des douze, et l'ancien emblème de l'empereur lui-même. Les Dragons sont charismatiques et déterminés, attirant les gens et tenant tout le monde (eux-mêmes en premier) à des normes élevées. Cette intensité s'accompagne d'une faible tolérance pour l'incompétence et d'une réticence à admettre ses torts, mais peu de signes sont plus dynamisants à côtoyer ou plus généreux une fois qu'ils sont de votre côté.",
+      "element": "Terre",
+      "yinYang": "Yang",
+      "strengths": [
+        "Charismatique",
+        "Ambitieux",
+        "Confiant",
+        "Énergique",
+        "Généreux"
+      ],
+      "weaknesses": [
+        "Arrogant",
+        "Impatient",
+        "Autoritaire",
+        "Peu enclin à faire des compromis"
+      ],
+      "luckyColors": [
+        "Or",
+        "Argent",
+        "Gris"
+      ]
+    },
+    "snake": {
+      "animal": "Serpent",
+      "tagline": "Sage et énigmatique — l'esprit tranquille qui a toujours trois coups d'avance.",
+      "overview": "Les Serpents disent peu et remarquent tout. Derrière la surface calme et réservée se cache un esprit aiguisé et calculateur qui pense plusieurs coups à l'avance et se laisse rarement tromper. Les Serpents apprécient l'élégance, agissent selon le jugement plutôt que l'impulsion, et ne s'ouvrent qu'à quelques élus. Cette réserve peut être perçue comme secrète ou possessive — mais en tant que stratèges et confidents, ils sont difficiles à battre.",
+      "element": "Feu",
+      "yinYang": "Yin",
+      "strengths": [
+        "Sage",
+        "Intuitif",
+        "Élégant",
+        "Posé",
+        "Déterminé"
+      ],
+      "weaknesses": [
+        "Secret",
+        "Méfiant",
+        "Possessif",
+        "Distant"
+      ],
+      "luckyColors": [
+        "Rouge",
+        "Jaune",
+        "Noir"
+      ]
+    }
+  },
+  "ui": {
+    "culturalGuide": "Guide culturel",
+    "chineseZodiac": "Zodiaque chinois",
+    "theChineseZodiac": "Le zodiaque chinois",
+    "heroBlurb": "Les douze animaux, leurs personnalités, années de règne et compatibilité — expliqués.",
+    "yearOfThe": "Année du",
+    "whatIsMySign": "Quel est mon signe ?",
+    "compatibility": "Compatibilité",
+    "theTwelveSigns": "Les douze signes",
+    "readMore": "Lire la suite",
+    "keepExploring": "Continuer à explorer",
+    "allZodiacSigns": "Tous les signes du zodiaque",
+    "signXof12": "Signe {n} sur 12",
+    "theAnimal": "Le {animal}",
+    "fixedElement": "Élément fixe",
+    "polarity": "Polarité",
+    "recentYears": "Années récentes",
+    "personality": "Personnalité",
+    "strengths": "Forces",
+    "watchOuts": "Précautions",
+    "luckyNumbers": "Numéros chanceux",
+    "luckyColors": "Couleurs chanceuses",
+    "luckyCaveat": "Les numéros et couleurs chanceux suivent la tradition populaire de l'almanach chinois et varient selon les sources — considérez-les comme du folklore, pas comme des faits.",
+    "bestMatches": "Meilleurs accords",
+    "mostChallenging": "Plus difficile",
+    "clashNote": "Le {clash} se trouve en face du {animal} sur la roue du zodiaque — le classique “six clash” (六冲). Un duo qui demande une patience supplémentaire.",
+    "fullCompatibilityChart": "Tableau de compatibilité complet",
+    "otherZodiacSigns": "Autres signes du zodiaque",
+    "compatibilityChart": "Tableau de compatibilité",
+    "compatHero": "Comment les douze animaux s'accordent — lisez la ligne pour votre signe, puis la colonne pour le leur. Basé sur les trines traditionnels (三合) et les clashes (六冲).",
+    "legendBest": "Meilleur accord",
+    "legendGood": "Bon",
+    "legendNeutral": "Neutre",
+    "legendClash": "Conflit",
+    "sign": "Signe",
+    "clickTip": "Conseil : cliquez sur n'importe quel animal pour lire son profil complet de personnalité et de compatibilité.",
+    "howItWorks": "Comment ça fonctionne",
+    "fourTrines": "Les quatre trines (三合)",
+    "sixClashes": "Les six clashes (六冲)",
+    "trinesBody": "Les signes séparés de quatre positions forment un triangle harmonieux. Les quatre trines sont Rat–Dragon–Singe, Bœuf–Serpent–Coq, Tigre–Cheval–Chien, et Lapin–Chèvre–Cochon. Les membres du même trine partagent des valeurs et des instincts, ce qui en fait les accords les plus naturels à long terme.",
+    "clashesBody": "Chaque signe est opposé à un autre, à six positions de distance — Rat–Cheval, Bœuf–Chèvre, Tigre–Singe, Lapin–Coq, Dragon–Chien, et Serpent–Cochon. Ces duos tirent dans des directions opposées et nécessitent le plus de compromis, bien que de nombreux couples en conflit prospèrent avec conscience et effort.",
+    "compatDisclaimer": "La compatibilité est une tradition et un prisme de réflexion, pas un verdict. Les relations réelles dépendent des personnes qui les composent — considérez cela comme un point de départ amusant pour se comprendre.",
+    "notSureSign": "Pas sûr de votre signe ? Trouvez-le ici",
+    "whatIsMySignTitle": "Quel est mon signe du zodiaque chinois ?",
+    "toolBlurb": "Entrez votre année de naissance pour découvrir votre animal — sa personnalité, ses numéros chanceux, et avec qui il s'accorde le mieux.",
+    "yourBirthYear": "Votre année de naissance",
+    "birthMonthOptional": "Mois de naissance (facultatif)",
+    "monthHint": "L'année zodiacale chinoise commence au Nouvel An chinois (fin janvier–mi-février), donc votre mois de naissance est important près de la limite.",
+    "bornInYearOf": "Vous êtes né dans l'année du",
+    "boundaryWarn": "Né en {month} ? Le Nouvel An chinois {year} est tombé fin janvier ou février, donc si vous êtes né avant, votre signe est en fait le {prev}. Vérifiez la date exacte du Nouvel An chinois {year} pour être sûr.",
+    "readFullProfile": "Lire le profil complet du {animal}",
+    "enterValidYear": "Entrez une année de 4 chiffres entre 1900 et {max}.",
+    "browseAll12": "Parcourir les 12 signes",
+    "seeCompatChart": "Voir le tableau de compatibilité complet",
+    "dramas": "Dramas",
+    "dramasDesc": "C-dramas & idiomes",
+    "games": "Jeux",
+    "gamesDesc": "Mythologie dans les jeux",
+    "idioms": "Idiomes",
+    "idiomsDesc": "1 001 chengyu",
+    "blog": "Blog",
+    "privacyPolicy": "Politique de confidentialité",
+    "months": [
+      "Janvier",
+      "Février",
+      "Mars",
+      "Avril",
+      "Mai",
+      "Juin",
+      "Juillet",
+      "Août",
+      "Septembre",
+      "Octobre",
+      "Novembre",
+      "Décembre"
+    ]
+  }
+}
