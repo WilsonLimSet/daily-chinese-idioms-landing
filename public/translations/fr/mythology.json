@@ -1,0 +1,220 @@
+{
+  "figures": {
+    "pangu": {
+      "name": "Pangu",
+      "role": "Être créateur primordial",
+      "tagline": "Le géant qui a fissuré l'œuf cosmique et est devenu le monde.",
+      "overview": "Sorti du chaos, pendant plus de 18 000 ans, un œuf cosmique se forme — et Pangu, le premier être vivant, en éclot. Il fende l'œuf, le yin trouble s'enfonçant pour former la Terre et le yang clair s'élevant pour former le ciel, puis se tient entre eux et grandit quotidiennement pendant encore 18 000 ans pour les tenir séparés. Lorsqu'il meurt, son corps devient le monde : son souffle le vent, ses yeux le soleil et la lune, son sang les rivières.",
+      "keyFact": "Les premières versions écrites sont attribuées à l'auteur du 3ème siècle Xu Zheng, rendant ce célèbre mythe de création relativement tardif dans le registre textuel.",
+      "significance": "Le mythe de création canonique chinois et le point de référence standard lors de la comparaison de la cosmogonie chinoise avec d'autres traditions mondiales."
+    },
+    "guan-yu": {
+      "name": "Guan Yu",
+      "role": "Général déifié · dieu de la guerre et de la loyauté",
+      "tagline": "Un véritable général des Trois Royaumes devenu l'un des dieux les plus vénérés de Chine.",
+      "overview": "Seul parmi les figures ici, Guan Yu a commencé comme un homme de chair et de sang — un général sous le seigneur de guerre Liu Bei à la fin de la dynastie Han et durant la période des Trois Royaumes, qui est mort en 220 de notre ère et a progressivement été déifié en dieu de la guerre, de la loyauté et, plus tard, de la richesse. Son image mythique provient principalement du roman du 14ème siècle Romance des Trois Royaumes, qui a amplifié sa loyauté et sa vertu martiale.",
+      "keyFact": "Le Serment du Jardin de Pêchers — sa fraternité jurée avec Liu Bei et Zhang Fei — et son refus de trahir Liu Bei même lorsqu'il était richement honoré par le rival Cao Cao en font l'archétype de la loyauté (义).",
+      "significance": "Rouge de visage, à longue barbe, et tenant la Lame Croissante du Dragon Vert, \"Seigneur Guan\" se tient dans les temples, magasins, restaurants et postes de police à travers le monde chinois en tant que gardien de la loyauté et de la fortune.",
+      "misconception": "Contrairement aux figures purement mythiques ici, Guan Yu était une personne historique devenue plus tard un dieu — vénéré à travers le confucianisme, le taoïsme et le bouddhisme."
+    },
+    "erlang-shen": {
+      "name": "Erlang Shen",
+      "role": "Dieu guerrier à trois yeux · dompteur de démons",
+      "tagline": "Le dieu à trois yeux dont l'œil voyant la vérité perce toute dissimulation.",
+      "overview": "Un troisième œil, voyant la vérité, au milieu de son front distingue Erlang Shen, une divinité guerrière représentée comme un jeune homme séduisant avec une hallebarde à double lame à trois pointes et un fidèle Chien Céleste Rugissant à ses côtés. Dans la tradition ultérieure, il est identifié comme Yang Jian, neveu de l'Empereur de Jade. Ce troisième œil voit à travers toute dissimulation ou transformation.",
+      "keyFact": "Dans Le Voyage en Occident, il est envoyé pour capturer Sun Wukong et le combat à égalité — son œil céleste percevant chaque forme que Wukong prend.",
+      "significance": "Gagnant rapidement en notoriété occidentale en tant que superboss secret (\"La Divinité Sacrée\") dans Black Myth: Wukong."
+    },
+    "jade-emperor": {
+      "name": "Empereur de Jade",
+      "role": "Souverain suprême du Ciel",
+      "tagline": "L'empereur du Ciel qui gère le cosmos comme une bureaucratie impériale.",
+      "overview": "Le Ciel, dans la religion populaire chinoise et le Daoïsme, est géré comme la Chine impériale — une administration céleste de ministères, de dossiers et de dieux, et à sa tête se trouve l'Empereur de Jade. Il est surtout connu à travers Le Voyage en Occident, où il préside la cour et envoie armée après armée pour soumettre le Sun Wukong déchaîné.",
+      "keyFact": "Une explication populaire pour le zodiaque chinois le nomme comme l'organisateur de la Grande Course qui a établi l'ordre des douze animaux.",
+      "significance": "Central au Nouvel An chinois — son anniversaire tombe le 9ème jour du premier mois lunaire, et le Dieu de la Cuisine rapporte chaque année la conduite de chaque foyer à lui.",
+      "misconception": "Dans la théologie daoïste formelle, il se classe en réalité en dessous des Trois Purs (三清), et non comme le dieu suprême absolu — une nuance que les récits populaires tendent à aplatir."
+    },
+    "nuwa": {
+      "name": "Nüwa",
+      "role": "Déesse créatrice · mère de l'humanité",
+      "tagline": "La déesse au corps de serpent qui a façonné les humains à partir d'argile et a réparé le ciel brisé.",
+      "overview": "Avec un corps supérieur de femme et un corps inférieur de serpent, Nüwa est la mère-déesse primordiale de la mythologie chinoise. Dans l'histoire la plus connue, elle crée des humains à partir d'argile jaune, façonnant à la main le premier puis lançant des gouttes de boue d'une corde pour faire le reste. Elle est souvent associée à Fuxi, les deux montrés avec des queues entrelacées tenant un compas et une équerre.",
+      "keyFact": "Réparation des Cieux : après que le dieu de l'eau Gonggong a fissuré le ciel, Nüwa fond des pierres de cinq couleurs pour le réparer et soutient les quatre coins avec les pattes d'une tortue géante.",
+      "significance": "Une figure de création fondamentale ; la pierre restante qu'elle n'a pas utilisée ouvre le roman classique Le Rêve dans le pavillon rouge."
+    },
+    "change": {
+      "name": "Chang'e",
+      "role": "Déesse de la Lune",
+      "tagline": "La déesse qui a dérivé vers la Lune — et la raison pour laquelle les familles se rassemblent à la Mi-Automne.",
+      "overview": "Haut dans le Palais de la Lune, avec seulement le Lapin de Jade pour compagnie, vit Chang'e, déesse de la Lune. Épouse de l'archer Houyi, elle finit par prendre l'élixir d'immortalité et flotte vers la Lune, séparée pour toujours de son mari.",
+      "keyFact": "Deux versions canoniques existent et ne doivent pas être mélangées : dans le récit sympathique, elle avale l'élixir pour empêcher un voleur de le voler pendant que Houyi est absent ; dans des versions plus anciennes et plus dures, elle le prend égoïstement.",
+      "significance": "Sa légende est le cœur du Festival de la Mi-Automne (中秋节) — les gâteaux de lune et l'observation de la lune — et elle est la nommée du programme lunaire chinois Chang'e."
+    },
+    "pixiu": {
+      "name": "Pixiu",
+      "role": "Bête gardienne attirant la richesse",
+      "tagline": "La bête ailée qui mange de l'or et ne peut jamais le laisser sortir — l'aimant à richesse du feng shui.",
+      "overview": "Pixiu ne mange que de l'or, de l'argent et des bijoux — et, par un caprice de la légende, ne peut jamais en laisser sortir. Une bête ailée, semblable à un lion avec une tête de dragon et une bouche avec des crocs, on dit qu'elle est un fils du Roi Dragon qui s'est autrefois soulagé au Ciel, pour quoi l'Empereur de Jade a scellé son arrière.",
+      "keyFact": "Cette légende de l'arrière scellé est exactement pourquoi c'est le charme de richesse feng shui par excellence : il attire l'argent et le retient.",
+      "significance": "Un des objets feng shui les plus recherchés en Occident — vendu sous forme de bracelets, bagues et statues en obsidienne. Sa bouche doit faire face vers l'extérieur pour \"manger\" la richesse entrante, et elle ne doit jamais faire face directement au propriétaire ou se trouver dans une chambre.",
+      "misconception": "Distinct des chiens-lions gardiens (\"chiens foo,\" 石狮) — Pixiu est spécifiquement une bête de richesse, pas un gardien de porte."
+    },
+    "four-symbols": {
+      "name": "Les Quatre Symboles",
+      "role": "Quatre bêtes gardiennes directionnelles",
+      "tagline": "Les quatre bêtes célestes qui gardent les directions, les saisons et les éléments.",
+      "overview": "Quatre gardiens astraux divisent le ciel nocturne, chacun régnant sur une direction, une saison et un élément : le Dragon Azur (青龙, Est/Printemps/Bois), l'Oiseau Vermillon (朱雀, Sud/Été/Feu), le Tigre Blanc (白虎, Ouest/Automne/Métal), et la Tortue Noire, ou Xuanwu (玄武, Nord/Hiver/Eau). Ensemble, ils structurent l'astrologie chinoise, le feng shui et la cosmologie taoïste.",
+      "keyFact": "Un terrain feng shui idéal place les quatre gardiens dans leurs directions appropriées ; Xuanwu, la tortue et le serpent du nord, est devenu plus tard une divinité taoïste majeure.",
+      "significance": "Largement connu à travers les médias japonais sous les noms de Seiryu, Suzaku, Byakko et Genbu — le Tigre Blanc et le Dragon Azur sont particulièrement populaires comme sujets de tatouage.",
+      "misconception": "L'Oiseau Vermillon (朱雀) est un gardien de feu et du sud, une créature différente de la phénix impériale Fenghuang (凤凰) — une confusion courante."
+    },
+    "jiangshi": {
+      "name": "Jiangshi",
+      "role": "Mort-vivant sautillant · \"vampire\" chinois",
+      "tagline": "Le cadavre rigide et sautillant qui draine votre énergie vitale — pas votre sang.",
+      "overview": "La rigor mortis raidit ses membres, donc un jiangshi (\"cadavre rigide\") saute avec les bras tendus — un corps réanimé qui se lève pour drainer le qi, ou force vitale, des vivants. Il est généralement vêtu d'une robe d'officiel de la dynastie Qing, et un talisman en papier taoïste collé à son front peut le figer sur place.",
+      "keyFact": "Le folklore est souvent retracé à Xiangxi \"transport de cadavres\" (赶尸) — transporter les morts chez eux attachés debout à des poteaux en bambou, ce qui donnait l'impression étrange de corps sautillants.",
+      "significance": "Défini par l'horreur-comédie de Hong Kong des années 1980 — les films Mr. Vampire ont fixé son image moderne — et une figure récurrente dans les jeux et la culture d'Halloween.",
+      "misconception": "Malgré le label \"vampire\", il se nourrit de qi (pas de sang), saute de manière rigide (plutôt que de séduire), et est beaucoup plus proche d'un zombie ou revenant que d'un type Dracula."
+    },
+    "fenghuang": {
+      "name": "Fenghuang",
+      "role": "phénix chinois · oiseau céleste de bon augure",
+      "tagline": "Le \"phénix chinois\" — un oiseau de paix et de vertu, pas de renaissance ardente.",
+      "overview": "Souverain de tous les oiseaux, le fenghuang n'apparaît que lorsqu'un dirigeant juste règne et se retire en période de désordre — un présage vivant de paix, de vertu et d'harmonie cosmique. Un oiseau composite aux cinq couleurs cérémonielles, il combinait à l'origine le mâle 凤 (fèng) et la femelle 凰 (huáng) ; le couple a ensuite fusionné en un seul symbole féminin, l'impératrice du dragon empereur.",
+      "keyFact": "Accouplé avec le dragon, c'est l'un des motifs de mariage chinois les plus courants — le dragon et le phénix représentant mari et femme en parfait équilibre.",
+      "significance": "Un motif courant de tatouage, de bijoux et de mariage, et une figure récurrente dans le cinéma et l'animation.",
+      "misconception": "Ne l'associez pas au phénix grec/égyptien qui brûle et renaît des cendres. Les sources classiques chinoises ne donnent pas au fenghuang de cycle de mort et de renaissance par le feu — cette association est un ajout moderne. Sa signification principale est un présage de bon augure et d'harmonie."
+    },
+    "qilin": {
+      "name": "Qilin",
+      "role": "bête de bon augure bienveillante · \"licorne chinoise\"",
+      "tagline": "Une chimère douce dont l'arrivée annonce un sage — et l'origine du mot \"kirin.\"",
+      "overview": "Assez douce, la légende dit qu'elle peut marcher sans écraser une brin d'herbe ou nuire à un insecte, le qilin est une bête de bon augure bienveillante malgré son apparence composite féroce — un corps de cerf, une queue de bœuf, des sabots, une peau écailleuse semblable à celle d'un dragon, et une ou deux cornes. Son apparition marque la naissance ou la mort d'un sage ; la tradition l'associe à Confucius. Elle ne punit que les méchants.",
+      "keyFact": "Lorsque la flotte de Zheng He a ramené une girafe au 15ème siècle, elle a été saluée comme un qilin vivant — c'est pourquoi le mot japonais moderne pour girafe, \"kirin,\" utilise les mêmes caractères (麒麟).",
+      "significance": "Une statue feng shui courante pour la protection et la fertilité (souvent placée par paires), et une figure familière dans les jeux sous sa lecture japonaise, \"kirin.\"",
+      "misconception": "Le surnom de \"licorne chinoise\" est imprécis — le qilin a généralement deux cornes, pas une. Le kirin du Japon et le girin de Corée en dérivent directement."
+    },
+    "nine-tailed-fox": {
+      "name": "Renard à Neuf Queues",
+      "role": "esprit renard changeant de forme (húlijīng)",
+      "tagline": "Présage de bon augure dans un texte, séductrice drainant la vie dans le suivant.",
+      "overview": "Le renard à neuf queues, ou esprit renard (húlijīng, 狐狸精), est moralement ambivalent dans la tradition chinoise — un présage de bon augure dans des textes anciens comme le Classique des montagnes et des mers, une séductrice dévorante dans d'autres. Un renard gagne en pouvoir et en queues supplémentaires en vieillissant, jusqu'à neuf à pleine puissance, et peut se transformer en un bel humain — sous une forme démonisée drainant l'essence de vie yang d'un partenaire.",
+      "keyFact": "L'exemple archétypal de malveillance est Daji, la consort possédée par un renard blâmée pour la chute de la dynastie Shang dans l'Investiture des dieux.",
+      "significance": "Partout dans les C-dramas modernes, les romans xianxia, les jeux et les tatouages ; \"húlijīng\" est encore une insulte vivante signifiant une séductrice qui détruit les foyers.",
+      "misconception": "Ne confondez pas trois traditions : le húlijīng chinois est moralement mixte ; le kitsune japonais est le plus bienveillant et divin (lié au dieu Inari) ; le gumiho coréen est presque toujours malveillant."
+    },
+    "dragon-king": {
+      "name": "Roi Dragon",
+      "role": "Dieu de l'eau et de la météo · souverain des mers",
+      "tagline": "Le dragon-dieu apportant la pluie des mers — ami des agriculteurs, ennemi des héros.",
+      "overview": "Depuis un Palais de Cristal sous-marin, le Roi Dragon commande l'eau et la météo, un dragon-dieu changeant de forme qui peut prendre une apparence humaine. Il y en a quatre, un par mer et direction — Ao Guang de la Mer de l'Est étant le plus proéminent — et en tant qu'apporteurs de pluie, ils étaient sollicités par les agriculteurs chaque fois qu'une sécheresse frappait.",
+      "keyFact": "Il s'oppose aux héros dans les grands romans : Sun Wukong intimide Ao Guang pour obtenir le bâton doré, et Nezha tue son fils Ao Bing — déclenchant sa colère.",
+      "significance": "Présent dans les temples près de l'eau et dans les coutumes de courses de bateaux-dragons et de prières pour la pluie, et un antagoniste récurrent représentant l'autorité dans les films de Nezha et du Roi Singe.",
+      "misconception": "\"Roi Dragon\" désigne généralement l'institution collective des quatre ; lorsqu'un seul est mentionné, il s'agit normalement d'Ao Guang de la Mer de l'Est."
+    },
+    "zhong-kui": {
+      "name": "Zhong Kui",
+      "role": "Le chasseur de démons · Roi des Fantômes",
+      "tagline": "Le savant raté qui a mis fin à ses jours — et est devenu le chasseur de démons de l'enfer.",
+      "overview": "Zhong Kui a remporté l'examen impérial, puis a été dépouillé de son rang de premier parce que l'empereur le trouvait trop laid. Humilié, il a mis fin à ses jours aux portes du palais — et dans la mort, il est devenu Roi des Fantômes, un chasseur et juge des esprits malins, son visage redoutable tourné contre les démons qui effraient les vivants.",
+      "keyFact": "La légende d'origine : L'empereur Xuanzong de Tang a rêvé de Zhong Kui dévorant un lutin voleur et s'est réveillé guéri de sa maladie. Il a fait peindre la vision par l'artiste Wu Daozi, et le portrait de Zhong Kui est devenu un talisman du Nouvel An accroché aux portes pour éloigner le mal.",
+      "significance": "Un élément essentiel de l'art des gardiens de porte et des coutumes du Nouvel An — et le personnage principal du prochain jeu Black Myth : Zhong Kui."
+    },
+    "dragon": {
+      "name": "Dragon Chinois",
+      "role": "Divinité céleste de l'eau · bête auspicious",
+      "tagline": "Un bienveillant apporteur de pluie sans ailes — l'opposé du dragon occidental.",
+      "overview": "Rien à voir avec la bête crachant du feu de l'Ouest, le dragon chinois (lóng) est un divin apporteur d'eau — pluie, rivières, mers, inondations — et, à travers l'eau, de récoltes et de prospérité. Un composite de neuf animaux, il a un long corps serpentiforme, des cornes de cerf, des moustaches et des griffes d'aigle, et vole sans ailes. Il incarne l'énergie yang et l'autorité impériale : l'empereur était appelé \"le fils du dragon.\"",
+      "keyFact": "Le nombre de griffes signalait autrefois le rang — cinq griffes étaient réservées à l'empereur, quatre aux nobles, trois aux roturiers.",
+      "significance": "Le motif de tatouage chinois définissant, le point central des danses de dragon du Nouvel An lunaire et des courses de bateaux-dragons, et la racine de l'expression \"descendants du dragon\" comme marqueur de l'identité chinoise.",
+      "misconception": "Fondamentalement différent du dragon occidental : il est bienveillant, sans ailes, serpentiforme, et lié à l'eau et à la chance — pas une bête maléfique, avare, crachant du feu à abattre. Certains le romanisent maintenant \"loong\" pour briser la fausse équivalence."
+    },
+    "nian": {
+      "name": "Nian",
+      "role": "La bête du Nouvel An (年兽)",
+      "tagline": "La bête dont la peur du rouge et des pétards nous a donné les coutumes du Nouvel An chinois.",
+      "overview": "Une fois par an, la veille du Nouvel An, une bête appelée Nian (comme le monstre du Nouvel An, 年兽 niánshòu) sortait de la mer ou des montagnes pour dévorer le bétail, les cultures et les gens. Les villageois ont découvert qu'elle craignait trois choses : la couleur rouge, le feu brillant et le bruit fort — alors ils ont accroché des banderoles rouges, allumé des lanternes et fait exploser des pétards pour l'éloigner.",
+      "keyFact": "Cette légende est l'origine populaire des décorations rouges du Nouvel An, des pétards et des enveloppes rouges ; l'étymologie populaire lit même le mot pour célébrer l'année, guònián (过年), comme \"passer/surmonter le Nian.\"",
+      "significance": "L'histoire explicative derrière la fête chinoise la plus recherchée en Occident, et un élément des livres pour enfants et du contenu des festivals.",
+      "misconception": "À considérer comme \"la légende traditionnelle\" plutôt que comme un écrit ancien : les premières mentions écrites de Nian en tant que monstre ne datent que du début du XXe siècle."
+    },
+    "taotie": {
+      "name": "Taotie",
+      "role": "Le glouton · motif de masque de l'âge du bronze",
+      "tagline": "Un monstre si avide qu'il dévore son propre corps — et le visage emblématique de l'âge du bronze chinois.",
+      "overview": "Le taotie a deux identités qui se chevauchent. En tant que motif décoratif, c'est le masque zoomorphe frontal et symétrique — yeux proéminents, cornes, crocs, généralement sans mâchoire inférieure — qui domine les bronzes rituels Shang et Zhou. En tant qu'être mythologique, c'est un monstre glouton, l'un des \"Quatre Fléaux\" (四凶) des textes classiques, si avide qu'on dit qu'il mange son propre corps.",
+      "keyFact": "Les écrivains confucéens l'ont utilisé comme un avertissement moral contre l'avidité et l'excès — l'emblème d'une cupidité insatiable.",
+      "significance": "Une pierre angulaire de l'histoire de l'art chinois, ravivée dans la fantasy moderne (les monstres du film de 2016 La Grande Muraille sont des \"Tao Tie\") et dans les jeux.",
+      "misconception": "Les chercheurs ne s'accordent pas sur ce que le masque en bronze signifiait à l'origine ; la lecture \"glouton\" est un gloss textuel ultérieur et peut être postérieure au design lui-même, donc cela ne devrait pas être déclaré comme un fait établi pour le motif de l'âge du bronze."
+    },
+    "bai-ze": {
+      "name": "Bai Ze",
+      "role": "Bête vertueuse omnisciente",
+      "tagline": "La bête omnisciente qui a catalogué chaque esprit et démon dans le monde.",
+      "overview": "Bai Ze connaît chaque esprit et démon existant — une bête omnisciente et vertueuse, généralement semblable à un lion ou un bœuf avec des yeux et des cornes supplémentaires, qui peut parler la langue humaine et n'apparaît que sous un dirigeant vertueux.",
+      "keyFact": "Lors de sa rencontre avec l'Empereur Jaune, Bai Ze a dicté un catalogue de tous les 11 520 types d'êtres surnaturels — comment reconnaître et éloigner chacun — enregistré sous le nom de Bai Ze Tu (白泽图), un guide précoce d'identification des démons.",
+      "significance": "Utilisé comme un talisman contre les fantômes et les cauchemars, et gagnant en popularité en Occident grâce aux anime et aux jeux sous sa lecture japonaise, Hakutaku.",
+      "misconception": "Connu au Japon sous le nom de Hakutaku (白澤) — les fans rencontrant \"Hakutaku\" rencontrent Bai Ze."
+    },
+    "sun-wukong": {
+      "name": "Sun Wukong",
+      "role": "Le Roi Singe · immortel rebelle",
+      "tagline": "Le Roi Singe né de la pierre qui a pris d'assaut le Ciel — le grand rebelle de la mythologie chinoise.",
+      "overview": "Né d'un œuf de pierre sur la Montagne des Fleurs et des Fruits, Sun Wukong maîtrise la magie taoïste, 72 transformations et le vol en sautant sur les nuages, puis se couronne \"Grand Sage Égal au Ciel\" (齐天大圣). Il est le héros emblématique du roman du 16ème siècle Voyage vers l'Ouest (西游记). Après que le Bouddha l'a coincé sous une montagne pendant 500 ans, il est libéré pour escorter le moine Tang Sanzang vers l'ouest afin de récupérer des écritures bouddhistes, et atteint finalement lui-même l'illumination.",
+      "keyFact": "Son \"Chaos au Ciel\" (大闹天宫) — manger les pêches d'immortalité de la Reine Mère et l'élixir de Laozi, puis combattre toute l'armée céleste — est l'épisode le plus célèbre de la mythologie chinoise. Son arme, le bâton Ruyi Jingu Bang, rétrécit à une aiguille qu'il cache derrière son oreille.",
+      "significance": "Un des personnages les plus adaptés au monde : la série CCTV de 1986 sur laquelle toute une génération a grandi, une inspiration libre pour Goku de Dragon Ball, et le jeu de 2024 Black Myth: Wukong, dont le héros retrace sa légende."
+    },
+    "nezha": {
+      "name": "Nezha",
+      "role": "Dieu-enfant rebelle · \"Troisième Prince\"",
+      "tagline": "Le garçon-dieu renaissant du lotus qui a défié un dragon et a remboursé son propre père en chair.",
+      "overview": "Nezha arrive sous la forme d'une boule de chair après une grossesse de trois ans et demi, troisième fils du général Li Jing ; son histoire complète est racontée dans le roman Ming L'Investiture des Dieux (封神演义). Il tue le fils du Roi Dragon, et pour épargner sa famille de la vengeance du Roi Dragon, il rend sa propre chair et ses os à ses parents — après quoi son maître le ressuscite avec un corps fait de racine de lotus. Il chevauche des Roues de Vent et de Feu et manie l'Anneau de l'Univers et le Sash Rouge Armillaire.",
+      "keyFact": "Son auto-sacrifice — rendre son corps à ses parents pour régler sa propre dette, puis renaître du lotus — est l'acte déterminant d'expiation filiale et de rébellion dans le mythe.",
+      "significance": "Les films d'animation Ne Zha (2019) et Ne Zha 2 (2025) ont provoqué une montée mondiale — Ne Zha 2 est devenu le film d'animation le plus rentable jamais réalisé, le premier à dépasser 2 milliards de dollars.",
+      "misconception": "La lecture courante en mandarin est Nézhā ; vous pouvez voir une ancienne lecture littéraire, Nuózhā, dans des sources académiques."
+    },
+    "guanyin": {
+      "name": "Guanyin",
+      "role": "Bodhisattva de la compassion · \"Déesse de la Miséricorde\"",
+      "tagline": "La bodhisattva qui entend chaque cri de détresse — la figure la plus vénérée du bouddhisme chinois.",
+      "overview": "Le nom Guanyin signifie \"Perceptrice des Sons du Monde\" — celle qui entend tous les cris de détresse. Elle est la forme chinoise du bodhisattva bouddhiste Avalokiteśvara, vénérée pour sa compassion et sa délivrance de la souffrance, et respectée comme la patronne des mères, des marins et des désespérés. Dans Voyage vers l'Ouest, elle est la bodhisattva qui recrute et guide les pèlerins.",
+      "keyFact": "La légende de la Princesse Miaoshan (妙善) : une princesse dévote martyrisée par son père qui atteint l'illumination en tant que Guanyin et renonce à ses propres yeux et bras pour le guérir — l'origine de son iconographie à mille bras.",
+      "significance": "La divinité la plus largement vénérée dans le bouddhisme chinois et la religion populaire, avec des temples à travers le monde chinois.",
+      "misconception": "Avalokiteśvara était à l'origine représenté comme masculin ou de genre neutre en Inde ; en Chine, la figure a progressivement été féminisée et, vers la dynastie Ming, vénérée presque exclusivement comme féminine. Le Kannon japonais et le Gwan-eum coréen sont le même bodhisattva, pas des dieux différents."
+    }
+  },
+  "ui": {
+    "culturalGuide": "Guide Culturel",
+    "chineseMythology": "Mythologie Chinoise",
+    "heroBlurb": "Les dieux, héros et créatures mythiques derrière les légendes — du Roi Singe au renard à neuf queues, expliqués avec précision (les dragons chinois ne ressemblent en rien aux dragons occidentaux).",
+    "godsCount": "Dieux & Héros",
+    "creaturesCount": "Créatures & Bêtes",
+    "godsSectionTitle": "Dieux & Figures Légendaires",
+    "godsSectionSub": "Les divinités, héros et rebelles de la mythologie chinoise et de la religion populaire.",
+    "creaturesSectionTitle": "Créatures Mythiques & Bêtes",
+    "creaturesSectionSub": "Les dragons, oiseaux, esprits et gardiens — et ce qu'ils symbolisent réellement.",
+    "readMore": "Lire la suite",
+    "keepExploring": "Continuez à explorer",
+    "games": "Jeux",
+    "gamesDesc": "Mythologie dans les jeux",
+    "zodiac": "Zodiaque",
+    "zodiacDesc": "Les 12 signes",
+    "dramas": "Dramas",
+    "dramasDesc": "C-dramas & idiomes",
+    "blog": "Blog",
+    "privacyPolicy": "Politique de Confidentialité",
+    "allMythology": "Toute la mythologie chinoise",
+    "role": "Rôle",
+    "whoIs": "Qui est {name}",
+    "definingMyth": "Le mythe déterminant",
+    "whatItSymbolizes": "Ce qu'il symbolise",
+    "commonMisconception": "Idée reçue commune",
+    "whereYoullMeet": "Où vous rencontrerez {name}",
+    "gamesCta": "{name} dans les jeux de mythologie chinoise",
+    "relatedFigures": "Figures associées",
+    "theChineseZodiac": "Le zodiaque chinois",
+    "godLabel": "Dieu / Figure Légendaire",
+    "creatureLabel": "Créature Mythique"
+  }
+}

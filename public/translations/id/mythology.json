@@ -1,0 +1,220 @@
+{
+  "figures": {
+    "jade-emperor": {
+      "name": "Jade Emperor",
+      "role": "Penguasa tertinggi Surga",
+      "tagline": "Kaisar Surga yang mengelola kosmos seperti birokrasi kekaisaran.",
+      "overview": "Surga, dalam agama rakyat Tiongkok dan Daoisme, dikelola seperti Tiongkok kekaisaran — sebuah administrasi surgawi dari kementerian, catatan, dan dewa, dan di puncaknya duduk Jade Emperor. Ia paling dikenal melalui Perjalanan ke Barat, di mana ia memimpin pengadilan dan mengirimkan pasukan demi pasukan untuk menaklukkan Sun Wukong yang mengamuk.",
+      "keyFact": "Sebuah penjelasan rakyat untuk zodiak Tiongkok menyebutnya sebagai pengatur Perlombaan Besar yang menetapkan urutan dua belas hewan.",
+      "significance": "Pusat dari Tahun Baru Tiongkok — ulang tahunnya jatuh pada hari ke-9 bulan lunar pertama, dan Dewa Dapur melaporkan perilaku setiap rumah tangga kepadanya setiap tahun.",
+      "misconception": "Dalam teologi Daois formal, ia sebenarnya berada di bawah Tiga Yang Murni (三清), bukan sebagai dewa tertinggi mutlak — sebuah nuansa yang cenderung diratakan dalam cerita populer."
+    },
+    "nuwa": {
+      "name": "Nüwa",
+      "role": "Dewi pencipta · ibu umat manusia",
+      "tagline": "Dewi bertubuh ular yang membentuk manusia dari tanah liat dan memperbaiki langit yang rusak.",
+      "overview": "Dengan tubuh atas wanita dan tubuh bawah ular, Nüwa adalah dewi ibu primordialis dalam mitologi Tiongkok. Dalam cerita yang paling dikenal, ia menciptakan manusia dari tanah liat kuning, membentuk yang pertama dengan tangan dan kemudian melemparkan tetesan lumpur dari sebuah tali untuk membuat sisanya. Ia sering dipasangkan dengan Fuxi, keduanya ditampilkan dengan ekor yang saling melilit memegang kompas dan segitiga pengukur.",
+      "keyFact": "Memperbaiki Surga: setelah dewa air Gonggong merobek langit, Nüwa mencairkan batu-batu berwarna lima untuk memperbaikinya dan menopang empat sudut dengan kaki kura-kura raksasa.",
+      "significance": "Sebuah sosok pencipta yang mendasar; batu sisa yang tidak ia gunakan membuka novel klasik Mimpi Kamar Merah."
+    },
+    "change": {
+      "name": "Chang'e",
+      "role": "Dewi Bulan",
+      "tagline": "Dewi yang melayang ke Bulan — dan alasan keluarga berkumpul di Pertengahan Musim Gugur.",
+      "overview": "Tinggi di Istana Bulan, hanya dengan Kelinci Giok sebagai teman, tinggal Chang'e, dewi Bulan. Istri pemanah Houyi, ia akhirnya meminum eliksir keabadian dan melayang ke Bulan, selamanya terpisah dari suaminya.",
+      "keyFact": "Ada dua versi kanonik yang ada dan tidak boleh dicampur: dalam cerita yang simpatik, ia menelan eliksir untuk mencegah pencuri mencurinya saat Houyi pergi; dalam versi yang lebih tua dan lebih keras, ia mengambilnya secara egois.",
+      "significance": "Legenda nya adalah inti dari Festival Pertengahan Musim Gugur (中秋节) — kue bulan dan pengamatan bulan — dan ia adalah nama dari program lunar Tiongkok Chang'e."
+    },
+    "pangu": {
+      "name": "Pangu",
+      "role": "Makhluk pencipta primordial",
+      "tagline": "Raksasa yang memecahkan telur kosmik dan menjadi dunia.",
+      "overview": "Dari kekacauan, selama 18.000 tahun, sebuah telur kosmik terbentuk — dan Pangu, makhluk hidup pertama, menetas darinya. Ia memecahkan telur, yin keruh tenggelam untuk membentuk Bumi dan yang jernih naik untuk membentuk langit, kemudian berdiri di antara keduanya dan tumbuh setiap hari selama 18.000 tahun lagi untuk memisahkan mereka. Ketika ia mati, tubuhnya menjadi dunia: napasnya angin, matanya matahari dan bulan, darahnya sungai.",
+      "keyFact": "Versi tertulis paling awal dikaitkan dengan penulis abad ke-3 Xu Zheng, menjadikan mitos penciptaan terkenal ini relatif terlambat dalam catatan tekstual.",
+      "significance": "Mitos penciptaan kanonik Tiongkok dan titik acuan standar ketika membandingkan kosmogoni Tiongkok dengan tradisi dunia lainnya."
+    },
+    "guan-yu": {
+      "name": "Guan Yu",
+      "role": "Jenderal yang didewakan · dewa perang & kesetiaan",
+      "tagline": "Seorang jenderal nyata dari Tiga Kerajaan yang menjadi salah satu dewa yang paling disembah di Tiongkok.",
+      "overview": "Sendirian di antara tokoh-tokoh di sini, Guan Yu dimulai sebagai manusia daging dan darah — seorang jenderal di bawah panglima perang Liu Bei pada akhir Dinasti Han dan periode Tiga Kerajaan, yang meninggal pada tahun 220 M dan secara progresif didewakan menjadi dewa perang, kesetiaan, dan, kemudian, kekayaan. Citra mitosnya berasal terutama dari novel abad ke-14 Romance of the Three Kingdoms, yang memperkuat kesetiaan dan kebajikan militernya.",
+      "keyFact": "Sumpah Taman Persik — persaudaraan yang diucapkan dengan Liu Bei dan Zhang Fei — dan penolakannya untuk mengkhianati Liu Bei bahkan ketika dihormati secara kaya oleh saingan Cao Cao menjadikannya arketipe kesetiaan (义).",
+      "significance": "Dengan wajah merah, janggut panjang, dan memegang Pedang Sabit Naga Hijau, \"Tuan Guan\" berdiri di kuil, toko, restoran, dan kantor polisi di seluruh dunia Tiongkok sebagai pelindung kesetiaan dan keberuntungan.",
+      "misconception": "Tidak seperti tokoh-tokoh mitos murni di sini, Guan Yu adalah orang sejarah yang kemudian diubah menjadi dewa — dihormati di seluruh Konfusianisme, Daoisme, dan Buddhisme."
+    },
+    "erlang-shen": {
+      "name": "Erlang Shen",
+      "role": "Dewa pejuang bermata tiga · penakluk iblis",
+      "tagline": "Dewa bermata tiga yang mata kebenarannya menembus setiap penyamaran.",
+      "overview": "Mata ketiga, yang melihat kebenaran di tengah dahinya menandai Erlang Shen, dewa pejuang yang digambarkan sebagai pemuda tampan dengan glaive bermata dua yang bercabang tiga dan Anjing Surgawi Menggeram yang setia di sisinya. Dalam tradisi selanjutnya, ia diidentifikasi sebagai Yang Jian, keponakan Kaisar Giok. Mata ketiga itu melihat melalui setiap penyamaran atau transformasi.",
+      "keyFact": "Dalam Perjalanan ke Barat, ia dikirim untuk menangkap Sun Wukong dan bertarung dengannya hingga terhenti — matanya yang surgawi menangkap setiap bentuk yang diambil Wukong.",
+      "significance": "Dengan cepat meningkat dalam kesadaran Barat sebagai bos rahasia (\"Dewa Suci\") dalam Black Myth: Wukong."
+    },
+    "pixiu": {
+      "name": "Pixiu",
+      "role": "Makhluk penjaga pengundang kekayaan",
+      "tagline": "Makhluk bersayap yang memakan emas dan tidak pernah bisa mengeluarkannya — pengundang kekayaan feng shui.",
+      "overview": "Pixiu hanya memakan emas, perak, dan permata — dan, karena keanehan legenda, tidak pernah bisa mengeluarkannya lagi. Sebuah makhluk bersayap yang mirip singa dengan kepala naga dan mulut bertaring, dikatakan sebagai anak Raja Naga yang pernah buang air di Surga, yang menyebabkan Kaisar Giok menyegel bagian belakangnya.",
+      "keyFact": "Legenda bagian belakang yang tersegel itulah yang menjadikannya jimat kekayaan feng shui utama: ia menarik uang masuk dan menahannya.",
+      "significance": "Salah satu barang feng shui yang paling dicari di Barat — dijual sebagai gelang, cincin, dan patung obsidian. Mulutnya harus menghadap ke luar untuk \"memakan\" kekayaan yang masuk, dan tidak boleh menghadap pemiliknya secara langsung atau diletakkan di kamar tidur.",
+      "misconception": "Berbeda dari anjing penjaga singa (\"anjing foo,\" 石狮) — Pixiu secara khusus adalah makhluk kekayaan, bukan penjaga pintu."
+    },
+    "four-symbols": {
+      "name": "Empat Simbol",
+      "role": "Empat makhluk penjaga arah",
+      "tagline": "Empat makhluk surgawi yang menjaga arah, musim, dan elemen.",
+      "overview": "Empat penjaga astral membagi langit malam, masing-masing menguasai satu arah, musim, dan elemen: Naga Azure (青龙, Timur/Panjang/Wood), Burung Vermilion (朱雀, Selatan/Musim Panas/Api), Harimau Putih (白虎, Barat/Musim Gugur/Logam), dan Kura-kura Hitam, atau Xuanwu (玄武, Utara/Musim Dingin/Air). Bersama-sama mereka menyusun astrologi Tiongkok, feng shui, dan kosmologi Daois.",
+      "keyFact": "Tanah feng shui yang ideal menempatkan keempat penjaga di arah yang tepat; Xuanwu, kura-kura dan ular dari utara, kemudian menjadi dewa Daois utama.",
+      "significance": "Dikenal luas melalui media Jepang sebagai Seiryu, Suzaku, Byakko, dan Genbu — Harimau Putih dan Naga Azure terutama populer sebagai subjek tato.",
+      "misconception": "Burung Vermilion (朱雀) adalah penjaga api dan selatan, makhluk yang berbeda dari phoenix-empress Fenghuang (凤凰) — kesalahan umum."
+    },
+    "jiangshi": {
+      "name": "Jiangshi",
+      "role": "Mayat melompat · \"vampir\" Tiongkok",
+      "tagline": "Mayat kaku yang melompat dan menguras energi hidupmu — bukan darahmu.",
+      "overview": "Kaku mayat mengencangkan anggota tubuhnya, sehingga jiangshi (\"mayat kaku\") melompat dengan lengan terentang — tubuh yang dihidupkan kembali yang bangkit untuk menguras qi, atau kekuatan hidup, dari yang hidup. Biasanya mengenakan jubah pejabat dinasti Qing, dan jimat kertas Daois yang ditempelkan di dahi dapat membekukannya di tempat.",
+      "keyFact": "Cerita rakyat sering ditelusuri ke Xiangxi \"mengangkut mayat\" (赶尸) — mengangkut orang mati pulang dengan terikat tegak pada tiang bambu, yang memberikan kesan menyeramkan dari tubuh yang melompat.",
+      "significance": "Didefinisikan oleh komedi horor Hong Kong tahun 1980-an — film Mr. Vampire membentuk citra modernnya — dan sosok yang sering muncul dalam permainan dan budaya Halloween.",
+      "misconception": "Meskipun label \"vampir\", ia mengonsumsi qi (bukan darah), melompat kaku (bukan menggoda), dan jauh lebih dekat dengan zombie atau revenant daripada tipe Dracula."
+    },
+    "nian": {
+      "name": "Nian",
+      "role": "Binatang Tahun Baru (年兽)",
+      "tagline": "Binatang yang ketakutan terhadap merah dan petasan memberi kita kebiasaan Tahun Baru Cina.",
+      "overview": "Setahun sekali, pada Malam Tahun Baru, binatang yang disebut Nian (sebagai monster Tahun Baru, 年兽 niánshòu) muncul dari laut atau gunung untuk melahap ternak, tanaman, dan manusia. Penduduk desa menemukan bahwa ia takut pada tiga hal — warna merah, api yang terang, dan suara keras — sehingga mereka menggantung spanduk merah, menyalakan lentera, dan menyalakan petasan untuk mengusirnya.",
+      "keyFact": "Legenda ini adalah asal-usul rakyat dari dekorasi merah Tahun Baru, petasan, dan amplop merah; etimologi rakyat bahkan membaca kata untuk merayakan tahun, guònián (过年), sebagai \"melewati/mengatasi Nian.\"",
+      "significance": "Cerita penjelasan di balik liburan Cina yang paling banyak dicari di Barat, dan menjadi bagian dari buku anak-anak dan konten festival.",
+      "misconception": "Anggaplah sebagai \"legenda tradisional\" daripada kitab kuno: catatan tertulis Nian sebagai monster hanya berasal dari awal abad ke-20."
+    },
+    "taotie": {
+      "name": "Taotie",
+      "role": "Si rakus · motif topeng zaman perunggu",
+      "tagline": "Monster yang begitu serakah sehingga melahap tubuhnya sendiri — dan wajah khas zaman perunggu Cina.",
+      "overview": "Taotie memiliki dua identitas yang tumpang tindih. Sebagai motif dekoratif, ia adalah topeng zoomorfik simetris yang frontal — mata menonjol, tanduk, taring, biasanya tanpa rahang bawah — yang mendominasi perunggu ritual Shang dan Zhou. Sebagai makhluk mitologis, ia adalah monster rakus, salah satu dari \"Empat Bahaya\" (四凶) dalam teks klasik, begitu serakah sehingga dikatakan memakan tubuhnya sendiri.",
+      "keyFact": "Penulis Konfusianisme menggunakannya sebagai peringatan moral terhadap keserakahan dan kelebihan — lambang keserakahan yang tak terpuaskan.",
+      "significance": "Sebuah batu penjuru sejarah seni Cina, dihidupkan kembali dalam fantasi modern (monster dalam film 2016 The Great Wall adalah \"Tao Tie\") dan dalam permainan.",
+      "misconception": "Para sarjana tidak setuju tentang apa arti awal topeng perunggu; pembacaan \"rakus\" adalah gloss tekstual yang lebih baru dan mungkin muncul setelah desain itu sendiri, sehingga tidak seharusnya dinyatakan sebagai fakta yang pasti untuk motif Zaman Perunggu."
+    },
+    "bai-ze": {
+      "name": "Bai Ze",
+      "role": "Binatang berbudi pekerti yang maha tahu",
+      "tagline": "Binatang yang maha tahu yang mengkatalogkan setiap roh dan iblis di dunia.",
+      "overview": "Bai Ze mengetahui setiap roh dan iblis yang ada — binatang berbudi pekerti yang maha tahu, umumnya mirip singa atau sapi dengan mata dan tanduk tambahan, yang dapat berbicara dalam bahasa manusia dan hanya muncul di bawah penguasa yang berbudi pekerti.",
+      "keyFact": "Bertemu dengan Kaisar Kuning, Bai Ze mendiktekan katalog dari semua 11.520 jenis makhluk supernatural — bagaimana mengenali dan mengusir masing-masing — dicatat sebagai Bai Ze Tu (白泽图), panduan identifikasi iblis awal.",
+      "significance": "Digunakan sebagai jimat melawan hantu dan mimpi buruk, dan semakin dikenal di Barat melalui anime dan permainan dengan pembacaan Jepang-nya, Hakutaku.",
+      "misconception": "Dikenal di Jepang sebagai Hakutaku (白澤) — penggemar yang bertemu \"Hakutaku\" sedang bertemu Bai Ze."
+    },
+    "dragon-king": {
+      "name": "Raja Naga",
+      "role": "Dewa air & cuaca · penguasa lautan",
+      "tagline": "Dewa naga pembawa hujan dari lautan — teman petani, musuh pahlawan.",
+      "overview": "Dari Istana Kristal di bawah laut, Raja Naga menguasai air dan cuaca, dewa naga yang dapat berubah bentuk dan mengambil wujud manusia. Ada empat darinya, satu untuk setiap laut dan arah — Ao Guang dari Laut Timur yang paling menonjol — dan sebagai pembawa hujan, mereka dimohon oleh petani setiap kali kekeringan melanda.",
+      "keyFact": "Ia bertentangan dengan pahlawan dalam novel-novel besar: Sun Wukong memaksa Ao Guang untuk menyerahkan tongkat emas, dan Nezha membunuh putranya Ao Bing — memicu kemarahannya.",
+      "significance": "Ditemukan di kuil-kuil dekat air dan dalam tradisi Perahu Naga serta doa hujan, dan sebagai antagonis tokoh otoritas yang berulang dalam film Nezha dan Raja Monyet.",
+      "misconception": "\"Raja Naga\" biasanya berarti institusi kolektif dari empat; ketika satu yang dimaksud, biasanya adalah Ao Guang dari Laut Timur."
+    },
+    "zhong-kui": {
+      "name": "Zhong Kui",
+      "role": "Penakluk iblis · Raja Hantu",
+      "tagline": "Cendekiawan yang gagal yang mengakhiri hidupnya — dan menjadi pemburu iblis di dunia bawah.",
+      "overview": "Zhong Kui menduduki ujian kekaisaran, kemudian dicopot dari peringkat pertama yang seharusnya karena kaisar menganggapnya terlalu jelek. Terhina, ia mengakhiri hidupnya di gerbang istana — dan dalam kematian menjadi Raja Hantu, seorang pemburu dan hakim roh jahat, wajahnya yang menakutkan berbalik melawan iblis yang menakut-nakuti orang hidup.",
+      "keyFact": "Legenda asal: Kaisar Xuanzong dari Tang bermimpi tentang Zhong Kui yang melahap iblis pencuri dan terbangun sembuh dari penyakit. Ia meminta pelukis Wu Daozi untuk menangkap visi tersebut, dan potret Zhong Kui menjadi jimat Tahun Baru yang digantung di pintu untuk mengusir kejahatan.",
+      "significance": "Sebuah elemen seni penjaga pintu dan tradisi Tahun Baru — serta karakter utama dari permainan yang akan datang Black Myth: Zhong Kui."
+    },
+    "dragon": {
+      "name": "Naga Cina",
+      "role": "Dewa air surgawi · makhluk menguntungkan",
+      "tagline": "Pembawa hujan yang baik hati, tanpa sayap — kebalikan dari naga Barat.",
+      "overview": "Tidak seperti makhluk penyembur api dari Barat, naga Cina (lóng) adalah pembawa air ilahi — hujan, sungai, lautan, banjir — dan, melalui air, panen dan kemakmuran. Sebuah komposit dari sembilan hewan, ia memiliki tubuh panjang seperti ular, tanduk seperti rusa, kumis, dan cakar elang, serta terbang tanpa sayap. Ia mencerminkan energi yang dan otoritas kekaisaran: kaisar disebut \"anak naga.\"",
+      "keyFact": "Jumlah cakar pernah menandakan pangkat — lima cakar diperuntukkan bagi kaisar, empat untuk bangsawan, tiga untuk rakyat biasa.",
+      "significance": "Motif tato Cina yang mendefinisikan, pusat dari tarian naga Tahun Baru Imlek dan perlombaan perahu naga, serta akar dari frasa \"keturunan naga\" sebagai penanda identitas Cina.",
+      "misconception": "Secara fundamental berbeda dari naga Barat: ia baik hati, tanpa sayap, berbentuk ular, dan terkait dengan air dan keberuntungan — bukan makhluk jahat, penimbun, penyembur api yang harus dibunuh. Beberapa sekarang meromanisasinya sebagai \"loong\" untuk mematahkan kesetaraan yang salah."
+    },
+    "fenghuang": {
+      "name": "Fenghuang",
+      "role": "burung phoenix Tiongkok · burung surgawi yang menguntungkan",
+      "tagline": "\"Phoenix Tiongkok\" — burung perdamaian dan kebajikan, bukan kelahiran kembali yang menyala.",
+      "overview": "Penguasa semua burung, fenghuang hanya muncul ketika seorang penguasa yang adil memerintah dan menarik diri di saat kekacauan — pertanda hidup perdamaian, kebajikan, dan harmoni kosmik. Burung komposit dalam lima warna seremonial, awalnya menggabungkan jantan 凤 (fèng) dan betina 凰 (huáng); pasangan itu kemudian bergabung menjadi simbol feminin tunggal, permaisuri dari kaisar naga.",
+      "keyFact": "Dipadukan dengan naga, ini adalah salah satu motif pernikahan Tiongkok yang paling umum — naga dan phoenix mewakili suami dan istri dalam keseimbangan sempurna.",
+      "significance": "Desain tato, perhiasan, dan pernikahan yang umum, serta sosok yang sering muncul dalam film dan animasi.",
+      "misconception": "Jangan samakan dengan phoenix Yunani/Mesir yang terbakar dan bangkit kembali dari abu. Sumber klasik Tiongkok tidak memberikan fenghuang siklus kematian dan kelahiran kembali — asosiasi itu adalah tambahan modern. Makna intinya adalah pertanda baik dan harmoni."
+    },
+    "qilin": {
+      "name": "Qilin",
+      "role": "hewan pertanda baik · \"unicorn Tiongkok\"",
+      "tagline": "Chimera lembut yang kedatangannya menandakan seorang bijak — dan asal kata \"kirin.\"",
+      "overview": "Cukup lembut, legenda mengatakan, untuk berjalan tanpa menghancurkan sehelai rumput atau merugikan serangga, qilin adalah hewan pertanda baik meskipun penampilannya yang mengerikan — tubuh rusa, ekor sapi, kuku, kulit bersisik seperti naga, dan satu atau dua tanduk. Kehadirannya menandai kelahiran atau kematian seorang bijak; tradisi menghubungkannya dengan Konfusius. Ia hanya menghukum yang jahat.",
+      "keyFact": "Ketika armada Zheng He pada abad ke-15 membawa kembali seekor jerapah, itu dipuji sebagai qilin hidup — itulah sebabnya kata Jepang modern untuk jerapah, \"kirin,\" menggunakan karakter yang sama (麒麟).",
+      "significance": "Patung feng shui yang umum untuk perlindungan dan kesuburan (sering ditempatkan berpasangan), dan sosok yang akrab dalam permainan dengan pembacaan Jepang-nya, \"kirin.\"",
+      "misconception": "Julukan \"unicorn Tiongkok\" agak longgar — qilin biasanya memiliki dua tanduk, bukan satu. Kirin Jepang dan girin Korea berasal langsung darinya."
+    },
+    "nine-tailed-fox": {
+      "name": "Rubah Ekor Sembilan",
+      "role": "roh rubah yang dapat berubah bentuk (húlijīng)",
+      "tagline": "Pertanda baik dalam satu teks, penggoda yang menguras kehidupan dalam teks lainnya.",
+      "overview": "Rubah ekor sembilan, atau roh rubah (húlijīng, 狐狸精), memiliki ambivalensi moral dalam tradisi Tiongkok — pertanda baik dalam teks awal seperti Klasik Gunung dan Laut, penggoda yang menghabiskan dalam teks lainnya. Seekor rubah mendapatkan kekuatan dan ekor tambahan seiring bertambahnya usia, hingga sembilan pada potensi penuhnya, dan dapat berubah menjadi manusia yang cantik — dalam bentuk yang didemonisasi menguras esensi kehidupan yang positif dari pasangannya.",
+      "keyFact": "Contoh jahat arketipal adalah Daji, permaisuri yang dikuasai rubah yang disalahkan atas jatuhnya dinasti Shang dalam Penobatan Para Dewa.",
+      "significance": "Di mana-mana dalam drama C modern, novel xianxia, permainan, dan tato; \"húlijīng\" masih merupakan penghinaan yang hidup yang berarti penggoda perusak rumah tangga.",
+      "misconception": "Jangan samakan tiga tradisi: húlijīng Tiongkok memiliki moral campuran; kitsune Jepang adalah yang paling baik dan ilahi (terkait dengan dewa Inari); gumiho Korea hampir selalu jahat."
+    },
+    "sun-wukong": {
+      "name": "Sun Wukong",
+      "role": "Raja Monyet · abadi pemberontak",
+      "tagline": "Raja Monyet yang lahir dari batu yang mengamuk di Surga — pemberontak besar dalam mitologi Tiongkok.",
+      "overview": "Lahir dari telur batu di Gunung Bunga-Buah, Sun Wukong menguasai sihir Daois, 72 transformasi, dan penerbangan somersault awan, kemudian menyebut dirinya \"Sage Agung Setara dengan Surga\" (齐天大圣). Ia adalah pahlawan terobosan dari novel abad ke-16 Perjalanan ke Barat (西游记). Setelah Buddha menjepitnya di bawah gunung selama 500 tahun, ia dibebaskan untuk mengawal biksu Tang Sanzang ke barat untuk mengambil kitab suci Buddha, dan akhirnya mencapai pencerahan Buddha sendiri.",
+      "keyFact": "\"Kekacauan di Surga\" (大闹天宫) — memakan buah persik keabadian Ratu Ibu dan eliksir Laozi, kemudian melawan seluruh tentara surgawi — adalah episode paling terkenal dalam mitologi Tiongkok. Senjatanya, tongkat Ruyi Jingu Bang, menyusut menjadi jarum yang ia sembunyikan di belakang telinganya.",
+      "significance": "Salah satu karakter yang paling banyak diadaptasi di bumi: serial CCTV 1986 yang ditonton seluruh generasi, inspirasi longgar untuk Goku di Dragon Ball, dan permainan 2024 Black Myth: Wukong, yang pahlawannya mengikuti jejak legendarisnya."
+    },
+    "nezha": {
+      "name": "Nezha",
+      "role": "Dewa anak pemberontak · \"Putra Ketiga\"",
+      "tagline": "Dewa anak yang lahir kembali dari teratai yang menantang seekor naga dan membalas ayahnya dengan daging.",
+      "overview": "Nezha muncul sebagai bola daging setelah kehamilan selama tiga setengah tahun, putra ketiga dari jenderal Li Jing; cerita terlengkapnya diceritakan dalam novel Ming Penobatan Para Dewa (封神演义). Ia membunuh putra Raja Naga, dan untuk menyelamatkan keluarganya dari balas dendam Raja Naga, ia mengembalikan daging dan tulangnya kepada orang tuanya — setelah itu, gurunya menghidupkannya kembali dengan tubuh yang terbuat dari umbi teratai. Ia mengendarai Roda Angin-Kebakaran dan mengayunkan Cincin Semesta dan Syal Armil Merah.",
+      "keyFact": "Pengorbanan dirinya — mengembalikan tubuhnya kepada orang tuanya untuk menyelesaikan utangnya sendiri, kemudian terlahir kembali dari teratai — adalah tindakan penebusan dan pemberontakan filal yang mendefinisikan dalam mitos.",
+      "significance": "Film animasi Ne Zha (2019) dan Ne Zha 2 (2025) mendorong lonjakan global — Ne Zha 2 menjadi film animasi dengan pendapatan tertinggi yang pernah dibuat, yang pertama melewati $2 miliar.",
+      "misconception": "Bacaan Mandarin yang umum adalah Nézhā; Anda mungkin melihat bacaan sastra yang lebih tua, Nuózhā, dalam sumber-sumber akademis."
+    },
+    "guanyin": {
+      "name": "Guanyin",
+      "role": "Bodhisattva belas kasih · \"Dewi Belas Kasihan\"",
+      "tagline": "Bodhisattva yang mendengar setiap jeritan minta tolong — sosok yang paling dihormati dalam Buddhisme Tiongkok.",
+      "overview": "Nama Guanyin berarti \"Pendengar Suara Dunia\" — yang mendengar semua jeritan minta tolong. Ia adalah bentuk Tiongkok dari bodhisattva Buddha Avalokiteśvara, dipuja karena belas kasih dan pembebasan dari penderitaan, dan dihormati sebagai pelindung ibu, pelaut, dan yang putus asa. Dalam Perjalanan ke Barat, ia adalah bodhisattva yang merekrut dan membimbing para peziarah.",
+      "keyFact": "Legenda Putri Miaoshan (妙善): seorang putri yang taat yang dimartir oleh ayahnya yang mencapai pencerahan sebagai Guanyin dan menyerahkan mata dan tangannya sendiri untuk menyembuhkannya — asal mula ikonografi seribu tangan.",
+      "significance": "Dewa yang paling banyak dipuja dalam Buddhisme Tiongkok dan agama rakyat, dengan kuil di seluruh dunia Tiongkok.",
+      "misconception": "Avalokiteśvara awalnya digambarkan sebagai laki-laki atau netral gender di India; di Tiongkok, sosok ini secara bertahap difeminisasi dan, sekitar dinasti Ming, dipuja secara luar biasa sebagai perempuan. Kannon Jepang dan Gwan-eum Korea adalah bodhisattva yang sama, bukan dewa yang berbeda."
+    }
+  },
+  "ui": {
+    "culturalGuide": "Panduan Budaya",
+    "chineseMythology": "Mitologi Tiongkok",
+    "heroBlurb": "Para dewa, pahlawan, dan makhluk mitos di balik legenda — dari Raja Kera hingga rubah berekor sembilan, dijelaskan dengan akurat (naga Tiongkok tidak sama dengan naga Barat).",
+    "godsCount": "Dewa & Pahlawan",
+    "creaturesCount": "Makhluk & Binatang",
+    "godsSectionTitle": "Dewa & Tokoh Legendaris",
+    "godsSectionSub": "Para dewa, pahlawan, dan pemberontak dalam mitologi Tiongkok dan agama rakyat.",
+    "creaturesSectionTitle": "Makhluk Mitologis & Binatang",
+    "creaturesSectionSub": "Naga, burung, roh, dan penjaga — serta apa yang sebenarnya mereka simbolkan.",
+    "readMore": "Baca lebih lanjut",
+    "keepExploring": "Terus menjelajah",
+    "games": "Permainan",
+    "gamesDesc": "Mitologi dalam permainan",
+    "zodiac": "Zodiak",
+    "zodiacDesc": "12 tanda",
+    "dramas": "Drama",
+    "dramasDesc": "C-drama & idiom",
+    "blog": "Blog",
+    "privacyPolicy": "Kebijakan Privasi",
+    "allMythology": "Semua mitologi Tiongkok",
+    "role": "Peran",
+    "whoIs": "Siapa {name}",
+    "definingMyth": "Mitos yang menentukan",
+    "whatItSymbolizes": "Apa yang disimbolkan",
+    "commonMisconception": "Kesalahpahaman umum",
+    "whereYoullMeet": "Di mana Anda akan bertemu {name}",
+    "gamesCta": "{name} dalam permainan mitologi Tiongkok",
+    "relatedFigures": "Tokoh terkait",
+    "theChineseZodiac": "Zodiak Tiongkok",
+    "godLabel": "Dewa / Tokoh Legendaris",
+    "creatureLabel": "Makhluk Mitologis"
+  }
+}

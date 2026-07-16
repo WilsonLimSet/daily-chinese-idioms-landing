@@ -14,6 +14,7 @@ import { getAllSbtiTypesEn, getAllSbtiTypes, typeCodeToSlug } from '@/src/lib/sb
 import { getAllDramaSeries } from '@/src/lib/dramas';
 import { getAllGameSeries } from '@/src/lib/games';
 import { getAllSigns } from '@/src/lib/zodiac';
+import { getAllFigures } from '@/src/lib/mythology';
 
 const THEME_SLUGS = [
   'life-philosophy',
@@ -129,6 +130,18 @@ export default async function sitemap(props: {
       },
       ...getAllSigns().map(s => ({
         url: `${baseUrl}/zodiac/${s.slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly' as const,
+        priority: 0.8,
+      })),
+      {
+        url: `${baseUrl}/mythology`,
+        lastModified: new Date(),
+        changeFrequency: 'weekly',
+        priority: 0.85,
+      },
+      ...getAllFigures().map(f => ({
+        url: `${baseUrl}/mythology/${f.slug}`,
         lastModified: new Date(),
         changeFrequency: 'monthly' as const,
         priority: 0.8,
@@ -395,6 +408,12 @@ export default async function sitemap(props: {
   entries.push({ url: `${baseUrl}/${lang}/zodiac/what-is-my-sign`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
   for (const s of getAllSigns()) {
     entries.push({ url: `${baseUrl}/${lang}/zodiac/${s.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
+  }
+
+  // Language Chinese Mythology hub + figure pages
+  entries.push({ url: `${baseUrl}/${lang}/mythology`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 });
+  for (const f of getAllFigures()) {
+    entries.push({ url: `${baseUrl}/${lang}/mythology/${f.slug}`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 });
   }
 
   // Language blog posts
