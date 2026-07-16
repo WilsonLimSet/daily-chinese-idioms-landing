@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllSigns } from '@/src/lib/zodiac';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -31,7 +30,16 @@ export function generateMetadata(): Metadata {
     },
     alternates: {
       canonical: 'https://www.chineseidioms.com/zodiac/what-is-my-sign',
-      languages: { 'x-default': '/zodiac/what-is-my-sign', en: '/zodiac/what-is-my-sign' },
+      languages: {
+        'x-default': '/zodiac/what-is-my-sign',
+        en: '/zodiac/what-is-my-sign',
+        es: '/es/zodiac/what-is-my-sign',
+        id: '/id/zodiac/what-is-my-sign',
+        ja: '/ja/zodiac/what-is-my-sign',
+        ko: '/ko/zodiac/what-is-my-sign',
+        fr: '/fr/zodiac/what-is-my-sign',
+        de: '/de/zodiac/what-is-my-sign',
+      },
     },
   };
 }
@@ -83,12 +91,8 @@ export default function WhatIsMySignPage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id="zodiac-finder-breadcrumb" type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(breadcrumb)}
-      </Script>
-      <Script id="zodiac-finder-faq" type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(faq)}
-      </Script>
+      <script id="zodiac-finder-breadcrumb" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <script id="zodiac-finder-faq" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faq) }} />
 
       {/* Hero */}
       <section className="relative overflow-hidden bg-gray-950 text-white">

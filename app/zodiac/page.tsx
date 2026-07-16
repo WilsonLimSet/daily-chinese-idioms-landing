@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { ArrowLeft, ChevronRight, Sparkles, Heart } from 'lucide-react';
 import { getAllSigns, getSignForYear } from '@/src/lib/zodiac';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -34,7 +33,16 @@ export function generateMetadata(): Metadata {
     },
     alternates: {
       canonical: 'https://www.chineseidioms.com/zodiac',
-      languages: { 'x-default': '/zodiac', en: '/zodiac' },
+      languages: {
+        'x-default': '/zodiac',
+        en: '/zodiac',
+        es: '/es/zodiac',
+        id: '/id/zodiac',
+        ja: '/ja/zodiac',
+        ko: '/ko/zodiac',
+        fr: '/fr/zodiac',
+        de: '/de/zodiac',
+      },
     },
   };
 }
@@ -106,9 +114,7 @@ export default function ZodiacPage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id="zodiac-hub-ld" type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(structuredData)}
-      </Script>
+      <script id="zodiac-hub-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 
       {/* Hero */}
       <section className="relative overflow-hidden bg-gray-950 text-white">
@@ -214,6 +220,13 @@ export default function ZodiacPage() {
                 <div>
                   <p className="text-xs font-semibold uppercase tracking-[0.15em] text-red-500">Idioms</p>
                   <p className="mt-1 font-semibold text-gray-900">1,001 chengyu</p>
+                </div>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
+              </Link>
+              <Link href="/mythology" className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm">
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-[0.15em] text-red-500">Mythology</p>
+                  <p className="mt-1 font-semibold text-gray-900">Gods &amp; creatures</p>
                 </div>
                 <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
               </Link>

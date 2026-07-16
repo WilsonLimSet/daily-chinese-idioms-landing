@@ -364,6 +364,30 @@ export default function DramasPage() {
                 </div>
                 <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
               </Link>
+              <Link
+                href="/mythology"
+                className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm"
+              >
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-[0.15em] text-red-500">
+                    Mythology
+                  </p>
+                  <p className="mt-1 font-semibold text-gray-900">Gods &amp; creatures</p>
+                </div>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
+              </Link>
+              <Link
+                href="/zodiac"
+                className="group flex items-center justify-between rounded-lg border border-gray-200 bg-white px-5 py-4 transition hover:border-red-200 hover:shadow-sm"
+              >
+                <div>
+                  <p className="text-xs font-semibold uppercase tracking-[0.15em] text-red-500">
+                    Zodiac
+                  </p>
+                  <p className="mt-1 font-semibold text-gray-900">The 12 signs</p>
+                </div>
+                <ChevronRight className="h-4 w-4 text-gray-300 transition-colors group-hover:text-red-400" />
+              </Link>
             </div>
           </section>
         </div>

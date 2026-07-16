@@ -643,6 +643,10 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
               <span className="text-gray-300">|</span>
             </>
           )}
+          <Link href="/mythology" className="hover:text-red-600 transition-colors">Chinese Mythology</Link>
+          <span className="text-gray-300">|</span>
+          <Link href="/zodiac" className="hover:text-red-600 transition-colors">Chinese Zodiac</Link>
+          <span className="text-gray-300">|</span>
           <Link href="/faq" className="hover:text-red-600 transition-colors">FAQ</Link>
         </nav>
       </article>

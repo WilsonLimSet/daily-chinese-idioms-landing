@@ -280,6 +280,24 @@ export default async function Home() {
               <p className="text-xs text-slate-700 font-medium mt-2">Explore games →</p>
             </Link>
             <Link
+              href="/mythology"
+              className="p-5 bg-teal-50 rounded-xl border border-teal-100 hover:shadow-md hover:border-teal-200 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-teal-600 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-teal-700 transition-colors">Chinese Mythology</p>
+              <p className="text-sm text-gray-600 mt-1">21 gods &amp; creatures — Sun Wukong, dragons &amp; more</p>
+              <p className="text-xs text-teal-700 font-medium mt-2">Explore mythology →</p>
+            </Link>
+            <Link
+              href="/zodiac"
+              className="p-5 bg-indigo-50 rounded-xl border border-indigo-100 hover:shadow-md hover:border-indigo-200 transition-all group relative"
+            >
+              <span className="absolute -top-2 right-3 text-[10px] font-bold uppercase tracking-wider text-white bg-indigo-500 px-2 py-0.5 rounded-full">New</span>
+              <p className="font-bold text-gray-900 group-hover:text-indigo-600 transition-colors">Chinese Zodiac</p>
+              <p className="text-sm text-gray-600 mt-1">All 12 signs, compatibility &amp; what&apos;s my sign</p>
+              <p className="text-xs text-indigo-600 font-medium mt-2">Explore zodiac →</p>
+            </Link>
+            <Link
               href="/poems"
               className="p-5 bg-amber-50 rounded-xl border border-amber-100 hover:shadow-md hover:border-amber-200 transition-all group"
             >

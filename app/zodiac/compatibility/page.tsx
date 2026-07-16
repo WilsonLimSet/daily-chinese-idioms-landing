@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { ArrowLeft, Sparkles } from 'lucide-react';
 import { getAllSigns, getCompatibility } from '@/src/lib/zodiac';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -31,7 +30,16 @@ export function generateMetadata(): Metadata {
     },
     alternates: {
       canonical: 'https://www.chineseidioms.com/zodiac/compatibility',
-      languages: { 'x-default': '/zodiac/compatibility', en: '/zodiac/compatibility' },
+      languages: {
+        'x-default': '/zodiac/compatibility',
+        en: '/zodiac/compatibility',
+        es: '/es/zodiac/compatibility',
+        id: '/id/zodiac/compatibility',
+        ja: '/ja/zodiac/compatibility',
+        ko: '/ko/zodiac/compatibility',
+        fr: '/fr/zodiac/compatibility',
+        de: '/de/zodiac/compatibility',
+      },
     },
   };
 }
@@ -82,12 +90,8 @@ export default function CompatibilityPage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id="zodiac-compat-breadcrumb" type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(breadcrumb)}
-      </Script>
-      <Script id="zodiac-compat-faq" type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(faq)}
-      </Script>
+      <script id="zodiac-compat-breadcrumb" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <script id="zodiac-compat-faq" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faq) }} />
 
       {/* Hero */}
       <section className="relative overflow-hidden bg-gray-950 text-white">

@@ -53,6 +53,21 @@ const SERIES: DramaSeries[] = [
     status: 'completed',
   },
   {
+    slug: 'shine-on-me',
+    englishName: 'Shine on Me',
+    chineseName: '骄阳似我',
+    pinyin: 'Jiāo Yáng Sì Wǒ',
+    year: '2025',
+    synopsis:
+      "Song Weilong and Zhao Jinmai star in this 36-episode campus-to-workplace romance adapted from Gu Man's web novel Blazing Sunlight (骄阳似我). Nie Xiguang, a warm, sunny college student, nurses a bittersweet secret crush on the aloof academic star Zhuang Xu — then, stepping into the working world, crosses paths with Lin Yusen, a former surgeon turned photovoltaic-industry elite whose guarded heart her radiance slowly thaws. Where Gu Man's novel closes on an open ending, the drama expands the story to a definitive, married-with-a-daughter conclusion. Premiered on Tencent Video in December 2025; streaming internationally on Netflix.",
+    postPrefix: 'shine-on-me-',
+    platforms: ['Netflix', 'Tencent Video'],
+    cast: ['Song Weilong', 'Zhao Jinmai'],
+    novel: 'Blazing Sunlight (骄阳似我) by Gu Man (顾漫)',
+    tags: ['modern', 'romance'],
+    status: 'completed',
+  },
+  {
     slug: 'the-first-jasmine',
     englishName: 'The First Jasmine',
     chineseName: '莫离',

@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { notFound } from 'next/navigation';
 import { ArrowLeft, ChevronRight, Sparkles, AlertCircle, Gamepad2 } from 'lucide-react';
 import { getAllFigures, getFigure, getRelatedFigures } from '@/src/lib/mythology';
@@ -32,7 +31,16 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/mythology/${f.slug}`,
-      languages: { 'x-default': `/mythology/${f.slug}`, en: `/mythology/${f.slug}` },
+      languages: {
+        'x-default': `/mythology/${f.slug}`,
+        en: `/mythology/${f.slug}`,
+        es: `/es/mythology/${f.slug}`,
+        id: `/id/mythology/${f.slug}`,
+        ja: `/ja/mythology/${f.slug}`,
+        ko: `/ko/mythology/${f.slug}`,
+        fr: `/fr/mythology/${f.slug}`,
+        de: `/de/mythology/${f.slug}`,
+      },
     },
   };
 }
@@ -73,9 +81,9 @@ export default async function FigurePage({ params }: PageParams) {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id={`myth-${f.slug}-ld`} type="application/ld+json" strategy="beforeInteractive">{JSON.stringify(article)}</Script>
-      <Script id={`myth-${f.slug}-bc`} type="application/ld+json" strategy="beforeInteractive">{JSON.stringify(breadcrumb)}</Script>
-      <Script id={`myth-${f.slug}-faq`} type="application/ld+json" strategy="beforeInteractive">{JSON.stringify(faq)}</Script>
+      <script id={`myth-${f.slug}-ld`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(article) }} />
+      <script id={`myth-${f.slug}-bc`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <script id={`myth-${f.slug}-faq`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faq) }} />
 
       <section className="relative overflow-hidden bg-gray-950 text-white">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(185,28,28,0.18),transparent_60%)]" />

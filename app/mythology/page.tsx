@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllFigures, getFiguresByCategory } from '@/src/lib/mythology';
 import LanguageSelector from '@/app/components/LanguageSelector';
@@ -25,7 +24,16 @@ export function generateMetadata(): Metadata {
     },
     alternates: {
       canonical: 'https://www.chineseidioms.com/mythology',
-      languages: { 'x-default': '/mythology', en: '/mythology' },
+      languages: {
+        'x-default': '/mythology',
+        en: '/mythology',
+        es: '/es/mythology',
+        id: '/id/mythology',
+        ja: '/ja/mythology',
+        ko: '/ko/mythology',
+        fr: '/fr/mythology',
+        de: '/de/mythology',
+      },
     },
   };
 }
@@ -104,7 +112,7 @@ export default function MythologyPage() {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id="myth-hub-ld" type="application/ld+json" strategy="beforeInteractive">{JSON.stringify(structuredData)}</Script>
+      <script id="myth-hub-ld" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
 
       <section className="relative overflow-hidden bg-gray-950 text-white">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,rgba(185,28,28,0.18),transparent_60%)]" />

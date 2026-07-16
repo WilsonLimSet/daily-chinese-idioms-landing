@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Script from 'next/script';
 import { notFound } from 'next/navigation';
 import { ArrowLeft, Check, X, Sparkles, Heart } from 'lucide-react';
 import { getAllSigns, getSign, getSignForYear } from '@/src/lib/zodiac';
@@ -55,7 +54,16 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
     },
     alternates: {
       canonical: `https://www.chineseidioms.com/zodiac/${sign.slug}`,
-      languages: { 'x-default': `/zodiac/${sign.slug}`, en: `/zodiac/${sign.slug}` },
+      languages: {
+        'x-default': `/zodiac/${sign.slug}`,
+        en: `/zodiac/${sign.slug}`,
+        es: `/es/zodiac/${sign.slug}`,
+        id: `/id/zodiac/${sign.slug}`,
+        ja: `/ja/zodiac/${sign.slug}`,
+        ko: `/ko/zodiac/${sign.slug}`,
+        fr: `/fr/zodiac/${sign.slug}`,
+        de: `/de/zodiac/${sign.slug}`,
+      },
     },
   };
 }
@@ -127,15 +135,9 @@ export default async function SignPage({ params }: PageParams) {
 
   return (
     <div className="flex min-h-screen flex-col">
-      <Script id={`sign-${sign.slug}-ld`} type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(structuredData)}
-      </Script>
-      <Script id={`sign-${sign.slug}-breadcrumb`} type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(breadcrumb)}
-      </Script>
-      <Script id={`sign-${sign.slug}-faq`} type="application/ld+json" strategy="beforeInteractive">
-        {JSON.stringify(faq)}
-      </Script>
+      <script id={`sign-${sign.slug}-ld`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
+      <script id={`sign-${sign.slug}-breadcrumb`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <script id={`sign-${sign.slug}-faq`} type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faq) }} />
 
       {/* Hero */}
       <section className="relative overflow-hidden bg-gray-950 text-white">

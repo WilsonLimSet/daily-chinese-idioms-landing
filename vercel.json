@@ -19,22 +19,6 @@
         }
       ],
       "destination": "https://www.chineseidioms.com/robots.txt"
-    },
-    {
-      "source": "/:lang(ar|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/blog/lists/:slug*",
-      "destination": "/:lang/blog/lists"
-    },
-    {
-      "source": "/blog/lists/:slug*",
-      "destination": "/blog/lists"
-    },
-    {
-      "source": "/:lang(ar|es|fr|hi|id|ja|ko|ms|pt|ru|th|tl|vi)/blog/:slug*",
-      "destination": "/:lang/blog"
-    },
-    {
-      "source": "/blog/:slug*",
-      "destination": "/blog"
     }
   ],
   "redirects": [
@@ -47,6 +31,16 @@
         }
       ],
       "destination": "https://www.chineseidioms.com/$1",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lists/chinese-idioms-for-leadership",
+      "destination": "/blog/lists/chinese-idioms-about-leadership",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lists/chinese-idioms-for-self-improvement",
+      "destination": "/blog/lists/chinese-idioms-about-self-improvement",
       "permanent": true
     },
     {
