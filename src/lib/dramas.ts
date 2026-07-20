@@ -68,6 +68,20 @@ const SERIES: DramaSeries[] = [
     status: 'completed',
   },
   {
+    slug: 'overdo',
+    englishName: 'Overdo',
+    chineseName: '这一秒过火',
+    pinyin: 'Zhè Yī Miǎo Guò Huǒ',
+    year: '2026',
+    synopsis:
+      "Zhang Linghe (the lead of Pursuit of Jade) and Wang Churan star in this 33-episode Republican-era Shanghai romance. Murong Qingyi, switched at birth and abused for years by his adoptive father, flees as a teenager and is rescued by Ren Susu — an act that brings catastrophe on her family. Years later the two meet again and slowly fall in love, until Ren Susu fakes her own death to protect others and vanishes. Three years on she returns — engaged to become Murong Qingyi's sister-in-law. A love-hate melodrama whose title 过火 means 'to go too far / overdo it.' Premiered July 19, 2026; streaming internationally on Viki, WeTV, and iQIYI.",
+    postPrefix: 'overdo-',
+    platforms: ['Viki', 'WeTV', 'iQIYI'],
+    cast: ['Zhang Linghe', 'Wang Churan', 'Fu Xinbo'],
+    tags: ['historical', 'romance'],
+    status: 'airing',
+  },
+  {
     slug: 'the-first-jasmine',
     englishName: 'The First Jasmine',
     chineseName: '莫离',
