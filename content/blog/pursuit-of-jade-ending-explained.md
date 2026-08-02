@@ -1,12 +1,20 @@
 ---
-title: "Pursuit of Jade (逐玉) Ending Explained: Every Thread Resolved"
+title: "Pursuit of Jade (逐玉) Ending Explained: Is It a Happy or Sad Ending? What Happens to Fan Changyu and Xie Zheng"
 date: "2026-04-19"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Life Philosophy"
-description: "Pursuit of Jade closes with a Prince Regent walking away from power, a butcher hanging her father's knife in a Marquis hall, and an Empress Dowager rising over a poisoned husband. Here's what every thread means."
+description: "Does Pursuit of Jade have a happy ending? Yes — Fan Changyu and Xie Zheng end up together, both walk away from power, and retire to Lin'an. Here's the full episode 40 breakdown, every thread resolved, and the one genuinely dark note."
+---
+
+**Quick answer:** *Pursuit of Jade* (**逐玉**, *Zhú Yù*) has a **happy ending.** Fan Changyu (**樊长玉**) and Xie Zheng (**谢征**) **end up together** — married, reconciled, and alive. Xie Zheng clears his family's name, sees his enemies fall, and becomes Prince Regent (摄政王) — then **gives the regency up**. Fan Changyu personally kills Prince Changxin, earns the rank of Flower-Crowned General (簪花将军), and gives that up too. The pair retire to Lin'an to run a butcher shop. Her father Fan Dagui, believed dead for the entire drama, turns out to have survived and reunites with her in the epilogue. The last exchange of episode 40 is Xie Zheng asking *"Still think you married a block of ice?"* and her answering *"The ice melted a long time ago."*
+
+The one genuinely dark thread: **Yu Qianqian** rises to Empress Dowager over a poisoned husband. The drama refuses to make everyone's ending clean.
+
+*Full spoilers for episode 40 follow.*
+
 ---
 
 *Pursuit of Jade* (逐玉) ends on a butcher knife.

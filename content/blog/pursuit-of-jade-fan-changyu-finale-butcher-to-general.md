@@ -6,7 +6,7 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Success & Perseverance"
-description: "Yes — Fan Changyu becomes the Flower-Crowned General (簪花将军) in the Pursuit of Jade finale, after killing Prince Changxin — the senior conspirator she holds responsible for the Jinzhou massacre — with her father's butcher knife. Here's exactly what the Flower-Crowned General title means, how she earns it, and the Chinese idioms behind her butcher-to-general arc."
+description: "Yes — Fan Changyu becomes the Flower-Crowned General (簪花将军) in Pursuit of Jade, after killing Prince Changxin in episode 30 — the senior conspirator she holds responsible for the Jinzhou massacre — with her father's butcher knife. Here's exactly what the Flower-Crowned General title means, how she earns it, and the Chinese idioms behind her butcher-to-general arc."
 ---
 
 ## Does Fan Changyu Become a General? Short Answer
@@ -45,7 +45,7 @@ Fan Changyu doesn't enter the battlefield because she wants to prove women can f
 
 雪 here doesn't mean "snow" — it means "to cleanse" or "to wipe away." The idiom describes the moment when a wound that has festered for years is finally treated, not with medicine, but with justice.
 
-Xie Zheng has waited sixteen years for this moment. The Jinzhou massacre — the imperial purge that destroyed his Marquis Wu'an family — took his identity and his future. He spent those sixteen years hiding as "Yan Zheng," a destitute refugee, suppressing every instinct to strike before the moment was right. But in the finale, it's not Xie Zheng who delivers the killing blow. It's Fan Changyu.
+Xie Zheng has waited sixteen years for this moment. The Jinzhou massacre — the imperial purge that destroyed his Marquis Wu'an family — took his identity and his future. He spent those sixteen years hiding as "Yan Zheng," a destitute refugee, suppressing every instinct to strike before the moment was right. But when the blow finally lands in episode 30, it isn't Xie Zheng who delivers it. It's Fan Changyu.
 
 This is a deliberate narrative choice. 报仇雪恨 is Xie Zheng's burden, but Fan Changyu is the one who cleanses it. She has earned the right — she has bled for this household, fought for this family, and lost her mother in the process. The revenge isn't his alone anymore. It belongs to both of them, and she wields the knife.
 

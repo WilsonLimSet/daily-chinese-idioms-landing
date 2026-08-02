@@ -32,6 +32,40 @@ export const SLANG_CATEGORIES = [
 
 export const slangTerms: SlangTerm[] = [
   {
+    slug: 'tian-tai-jian',
+    characters: '天台见',
+    pinyin: 'tiān tái jiàn',
+    meaning: "\"See you on the roof\" — gallows humor for having lost catastrophic money, usually on football bets or the stock market. The unspoken second half is that the rooftop is where you'd go to jump, so the phrase means roughly \"I'm ruined\" said with a laugh.",
+    origin: "Took hold during the 2014 Brazil World Cup, when a run of upsets (Spain 1-5 Netherlands, Brazil's shootout against Chile) wiped out bettors and 天台上见 spread as self-mockery among them. It has resurfaced at every World Cup since — Germany's 2018 group-stage exit, Argentina's 2022 loss to Saudi Arabia, Spain's 2026 draw with Cape Verde — and migrated into stock-forum vocabulary, spiking again during the July 2026 A-share tech selloff.",
+    examples: [
+      '天台见。("See you on the roof.") — posted after your team, or your portfolio, just destroyed you.',
+      '天台已满，请排队。("The roof is full, please queue.") — the standard reply, and the reason the joke works: everyone lost.',
+    ],
+    category: 'Work & Hustle',
+    era: '2014',
+    formality: 'very informal',
+    metaTitle: '天台见 (Tiān Tái Jiàn) Meaning — "See You on the Roof" Chinese Slang Explained',
+    metaDescription: "天台见 (tiān tái jiàn, \"see you on the roof\") is Chinese dark-humor slang for catastrophic betting or stock losses. Here's the 2014 World Cup origin, the variants, and when not to use it.",
+    deepDiveSlug: 'tian-tai-jian-meaning-chinese-slang-see-you-on-the-roof',
+  },
+  {
+    slug: 'guan-deng-chi-mian',
+    characters: '关灯吃面',
+    pinyin: 'guān dēng chī miàn',
+    meaning: "\"Eating noodles with the lights off\" — the standard way to say you took a bad loss in the market. Broader than a stock term now: any quiet, undramatic private misery.",
+    origin: "On 15 December 2011, as Chongqing Brewery (重庆啤酒) collapsed from roughly 80 yuan to 20 after its hepatitis-B vaccine trial showed no significant effect, a user posted on the East Money stock forum (东方财富网股吧) under the title 一边吃，一边哭 (\"eating and crying\"): 今天回到家，煮了点面吃，一边吃面一边哭，泪水滴落在碗里，没有开灯。 (\"Got home today, cooked some noodles, cried while I ate, tears fell in the bowl, never turned the light on.\") The image stuck and became permanent vocabulary.",
+    examples: [
+      '今天又关灯吃面了。("Eating noodles in the dark again today." — I lost money again.)',
+      '吃面 ("eating noodles") on its own means losing; its opposite is 吃肉 ("eating meat"), meaning your position is up.',
+    ],
+    category: 'Work & Hustle',
+    era: '2011',
+    formality: 'informal',
+    metaTitle: '关灯吃面 (Guān Dēng Chī Miàn) Meaning — The Chinese Stock-Loss Meme Explained',
+    metaDescription: "关灯吃面 means \"eating noodles with the lights off\" — Chinese slang for taking a market loss. Here's the 2011 Chongqing Brewery post that started it and how investors use it today.",
+    deepDiveSlug: 'chinese-stock-market-slang-investor-memes',
+  },
+  {
     slug: 'chinamaxxing',
     characters: 'Chinamaxxing',
     pinyin: 'Chinamaxxing',

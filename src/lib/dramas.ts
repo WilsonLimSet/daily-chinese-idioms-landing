@@ -109,7 +109,7 @@ const SERIES: DramaSeries[] = [
     cast: ['Bao Shang\'en', 'Daniel Zhou', 'Zhao Yingbo', 'Huang Yi'],
     novel: '《坠落》by Tian Cu Yu (甜醋鱼)',
     tags: ['modern', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'love-for-you',
@@ -124,7 +124,7 @@ const SERIES: DramaSeries[] = [
     cast: ['Song Weilong', 'Zhang Jingyi', 'Liang Jingkang'],
     novel: '《野狗骨头》 by Xiutu Cheng (休屠城)',
     tags: ['modern', 'romance', 'mystery'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'blossoms-of-power',
@@ -139,7 +139,7 @@ const SERIES: DramaSeries[] = [
     cast: ['Meng Ziyi', 'He Yu'],
     novel: '《我花开后百花杀》 by Jin Huang (锦凰)',
     tags: ['historical', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'key-to-the-phoenix-heart',
@@ -153,7 +153,7 @@ const SERIES: DramaSeries[] = [
     platforms: ['iQIYI'],
     cast: ['Neo Hou Minghao', 'Ai Mi', 'Wang Yilun', 'Peter Ho'],
     tags: ['historical', 'romance', 'mystery'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'dear-you',
@@ -182,7 +182,7 @@ const SERIES: DramaSeries[] = [
     cast: ['Tian Xiwei', 'Zhang Linghe'],
     novel: '《逐玉》by Tuan Zi Lai Xi',
     tags: ['historical', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'first-frost',
