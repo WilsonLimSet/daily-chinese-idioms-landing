@@ -1,5 +1,155 @@
 [
   {
+    "slug": "tian-tai-jian",
+    "originalSlug": "tian-tai-jian",
+    "characters": "天台见",
+    "pinyin": "tiān tái jiàn",
+    "meaning": "\"Nos vemos en el techo\" — humor negro para haber perdido catastróficamente dinero, usualmente en apuestas de fútbol o en el mercado de valores. La segunda mitad no dicha es que el techo es donde irías a saltar, así que la frase significa más o menos \"estoy arruinado\" dicho con una risa.",
+    "origin": "Se popularizó durante la Copa Mundial de Brasil 2014, cuando una serie de sorpresas (España 1-5 Países Bajos, la tanda de penales de Brasil contra Chile) arruinó a los apostadores y 天台上见 se difundió como auto-burla entre ellos. Ha resurgido en cada Copa Mundial desde entonces — la salida de Alemania en la fase de grupos de 2018, la derrota de Argentina ante Arabia Saudita en 2022, el empate de España con Cabo Verde en 2026 — y ha migrado al vocabulario de los foros de acciones, aumentando nuevamente durante la venta masiva de acciones tecnológicas A-share en julio de 2026.",
+    "examples": [
+      "天台见。(\"Nos vemos en el techo.\") — publicado después de que tu equipo, o tu cartera, te acaba de destruir.",
+      "天台已满，请排队。(\"El techo está lleno, por favor haga fila.\") — la respuesta estándar, y la razón por la que el chiste funciona: todos perdieron."
+    ],
+    "category": "Work & Hustle",
+    "era": "2014",
+    "formality": "very informal"
+  },
+  {
+    "slug": "guan-deng-chi-mian",
+    "originalSlug": "guan-deng-chi-mian",
+    "characters": "关灯吃面",
+    "pinyin": "guān dēng chī miàn",
+    "meaning": "\"Comer fideos con las luces apagadas\" — la forma estándar de decir que sufriste una gran pérdida en el mercado. Ahora es más amplio que un término de acciones: cualquier miseria privada, silenciosa y sin dramatismo.",
+    "origin": "El 15 de diciembre de 2011, cuando Chongqing Brewery (重庆啤酒) colapsó de aproximadamente 80 yuanes a 20 después de que su ensayo de vacuna contra la hepatitis B no mostrara un efecto significativo, un usuario publicó en el foro de acciones de East Money (东方财富网股吧) bajo el título 一边吃，一边哭 (\"comiendo y llorando\"): 今天回到家，煮了点面吃，一边吃面一边哭，泪水滴落在碗里，没有开灯。 (\"Hoy llegué a casa, cociné unos fideos, lloré mientras comía, las lágrimas caían en el tazón, nunca encendí la luz.\") La imagen se quedó y se convirtió en vocabulario permanente.",
+    "examples": [
+      "今天又关灯吃面了。(\"Comiendo fideos en la oscuridad otra vez hoy.\" — Perdí dinero otra vez.)",
+      "吃面 (\"comer fideos\") por sí solo significa perder; su opuesto es 吃肉 (\"comer carne\"), que significa que tu posición está en alza."
+    ],
+    "category": "Work & Hustle",
+    "era": "2011",
+    "formality": "informal"
+  },
+  {
+    "slug": "chinamaxxing",
+    "originalSlug": "chinamaxxing",
+    "characters": "Chinamaxxing",
+    "pinyin": "Chinamaxxing",
+    "meaning": "Una tendencia en internet (principalmente de la Generación Z en Occidente), también llamada 'Convertirse en chino', de adoptar deliberadamente hábitos cotidianos del estilo de vida chino — agua caliente, hotpot, pantuflas de interior, cuidado de la piel — enmarcados como mejoras de vida y jugados con humor irónico.",
+    "origin": "Se construyó durante aproximadamente un año: una publicación de abril de 2025 en X por @girl__virus ('me conociste en un momento muy chino de mi vida') estableció el modelo cómico, los TikToks de finales de 2025 en tono serio sobre cómo 'convertirse en una chica mala china' obtuvieron más de 20 millones de vistas, y para abril de 2026, el artículo de Fortune 'La Generación Z está Chinamaxxing' lo graduó de meme a fenómeno documentado. El nombre combina 'China' con el sufijo '-maxxing' (de 'looksmaxxing'), que significa ir a fondo en optimizar un rasgo.",
+    "examples": [
+      "\"He estado Chinamaxxing últimamente\" — He adoptado hábitos del estilo de vida chino (agua caliente, pantuflas, hotpot).",
+      "老外爱上中国生活方式 ('extranjeros enamorándose del estilo de vida chino') — cómo se describe a menudo en chino, ya que no hay un término fijo único de jerga."
+    ],
+    "category": "Youth Culture",
+    "era": "2026",
+    "formality": "informal"
+  },
+  {
+    "slug": "ha-ji-mi",
+    "originalSlug": "ha-ji-mi",
+    "characters": "哈基米",
+    "pinyin": "hā jī mǐ",
+    "meaning": "Un sonido de meme fonético, esencialmente sin sentido ('Hajimi') que puede significar un gato (especialmente uno lindo y naranja), ternura o caos juguetón, una exclamación absurda para todo uso, o genuinamente nada — su poder radica en que no insiste en un significado.",
+    "origin": "哈基米 es un préstamo fonético del japonés はちみつ / hachimitsu ('miel'), de la llamada 'Canción de la Miel' asociada al personaje Tokai Teio del anime Umamusume: Pretty Derby. Los internautas chinos recortaron y repitieron el fragmento, lo emparejaron con videos de gatos naranjas, y para mediados de 2025 explotó en Bilibili y Douyin, luego se extendió globalmente en TikTok.",
+    "examples": [
+      "Subtitulando un video de gatos: solo \"哈基米🐱\" — no se necesita más explicación.",
+      "Como una interjección absurda en comentarios de la misma manera que escribirías 'jaja' — una vibra, no una declaración."
+    ],
+    "category": "Internet Culture",
+    "era": "2025",
+    "formality": "very informal"
+  },
+  {
+    "slug": "cao-tai-ban-zi",
+    "originalSlug": "cao-tai-ban-zi",
+    "characters": "草台班子",
+    "pinyin": "cǎo tái bān zi",
+    "meaning": "Literalmente una 'troupe de escenario de paja' — cualquier operación que parece oficial pero en realidad es desorganizada, poco profesional e improvisada; la forma extendida viral 'el mundo entero es un gran espectáculo de payasos' aplica eso a todo.",
+    "origin": "En la China imperial, las troupes de ópera de bajo presupuesto que no podían entrar en los teatros urbanos recorrían el campo en escenarios improvisados de paja (草台), por lo que la frase significaba desde hace tiempo algo improvisado y amateur. Alrededor de 2023–2024, la línea '这世界是个巨大的草台班子' se difundió en Weibo, Douban y Xiaohongshu, convirtiendo un insulto en una visión del mundo sobre las instituciones siendo improvisadas detrás de escena.",
+    "examples": [
+      "这公司就是个草台班子。 ('Esta empresa es una operación totalmente amateur.')",
+      "了解越多越觉得，这世界是个巨大的草台班子。 ('Cuanto más aprendo, más siento que el mundo entero es un gran espectáculo de payasos.')"
+    ],
+    "category": "Work & Hustle",
+    "era": "2024",
+    "formality": "informal"
+  },
+  {
+    "slug": "na-za-le",
+    "originalSlug": "na-za-le",
+    "characters": "那咋了",
+    "pinyin": "nà zǎ le",
+    "meaning": "'¿Y qué?' / '¿Y eso qué?' — un encogimiento de hombros verbal despreocupado del noreste de China que descarta la presión, la crítica o una supuesta deficiencia.",
+    "origin": "La frase obtiene su sabor de 咋 (zǎ), un sello distintivo del dialecto del noreste de China (东北话, equivalente al estándar 怎么), famoso por sonar directo, cálido y con una confianza sin esfuerzo. Surgió como una palabra de moda vinculada al deseo más amplio de 松弛感 (una 'sensación de tranquilidad') y la realización de que incluso las instituciones pulidas son improvisadas — haciendo que la presión por ser impecable parezca absurda.",
+    "examples": [
+      "没考好，那咋了，下次再来。 ('No aprobé el examen — ¿y qué?, inténtalo de nuevo la próxima vez.')",
+      "别人说我躺平，那咋了？ ('La gente dice que estoy tumbado — ¿y? ¿Y qué?')"
+    ],
+    "category": "Attitude & Lifestyle",
+    "era": "2024",
+    "formality": "informal"
+  },
+  {
+    "slug": "xian-yan-bao",
+    "originalSlug": "xian-yan-bao",
+    "characters": "显眼包",
+    "pinyin": "xiǎn yǎn bāo",
+    "meaning": "Un 'llama la atención' — una persona, animal o cosa que capta la atención de todos a través de una personalidad ruidosa, apariencia audaz o payasadas conspicuas; el payaso de la clase o el que busca destacar, ahora generalmente cálido y bromista en lugar de severo.",
+    "origin": "El término surgió de la palabra dialectal 现眼包 (xiàn yǎn bāo) de Sichuan y Henan, donde 现眼 significa avergonzarse en público. A medida que se popularizó en línea a nivel nacional, los caracteres cambiaron al más suave 显眼 ('conspicuo, llamativo') y el significado se suavizó de embarazoso a entrañable; para 2023 era una de las palabras de moda más usadas en las redes sociales chinas, impulsada en gran medida por videos virales de 'animal 显眼包'.",
+    "examples": [
+      "你们公司年会的显眼包是谁？ ('¿Quién es el que destaca en la fiesta anual de tu empresa?')",
+      "这只猫是个显眼包。 ('Este gato es un total acaparador de atención.' — cariñoso)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2023",
+    "formality": "informal"
+  },
+  {
+    "slug": "zui-ti",
+    "originalSlug": "zui-ti",
+    "characters": "嘴替",
+    "pinyin": "zuǐ tì",
+    "meaning": "Literalmente 'sustituto de boca' — alguien que expresa una opinión exactamente de la manera que desearías poder hacerlo, diciendo lo que tienes en mente pero de manera más clara, valiente o elocuente; 'me quitaste las palabras de la boca'.",
+    "origin": "嘴替 ganó prominencia alrededor de 2022, cuando fue nombrada una de las palabras de moda destacadas del año en internet. Surgió de la cultura de las secciones de comentarios y los fandoms: cuando los internautas encontraban a una celebridad, un personaje de televisión u otro comentarista expresando su opinión no dicha, coronaban a esa persona como su 嘴替 como abreviatura de total acuerdo y gratitud.",
+    "examples": [
+      "谢谢你，你就是我的嘴替！ ('¡Gracias — eres mi sustituto de boca!' = lo dijiste perfectamente.)",
+      "博主嘴替了，我憋了好久没说出来。 ('El bloguero dijo exactamente lo que había estado guardando.')"
+    ],
+    "category": "Social & Relationships",
+    "era": "2022",
+    "formality": "informal"
+  },
+  {
+    "slug": "fei-hua-wen-xue",
+    "originalSlug": "fei-hua-wen-xue",
+    "characters": "废话文学",
+    "pinyin": "fèi huà wén xué",
+    "meaning": "'Literatura de tonterías' / 'literatura de charla vacía' — un estilo de escritura en línea construido a partir de declaraciones que son gramaticalmente perfectas y seguras en tono pero completamente vacías de información, que se repiten a sí mismas o afirman lo obvio como si revelaran una verdad profunda.",
+    "origin": "废话文学 surgió en 2021, extendiéndose a través de las secciones de comentarios de video en Bilibili y Weibo como parte de un ciclo recurrente de '网络文体' (estilos de escritura en internet) de corta duración. El sufijo '-文学' funciona como '-ismo' o '-core' para nombrar un género, y una vez que 废话文学 se popularizó, la construcción se volvió extremadamente productiva (凡尔赛文学, 发疯文学, 孔乙己文学, etc.).",
+    "examples": [
+      "听君一席话，如听一席话。 ('Escucharte hablar es como escucharte hablar.') — una parodia del verdadero modismo 听君一席话，胜读十年书.",
+      "Responder a una pregunta con una tautología: \"¿Cómo fue la película?\" → \"Fue muy película.\""
+    ],
+    "category": "Internet Culture",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "hong-wen",
+    "originalSlug": "hong-wen",
+    "characters": "红温",
+    "pinyin": "hóng wēn",
+    "meaning": "Literalmente 'temperatura roja': jerga para perder el control emocional, ponerse tan enojado, frustrado, agitado o avergonzado que tu cara se pone roja; el equivalente más cercano en inglés es el 'getting tilted' de los videojuegos.",
+    "origin": "El término proviene de League of Legends y su campeón Rumble, cuyo mecanismo de 'sobrecalentamiento' brilla en rojo cuando su medidor de calor se llena. Alrededor de 2020, saltó de la interfaz del juego a describir a los jugadores frustrados después de un colapso legendario en vivo de un streamer chino, y luego se extendió por Bilibili y Douyin para su uso general.",
+    "examples": [
+      "他直接红温了。 ('Perdió completamente el control / se frustró.')",
+      "我看到那条评论就红温了。 ('Vi ese comentario y me herví al instante.')"
+    ],
+    "category": "Emotions & Reactions",
+    "era": "2020",
+    "formality": "informal"
+  },
+  {
     "slug": "yyds",
     "originalSlug": "yyds",
     "characters": "YYDS (永远的神)",
@@ -928,5 +1078,155 @@
     "category": "Internet Culture",
     "era": "2010s",
     "formality": "very informal"
+  },
+  {
+    "slug": "diao-yu",
+    "originalSlug": "diao-yu",
+    "characters": "钓鱼",
+    "pinyin": "diào yú",
+    "meaning": "\"Pescar\" — atraer a alguien para que muestre interés romántico (una selfie halagadora, un mensaje ambiguo a altas horas de la noche) para ver quién pica. Las personas que pican se convierten en los \"peces\".",
+    "origin": "Comenzó como jerga general de internet para trolear/atraer (publicar contenido provocativo para obtener una reacción), común en foros desde principios de la década de 2010. El sentido romántico es una extensión posterior que surgió en el grupo de metáforas de pesca 养鱼/海王 alrededor de 2018–2019.",
+    "examples": [
+      "他半夜发那种朋友圈，就是在钓鱼。(Publicar cosas así en WeChat Moments a medianoche — solo está pescando atención.)",
+      "No caigas, ella solo está 钓鱼-ing."
+    ],
+    "category": "Social & Relationships",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "yang-yu",
+    "originalSlug": "yang-yu",
+    "characters": "养鱼",
+    "pinyin": "yǎng yú",
+    "meaning": "Criar peces: mantener varios prospectos románticos en espera a la vez — nunca comprometerse, nunca rechazar, manteniendo a varios admiradores en paralelo. El grupo de admiradores es un 鱼塘 (\"estanque de peces\").",
+    "origin": "La imagen del \"estanque de peces\" se remonta comúnmente al drama de 2014 Boss & Me (杉杉来了), cuyo protagonista CEO llama pez a un admirador en su estanque — una línea que se volvió viral. El sentido de citas de 养鱼 se cristalizó alrededor de esto y alcanzó su punto máximo en 2018–2019.",
+    "examples": [
+      "他同时跟三个女生暧昧，纯纯在养鱼。(Está coqueteando con tres chicas a la vez — directamente criando peces.)",
+      "我发现自己只是她鱼塘里的一条。(Me di cuenta de que solo soy un pez en su estanque.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "hai-wang",
+    "originalSlug": "hai-wang",
+    "characters": "海王 / 海后",
+    "pinyin": "hǎi wáng / hǎi hòu",
+    "meaning": "\"Rey del Mar / Reina del Mar\" — un ligón (海王 = hombre, 海后 = mujer) con \"alguien en cada mar,\" manejando muchas relaciones ambiguas a la vez. El maestro pescador que posee el 鱼塘 (estanque de peces).",
+    "origin": "海王 es el nombre estándar en chino para el superhéroe de DC Aquaman, quien comanda a todas las criaturas del mar — la broma es que un ligón tiene tantos pretendientes como Aquaman tiene peces. Comúnmente atribuido a un clip viral de 2018-2019, justo después de la película de Aquaman de 2018. 海后 es la formación posterior para el género femenino.",
+    "examples": [
+      "别理他，那种海王同时撩十几个。(Ignóralo — ese tipo de Rey del Mar coquetea con una docena de personas a la vez.)",
+      "她是海后，朋友圈全是不同男生送的花。(Ella es una Reina del Mar — sus Momentos son todas flores de chicos diferentes.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "bei-tai",
+    "originalSlug": "bei-tai",
+    "characters": "备胎",
+    "pinyin": "bèi tāi",
+    "meaning": "Un \"neumático de repuesto\": una pareja de respaldo, una segunda opción mantenida en reserva \"por si acaso.\" Se disfruta de su atención, pero no son el verdadero objetivo romántico.",
+    "origin": "Una metáfora directa y estable de un neumático de repuesto de un coche (备用轮胎) — llevas uno por si el neumático principal falla. Uno de los términos más antiguos y convencionales aquí, en uso común desde principios de la década de 2010, sin un evento de acuñación único.",
+    "examples": [
+      "我不想再当他的备胎了。(No quiero ser su neumático de repuesto más.)",
+      "她身边一堆备胎。(Ella tiene un montón de neumáticos de repuesto.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2010s",
+    "formality": "informal"
+  },
+  {
+    "slug": "zhong-yang-kong-tiao",
+    "originalSlug": "zhong-yang-kong-tiao",
+    "characters": "中央空调",
+    "pinyin": "zhōng yāng kōng tiáo",
+    "meaning": "\"Aire acondicionado central\": alguien (estereotípicamente hombre) que es cálido, atento y coqueto con todos, por lo que nadie puede saber si son especiales. Como el aire central, calientan todo el edificio, no solo una habitación.",
+    "origin": "Una extensión de juego de palabras de 暖男 (\"chico cálido,\" el novio ideal y cariñoso): si un 暖男 calienta a una persona, un 中央空调 calienta a todos. Comúnmente fechado alrededor de 2015. Se diferencia de un 海王 en que no necesariamente están coleccionando parejas — solo son indiscriminadamente cálidos.",
+    "examples": [
+      "他对谁都这么好，就是个中央空调，别当真。(Es así de bueno con todos — es aire acondicionado central, no te lo tomes en serio.)",
+      "我以为他喜欢我，结果他是中央空调。(Pensé que le gustaba — resulta que solo es aire acondicionado central.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2015",
+    "formality": "informal"
+  },
+  {
+    "slug": "zha-nan",
+    "originalSlug": "zha-nan",
+    "characters": "渣男 / 渣女",
+    "pinyin": "zhā nán / zhā nǚ",
+    "meaning": "\"Hombre despreciable / mujer despreciable\" (渣 = residuos) — una pareja terrible que engaña, miente, juega con los sentimientos y descarta a las personas. El insulto general del que 海王 y 中央空调 son tipos específicos.",
+    "origin": "渣男 ha significado \"hombre moralmente despreciable\" desde al menos principios de la década de 2010. La contraparte 渣女 y todo el grupo explotaron a principios de 2019 a través de una línea viral en Douyin que rimaba peinados con arquetipos de malas parejas. (渣女, al igual que 绿茶, recibe críticas por ser un insulto de género.)",
+    "examples": [
+      "他劈腿好几次了，就是个渣男。(Ha engañado varias veces — es solo un canalla.)",
+      "她骗了三个男生的钱，妥妥的渣女。(Estafó dinero a tres chicos — una chica totalmente despreciable.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2019",
+    "formality": "informal"
+  },
+  {
+    "slug": "tian-gou",
+    "originalSlug": "tian-gou",
+    "characters": "舔狗",
+    "pinyin": "tiǎn gǒu",
+    "meaning": "\"Perro lamedor\" / arrastrado — alguien que se rebaja persiguiendo a una persona que claramente no está interesada: regalos interminables, atención y dinero sin respeto propio y sin reciprocidad.",
+    "origin": "Comúnmente atribuido a Baidu Tieba alrededor de 2016, se difundió ampliamente entre 2018 y 2019 con el copypasta 舔狗舔到最后一无所有 (\"arrástrate hasta el final y te quedarás sin nada\"). Las personas a menudo se llaman a sí mismas 舔狗, con resignación.",
+    "examples": [
+      "你天天给她买东西，别当舔狗了。(Le compras cosas todos los días — deja de ser un arrastrado.)",
+      "他是她的舔狗，人家根本不理他。(Él se arrastra por ella, y ella ni siquiera lo reconoce.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2018",
+    "formality": "very informal"
+  },
+  {
+    "slug": "lv-cha",
+    "originalSlug": "lv-cha",
+    "characters": "绿茶",
+    "pinyin": "lǜ chá",
+    "meaning": "\"Té verde\" (forma completa 绿茶婊) — alguien que actúa con dulzura, inocencia y pureza desamparada en la superficie mientras calcula por debajo. Sobre la actuación de inocencia para conseguir lo que quiere.",
+    "origin": "Se remonta a una publicación de Weibo de marzo de 2013 y se potenció con un escándalo de celebridades en 2013, después del cual 绿茶婊 se volvió viral; la forma abreviada más suave 绿茶 vino después. Nota: es un insulto de género ampliamente criticado — se incluye aquí para comprensión, no como aprobación.",
+    "examples": [
+      "她在男生面前装可怜，太绿茶了。(Se hace la pobre desamparada frente a los chicos — tan té verde.)",
+      "那条朋友圈一看就很绿茶。(Esa publicación en Moments es un ejemplo clásico de té verde.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2013",
+    "formality": "informal"
+  },
+  {
+    "slug": "lian-ai-nao",
+    "originalSlug": "lian-ai-nao",
+    "characters": "恋爱脑",
+    "pinyin": "liàn'ài nǎo",
+    "meaning": "\"Cerebro de amor\" — alguien cuyo juicio se apaga en las relaciones, dedicando toda su energía, prioridades y sentido común a una pareja y sacrificando carrera y amigos por amor.",
+    "origin": "Una acuñación propia del internet chino sin una fuente documentada única, que ha aumentado notablemente desde alrededor de 2020–2021 en el discurso sobre relaciones y comentarios de dramas. Es el polo opuesto de la actitud desapegada 佛系 (\"estilo budista\").",
+    "examples": [
+      "她为了男朋友辞职搬家，太恋爱脑了。(Dejó su trabajo y se mudó por su novio — total cerebro de amor.)",
+      "我劝自己别恋爱脑，要理智一点。(Me sigo diciendo a mí mismo que no debo ser cerebro de amor y mantenerme racional.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2021",
+    "formality": "informal"
+  },
+  {
+    "slug": "ai-mei",
+    "originalSlug": "ai-mei",
+    "characters": "暧昧",
+    "pinyin": "ài mèi",
+    "meaning": "\"Ambigüedad\" — la fase indefinida de \"más que amigos, pero aún no juntos\": interés mutuo y tensión sin etiqueta. El equivalente chino de \"la etapa de hablar\".",
+    "origin": "A diferencia de la mayoría de los términos aquí, 暧昧 no es jerga de internet sino una palabra estándar de diccionario (ambiguo/nebuloso) que precede a la web; el sentido romántico es su significado cotidiano y neutral. Es el terreno compartido en el que operan 养鱼, 中央空调 y 海王.",
+    "examples": [
+      "我们暧昧了三个月，还没在一起。(Hemos estado en esa etapa ambigua durante tres meses y aún no estamos juntos.)",
+      "这种暧昧关系让人很累。(Este tipo de relación ambigua es agotadora.)"
+    ],
+    "category": "Social & Relationships",
+    "era": "2000s",
+    "formality": "neutral"
   }
 ]
