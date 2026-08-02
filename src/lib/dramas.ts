@@ -296,17 +296,18 @@ const SERIES: DramaSeries[] = [
   {
     slug: 'love-beyond-the-grave',
     englishName: 'Love Beyond the Grave',
-    chineseName: '聊斋之兰若寺',
-    pinyin: 'Liáozhāi zhī Lánruòsì',
+    chineseName: '白日提灯',
+    pinyin: 'Bái Rì Tí Dēng',
     year: '2026',
     synopsis:
-      'Ghost romance rooted in the Liaozhai classical-horror tradition. He Simu and Duan Xu cross the boundary between the living and the dead.',
+      "Dilraba Dilmurat plays He Simu (贺思慕), a 400-year-old lord of the ghost realm Guixu (归墟) — born of the former Ghost King and a mortal woman, never human, and without senses of her own. Arthur Chen Feiyu plays Duan Xu (段胥), a scholar-turned-general of Great Liang. The two are bound so that she experiences the world through his five senses, which makes the romance and the tragedy the same mechanism. Premiered March 28, 2026 on Tencent Video (WeTV internationally), 40 episodes, with a record opening — heat past 22,000 within 50 minutes. Formerly titled 《慕胥辞》 (built from 思慕 + 段胥), adapted from Lei Qingran's Jinjiang novel. Ends twice: a tragic canonical finale plus a happy bonus episode.",
     postPrefix: 'love-beyond-the-grave-',
     poster: '/dramas/love-beyond-the-grave.jpg',
-    platforms: ['iQIYI', 'WeTV'],
+    platforms: ['Tencent Video', 'WeTV'],
     cast: ['Dilraba Dilmurat', 'Arthur Chen Feiyu'],
+    novel: '《慕胥辞》by Lei Qingran',
     tags: ['fantasy', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'legend-of-zang-hai',
