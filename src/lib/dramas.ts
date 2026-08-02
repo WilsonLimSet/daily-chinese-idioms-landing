@@ -326,17 +326,17 @@ const SERIES: DramaSeries[] = [
   {
     slug: 'road-to-success',
     englishName: 'Road to Success',
-    chineseName: '狭路',
-    pinyin: 'Xiá Lù',
+    chineseName: '灿如繁星',
+    pinyin: 'Càn Rú Fán Xīng',
     year: '2026',
     synopsis:
-      'Yu Shuxin (Esther Yu) plays a PhD student who returns to her hometown and ends up reviving a failing high school football team alongside Chen Jingke as a mysterious former British football coach. Adapted from Chang Er\'s novel Narrow Road. A modern sports romance with a 32-episode arc culminating at the gaokao.',
+      "Yu Shuxin (Esther Yu) plays Lin Wanxing (林晚星), a psychology PhD falsely accused of academic misconduct who returns to her hometown and takes a job as sports equipment custodian at Hongjing No. 8 Middle School. Chen Jingke plays Wang Fa (王法), a coach from a top English club who came home after a protégé's death and rents the flat above her — as a pretext to investigate her, and a figure codenamed 黑桃Q. Together they rebuild the school's disbanded football team out of so-called 问题少年. Adapted from Chang Er's web novel 《狭路》 (Narrow Road); the broadcast title 灿如繁星 means 'brilliant as a sky full of stars'. Premiered July 5, 2026 on iQIYI with a record-setting opening (day-one heat peak 7,415); 32 episodes.",
     postPrefix: 'road-to-success-',
     platforms: ['iQIYI'],
-    cast: ['Yu Shuxin', 'Chen Jingke'],
+    cast: ['Yu Shuxin', 'Chen Jingke', 'Ma Boqian', 'Xie Keyin'],
     novel: '《狭路》by Chang Er',
-    tags: ['modern', 'romance'],
-    status: 'upcoming',
+    tags: ['modern', 'romance', 'mystery'],
+    status: 'completed',
   },
   {
     slug: 'fated-hearts',
