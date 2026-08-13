@@ -38,6 +38,21 @@ export type DramaWithPosts = DramaSeries & {
 
 const SERIES: DramaSeries[] = [
   {
+    slug: 'genius-girlfriend',
+    englishName: 'Genius Girlfriend',
+    chineseName: '天才，女友',
+    pinyin: 'Tiāncái, Nǚyǒu',
+    year: '2026',
+    synopsis:
+      "Tian Xiwei plays Lin Zhixia (林知夏), a physics prodigy with an IQ of 174 who is treated as a 怪胎 ('freak') by everyone around her; Hu Yitian plays Jiang Yubai (江逾白), the transfer student who becomes the one classmate willing to sit beside her. They start as high-school deskmates and academic rivals; she wins 保送 admission to Fudan, he vanishes when his mother is caught up in a fraud case, and they reunite as adults. The story runs into working life and marriage. The comma in the Chinese title is deliberate: genius and girlfriend as two competing labels for one person. Adapted from Su Guangtong's Jinjiang novel (earlier titles 《去有你的夏天》 and 《当你耀眼时》). Premiered August 2, 2026 on iQIYI, moved up from August 5; 28 episodes.",
+    postPrefix: 'genius-girlfriend-',
+    platforms: ['iQIYI'],
+    cast: ['Tian Xiwei', 'Hu Yitian', 'Lai Weiming', 'Li Jiaqi'],
+    novel: '《天才女友》by Su Guangtong (素光同)',
+    tags: ['modern', 'romance'],
+    status: 'airing',
+  },
+  {
     slug: 'ashes-to-crown',
     englishName: 'Ashes to Crown',
     chineseName: '翘楚',
