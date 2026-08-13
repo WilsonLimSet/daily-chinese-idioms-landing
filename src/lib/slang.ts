@@ -508,6 +508,7 @@ export const slangTerms: SlangTerm[] = [
     formality: 'very informal',
     metaTitle: 'CP Meaning in Chinese Chat — Couple, Shipping & 嗑CP Explained',
     metaDescription: 'What does CP mean in Chinese online chat? Short for "couple" — used when fans ship two people (real or fictional) as a romantic pair. 嗑CP means obsessing over a ship. Used on Weibo, Douyin, anime forums & C-drama fandoms.',
+    deepDiveSlug: 'cp-meaning-chinese-fandom-shipping-culture-explained',
   },
   {
     slug: 'da-call',
