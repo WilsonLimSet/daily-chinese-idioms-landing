@@ -11,6 +11,7 @@ import remarkGfm from 'remark-gfm';
 import { removeToneMarks } from '@/src/lib/utils/pinyin';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
+import { extractFaqEntries } from '@/src/lib/utils/faq';
 import '../blog.css';
 
 export async function generateStaticParams() {
@@ -168,6 +169,11 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
     withSpaces: noTones
   };
 
+  // Article posts carry their own hand-written FAQ section in the markdown.
+  // Idiom posts get a generated FAQPage further down (built from idioms.json);
+  // articles had none, so these Q&As were invisible to search engines.
+  const faqEntries = extractFaqEntries(post.content);
+
   // Process markdown content
   const processedContent = await remark()
     .use(remarkGfm)
@@ -228,7 +234,16 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
           "item": `https://www.chineseidioms.com/blog/${slug}`
         }
       ]
-    }
+    },
+    ...(faqEntries.length >= 2 ? [{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqEntries.map(({ question, answer }) => ({
+        "@type": "Question",
+        "name": question,
+        "acceptedAnswer": { "@type": "Answer", "text": answer }
+      }))
+    }] : [])
   ] : [
     {
       "@context": "https://schema.org",

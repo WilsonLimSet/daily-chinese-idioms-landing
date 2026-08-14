@@ -12,6 +12,7 @@ import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 import { getListiclesForIdiom, getLocalizedSlug as getLocalizedListicleSlug } from '@/src/lib/listicles';
 import { getDramaForBlogSlug, getRelatedDramas } from '@/src/lib/dramas';
+import { extractFaqEntries } from '@/src/lib/utils/faq';
 import '@/app/blog/blog.css';
 
 export async function generateStaticParams() {
@@ -210,6 +211,8 @@ export default async function InternationalBlogPostPage({
   const contentHtml = processedContent.toString();
 
   // Generate comprehensive structured data with proper inLanguage
+  const articleFaq = extractFaqEntries(post.content);
+
   const structuredData = [
     {
       '@context': 'https://schema.org',
@@ -240,7 +243,18 @@ export default async function InternationalBlogPostPage({
         '@id': `https://www.chineseidioms.com/${lang}/blog/${slug}`
       }
     },
-    // FAQ schema only applies to idiom posts — drama/article posts lack the characters/pinyin/meaning fields.
+    // Article posts carry a hand-written FAQ section in their own (translated)
+    // markdown; idiom posts have none and get the generated one below instead.
+    ...(isArticle && articleFaq.length >= 2 ? [{
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      inLanguage: lang,
+      mainEntity: articleFaq.map(({ question, answer }) => ({
+        '@type': 'Question',
+        name: question,
+        acceptedAnswer: { '@type': 'Answer', text: answer }
+      }))
+    }] : []),
     ...(isArticle ? [] : [{
       '@context': 'https://schema.org',
       '@type': 'FAQPage',
