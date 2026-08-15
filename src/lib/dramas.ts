@@ -94,7 +94,7 @@ const SERIES: DramaSeries[] = [
     platforms: ['Viki', 'WeTV', 'iQIYI'],
     cast: ['Zhang Linghe', 'Wang Churan', 'Fu Xinbo'],
     tags: ['historical', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'the-first-jasmine',
@@ -260,7 +260,7 @@ const SERIES: DramaSeries[] = [
     platforms: ['Netflix', 'Youku'],
     cast: ['Dylan Wang', 'Pan Yueming', 'Ren Min'],
     tags: ['mystery', 'modern'],
-    status: 'upcoming',
+    status: 'completed',
   },
   {
     slug: 'flourished-peony',
