@@ -220,7 +220,7 @@ export default async function InternationalBlogPostPage({
       headline: isArticle ? post.title : `${post.idiom.characters} - ${post.idiom.metaphoric_meaning}`,
       ...(isArticle ? {} : { alternativeHeadline: `${post.idiom.characters} (${post.idiom.pinyin})` }),
       datePublished: post.date,
-      dateModified: post.date,
+      dateModified: post.updated || post.date,
       author: {
         '@type': 'Organization',
         name: 'Chinese Idioms',

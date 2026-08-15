@@ -1,6 +1,7 @@
 ---
 title: Pursuit of Jade (逐玉) の結末解説：ハッピーエンドか悲しいエンドか？樊長玉と謝征に何が起こるのか
 date: '2026-04-19'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

@@ -1,6 +1,7 @@
 ---
 title: 팬 창위가 장군이 되나요? 네 — 꽃관 장군 (簪花将军). 逐玉 결말 아크 설명
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

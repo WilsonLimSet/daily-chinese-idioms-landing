@@ -1,6 +1,7 @@
 ---
 title: 'Pursuit of Jade (逐玉) 家系図とキャラクター関係: 三つの家族が一つの埋もれた犯罪を巡る'
 date: '2026-05-13'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

@@ -3,6 +3,7 @@ title: >-
   ¿Se convierte Fan Changyu en general? Sí — la General Coronada de Flores
   (簪花将军). El arco final de Pursuit of Jade explicado
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

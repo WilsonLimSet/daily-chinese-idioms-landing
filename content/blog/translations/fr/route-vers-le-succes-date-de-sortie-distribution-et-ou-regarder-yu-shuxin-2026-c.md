@@ -3,6 +3,7 @@ title: >-
   Route vers le succès (灿如繁星) Date de sortie, distribution et où regarder : le
   Cdrama de Yu Shuxin en 2026
 date: '2026-04-30'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

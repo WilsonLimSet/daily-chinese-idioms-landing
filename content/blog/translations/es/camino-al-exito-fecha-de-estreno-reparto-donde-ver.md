@@ -3,6 +3,7 @@ title: >-
   Camino al Éxito (灿如繁星) Fecha de Estreno, Reparto y Dónde Ver: El Cdrama de Yu
   Shuxin de 2026
 date: '2026-04-30'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

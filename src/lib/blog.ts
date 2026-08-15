@@ -11,6 +11,8 @@ export type BlogPost = {
   slug: string;
   title: string;
   date: string;
+  /** Optional last-revised date; falls back to `date` when absent. */
+  updated?: string;
   idiom: typeof idioms[0];
   content: string;
 };
@@ -60,6 +62,7 @@ export async function getAllBlogPosts(): Promise<BlogPost[]> {
           slug,
           title: data.title || '',
           date: data.date || PUBLISHED_DATE,
+          updated: data.updated || undefined,
           idiom: {
             id: '',
             characters: data.characters || '',

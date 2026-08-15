@@ -3,6 +3,7 @@ title: >-
   Est-ce que Fan Changyu devient général ? Oui — le Général Couronné de Fleurs
   (簪花将军). L'Arc Final de Pursuit of Jade Expliqué
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

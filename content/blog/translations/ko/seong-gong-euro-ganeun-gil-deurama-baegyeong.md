@@ -1,6 +1,7 @@
 ---
 title: '성공으로 가는 길 (灿如繁星) 방영일, 출연진 및 시청 방법: 유수신의 2026년 C드라마'
 date: '2026-04-30'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

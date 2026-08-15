@@ -93,7 +93,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       alternateLocale: ['es_ES', 'pt_BR', 'id_ID', 'vi_VN', 'ja_JP', 'ko_KR', 'th_TH', 'hi_IN', 'ar_AR', 'fr_FR', 'de_DE', 'tl_PH', 'ms_MY', 'ru_RU'],
       type: 'article',
       publishedTime: post.date,
-      modifiedTime: post.date,
+      modifiedTime: post.updated || post.date,
       authors: ['Chinese Idioms'],
       tags: ['Chinese idioms', 'Chengyu', post.idiom.theme, 'Learn Chinese'],
       images: ['/og-image.png'],
@@ -188,7 +188,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       "@type": "BlogPosting",
       "headline": post.title,
       "datePublished": post.date,
-      "dateModified": post.date,
+      "dateModified": post.updated || post.date,
       "author": {
         "@type": "Organization",
         "name": "Chinese Idioms",
@@ -266,7 +266,7 @@ export default async function BlogPost({ params }: { params: Promise<{ slug: str
       "headline": post.title,
       "alternativeHeadline": `${post.idiom.characters} - Chinese Idiom Meaning and Examples`,
       "datePublished": post.date,
-      "dateModified": post.date,
+      "dateModified": post.updated || post.date,
       "author": {
         "@type": "Organization",
         "name": "Chinese Idioms",

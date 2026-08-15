@@ -3,6 +3,7 @@ title: >-
   Weg zum Erfolg (灿如繁星) Veröffentlichungstermin, Besetzung & Wo man schauen
   kann: Yu Shuxins Cdrama von 2026
 date: '2026-04-30'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

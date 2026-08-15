@@ -1,6 +1,7 @@
 ---
 title: ファン・チャンユは将軍になるのか？はい — 簪花将軍（Flower-Crowned General）。逐玉のフィナーレアークの解説
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

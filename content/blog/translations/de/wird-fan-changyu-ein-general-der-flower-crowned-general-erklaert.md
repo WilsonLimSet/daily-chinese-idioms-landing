@@ -3,6 +3,7 @@ title: >-
   Wird Fan Changyu ein General? Ja — der Flower-Crowned General (簪花将军). Der
   Finale-Bogen von Pursuit of Jade erklärt
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

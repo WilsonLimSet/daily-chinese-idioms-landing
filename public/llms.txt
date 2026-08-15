@@ -6,11 +6,13 @@
 Chinese Idioms Daily is a comprehensive educational platform for learning Chinese idioms (chengyu/成语). We provide 1000+ idioms with pinyin pronunciation, English meanings, cultural origins, and practical usage examples in 14 languages. The site also features 250+ curated listicles organizing idioms by theme, occasion, and meaning.
 
 ## Quick Facts
-- Total Idioms: 1000+ carefully curated Chinese idioms
-- Curated Lists: 250+ thematic listicles
-- Languages: English, Spanish, Portuguese, French, Indonesian, Vietnamese, Thai, Japanese, Korean, Hindi, Arabic, Tagalog, Malay, Russian
-- Content Type: Educational reference, language learning
-- Updates: Daily idiom updates
+- Total Idioms: 1,001 Chinese idioms (chengyu), each with pinyin, literal + metaphoric meaning, origin and examples
+- Curated Lists: 298 thematic listicles
+- Long-form Articles: 198 cultural essays (C-drama guides, internet-slang explainers, history and mythology)
+- Other Reference Sets: 82 internet-slang terms, 81 everyday phrases, 27 dramas, 27 classical poems, 21 mythological figures, 12 zodiac signs, 10 poets, 8 festivals
+- Languages: English plus 6 actively maintained translations (Japanese, French, German, Spanish, Korean, Indonesian). Eight further languages (Arabic, Hindi, Malay, Portuguese, Russian, Thai, Tagalog, Vietnamese) remain published but are no longer updated and are marked noindex.
+- Content Type: Educational reference, language learning, Chinese cultural context
+- Updates: New idiom and drama/culture articles published regularly
 
 ## Key Content Sections
 
@@ -65,16 +67,34 @@ URL: /dramas
 Description: Deep-dive cultural guides for Chinese dramas (C-dramas). Real historical context, symbolism, famous quote explanations, and filming-location breakdowns. Covers the most-watched C-dramas on Netflix, Viki, Disney+, iQIYI, and Youku.
 Best for answering: "[Drama] real history", "[Drama] ending explained", "What is [Drama] about", "Pursuit of Jade history", "First Frost Hidden Love universe", "Joy of Life 2 time travel", "Light to the Night Dylan Wang", "Flourished Peony Luoyang", "Chinese drama symbolism", "C-drama cultural context", "chinese drama filming locations"
 
-Individual drama hubs (each page lists all cultural essays for that drama):
-- /dramas/pursuit-of-jade — Pursuit of Jade (逐玉, 2026) — #1 C-drama of all time on Netflix, 7M+ views
-- /dramas/first-frost — The First Frost (难哄, 2025) — Bai Jingting + Zhang Ruonan, Hidden Love sibling drama
-- /dramas/hidden-love — Hidden Love (偷偷藏不住, 2023) — Zhao Lusi + Chen Zheyuan
-- /dramas/joy-of-life-2 — Joy of Life 2 (庆余年2, 2024) — first C-drama on Disney+ day-and-date
-- /dramas/light-to-the-night — Light to the Night (黑夜告白, 2026) — Netflix global first-run, Dylan Wang
-- /dramas/flourished-peony — Flourished Peony (国色芳华, 2025) — Yang Zi, Tang-dynasty peony empire
-- /dramas/the-heir — The Heir (祯娘传, 2026) — Yang Zi, Ming-dynasty ink making
-- /dramas/guardians-of-dafeng — Guardians of Dafeng (大奉打更人, 2026) — Dylan Wang, cultivation mystery
-- /dramas/love-beyond-the-grave — Love Beyond the Grave (聊斋之兰若寺, 2026) — Dilraba Dilmurat, ghost romance
+Individual drama hubs (each page lists all cultural essays for that drama), newest and currently-airing first:
+- /dramas/dear-you — Dear You (给阿嬷的情书, 2026) — Li Sitong, Wu Shaoqing
+- /dramas/genius-girlfriend — Genius Girlfriend (天才，女友, 2026) — Tian Xiwei, Hu Yitian
+- /dramas/overdo — Overdo (这一秒过火, 2026) — Zhang Linghe, Wang Churan
+- /dramas/the-heir — The Heir (祯娘传, 2026) — Yang Zi
+- /dramas/ashes-to-crown — Ashes to Crown (翘楚, 2026) — Chen Duling, Zhou Yiran
+- /dramas/blossoms-of-power — Blossoms of Power (百花杀, 2026) — Meng Ziyi, He Yu
+- /dramas/blossoms-shanghai — Blossoms Shanghai (繁花, 2023) — Hu Ge, Ma Yili
+- /dramas/fate-chooses-you — Fate Chooses You (佳偶天成, 2026) — Ren Jialun, Wang Herun
+- /dramas/fated-hearts — Fated Hearts (一笑随歌, 2025) — Li Qin, Chen Zheyuan
+- /dramas/flourished-peony — Flourished Peony (国色芳华, 2025) — Yang Zi, Li Xian
+- /dramas/generation-to-generation — Generation to Generation (江湖夜雨十年灯, 2026) — Zhou Yiran, Wan Peng
+- /dramas/guardians-of-dafeng — Guardians of Dafeng (大奉打更人, 2026) — Li Xian, Tian Xiwei
+- /dramas/hidden-love — Hidden Love (偷偷藏不住, 2023) — Zhao Lusi, Chen Zheyuan
+- /dramas/joy-of-life-2 — Joy of Life 2 (庆余年第二季, 2024) — Zhang Ruoyun, Chen Daoming
+- /dramas/key-to-the-phoenix-heart — Key to the Phoenix Heart (雀骨, 2026) — Neo Hou Minghao, Ai Mi
+- /dramas/legend-of-zang-hai — Legend of Zang Hai (藏海传, 2025) — Xiao Zhan, Zhang Jingyi
+- /dramas/love-beyond-the-grave — Love Beyond the Grave (白日提灯, 2026) — Dilraba Dilmurat, Arthur Chen Feiyu
+- /dramas/love-for-you — Love For You (野狗骨头, 2026) — Song Weilong, Zhang Jingyi
+- /dramas/never-ending-summer — Never-Ending Summer (炽夏, 2026) — Bao Shang'en, Daniel Zhou
+- /dramas/pursuit-of-jade — Pursuit of Jade (逐玉, 2026) — Tian Xiwei, Zhang Linghe
+- /dramas/road-to-success — Road to Success (灿如繁星, 2026) — Yu Shuxin, Chen Jingke
+- /dramas/shine-on-me — Shine on Me (骄阳似我, 2025) — Song Weilong, Zhao Jinmai
+- /dramas/the-demon-hunters-romance — The Demon Hunter's Romance (无忧渡, 2025) — Ren Jialun, Song Zu'er
+- /dramas/first-frost — The First Frost (难哄, 2025) — Bai Jingting, Zhang Ruonan
+- /dramas/the-first-jasmine — The First Jasmine (莫离, 2026) — Bai Lu, Cheng Lei
+- /dramas/unveil-jadewind — Unveil: Jadewind (唐宫奇案, 2026) — Bai Lu, Wang Xingyue
+- /dramas/light-to-the-night — Light to the Night (黑夜告白, 2026) — Dylan Wang, Pan Yueming
 
 Flagship drama essays:
 - /blog/pursuit-of-jade-history-behind-the-drama — matrilocal marriage, military purges, women warriors
@@ -96,10 +116,27 @@ Flagship drama essays:
 - /blog/joy-of-life-3-preview-what-season-2-set-up — S3 preview
 - /blog/flourished-peony-real-tang-dynasty-women-commerce-divorce-law — Tang widow rights, 和离 divorce
 - /blog/flourished-peony-famous-quotes-he-weifang-guose-tianxiang — famous quotes
-- /blog/peony-meaning-chinese-culture-guose-tianxiang-symbolism — peony symbolism, Wu Zetian legend
+- /blog/flourished-peony-meaning-chinese-culture-symbolism — peony symbolism, Wu Zetian legend
 - /blog/flourished-peony-real-luoyang-tang-eastern-capital-filming — Luoyang, Longmen Grottoes
 
-All drama essays localized in 14 languages at /{lang}/blog/{localized-slug} — lang is one of: ar, de, es, fr, hi, id, ja, ko, ms, pt, ru, th, tl, vi
+Drama and culture essays are localized at /{lang}/blog/{localized-slug}. Actively maintained: de, es, fr, id, ja, ko. Legacy, still published but no longer updated and marked noindex: ar, hi, ms, pt, ru, th, tl, vi.
+
+### Chinese Internet Slang & Everyday Phrases
+URL: /slang and /phrases
+Description: 82 internet-slang terms and 81 everyday spoken phrases, each with characters, pinyin, meaning, origin story and usage examples. Slang entries cover the register and social context a dictionary gloss misses; the most-searched terms have long-form explainers.
+Best for answering: "What does [term] mean in Chinese", "Chinese internet slang explained", "what does CP mean in Chinese", "嗑CP meaning", "YYDS meaning", "what does 天台见 mean", "Chinese stock market slang", "内卷 / 躺平 / 摆烂 meaning", "Chinese fandom terminology"
+
+Notable long-form slang explainers:
+- /blog/cp-meaning-chinese-fandom-shipping-culture-explained — CP, 嗑CP, CP粉 vs 唯粉, 官宣, 拆CP, 炒CP
+- /blog/tian-tai-jian-meaning-chinese-slang-see-you-on-the-roof — 天台见, its 2014 World Cup betting origin and stock-crash usage
+- /blog/chinese-stock-market-slang-investor-memes — 韭菜, 关灯吃面, 上车, 套牢, 割肉 and 11 more
+- /blog/yyds-meaning-chinese-internet-slang-yong-yuan-de-shen — YYDS / 永远的神
+- /blog/wuxia-concepts-explained-meridians-qi-neili-zouhuorumo — 经脉, 气, 丹田, 内力, 走火入魔, 废武功
+
+### Chinese Mythology, Zodiac, Festivals & Classical Poetry
+URL: /mythology, /zodiac, /festivals, /poems, /poets
+Description: 21 mythological gods and creatures, the 12 zodiac signs, 8 traditional festivals, 27 classical poems and 10 major poets — each with cultural context rather than bare definitions.
+Best for answering: "Who is Sun Wukong", "What is a qilin", "Chinese dragon vs Western dragon", "Chinese zodiac order and the Great Race", "year of the horse 2026", "Hungry Ghost Festival explained", "Mid-Autumn Festival traditions", "Chinese poem meaning"
 
 ### Curated Lists by Topic
 URL: /blog/lists

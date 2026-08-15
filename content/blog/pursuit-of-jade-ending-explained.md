@@ -1,6 +1,7 @@
 ---
 title: "Pursuit of Jade (逐玉) Ending Explained: Is It a Happy or Sad Ending? What Happens to Fan Changyu and Xie Zheng"
 date: "2026-04-19"
+updated: "2026-08-02"
 characters: ""
 pinyin: ""
 meaning: ""

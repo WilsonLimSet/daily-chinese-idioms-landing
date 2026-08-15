@@ -3,6 +3,7 @@ title: >-
   Apakah Fan Changyu Menjadi Jenderal? Ya — Jenderal Bermahkota Bunga (簪花将军).
   Penjelasan Arc Finale Pursuit of Jade
 date: '2026-03-29'
+updated: "2026-08-02"
 characters: ''
 pinyin: ''
 meaning: ''

@@ -1,6 +1,7 @@
 ---
 title: "Does Fan Changyu Become a General? Yes — the Flower-Crowned General (簪花将军). The Pursuit of Jade Finale Arc Explained"
 date: "2026-03-29"
+updated: "2026-08-02"
 characters: ""
 pinyin: ""
 meaning: ""
