@@ -3,6 +3,7 @@ title: >-
   Kota Nyata Xiamen di Balik Hidden Love (偷偷藏不住): Lokasi Syuting yang Bisa Anda
   Kunjungi
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -15,7 +16,7 @@ description: >-
   identitas visual pada drama ini. Berikut adalah panduan lokasi lengkap.
 originalSlug: hidden-love-xiamen-filming-locations-real-places
 ---
-*Hidden Love (偷偷藏不住)* berlatar di kota fiksi bernama Nanwu (南武). Kota ini berbagi nama dengan latar *First Frost* — penulis yang sama (Zhu Yi), geografi yang sama. Namun *Hidden Love* tidak difilmkan di tempat yang sama dengan *First Frost*. *First Frost* diambil di Chongqing. *Hidden Love* diambil di **Xiamen (厦门)**, kota pelabuhan pesisir di Provinsi Fujian di pantai tenggara China.
+*Hidden Love (偷偷藏不住)* berlatar di kota fiksi bernama Nanwu (南芜). Kota ini berbagi nama dengan latar *First Frost* — penulis yang sama (Zhu Yi), geografi yang sama. Namun *Hidden Love* tidak difilmkan di tempat yang sama dengan *First Frost*. *First Frost* diambil di Chongqing. *Hidden Love* diambil di **Xiamen (厦门)**, kota pelabuhan pesisir di Provinsi Fujian di pantai tenggara China.
 
 Perbedaan visual ini disengaja. Chongqing adalah kota pegunungan dan kabut. Xiamen adalah laut dan kampus. Kedua kota, dalam semesta bersama Zhu Yi, mewakili register emosional yang berbeda dari Nanwu fiksi yang sama — hangat dan nostalgia dalam *Hidden Love*, keras dan melankolis dalam *First Frost*. Kota-kota yang dipilih untuk syuting masing-masing versi tidak dapat dipertukarkan.
 

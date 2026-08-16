@@ -103,9 +103,9 @@ Jika anda mendengar seorang peminat mendakwa bahawa *When I Fly Towards You* ber
 
 ---
 
-## Bandar yang Dikongsi: Nanwu (南武)
+## Bandar yang Dikongsi: Nanwu (南芜)
 
-Kedua-dua novel ini ditetapkan di sebuah bandar Cina fiksyen yang dipanggil Nanwu (南武). Ia bukan tempat yang sebenar. Zhu Yi menciptanya daripada menggunakan Beijing, Shanghai, atau mana-mana metropolis yang boleh dikenali — sebahagiannya untuk mengelakkan diperbetulkan mengenai laluan bas dan nama daerah, dan sebahagiannya kerana bandar fiksyen boleh membawa berat simbolik yang tidak dapat dilakukan oleh bandar yang sebenar.
+Kedua-dua novel ini ditetapkan di sebuah bandar Cina fiksyen yang dipanggil Nanwu (南芜). Ia bukan tempat yang sebenar. Zhu Yi menciptanya daripada menggunakan Beijing, Shanghai, atau mana-mana metropolis yang boleh dikenali — sebahagiannya untuk mengelakkan diperbetulkan mengenai laluan bas dan nama daerah, dan sebahagiannya kerana bandar fiksyen boleh membawa berat simbolik yang tidak dapat dilakukan oleh bandar yang sebenar.
 
 Tetapi Nanwu muncul *berbeza* dalam setiap novel:
 

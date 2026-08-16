@@ -3,6 +3,7 @@ title: >-
   La véritable Xiamen derrière Hidden Love (偷偷藏不住) : Lieux de tournage que vous
   pouvez réellement visiter
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -16,7 +17,7 @@ description: >-
   guide complet des lieux.
 originalSlug: hidden-love-xiamen-filming-locations-real-places
 ---
-*Hidden Love (偷偷藏不住)* se déroule dans une ville fictive appelée Nanwu (南武). La ville partage son nom avec le cadre de *First Frost* — même auteur (Zhu Yi), même géographie inventée. Mais *Hidden Love* n'a pas été filmé au même endroit que *First Frost*. *First Frost* a été tourné à Chongqing. *Hidden Love* a été filmé à **Xiamen (厦门)**, la ville portuaire côtière de la province du Fujian sur la côte sud-est de la Chine.
+*Hidden Love (偷偷藏不住)* se déroule dans une ville fictive appelée Nanwu (南芜). La ville partage son nom avec le cadre de *First Frost* — même auteur (Zhu Yi), même géographie inventée. Mais *Hidden Love* n'a pas été filmé au même endroit que *First Frost*. *First Frost* a été tourné à Chongqing. *Hidden Love* a été filmé à **Xiamen (厦门)**, la ville portuaire côtière de la province du Fujian sur la côte sud-est de la Chine.
 
 La différence visuelle est délibérée. Chongqing est montagne et brouillard. Xiamen est océan et campus. Les deux villes, dans l'univers partagé de Zhu Yi, représentent différents registres émotionnels du même Nanwu fictif — chaleureux et nostalgique dans *Hidden Love*, dur et mélancolique dans *First Frost*. Les villes choisies pour filmer chaque version n'étaient pas interchangeables.
 

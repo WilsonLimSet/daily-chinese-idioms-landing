@@ -16,7 +16,7 @@ description: >-
   visual na pagkakakilanlan. Narito ang buong gabay sa lokasyon.
 originalSlug: hidden-love-xiamen-filming-locations-real-places
 ---
-*Hidden Love (偷偷藏不住)* ay nakatakbo sa isang kathang-isip na lungsod na tinatawag na Nanwu (南武). Ang lungsod ay may parehong pangalan sa setting ng *First Frost* — parehong may-akda (Zhu Yi), parehong imbentong heograpiya. Ngunit ang *Hidden Love* ay hindi kinunan sa parehong lugar na kinuha ng *First Frost*. Ang *First Frost* ay kinunan sa Chongqing. Ang *Hidden Love* ay kinunan sa **Xiamen (厦门)**, ang baybayin na lungsod sa Fujian Province sa timog-silangang baybayin ng Tsina.
+*Hidden Love (偷偷藏不住)* ay nakatakbo sa isang kathang-isip na lungsod na tinatawag na Nanwu (南芜). Ang lungsod ay may parehong pangalan sa setting ng *First Frost* — parehong may-akda (Zhu Yi), parehong imbentong heograpiya. Ngunit ang *Hidden Love* ay hindi kinunan sa parehong lugar na kinuha ng *First Frost*. Ang *First Frost* ay kinunan sa Chongqing. Ang *Hidden Love* ay kinunan sa **Xiamen (厦门)**, ang baybayin na lungsod sa Fujian Province sa timog-silangang baybayin ng Tsina.
 
 Ang visual na pagkakaiba ay sinadyang. Ang Chongqing ay bundok-at-ulap. Ang Xiamen ay dagat-at-kampus. Ang parehong mga lungsod, sa ibinahaging uniberso ni Zhu Yi, ay kumakatawan sa iba't ibang emosyonal na rehistro ng parehong kathang-isip na Nanwu — mainit at nostalhik sa *Hidden Love*, mahirap at melancholic sa *First Frost*. Ang mga lungsod na pinili para sa pagkuha ng bawat bersyon ay hindi mapapalitan.
 

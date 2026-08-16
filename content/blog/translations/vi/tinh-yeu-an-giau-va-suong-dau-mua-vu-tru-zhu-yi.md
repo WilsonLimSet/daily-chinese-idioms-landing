@@ -103,9 +103,9 @@ Nếu bạn nghe một người hâm mộ nói rằng *When I Fly Towards You* c
 
 ---
 
-## Thành Phố Chia Sẻ: Nanwu (南武)
+## Thành Phố Chia Sẻ: Nanwu (南芜)
 
-Cả hai tiểu thuyết đều được đặt trong một thành phố hư cấu của Trung Quốc gọi là Nanwu (南武). Đây không phải là một nơi có thật. Zhu Yi đã sáng tạo ra nó thay vì sử dụng Bắc Kinh, Thượng Hải, hoặc bất kỳ đô thị nào khác có thể nhận diện — một phần để tránh bị sửa chữa về các tuyến xe buýt và tên quận, và một phần vì một thành phố hư cấu có thể mang trọng lượng biểu tượng mà một thành phố thật không thể.
+Cả hai tiểu thuyết đều được đặt trong một thành phố hư cấu của Trung Quốc gọi là Nanwu (南芜). Đây không phải là một nơi có thật. Zhu Yi đã sáng tạo ra nó thay vì sử dụng Bắc Kinh, Thượng Hải, hoặc bất kỳ đô thị nào khác có thể nhận diện — một phần để tránh bị sửa chữa về các tuyến xe buýt và tên quận, và một phần vì một thành phố hư cấu có thể mang trọng lượng biểu tượng mà một thành phố thật không thể.
 
 Nhưng Nanwu xuất hiện *khác nhau* trong mỗi tiểu thuyết:
 

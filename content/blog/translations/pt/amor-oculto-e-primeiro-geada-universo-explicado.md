@@ -103,9 +103,9 @@ Se você ouvir um fã afirmar que *When I Fly Towards You* compartilha um univer
 
 ---
 
-## A Cidade Compartilhada: Nanwu (南武)
+## A Cidade Compartilhada: Nanwu (南芜)
 
-Ambos os romances se passam em uma cidade chinesa fictícia chamada Nanwu (南武). Não é um lugar real. Zhu Yi a inventou em vez de usar Pequim, Xangai ou qualquer outra metrópole identificável — em parte para evitar correções sobre rotas de ônibus e nomes de distritos, e em parte porque uma cidade fictícia pode carregar um peso simbólico que uma real não pode.
+Ambos os romances se passam em uma cidade chinesa fictícia chamada Nanwu (南芜). Não é um lugar real. Zhu Yi a inventou em vez de usar Pequim, Xangai ou qualquer outra metrópole identificável — em parte para evitar correções sobre rotas de ônibus e nomes de distritos, e em parte porque uma cidade fictícia pode carregar um peso simbólico que uma real não pode.
 
 Mas Nanwu aparece *diferente* em cada romance:
 

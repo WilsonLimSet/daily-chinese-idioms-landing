@@ -3,6 +3,7 @@ title: >-
   L'Amour Caché et le Premier Gel Se Déroulent Dans le Même Univers : Les Romans
   de Zhu Yi (竹已) Expliqués
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -103,9 +104,9 @@ Si vous entendez un fan affirmer que *When I Fly Towards You* partage un univers
 
 ---
 
-## La Ville Partagée : Nanwu (南武)
+## La Ville Partagée : Nanwu (南芜)
 
-Les deux romans se déroulent dans une ville chinoise fictive appelée Nanwu (南武). Ce n'est pas un endroit réel. Zhu Yi l'a inventée plutôt que d'utiliser Pékin, Shanghai ou toute autre métropole identifiable — en partie pour éviter d'être corrigée sur les itinéraires de bus et les noms de districts, et en partie parce qu'une ville fictive peut porter un poids symbolique qu'une réelle ne peut pas.
+Les deux romans se déroulent dans une ville chinoise fictive appelée Nanwu (南芜). Ce n'est pas un endroit réel. Zhu Yi l'a inventée plutôt que d'utiliser Pékin, Shanghai ou toute autre métropole identifiable — en partie pour éviter d'être corrigée sur les itinéraires de bus et les noms de districts, et en partie parce qu'une ville fictive peut porter un poids symbolique qu'une réelle ne peut pas.
 
 Mais Nanwu apparaît *différemment* dans chaque roman :
 

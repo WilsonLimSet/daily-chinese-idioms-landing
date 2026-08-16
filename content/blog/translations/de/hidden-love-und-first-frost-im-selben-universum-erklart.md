@@ -3,6 +3,7 @@ title: >-
   Hidden Love und First Frost spielen im selben Universum: Die Zhu Yi (竹已)
   Romane erklärt
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -103,9 +104,9 @@ Wenn Sie einen Fan hören, der behauptet, dass *When I Fly Towards You* ein Univ
 
 ---
 
-## Die geteilte Stadt: Nanwu (南武)
+## Die geteilte Stadt: Nanwu (南芜)
 
-Beide Romane spielen in einer fiktiven chinesischen Stadt namens Nanwu (南武). Es ist kein echter Ort. Zhu Yi hat sie erfunden, anstatt Beijing, Shanghai oder eine andere identifizierbare Metropole zu verwenden — teilweise, um nicht über Buslinien und Stadtteilnamen korrigiert zu werden, und teilweise, weil eine fiktive Stadt symbolisches Gewicht tragen kann, das eine echte nicht kann.
+Beide Romane spielen in einer fiktiven chinesischen Stadt namens Nanwu (南芜). Es ist kein echter Ort. Zhu Yi hat sie erfunden, anstatt Beijing, Shanghai oder eine andere identifizierbare Metropole zu verwenden — teilweise, um nicht über Buslinien und Stadtteilnamen korrigiert zu werden, und teilweise, weil eine fiktive Stadt symbolisches Gewicht tragen kann, das eine echte nicht kann.
 
 Aber Nanwu erscheint in jedem Roman *anders*:
 

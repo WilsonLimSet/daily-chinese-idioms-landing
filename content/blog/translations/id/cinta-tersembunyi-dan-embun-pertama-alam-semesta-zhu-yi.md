@@ -3,6 +3,7 @@ title: >-
   Cinta Tersembunyi dan Embun Pertama Terletak di Alam Semesta yang Sama:
   Novel-novel Zhu Yi (竹已) Dijelaskan
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -103,9 +104,9 @@ Jika Anda mendengar seorang penggemar mengklaim bahwa *When I Fly Towards You* b
 
 ---
 
-## Kota Bersama: Nanwu (南武)
+## Kota Bersama: Nanwu (南芜)
 
-Kedua novel ini berlatar di kota fiksi Tiongkok yang disebut Nanwu (南武). Ini bukan tempat nyata. Zhu Yi menciptakannya daripada menggunakan Beijing, Shanghai, atau metropolis lain yang dapat dikenali — sebagian untuk menghindari dikoreksi tentang rute bus dan nama distrik, dan sebagian karena kota fiksi dapat membawa bobot simbolis yang tidak dapat dibawa oleh kota nyata.
+Kedua novel ini berlatar di kota fiksi Tiongkok yang disebut Nanwu (南芜). Ini bukan tempat nyata. Zhu Yi menciptakannya daripada menggunakan Beijing, Shanghai, atau metropolis lain yang dapat dikenali — sebagian untuk menghindari dikoreksi tentang rute bus dan nama distrik, dan sebagian karena kota fiksi dapat membawa bobot simbolis yang tidak dapat dibawa oleh kota nyata.
 
 Tetapi Nanwu muncul *berbeda* di setiap novel:
 

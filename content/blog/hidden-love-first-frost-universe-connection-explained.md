@@ -1,6 +1,7 @@
 ---
 title: "Hidden Love and First Frost Are Set in the Same Universe: The Zhu Yi (竹已) Novels Explained"
 date: "2026-04-24"
+updated: "2026-08-16"
 characters: ""
 pinyin: ""
 meaning: ""
@@ -96,9 +97,9 @@ If you hear a fan claim that *When I Fly Towards You* shares a universe with *Hi
 
 ---
 
-## The Shared City: Nanwu (南武)
+## The Shared City: Nanwu (南芜)
 
-Both novels are set in a fictional Chinese city called Nanwu (南武). It is not a real place. Zhu Yi invented it rather than using Beijing, Shanghai, or any other identifiable metropolis — partly to avoid being corrected on bus routes and district names, and partly because a fictional city can carry symbolic weight that a real one can't.
+Both novels are set in a fictional Chinese city called Nanwu (南芜). It is not a real place. Zhu Yi invented it rather than using Beijing, Shanghai, or any other identifiable metropolis — partly to avoid being corrected on bus routes and district names, and partly because a fictional city can carry symbolic weight that a real one can't.
 
 But Nanwu appears *differently* in each novel:
 

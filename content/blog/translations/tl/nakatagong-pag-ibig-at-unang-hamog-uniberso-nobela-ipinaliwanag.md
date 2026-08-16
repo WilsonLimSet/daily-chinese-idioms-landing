@@ -104,9 +104,9 @@ Kung maririnig mo ang isang tagahanga na nagsasabing ang *When I Fly Towards You
 
 ---
 
-## Ang Ibinahaging Lungsod: Nanwu (南武)
+## Ang Ibinahaging Lungsod: Nanwu (南芜)
 
-Ang parehong mga nobela ay nakatakbo sa isang kathang-isip na lungsod sa Tsina na tinatawag na Nanwu (南武). Ito ay hindi isang totoong lugar. Inimbento ito ni Zhu Yi sa halip na gumamit ng Beijing, Shanghai, o anumang iba pang kilalang metropolis — bahagi upang maiwasan ang pagkakamali sa mga ruta ng bus at mga pangalan ng distrito, at bahagi dahil ang isang kathang-isip na lungsod ay maaaring magdala ng simbolikong bigat na hindi kayang dalhin ng isang totoong lungsod.
+Ang parehong mga nobela ay nakatakbo sa isang kathang-isip na lungsod sa Tsina na tinatawag na Nanwu (南芜). Ito ay hindi isang totoong lugar. Inimbento ito ni Zhu Yi sa halip na gumamit ng Beijing, Shanghai, o anumang iba pang kilalang metropolis — bahagi upang maiwasan ang pagkakamali sa mga ruta ng bus at mga pangalan ng distrito, at bahagi dahil ang isang kathang-isip na lungsod ay maaaring magdala ng simbolikong bigat na hindi kayang dalhin ng isang totoong lungsod.
 
 Ngunit ang Nanwu ay lumalabas *na iba* sa bawat nobela:
 

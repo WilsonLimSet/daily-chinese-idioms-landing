@@ -3,6 +3,7 @@ title: >-
   El Amor Oculto y el Primer Frío Están Ambientados en el Mismo Universo: Las
   Novelas de Zhu Yi (竹已) Explicadas
 date: '2026-04-24'
+updated: "2026-08-16"
 characters: ''
 pinyin: ''
 meaning: ''
@@ -103,9 +104,9 @@ Si escuchas a un fan afirmar que *When I Fly Towards You* comparte un universo c
 
 ---
 
-## La Ciudad Compartida: Nanwu (南武)
+## La Ciudad Compartida: Nanwu (南芜)
 
-Ambas novelas están ambientadas en una ciudad china ficticia llamada Nanwu (南武). No es un lugar real. Zhu Yi la inventó en lugar de usar Beijing, Shanghai o cualquier otra metrópoli identificable — en parte para evitar ser corregida sobre rutas de autobús y nombres de distritos, y en parte porque una ciudad ficticia puede llevar un peso simbólico que una real no puede.
+Ambas novelas están ambientadas en una ciudad china ficticia llamada Nanwu (南芜). No es un lugar real. Zhu Yi la inventó en lugar de usar Beijing, Shanghai o cualquier otra metrópoli identificable — en parte para evitar ser corregida sobre rutas de autobús y nombres de distritos, y en parte porque una ciudad ficticia puede llevar un peso simbólico que una real no puede.
 
 Pero Nanwu aparece *diferente* en cada novela:
 

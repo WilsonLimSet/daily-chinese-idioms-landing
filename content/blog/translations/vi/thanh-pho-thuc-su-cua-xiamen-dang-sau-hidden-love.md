@@ -15,7 +15,7 @@ description: >-
   tạo nên bản sắc hình ảnh cho bộ phim. Đây là hướng dẫn đầy đủ về các địa điểm.
 originalSlug: hidden-love-xiamen-filming-locations-real-places
 ---
-*Hidden Love (偷偷藏不住)* diễn ra tại một thành phố hư cấu có tên là Nanwu (南武). Thành phố này chia sẻ tên với bối cảnh của *First Frost* — cùng tác giả (Zhu Yi), cùng địa lý hư cấu. Nhưng *Hidden Love* không quay ở cùng một nơi mà *First Frost* đã thực hiện. *First Frost* được quay ở Trùng Khánh. *Hidden Love* được quay tại **Xiamen (厦门)**, thành phố cảng ven biển ở tỉnh Phúc Kiến trên bờ biển phía đông nam của Trung Quốc.
+*Hidden Love (偷偷藏不住)* diễn ra tại một thành phố hư cấu có tên là Nanwu (南芜). Thành phố này chia sẻ tên với bối cảnh của *First Frost* — cùng tác giả (Zhu Yi), cùng địa lý hư cấu. Nhưng *Hidden Love* không quay ở cùng một nơi mà *First Frost* đã thực hiện. *First Frost* được quay ở Trùng Khánh. *Hidden Love* được quay tại **Xiamen (厦门)**, thành phố cảng ven biển ở tỉnh Phúc Kiến trên bờ biển phía đông nam của Trung Quốc.
 
 Sự khác biệt về hình ảnh là có chủ ý. Trùng Khánh là thành phố núi và sương mù. Xiamen là thành phố biển và khuôn viên. Cả hai thành phố, trong vũ trụ chung của Zhu Yi, đại diện cho những cảm xúc khác nhau của cùng một Nanwu hư cấu — ấm áp và hoài niệm trong *Hidden Love*, khắc nghiệt và u sầu trong *First Frost*. Các thành phố được chọn để quay cho mỗi phiên bản không thể thay thế cho nhau.
 
