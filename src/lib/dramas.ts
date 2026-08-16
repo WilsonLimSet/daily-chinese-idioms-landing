@@ -50,7 +50,7 @@ const SERIES: DramaSeries[] = [
     cast: ['Tian Xiwei', 'Hu Yitian', 'Lai Weiming', 'Li Jiaqi'],
     novel: '《天才女友》by Su Guangtong (素光同)',
     tags: ['modern', 'romance'],
-    status: 'airing',
+    status: 'completed',
   },
   {
     slug: 'ashes-to-crown',
