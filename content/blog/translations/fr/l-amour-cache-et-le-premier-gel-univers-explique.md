@@ -1,7 +1,5 @@
 ---
-title: >-
-  L'Amour Caché et le Premier Gel Se Déroulent Dans le Même Univers : Les Romans
-  de Zhu Yi (竹已) Expliqués
+title: "Hidden Love et First Frost sont-ils liés ? Oui — Sang Zhi et Sang Yan sont frère et sœur"
 date: '2026-04-24'
 updated: "2026-08-16"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  L'Amour Caché (偷偷藏不住) et le Premier Gel (难哄) partagent des personnages — non
-  pas comme une théorie de fans, mais comme une intention explicite de l'auteur
-  Zhu Yi (竹已). Sang Zhi est la sœur cadette de Sang Yan. Voici comment l'univers
-  cinématographique de Zhu Yi se connecte réellement, et ce que cela signifie
-  pour les spectateurs qui regardent l'un après l'autre.
+description: "Hidden Love (偷偷藏不住) et First Frost (难哄) se déroulent dans le même univers par la volonté explicite de l’autrice, et non selon une théorie de fans. Sang Zhi est la petite sœur de Sang Yan. Voici comment les romans de Zhu Yi (竹已) se connectent et dans quel ordre les regarder."
 originalSlug: hidden-love-first-frost-universe-connection-explained
 ---
 Si vous avez regardé *L'Amour Caché* sur Netflix en 2023 puis *Le Premier Gel* en 2025, vous avez peut-être remarqué un nom de famille qui se répète. Le frère aîné de Sang Zhi s'appelle Sang Yan. Le protagoniste masculin de *Le Premier Gel* s'appelle également Sang Yan. Les deux personnages portent le même nom parce qu'ils sont le même personnage.

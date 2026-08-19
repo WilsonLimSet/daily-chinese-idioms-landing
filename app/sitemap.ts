@@ -29,8 +29,16 @@ const THEME_SLUGS = [
 // 1 = English listicles
 // 2..14 = Multilingual content (one per language, mapped to LANGUAGE_CODES[id - 2])
 export async function generateSitemaps() {
-  // 2 English sitemaps + 13 language sitemaps
-  return Array.from({ length: 2 + LANGUAGE_CODES.length }, (_, i) => ({ id: i }));
+  // 0 = static + English blog, 1 = English listicles, 2..N = one per language.
+  // Languages in NOINDEX_LANGUAGE_CODES are skipped: their pages are noindexed,
+  // so an entry would be an empty <urlset>, which Search Console reports as an
+  // error. IDs stay aligned with LANGUAGE_CODES[id - 2] so the mapping below
+  // is unchanged; the skipped IDs are simply never generated.
+  const ids = [0, 1];
+  LANGUAGE_CODES.forEach((lang, i) => {
+    if (!isNoindexLanguage(lang)) ids.push(i + 2);
+  });
+  return ids.map((id) => ({ id }));
 }
 
 export default async function sitemap(props: {

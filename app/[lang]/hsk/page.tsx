@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
 import { HSK_LEVEL_DESCRIPTIONS, getHSKByLevel } from '@/src/lib/hsk';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/hsk',
         'en': '/hsk',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/hsk`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/hsk`])
         ),
       },
     },

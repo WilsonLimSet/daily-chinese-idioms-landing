@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { getAllBlogPosts } from '@/src/lib/blog-intl';
-import { LANGUAGES } from '@/src/lib/constants';
+import { LANGUAGES, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -97,7 +97,7 @@ export async function generateMetadata({ params }: { params: Promise<{ theme: st
         'x-default': `/themes/${theme}`,
         'en': `/themes/${theme}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/themes/${theme}`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/themes/${theme}`])
         ),
       },
     },

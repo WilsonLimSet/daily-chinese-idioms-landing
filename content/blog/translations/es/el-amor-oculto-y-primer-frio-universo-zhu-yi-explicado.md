@@ -1,7 +1,5 @@
 ---
-title: >-
-  El Amor Oculto y el Primer Frío Están Ambientados en el Mismo Universo: Las
-  Novelas de Zhu Yi (竹已) Explicadas
+title: "¿Hidden Love y First Frost están conectadas? Sí: Sang Zhi y Sang Yan son hermanos"
 date: '2026-04-24'
 updated: "2026-08-16"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  El Amor Oculto (偷偷藏不住) y Primer Frío (难哄) comparten personajes — no como una
-  teoría de fans, sino como una intención explícita de la autora Zhu Yi (竹已).
-  Sang Zhi es la hermana menor de Sang Yan. Aquí está cómo el universo
-  cinematográfico de Zhu Yi realmente se conecta, y lo que significa para los
-  espectadores que ven uno tras otro.
+description: "Hidden Love (偷偷藏不住) y First Frost (难哄) comparten el mismo universo por intención explícita de la autora, no por una teoría de fans. Sang Zhi es la hermana menor de Sang Yan. Te contamos cómo se conectan las novelas de Zhu Yi (竹已) y en qué orden verlas."
 originalSlug: hidden-love-first-frost-universe-connection-explained
 ---
 Si viste *El Amor Oculto* en Netflix en 2023 y luego viste *Primer Frío* en 2025, es posible que hayas notado un apellido familiar repitiéndose. El hermano mayor de Sang Zhi se llama Sang Yan. El protagonista masculino de *Primer Frío* también se llama Sang Yan. Los dos personajes tienen el mismo nombre porque son el mismo personaje.

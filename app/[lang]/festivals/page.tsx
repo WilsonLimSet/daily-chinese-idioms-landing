@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllFestivalsTranslated } from '@/src/lib/festivals';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/festivals',
         'en': '/festivals',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/festivals`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/festivals`])
         ),
       },
     },

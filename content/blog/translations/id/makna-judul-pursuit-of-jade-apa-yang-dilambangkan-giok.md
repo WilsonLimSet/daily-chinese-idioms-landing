@@ -1,17 +1,12 @@
 ---
-title: >-
-  Makna Judul *Pursuit of Jade* (逐玉): Apa yang Sebenarnya Dilambangkan oleh Giok
-  dalam Budaya Tiongkok
+title: "Nama Mandarin Pursuit of Jade adalah 逐玉 (Zhu Yu) — Apa Artinya dan Kenapa Drama Ini Begitu"
 date: '2026-03-18'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  Mengapa drama ini disebut *Pursuit of Jade*? Terjemahan literalnya hanya
-  menyentuh permukaan — inilah yang sebenarnya dimaksud dengan 逐玉 dalam budaya
-  Tiongkok dan mengapa judul ini adalah kunci dari pertunjukan.
+description: "Nama Mandarin Pursuit of Jade adalah 逐玉 (Zhu Yu), harfiah “mengejar giok”. Judul Inggrisnya tidak menangkap nuansa 逐 — pengejaran yang bernada obsesi, bukan sekadar ambisi. Ini makna giok dalam budaya Tiongkok dan kenapa nama 逐玉 jadi kunci untuk memahami dramanya."
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 ## Apa Arti *Pursuit of Jade* (逐玉)? — Jawaban Singkat

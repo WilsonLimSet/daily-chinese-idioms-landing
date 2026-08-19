@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { getAllCharacterPages } from '@/src/lib/characters';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 export const metadata: Metadata = {
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
       'x-default': '/characters',
       'en': '/characters',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/characters`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/characters`])
       ),
     },
   },

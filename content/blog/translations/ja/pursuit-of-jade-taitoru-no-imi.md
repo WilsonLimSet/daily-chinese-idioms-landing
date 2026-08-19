@@ -1,14 +1,12 @@
 ---
-title: Pursuit of Jade (逐玉) タイトルの意味：中国文化における翡翠の真の象徴
+title: "Pursuit of Jadeの中国語タイトルは逐玉（Zhu Yu）—名前の意味とドラマがそう呼ばれる理由"
 date: '2026-03-18'
 characters: ''
 pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  なぜドラマはPursuit of Jadeと呼ばれているのか？文字通りの翻訳は表面的なものに過ぎません —
-  ここでは、逐玉が中国文化で本当に意味することと、なぜそのタイトルがショーの鍵となるのかを説明します。
+description: "Pursuit of Jadeの中国語タイトルは逐玉（Zhu Yu）で、直訳すると「玉を追う」です。英題では「逐」が持つ、野心ではなく執着としての追求というニュアンスが薄れがち。中国文化における「玉」の象徴性と、この題名こそが作品の核心になる理由を解説します。"
 originalSlug: pursuit-of-jade-why-jade-symbolism-matters-chinese-culture
 ---
 ## *Pursuit of Jade* (逐玉) は何を意味するのか？ — 短い答え

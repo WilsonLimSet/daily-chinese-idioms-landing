@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, Languages, ChevronRight } from 'lucide-react';
 import { TIKTOK_CHINESE_SLANG } from '@/src/data/tiktok-chinese-slang';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/slang/tiktok-chinese',
       en: '/slang/tiktok-chinese',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/slang/tiktok-chinese`])),
+      ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/slang/tiktok-chinese`])),
     },
   },
   openGraph: {

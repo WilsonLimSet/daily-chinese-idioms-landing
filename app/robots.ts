@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next';
-import { LANGUAGE_CODES } from '@/src/lib/constants';
+import { LANGUAGE_CODES, isNoindexLanguage } from '@/src/lib/constants';
 
 export const dynamic = 'force-static';
 
@@ -9,8 +9,13 @@ export default function robots(): MetadataRoute.Robots {
   // Generate individual sitemap URLs to work around Next.js 15 bug
   // where generateSitemaps() doesn't create a sitemap index at /sitemap.xml
   // See: https://github.com/vercel/next.js/issues/77304
-  const sitemapCount = 2 + LANGUAGE_CODES.length; // 0=static+blog, 1=listicles, 2..14=languages
-  const sitemaps = Array.from({ length: sitemapCount }, (_, i) => `${baseUrl}/sitemap/${i}.xml`);
+  // Must stay in sync with generateSitemaps() in app/sitemap.ts: noindexed
+  // languages produce no sitemap, so advertising them would 404.
+  const sitemapIds = [0, 1];
+  LANGUAGE_CODES.forEach((lang, i) => {
+    if (!isNoindexLanguage(lang)) sitemapIds.push(i + 2);
+  });
+  const sitemaps = sitemapIds.map((i) => `${baseUrl}/sitemap/${i}.xml`);
 
   return {
     rules: [

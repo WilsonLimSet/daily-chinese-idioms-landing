@@ -1,5 +1,5 @@
 ---
-title: 'Pursuit of Jade (逐玉) 家系図とキャラクター関係: 三つの家族が一つの埋もれた犯罪を巡る'
+title: "Pursuit of Jade（逐玉）家系図＆相関図：Prince Changxin、Qi Sheng、Wei Qilinの正体は？"
 date: '2026-05-13'
 updated: "2026-08-02"
 characters: ''
@@ -7,9 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Relationships & Character
-description: >-
-  Pursuit of Jadeの家系図は、埋もれた中心を見なければ意味がありません:
-  第1話の前に亡くなった承德太子。謝、范、そして皇族の家族はそれぞれ彼の物語の異なる部分を担っています。誰が誰に関連しているのか、そして各血筋が実際に受け継いでいる傷とは何かを見ていきましょう。
+description: "Pursuit of Jadeの人間関係は第1話以前のある死――Crown Prince Chengde――からすべてが始まる。Prince Changxinとは何者か、Qi ShengとWei QilinがXie家・Fan家とどうつながるのか、全キャラクター相関図まで解説。"
 originalSlug: pursuit-of-jade-family-tree-character-relationships
 ---
 ## 誰が誰に関連しているのか？ — 短い答え

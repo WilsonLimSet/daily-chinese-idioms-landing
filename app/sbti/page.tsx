@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import { getAllListicles } from '@/src/lib/listicles';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/sbti',
       en: '/sbti',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/sbti`])),
+      ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/sbti`])),
     },
   },
   openGraph: {

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Cinta Tersembunyi dan Embun Pertama Terletak di Alam Semesta yang Sama:
-  Novel-novel Zhu Yi (竹已) Dijelaskan
+title: "Apakah Hidden Love dan First Frost Terhubung? Ya — Sang Zhi dan Sang Yan Bersaudara"
 date: '2026-04-24'
 updated: "2026-08-16"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  Cinta Tersembunyi (偷偷藏不住) dan Embun Pertama (难哄) berbagi karakter — bukan
-  sebagai teori penggemar, tetapi sebagai niat eksplisit dari penulis Zhu Yi
-  (竹已). Sang Zhi adalah adik perempuan Sang Yan. Berikut adalah bagaimana alam
-  semesta sinematik Zhu Yi sebenarnya terhubung, dan apa artinya bagi penonton
-  yang menonton satu setelah yang lain.
+description: "Hidden Love (偷偷藏不住) dan First Frost (难哄) berbagi satu dunia atas niat eksplisit penulisnya, bukan teori penggemar. Sang Zhi adalah adik perempuan Sang Yan. Ini cara novel-novel Zhu Yi (竹已) saling terhubung dan urutan tontonnya."
 originalSlug: hidden-love-first-frost-universe-connection-explained
 ---
 Jika Anda menonton *Cinta Tersembunyi* di Netflix pada tahun 2023 dan kemudian menonton *Embun Pertama* pada tahun 2025, Anda mungkin telah menangkap nama keluarga yang berulang. Kakak laki-laki Sang Zhi bernama Sang Yan. Tokoh utama pria di *Embun Pertama* juga bernama Sang Yan. Kedua karakter ini memiliki nama yang sama karena mereka adalah karakter yang sama.

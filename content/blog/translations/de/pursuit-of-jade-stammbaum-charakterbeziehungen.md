@@ -1,7 +1,5 @@
 ---
-title: >-
-  Pursuit of Jade (逐玉) Stammbaum & Charakterbeziehungen: Wie drei Familien ein
-  begrabenes Verbrechen umkreisen
+title: "Pursuit of Jade (逐玉) Stammbaum & Beziehungsübersicht: Wer Prince Changxin, Qi Sheng und Wei Qilin wirklich sind"
 date: '2026-05-13'
 updated: "2026-08-02"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Relationships & Character
-description: >-
-  Der Stammbaum von Pursuit of Jade macht nur Sinn, wenn man das begrabene
-  Zentrum sieht: Kronprinz Chengde, tot vor Episode 1. Die Familien Xie, Fan und
-  die kaiserliche Familie tragen jeweils ein anderes Stück seiner Geschichte.
-  Hier ist, wer mit wem verwandt ist — und welche Wunde jede Linie tatsächlich
-  erbt.
+description: "Jede Beziehung in Pursuit of Jade führt auf einen Todesfall vor Folge 1 zurück – Crown Prince Chengde. Wer Prince Changxin ist, wie Qi Sheng und Wei Qilin mit den Familien Xie und Fan verbunden sind, und die komplette Figuren-Übersicht."
 originalSlug: pursuit-of-jade-family-tree-character-relationships
 ---
 ## Wer ist mit wem in Pursuit of Jade verwandt? — Kurze Antwort

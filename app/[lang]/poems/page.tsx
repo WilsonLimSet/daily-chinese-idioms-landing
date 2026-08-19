@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { loadTranslatedPoems, POEM_THEMES } from '@/src/lib/poems';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/poems',
         'en': '/poems',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/poems`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/poems`])
         ),
       },
     },

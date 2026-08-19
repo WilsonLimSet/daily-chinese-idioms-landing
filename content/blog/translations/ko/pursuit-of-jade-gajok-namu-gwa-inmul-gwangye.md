@@ -1,5 +1,5 @@
 ---
-title: 'Pursuit of Jade (逐玉) 가족 나무 및 인물 관계: 세 가족이 하나의 묻힌 범죄를 중심으로 돌아가는 방법'
+title: "Pursuit of Jade(逐玉) 가계도·관계도: Prince Changxin, Qi Sheng, Wei Qilin은 대체 누구인가"
 date: '2026-05-13'
 updated: "2026-08-02"
 characters: ''
@@ -7,10 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Relationships & Character
-description: >-
-  Pursuit of Jade의 가족 나무는 묻힌 중심을 봐야만 이해할 수 있습니다: 에피소드 1 이전에 죽은 정덕 태자. Xie, Fan,
-  그리고 황실 가족은 각각 그의 이야기의 다른 조각을 지니고 있습니다. 누가 누구와 관련이 있는지 — 그리고 각 혈통이 실제로 어떤 상처를
-  물려받는지 알아보세요.
+description: "Pursuit of Jade의 모든 관계는 1화 이전의 한 죽음, Crown Prince Chengde에서 시작된다. Prince Changxin은 누구인지, Qi Sheng·Wei Qilin이 Xie·Fan 가문과 어떻게 연결되는지, 그리고 전체 인물 관계도까지 정리."
 originalSlug: pursuit-of-jade-family-tree-character-relationships
 ---
 ## 누가 누군가와 관련이 있나요? — 간단한 답변

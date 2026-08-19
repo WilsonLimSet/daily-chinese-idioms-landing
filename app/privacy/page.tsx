@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Metadata } from 'next'
-import { LANGUAGES } from '@/src/lib/constants'
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy | Chinese Idioms',
@@ -20,7 +20,7 @@ export const metadata: Metadata = {
       'x-default': '/privacy',
       'en': '/privacy',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/privacy`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/privacy`])
       ),
     },
   },

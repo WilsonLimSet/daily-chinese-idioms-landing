@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Metadata } from 'next'
-import { LANGUAGES } from '@/src/lib/constants'
+import { LANGUAGES, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants'
 import { getTranslation } from '@/src/lib/translations'
 
 export function generateStaticParams() {
@@ -52,7 +52,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/privacy',
         'en': '/privacy',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/privacy`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/privacy`])
         ),
       },
     },

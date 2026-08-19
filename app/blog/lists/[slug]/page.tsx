@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, ChevronRight } from 'lucide-react';
 import { getAllListicles, getListicleWithIdioms, getLocalizedSlug, getRelatedListicles } from '@/src/lib/listicles';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         'x-default': `/blog/lists/${slug}`,
         'en': `/blog/lists/${slug}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog/lists/${getLocalizedSlug(slug, lang)}`])
+          ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/blog/lists/${getLocalizedSlug(slug, lang)}`])
         ),
       },
     },

@@ -30,7 +30,12 @@ interface AdUnitProps {
 const AD_CONFIG = {
   'display':    { slot: '7070641816', format: 'auto',         layout: undefined,    responsive: true,  minHeight: 280, minHeightDesktop: 320 },
   'in-article': { slot: '6077124349', format: 'fluid',        layout: 'in-article', responsive: false, minHeight: 300, minHeightDesktop: 350 },
-  'multiplex':  { slot: '9571857660', format: 'autorelaxed',  layout: undefined,    responsive: false, minHeight: 400, minHeightDesktop: 500 },
+  // Article-footer unit. Was 'autorelaxed' (Multiplex) until Aug 2026: over 28d it
+  // produced 40% of all ad impressions for 21% of revenue — SGD 0.43 per 1k
+  // impressions against 0.85 for display and 0.75 for in-article. Switched to the
+  // display slot's auto format, which is rectangle-capable and the best-yielding
+  // unit on the site. Slot count is unchanged; this is a format swap, not density.
+  'multiplex':  { slot: '7070641816', format: 'auto',         layout: undefined,    responsive: true,  minHeight: 280, minHeightDesktop: 320 },
 } as const;
 
 export default function AdUnit({ type, className = '', priority = false }: AdUnitProps) {
@@ -97,14 +102,14 @@ export default function AdUnit({ type, className = '', priority = false }: AdUni
     switch (type) {
       case 'display':    return 'min-h-[280px] md:min-h-[320px]';
       case 'in-article': return 'min-h-[300px] md:min-h-[350px]';
-      case 'multiplex':  return 'min-h-[400px] md:min-h-[500px]';
+      case 'multiplex':  return 'min-h-[280px] md:min-h-[320px]';
     }
   })();
 
   return (
     <div
       ref={containerRef}
-      className={`my-8 text-center w-full ${minHClass} ${className}`}
+      className={`ad-slot my-8 text-center w-full ${minHClass} ${className}`}
     >
       {inView && (
         <ins

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, ChevronRight, Sparkles, Globe, Zap } from 'lucide-react';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/sbti/what-is',
       en: '/sbti/what-is',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/sbti/what-is`])),
+      ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/sbti/what-is`])),
     },
   },
   openGraph: {

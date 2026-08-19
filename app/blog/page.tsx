@@ -1,6 +1,6 @@
 import { getAllBlogPosts } from '@/src/lib/blog';
 import { getAllListicles } from '@/src/lib/listicles';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import BlogClient from './BlogClient';
 import Link from 'next/link';
 import { BookOpen } from 'lucide-react';
@@ -25,7 +25,7 @@ export const metadata = {
       'x-default': '/blog',
       'en': '/blog',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/blog`])
       ),
     },
     types: {

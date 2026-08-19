@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { BookOpen, Search, Layers, ArrowRight } from 'lucide-react'
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations'
-import { LANGUAGES } from '@/src/lib/constants'
+import { LANGUAGES, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants'
 import LanguageSelector from '../components/LanguageSelector'
 import { getAllBlogPosts } from '@/src/lib/blog'
 import { getAllListicles, getAllListiclesTranslated } from '@/src/lib/listicles'
@@ -61,7 +61,7 @@ export async function generateMetadata({
         'x-default': '/',
         'en': '/',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}`])
+          ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}`])
         ),
       },
     },

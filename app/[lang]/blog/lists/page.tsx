@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen } from 'lucide-react';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import ListicleFilter from '@/app/components/ListicleFilter';
@@ -40,7 +40,7 @@ export async function generateMetadata({
         'x-default': '/blog/lists',
         'en': '/blog/lists',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/blog/lists`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/blog/lists`])
         ),
       },
     },

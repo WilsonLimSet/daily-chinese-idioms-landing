@@ -1,5 +1,5 @@
 ---
-title: "Pursuit of Jade (逐玉) Family Tree & Character Relationships: How Three Families Orbit One Buried Crime"
+title: "Pursuit of Jade (逐玉) Family Tree & Relationship Chart: Who Prince Changxin, Qi Sheng and Wei Qilin Really Are"
 date: "2026-05-13"
 updated: "2026-08-02"
 characters: ""
@@ -7,7 +7,7 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Relationships & Character"
-description: "Pursuit of Jade's family tree only makes sense once you see the buried center: Crown Prince Chengde, dead before Episode 1. The Xie, Fan, and imperial families each carry a different piece of his story. Here's who's related to whom — and what wound each lineage actually inherits."
+description: "Every relationship in Pursuit of Jade traces back to one death before Episode 1 — Crown Prince Chengde. Who Prince Changxin is, how Qi Sheng and Wei Qilin connect to the Xie and Fan families, and the full character chart."
 ---
 
 ## Who's Related to Whom in Pursuit of Jade? — Short Answer

@@ -1,5 +1,5 @@
 ---
-title: "Hidden Love and First Frost Are Set in the Same Universe: The Zhu Yi (竹已) Novels Explained"
+title: "Are Hidden Love and First Frost Connected? Yes — Sang Zhi and Sang Yan Are Siblings"
 date: "2026-04-24"
 updated: "2026-08-16"
 characters: ""
@@ -7,7 +7,7 @@ pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Life Philosophy"
-description: "Hidden Love (偷偷藏不住) and First Frost (难哄) share characters — not as a fan theory, but as explicit intent from author Zhu Yi (竹已). Sang Zhi is Sang Yan's younger sister. Here's how the Zhu Yi cinematic universe actually connects, and what it means for viewers watching one after the other."
+description: "Hidden Love (偷偷藏不住) and First Frost (难哄) share a world by the author's explicit intent, not fan theory. Sang Zhi is Sang Yan's younger sister. Here's how Zhu Yi's (竹已) novels connect and what order to watch them in."
 ---
 
 If you watched *Hidden Love* on Netflix in 2023 and then watched *First Frost* in 2025, you may have caught a family name repeating. Sang Zhi's older brother is named Sang Yan. *First Frost*'s male lead is also named Sang Yan. The two characters have the same name because they are the same character.

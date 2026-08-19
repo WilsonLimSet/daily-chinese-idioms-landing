@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { Search, BookOpen, Languages, Sparkles } from 'lucide-react';
 import AdUnit from '@/app/components/AdUnit';
 import { getAllBlogPosts } from '@/src/lib/blog';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
 export const metadata: Metadata = {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
       'x-default': '/dictionary',
       'en': '/dictionary',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/dictionary`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/dictionary`])
       ),
     },
   },

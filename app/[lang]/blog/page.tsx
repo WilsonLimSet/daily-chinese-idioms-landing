@@ -1,6 +1,6 @@
 import { getAllBlogPosts } from '@/src/lib/blog-intl';
 import BlogClient from '@/app/blog/BlogClient';
-import { LANGUAGES } from '@/src/lib/constants';
+import { LANGUAGES, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import { getAllListiclesTranslated } from '@/src/lib/listicles';
 import Link from 'next/link';
@@ -74,7 +74,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/blog',
         'en': '/blog',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/blog`])
+          ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/blog`])
         ),
       },
     },

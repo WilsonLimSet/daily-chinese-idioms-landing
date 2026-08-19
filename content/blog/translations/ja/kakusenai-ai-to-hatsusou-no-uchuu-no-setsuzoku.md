@@ -1,5 +1,5 @@
 ---
-title: 隠された愛と初霜は同じ宇宙に設定されています：竹已の小説の解説
+title: "Hidden LoveとFirst Frostはつながってる？ はい——Sang ZhiとSang Yanは兄妹"
 date: '2026-04-24'
 updated: "2026-08-16"
 characters: ''
@@ -7,9 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  隠された愛（偷偷藏不住）と初霜（难哄）はキャラクターを共有しています —
-  ファン理論ではなく、著者竹已の明示的な意図として。桑稚は桑延の妹です。竹已のシネマティックユニバースがどのように実際に繋がっているのか、そして一方のドラマだけを見た場合に視聴者が何を見逃しているのかを説明します。
+description: "Hidden Love（偷偷藏不住）とFirst Frost（难哄）は、ファンの憶測ではなく作者・Zhu Yi（竹已）が明確に同じ世界観だと示している作品です。Sang ZhiはSang Yanの妹。竹已の原作小説がどうつながるのか、そして視聴する順番をわかりやすく解説します。"
 originalSlug: hidden-love-first-frost-universe-connection-explained
 ---
 もし2023年にNetflixで*隠された愛*を見て、2025年に*初霜*を見たなら、繰り返される姓に気づいたかもしれません。桑稚の兄は桑延と名付けられています。*初霜*の男性主人公も桑延と名付けられています。この二人のキャラクターは同じ名前を持っているのは、同じキャラクターだからです。

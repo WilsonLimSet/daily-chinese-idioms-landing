@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import { ArrowLeft, Languages, ChevronRight } from 'lucide-react';
 import { getAllSbtiTypesEn, typeCodeToSlug } from '@/src/lib/sbti';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/sbti/slang',
       en: '/sbti/slang',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/sbti/slang`])),
+      ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/sbti/slang`])),
     },
   },
   openGraph: {

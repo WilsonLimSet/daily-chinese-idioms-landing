@@ -1,7 +1,5 @@
 ---
-title: >-
-  Pursuit of Jade (逐玉) Pohon Keluarga & Hubungan Karakter: Bagaimana Tiga
-  Keluarga Mengorbit Satu Kejahatan yang Terkubur
+title: "Pursuit of Jade (逐玉) Silsilah Keluarga & Bagan Relasi: Siapa Prince Changxin, Qi Sheng, Wei Qilin?"
 date: '2026-05-13'
 updated: "2026-08-02"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Relationships & Character
-description: >-
-  Pohon keluarga Pursuit of Jade hanya masuk akal setelah Anda melihat pusat
-  yang terkubur: Pangeran Mahkota Chengde, yang mati sebelum Episode 1. Keluarga
-  Xie, Fan, dan keluarga kekaisaran masing-masing membawa bagian berbeda dari
-  ceritanya. Berikut adalah siapa yang terkait dengan siapa — dan luka apa yang
-  sebenarnya diwarisi setiap garis keturunan.
+description: "Setiap hubungan di Pursuit of Jade bermula dari satu kematian sebelum Episode 1—Crown Prince Chengde. Siapa sebenarnya Prince Changxin, bagaimana Qi Sheng dan Wei Qilin terhubung dengan keluarga Xie dan Fan, serta bagan karakter lengkap."
 originalSlug: pursuit-of-jade-family-tree-character-relationships
 ---
 ## Siapa yang Terkait dengan Siapa di Pursuit of Jade? — Jawaban Singkat

@@ -43,3 +43,15 @@ body {
     animation: none;
   }
 }
+
+/* AdSense stamps data-ad-status="unfilled" on the <ins> when it returns no ad.
+   Collapse only that case, so an unfilled slot stops leaving a 300-500px white
+   gap mid-article. Deliberately matched on "unfilled" rather than "not filled":
+   before the ad is requested the <ins> carries no status at all, and collapsing
+   then would remove the reserved height that prevents CLS when the ad arrives. */
+ins.adsbygoogle[data-ad-status="unfilled"] {
+  display: none !important;
+}
+.ad-slot:has(ins.adsbygoogle[data-ad-status="unfilled"]) {
+  min-height: 0;
+}

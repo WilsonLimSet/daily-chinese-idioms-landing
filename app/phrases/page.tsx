@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, Globe } from 'lucide-react';
 import { getAllPhrases, PHRASE_CATEGORIES } from '@/src/lib/phrases';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
       'x-default': '/phrases',
       'en': '/phrases',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/phrases`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/phrases`])
       ),
     },
   },

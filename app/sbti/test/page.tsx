@@ -1,6 +1,6 @@
 import { Metadata } from 'next';
 import Script from 'next/script';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getQuizEn } from '@/src/lib/sbti-quiz';
 import QuizClient from './QuizClient';
 
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     languages: {
       'x-default': '/sbti/test',
       en: '/sbti/test',
-      ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `/${l}/sbti/test`])),
+      ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/sbti/test`])),
     },
   },
   openGraph: {

@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getAllPoems, loadTranslatedPoems, getTranslatedPoemBySlug } from '@/src/lib/poems';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -47,7 +47,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         'x-default': `/poems/${slug}`,
         'en': `/poems/${slug}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/poems/${slug}`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/poems/${slug}`])
         ),
       },
     },

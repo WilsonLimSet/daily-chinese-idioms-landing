@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, ArrowUpRight } from 'lucide-react';
 import { getAllSlangTerms, loadTranslatedSlang, getTranslatedSlangBySlug } from '@/src/lib/slang';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         'x-default': `/slang/${slug}`,
         'en': `/slang/${slug}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/slang/${slug}`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/slang/${slug}`])
         ),
       },
     },

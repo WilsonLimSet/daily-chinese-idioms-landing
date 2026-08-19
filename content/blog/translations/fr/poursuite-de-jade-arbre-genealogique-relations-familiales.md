@@ -1,7 +1,5 @@
 ---
-title: >-
-  Poursuite de Jade (逐玉) Arbre Généalogique & Relations Familiales : Comment
-  Trois Familles Orbitent Un Crime Enfoui
+title: "Pursuit of Jade (逐玉) : arbre généalogique & liens — qui sont vraiment Prince Changxin, Qi Sheng, Wei Qilin ?"
 date: '2026-05-13'
 updated: "2026-08-02"
 characters: ''
@@ -9,12 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Relationships & Character
-description: >-
-  L'arbre généalogique de Poursuite de Jade n'a de sens qu'une fois que vous
-  voyez le centre enfoui : le Prince Héritier Chengde, mort avant l'Épisode 1.
-  Les familles Xie, Fan et impériale portent chacune un morceau différent de son
-  histoire. Voici qui est lié à qui — et quelle blessure chaque lignée hérite
-  réellement.
+description: "Dans Pursuit of Jade, tous les liens remontent à une mort survenue avant l’épisode 1 : celle du Crown Prince Chengde. Qui est Prince Changxin, comment Qi Sheng et Wei Qilin sont liés aux familles Xie et Fan, et le tableau complet des personnages."
 originalSlug: pursuit-of-jade-family-tree-character-relationships
 ---
 ## Qui est lié à qui dans Poursuite de Jade ? — Réponse courte

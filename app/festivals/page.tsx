@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft, ChevronRight } from 'lucide-react';
 import { getAllFestivals } from '@/src/lib/festivals';
 import { getAllListicles } from '@/src/lib/listicles';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
       'x-default': '/festivals',
       'en': '/festivals',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/festivals`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/festivals`])
       ),
     },
   },

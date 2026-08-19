@@ -1,5 +1,5 @@
 ---
-title: '숨겨진 사랑과 첫 서리가 같은 세계관에 설정되어 있습니다: 주이(竹已) 소설 설명'
+title: "Hidden Love와 First Frost는 연결돼 있나요? 네 — Sang Zhi와 Sang Yan은 남매입니다"
 date: '2026-04-24'
 updated: "2026-08-16"
 characters: ''
@@ -7,10 +7,7 @@ pinyin: ''
 meaning: ''
 metaphoric_meaning: ''
 theme: Life Philosophy
-description: >-
-  숨겨진 사랑 (偷偷藏不住)과 첫 서리 (难哄)는 캐릭터를 공유합니다 — 팬 이론이 아니라 저자 주이 (竹已)의 명백한 의도입니다. 상지는
-  상연의 여동생입니다. 주이의 영화적 세계관이 실제로 어떻게 연결되는지, 그리고 두 드라마를 연속으로 시청하는 관객에게 어떤 의미가 있는지
-  알아보세요.
+description: "Hidden Love(偷偷藏不住)와 First Frost(难哄)는 팬들의 추측이 아니라 작가 Zhu Yi(竹已)가 명확히 의도한 설정으로 같은 세계관을 공유합니다. Sang Zhi는 Sang Yan의 여동생입니다. Zhu Yi(竹已) 소설들이 어떻게 이어지는지와 어떤 순서로 보면 좋은지 정리했습니다."
 originalSlug: hidden-love-first-frost-universe-connection-explained
 ---
 *2023년 넷플릭스에서 *숨겨진 사랑*을 보고 2025년에 *첫 서리*를 보았다면, 반복되는 성씨를 발견했을지도 모릅니다. 상지의 형은 상연이라고 불립니다. *첫 서리*의 남자 주인공도 상연이라고 불립니다. 두 캐릭터는 같은 이름을 가지고 있지만, 같은 캐릭터이기 때문입니다.*

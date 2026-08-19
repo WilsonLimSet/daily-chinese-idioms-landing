@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
 import { HSK_LEVEL_DESCRIPTIONS, getHSKByLevel } from '@/src/lib/hsk';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
       'x-default': '/hsk',
       'en': '/hsk',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/hsk`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/hsk`])
       ),
     },
   },

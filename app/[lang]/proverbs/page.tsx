@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, BookOpen, Heart, Trophy, Shield, GraduationCap, Scale } from 'lucide-react';
 import { getProverbListiclesGrouped, type ProverbGroupKey, type TranslatedListicle, type Listicle } from '@/src/lib/listicles';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation, translations } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 
@@ -82,7 +82,7 @@ export async function generateMetadata({
       languages: {
         'x-default': 'https://www.chineseidioms.com/proverbs',
         'en': 'https://www.chineseidioms.com/proverbs',
-        ...Object.fromEntries(Object.keys(LANGUAGES).map(l => [l, `https://www.chineseidioms.com/${l}/proverbs`])),
+        ...Object.fromEntries(ACTIVE_LANGUAGE_CODES.map(l => [l, `https://www.chineseidioms.com/${l}/proverbs`])),
       },
     },
   };

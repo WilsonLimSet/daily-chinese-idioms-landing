@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Analytics } from "@vercel/analytics/react"
+import { Analytics } from "@vercel/analytics/next"
 import Script from "next/script";
 import "./globals.css";
 
@@ -75,6 +75,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -107,15 +109,17 @@ export default function RootLayout({
       <body className="antialiased">
         {children}
         <Analytics />
-        {/* AdSense loader — lazyOnload keeps it out of the LCP path. Ad
-            containers reserve their own heights to prevent CLS. Individual
-            AdUnit components queue themselves via adsbygoogle.push() once
-            in viewport (or immediately if priority=true). */}
+        {/* AdSense loader. Was lazyOnload (waits for window.load) until Aug 2026;
+            on a mid-tier phone that pushed first ad render to 3-5s and readers who
+            bounced first produced a pageview with no ad request. afterInteractive
+            starts the fetch once the page is interactive but still off the LCP
+            path. Per-slot lazy-loading is unchanged — AdUnit only calls
+            adsbygoogle.push() when its container nears the viewport. */}
         <Script
           id="adsense-loader"
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5703994433505618"
           crossOrigin="anonymous"
-          strategy="lazyOnload"
+          strategy="afterInteractive"
         />
       </body>
     </html>

@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, Globe, ChevronRight } from 'lucide-react';
 import { getAllPhrases, getPhraseBySlug, getRelatedPhrases } from '@/src/lib/phrases';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -40,7 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
         'x-default': `/phrases/${slug}`,
         'en': `/phrases/${slug}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/phrases/${slug}`])
+          ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/phrases/${slug}`])
         ),
       },
     },

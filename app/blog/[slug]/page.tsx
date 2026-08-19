@@ -1,4 +1,5 @@
 import { getBlogPost, getAllBlogPosts, type BlogPost } from '@/src/lib/blog';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getLocalizedSlugsForOriginal } from '@/src/lib/blog-intl';
 import { getListiclesForIdiom } from '@/src/lib/listicles';
 import { getDramaForBlogSlug, getRelatedDramas, getPostsForDrama } from '@/src/lib/dramas';
@@ -113,7 +114,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
           'en': `/blog/${slug}`,
           ...Object.fromEntries(
             Object.entries(slugMap)
-              .filter(([l]) => l !== 'en')
+              .filter(([l]) => (ACTIVE_LANGUAGE_CODES as readonly string[]).includes(l))
               .map(([l, s]) => [l, `/${l}/blog/${s}`])
           ),
         },

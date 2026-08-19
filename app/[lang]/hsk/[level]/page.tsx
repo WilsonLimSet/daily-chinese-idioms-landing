@@ -3,7 +3,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { ArrowLeft, GraduationCap } from 'lucide-react';
 import { HSK_LEVEL_DESCRIPTIONS, HSK_EXAM_INFO, HSK_LISTICLES, getTranslatedHSKByLevel } from '@/src/lib/hsk';
-import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, LANGUAGE_CONFIG, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -51,7 +51,7 @@ export async function generateMetadata({ params }: { params: Promise<{ level: st
         'x-default': `/hsk/${level}`,
         'en': `/hsk/${level}`,
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/hsk/${level}`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/hsk/${level}`])
         ),
       },
     },

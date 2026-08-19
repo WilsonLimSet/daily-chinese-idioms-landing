@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { SLANG_CATEGORIES, loadTranslatedSlang, getSlangEras } from '@/src/lib/slang';
 import SlangEraFilter from '@/app/components/SlangEraFilter';
-import { LANGUAGES, LOCALE_MAP } from '@/src/lib/constants';
+import { LANGUAGES, LOCALE_MAP, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
         'x-default': '/slang',
         'en': '/slang',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/slang`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/slang`])
         ),
       },
     },

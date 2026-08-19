@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { Search, BookOpen, Languages, Sparkles } from 'lucide-react';
 import { getAllBlogPosts } from '@/src/lib/blog-intl';
-import { LANGUAGES } from '@/src/lib/constants';
+import { LANGUAGES, ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import { getTranslation, getThemeTranslation } from '@/src/lib/translations';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
@@ -60,7 +60,7 @@ export async function generateMetadata({
         'x-default': '/dictionary',
         'en': '/dictionary',
         ...Object.fromEntries(
-          Object.keys(LANGUAGES).map(l => [l, `/${l}/dictionary`])
+          ACTIVE_LANGUAGE_CODES.map(l => [l, `/${l}/dictionary`])
         ),
       },
     },

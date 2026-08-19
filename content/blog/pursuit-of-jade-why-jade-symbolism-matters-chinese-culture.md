@@ -1,12 +1,12 @@
 ---
-title: "Pursuit of Jade (逐玉) Title Meaning: What Jade Really Symbolizes in Chinese Culture"
+title: "Pursuit of Jade in Chinese Is 逐玉 (Zhu Yu) — What the Name Means and Why the Drama Is Called That"
 date: "2026-03-18"
 characters: ""
 pinyin: ""
 meaning: ""
 metaphoric_meaning: ""
 theme: "Life Philosophy"
-description: "Why is the drama called Pursuit of Jade? The literal translation barely scratches the surface — here's what 逐玉 really means in Chinese culture and why the title is the key to the show."
+description: "Pursuit of Jade's Chinese name is 逐玉 (Zhu Yu), literally “chasing jade.” The English title loses what 逐 carries — pursuit as obsession, not ambition. Here's what jade signifies in Chinese culture and why the name is the key to the show."
 ---
 
 ## What Does *Pursuit of Jade* (逐玉) Mean? — Short Answer

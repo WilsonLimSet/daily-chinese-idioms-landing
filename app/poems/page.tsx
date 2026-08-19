@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft } from 'lucide-react';
 import { getAllPoems, POEM_THEMES, getUniquePoets } from '@/src/lib/poems';
-import { LANGUAGES } from '@/src/lib/constants';
+import { ACTIVE_LANGUAGE_CODES } from '@/src/lib/constants';
 import LanguageSelector from '@/app/components/LanguageSelector';
 import AdUnit from '@/app/components/AdUnit';
 
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
       'x-default': '/poems',
       'en': '/poems',
       ...Object.fromEntries(
-        Object.keys(LANGUAGES).map(lang => [lang, `/${lang}/poems`])
+        ACTIVE_LANGUAGE_CODES.map(lang => [lang, `/${lang}/poems`])
       ),
     },
   },
